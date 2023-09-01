@@ -1,0 +1,55 @@
+<collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+  <metadata>
+    <md:content-id>col00001</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>Makroekonomia</md:title>
+    <md:language>en</md:language>
+    <md:version>1693560712</md:version>
+    <md:created>2023-09-01T09:31:52.751145506+00:00</md:created>
+    <md:revised>2023-09-01T09:31:52.751145506+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>823ae3e1-57c4-44c5-b54a-310091040cf6</md:uuid>
+    <md:slug>col00001</md:slug>
+  </metadata>
+  <content>
+    <subcollection>
+      <md:title>1 Wstęp do makroekonomii</md:title>
+      <content>
+        <module document="m00001" />
+        <module document="m00002" />
+        <module document="m00003" />
+        <module document="m00004" />
+        <module document="m00005" />
+        <module document="m00006" />
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>2 Wzrost gospodarczy</md:title>
+      <content>
+        <module document="m00007" />
+        <module document="m00008" />
+        <module document="m00009" />
+        <module document="m00010" />
+        <module document="m00011" />
+      </content>
+    </subcollection>
+    <subcollection>
+      <md:title>3 Bezrobocie</md:title>
+      <content>
+        <module document="m00012" />
+        <module document="m00013" />
+        <module document="m00014" />
+        <module document="m00015" />
+        <module document="m00016" />
+      </content>
+    </subcollection>
+</collection>
