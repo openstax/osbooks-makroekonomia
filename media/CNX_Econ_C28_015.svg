@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg38016"
+   width="605.5813"
+   height="327.78668"
+   viewBox="0 0 605.5813 327.78669"
+   sodipodi:docname="CNX_Econ_C28_015.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs38020" />
+  <sodipodi:namedview
+     id="namedview38018"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.1841852"
+     inkscape:cx="328.07368"
+     inkscape:cy="86.135175"
+     inkscape:window-width="1848"
+     inkscape:window-height="1043"
+     inkscape:window-x="1438"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g38024"
+     showguides="true">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page38022"
+       width="605.5813"
+       height="327.78668" />
+    <sodipodi:guide
+       position="180.54486,44.919879"
+       orientation="1,0"
+       id="guide77980"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-109.27466,36.992809"
+       orientation="1,0"
+       id="guide77982"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="196.52432,3.6032294"
+       orientation="1,0"
+       id="guide77984"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="486.34389,3.7542694"
+       orientation="1,0"
+       id="guide77986"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="794.50794,-42.999971"
+       orientation="0,-1"
+       id="guide2717"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="794.50794,-110.41864"
+       orientation="0,-1"
+       id="guide2719"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="794.50794,-157.66664"
+       orientation="0,-1"
+       id="guide2721"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="795.17461,-225.0853"
+       orientation="0,-1"
+       id="guide2723"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="794.84128,-276.33317"
+       orientation="0,-1"
+       id="guide2725"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="794.84128,-343.75197"
+       orientation="0,-1"
+       id="guide2727"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="294.0796,148.93605"
+       orientation="1,0"
+       id="guide2495"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="g38024"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,-113.52536,691.43192)">
+    <path
+       d="M 454.18299,228.47395 H 908.36898"
+       style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path37733-0" />
+    <path
+       d="M 454.18299,142.47395 H 908.36898"
+       style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path37765-6" />
+    <path
+       d="M 454.18299,53.473846 H 908.36898"
+       style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path37797-4" />
+    <g
+       id="g2583">
+      <path
+         d="M 85.14402,506.56395 H 539.33001"
+         style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path37733-3" />
+      <path
+         d="m 312.23601,518.57395 v -50.564"
+         style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path37735-6" />
+      <path
+         d="M 85.14402,420.56395 H 539.33001"
+         style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path37765-7" />
+      <path
+         d="m 312.23601,432.57395 v -50.564"
+         style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path37767-5" />
+      <path
+         d="M 85.14402,331.56384 H 539.33001"
+         style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path37797-3" />
+      <path
+         d="m 312.23601,343.57404 v -50.5641"
+         style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path37799-5" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-4-6"
+         x="301.14514"
+         y="-496.13303"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="301.14514"
+           y="-496.13303"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-6-2">40</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-3-7-9"
+         x="298.60022"
+         y="-483.10245"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="298.60022"
+           y="-483.10245"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-7-6-1">120</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-09-2"
+         x="298.60022"
+         y="-469.6012"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="298.60022"
+           y="-469.6012"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-7-7">300</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-4-5-09"
+         x="279.17642"
+         y="-410.13303"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="279.17642"
+           y="-410.13303"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-6-9-3">40 − 30 = 10</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-3-7-7-6"
+         x="275.35803"
+         y="-396.89066"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="275.35803"
+           y="-396.89066"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-7-6-8-0">120 + 30 =150</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-09-5-6"
+         x="298.60022"
+         y="-384.54926"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="298.60022"
+           y="-384.54926"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-7-3-2">300</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-4-3-6"
+         x="279.17639"
+         y="-321.1329"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="279.17639"
+           y="-321.1329"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-6-8-1">10 + 30 = 40</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-3-7-3-8"
+         x="298.60022"
+         y="-307.96085"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="298.60022"
+           y="-307.96085"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-7-6-7-7">150</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-09-9-9"
+         x="274.08655"
+         y="-295.54913"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="274.08655"
+           y="-295.54913"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-7-37-20">300 + 30 = 270</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-6-2"
+         x="144.31903"
+         y="-449.71841"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="144.31903"
+           y="-449.71841"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-4-3">(a) Bilans na początku analizy</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-6-9-7"
+         x="257.32086"
+         y="-363.71841"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="257.32086"
+           y="-363.71841"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-4-4-5">(b) Bank centralny sprzedaje papiery wartościowe w ramach operacji otwartego rynku</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="257.32086"
+           y="-353.59143"
+           id="tspan2713-4" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="257.32086"
+           y="-343.46445"
+           id="tspan2715-7" /></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-6-6-9"
+         x="191.95178"
+         y="-274.39801"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="191.95178"
+           y="-274.39801"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-4-0-2">(c) Szczęśliwy Bank udziela mniejszej liczby kredytów</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-4-58-2"
+         x="525.94421"
+         y="-496.13303"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="525.94421"
+           y="-496.13303"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-6-4-8">400</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-09-3-9"
+         x="528.48914"
+         y="-470.54922"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="528.48914"
+           y="-470.54922"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-7-8-7">60</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-4-5-0-3"
+         x="525.94421"
+         y="-410.13303"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="525.94421"
+           y="-410.13303"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-6-9-9-6">400</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-09-5-9-1"
+         x="528.48914"
+         y="-384.54926"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="528.48914"
+           y="-384.54926"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-7-3-3-2">60</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-4-3-2-9"
+         x="525.94421"
+         y="-321.1329"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="525.94421"
+           y="-321.1329"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-6-8-4-3">400</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-09-9-1-1"
+         x="528.48914"
+         y="-295.54913"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="528.48914"
+           y="-295.54913"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-7-37-2-9">60</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-29-0-5-8"
+         x="198.86078"
+         y="-510.61307"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           x="198.86078"
+           y="-510.61307"
+           id="tspan4232-0-4-6-5-2-6-7-0-1-9-0-4">Aktywa</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-6-2-3-4-5"
+         x="425.90021"
+         y="-510.26541"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           x="425.90021"
+           y="-510.26541"
+           id="tspan4232-0-4-6-5-2-6-7-4-7-6-8-0">Pasywa + Wartość netto</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-29-0-7-3"
+         x="198.86078"
+         y="-424.61307"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           x="198.86078"
+           y="-424.61307"
+           id="tspan4232-0-4-6-5-2-6-7-0-1-9-1-6">Aktywa</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-6-2-3-7-1"
+         x="425.90021"
+         y="-424.26541"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           x="425.90021"
+           y="-424.26541"
+           id="tspan4232-0-4-6-5-2-6-7-4-7-6-2-0">Pasywa + Wartość netto</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-29-0-72-6"
+         x="198.86078"
+         y="-335.61298"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           x="198.86078"
+           y="-335.61298"
+           id="tspan4232-0-4-6-5-2-6-7-0-1-9-2-3">Aktywa</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-6-2-3-6-2"
+         x="425.90021"
+         y="-335.26532"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
+           x="425.90021"
+           y="-335.26532"
+           id="tspan4232-0-4-6-5-2-6-7-4-7-6-1-0">Pasywa + Wartość netto</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-51-8-0-6"
+         x="105.76395"
+         y="-321.23837"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="105.76395"
+           y="-321.23837"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-0-4-6-1">Rezerwy</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-3-3-3-1-5"
+         x="129.89478"
+         y="-307.96173"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="129.89478"
+           y="-307.96173"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-7-7-1-5-5">Papiery wartościowe</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-8-4-9-4"
+         x="105.76981"
+         y="-294.46048"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="105.76981"
+           y="-294.46048"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-8-9-4-7">Pożyczki</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-51-8-9-6"
+         x="105.76395"
+         y="-410.23849"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="105.76395"
+           y="-410.23849"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-0-4-0-5">Rezerwy</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-3-3-3-9-6"
+         x="129.89478"
+         y="-396.67572"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="129.89478"
+           y="-396.67572"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-7-7-1-1-9">Papiery wartościowe</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-8-4-7-3"
+         x="105.76981"
+         y="-383.46057"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="105.76981"
+           y="-383.46057"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-8-9-7-7">Pożyczki</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-51-8-1-4"
+         x="105.76395"
+         y="-496.23849"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="105.76395"
+           y="-496.23849"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-0-4-1-5">Rezerwy</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-3-3-3-5-2"
+         x="129.89478"
+         y="-482.67572"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="129.89478"
+           y="-482.67572"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-7-7-1-9-5">Papiery wartościowe</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-8-4-77-4"
+         x="105.76981"
+         y="-469.46057"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="105.76981"
+           y="-469.46057"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-8-9-6-7">Pożyczki</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-8-9-7-4"
+         x="335.83289"
+         y="-496.23849"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="335.83289"
+           y="-496.23849"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-74-4-3-4">Depozyty</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-9-7-6-3"
+         x="345.36804"
+         y="-469.11292"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="345.36804"
+           y="-469.11292"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-88-8-5-0">Wartość netto</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-8-9-6-7"
+         x="335.83289"
+         y="-410.23849"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="335.83289"
+           y="-410.23849"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-74-4-39-8">Depozyty</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-9-7-4-6"
+         x="345.36804"
+         y="-384.06094"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="345.36804"
+           y="-384.06094"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-88-8-8-8">Wartość netto</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-8-9-1-8"
+         x="335.83289"
+         y="-321.23837"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="335.83289"
+           y="-321.23837"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-74-4-2-4">Depozyty</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-1-7-9-7-9-3"
+         x="345.36804"
+         y="-295.06085"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="345.36804"
+           y="-295.06085"
+           id="tspan4232-0-4-6-5-2-6-7-0-5-2-88-8-3-1">Wartość netto</tspan></text>
+    </g>
+  </g>
+</svg>
