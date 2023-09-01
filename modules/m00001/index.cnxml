@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uefc833c2-0fd1-44f5-80ca-8420aaee9966" id="Uefc833c2-0fd1-44f5-80ca-8420aaee9966" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do makroekonomii</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00001</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/efc833c2-0fd1-44f5-80ca-8420aaee9966</md:content-url>
+    <md:title>Wprowadzenie do makroekonomii</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:02.152606936+00:00</md:version>
+    <md:created>2023-08-30T08:02:02.152606936+00:00</md:created>
+    <md:revised>2023-08-30T08:02:02.152606936+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:abstract />
+    <md:uuid>efc833c2-0fd1-44f5-80ca-8420aaee9966</md:uuid>
+  </metadata>
+  <content>
+    <figure id="CNX_Econ_C19_000" class="splash">
+      <title id="UUIDf8b0375a-2697-4052-7c6a-67ab716c5f9c">Wielki Kryzys</title>
+      <media alt="Zdjęcie przedstawia ludzi oczekujących w kolejce przed bankiem na zapomogę finansową podczas Wielkiego Kryzysu." id="fs-idm81486192">
+        <image src="../../media//CNX_Econ_C19_000.jpg" mime-type="image/jpeg" id="UUID267297b2-fcf0-47cb-4def-96c022dc6333" />
+      </media>
+      <caption id="UUIDd02642a0-652d-4ada-5b3f-020a55da5d50">Czasami łatwo jest ocenić kondycję gospodarki – na przykład wtedy, gdy wielu ludziom trudności sprawia najzwyklejsze związanie końca z końcem. To zdjęcie przedstawia Amerykanów stojących w kolejce po zapomogi wypłacane przez władze w czasie Wielkiego Kryzysu (1929–1933). Natomiast gdy jednym wiedzie się coraz lepiej, a sytuacja innych wciąż się pogarsza, określenie faktycznego stanu gospodarki jest trudniejsze. (Źródło: modyfikacja pracy z Biblioteki Kongresu/Wikimedia Commons).</caption>
+    </figure>
+    <para id="UUIDe8ccdf75-7629-4310-65e5-162b7df147b0" />
+    <note type="note" id="fs-idm40391120" class="bringhome economics">
+      <title id="UUIDff78c072-0f64-4bc6-765f-0c84c45d0e03">Jaka jest kondycja gospodarki? Jak możemy ją ocenić?</title>
+      <para id="fs-idp13113280">Lata 90. XX w. w USA były okresem boomu gospodarczego. Podobnie w Polsce czas niezwykle korzystnej koniunktury przypadł na lata 1994–2000. Dla odmiany na przełomie pierwszej i drugiej dekady XXI w., a dokładniej w latach 2007–2014, kondycja zarówno gospodarki amerykańskiej, jak i polskiej nie zachwycała. Co sprawia, że gospodarka rośnie albo się kurczy? Jakie czynniki decydują o tempie tych zmian? Dlaczego przedsiębiorstwa upadają, mimo że podejmują właściwe decyzje? Dlaczego pracownicy tracą pracę nawet jeśli ciężko i wydajnie pracują? Czy okresy złej koniunktury to dowód na zawodność systemu rynkowego? A może na niesprawność państwa? Przywołane wyżej pytania wchodzą w zakres rozważań makroekonomii. W niniejszym rozdziale spróbujemy udzielić na nie przynajmniej wstępnej odpowiedzi. Zapewne nie wszystkie kwestie uda się wyczerpująco objaśnić, ale zaczniemy od podstaw, czyli tego, jak należy rozumieć kondycję gospodarki i jak możemy ją mierzyć.</para>
+      <para id="UUID7b1d2d81-1e79-470b-5218-051c0ffce703">Makroekonomia jako nauka i sposób opisu gospodarki, w odróżnieniu od mikroekonomii, analizuje łącznie wszystkie transakcje kupna i sprzedaży w danej gospodarce krajowej, niezależnie od tego, co jest produkowane oraz kto zajmuje się wytwarzaniem i zakupami dóbr czy usług. Innymi słowy, makroekonomia obejmuje swoim zainteresowaniem wszystkie akty wymiany dokonywane na każdym rynku funkcjonującym w danej gospodarce. Nie rozdziela ich jednak, analizując wszystkie rynki łącznie. Ale czy tak gigantyczną liczbę transakcji da się w ogóle badać? Próby zmierzenia się z tym problemem zostały podjęte już podczas Wielkiego Kryzysu, ponad 90 lat temu. Prezydent Stanów Zjednoczonych Franklin D. Roosevelt i jego doradcy ekonomiczni oczywiście zdawali sobie sprawę z tego, że ówczesna sytuacja gospodarcza w USA była zła. Ale czy mogli dokładnie zmierzyć ów stan i tym samym określić, jak bardzo zła? Ekonomista Simon Kuznets, który później otrzymał Nagrodę Banku Szwecji im. Alfreda Nobla w dziedzinie nauk ekonomicznych (w 1971 r.), opracował narzędzie (produkt krajowy brutto – PKB), które pozwoliło zmierzyć łączną wartość wytworzonej i sprzedanej produkcji w amerykańskiej gospodarce. W tym rozdziale poznasz sposób obliczania PKB i możliwości wykorzystania tego agregatu oraz dowiesz się, dlaczego jest on kluczową kategorią makroekonomiczną.</para>
+    </note>
+    <note type="note" id="fs-idm89286336" class="chapter-objectives economics">
+      <title id="UUID257e4992-9987-4f69-4251-a91b85e65b9a">Wprowadzenie do makroekonomii</title>
+      <para id="fs-idm15432384">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idm124053440">
+        <item id="UUID2fa11d17-20e1-44d4-7c34-8e8f8346ff5c">
+          <para id="UUID488aa25a-618e-444d-4428-232a5f3d2b59">Jak oszacować rozmiary gospodarki za pomocą produktu krajowego brutto (PKB)</para>
+        </item>
+        <item id="UUID08a4a9be-abe0-46e5-61af-1961f5fdd277">
+          <para id="UUIDa3d6de0c-9273-4781-7913-00a4f02f0e68">W jaki sposób przekształcić zmienne nominalne na zmienne realne</para>
+        </item>
+        <item id="UUID6931d67f-8528-46e4-52fa-d789d4e8bf81">
+          <para id="UUID5309d22f-38de-4653-4f48-9d64f6237862">Jak wyznaczyć ścieżkę zmian realnego PKB w czasie</para>
+        </item>
+        <item id="UUID70711e86-298c-40d6-4f84-c5a576557133">
+          <para id="UUIDa0fcd90d-afbd-402f-50bb-e90f645fa174">W jaki sposób poprawnie porównywać kraje pod względem poziomu PKB</para>
+        </item>
+        <item id="UUIDe94fc802-9fda-412b-582f-786f9870a712">
+          <para id="UUID4cc3d9fd-747d-4244-7b0a-bf3ae05194fe">Jakie są wady i zalety PKB jako miernika poziomu społecznego dobrobytu</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idp20669360">Makroekonomia zajmuje się gospodarką jako całością (pomijając preferencje jednostek i to, co się dzieje na konkretnych rynkach oraz w przedsiębiorstwach), jak również zależnościami między gospodarkami różnych krajów. Jakie są przyczyny spadku poziomu PKB (recesji) lub gwałtownego spowolnienia tempa wzrostu tego wskaźnika? Dlaczego bezrobocie utrzymuje się na wysokim poziomie nawet po zakończeniu okresu niekorzystnej koniunktury? Dlaczego niektóre kraje rozwijają się (ich PKB rośnie) szybciej niż inne? Dlaczego w jednych państwach poziom życia jest wyższy niż w innych? Na wszystkie te pytania próbuje odpowiedzieć makroekonomia. Aby tego dokonać, agreguje aktywność gospodarczą wszystkich gospodarstw domowych i przedsiębiorstw na wszystkich rynkach, ustalając wielkości łącznego popytu i łącznej podaży w gospodarce. Konsekwencje takich obliczeń są bardzo ciekawe. Niejednokrotnie zdarza się bowiem, że wyniki na poziomie makroekonomicznym nie są prostą sumą wyników na poziomie mikroekonomicznym. To, co z mikroekonomicznego punktu widzenia wydaje się rozsądne, na poziomie makroekonomicznym może mieć nieoczekiwane lub kontrproduktywne skutki.</para>
+    <para id="UUIDb61ff7de-15b6-4603-432b-44416c5c42b2">Wyobraź sobie, że jesteś uczestnikiem spektaklu z dużą liczbą widzów, np. koncertu lub meczu. W pewnym momencie kilka osób postanawia wstać, by mieć lepszy widok na to, co dzieje się na scenie lub na boisku. W ten sposób zasłaniają jednak widok innym widzom, którzy – aby cokolwiek zobaczyć – też muszą wstać. W końcu prawie wszyscy podnoszą się ze swoich miejsc, w wyniku czego nikt nie ma widoku wyraźnie lepszego niż poprzednio. Racjonalna w sumie decyzja niektórych osób (czyli na poziomie mikro) ostatecznie nic nie zmieniła w sytuacji całej zbiorowości (na poziomie makro). Przytoczony przykład nie dotyczy oczywiście obszaru zainteresowania makroekonomii, ale dobrze ilustruje relację pomiędzy ekonomicznymi decyzjami jednostek i ich konsekwencjami dla całego społeczeństwa.</para>
+    <para id="fs-idm16949040">Makroekonomia obejmuje dość obszerny zakres problemów. Jak sobie z nim poradzimy? <link target-id="CNX_Econ_C19_001" id="UUID7d57e853-85a4-4507-5a72-34bda269521a" /> pokazuje nasze podejście do kwestii pozostających w obszarze zainteresowania makroekonomii. Będziemy je analizować z trzech różnych perspektyw:</para>
+    <list list-type="enumerated" id="fs-idm22924480">
+      <item id="UUID4caef3fa-0f12-4d19-527a-eec6cecc4c2d">
+        <para id="UUID47ac38d9-1096-4436-5079-af49e65e9405">Jakie są cele gospodarowania?</para>
+      </item>
+      <item id="UUID777d138a-72ec-4887-4148-370ab31cc34f">
+        <para id="UUID1116e7f1-b761-4404-63cf-e057d7024929">Jakie modele mogą zastosować ekonomiści do analizy całej gospodarki?</para>
+      </item>
+      <item id="UUID375961c2-f728-400f-4a94-f3afba5741ea">
+        <para id="UUID58e60932-2c7c-444f-4ab2-fc5d6c800762">Jakie narzędzia z zakresu polityki gospodarczej może wykorzystać państwo, aby wpływać na procesy gospodarowania?</para>
+      </item>
+    </list>
+    <figure id="CNX_Econ_C19_001">
+      <title id="UUIDf432160a-e92a-445f-5880-67ba65fb4750">Cele gospodarowania, modele makroekonomiczne i polityka państwa</title>
+      <media alt="Rysunek przedstawia trzy ramki, reprezentujące różne perspektywy makroekonomiczne, odpowiednio: cele gospodarowania, modele makroekonomiczne i politykę państwa. Schemat ilustruje zakres tematyczny problemów, którymi zajmuje się makroekonomia." id="fs-idm49747456">
+        <image src="../../media//CNX_Econ_C19_001.svg" mime-type="image/svg+xml" id="UUID2b51afa9-4bf7-4865-679a-62bda4ef0854" />
+      </media>
+      <caption id="UUIDa2a2e67a-cf11-4c0e-788d-15f5e8458210">Ramka po lewej stronie wskazuje na najważniejsze cele gospodarowania. Ramka środkowa przedstawia wybrane modele stosowane przez ekonomistów do analiz makroekonomicznych (np. w zakresie inflacji lub tempa i kierunku zmian PKB). Ramka po prawej stronie z kolei prezentuje dwa przykłady polityk gospodarczych państwa.</caption>
+    </figure>
+    <section id="fs-idp3974144">
+      <title id="UUID2a6564ed-817f-4c24-4088-91767c98a7ba">Cele gospodarowania</title>
+      <para id="fs-idp3562320">Myśląc o ogólnej kondycji gospodarki, warto wziąć pod uwagę trzy podstawowe cele gospodarowania: wzrost gospodarczy, niskie bezrobocie i niską inflację.</para>
+      <list id="fs-idm95757952">
+        <item id="UUIDb12a9beb-e9f6-4f8d-5b41-a78589279c84">
+          <para id="UUID1d8512c3-cac9-44f4-4709-97e58c939336">Wzrost gospodarczy wpływa na poprawę poziomu życia w danym kraju. Ekonomiści mierzą wzrost gospodarczy jako procentową zmianę realnego (skorygowanego o inflację) produktu krajowego brutto w danym okresie. W krajach rozwiniętych tempo wzrostu gospodarczego przekraczające 3% rocznie jest uważane za absolutnie zadowalające, jakkolwiek w Polsce, która próbuje dogonić najbogatsze kraje globu pod względem standardu życia, satysfakcję budzi dopiero dynamika wzrostu PKB na poziomie 4,5–5,0%.</para>
+        </item>
+        <item id="UUID30647512-d6ce-4a97-4d06-16fa704c3edd">
+          <para id="UUID15f71769-30a3-410b-6b02-1cb6a68f64bd">Bezrobocie mierzone jest relacją osób pozostających bez pracy w stosunku do całej siły roboczej, czyli stopą bezrobocia (pojęcia te zostaną dokładnie objaśnione w kolejnych rozdziałach podręcznika). Kiedy ludzie nie pracują, gospodarka marnuje cenne zasoby, co prowadzi do produkcji dóbr i usług mniejszej od możliwej. Bezrobocie to jednak coś więcej niż tylko statystyka rynku pracy – od poziomu bezrobocia zależą dochody mieszkańców. Chociaż bezrobocie w gospodarkach rynkowych prawdopodobnie nigdy całkowicie nie zniknie, ekonomiści uważają stopę bezrobocia na poziomie niższym od 5% za bardzo dobry wynik.</para>
+        </item>
+        <item id="UUIDc3f99b73-635b-4140-6dc0-1a314ff1b0b5">
+          <para id="UUID776ac719-06ba-4fc2-737d-437c9cfe7dc2">Inflacja to wzrost ogólnego poziomu cen w gospodarce. Jest ona zwykle mierzona wskaźnikiem wzrostu cen towarów i usług konsumpcyjnych (ang. consumer price index – CPI). Jeśli ceny żywności, mieszkań i usług rosną znacznie szybciej niż płace, ludzie są niezadowoleni, bo wówczas ich poziom życia spada. Niska inflacja – w granicach 2,0–2,5% rocznie – stanowi dla gospodarki bezpieczne zjawisko.</para>
+        </item>
+      </list>
+    </section>
+    <section id="fs-idp19548848">
+      <title id="UUID99c89db0-946d-41a5-6d9b-bb99a470a22a">Modele makroekonomiczne</title>
+      <para id="fs-idp57525856">Jak zapewne wiesz z zajęć poświęconych mikroekonomii, głównymi narzędziami stosowanymi przez ekonomistów są teorie i modele (by dowiedzieć się więcej, sięgnij do podręcznika <link url="https://openstax.org/details/books/mikroekonomia-podstawy" id="UUID637f7a37-05ed-471b-4ba7-eb575666de1d">"Mikroekonomia" - Podstawy</link>. W mikroekonomii wykorzystywaliśmy model popytu i podaży. W makroekonomii posługujemy się modelem <term cmlnle:reference="popyt globalny (popyt zagregowany, AD)" id="UUIDe0ef6839-0b30-4441-4dd8-76633b506cf0">popytu globalnego (popytu zagregowanego), AD</term> (<foreign xml:lang="en" id="UUID9540b3a0-a7a2-4c79-53ea-33c613702ea6">aggregate demand</foreign>) i <term cmlnle:reference="podaż globalna (podaż zagregowana, AS)" id="UUIDcd91459b-4c85-4e35-53a3-388dfd60293b">podaży globalnej (podaży zagregowanej), AS</term> (<foreign xml:lang="en" id="UUID829f81c8-1baf-4d32-5194-c0cd3a66223f">aggregate supply</foreign>). Niniejsza książka przedstawia dwa podstawowe nurty w makroekonomii: szkołę neoklasyczną i szkołę keynesowską. Każda z nich ma własną wersję modelu AD–AS. Znając oba podejścia, łatwo zrozumiesz, jak zachowuje się gospodarka w skali makro.</para>
+    </section>
+    <section id="fs-idp18810896">
+      <title id="UUID8053f8df-9113-4a17-5faf-cd431207eb9f">Polityka państwa</title>
+      <para id="fs-idp21692256">Państwo może wpływać na gospodarkę m.in. za pomocą polityki pieniężnej lub fiskalnej. Polityka pieniężna polega na sterowaniu podażą pieniądza i stopami procentowymi. Polityka fiskalna obejmuje zmiany w wydatkach państwa i podatkach.</para>
+      <para id="fs-idp17886240">Każdy z elementów uwzględnionych na <link target-id="CNX_Econ_C19_001" cmlnle:case="locative" id="UUIDd3d88199-b9e2-4502-6932-0ec2fa09b4a6" /> będzie przedmiotem szczegółowych rozważań w następnych rozdziałach. Podczas tej lektury zapewne odkryjesz, że odbierając informacje przekazywane przez media, prawie codziennie stykasz się z zagadnieniami makroekonomicznymi.</para>
+    </section>
+  </content>
+</document>

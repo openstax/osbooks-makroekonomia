@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ua522337c-91de-4e9a-a35f-98da26d4e679" id="Ua522337c-91de-4e9a-a35f-98da26d4e679" xml:lang="en" cnxml-version="0.7">
+  <title>1.5 Czy PKB można zmierzyć dobrobyt społeczeństwa?</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00006</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/a522337c-91de-4e9a-a35f-98da26d4e679</md:content-url>
+    <md:title>1.5 Czy PKB można zmierzyć dobrobyt społeczeństwa?</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:02.845457991+00:00</md:version>
+    <md:created>2023-08-30T08:02:02.845457991+00:00</md:created>
+    <md:revised>2023-08-30T08:02:02.845457991+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>a522337c-91de-4e9a-a35f-98da26d4e679</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-71e7-d35a-44fd25ebbaa5dbb8" class="learning-objectives">
+      <para id="UUID704d5026-779e-c872-786e98cd272f816e">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID704d5026-14c6-6d0f-da918979477b7d53">
+        <item id="UUID704d5026-ac42-0000-117f45b024872e76">
+          <para id="UUID704d5026-68a0-dd04-4adc30eca7c8b884">Ocenić, w jaki sposób produktywność gospodarki wpływa na poziom dobrobytu</para>
+        </item>
+        <item id="UUID704d5026-520c-f0df-a13f092f87d8e787">
+          <para id="UUID704d5026-65c7-912c-86047762dcb76e89">Wskazać ograniczenia PKB jako miary poziomu dobrobytu</para>
+        </item>
+        <item id="UUID704d5026-3397-0c9a-8062b5de03773a10">
+          <para id="UUID704d5026-d139-a114-382614bc423353e2">Dokonać analizy związku pomiędzy PKB a zmianami poziomu życia</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idm37474416">PKB na mieszkańca mierzy częściowo to, co rozumiemy przez „standard (poziom) życia” lub „poziom dobrobytu”. W końcu nie bez przyczyny większość migrantów na świecie stanowią osoby przenoszące się z krajów o relatywnie niskim do państw o względnie wysokim PKB per capita.</para>
+    <para id="fs-idm35378304">Jednak „poziom dobrobytu” to pojęcie szersze niż sam PKB. PKB mierzy tylko wielkość produkcji, która jest przedmiotem wymiany rynkowej. Natomiast <term id="UUID343434c9-78cc-4c52-5065-1319e8972402">poziom dobrobytu (standard życia)</term> (ang. <foreign xml:lang="en" id="UUIDf33abdfb-ff16-4df2-4429-874efc7bb67e"><term id="UUIDf5c2ac7d-69e3-4ee1-6af8-fa943ed33b32">standard of living</term></foreign>) obejmuje wszystkie elementy, które wpływają na dobrobyt mieszkańców, niezależnie od tego, czy są przedmiotem wymiany rynkowej, czy też nie. Aby wyjaśnić różnicę między PKB a poziomem dobrobytu, warto poznać czynniki nieuwzględniane w PKB, a wpływające na standard życia.</para>
+    <section id="fs-idm56150080">
+      <title id="UUID337917ba-68ef-4dbb-517b-b3fd9c06c78b">Ograniczenia PKB jako miary poziomu dobrobytu</title>
+      <para id="fs-idm80721856">Chociaż PKB obejmuje wydatki na podróże i rekreację, nie uwzględnia ilości czasu wolnego. Istnieje wszak zasadnicza różnica pomiędzy krajami, których wysoki PKB wynika z faktu, że ludzie pracują bardzo długo, a tymi, których PKB jest równie wysoki, ale jest zasługą dużej produktywności pracowników, dzięki której obywatele tego kraju nie muszą pracować aż tak dużo i cieszą się większą ilością czasu wolnego przy tym samym poziomie produkcji dóbr i usług. Jak przedstawiono w <link target-id="Table_19_11" document="m00005" cmlnle:case="locative" id="UUID47353381-429a-4b1f-6fef-094fc9e31360" />, PKB na mieszkańca w Stanach Zjednoczonych jest większy niż w Niemczech. Czy wynika z tego, że standard życia w USA jest wyższy? Niekoniecznie, ponieważ prawdą jest również to, że przeciętny pracownik w USA pracuje rocznie kilkaset godzin dłużej niż przeciętny pracownik w Niemczech. Tymczasem PKB nie uwzględnia dodatkowych tygodni czasu wolnego niemieckiego pracownika.</para>
+      <para id="UUID210abda3-bfb9-4c67-57fc-596c63b35b0c">Chociaż PKB obejmuje wydatki na ochronę środowiska, opiekę zdrowotną i edukację, nie mierzy faktycznego zanieczyszczenia środowiska naturalnego, stanu zdrowia mieszkańców ani poziomu edukacji obywateli. PKB zawiera koszt zakupu sprzętu do kontroli zanieczyszczeń, ale nie uwzględnia tego, czy powietrze i woda dzięki instalacji tego wyposażenia są rzeczywiście czystsze. PKB obejmuje wydatki na opiekę medyczną, ale nie odzwierciedla tego, czy oczekiwana długość życia lub śmiertelność noworodków uległy poprawie. Podobnie PKB obejmuje wydatki na edukację, ale nie wyraża tego, ilu mieszkańców potrafi czytać i pisać lub jakie są wyniki dzieci i młodzieży w standardowych testach osiągnięć edukacyjnych PISA.</para>
+      <para id="fs-idm142764656">PKB obejmuje produkcję, która jest przedmiotem wymiany rynkowej. Nie uwzględnia natomiast tej, która nie przechodzi przez rynek. Na przykład koszt zatrudnienia pracownika do koszenia trawnika lub sprzątania domu jest wliczany do PKB, ale już samodzielne wykonywanie tych zadań nie jest w nim brane pod uwagę. Jedną z ważnych zmian w gospodarce USA w ostatnich dziesięcioleciach był wzrost udziału kobiet w sile roboczej. Zgodnie z danymi <term cmlnle:reference="Amerykański Urząd Statystyki Pracy" id="UUIDc2f248dd-47d5-450d-6cde-2514e3174542">Amerykańskiego Urzędu Statystyki Pracy</term> (ang. <foreign xml:lang="en" id="UUIDcab34f8e-5010-4cd9-7b46-9562e076b0a4"><term id="UUID28d96ab5-a59b-413a-4b38-4e96ad88171c">Bureau of Labor Statistics</term></foreign>) w 1970 r. tylko ok. 42% pań należało do opłacanej siły roboczej, natomiast w drugiej dekadzie XXI w. odsetek ten wzrósł do prawie 60%. Ponieważ znacznie więcej kobiet w USA podjęło zatrudnienie, wiele usług, które kiedyś wykonywały w ramach nieodpłatnej pracy w domu, np. przygotowywanie posiłków, sprzątanie i opieka nad dziećmi, stało się przedmiotem wymiany rynkowej, co sprawia, że amerykański PKB jest większy, nawet jeśli ludzie faktycznie nie konsumują więcej usług niż 50 lat temu.</para>
+      <para id="fs-idm18645872">PKB nic nie mówi na temat poziomu nierówności w społeczeństwie. <term id="UUID22299a88-c214-427b-5bcb-0a997a24a2cb">PKB per capita</term> (ang. <foreign xml:lang="en" id="UUIDb4fdb03d-7f45-4ee1-66b8-8baae4f15c5d"><term id="UUID1771c1b8-59a5-4de6-6952-6c40dda81e33">GDP per capita</term></foreign>) mierzy tylko średni dochód w gospodarce. Kiedy PKB na mieszkańca wzrasta o 5%, może to oznaczać, że dochód wszystkich obywateli zwiększył się o 5% lub że dochód niektórych grup wzrósł bardziej, innych zaś w mniejszym stopniu albo nawet spadł. Z PKB nie można także nic wnioskować na temat różnorodności produkowanych dóbr. Jeśli rodzina w ciągu roku kupuje 100 bochenków chleba, z punktu widzenia PKB nie ma znaczenia to, czy wszystkie bochenki to białe pieczywo, czy też rodzina kupuje pieczywo pszenne, żytnie, pumpernikiel itp. – dla wielkości PKB istotna jest tylko całkowita kwota wydawana na chleb.</para>
+      <para id="UUID9276d588-ed22-41f3-6bb9-d10b244fb305">Z PKB niewiele też można wyczytać na temat dostępnych technologii i produktów. A przecież na poziom życia wpływ ma nie tylko ilość pieniędzy, ale także to, co można za nie kupić. W 1950 lub 1900 r. nie można było kupić wielu dóbr dostępnych dzisiaj. W połowie XX w. bez względu na ilość posiadanych pieniędzy nie można było nabyć np. smartfonów ani komputerów osobistych, które mimo wszystko znacznie ułatwiają życie.</para>
+      <para id="UUID468babab-fe63-4954-5f5c-fdf451422987">W niektórych przypadkach nie jest nawet jasne, czy samo zjawisko wzrostu PKB jest pożądane. Jeśli miasto zostało zniszczone przez katastrofę żywiołową (powódź lub huragan), a teraz jest pracowicie odbudowywane, to w konsekwencji PKB rośnie, ale stwierdzenie, że huragan był korzystny dla rozwoju miasta, byłoby niezwykle ryzykowne. Jeśli ludzie żyją w ciągłym strachu przed rosnącą przestępczością i płacą duże pieniądze za instalowanie krat w oknach i alarmów antywłamaniowych, trudno uznać, że będący konsekwencją tych działań wzrost PKB poprawia poziom ich życia. Podobnie niektórzy twierdzą, że sprzedaż pewnych towarów, takich jak materiały pornograficzne czy filmy przedstawiające brutalne treści, nie poprawia standardu życia społeczeństwa.</para>
+    </section>
+    <section id="fs-idm98523920">
+      <title id="UUID4cf77182-d4e7-4601-65c9-f600f883e958">Czy wzrost PKB jest wyższy, czy niższy niż wzrost poziomu dobrobytu?</title>
+      <para id="UUIDec715eb2-e76b-4fa6-72fc-428888212744">Ponieważ PKB per capita nie mierzy w pełni poziomu dobrobytu, pojawiają się obawy, że wzrost PKB nic nam nie mówi o zmianach standardu życia mieszkańców. Teoretycznie jest możliwe, że wzrostowi PKB towarzyszy spadek poziomu życia, jeśli pogarsza się zdrowie ludności, zwiększa się zanieczyszczenie środowiska czy też zmieniają w niekorzystnym kierunku inne czynniki, które wpływają na poziom życia, ale nie są uwzględniane w PKB. Na szczęście ten strach wydaje się przesadzony.</para>
+      <para id="UUID99d0e5fd-28ec-4473-4673-d32390be2c3e">Można wymienić czynniki, dzięki którym wzrost PKB jest niższy niż rzeczywisty wzrost poziomu dobrobytu. Na przykład typowy czas pracy osoby zatrudnionej w USA spadł w ciągu ostatniego stulecia z ok. 60 godzin do mniej niż 40 godzin tygodniowo. Średnia długość życia, stan zdrowia i poziom wykształcenia gwałtownie wzrosły. Od 1970 r. w Stanach Zjednoczonych zmniejsza się zanieczyszczenie powietrza i wody. Pojawiły się nowe technologie uprzyjemniające czas wolny i podróże, ułatwiające poszukiwanie informacji i poprawiające stan zdrowia mieszkańców. Obecnie dostępny jest znacznie większy wachlarz podstawowych produktów, takich jak żywność i odzież, niż jeszcze kilkadziesiąt lat temu. Ponieważ PKB nie uwzględnia czasu wolnego, stanu zdrowia, zanieczyszczenia środowiska, możliwości stwarzanych przez nowe technologie ani różnorodności towarów, faktyczne tempo wzrostu standardu życia Amerykanów w ostatnich dekadach przewyższyło dynamikę wzrostu PKB.</para>
+      <para id="UUID2f3895d2-9f90-447b-6f4d-938b498c8857">Z drugiej strony przestępczość, natężenie ruchu ulicznego i nierówności dochodowe są obecnie w Stanach Zjednoczonych wyższe niż w latach 60. XX w. Co więcej, znaczna liczba usług świadczonych kiedyś przez kobiety w formie pracy w domu jest dziś przedmiotem wymiany rynkowej i wlicza się do PKB. Czynniki te sprawiają, że tempo wzrostu PKB może być wyższe niż dynamika wzrostu poziomu dobrobytu.</para>
+      <note type="note" id="fs-idm144303152" class="economics linkup">
+        <para id="fs-idm35276144">Odwiedź poniższą <link url="http://openstax.org/l/amdreamvalue" id="UUID2110b8e6-c831-43b5-7c9c-021575ab425a">stronę internetową</link>, aby przeczytać o tzw. amerykańskim śnie i poziomie życia w USA.</para>
+      </note>
+    </section>
+    <section id="fs-idm128307504">
+      <title id="UUID91177c53-b206-4b8a-75fc-38a4e2a49b4f">PKB ma wady, ale jest użyteczny</title>
+      <para id="UUID8bb21900-0e08-43a1-73b0-a26d55f364db">Wysoki poziom PKB per capita nie powinien być jedynym celem polityki państwa. Mimo że wskaźnik ten nie wyraża dobrze poziomu dobrobytu, poprawnie mierzy jednak wolumen produkcji i wskazuje, który kraj jest PRZECIĘTNIE lepszym lub gorszym miejscem do życia ze względu na wysokość dochodów i poziom konsumpcji. W większości krajów wzrost PKB per capita idzie w parze z poprawą wielu innych aspektów życia codziennego, takich jak edukacja, zdrowie i ochrona środowiska.</para>
+      <para id="UUID2c70de59-020c-4224-7766-1b2fd473d74b">Żaden pojedynczy wskaźnik nie może uchwycić wszystkich elementów szerokiego pojęcia, jakim jest „poziom dobrobytu”. Niemniej jednak PKB per capita jest rozsądną, przybliżoną miarą jakości i standardu życia.</para>
+      <note type="note" id="fs-idm91829728" class="bringhome economics">
+        <title id="UUIDa7223efd-755e-413a-75fc-1bab39bedd5b">Jak radzi sobie gospodarka?</title>
+        <para id="UUIDdb05f67a-4d6b-48c9-6aa7-ead912ff8bd3">Aby określić stan gospodarki, należy zbadać wskaźniki makroekonomiczne takie jak PKB. Z kolei wartość globalnego produktu per capita pozwala w przybliżony sposób oszacować standard życia obywateli. Obliczenie PKB to nie lada przedsięwzięcie. Jest to najszersza miara aktywności gospodarczej i za jej opracowanie twórcy tego parametru Simonowi Kuznetsowi należą się podziękowania.</para>
+        <para id="UUID3df184a2-5e41-42cf-4619-2e7bbe1fc07e">Gospodarka USA mierzona wielkością PKB jest ogromna, w 2021 r. wyprodukowała towary i usługi o wartości 23,3 bln dol. Na podstawie statystyk realnego PKB można stwierdzić, że recesja w latach 2008–2009 była dotkliwa, a wychodzenie z niej powolne, jednak stan gospodarki od tego momentu znacznie się poprawił, pomimo ponownych turbulencji związanych z epidemią koronawirusa. Ten rozdział stanowi wprowadzenie do kolejnych, w których analizie poddane zostaną inne kluczowe zmienne makroekonomiczne, takie jak bezrobocie, inflacja czy stopy procentowe, i jednocześnie przedstawione zostaną związki pomiędzy tymi parametrami i determinującymi je czynnikami.</para>
+      </note>
+    </section>
+    <section id="fs-idm19974416" class="summary">
+      <title id="UUIDcc136f7e-456c-4dba-7909-268596a58b48">Podsumowanie</title>
+      <para id="fs-idm39604992">PKB jest jedynie przybliżonym miernikiem poziomu dobrobytu. Produkt globalny nie uwzględnia bezpośrednio ilości czasu wolnego, zanieczyszczenia środowiska, stanu zdrowia, wykształcenia, produkcji niebędącej przedmiotem wymiany rynkowej, nierówności dochodowych, różnorodności dostępnych towarów, postępu technicznego ani też (dodatniej lub ujemnej) wartości, jaką społeczeństwo może przypisać niektórym produktom.</para>
+    </section>
+    <section id="fs-idp67145680" class="self-check-questions">
+      <title id="UUIDe1ef8bad-21da-40c4-6495-cea1a167f418">Pytania sprawdzające</title>
+      <exercise id="fs-idm3226512">
+        <problem id="fs-idm15369632">
+          <para id="fs-idp89758000">Wyjaśnij krótko, czy wzrost PKB jest wyższy, czy niższy niż wzrost poziomu dobrobytu, biorąc pod uwagę występowanie poniższych czynników.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm133067264">
+            <item id="UUIDd9c7dc49-62f3-426d-49a1-c762fb147d1f">
+              <para id="UUIDf102943e-5c9a-48e3-49d8-6dd81e670e5a">Zanieczyszczenie środowiska rośnie</para>
+            </item>
+            <item id="UUID471f8c29-9bf5-4db4-75ba-d704fe20acec">
+              <para id="UUID85a6f387-2f81-4a42-71ab-605d44a6bf91">Przestępczość spada</para>
+            </item>
+            <item id="UUID8b8d1e5a-8ef0-4dcd-7643-50ccb6339666">
+              <para id="UUIDd3b6dbf8-94c1-4e70-528c-cc3567542413">Zwiększa się wybór towarów dostępnych dla konsumentów</para>
+            </item>
+            <item id="UUID23548795-0845-4b23-6119-da3ad12dc721">
+              <para id="UUIDe2774bb5-3673-4d45-601a-555657ee29f6">Śmiertelność niemowląt spada</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idp44195200">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp82810608">
+            <item id="UUID1b86b0d7-e0ec-49e1-5cd4-83886423d799">
+              <para id="UUID9dc00c65-bb37-4e4b-6aa2-782c1df659b8">Zanieczyszczenie środowiska obniża ogólny standard życia, ale nie jest wliczane do PKB, więc wzrost PKB byłby wyższy niż wzrost poziomu dobrobytu.</para>
+            </item>
+            <item id="UUIDcfc3a9cd-06ea-413c-7089-4da0234ca119">
+              <para id="UUID42a30250-a16d-4133-7318-48bb80f57ea6">Mniejsza przestępczość podnosi standard życia, ale nie jest wliczana bezpośrednio do PKB, a zatem wzrost PKB byłby niższy niż wzrost poziomu dobrobytu.</para>
+            </item>
+            <item id="UUID83f17053-428d-43e6-48d8-ad327c59152e">
+              <para id="UUID6f0ee6b7-0a4b-42f3-7a57-db57759136e3">Większa różnorodność towarów poprawia standard życia, ale nie jest wliczana bezpośrednio do PKB, więc wzrost PKB byłby niższy niż wzrost poziomu dobrobytu.</para>
+            </item>
+            <item id="UUIDfeb42ddd-70fb-44bd-79dd-ecd0f99f99b9">
+              <para id="UUID26196040-a281-46a1-40c1-d1144e8b2101">Spadek śmiertelności niemowląt jest mocnym sygnałem podnoszenia się standardu życia, ale nie jest wliczany bezpośrednio do PKB, a zatem wzrost PKB byłby niższy niż wzrost poziomu dobrobytu.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm8569040" class="review-questions">
+      <title id="UUIDec615d0a-535f-40c3-6051-e2d2b2c55d64">Sprawdź wiedzę</title>
+      <exercise id="fs-idm67618224">
+        <problem id="fs-idm8362816">
+          <para id="fs-idm15370480">Wymień kilka powodów, dla których ekonomiści nie powinni używać PKB jako miary poziomu dobrobytu.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp47074976" class="critical-thinking">
+      <title id="UUID2c593138-db60-4dfc-7b6e-172b4f721770">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idm22171152">
+        <problem id="fs-idp42675488">
+          <para id="fs-idp63388688">Jak można zmierzyć „zielony” PKB?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUIDdccbd2a8-8ae1-4b4e-6783-577548748cfa">
+    <definition id="fs-idp2409488">
+      <term id="UUIDb92eb682-6e68-412c-452e-de0227b1bdde">poziom dobrobytu (standard życia) (ang. <foreign xml:lang="en" id="UUIDb94ae3af-3746-491c-661a-1ea68e88e778">standard of living</foreign>)</term>
+      <meaning id="fs-idp2156784">
+        <para id="UUIDb71b9a7e-13f1-44a3-6344-dd96a3c0527f">wszystkie czynniki wpływające na szczęście (dobrobyt) ludzi niezależnie od tego, czy są one przedmiotem wymiany rynkowej</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

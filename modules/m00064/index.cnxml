@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U30b37373-1a35-4410-b0bc-0c823ef22c66" id="U30b37373-1a35-4410-b0bc-0c823ef22c66" xml:lang="en" cnxml-version="0.7">
+  <title>12.3 Using Fiscal Policy to Fight Recession, Unemployment, and Inflation</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00064</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/30b37373-1a35-4410-b0bc-0c823ef22c66</md:content-url>
+    <md:title>12.3 Using Fiscal Policy to Fight Recession, Unemployment, and Inflation</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:05.181685505+00:00</md:version>
+    <md:created>2023-08-30T08:02:05.181685505+00:00</md:created>
+    <md:revised>2023-08-30T08:02:05.181685505+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>30b37373-1a35-4410-b0bc-0c823ef22c66</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <list id="list-00001">
+      <item id="UUID61db031c-8fc2-448b-6466-097bab0466c0">
+        <para id="UUID028b185a-48f2-4c74-5da7-2c08f3fa429f">Wyjaśnić, w jaki sposób ekspansywna polityka fiskalna wpływa na popyt globalny i gospodarkę</para>
+      </item>
+      <item id="UUIDf1a1f508-1804-4557-5b13-0c13a5fa6f12">
+        <para id="UUID7969f09f-511f-431f-4621-9a21c747037c">Wyjaśnić, w jaki sposób restrykcyjna polityka fiskalna wpływa na popyt globalny i gospodarkę</para>
+      </item>
+    </list>
+    <para id="UUID89f98bdc-0ff8-40d6-678f-7f69fb48775d">Polityka fiskalna polega na wykorzystaniu wydatków państwa i podatków do stymulowania gospodarki. Na wykresie z modelem AD-AS <term id="UUIDa1fa3ffb-493a-4a0f-61f5-378cfe32849c">ekspansywna polityka fiskalna</term> (<foreign xml:lang="en" id="UUIDb34124aa-513a-4da4-4255-c1e197bef049"><term id="UUIDae03afad-cb08-4af3-4922-50dd6f6c8851">expansionary fiscal policy</term></foreign>), niezależnie od tego, czy polega na wzroście wydatków, czy obniżeniu podatków, przesuwa krzywą <term cmlnle:reference="popyt globalny" id="UUID983e2035-0aa1-483c-46f1-db1f3edb19f6">popytu globalnego</term> (<foreign xml:lang="en" id="UUID4dde0440-029c-4ec8-43fc-62668755471e"><term id="UUIDa988cc2a-ec73-4aa3-7c36-b65f8d24b0ae">aggregate demand</term></foreign>) w prawo, co oznacza wzrost popytu przy każdym poziomie cen. I analogicznie, <term id="UUID5529cfbd-33aa-4fbc-4b51-ce67241a0476">restrykcyjna polityka fiskalna</term> (<foreign xml:lang="en" id="UUIDd49a1d15-30c3-4d7d-6251-1f6b065e42fa"><term id="UUID8beaafc1-ae10-45e7-4114-b812e807484d">contractionary fiscal policy</term></foreign>), niezależnie od tego, czy jest realizowana poprzez spadek wydatków, czy wzrost podatków, przesuwa krzywą popytu globalnego w lewo, co jest tożsame ze spadkiem popytu, niezależnie od poziomu cen. W rozdziale o wzroście gospodarczym zostało powiedziane, że ilość i jakość naszych zasobów rośnie wraz ze wzrostem liczby ludności, a tym samym siły roboczej, ponieważ przedsiębiorstwa inwestują w nowy kapitał i ulepszają technologie. Rezultatem są regularne przesunięcia krzywej podaży globalnej w prawo, co przedstawia <link target-id="CNX_Econ_C30_009" id="UUIDed2c91a8-16c5-4f43-708e-39ab7b856224" />.</para>
+    <para id="UUIDf1b47252-551b-4537-5568-06a75f003fec">Początkowa równowaga występuje w punkcie E<sub>0</sub>, czyli na przecięciu krzywej popytu globalnego AD<sub>0</sub> i krzywej podaży globalnej SAS<sub>0</sub>, tj. przy wielkości produkcji 200 i poziomie cen 90. Rok później krzywa <term cmlnle:reference="podaż globalna" id="UUID7d86294e-b873-4473-540e-aee162fc23e4">podaży globalnej</term> (<foreign xml:lang="en" id="UUIDa1144904-b382-4eb2-69f2-3023c10f37f0"><term id="UUID14dfd839-6f6b-4786-47b9-96a8723766ba">aggregate supply</term></foreign>) w związku ze wzrostem gospodarczym przesuwa się w prawo, do położenia SAS<sub>1</sub>, zaś krzywa popytu globalnego również przesuwa się w prawo, do AD<sub>1</sub>, powodując, że gospodarka znajdzie się na nowym poziomie potencjalnego PKB. W nowej równowadze (E<sub>1</sub>) wielkość produkcji wynosi 206, a poziom cen jest równy 92. W kolejnym roku krzywa podaży globalnej ponownie przesuwa się w prawo, tym razem do położenia SAS<sub>2</sub>, przy jednoczesnym przesunięciu krzywej popytu globalnego w tym samym kierunku, do AD<sub>2</sub>. Równowaga występuje teraz w punkcie E<sub>2</sub>, gdzie wielkość produkcji i poziom cen wynoszą odpowiednio 212 i 94. Podsumowując, wykres przedstawia gospodarkę, która z roku na rok rośnie stabilnie, produkując każdego roku na poziomie swojego potencjalnego PKB przy relatywnie niskiej inflacji.</para>
+    <figure id="CNX_Econ_C30_009">
+      <title id="UUID1184fd14-0515-453e-436d-29c9d1c8e7bd">Stabilnie rosnąca gospodarka</title>
+      <media alt="Wykres przedstawia trzy krótkookresowe krzywe podaży globalnej (SAS), trzy krzywe popytu globalnego (AD) i trzy długookresowe krzywe podaży globalnej (LAS) reprezentujące potencjalny PKB. Każda krzywa popytu globalnego przecina się z krótkookresową krzywą podaży globalnej na wysokości potencjalnego PKB." id="fs-idp84387856">
+        <image src="../../media//CNX_Econ_C30_009.svg" mime-type="image/svg+xml" id="UUID35349ca1-27ef-42b4-4fce-c6bf54f31156" />
+      </media>
+      <caption id="UUID424aac3b-f1f3-47ed-4e1f-e5d09f908ad8">W tej dobrze funkcjonującej gospodarce każdego roku krzywe podaży globalnej i popytu globalnego przesuwają się w prawo, a gospodarka przechodzi z punktu równowagi E<sub>0</sub> do E<sub>1</sub> i potem do E<sub>2</sub>. Każdego roku wielkość produkcji jest równa potencjalnemu PKB, a stopa inflacji jest niska (tj. występuje jedynie niewielki wzrost cen). Jeśli jednak zwiększenie popytu globalnego nie dorówna zwiększeniu podaży globalnej, wzrostowi gospodarczemu może towarzyszyć deflacja.</caption>
+    </figure>
+    <para id="UUID35ebd173-4c45-400a-54e4-339acfdb4b5d">Popyt globalny i podaż globalna nie zawsze zmieniają się w tym samym stopniu. Zastanów się, co powoduje zmiany popytu globalnego w czasie. Jeśli podaż globalna rośnie, zwiększają się także dochody. Prowadzi to zwykle do wzrostu wydatków konsumpcyjnych i inwestycyjnych, przesuwając krzywą popytu globalnego w prawo, ale w danym okresie krzywa ta nie musi przesunąć się o taką samą wielkość, jak krzywa podaży globalnej. Co się dzieje z wydatkami państwa i podatkami? Państwo każdego roku pokrywa swoje standardowe wydatki, takie jak obrona narodowa, ubezpieczenia społeczne i ochrona zdrowia, co pokazuje <link target-id="CNX_Econ_C30_009" id="UUIDef3975c6-f50a-40e1-7498-1d4f7a8a97f0" />. Częściowo są one finansowane przez wpływy podatkowe. Okazuje się, że rezultatem wzrostu podaży globalnej może być wzrost popytu globalnego o więcej lub mniej, niż wynosi wzrost podaży. Może wystąpić nawet spadek popytu, z różnych powodów: gospodarstwa domowe zaczynają ograniczać konsumpcję; przedsiębiorstwa nie chcą tak dużo inwestować; maleje eksport.</para>
+    <para id="fs-idp23295488">Na przykład w USA inwestycje przedsiębiorstw prywatnych w kapitał rzeczowy rozkwitły pod koniec lat 90. XX w., wzrastając z 14,1% PKB w 1993 r. do 17,2% PKB w 2000 r., po czym spadły z powrotem do 15,2% PKB w roku 2002.</para>
+    <para id="UUID10ea2f44-ff34-4157-7653-648b3b023d7f">Jeśli natomiast wzrost popytu globalnego jest szybszy niż wzrost podaży globalnej, pojawia się inflacja. Cykle koniunkturalne, polegające na naprzemiennym występowaniu okresów ożywienia i recesji, są konsekwencją zmian popytu globalnego i podaży globalnej. Państwo może zastosować odpowiednią politykę fiskalną w celu zmniejszenia wahań cyklicznych.</para>
+    <para id="eip-324">Podrozdział "Wprowadzenie do polityki pieniężnej i regulacji systemu bankowego" <link document="m00051" id="UUIDb76432eb-b52b-4303-50c5-f65758818798" /> pokazuje, że bank centralny może wykorzystać politykę pieniężną do prowadzenia działań antycyklicznych, mających na celu łagodzenie wahań koniunkturalnych. Jeśli gospodarce grozi recesja, bank centralny stosuje ekspansywną politykę pieniężną, polegającą na zwiększeniu podaży pieniądza, zwiększeniu ilości i wartości kredytów oraz obniżeniu stóp procentowych, co powoduje przesunięcie krzywej popytu globalnego w prawo. Jeśli gospodarce grozi inflacja, bank centralny stosuje restrykcyjną politykę pieniężną, polegającą na ograniczeniu podaży pieniądza, zmniejszeniu ilości i wartości kredytów oraz podniesieniu stóp procentowych, co prowadzi do przesunięcia krzywej popytu globalnego w lewo. Natomiast polityka fiskalna to inne narzędzie polityki makroekonomicznej, służące do oddziaływania na popyt globalny za pomocą wydatków państwa i podatków.</para>
+    <section id="fs-idp80871104">
+      <title id="UUID6bf92513-c5fc-477c-4749-24ba239fa1a7">Ekspansywna polityka fiskalna</title>
+      <para id="fs-idm8833856" />
+      <para id="UUID8652c81b-8482-4091-533b-e7ab1a15a345">Ekspansywna polityka fiskalna zwiększa popyt globalny w wyniku wzrostu wydatków państwa lub obniżki podatków. Wzrost popytu globalnego może nastąpić z powodu: (1) zwiększenia konsumpcji na skutek wzrostu dochodów rozporządzalnych gospodarstw domowych wywołanego niższym podatkiem dochodowym od osób fizycznych; (2) zwiększenia wydatków inwestycyjnych przedsiębiorstw na skutek wzrostu zysków po opodatkowaniu spowodowanego niższym podatkiem dochodowym od osób prawnych; oraz (3) zwiększenia zakupów dóbr i usług przez rząd centralny oraz samorządy (szczególnie największe aglomeracje). Restrykcyjna polityka fiskalna działa odwrotnie: obniża poziom popytu globalnego poprzez zmniejszanie konsumpcji i inwestycji (drogą podwyżki podatków) lub zmniejszanie wydatków państwa. Model AD-AS jest przydatny do oceny, czy prowadzona przez państwo ekspansywna lub restrykcyjna polityka fiskalna jest właściwa.</para>
+      <para id="UUIDa33f518b-dc07-42c0-4f49-8dc596c7e3f7">Rozważmy sytuację przedstawioną na <link target-id="CNX_Econ_C30_010" cmlnle:case="locative" id="UUIDd6224aed-5403-40a3-6b79-834a75f99a0d" />. Jest ona analogiczna do tej, która wystąpiła w Stanach Zjednoczonych podczas recesji w latach 2008–2009. Punkt przecięcia krzywej popytu globalnego (AD<sub>0</sub>) i krótkookresowej krzywej podaży globalnej (SAS<sub>0</sub>) występuje poniżej poziomu potencjalnego PKB reprezentowanego przez krzywą LAS. W równowadze E<sub>0</sub> pojawia się recesja i wzrasta bezrobocie. W takim przypadku ekspansywna polityka fiskalna polegająca na obniżeniu podatków lub wzroście wydatków państwa przesuwa krzywą popytu globalnego do położenia AD<sub>1</sub>, czyli w kierunku produkcji przy pełnym zatrudnieniu. Poziom cen rośnie do P<sub>1</sub>, co odpowiada produkcji potencjalnej przy popycie AD<sub>1</sub>.</para>
+      <figure id="CNX_Econ_C30_010">
+        <title id="UUIDaa0d9e52-9da3-40c3-773f-0268ccc47f5a">Ekspansywna polityka fiskalna</title>
+        <media alt="Wykres przedstawia dwie krzywe popytu globalnego, które przecinają się z krzywymi podaży globalnej. Krzywa popytu globalnego (AD1) przecina się z krótkookresową krzywą podaży globalnej (SAS0) i pionową długookresową krzywą podaży globalnej LAS (reprezentującą potencjalny PKB) w tym samym punkcie." id="fs-idm63866672">
+          <image src="../../media//CNX_Econ_C30_010.svg" mime-type="image/svg+xml" id="UUID990dfb63-2a42-413b-7ad6-2ca6bd9cf0b2" />
+        </media>
+        <caption id="UUID19d91908-e2e3-4e50-4047-67464d48e39b">Początkowa równowaga (E<sub>0</sub>) reprezentuje recesję występującą przy wielkości produkcji (Y<sub>0</sub>) poniżej poziomu potencjalnego PKB. Jednak wzrost popytu globalnego z AD<sub>0</sub> do AD<sub>1</sub>, wywołany ekspansywną polityką fiskalną, przesuwa gospodarkę do nowej równowagi E<sub>1</sub> na krzywej LAS, czyli na poziomie potencjalnego PKB. Ponieważ gospodarka pierwotnie produkowała poniżej poziomu potencjalnego PKB, wzrost poziomu cen z P<sub>0</sub> do P<sub>1</sub> powinien być stosunkowo niewielki.</caption>
+      </figure>
+      <para id="UUIDec84d5ca-7cdb-4167-5fed-cedfe123bf1c">Jakie decyzje powinno podjąć państwo (obniżyć podatki, zwiększyć wydatki czy też zastosować kombinację obu tych posunięć), aby ekspansywna polityka fiskalna zadziałała najskuteczniej? Podczas globalnego kryzysu finansowego (2008–2009), który właściwie zaczął się pod koniec 2007 r., gospodarka USA zanotowała skumulowany spadek PKB o 3,1%. Może się to wydawać relatywnie umiarkowaną recesją, ale jest to jednocześnie więcej niż średnia roczna stopa wzrostu PKB. W tym samym okresie stopa bezrobocia podwoiła się, z 5% do 10%. W efekcie było to najbardziej dotkliwe spowolnienie gospodarcze w historii Stanów Zjednoczonych od czasu Wielkiego Kryzysu lat 30. XX w. Wybór między obniżką podatków a zwiększeniem wydatków jest decyzją polityczną. W USA – nieco upraszczając skomplikowany obraz zależności politycznych – konserwatyści i republikanie wolą, aby ekspansywna polityka fiskalna była realizowana przez obniżki podatków, natomiast liberałowie i demokraci preferują wzrost wydatków państwa. W ponadpartyjnej próbie rozwiązania tej ekstremalnej sytuacji administracja prezydenta Baracka Obamy i Kongres Stanów Zjednoczonych wdrożyły na początku 2009 r. ekspansywny wariant polityki fiskalnej, który przełożył się na wzrost popytu globalnego o 830 mld dolarów i obejmował zarówno obniżki podatków, jak i zwiększenie wydatków państwa. Jednocześnie jednak bodziec na poziomie federalnym został częściowo zniwelowany, gdy władze stanowe i lokalne, których budżety mocno ucierpiały w wyniku recesji, zaczęły ciąć wydatki.</para>
+      <para id="fs-idm102840624">Konflikt dotyczący tego, jakiego narzędzia polityki fiskalnej należy użyć do oddziaływania na popyt globalny, może być frustrujący dla tych, którzy opowiadają się za ekonomią „liberalną” lub „konserwatywną” albo chcą wykorzystać modele ekonomiczne do polemiki ze swoimi politycznymi przeciwnikami. Jednak model AD-AS może być równie dobrze wykorzystany przez zwolenników mniejszego państwa, dążących do obniżenia podatków i wydatków publicznych, jak i zwolenników większego państwa, chcących podnieść wydatki i podatki. Badania ekonomiczne konkretnych programów podatkowych i wydatkowych mogą pomóc w podejmowaniu decyzji o tym, czy rząd powinien zmieniać podatki, czy raczej wydatki, i w jaki sposób. Niemniej jednak ostateczne decyzje dotyczące zmian w podatkach i wydatkach państwa w celu realizacji polityki makroekonomicznej są raczej decyzjami politycznymi niż czysto ekonomicznymi.</para>
+    </section>
+    <section id="fs-idm192942096">
+      <title id="UUIDe89a1fbf-76c2-434d-4f57-99b34b39cd6e">Restrykcyjna polityka fiskalna</title>
+      <para id="fs-idm174178352">Polityka fiskalna może również przyczynić się do zwiększenia popytu globalnego ponad potencjalny PKB, co wywołuje inflację. Jak pokazuje <link target-id="CNX_Econ_C30_011" id="UUID9f046971-c04a-4e64-523f-94150b96ecd6" />, bardzo duży deficyt budżetowy powoduje tak silny wzrost popytu globalnego, że punkt przecięcia krzywej popytu globalnego (AD<sub>0</sub>) i krótkookresowej krzywej podaży globalnej (SAS<sub>0</sub>) występuje w stanie równowagi E<sub>0</sub>, czyli przy poziomie produkcji powyżej potencjalnego PKB. Ekonomiści czasami nazywają taką sytuację „przegrzaniem gospodarki”, gdyż popyt jest tak wysoki, że istnieje presja na wzrost płac i cen, co wywołuje inflację. W tej sytuacji restrykcyjna polityka fiskalna obejmująca cięcia wydatków lub podwyżki podatków może pomóc zmniejszyć presję inflacyjną poprzez przesunięcie krzywej popytu globalnego w lewo, do położenia AD<sub>1</sub>. W rezultacie gospodarka przesunie się do nowego punktu równowagi E<sub>1</sub> znajdującego się na poziomie potencjalnego PKB, gdzie krzywa popytu globalnego przecina się z krzywą LAS.</para>
+      <figure id="CNX_Econ_C30_011">
+        <title id="UUIDa91b804f-61fa-4bca-67b8-9b9cf83867b6">Restrykcyjna polityka fiskalna</title>
+        <media alt="Wykres przedstawia dwie krzywe popytu globalnego, które przecinają się z krzywymi podaży globalnej. Krzywa popytu globalnego (AD1) przecina się z krótkookresową krzywą podaży globalnej (SAS0) oraz z długookresową krzywą podaży globalnej (LAS), wykreśloną na poziomie potencjalnego PKB." id="fs-idm77655120">
+          <image src="../../media//CNX_Econ_C30_011.svg" mime-type="image/svg+xml" id="UUIDcf508259-334d-4029-5e22-af8a84904df1" />
+        </media>
+        <caption id="UUIDd8668a3a-83ea-4a0d-6a22-f4859b12303c">Gospodarka startuje z punktu równowagi przy produkcji Y0, czyli powyżej potencjalnego PKB. Ekstremalnie wysoki poziom popytu globalnego wywołuje presję inflacyjną. Restrykcyjna polityka fiskalna przesuwa krzywą popytu globalnego w dół, z położenia AD0 do AD1, prowadząc do nowej wielkości produkcji w równowadze (Y1) występującej przy potencjalnym PKB, gdzie krzywa AD1 przecina się z krzywą LAS.</caption>
+      </figure>
+      <para id="UUID51892ddd-3650-4820-4e2e-3b2d1b8d360f">Ponownie, model AD-AS nie mówi, w jaki sposób rząd powinien prowadzić restrykcyjną politykę fiskalną. Niektórzy mogą preferować cięcia wydatków, inni – podwyżki podatków, a jeszcze inni uważać, że zależy to od konkretnej sytuacji. Model dowodzi jedynie, że w tym konkretnym przypadku państwo powinno zmniejszyć popyt globalny.</para>
+    </section>
+    <section id="fs-idp166011328" class="summary">
+      <title id="UUIDe145ac0b-9403-401e-4877-0b1afd6d5bcd">Podsumowanie</title>
+      <para id="fs-idp29496288">Ekspansywna polityka fiskalna zwiększa poziom popytu globalnego poprzez wzrost wydatków państwa lub obniżenie podatków. Najskuteczniejsza jest wtedy, gdy gospodarka znajduje się w recesji, zaś wielkość produkcji jest niższa od poziomu potencjalnego PKB. Restrykcyjna polityka fiskalna prowadzi do spadku popytu globalnego poprzez cięcia wydatków państwa lub podwyżki podatków. Najlepiej sprawdza się wtedy, gdy gospodarka produkuje powyżej poziomu potencjalnego PKB.</para>
+    </section>
+    <section id="fs-idp68289168" class="self-check-questions">
+      <title id="UUIDf8904672-a6e7-4e14-6ffb-b00fd9901cfe">Pytania sprawdzające</title>
+      <exercise id="fs-idm68878944">
+        <problem id="fs-idm38251712">
+          <para id="fs-idm19351392">Co jest głównym celem stosowania restrykcyjnej polityki fiskalnej w okresie szybkiego wzrostu gospodarczego?</para>
+        </problem>
+        <solution id="fs-idp32072752">
+          <para id="fs-idm4945520">Zahamowanie inflacji.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm24790704">
+        <problem id="fs-idm30661008">
+          <para id="fs-idm35758288">Co jest głównym celem stosowania ekspansywnej polityki fiskalnej w czasie recesji?</para>
+        </problem>
+        <solution id="fs-idp39309248">
+          <para id="fs-idm23440912">Zwiększanie zatrudnienia.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm185626800" class="review-questions">
+      <title id="UUID6340bd93-db23-48c5-717a-8097ee59f931">Sprawdź wiedzę</title>
+      <exercise id="fs-idm139280256">
+        <problem id="fs-idm2341920">
+          <para id="fs-idm227454112">Jaka jest różnica między ekspansywną a restrykcyjną polityką fiskalną?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm108432048">
+        <problem id="fs-idm140921744">
+          <para id="fs-idm139103440">Wskaż, w jakich warunkach gospodarczych rząd może zastosować ekspansywną politykę fiskalną. A kiedy może zastosować restrykcyjny wariant tej polityki?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm63134176" class="critical-thinking">
+      <title id="UUID770dbf4c-2fa2-4e15-6bb8-d6004efa02a9">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idp17401072">
+        <problem id="fs-idm56842160">
+          <para id="fs-idp22857376">Czy ekspansywna polityka fiskalna jest lepiej oceniana przez polityków, którzy są zwolennikami bardziej rozbudowanej roli państwa w gospodarce, czy też przez tych, którzy preferują jego znacznie bardziej ograniczoną rolę? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm92694736" class="problems">
+      <title id="UUID9ae02599-1faf-4afd-6f7f-f299905b6e80">Problemy</title>
+      <exercise id="fs-idm13483776">
+        <problem id="fs-idm117130704">
+          <para id="fs-idm76985200">Jaki wariant polityki fiskalnej (ekspansywny czy restrykcyjny) wydaje się najbardziej odpowiedni w każdej z poniższych sytuacji? Odpowiedź zilustruj za pomocą modelu AD-AS.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm152839328">
+            <item id="UUID62ef10c0-8be3-4344-51b9-ad5623466a02">
+              <para id="UUID9add6299-93c1-4b98-7bbd-a9ebb516be6c">Recesja.</para>
+            </item>
+            <item id="UUID6a63c3f2-531c-4c90-6e2b-1944bdd5b11b">
+              <para id="UUID8aae44d1-eaf1-46ce-7396-7acfa4aaaa57">Załamanie na giełdzie, które negatywnie wpływa na nastroje konsumentów i przedsiębiorstw</para>
+            </item>
+            <item id="UUIDa6c572aa-1aee-4c50-7d48-613866c344a3">
+              <para id="UUID9930506f-9e9a-4c2d-4773-fe2d568a636a">Niezwykle szybki wzrost eksportu</para>
+            </item>
+            <item id="UUID1b16a7ec-cd8e-424b-5126-135e5718b9f8">
+              <para id="UUIDae83076c-4bfa-4dd9-470e-2aac7fe10e22">Rosnąca inflacja.</para>
+            </item>
+            <item id="UUID3332bb8a-dfe4-4f18-7a20-33d0e5e5e0c8">
+              <para id="UUID3b17b435-f6ff-4960-794f-7900c17e31b8">Wzrost naturalnej stopy bezrobocia.</para>
+            </item>
+            <item id="UUID03295692-21bb-4e77-52f6-dc02d470a600">
+              <para id="UUID16c9cab6-24c2-48db-79ae-8a1089ae4497">Wzrost cen ropy naftowej.</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp22458944" class="references">
+      <title id="UUID85eaf5d8-35f6-4d06-5a02-d3267f418710">Bibliografia</title>
+      <para id="fs-idp55074016">Alesina, Alberto, and Francesco Giavazzi. <emphasis effect="italics">Fiscal Policy after the Financial Crisis (National Bureau of Economic Research Conference Report)</emphasis>. Chicago: University Of Chicago Press, 2013.</para>
+      <para id="fs-idm48701840">Martin, Fernando M. “Fiscal Policy in the Great Recession and Lessons from the Past.” Federal Reserve Bank of St. Louis: <emphasis effect="italics">Economic Synopses</emphasis>. no. 1 (2012). http://research.stlouisfed.org/publications/es/12/ES_2012-01-06.pdf.</para>
+      <para id="fs-idm30008352">Bivens, Josh, Andrew Fieldhouse, and Heidi Shierholz. “From Free-fall to Stagnation: Five Years After the Start of the Great Recession, Extraordinary Policy Measures Are Still Needed, But Are Not Forthcoming.” <emphasis effect="italics">Economic Policy Institute</emphasis>. Last modified February 14, 2013. http://www.epi.org/publication/bp355-five-years-after-start-of-great-recession/.</para>
+      <para id="fs-idm44282512">Lucking, Brian, and Dan Wilson. Federal Reserve Bank of San Francisco, “FRBSF Economic Letter—U.S. Fiscal Policy: Headwind or Tailwind?” Last modified July 2, 2012. http://www.frbsf.org/economic-research/publications/economic-letter/2012/july/us-fiscal-policy/.</para>
+      <para id="fs-idp69987008">Greenstone, Michael, and Adam Looney. Brookings. “The Role of Fiscal Stimulus in the Ongoing Recovery.” Last modified July 6, 2012. http://www.brookings.edu/blogs/jobs/posts/2012/07/06-jobs-greenstone-looney.</para>
+    </section>
+  </content>
+  <glossary id="UUIDd81f245f-4422-4325-5be9-46558f383da0">
+    <definition id="fs-idm158046224">
+      <term id="UUIDb4230118-93d8-4d43-50ba-fee37d227e94">restrykcyjna polityka fiskalna (ang. contractionary fiscal policy)</term>
+      <meaning id="fs-idm18265376">
+        <para id="UUID4d801e62-8aa4-4c57-6e9c-36980a979e13">polityka fiskalna, która zmniejsza popyt globalny poprzez cięcia wydatków państwa i/lub podwyżki podatków</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm151239568">
+      <term id="UUID540af651-7264-473c-54ac-318a7d32ffb9">ekspansywna polityka fiskalna (ang. expansionary fiscal policy)</term>
+      <meaning id="fs-idp26027360">
+        <para id="UUID37ff27e8-7b8f-44f3-59ea-47c027cb5058">polityka fiskalna, która zwiększa popyt globalny poprzez wzrost wydatków państwa i/lub obniżkę podatków</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

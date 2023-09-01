@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U23c6a72c-3cc7-4411-ad08-abb173d2f1ab" id="U23c6a72c-3cc7-4411-ad08-abb173d2f1ab" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do handlu zagranicznego i przepływów kapitałowych</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00023</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/23c6a72c-3cc7-4411-ad08-abb173d2f1ab</md:content-url>
+    <md:title>Wprowadzenie do handlu zagranicznego i przepływów kapitałowych</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:03.724646586+00:00</md:version>
+    <md:created>2023-08-30T08:02:03.724646586+00:00</md:created>
+    <md:revised>2023-08-30T08:02:03.724646586+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>23c6a72c-3cc7-4411-ad08-abb173d2f1ab</md:uuid>
+  </metadata>
+  <content>
+    <figure id="CNX_Econ_C23_000" class="splash">
+      <title id="UUID8d16ad1f-d5d6-44a9-7cde-abc6effb5a30">Świat pieniądza</title>
+      <media alt="Zdjęcie przedstawia banknoty i bilon wielu różnych walut." id="fs-idp55802320">
+        <image src="../../media//CNX_Econ_C23_000.jpg" mime-type="image/jpeg" id="UUID3e5f5c4f-51f9-4d72-5e4b-e32a595929e2" />
+      </media>
+      <caption id="UUID71213ded-6066-4bed-5c46-8c5d2013d37b">Wszyscy, zarówno konsumenci, jak i producenci, jesteśmy częścią globalnego systemu finansowego, w ramach którego funkcjonuje wiele różnych walut. (Źródło: modyfikacja pracy epSos.de/Flickr Creative Commons).</caption>
+    </figure>
+    <note type="note" id="fs-idm88407888" class="bringhome economics">
+      <title id="UUID7a81387f-dc3e-4de6-5c3b-25665d358e67">Więcej niż widać w Kongo na pierwszy rzut oka</title>
+      <para id="UUIDbbb25635-17a0-4da5-4360-66b1432cfb4a">W jakim stopniu uczestniczysz w globalnym systemie finansowym? Myślisz, że w niewielkim? Zastanów się jeszcze raz. Załóżmy, że zaciągasz pożyczkę lub kredyt albo wpłacasz pieniądze na swoje konto bankowe. Właśnie udało ci się wywrzeć wpływ na wartość krajowych oszczędności i kredytów. A teraz przenieśmy się do centrum handlowego, gdzie kupujesz dwie koszulki z metką <foreign xml:lang="en" id="UUIDb0b0d090-62c8-45f7-6378-a912746efb73">made in China</foreign>, a następnie za pomocą koreańskiego telefonu przelewasz środki na konto organizacji charytatywnej, która pomaga uchodźcom. Czy to też ma jakieś znaczenie? Oczywiście, przecież twoje decyzje wpłynęły na to, ile pieniędzy trafia do Polski (twojego kraju) i z Polski wypływa. Jeśli otworzysz rachunek inwestycyjny w biurze maklerskim i kupisz jednostki uczestnictwa w międzynarodowym funduszu inwestycyjnym, zasilisz strumień środków przepływających nawet na drugi kraniec globu. Twoje zaangażowanie może nie wydawać się tak ważne, jak działania np. premiera czy prezydenta, którzy podejmują decyzje o zwiększaniu lub zmniejszaniu pomocy zagranicznej, co ma ogromny wpływ na przepływy pieniężne do i z twojego kraju. Nie zmienia to jednak faktu, że codziennie wchodzisz w interakcję z globalnym systemem finansowym.</para>
+      <para id="UUID3afd444d-23bc-4374-7820-bdb037bb21c9">Bilans płatniczy – termin, który wkrótce poznasz – wydaje się niezwykle skomplikowanym zagadnieniem, ale gdy zrozumiesz czynniki kształtujące międzynarodową wymianę handlową i przepływy pieniężne, wszystko nabierze sensu. Być może okaże się, że porzucisz wówczas niektóre z powszechnie podzielanych i skądinąd błędnych poglądów na temat handlu zagranicznego. Odpowiesz sobie także na kilka pytań. Czy to źle, że kraj ma deficyt handlowy? Czy nadwyżka handlowa jest dobra? Spójrz choćby na Demokratyczną Republikę Konga (często nazywaną po prostu Kongiem). Skoro w 2013 r. Kongo, duży kraj w Afryce Środkowej, zanotowało nadwyżkę handlową w wysokości 1 mld dol., musiało sobie chyba bardzo dobrze radzić, prawda? Dla porównania, deficyt handlowy Stanów Zjednoczonych wyniósł w 2013 r. 508 mld dol. (Polska w tym samym okresie zanotowała deficyt w wysokości 2,5 mld zł). Czy to oznacza, że gospodarki USA i Polski funkcjonują gorzej niż gospodarka Konga? Niekoniecznie. Deficyt handlowy USA ma tendencję do pogłębiania się w miarę wzmacniania się gospodarki. W Polsce już w 2015 i 2016 r. zanotowano nadwyżkę (https://stat.gov.pl/obszary-tematyczne/inne-opracowania/informacje-o-sytuacji-spoleczno-gospodarczej/biuletyn-statystyczny-nr-32023,4,136.html). Z kolei w Kongu utrzymuje się wysoki wskaźnik ubóstwa, który nie maleje nawet przy dodatnim bilansie handlowym. Oczywiście wyciąganie wniosków na podstawie statystyk handlu zagranicznego to coś znacznie bardziej skomplikowanego niż samo stwierdzenie, że deficyt handlowy jest niekorzystny dla gospodarki. Między innymi o tego typu zagadnieniach traktuje niniejszy rozdział.</para>
+    </note>
+    <note type="note" id="fs-idp37357152" class="chapter-objectives economics">
+      <title id="UUIDc8d3db9e-ba17-4154-47e0-0b79884fb306">Wprowadzenie do tematu handlu zagranicznego i przepływów kapitałowych</title>
+      <para id="fs-idp37140032">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idp108034288">
+        <item id="UUIDadc57377-1e1b-4630-5302-a651ab6b089b">
+          <para id="UUID0218ebdd-587e-4fc5-79a5-2f083c8d952e">W jaki sposób mierzy się bilans handlowy</para>
+        </item>
+        <item id="UUIDb6faa5c2-f8b5-4d8a-5fdf-54187001b791">
+          <para id="UUID966c2390-9a43-4e37-6e1f-9b68c924cda4">Ja przedstawia się zmienność bilansu handlowego w kontekście historycznym i międzynarodowym</para>
+        </item>
+        <item id="UUID6fc932b8-42ad-451e-4626-85d4587655e1">
+          <para id="UUIDbc8e6b30-7cb2-43dc-584f-c29f864db41c">Jakie są relacje pomiędzy bilansem handlowym i przepływami kapitału finansowego</para>
+        </item>
+        <item id="UUID1e8f645a-4a6b-4dfe-68da-f3a6f8830f64">
+          <para id="UUIDd249bc36-4f81-4999-683d-6504db6670ac">Czym jest tożsamości krajowych oszczędności i inwestycji</para>
+        </item>
+        <item id="UUID84c47893-575d-42e9-5fb7-a51ca6337b39">
+          <para id="UUID3d24b943-d27d-4a4a-61a3-285816390335">Jakie są zalety i wady utrzymywania zarówno deficytu, jak i nadwyżki handlowej</para>
+        </item>
+        <item id="UUID37c29c80-d647-4593-4d1c-179ed4ee3976">
+          <para id="UUID8a44466d-7c78-43ba-4332-2390fa7f4d7e">Jakie są różnice pomiędzy wielkością wymiany handlowej a bilansem handlowym</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idm29103136"><term id="UUID7679ccfc-e333-47c4-554b-e352edff8694">Bilans handlowy</term> (ang. <foreign xml:lang="en" id="UUID2d1829d4-a081-4d70-6231-d8719f7f8382"><emphasis effect="italics" /><term id="UUID5b3cf39a-da65-45f0-692d-92a150fef785"><emphasis effect="italics">balance of trade / trade balance</emphasis></term><emphasis effect="italics" /></foreign>) jest różnicą między wyrażoną w jednostkach pieniężnych (złotych lub dolarach) wartością eksportu, czyli dóbr i usług, które zostały wyprodukowane w danym kraju i sprzedane za granicę, a wyrażoną w tych samych jednostkach wartością importu, czyli dóbr i usług wyprodukowanych za granicą i nabywanych przez podmioty (przedsiębiorstwa i gospodarstwa domowe) z danego kraju. Przypomnij sobie to, co było wskazane w <link document="m00001" cmlnle:case="locative" id="UUIDafd69b66-9d70-49f7-5a88-f6396f1ff270" />. Jeśli eksport przekracza import, to gospodarka ma <term id="UUID4bb4847e-204a-4289-41be-7089e24f5913">nadwyżkę handlową</term> lub inaczej <term id="UUIDb6d19dde-cf87-4fa8-66fa-5e72490cec72">dodatni bilans handlowy</term> (ang. <foreign xml:lang="en" id="UUIDaba364de-daf0-4c2b-67b5-1c8abf350bf4"><emphasis effect="italics" /><term id="UUID10c67235-a9aa-4573-5616-448a69786c4e"><emphasis effect="italics">trade surplus</emphasis></term><emphasis effect="italics" /></foreign>). Jeżeli natomiast wartość importu jest większa od wartości eksportu, gospodarka ma <term id="UUID4192aa4b-5537-4b80-70cf-f1394fcccac7">deficyt handlowy</term> (<term id="UUID46e03581-e980-4fcd-4848-05fb922d2b60">ujemny bilans handlowy</term>) (ang. <foreign xml:lang="en" id="UUID126a8abd-84b2-4f93-55b8-ea387d53ed09"><emphasis effect="italics" /><term id="UUID41666412-a118-4581-5bb8-b0cc61eb511f"><emphasis effect="italics">trade deficit</emphasis></term><emphasis effect="italics" /></foreign>). Jeśli eksport i import są sobie równe, to saldo bilansu handlowego jest zrównoważone. Zastanówmy się zatem, co się dzieje, gdy w jakimś kraju występują duże nadwyżki lub deficyty handlowe.</para>
+    <para id="UUID1ab48541-7e48-41f2-6713-0a3811a3a826">Rozważmy jako przykład sąsiada Polski, czyli gospodarkę Niemiec. Zgodnie z danymi Banku Światowego notowała ona w ciągu ostatnich kilkudziesięciu lat znaczne nadwyżki handlowe – w 2020 r. był to poziom 242 mld dol. Z kolei gospodarka amerykańska w ciągu ostatnich kilku dekad doświadczała wysokich deficytów handlowych. Na przykład w tym samym okresie (2020) wartość importu Stanów Zjednoczonych przekroczyła wartość eksportu o 651 mld dol.</para>
+    <para id="UUIDe1f92c6e-80b8-43b7-48f4-7886ed7e3076">Seria kryzysów finansowych wywołanych przez niezrównoważony bilans handlowy może doprowadzić gospodarki do głębokich recesji. Takie kryzysy zaczynają się od narastania deficytu handlowego, który przyjmuje bardzo wysokie rozmiary. W pewnym momencie, który bardzo trudno jest przewidzieć, zagraniczni inwestorzy zmieniają nastawienie i decydują się na wycofanie swoich kapitałów z takiego kraju. W wyniku tego posunięcia pozbawiona kapitału gospodarka wpada w głęboką recesję, a wartość realnego PKB może się obniżyć nawet o wartości dwucyfrowe w ciągu jednego roku. Taka sytuacja wystąpiła w Meksyku w 1995 r., gdy PKB zmniejszył się o 8,1%. Wiele krajów Azji Wschodniej – Tajlandię, Koreę Południową, Malezję i Indonezję – te same problemy dotknęły w latach 1997–1998 (określane dość powszechnie jako azjatycki kryzys finansowy). Na przełomie XX i XXI w. podobne doświadczenia miały Rosja i Argentyna. Jaki jest związek pomiędzy nierównowagą w handlu zagranicznym i przepływami międzynarodowego kapitału finansowego, które wywołały te gospodarcze turbulencje?</para>
+    <para id="UUID6c907f1c-bfd3-44ff-419c-44c3ea57112b">Zaczniemy od bardziej szczegółowej analizy bilansu handlowego, wykorzystując realne dane z Polski, Stanów Zjednoczonych i innych światowych gospodarek. Następnie zbadamy nierozerwalny związek pomiędzy międzynarodowymi przepływami towarów i usług oraz międzynarodowymi przepływami kapitału finansowego, które dla ekonomistów są tak naprawdę jak awers i rewers jednej monety. Laicy często zakładają, że nadwyżki handlowe, takie jak te w Niemczech, muszą być pozytywnym sygnałem płynącym z gospodarki, podczas gdy handlowe deficyty, charakterystyczne dla gospodarki Stanów Zjednoczonych, mają negatywny charakter. W rzeczywistości zarówno nadwyżki, jak i deficyty handlowe można postrzegać jako sytuację pozytywną bądź negatywną. W tym rozdziale odpowiemy na pytanie, od czego zależy ocena formułowana przez ekonomistów.</para>
+  </content>
+</document>

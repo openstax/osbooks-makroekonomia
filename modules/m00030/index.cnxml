@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U6ba9a94b-5698-4d4f-b7dd-10e1419715fe" id="U6ba9a94b-5698-4d4f-b7dd-10e1419715fe" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Introduction to the Aggregate Supply–Aggregate Demand Model</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00030</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/6ba9a94b-5698-4d4f-b7dd-10e1419715fe</md:content-url>
+    <md:title>Introduction to the Aggregate Supply–Aggregate Demand Model</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:03.874665613+00:00</md:version>
+    <md:created>2023-08-30T08:02:03.874665613+00:00</md:created>
+    <md:revised>2023-08-30T08:02:03.874665613+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>6ba9a94b-5698-4d4f-b7dd-10e1419715fe</md:uuid>
+  </metadata>
+  <content>
+    <figure id="CNX_Econ_C24_000" class="splash">
+      <title id="UUIDa0d48fa6-f585-4c54-57eb-60c35ab03566">Budowa domu</title>
+      <media alt="Zdjęcie przedstawia budowę dużego domu." id="mCNX_Econ_C24_000">
+        <image src="../../media//CNX_Econ_C24_000.jpg" mime-type="image/jpeg" id="UUID9f905dd4-02ee-464a-7079-8872430d8cc3" />
+      </media>
+      <caption id="UUIDa63cdfda-0200-4c8b-4e17-0e01b6349da1">W szczycie bańki na rynku nieruchomości w Stanach Zjednoczonych bardzo wiele osób było w stanie uzyskać kredyt hipoteczny pozwalający na sfinansowanie zakupu nowego domu. (Źródło: modyfikacja pracy Tima Pierce’a/Flickr Creative Commons).</caption>
+    </figure>
+    <note type="note" id="ch24mod00_bring" class="bringhome economics">
+      <title id="UUIDdc194ccf-fcc2-43f0-6684-25458c0b1ebf">Od bańki do krachu na amerykańskim rynku nieruchomości</title>
+      <para id="ch24mod00_p02">Liczba mieszkańców Stanów Zjednoczonych posiadających domy na własność, począwszy od lat 90. XX w. systematycznie rosła, co rzecz jasna oznaczało rozwój rynku nieruchomości w tym kraju. Tylko w latach 2004–2005 odsetek właścicieli domów w amerykańskim społeczeństwie wzrósł o ponad 5 punktów procentowych, z mniej więcej 64% do ponad 69%. Wiele osób mogło sobie wtedy kupić swój pierwszy dom lub stać się właścicielami nieruchomości większych i droższych niż dotychczas. W tym samym okresie wartość kredytów hipotecznych się potroiła. Mieszkania, uznane za bezpieczną inwestycję finansową, stały się bardziej dostępne dla Amerykanów. <link target-id="CNX_Econ_C24_017" id="UUID7d86cdaf-8393-4d38-40c9-182d81a96da7" /> wskazuje, że w ciągu ostatnich 60 lat sprzedaż nowych domów jednorodzinnych osiągnęła szczytową wartość w roku 2005 (1279 tys.).</para>
+      <figure id="CNX_Econ_C24_017">
+        <title id="UUIDd36771fd-d4d1-4823-5052-6d4c0d53b1e4">Wolumen sprzedaży nowych domów jednorodzinnych w USA</title>
+        <media alt="Wykres pokazuje, że w ciągu ostatnich 60 lat (tj. od 1963 r.) wielkość sprzedaży nowych domów jednorodzinnych najwyższa była w roku 2005, osiągając poziom 1279 tys. Jednak już w kolejnym roku wielkość ta zaczęła drastycznie spadać, do minimalnego poziomu 306 tys. w roku 2011. Począwszy od 2012 r., sprzedaż nowych domów jednorodzinnych ponownie zaczęła rosnąć." id="mCNX_Econ_C24_017">
+          <image src="../../media//CNX_Econv1-2_C24_02.svg" mime-type="image/svg+xml" id="UUID50444fed-f8a3-4812-7199-16bf28d2c578" />
+        </media>
+        <caption id="UUID22d7dbb0-336c-41e5-7923-907a34b9f40f">Od początku lat 90. XX w. do 2005 r. liczba nowych domów jednorodzinnych sprzedawanych w USA systematycznie rosła. W 2006 r. sprzedaż się załamała i ten trend utrzymywał się aż do roku 2011. Począwszy od roku 2012, sprzedaż nowych domów jednorodzinnych ponownie zaczęła rosnąć i tendencji tej nie zahamowała nawet pandemia COVID-19. (Źródło: US Census Bureau).</caption>
+      </figure>
+      <para id="UUID0bbf1070-e5a3-439e-7c6a-5cdc5b99d067">Boom (nazywany potocznie bańką) na amerykańskim rynku nieruchomości zakończył się w roku 2005 (popularnie mówiąc, w tym właśnie roku bańka zaczęła pękać). Narastały zaległości i opóźnienia w spłatach kredytów hipotecznych, a na rynku pojawiła się nadwyżka podaży nowych domów nad popytem na to specyficzne dobro. Spadek wartości domów, będący konsekwencją nadwyżki ich podaży, przyczynił się do zmniejszenia majątku sektora gospodarstw domowych i doprowadził do obniżenia wydatków konsumpcyjnych ich właścicieli. Kilka instytucji udzielających kredytów hipotecznych zbankrutowało, bo właściciele domów przestali spłacać zaciągnięte wcześniej kredyty. Do 2008 r. negatywne skutki gwałtownego odwrócenia trendu na rynku nieruchomości rozlały się na cały rynek finansowy. Banki ograniczyły skalę działalności kredytowej i bańka nieruchomościowa ostatecznie pękła. Rynki finansowe znalazły się w kryzysie, a banki nie mogły lub nie chciały udzielać kredytów nawet klientom posiadającym zdolność kredytową.</para>
+      <para id="UUIDa09aa509-bf3d-4c13-5da2-27e875160cfd">Bańka na rynku nieruchomości i kryzys na rynkach finansowych były głównymi przyczynami globalnego kryzysu z lat 2008–2012, który doprowadził w USA do wzrostu stopy bezrobocia powyżej 10% i spadku nie tylko dynamiki wzrostu, ale wręcz poziomu PKB (przypomnijmy, że w tym samym okresie Polska pozostała jedynym krajem UE, któremu udało się zachować dodatnie tempo wzrostu gospodarczego – na przełomie pierwszej i drugiej dekady XXI w. byliśmy „zieloną wyspą”). Przezwyciężenie skutków tego kryzysu zajęło Stanom Zjednoczonym wiele lat, a przywrócenie stabilności rynków finansowych zostało osiągnięte m.in. dzięki aktywnej polityce fiskalnej i pieniężnej.</para>
+      <para id="UUID1718beda-e2ad-4b4f-633a-eff48fa6effc">Historia Stanów Zjednoczonych pokazuje, że wzrost gospodarczy tego kraju, podobnie zresztą jak większości gospodarek kapitalistycznych, odbywał się w sposób cykliczny, zaś okresy ekspansji i recesji przeplatały się ze sobą. Niektóre z tych recesji były niezwykle głębokie, tak jak kilkuletnie załamanie gospodarcze w latach 30. XX w. Dlaczego gospodarka wykazuje różne tempo wzrostu w różnych latach? Jakie są przyczyny cyklicznych wahań koniunktury? W tym rozdziale przedstawimy kluczowy dla zrozumienia zmienności kierunków i dynamiki zmian poziomu PKB model, tj. model popytu globalnego i podaży globalnej (model AD-AS).</para>
+    </note>
+    <para id="UUIDfdfc5c00-364c-4fcf-78cc-1999cbaa3ef5" />
+    <note type="note" id="ch24mod00_obj" class="chapter-objectives economics">
+      <title id="UUIDb633f4c2-5a1a-4a7d-6433-af6b94bb68ba">Wprowadzenie do modelu popytu globalnego i podaży globalnej (modelu AD-AS)</title>
+      <para id="ch24mod00_p01">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="ch24mod00_list01">
+        <item id="UUID5c64b851-4bef-4f27-75c9-0907a7089ffb">
+          <para id="UUID0a41916c-d458-4e98-7329-86e30b3b1574">W jaki sposób makroekonomiści postrzegają popyt i podaż</para>
+        </item>
+        <item id="UUID2c4acc65-c1e1-4fae-5d66-7d2c6b0ff9d7">
+          <para id="UUID2cb2bd53-26c1-4307-4a91-34202b12f8ae">Jak skonstruowany jest model wykorzystujący popyt i podaż globalną (model AD-AS)</para>
+        </item>
+        <item id="UUID1afb0420-c03a-4e48-47d3-390dca749846">
+          <para id="UUIDcb881a51-df75-4c61-7995-92d4eca20039">Jakie czynniki powodują przesunięcie funkcji podaży globalnej</para>
+        </item>
+        <item id="UUID5fa65a72-913c-4ffb-627a-e1020d6ab691">
+          <para id="UUID4dfdd286-be89-43b5-7674-3e5699d1d1b8">Jakie zmienne determinują położenie krzywej popytu globalnego</para>
+        </item>
+        <item id="UUID212e99d8-b033-4666-487a-1d8052216d7d">
+          <para id="UUID0fe809e3-54c9-437c-4ec9-44891542fd17">W jaki sposób włączyć do modelu AD-AS zjawiska wzrostu gospodarczego, bezrobocia i inflacji</para>
+        </item>
+        <item id="UUIDbae0cda3-13b2-4e7b-4b5b-5193e5fbd5c5">
+          <para id="UUIDe470368f-fb5e-408d-66f3-7afddda52a63">Czym są prawo rynków Keynesa i prawo rynków Saya</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID2b27f966-265e-48c2-73b9-b01487ccf795">Podobnie jak to ma miejsce w mikroekonomii, również makroekonomiści do analizy interesujących ich problemów wykorzystują modele. Jaka jest zależność pomiędzy tempem wzrostu gospodarczego i stopą bezrobocia? Czy istnieje powód, dla którego między bezrobociem a inflacją może występować relacja wymienna (relacja typu „coś za coś”), co oznacza, że parametry te zmieniają się w przeciwnych kierunkach (np. w Stanach Zjednoczonych w latach 1997–2000 – spadek bezrobocia i wzrost inflacji; na początku XXI w. – wzrost bezrobocia i spadek inflacji; po roku 2009 – ponownie wzrost bezrobocia i spadek inflacji)? Dlaczego amerykański deficyt na rachunku obrotów bieżących na początku XXI w. osiągnął tak gigantyczne rozmiary, a następnie, w roku 2009, gwałtownie spadł?</para>
+    <para id="ch24mod00_p07">Aby znaleźć odpowiedź na tego typu pytania, musimy odejść od analizy konkretnych zdarzeń w gospodarce i skonstruować modele, które pomogą nam uchwycić charakter zależności i powiązań pomiędzy różnymi parametrami makroekonomicznymi. Konstrukcja i sposób funkcjonowania modeli makroekonomicznych będą przedmiotem rozważań kolejnych trzech rozdziałów podręcznika. Zaczniemy od przedstawienia makroekonomicznego modelu popytu globalnego i podaży globalnej, nazywanego również modelem AD-AS (od angielskich określeń <emphasis effect="italics"><emphasis effect="bold">a</emphasis>ggregate</emphasis> <emphasis effect="italics"><emphasis effect="bold">d</emphasis>emand i</emphasis> <emphasis effect="italics"><emphasis effect="bold">a</emphasis>ggregate</emphasis> <emphasis effect="italics"><emphasis effect="bold">s</emphasis>upply</emphasis>). W niniejszym rozdziale zostanie również omówione wzajemne oddziaływanie popytu globalnego i podaży globalnej, sposób ustalania równowagi makroekonomicznej oraz wpływ zmian popytu i podaży globalnej na równowagę w gospodarce. Przedstawiony model stanie się poręcznym narzędziem oceny prowadzonej przez państwa polityki gospodarczej w zakresie trzech obszarów (celów) – wzrostu gospodarczego, bezrobocia i inflacji. Spróbujemy również określić, na ile cele te pozostają ze sobą w relacji substytucyjnej (innymi słowy wymiennej: albo jeden, albo drugi), a na ile komplementarnej (inaczej mówiąc uzupełniającej się: jeśli jeden to i drugi). W kolejnym <link document="m00037" cmlnle:case="locative" id="UUID20824ae2-7bb0-46a1-4f01-befe85228b48" /> wprowadzony zostanie model opisujący sposób dostosowań gospodarki w krótkim okresie, czyli model keynesowski, w ramach którego kluczowe znacznie ma popyt globalny (stąd wykorzystywana niekiedy inna nazwa – model popytowy). W następnym zaś, <link document="m00042" cmlnle:case="locative" id="UUIDa904bba4-affe-4685-63cb-98597dbd57c2" />, przeanalizujemy model klasyczny, przedstawiający sposób funkcjonowania gospodarki w długim okresie, kiedy kluczową rolę odgrywa podaż globalna (stąd alternatywna nazwa tego modelu – ekonomia podażowa).</para>
+  </content>
+</document>

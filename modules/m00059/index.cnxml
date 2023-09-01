@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U6590063d-192b-4868-bd60-4b16293b5d3d" id="U6590063d-192b-4868-bd60-4b16293b5d3d" xml:lang="en" cnxml-version="0.7">
+  <title>11.3 Macroeconomic Effects of Exchange Rates</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00059</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/6590063d-192b-4868-bd60-4b16293b5d3d</md:content-url>
+    <md:title>11.3 Macroeconomic Effects of Exchange Rates</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:04.915710633+00:00</md:version>
+    <md:created>2023-08-30T08:02:04.915710633+00:00</md:created>
+    <md:revised>2023-08-30T08:02:04.915710633+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>6590063d-192b-4868-bd60-4b16293b5d3d</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <list id="list-00001">
+      <item id="UUIDa64e0f22-5e0b-4da7-6d37-70e4928552af">
+        <para id="UUID5a86f92d-1eb8-430e-734b-14b848184cb0">Wyjaśnić, w jaki sposób zmiana kursu walutowego oddziałuje na globalny popyt i globalną podaż</para>
+      </item>
+      <item id="UUID929b1707-70bb-4829-7a7a-a59a795de126">
+        <para id="UUIDd61e425c-d880-4eec-7f93-fa31b4590adb">Wskazać, w jaki sposób zmiana kursu walutowego może wpływać na sektor bankowy oraz wartość udzielanych kredytów</para>
+      </item>
+    </list>
+    <para id="fs-idm11209376">Dla banku centralnego kurs walutowy jest istotny z wielu powodów. Po pierwsze, zmiany kursu walutowego wpływają na wielkość popytu globalnego w gospodarce. Po drugie, częste i silne wahania kursu mogą zakłócać handel międzynarodowy i powodować niestabilność systemu bankowego. Jeśli kurs lokalnej waluty będzie się silnie wahał w krótkim okresie, może to doprowadzić do powstania wysokiego deficytu w bilansie obrotów bieżących i generować napływ międzynarodowego kapitału finansowego, który jest niezbędny, aby pokryć ujemne saldo na rachunku obrotów bieżących. W efekcie jeśli międzynarodowi inwestorzy zdecydują się nagle wycofać kapitał i przenieść go do innego kraju, gospodarka może wpaść w głęboką recesję. Omówmy teraz oba te scenariusze.</para>
+    <section id="fs-idm14382592">
+      <title id="UUID15a054b9-bd2d-4ef6-6174-4a63bbc09613">Kursy walutowe, popyt globalny i podaż globalna</title>
+      <para id="fs-idm10120576">Handel zagraniczny wiąże się zazwyczaj z ponoszeniem kosztów produkcji w jednej walucie przy jednoczesnym uzyskiwaniu przychodów ze sprzedaży w innej. W rezultacie zmiany kursów walutowych mogą mieć ogromny wpływ na eksport i import, a tym samym na <term id="UUID1f38adfc-1ee8-4109-6e0b-73b537758a5f">popyt globalny</term> (<foreign xml:lang="en" id="UUID6a3a46ed-e8bc-4ee3-54f5-103be8fd4b3b"><term id="UUID7cad4a9c-0867-4e1d-7330-7e2b8ed06c6f">aggregate demand</term></foreign>) w całej gospodarce.</para>
+      <para id="UUID24c2f7d1-a2fc-4666-55d6-1d7b2765c333">Na przykład w 1999 r., kiedy wprowadzono euro, jego wartość mierzona w dolarach amerykańskich wynosiła 1,06 dol. za jednostkę wspólnej waluty. Do końca 2013 r. kurs walutowy euro wzrósł do 1,37 USD/EUR (co oznacza jednoczesne osłabienie się dolara amerykańskiego). Pod koniec lutego 2017 r. kurs walutowy ponownie spadł do 1,06 USD/EUR. Zastanówmy się, jak te zmiany mogły wpłynąć na francuskie przedsiębiorstwo, które każdego roku ponosi koszty w wysokości 10 mln euro i sprzedaje swoje produkty w Stanach Zjednoczonych za 11 mln dol. W 1999 r., kiedy przedsiębiorstwo zamieniało 11 mln dol. na euro po kursie 1,06 USD/EUR (czyli 11 mln USD × [1 EUR/1,06 USD]), otrzymywało 10,4 mln euro i notowało zyski. W 2013 r., gdy to samo przedsiębiorstwo zamieniało 11 mln dol. na euro po kursie 1,37 USD/EUR (czyli 11 mln USD × [1 EUR/1,37 USD]), otrzymywało ok. 8 mln euro, czyli ponosiło stratę. Na początku 2017 r., przy kursie walutowym na poziomie 1,06 USD/EUR, przedsiębiorstwo znów osiągało zysk, taki sam jak w 1999 r. Przykład ten pokazuje, że mocniejsze euro zniechęca francuską firmę do eksportu, ponieważ koszty produkcji w walucie krajowej rosną w stosunku do przychodów ze sprzedaży uzyskiwanych w innym kraju. Natomiast z punktu widzenia gospodarki USA słabszy dolar sprzyja amerykańskiemu <term cmlnle:reference="eksport" id="UUIDec987af7-4d87-4c09-546f-c4e678e0f4ec">eksportowi</term> (<foreign xml:lang="en" id="UUID5016f8ea-4150-4845-6463-a34a70debe72"><term id="UUID3e9c8c79-c899-4da8-47b8-58d4946d8e55">exports</term></foreign>).</para>
+      <para id="fs-idm50471328">Ponieważ wzrost eksportu skutkuje większym napływem dolarów do amerykańskiej gospodarki, a wzrost importu oznacza większy odpływ dolarów, łatwo jest stwierdzić, że dla gospodarki USA eksport jest „korzystny”, a import „niekorzystny”. Podejście takie pomija jednak rolę kursów walutowych. Jeśli amerykański konsument kupuje japoński samochód za 20 000 dol. zamiast amerykańskiego za 30 000 dol., kuszące może być twierdzenie, że nie jest to dobre dla amerykańskiej gospodarki. Jednak japońska firma będzie musiała zarobione dolary wymienić na jeny, aby pokryć koszty produkcji poniesione w Japonii. Ktokolwiek kupi te dolary, będzie musiał użyć ich do zakupu amerykańskich dóbr i usług, więc pieniądze wrócą z powrotem do amerykańskiej gospodarki. Jednocześnie konsumenci oszczędzą pieniądze, kupując tańsze towary importowane, a wygospodarowane dzięki kupnie tańszych aut środki mogą przeznaczyć na inne cele (np. wyprodukowaną w USA żywność lub zakup nieruchomości).</para>
+    </section>
+    <section id="fs-idp8164416">
+      <title id="UUIDab369c7e-f489-486f-5645-2d639abaf096">Wahania kursów walutowych</title>
+      <para id="fs-idp8165056">Kursy walutowe mogą ulegać dużym wahaniom w krótkim okresie. Przykładem jest rupia indyjska, której wartość zmieniła się z 39 rupii za dolara w lutym 2008 r. do 51 rupii za dolara w marcu 2009 r., co oznacza spadek rynkowej wartości tej waluty o ponad jedną czwartą. Analizowane przez nas wcześniej przykłady wskazywały na to, że nawet rozwinięte gospodarczo i sąsiadujące ze sobą kraje, takie jak Stany Zjednoczone i Kanada, mogą odnotowywać znaczne zmiany kursów walutowych na przestrzeni kilku lat, czyli relatywnie krótkiego okresu. W przypadku przedsiębiorstw produkujących przede wszystkim towary na eksport lub firm importujących czynniki wytwórcze, a nawet przedsiębiorstw, które same nie są zaangażowane w handel zagraniczny, ale muszą konkurować z firmami prowadzącymi działalność tego typu, gwałtowne wahania kursów walutowych mogą prowadzić do ogromnych zmian wyników finansowych. Bank centralny może spróbować ograniczać gwałtowne wahania kursowe i w ten sposób ułatwiać przedsiębiorstwom ich codzienną działalność, w ramach której nacisk kładziony byłby na zwiększanie produktywności i innowacje, a nie na ciągłe myślenie o sposobie reakcji na wahania kursów walut.</para>
+      <para id="UUID6ceaa13d-8d33-4ea3-727c-1c6ae4ec1bdc">Jedna z najbardziej dotkliwych ekonomicznie konsekwencji wahań kursów walutowych może pojawić się w wyniku działań sektora bankowego. Instytucje finansowe denominują większość międzynarodowych pożyczek w kilku ważnych walutach, takich jak dolary amerykańskie, euro czy też jeny japońskie. W krajach, które nie używają tych walut, banki często pożyczają na rynkach międzynarodowych środki w walutach innych państw, np. w dolarach amerykańskich, a następnie oferują lokalnym przedsiębiorstwom i gospodarstwom domowym kredyty w walucie krajowej. Lewa część <link target-id="CNX_Econ_C29_014" cmlnle:case="genitive" id="UUID514bb660-4922-4fab-759f-63e0f5bb5f70" /> pokazuje, jak funkcjonuje ten mechanizm. Bank w Tajlandii pożycza milion dolarów amerykańskich. Następnie przelicza dolary na walutę krajową (w przypadku Tajlandii jest to bat) po kursie 40 batów za dolara, po czym udziela tajskiemu przedsiębiorstwu kredytu w batach. Przedsiębiorstwo spłaca kredyt w batach, a bank przelicza je z powrotem na dolary amerykańskie, aby spłacić pierwotną dolarową pożyczkę.</para>
+      <figure id="CNX_Econ_C29_014">
+        <title id="UUID82dbe12f-f8ae-4536-5e16-853720d4351d">Pożyczki międzynarodowe</title>
+        <media alt="Wykres przedstawia dwa scenariusze związane z zachowaniem podmiotów funkcjonujących w ramach sektora bankowego, które zaciągają na rynkach międzynarodowych kredyty w walutach obcych, zaś pozyskane środki przeliczają na walutę krajową, którą w formie kredytów i pożyczek udostępniają lokalnym podmiotom." id="fs-idp5483008">
+          <image src="../../media//CNX_Econ_C29_014.svg" mime-type="image/svg+xml" id="UUID4eee092b-f122-4234-66b0-fb2d67bd617e" />
+        </media>
+        <caption id="UUID538cf7cb-6ef5-4094-6320-3c488282927f">Scenariusz, w ramach którego pozyskuje się środki w walucie obcej i udziela kredytu w walucie lokalnej, widoczny po lewej stronie wykresu, kończy się dla banku sukcesem. Analogiczny scenariusz po prawej stronie – porażką.</caption>
+      </figure>
+      <para id="UUID1410388e-48fb-4eb9-74b0-ac5a55a528ad">Proces zaciągania pożyczek w walucie obcej i udzielania kredytów w walucie krajowej może działać dobrze, o ile kurs walutowy się nie zmienia. Jeśli jednak dolar się umocni, a bat osłabi, pojawi się problem. Prawa strona scenariusza wydarzeń na <link target-id="CNX_Econ_C29_014" cmlnle:case="genitive" id="UUID08ec3b55-e451-47bc-7940-c8c92ee16bfe" /> pokazuje, co się dzieje, gdy bat nieoczekiwanie się osłabi. Tajskie przedsiębiorstwo nadal spłaca kredyt w całości (wraz z odsetkami). Jednak ze względu na zmianę kursu walutowego tajski bank nie może spłacić całej pożyczki (wraz z odsetkami) w dolarach amerykańskich. (Oczywiście gdyby kurs walutowy zmienił się w przeciwnym kierunku, wzmacniając tajską walutę, bank mógłby osiągnąć nieoczekiwanie duży zysk).</para>
+      <para id="UUID39f92768-ca1e-4ea3-70d0-a3b3e1937e32">W latach 1997–1998 kraje Azji Południowo-Wschodniej, m.in. Tajlandia, Korea Płd., Malezja i Indonezja, zanotowały gwałtowną deprecjację swoich walut, w niektórych przypadkach o 50% lub więcej. Państwa te doświadczały wcześniej znacznego napływu <term cmlnle:reference="zagraniczny kapitał inwestycyjny" id="UUID9e8c82f8-0038-409b-47af-26a16fcbe44a">zagranicznego kapitału inwestycyjnego</term> (<foreign xml:lang="en" id="UUIDd1ae8f12-1eec-45ce-511b-3bd037359cf9"><term id="UUIDbee14213-7699-4bdc-4707-5511051a95e4">foreign investment capital</term></foreign>), a w połowie lat 90. XX w. wartość kredytów bankowych zwiększała się od 20% do 30% rocznie. Kiedy kursy walutowe w tych krajach uległy deprecjacji, banki nie były w stanie spłacić zaciągniętych wcześniej pożyczek i doszło do bankructwa sektora bankowego. Podobny łańcuch wydarzeń wystąpił w 2002 r. w Argentynie. Kiedy argentyńskie peso straciło na wartości, tamtejsze banki nie były w stanie spłacić kapitału, który wcześniej pożyczyły w dolarach amerykańskich.</para>
+      <para id="fs-idp8154912">Banki odgrywają kluczową rolę w każdej gospodarce, ułatwiając transakcje i udzielając pożyczek przedsiębiorstwom i konsumentom. Kiedy większość największych banków danego kraju jednocześnie <term cmlnle:reference="bankrutować" id="UUID36bfd5c1-5bd0-4741-4461-18126ec6d3af">zbankrutuje</term> (<foreign xml:lang="en" id="UUID14af22e3-b662-4b8d-53d4-8a6d05551ad1"><term cmlnle:reference="go bankrupt" id="UUID5361bfd3-7d0e-46d6-71e6-20c97e2577d7">bankrupt</term></foreign>), pojawia się tam gwałtowny spadek popytu i głęboka recesja. Ponieważ głównym obowiązkiem banku centralnego jest kontrolowanie podaży pieniądza i zapewnienie stabilności systemu finansowego, musi on uważać, aby duża i nieoczekiwana deprecjacja kursu walutowego nie doprowadziła większości banków do bankructwa. Aby uzyskać więcej informacji na ten temat, wróć do rozdziału pt. „Wprowadzenie do handlu międzynarodowego i przepływów kapitałowych” (<link document="m00023" id="UUID8f0509ae-991d-41bc-7a47-89ce2bf8eea5" />).</para>
+    </section>
+    <section id="fs-idp14664048">
+      <title id="UUIDd0c75913-9668-419a-7e0c-163dff656a79">Kursy walutowe a polityka państwa</title>
+      <para id="fs-idm98754096">Każde państwo w perspektywie długookresowej preferuje stabilny kurs walutowy, aby zwiększyć skalę <term cmlnle:reference="handel międzynarodowy" id="UUID448d90f6-e4dd-4a30-4e98-1008b7479295">handlu międzynarodowego</term> (<foreign xml:lang="en" id="UUID8c59f22a-37a2-4590-45bf-65101c17bce5"><term id="UUID498642c1-fe67-436c-478d-e16095382dc9">international trade</term></foreign>) oraz zmniejszyć stopień ryzyka i niepewności w gospodarce. Jednak w krótkim okresie korzystne może okazać się osłabienie kursu walutowego (deprecjacja), aby stymulować popyt globalny i ograniczyć recesję, lub jego umocnienie (aprecjacja), aby zmniejszyć stopę inflacji. Trzeba również pamiętać, że gwałtowne umocnienie się kursu walutowego może znacząco ograniczyć eksport, zaś gwałtowne osłabienie się waluty doprowadzić sektor bankowy na skraj bankructwa. Krótko mówiąc, każdy wybór związany z kursami walutowymi (płynny lub stały kurs walutowy; umocnienie się lub osłabienie waluty) wiąże się z różnymi korzyściami i kosztami dla gospodarki.</para>
+    </section>
+    <section id="fs-idp17422192" class="summary">
+      <title id="UUID8efa201a-5f7b-4fff-62b7-b307dc481975">Podsumowanie</title>
+      <para id="fs-idp18159424">Bank centralny musi zwracać uwagę na kursy walutowe z kilku powodów. Kursy walutowe wpływają na import i eksport, a tym samym na popyt globalny w gospodarce. Wahania kursów walutowych mogą sprawiać trudności wielu przedsiębiorstwom, w szczególności bankom. Zmianom kursu walutowego może towarzyszyć niezrównoważony przepływ międzynarodowego kapitału finansowego.</para>
+    </section>
+    <section id="fs-idm46503904" class="self-check-questions">
+      <title id="UUID902a9717-5de6-4fef-7199-8eb3852b85d7">Pytania sprawdzające</title>
+      <exercise id="fs-idm47927504">
+        <problem id="fs-idm2498224">
+          <para id="fs-idm33161360">W niniejszym rozdziale wyjaśniono, że „jeden z najbardziej destrukcyjnych ekonomicznie skutków wahań kursów walutowych może wystąpić w sektorze bankowym”, jeśli banki zaciągają pożyczki za granicą, aby udzielać pożyczek w kraju. Dlaczego jest mniej prawdopodobne, że będzie to problem dla amerykańskiego systemu bankowego?</para>
+        </problem>
+        <solution id="fs-idm92722368">
+          <para id="fs-idp14849168">Problem pojawia się, gdy banki pożyczają walutę obcą, ale udzielają kredytów w walucie krajowej. Ponieważ aktywa banków (udzielone kredyty) są denominowane w walucie krajowej, a ich długi (pożyczki) w obcej, to kiedy waluta krajowa się osłabia, długi banków wyrażone w walucie krajowej rosną. Jeśli krajowa waluta znacznie straci na wartości, jak to miało miejsce podczas azjatyckiego kryzysu finansowego, system bankowy może upaść. Jest mało prawdopodobne, aby ten problem wystąpił w przypadku banków amerykańskich, ponieważ nawet jeśli pożyczają pieniądze z zagranicy, zwykle i tak są to dolary. Pamiętaj, że w światowej gospodarce krążą biliony dolarów. Ponieważ denominowane są w nich zarówno aktywa, jak i długi, zmiana wartości dolara nie spowoduje upadku systemu bankowego, co może nastąpić, gdy banki zaciągają większość pożyczek w walucie obcej.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp9389936">
+        <problem id="fs-idm44942064">
+          <para id="fs-idm41587856">Dynamicznie rozwijająca się gospodarka może przyciągać kapitał finansowy, który sprzyja dalszemu wzrostowi gospodarczemu. Jednak kapitał może równie łatwo odpłynąć z kraju, co doprowadzi do recesji. Czy kraj, którego gospodarka kwitnie, ponieważ państwo zdecydowało się stymulować konsumpcję, jest bardziej lub mniej narażony na ucieczkę kapitału niż ten, którego boom jest spowodowany wzrostem inwestycji?</para>
+        </problem>
+        <solution id="fs-idp7920720">
+          <para id="fs-idm67446944">Ucieczka kapitału jest możliwa w obu przypadkach. Jeśli jednak kraj pożycza pieniądze, aby inwestować w kapitał rzeczowy, prawdopodobnie łatwiej wygeneruje dochód na spłatę swoich długów niż kraj, który pożyczkami finansuje konsumpcję. W rezultacie gospodarka stymulowana inwestycjami jest mniej podatna na odpływ kapitału i recesję gospodarczą.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm6140448" class="review-questions">
+      <title id="UUIDf31d6e5b-c34a-4f87-536f-80fbfdb52d8f">Sprawdź wiedzę</title>
+      <exercise id="fs-idp13709488">
+        <problem id="fs-idm26119952">
+          <para id="fs-idp4134512">Jakie są powody, dla których bank centralny może troszczyć się, przynajmniej w pewnym stopniu, o kurs walutowy?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm56651360">
+        <problem id="fs-idm23842976">
+          <para id="fs-idp17495200">W jaki sposób niespodziewana deprecjacja waluty lokalnej może zaszkodzić kondycji finansowej krjowych banków?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm41515280" class="critical-thinking">
+      <title id="UUID345087e6-eb29-4def-4ed1-4569dc00ed74">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idm45185744">
+        <problem id="fs-idp8300272">
+          <para id="fs-idm26448448">Załóżmy, że kraj ma zrównoważony bilans handlowy, czyli eksport dóbr i usług jest równy ich importowi. Czy oznacza to, że kraj ten ma zrównoważony bilans z każdym ze swoich partnerów handlowych?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm75234208">
+        <problem id="fs-idp14712672">
+          <para id="fs-idm45724144">Dowiedzieliśmy się, że zmiany kursów walutowych i odpowiadające im zmiany w bilansie handlowym wzmacniają rolę polityki pieniężnej. Czy z punktu widzenia banku centralnego jest to zjawisko korzystne, czy niekorzystne?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm27256928">
+        <problem id="fs-idp14945376">
+          <para id="fs-idm58783296">Jeśli kraj rozwijający się potrzebuje kapitału zagranicznego, a także know-how w zakresie zarządzania i technologii, to w jaki sposób może zachęcać inwestorów zagranicznych do zaangażowania w jego gospodarkę, a jednocześnie chronić się przed ucieczką kapitału i upadkiem systemu bankowego, jak to miało miejsce podczas azjatyckiego kryzysu finansowego?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+</document>

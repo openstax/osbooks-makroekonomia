@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U8c7c871e-387b-4c76-91c1-e1f478b0d1ee" id="U8c7c871e-387b-4c76-91c1-e1f478b0d1ee" xml:lang="en" cnxml-version="0.7">
+  <title>10.2 Jak bank centralny wprowadza politykę pieniężną</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00053</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/8c7c871e-387b-4c76-91c1-e1f478b0d1ee</md:content-url>
+    <md:title>10.2 Jak bank centralny wprowadza politykę pieniężną</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:04.755727648+00:00</md:version>
+    <md:created>2023-08-30T08:02:04.755727648+00:00</md:created>
+    <md:revised>2023-08-30T08:02:04.755727648+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>8c7c871e-387b-4c76-91c1-e1f478b0d1ee</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUIDb4247509-0a88-48b3-652f-212c1ee251a5">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID8924f007-5479-4004-4b19-eb7412d5c61c">
+          <para id="UUIDa3951d5b-624b-4ffb-437f-ed06e316fc93">Wskazać powody, dla których banki centralne przeprowadzają operacje otwartego rynku</para>
+        </item>
+        <item id="UUIDba89501c-3d8c-4c03-607a-e880afdf61e4">
+          <para id="UUIDb0304442-7565-4333-705b-a2dd4681e3e3">Wyjaśnić, w jaki sposób określanie wysokości rezerwy obowiązkowej i stóp procentowych banku centralnego wpływa na podaż pieniądza</para>
+        </item>
+        <item id="UUIDd2038102-a7f0-47f6-7696-fd60639c7c17">
+          <para id="UUID124fe1e6-89e7-421d-717f-b1cc26c3c50a">Interpretować sposób działania banku na podstawie jego bilansu</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDb34e94d6-d620-4bd9-6105-03374da709a5">Najważniejszą funkcją każdego banku centralnego jest prowadzenie polityki pieniężnej kraju. Polityka pieniężna polega na zarządzaniu stopami procentowymi i warunkami udzielania kredytów, co wpływa na poziom aktywności gospodarczej. Bank centralny dysponuje trzema tradycyjnymi narzędziami prowadzenia polityki pieniężnej w gospodarce, są to:</para>
+    <list id="fs-idm72947280">
+      <item id="UUID28cef9a8-ba75-444e-6c08-6ba14abaf4c3">
+        <para id="UUID4f644fea-2e40-4804-5bb3-636f7bbffc4e">operacje otwartego rynku</para>
+      </item>
+      <item id="UUID57e62d57-4314-4c05-5e7f-b5deb829234e">
+        <para id="UUID406f08c9-d1ba-478c-7739-d74304617075">zmiana wysokości stopy rezerw obowiązkowych</para>
+      </item>
+      <item id="UUID99ad60cd-3ec0-4da2-49eb-2c1938eccb87">
+        <para id="UUID629b992d-1abf-45a1-7dcf-a47cc7945c03">zmiany stóp procentowych banku centralnego</para>
+      </item>
+    </list>
+    <para id="fs-idp61599296">Analizując działanie tych trzech narzędzi, warto pomyśleć o banku centralnym jako o „banku dla banków” – co oznacza, że każdy bank sektora prywatnego ma własne konto w banku centralnym. Omówimy teraz każde z tych narzędzi polityki.</para>
+    <section id="fs-idm10687584">
+      <title id="UUID9caaf3fb-7764-4136-7a21-bf070aa8d0fa">Operacje otwartego rynku</title>
+      <para id="UUIDd7a04e07-9e0a-4dce-6827-9bc8344c83be">Od początku trzeciej dekady XX w. do 2008 r. najpopularniejszym narzędziem polityki pieniężnej w USA były <term id="UUIDf8a1b088-e4ad-4b4e-765b-387f88aadfc2">operacje otwartego rynku</term> (ang. <foreign xml:lang="en" id="UUID4b81c4c0-04a7-4ac6-4b4c-e3200f5c4f29"><term id="UUIDa9929175-2b1d-46bf-7dcd-3eaf3bbe57cf">open market operations</term></foreign>). Aktywność ta polega na transakcjach kupna i sprzedaży krótkoterminowych papierów wartościowych odbywających się pomiędzy bankiem centralnym a bankami komercyjnymi. Zarówno kupno, jak i sprzedaż są inicjowane przez bank centralny, a przedmiotem tych operacji są głównie rządowe instrumenty dłużne, tj. bony (weksle) skarbowe oraz inne instrumenty, np. bony (weksle) komercyjne, obligacje komunalne, papiery emitowane przez bank centralny lub waluty obce. Bank centralny dokonuje tych operacji w celu oddziaływania na wielkość rezerw gotówkowych banków komercyjnych, a tym samym na podaż pieniądza. Zarówno dla amerykańskiego Systemu Rezerwy Federalnej, jak i większości banków centralnych operacje otwartego rynku były w ciągu ostatnich kilku dekad najczęściej używanym narzędziem polityki pieniężnej.</para>
+      <note type="note" id="fs-idp152046048" class="economics linkup">
+        <para id="fs-idp88867504">Odwiedź tę <link url="http://openstax.org/l/monetarypolicy" id="UUIDbc062334-95fd-465f-5cce-f8f5d854874f">stronę</link> Rezerwy Federalnej, aby się dowiedzieć więcej o aktualnej polityce pieniężnej.</para>
+      </note>
+      <para id="fs-idp16633712">Aby zrozumieć, w jaki sposób operacje otwartego rynku wpływają na podaż pieniądza, rozważmy bilans Szczęśliwego Banku przedstawiony na <link target-id="CNX_Econ_C28_014" cmlnle:case="locative" id="UUIDe5e4fbe9-a41d-42b0-70aa-1929602a3d08" />. Panel (a) tego wykresu pokazuje, że Szczęśliwy Bank na początku naszej analizy dysponuje kwotą aktywów (składających się z rezerw, papierów wartościowych i pożyczek) równą 460 mln zł oraz pasywami (depozytami) powiększonymi o wartość netto banku w kwocie 400 mln zł. Tym samym wartość netto Szczęśliwego Banku wynosi 60 mln zł. Gdy bank centralny kupuje od Szczęśliwego Banku papiery wartościowe w kwocie 20 mln zł, dochodzi do zmiany wartości dwóch pozycji po stronie aktywów. Wartość papierów wartościowych zmniejsza się o 20 mln zł, zaś wartość rezerw rośnie o tę samą kwotę, tak jak zilustrowano to na panelu (b) <link target-id="CNX_Econ_C28_014" cmlnle:case="genitive" id="UUID83b300f1-5c55-4c24-7e17-951815c3a5b3" />. Jednak Szczęśliwy Bank chce utrzymać rezerwy w kwocie 40 mln zł, w związku z czym decyduje się pożyczyć dodatkowe 20 mln zł, co oczywiście oznacza wzrost wartości tej pozycji bilansu, tak jak to pokazano na panelu (c). Przeprowadzona przez bank centralny operacja otwartego rynku spowodowała wzrost wartości pożyczek udzielonych przez Szczęśliwy Bank, a tym samym zwiększenie podaży pieniądza. Ponieważ nowe pożyczki są deponowane w innych bankach funkcjonujących w tej gospodarce, one również będą pożyczać część otrzymanych depozytów, uruchamiając mnożnik kreacji pieniądza, który omówiliśmy w <link document="m00046" cmlnle:case="locative" id="UUIDa5ffa241-f8db-4514-41b7-9cec27253174" />.</para>
+      <figure id="CNX_Econ_C28_014">
+        <media alt="Ilustracja na trzech panelach za pomocą teowego schematu przedstawia trzy bilanse Szczęśliwego Banku. Wraz z rozpoczęciem operacji otwartego rynku wartość pozycji po stronie aktywów ulega zmianie. Początkowo rezerwy wynoszą 40 mln zł, papiery wartościowe 120 mln zł, zaś pożyczki 300 mln zł. Wraz z zakupem papierów wartościowych przez bank centralny wartość rezerw rośnie o 20 mln zł, zaś papierów wartościowych o analogiczną kwotę maleje. W trzecim kroku Szczęśliwy Bank udziela pożyczek o wartości 20 mln zł, co o całą tę kwotę zmniejsza zapisaną w bilansie po stronie aktywów wartość rezerw i zwiększa wartość pożyczek." id="fs-idm79154128">
+          <image src="../../media//CNX_Econ_C28_014.svg" mime-type="image/svg+xml" id="UUID2beddded-ea05-4859-53de-76968c32e5ae" />
+        </media>
+        <caption id="UUIDf6ea47bd-0098-478f-758a-ded9409113b3" />
+      </figure>
+      <para id="UUIDb13614a5-f029-4d79-5a24-d63a54fb9516">Skąd bank centralny pozyskał 20 mln zł, które wykorzystał na zakup papierów wartościowych? Bank centralny ma moc kreowania pieniądza. W praktyce doszłoby po prostu do zaksięgowania odpowiedniej sumy na koncie Szczęśliwego Banku prowadzonym przez bank centralny. Ważne jest jednak to, że banki centralne mają możliwości kreacji pieniądza, czyli tworzenia go w praktyce z niczego, po prostu w drodze kilku kliknięć na klawiaturze komputera.</para>
+      <para id="fs-idm50939632">Oczywiście operacje otwartego rynku mogą również zmniejszyć ilość pieniądza i pożyczek w gospodarce. Panel (a) <link target-id="CNX_Econ_C28_015" id="UUID741e9b65-3549-433d-6f9f-2f95de7a9893" /> ponownie pokazuje bilans Szczęśliwego Bank na początku analizy, tj. jeszcze przed zakupem papierów wartościowych od banku centralnego. Gdy Szczęśliwy Bank kupuje papiery wartościowe w kwocie 30 mln zł, strona aktywów w jego bilansie się zmienia. Wartość rezerw obniża się o 30 mln zł, zaś wartość papierów wartościowych rośnie o analogiczną kwotę, tak jak zostało to pokazane na panelu (b) <link target-id="CNX_Econ_C28_015" id="UUID895e4e71-1d18-4763-7837-2409db46e994" />. Jednak Szczęśliwy Bank w dalszym ciągu chce utrzymywać 40 mln zł w formie rezerw, zmniejszy więc wartość udzielonych pożyczek w taki sposób, aby mieć w kasie banku pożądaną kwotę. Posunięcie to zostało zilustrowane na panelu (c) poniżej. W praktyce bank może dość łatwo zmniejszyć ilość i wartość udzielanych pożyczek. Jeśli bank po prostu ograniczy lub na krótko wstrzyma udzielanie nowych pożyczek przedsiębiorstwom i gospodarstwom domowych, a środki wpływające jako spłaty rat kapitałowych zostaną dodane do rezerw, wówczas ogólna liczba i wartość pożyczek się zmniejszy. Spadek liczby pożyczek udzielonych przez Szczęśliwy Bank oznacza również mniej depozytów w innych bankach funkcjonujących w tej gospodarce, w związku z czym one także ograniczą akcję kredytową, wskutek działania mnożnika kreacji pieniądza, opisanego w <link document="m00046" cmlnle:case="locative" id="UUIDd4b4fcd1-005a-43fa-7121-26b585ed4ca2" />. A jak na podaż pieniądza wpływa wartość papierów wartościowych, którymi handluje się w trakcie operacji otwartego rynku? Przeczytaj następną <link target-id="fs-idm4457488" cmlnle:case="accusative" id="UUIDa836bef9-e61a-4eab-7b25-f656decf3cff" />, aby uzyskać odpowiedź na to pytanie.</para>
+      <figure id="CNX_Econ_C28_015">
+        <media alt="Ilustracja na trzech panelach przedstawia za pomocą schematu teowego trzy bilanse Szczęśliwego Banku. Wraz z rozpoczęciem operacji otwartego rynku wartość pozycji po stronie aktywów ulega zmianie. Początkowo rezerwy wynoszą 40 mln zł, papiery wartościowe 120 mln zł, zaś pożyczki 300 mln zł. Wraz ze sprzedażą papierów wartościowych przez bank centralny wartość rezerw maleje o 30 mln zł, zaś papierów wartościowych o analogiczną kwotę rośnie. W trzecim kroku Szczęśliwy Bank zmniejsza wartość udzielanych pożyczek o 30 mln zł, co o całą tę kwotę zwiększa zapisaną w bilansie po stronie aktywów wartość rezerw i zmniejsza wartość pożyczek." id="fs-idp75415168">
+          <image src="../../media//CNX_Econ_C28_015.svg" mime-type="image/svg+xml" id="UUID64c6ec72-d9ce-4492-4779-0e657f8dee53" />
+        </media>
+        <caption id="UUID052abe1a-ea87-499c-424d-1792d0facf10" />
+      </figure>
+      <note type="note" id="fs-idm4457488" class="clearup economics">
+        <title id="UUIDd8490a5e-2c34-4968-483c-f9f8cd74b164">Czy podaż pieniądza rośnie w wyniku sprzedaży, czy zakupu papierów wartościowych przez bank centralny?</title>
+        <para id="UUIDa40e8999-d82d-45d1-5447-7a9f52f39f2b">Aby odpowiedzieć na tak postawione pytanie, należy przede wszystkim uświadomić sobie, że bank centralny jest podmiotem znajdującym się poza systemem bankowym. Gdy bank centralny kupuje obligacje, pieniądze przepływają z banku centralnego do poszczególnych banków w gospodarce, zwiększając podaż pieniądza w obiegu. Gdy bank centralny sprzedaje obligacje, pieniądze z poszczególnych banków w gospodarce wpływają do banku centralnego, zmniejszając ilość pieniądza w gospodarce.</para>
+      </note>
+      <section id="UUID80f24c77-e91d-4cf9-62ec-a5827150388d">
+        <title id="UUID2c8daf05-b890-499c-4ae1-32d4a0e8e814">Zmiana stóp procentowych banku centralnego</title>
+        <para id="UUIDc1c9cd46-3c83-46b9-63ea-dcb3fac85839">Amerykański System Rezerwy Federalnej został utworzony w następstwie paniki na rynkach finansowych z 1907 r., gdy wiele banków w USA upadło. Skoro banki czerpią zyski z pożyczania swoich depozytów, nie mogą utrzymywać pełnej ich wartości w formie rezerw, co automatycznie oznacza, że nawet najlepiej zarządzany bank nie będzie w stanie zaspokoić wszystkich swoich depozytariuszy w czasie wybuchu paniki na rynkach finansowych. Aby chronić takie banki, powołano System Rezerwy Federalnej jako „kredytodawcę ostatniej instancji”. W przypadku paniki dobrze zarządzane banki (te, które nie zbankrutowały) mogły pożyczyć tyle gotówki, ile potrzebowały, z nowo utworzonego banku centralnego, aby uspokoić obawy swoich depozytariuszy. Stopę procentową płaconą przez banki za takie kredyty nazywamy <term cmlnle:reference="stopa dyskontowa" id="UUID862270a7-b512-4a79-540e-e887428efebb">stopą lombardową</term> (ang. <foreign xml:lang="en" id="UUIDfe32c2c6-404f-4108-4624-0abbe790c62a"><term id="UUIDd0f97f3f-93ae-4a58-52e6-00f4e0acd6c7">discount rate</term></foreign>). Gdy depozytariusze przekonywali się, że ich pieniądze są bezpieczne, panika na rynkach finansowych samoistnie wygasała. Krótko mówiąc, System Rezerwy Federalnej miał pierwotnie zapewniać kredyty w sposób pasywny, ale w kolejnych latach przyjął znacznie bardziej aktywną rolę w polityce pieniężnej.</para>
+        <para id="UUID99ca4220-e382-4f01-5aef-e7ecc4fb38e0">Drugim tradycyjnym narzędziem realizacji polityki pieniężnej jest podnoszenie lub obniżanie stopy lombardowej. Jeśli bank centralny podniesie stopę lombardową, banki komercyjne zmniejszą skalę pożyczek zaciąganych w banku centralnym i zamiast tego – pamiętając o groźbie wybuchu paniki finansowej – zwiększą wartość swoich rezerw, zmniejszając tym samym liczbę i wartość kredytów udzielanych gospodarstwom domowym i przedsiębiorstwom. Ponieważ wartość kredytów w gospodarce spada, ich oprocentowanie rośnie i obniża się podaż pieniądza. Jeśli bank centralny obniży z kolei stopę lombardową, którą pobiera od banków, cały proces przyniesie odwrotne rezultaty.</para>
+        <para id="UUID673b3e66-8e60-48eb-4066-5d83cc487fe8">W ciągu ostatnich kilkudziesięciu lat System Rezerwy Federalnej udzielił stosunkowo niewielu pożyczek oprocentowanych zgodnie ze stopą lombardową. Oczekuje się bowiem, że zanim bank komercyjny zaciągnie taką pożyczkę w celu uzupełnienia swoich rezerw obowiązkowych, najpierw poszuka finansowania z innych dostępnych źródeł, takich jak inne banki komercyjne. Zniechęca do tego również sam FED, stosując stopę lombardową wyższą od stopy funduszy federalnych (stopa funduszy federalnych jest to wysokość oprocentowania depozytów utrzymywanych przez banki w Systemie Rezerwy Federalnej). To odpowiednik polskiej stopy referencyjnej NBP – jednego z najważniejszych instrumentów banku centralnego. Biorąc pod uwagę to, że wolumen pożyczek oprocentowanych zgodnie ze stopą lombardową jest stosunkowo niewielki, jej zmiana nie ma znaczącego wpływu na zachowanie sektora bankowego. Co ważniejsze, FED na podstawie swoich doświadczeń przyjmuje, że operacje otwartego rynku są precyzyjniejszym i bardziej skutecznym narzędziem kontroli podaży pieniądza.</para>
+      </section>
+    </section>
+    <section id="fs-idp46576240">
+      <title id="UUIDfe9e3def-a190-4ff7-45d7-b943852263e2">Zmiana wymagań dotyczących stopy rezerw obowiązkowych</title>
+      <para id="UUID9f474d93-e62f-4d62-5009-d0c96155dbdb">Trzecim narzędziem prowadzenia polityki pieniężnej jest podnoszenie lub obniżanie przez bank centralny <term id="UUID564d1e73-e49b-44db-4044-ff6cde519843">stopy rezerw obowiązkowych</term> (ang. <foreign xml:lang="en" id="UUID1db8ad07-d051-4e73-6425-6a0e9374bd67"><term id="UUIDbb70da6b-bb28-43c5-4be4-42cf41311193">reserve requirement</term></foreign>), którą można zdefiniować jako minimalny odsetek wartości depozytów, jakie banki komercyjne są prawnie zobowiązane utrzymywać w formie gotówki w skarbcu lub na depozycie w banku centralnym. Jeśli banki są zobligowane do utrzymywania większej kwoty rezerw, mają mniej środków, które mogą pożyczyć gospodarstwom domowym i przedsiębiorstwom. Jeśli stopa rezerw obowiązkowych maleje, będą one dysponować większymi środkami umożliwiającymi udzielanie pożyczek.</para>
+      <para id="UUID67392e29-e917-45fa-7998-5c1f1c6a70e9">W Polsce od 31 grudnia 2010 r. podstawowa stopa rezerwy obowiązkowej (tj. od środków złotowych i walutowych zgromadzonych na rachunkach bankowych i od środków z tytułu emisji papierów wartościowych) wynosiła 3,5%. W obliczu kryzysu gospodarczego wywołanego pandemią Rada Polityki Pieniężnej obniżyła podstawową stopę rezerwy obowiązkowej do 0,5%, począwszy od 30 kwietnia 2020 r., dzięki czemu podmioty rezerwy pozyskały dodatkowy bufor płynności. W październiku 2021 r. Rada zdecydowała o podwyższeniu podstawowej stopy rezerwy obowiązkowej do poziomu 2,0% (począwszy od 30 listopada 2021 r.), co było jednym z elementów normalizacji polityki pieniężnej. Obecnie stopa rezerwy obowiązkowej wynosi 3,5% (została podniesiona 31 marca 2022 r.).</para>
+      <para id="UUID90045ab8-4f58-4149-411a-81e631f1228b">Banki centralne rzadko wykorzystują duże zmiany stopy rezerw obowiązkowych jako narzędzie realizacji polityki pieniężnej, choć okres pandemii był tutaj z oczywistych względów wyjątkowy. Nagłe żądanie, aby wszystkie banki zwiększyły swoje rezerwy, byłoby dla nich niezwykle uciążliwe i trudne do spełnienia, a zbytnie rozluźnienie wymogów stworzyłoby niebezpieczeństwo, że banki nie będą w stanie wypłacać przyjętych wcześniej depozytów.</para>
+      <para id="UUID7f0735db-0b94-431c-47dc-551d123809c5">Obecnie banki centralne dysponują znacznie szerszym katalogiem narzędzi umożliwiających prowadzenie polityki pieniężnej, w tym przede wszystkim luzowaniem ilościowym (co do zasady narzędzie to mieści się w ramach operacji otwartego rynku). Pokazuje to, w jaki sposób polityka pieniężna ewoluowała i jak nadal się rozwija.</para>
+      <para id="fs-idm9543664">Chociaż tematy te wykraczają poza podstawowy kurs makroekonomii, jeśli chcesz dowiedzieć się więcej o najnowszych narzędziach umożliwiających Systemowi Rezerwy Federalnej kontrolę podaży pieniądza, odwiedź strony <link url="openstax.org/l/lrgscaleasset" id="UUID58125926-e49c-4f3a-4347-f70fb25dd43b">Federal Reserve Bank of New York's page on large-scale asset purchases</link> oraz <link url="openstax.org/l/txtbooklag" id="UUIDc143d944-1cc4-4bc9-7b7e-d87518ffe973">the Federal Reserve Bank of St. Louis' FRED Blog post on fixing the textbook lag</link>.</para>
+    </section>
+    <section id="fs-idp33312400" class="summary">
+      <title id="UUID44771697-9d89-42c8-7ee3-d67ce48041e8">Key Concepts and Summary</title>
+      <para id="UUIDf9d235ab-f10c-496b-5810-4f73c286aeea">Bank centralny dysponuje trzema tradycyjnymi narzędziami prowadzenia polityki pieniężnej: operacjami otwartego rynku, które obejmują kupowanie i sprzedawanie bankom papierów wartościowych; stopą rezerwy obowiązkowej, która określa, jaki minimalny poziom rezerw bank jest prawnie zobowiązany utrzymywać; i wreszcie stopą lombardową, czyli stopą procentową pobieraną przez bank centralny od pożyczek udzielanych bankom komercyjnym. Najczęściej stosowanym narzędziem są operacje otwartego rynku.</para>
+    </section>
+    <section id="fs-idp98876592" class="self-check-questions">
+      <title id="UUID3005e543-5136-42c5-685e-02be91e77fdc">Self-Check Questions</title>
+      <exercise id="fs-idm61424000">
+        <problem id="fs-idm53108304">
+          <para id="fs-idm3567152">Jaki wpływ na wartość udzielanych pożyczek i podaż pieniądza będzie miała sprzedaż przez bank centralny papierów wartościowych w kwocie 500 zł bankowi komercyjnemu, który udzielił pożyczek o wartości 10 tys. zł i dokładnie spełnia wymóg rezerwy obowiązkowej w wysokości 10%?</para>
+        </problem>
+        <solution id="fs-idm26482784">
+          <para id="fs-idm49426400">Bank musi mieć rezerwy w wysokości 1000 zł, gdy zatem kupi papiery wartościowe za 500 zł, będzie musiał zmniejszyć wartość swoich pożyczek o tę samą kwotę, aby pokryć różnicę. Podaż pieniądza spadnie więc o 500 zł.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm101044448">
+        <problem id="fs-idm63018528">
+          <para id="fs-idp52006224">Jaki byłby wpływ zwiększenia stopy rezerw obowiązkowych banków na podaż pieniądza?</para>
+        </problem>
+        <solution id="fs-idp57581712">
+          <para id="fs-idm103607232">Zwiększenie stopy rezerw obowiązkowych zmniejszyłoby podaż pieniądza, ponieważ większa część znajdującej się w obiegu gotówki osiadłaby w sejfach banków, zamiast zasilić pulę pożyczek udzielanych przez sektor bankowy.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp155825008" class="review-questions">
+      <title id="UUIDb6e446d0-0faa-46f7-5bd1-12a84fcca817">Review Questions</title>
+      <exercise id="fs-idp62323760">
+        <problem id="fs-idp51540272">
+          <para id="fs-idp94839504">Wyjaśnij, w jaki sposób można wykorzystać operacje otwartego rynku do zwiększenia podaży pieniądza.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp33235072">
+        <problem id="fs-idp123660352">
+          <para id="fs-idp84928304">Wyjaśnij, w jaki sposób można wykorzystać stopę rezerwy obowiązkowej do zwiększenia podaży pieniądza.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm37553824">
+        <problem id="fs-idp46756496">
+          <para id="fs-idm19360">Wyjaśnij, w jaki sposób można wykorzystać stopę lombardową do zwiększenia podaży pieniądza.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm33081376" class="critical-thinking">
+      <title id="UUIDeaf2ed92-4030-4902-6acb-57efde9872b2">Critical Thinking Question</title>
+      <exercise id="fs-idm176854464">
+        <problem id="fs-idm79460112">
+          <para id="fs-idm125223296">Wyjaśnij, co by się stało, gdyby banki zostały poinformowane, że muszą zwiększyć swoją stopę rezerwy obowiązkowej o jeden punkt procentowy, z 9 do 10% wartości depozytów. Jakie byłyby ich opcje pozyskania niezbędnej do wypełnienia tych limitów gotówki?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm83496192" class="problems">
+      <title id="UUIDd55900d7-a2c5-430d-4311-2bee8b759c50">Problems</title>
+      <exercise id="fs-idm186908608">
+        <problem id="fs-idm109967904">
+          <para id="UUID3fb423f2-b078-4001-474d-b79f020f2bf9">Załóżmy, że bank centralny kupuje papiery wartościowe o wartości 10 mln zł od Banku Komicznego w ramach operacji otwartego rynku. Przeprowadź analizę zmian w bilansie Banku Komicznego wywołanych przez tę transakcję, zakładając, że podmiot ten maksymalizuje wartość pożyczek, których może udzielić. Pierwotny bilans Banku Komicznego zawiera następujące pozycje (wszystkie kwoty w mln zł): aktywa – rezerwy 30, papiery wartościowe 50, pożyczki 250; pasywa – depozyty 300, wartość netto 30.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm59747312">
+        <problem id="fs-idm125252848">
+          <para id="fs-idm150861312">Załóżmy tym razem, że bank centralny sprzedaje papiery wartościowe o wartości 10 mln zł Bankowi Komicznemu w ramach operacji otwartego rynku. Przeprowadź analizę zmian w bilansie Banku Komicznego, które nastąpiły w wyniku tej transakcji, zakładając, że podmiot ten przywróci wymagany poziom rezerwy obowiązkowej (10% wartości depozytów) poprzez zmniejszenie kwoty udzielanych pożyczek. Pierwotny bilans Banku Komicznego wygląda następująco (wszystkie kwoty w mln zł): aktywa – rezerwy 30, papiery wartościowe 50, pożyczki 250; pasywa – depozyty 300, wartość netto 30.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm126100432" class="references">
+      <title id="UUID5446c8e1-6932-47c3-7609-34aa9a1d7ee6">References</title>
+      <para id="fs-idm58361456">Board of Governors of the Federal Reserve System. “Federal Open Market Committee.” Accessed September 3, 2013. http://www.federalreserve.gov/monetarypolicy/fomc.htm.</para>
+      <para id="fs-idm50369696">Board of Governors of the Federal Reserve System. “Reserve Requirements.” Accessed November 5, 2013. http://www.federalreserve.gov/monetarypolicy/reservereq.htm.</para>
+      <para id="eip-612">Cox, Jeff. 2014. "Fed Completes the Taper." Accessed March 31, 2015. http://www.cnbc.com/id/102132961.</para>
+      <para id="eip-905">Jahan, Sarwat. n.d. "Inflation Targeting: Holding the Line." International Monetary Fund. Accessed March 31, 2015. http://www.imf.org/external/pubs/ft/fandd/basics/target.htm.</para>
+    </section>
+  </content>
+  <glossary id="UUIDb5c1db56-7571-4809-6f57-f463c307333b">
+    <definition id="fs-idm109412048">
+      <term id="UUID3563ce04-9fbd-4748-5e19-c7ddb7d278cf">stopa lombardowa (ang. <foreign xml:lang="en" id="UUID3467670e-55d5-4dbf-68c8-d8e5afbfe40e"><term id="UUID7a080d24-a78b-4653-47dc-3f153d8ff4ed">discount rate</term></foreign>)</term>
+      <meaning id="fs-idm144946448">
+        <para id="UUID8f1f8aca-e52c-4c46-51ee-57f02485e528">stopa procentowa pobierana przez bank centralny od pożyczek udzielanych bankom komercyjnym</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm58296352">
+      <term id="UUID0008b55d-6b09-44fe-72bb-20f6278e50bd">operacje otwartego rynku (ang. <foreign xml:lang="en" id="UUID9ea7dc09-95c4-44c9-58ca-e897a12b25d7"><term id="UUIDcf35dba4-ede8-46a8-6e22-c9eaf3329ab1">open market operations</term></foreign>)</term>
+      <meaning id="fs-idm143263120">
+        <para id="UUID6f7a4871-96b9-4ff7-536c-27864c6bbbf8">operacje, w ramach których bank centralny sprzedaje lub kupuje papiery wartościowe, wpływając dzięki temu na podaż pieniądza i poziom stóp procentowych w gospodarce</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm153647136">
+      <term id="UUIDf772e9f6-18bd-4f76-62c3-ca2c1c7812a7">stopa rezerwy obowiązkowej (ang. <foreign xml:lang="en" id="UUID1236fcef-1c6f-491a-4f00-fee42bcb372d"><term id="UUIDc9cb0586-790f-4edc-6db7-0ff3fa14afd4">reserve requirement</term></foreign>)</term>
+      <meaning id="fs-idm109202576">
+        <para id="UUIDc4b4a4d3-5329-411e-70c7-2b4a8d5340f5">minimalny odsetek depozytów, który bank jest prawnie zobowiązany przechowywać w formie gotówki w swoim skarbcu lub w banku centralnym</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

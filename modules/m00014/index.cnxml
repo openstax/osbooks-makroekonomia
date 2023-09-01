@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ucb4946cf-e3b0-450f-85e1-066dd24b2adf" id="Ucb4946cf-e3b0-450f-85e1-066dd24b2adf" xml:lang="en" cnxml-version="0.7">
+  <title>3.2 Zmiany poziomu bezrobocia</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00014</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/cb4946cf-e3b0-450f-85e1-066dd24b2adf</md:content-url>
+    <md:title>3.2 Zmiany poziomu bezrobocia</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:03.319877638+00:00</md:version>
+    <md:created>2023-08-30T08:02:03.319877638+00:00</md:created>
+    <md:revised>2023-08-30T08:02:03.319877638+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>cb4946cf-e3b0-450f-85e1-066dd24b2adf</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-ju23-a146-7c527b82d03b3911" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUIDdade807c-bf9d-4fb3-52c4-73a8d43870b1">
+          <para id="UUIDab6a9135-2290-48c0-78c3-1622ec4d742d">Wskazać schemat zmian stopy bezrobocia w gospodarce amerykańskiej w długim okresie</para>
+        </item>
+        <item id="UUID57fc6fec-5050-433a-4711-ca5ca3a0b34b">
+          <para id="UUIDc0d5f0c5-1cb6-42be-7a36-8f4923900ba8">Objaśnić wpływ czynników demograficznych na zmiany stopy bezrobocia w długim okresie</para>
+        </item>
+        <item id="UUID93510965-7e10-480a-5001-d510d25de25d">
+          <para id="UUIDcd5416db-23d1-4b67-707b-757c73509262">Porównać stopy bezrobocia notowane w różnych krajach</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idp59749168">W tym rozdziale poddamy głębszej analizie zmiany stóp bezrobocia w długim horyzoncie czasowym (w ciągu dekad, a nawet stuleci) i w kontekście różnych grup ludności.</para>
+    <section id="fs-idp50734368">
+      <title id="UUID88a833a6-bb98-469c-51ee-891e02286dff">Zmiany stopy bezrobocia w USA</title>
+      <para id="fs-idp7030080"><link target-id="CNX_Econ_C21_002" document="" id="UUIDf0873119-4fc1-4947-753d-7cc5b24e2a59" /> ilustruje zmiany poziomu bezrobocia w USA w dekadach po II wojnie światowej.</para>
+      <figure id="CNX_Econ_C21_002">
+        <title id="UUIDbd14b964-a75a-412e-6bdc-eaa7cec0887b">Stopa bezrobocia w Stanach Zjednoczonych w latach 1948–2020</title>
+        <media alt="Wykres liniowy pokazuje, że stopy bezrobocia w USA w ciągu ostatnich 70 lat silnie się wahały, osiągając najwyższy poziom ponad 9% na początku lat 80. XX w i w latach 2009-2010." id="fs-idp18161360">
+          <image src="../../media//CNX_Econv1-2_C21_05.svg" mime-type="image/svg+xml" id="UUIDf0f2b9ac-fbd6-46d9-7ef6-5b61f4919d24" />
+        </media>
+        <caption id="UUID818683d7-5719-4a10-6992-edd814f7cc93">Poziom bezrobocia w USA rośnie i spada wraz ze zmianami koniunktury gospodarczej, jednak z czasem wraca do przedziału 4–6%. Można zatem stwierdzić, że stopa bezrobocia w długim okresie w Stanach Zjednoczonych kształtuje się mniej więcej na tym poziomie. (Źródło: <term id="term-00001" class="no-emphasis">Federal Reserve Economic Data (FRED)</term> https://research.stlouisfed.org/fred2/series/LRUN64TTUSA156S0).</caption>
+      </figure>
+      <para id="fs-idp5488880">Nawet pobieżna analiza danych zilustrowanych powyższym wykresem pozwala na sformułowanie następujących wniosków:</para>
+      <list list-type="enumerated" id="fs-idm63330528">
+        <item id="UUID06729711-70be-42a7-5edb-ecb02b6cc6a5">
+          <para id="UUID03586d00-118f-4aaf-519e-32c4727df006">Poziom bezrobocia w Stanach Zjednoczonych zmieniał się na przestrzeni ostatnich 70 lat. W okresach recesji, tj. na początku lat 80., w latach 2009–2010 osiągnęła blisko 10%. Wydaje się to wskaźnikiem dość wysokim, jednak dla porównania – w okresie Wielkiego Kryzysu lat 30. XX w. bez pracy pozostawało prawie 25% siły roboczej USA. W Polsce z kolei po II wojnie światowej zjawisko bezrobocia pojawiło się dopiero wraz z rozpoczęciem procesu transformacji gospodarczej. W okresie gospodarki centralnie kierowanej, tj. w latach 1944–1989, bezrobocie w Polsce (przynajmniej to rejestrowane) nie występowało. We wrześniu 1991 r. bezrobocie rejestrowane po raz pierwszy osiągnęło wartości dwucyfrowe (jeszcze na koniec 1990 r. wynosiło jedynie 6,5%) i stan ten utrzymywał się do kwietnia roku 1998. Na koniec grudnia tego samego roku bezrobocie w Polsce znów przekroczyło 10% i na poziomie dwucyfrowym utrzymywało się do kwietnia 2008 r. Najwyższe wartości stopa bezrobocia rejestrowanego osiągała w Polsce w latach 2003–2004.</para>
+        </item>
+        <item id="UUID57807d71-ef40-4612-4440-c5e72b0a6f3b">
+          <para id="UUID30a837bf-beec-488c-79d6-0ec3bf567159">Pod koniec lat 90. (1997–2001) i w połowie pierwszej dekady XXI w. (2006–2007), jak również w latach 2016–2019 stopy bezrobocia w USA kształtowały się na relatywnie niskim poziomie, poniżej 5% siły roboczej. Poprzedni okres, gdy bezrobocie przez trzy kolejne lata wynosiło mniej niż 5%, miał miejsce trzy dekady wcześniej, tj. pomiędzy rokiem 1968 a 1970. W Polsce bezrobocie rejestrowane nigdy nie spadło poniżej 5%. Najbliżej tej wartości byliśmy w październiku 2019 r., kiedy stopa bezrobocia osiągnęła właśnie 5%. Należy jednak podkreślić, że od marca 2017 r. stopa bezrobocia rejestrowanego w Polsce nie przekroczyła 8%, zaś w lutym 2016 r. po raz ostatni zanotowano wartości dwucyfrowe.</para>
+        </item>
+        <item id="UUIDc0767c37-f88b-4a75-7555-3d2e3c56e008">
+          <para id="UUIDcbb9f990-5435-4873-5427-0ce77d22526a">Stopa bezrobocia nigdy nie spada do zera. Wydaje się również, że w gospodarce amerykańskiej prawie nigdy nie spada poniżej 3%, a na zbliżonym do 3% poziomie utrzymuje się przez bardzo krótki czas. (Dlaczego tak się dzieje, wyjaśnimy w dalszej części tego rozdziału). Z kolei w Polsce nieprzekraczalną granicą bezrobocia mierzonego za pomocą BAEL wydaje się poziom 2%.</para>
+        </item>
+        <item id="UUID9f661562-0708-4556-445e-1769885d915f">
+          <para id="UUID3de14c12-8005-46e5-7f04-1cd530d7193e">Okresy spadków i wzrostów bezrobocia dość dobrze pokrywają się z okresami ożywienia gospodarczego i mniejszej aktywności gospodarczej, przy czym bezrobocie ma tendencję do pojawiania się później niż same zmiany aktywności gospodarczej w ramach cykli koniunkturalnych. Jest to szczególnie widoczne w okresie ożywienia gospodarki po recesji. W czasach <term id="UUIDa19d8a25-9aca-4bd7-7777-ff7174c3d528">recesji</term> (ang. <foreign xml:lang="en" id="UUID486160a7-555d-483a-7f13-01a184ec9eac"><term id="UUID4e5eb651-3cb3-4f45-665e-b3c04d182f57"><emphasis effect="italics">contraction</emphasis></term></foreign>) i <term id="UUIDe0e2b6b6-9bfc-4d92-4d41-667d3d99b248">depresji</term> (ang. <foreign xml:lang="en" id="UUID863f637b-898d-41a5-5f67-8b222660c388"><term id="UUIDc7e61e30-657d-48c1-61c5-0ef4d3db181c"><emphasis effect="italics">depression</emphasis></term></foreign>) bezrobocie jest wysokie, a w okresach wzrostu gospodarczego zwykle niższe.</para>
+        </item>
+        <item id="UUIDf3b66fba-124f-44e2-5129-5aea23162b98">
+          <para id="UUIDf21b327c-e8f0-4924-5d43-6f726d5aca97">Nie ma widocznej i wyraźnej długoterminowej tendencji wskazującej na wzrost (lub spadek) stopy bezrobocia w Stanach Zjednoczonych. Jest to szczególnie warte odnotowania, ponieważ populacja USA wzrosła ponad czterokrotnie: z 76 mln w roku 1900 do ponad 325 mln w 2017. Co więcej, w analizowanym okresie wzrosła nie tylko bezwzględna liczba dorosłych Amerykanów, powiększył się też odsetek osób aktywnych, ponieważ znaczna liczba kobiet postanowiła podjąć płatne zatrudnienie. Kobiety stanowiły 18% zasobu siły roboczej w roku 1900 i prawie połowę aktywnych zawodowo w 2021. Jednak pomimo wzrostu liczby pracowników, a także innych zmian (takich jak wprowadzanie nowych technologii i przenoszenie produkcji – wraz z nasilającą się globalizacją – do krajów rozwijających się) gospodarka była zdolna zapewnić wystarczającą liczbę miejsc pracy dla mniej więcej stałego odsetka aktywnych zawodowo Amerykanów. W Polsce z kolei zmiany stóp bezrobocia obserwowane w ciągu ostatnich kilkunastu lat są silnie związane z czynnikami demograficznymi. Szybki wzrost odsetka osób poszukujących pracy na początku XXI w. był konsekwencją wchodzenia na rynek pracy pokolenia tzw. wyżu demograficznego stanu wojennego. W latach 1999–2003 z polskiego rynku pracy odchodziło w naturalny sposób (przede wszystkim na emeryturę) ok. 350–400 tys. pracowników, wchodziło zaś na niego dwukrotnie więcej osób. Polska gospodarka nie była w stanie wygenerować w krótkim czasie tak dużej liczby dodatkowych miejsc pracy. W konsekwencji część osób bezrobotnych, szczególnie młodych, zdecydowała się na czasową lub stałą emigrację. Obecnie sytuacja uległa głębokiej zmianie. Z rynku pracy schodzi ok. 150 tys. osób więcej, niż nań wchodzi. Właśnie dlatego Polska jest tak silnie uzależniona od importu pracowników i w zasadzie nie ma problemu z bezrobociem, które nie wzrosło znacząco nawet w okresie pandemii Covid-19.</para>
+        </item>
+      </list>
+    </section>
+    <section id="fs-idm18429232">
+      <title id="UUIDc8bb91d8-2b20-4cc5-4718-55c6dcf91679">Stopy bezrobocia wg płci, wieku i pochodzenia etnicznego</title>
+      <para id="fs-idm98498896">Bezrobocie nie rozkłada się równomiernie w populacji Stanów Zjednoczonych. <link target-id="CNX_Econ_C21_011" document="" id="UUIDf6b0b0c5-4199-49cf-7b77-62da383ab887" /> ilustruje stopy bezrobocia w grupach zdefiniowanych demograficznie.</para>
+      <figure id="CNX_Econ_C21_011">
+        <title id="UUID71294353-a483-49d6-49af-e26ad0671835">Stopa bezrobocia wg płci, wieku i pochodzenia etnicznego</title>
+        <media alt="Wykres zawiera trzy panele, na których zaprezentowano stopy bezrobocia wśród kobiet i mężczyzn (panel a) oraz w czterech różnych grupach wiekowych (panel b) w latach 1948–2020, jak również odsetek bezrobotnych wśród Afroamerykanów, Latynosów i osób białych w latach 1974–2020 (panel c). Zmiany w wysokości stopy bezrobocia wśród kobiet i mężczyzn w analizowanym okresie wykazują podobne tendencje, zaś od początku lat 80. XX w. poziom tych dwóch wskaźników jest bardzo zbliżony. Stopy bezrobocia spadają wraz z wiekiem, są najwyższe w grupie najmłodszych pracowników (16–19 lat) i najniższe wśród pracowników w wieku powyżej 55 lat. Z kolei różnice w odsetkach osób aktywnych zawodowo pozostających bez pracy w różnych grupach etnicznych sukcesywnie maleją od początku lat 80. ubiegłego wieku, w dalszym ciągu jednak najwięcej bezrobotnych jest wśród Afroamerykanów, zaś najmniej wśród osób białych." id="fs-idp58711056">
+          <image src="../../media//CNX_Econv1-2_C21_04.svg" mime-type="image/svg+xml" id="UUIDa7cd936a-7d85-4b13-4147-758dab74ab83" />
+        </media>
+        <caption id="UUIDcb0d6a56-48a0-4b64-66fc-e8d3d6d7c007">Panel (a) Stopa bezrobocia wśród mężczyzn była niegdyś znacznie niższa niż w grupie kobiet (w drugiej połowie lat 60. XX w. ta różnica sięgała nawet 2 punktów procentowych), ale w ostatnich dekadach wartość tych dwóch parametrów w zasadzie się zrównała, a w latach 2007–2019 stopa bezrobocia wśród mężczyzn była wręcz wyższa. Panel (b) Stopa bezrobocia jest najwyższa wśród osób bardzo młodych i obniża się wraz z wiekiem. Panel (c) Chociaż stopa bezrobocia wśród wszystkich grup etnicznych ma tendencję do jednoczesnego wzrostu i spadku, wskaźnik ten dla Afroamerykanów jest zwykle ok. dwóch razy wyższy niż dla osób białych, dla Latynosów zaś kształtuje się na poziomie pośrednim w stosunku do tych dwóch grup. (Źródło: www.bls.gov).</caption>
+      </figure>
+      <para id="UUID462f80da-3982-4dc7-4f50-7bcf1814f7aa" />
+      <para id="fs-idp75705856">Stopa bezrobocia wśród kobiet w USA była do lat 70. XX w. wyższa niż wśród mężczyzn, być może odzwierciedlając historyczny pogląd, zgodnie z którym kobiety były postrzegane jako <term id="UUIDad4a225d-14c5-4816-6300-8e93af675643">pracownicy drugiego wyboru</term> (ang. <foreign xml:lang="en" id="UUIDeb4bde6e-16dc-4144-5236-988be49a6aa0">“secondary” earners</foreign>). Jednak ok. 1980 r. stopa bezrobocia wśród kobiet zrównała się ze wskaźnikiem bezrobocia wśród mężczyzn, co jest pokazane na <link target-id="CNX_Econ_C21_011" document="" id="UUID421c8f91-8ba4-45e0-7bb1-cf9fc409fb8d" /> panel (a). W okresie tuż przed recesją z lat 2008–2009 i później aż do 2019 r. stopa bezrobocia wśród mężczyzn przewyższała wskaźnik bezrobocia wśród kobiet. W 2020 r. ta tendencja jednak ponownie się odwróciła. W Polsce w tym zakresie w ciągu ostatnich kilkunastu lat utrzymuje się dość stała tendencja, zaś stopa bezrobocia wśród kobiet jest wyższa w porównaniu z odsetkiem bezrobotnych mężczyzn, jedna różnica ta systematycznie maleje. W roku 2010 stopa bezrobocia mierzona metodą baelowską wynosiła wśród kobiet 9,9%, podczas gdy wśród mężczyzn było to 8,9%. W kolejnym roku różnica wzrosła do dwóch punktów procentowych (odpowiednio 10,8% i 8,8%), jednak od tego momentu spada i obecnie kształtuje się na poziomie ok. pół punktu procentowego.</para>
+      <note type="note" id="fs-idp27881536" class="economics linkup">
+        <para id="fs-idp15122336">Przeczytaj ten <link url="http://openstax.org/l/BLS_recession" id="UUID6a255a5a-f6ef-419c-79c2-b2b857e44cd8">raport</link>, aby uzyskać szczegółowe dane na temat recesji w Stanach Zjednoczonych w latach 2008–2009. Znajdziesz tam także przydatne informacje w kwestii statystyk dotyczących bezrobocia w tym kraju.</para>
+      </note>
+      <para id="fs-idm23312496">Najmłodsi pracownicy doświadczają zwykle najwyższego bezrobocia. W grupie pracowników w wieku 25-54 bezrobocie jest zwykle niższe, prawdopodobnie dlatego, że osoby w tej fazie życia często posiadają już rodziny i ich determinacja w poszukiwaniu i utrzymaniu miejsca pracy jest znacznie wyższa niż w wypadku młodych dorosłych. Młodsi pracownicy zmieniają miejsca pracy częściej niż pracownicy w średnim wieku, wciąż zdobywają wiedzę, doświadczenie i umiejętności, poszukując swojego wymarzonego pracodawcy i zawodu, co dodatkowo przyczynia się do obserwowanych wyższych stóp bezrobocia w tej grupie. Dla pracowników w wieku powyżej 55 lat charakterystyczne są najniższe wskaźniki bezrobocia, ponieważ ci spośród nich, którzy nie mogą znaleźć pracy, zazwyczaj przechodzą na emeryturę (dezaktywizują się zawodowo), a zatem nie są uwzględniani w statystykach bezrobocia.</para>
+      <para id="fs-idm51055376">Stopa bezrobocia dla Afroamerykanów jest znacznie wyższa niż dla innych grup etnicznych, co z pewnością odzwierciedla zjawisko dyskryminacji na rynku pracy, jakiej doświadczają przedstawiciele tej mniejszości. Jednak wraz z końcem XX w. różnice w wysokości stóp bezrobocia w trzech grupach etnicznych (biali, czarni i Latynosi) w gospodarce amerykańskiej znacznie się zmniejszyły, co łatwo zauważyć na <link target-id="CNX_Econ_C21_011" document="" cmlnle:case="locative" id="UUID62915041-d0c9-4b18-49af-79d2fb7c2279" /> panel (c). Stopa bezrobocia wśród Afroamerykanów i Latynosów na początku XXI w. była na historycznie najniższym poziomie, zanim nie wzrosła wraz z początkiem recesji w latach 2008–2012.</para>
+      <para id="UUID438a6644-b2d0-4cf4-6a2c-148c557fa0b6">Wreszcie osoby słabiej wykształcone zazwyczaj doświadczają wyższego bezrobocia. Na przykład w listopadzie 2021 r. stopa bezrobocia dla legitymujących się wykształceniem wyższym wynosiła 2,3%; dla osób, które rozpoczęły naukę na studiach, ale jej nie ukończyły, była równa 3,7%; dla posiadaczy średniego wykształcenia osiągnęła 5,2%; a dla osób z wykształceniem podstawowym i zawodowym wyniosła 5,7%. Taka prawidłowość pojawia się, ponieważ każdy kolejny rok nauki w praktyce zapewnia lepszą pozycję na rynku pracy i zwiększa popyt na pracownika. Dodatkowo, z uwagi na niższy średni poziom wynagrodzeń i gorsze warunki pracy, osoby o niskich kwalifikacjach i bez formalnego wykształcenia mogą być zdemotywowane do poszukiwania zatrudnienia.</para>
+    </section>
+    <section id="fs-idp12334112">
+      <title id="UUID9990a9d2-f65c-42af-41dc-3ef1ce6676c8">Porównania stóp bezrobocia w różnych krajach</title>
+      <para id="fs-idp38638544">Porównania stóp bezrobocia w różnych krajach wskazują, że wartość tego wskaźnika w Stanach Zjednoczonych jest zazwyczaj niższa niż w innych państwach o wysokim poziomie dochodu (tradycyjnie określanych jako kraje rozwinięte lub uprzemysłowione). <link target-id="Table_21_04" document="" id="UUID8b5f7e37-eff5-4be3-48de-fcf08df861ee" /> zawiera informację o stopach bezrobocia w latach 1991, 1996, 2001, 2006 (tuż przed recesją) oraz 2019 (a więc w ostatnim roku przed wybuchem pandemii koronawirusa) w wybranych krajach o wysokim dochodzie na mieszkańca. Jako punkt odniesienia wskazano również dane dla Polski.</para>
+      <table summary="The table shows the various unemployment rates for countries for the years 1991, 1996, 2001, 2006, and 2012. The United States = 6.8%, 5.4%, 4.8%, 4.4%, 8.1%. Canada = 9.8%, 8.8%, 6.4%, 6.2%, 6.2%, 6.3%. Japan = 2.1%, 3.4%, 5.1%, 4.5%, 3.9%. France = 9.5%, 12.5%, 8.7%, 10.1%, 10.0%. Germany = 5.6%, 9.0%, 8.9%, 9.8%, 5.5%. Italy = 6.9%, 11.7%, 9.6%, 7.8%, 10.8%. Sweden = 3.1%, 9.9%, 5.0%, 5.2%, 7.9%. United Kingdom = 8.8%, 8.1%, 5.1%, 5.5%, 8.0%." id="Table_21_04"><title id="UUIDef502592-73ff-49de-535c-b23aed641348">Porównanie stóp bezrobocia w różnych krajach (dla Polski dane przedstawiają wysokość bezrobocia rejestrowanego w grudniu wskazanego roku)</title><tgroup cols="6" id="UUIDbf4a4e2d-f276-49cc-4f8a-d1ecd935ef96"><colspec colnum="1" colname="col1" id="UUIDcca50594-4121-482a-500e-a776789aedef" /><colspec colnum="2" colname="col2" id="UUIDf59c18c2-6b24-4e9d-519e-8247d8470a26" /><colspec colnum="3" colname="col2" id="UUID8e552e67-685e-45b4-6c9e-32eab0c08b33" /><colspec colnum="4" colname="col2" id="UUIDd89f3e2a-074d-47b2-7dc0-3a6b36f9e9f4" /><colspec colnum="5" colname="col2" id="UUID1a2d4f99-0d84-4050-6765-e977ed3956c5" /><colspec colnum="6" colname="col2" id="UUID465e4f0d-ca61-4436-7b66-1839aff42471" /><thead id="UUID6a56aa70-7285-4a8a-4053-7690af95e7df"><row id="UUID2180d6c5-8c7f-4c55-6494-1598dfdef6cf"><entry id="UUID47bba5e3-49b5-48bc-6d47-9b1b0ce42dc6">Kraj</entry><entry id="UUID83deb055-8529-4d64-6db9-66112bc748f5">1991</entry><entry id="UUIDb8892193-55df-41d3-4b3b-ddb677cc7306">1996</entry><entry id="UUID46a4e286-fa9d-4fbc-4ee5-e66a313d6375">2001</entry><entry id="UUID5678f495-49a1-4022-6807-96a58c80503b">2006</entry><entry id="UUID892670d8-2f23-4efb-693a-e34768d78742">2019</entry></row></thead><tbody id="UUID8df49d3f-d146-45e1-719f-910b70e8df1b"><row id="UUID24a5c5a5-d4ba-4546-404a-6754ac99aebd"><entry id="UUID019d70ce-cac3-4c45-590f-6d2b4684fd17">Stany Zjednoczone</entry><entry id="UUID092512ee-1dc2-4eda-6bb4-45b88a28f9e3">6,8%</entry><entry id="UUIDbaf02706-97a6-4705-40d7-5fec7fa5b769">5,4%</entry><entry id="UUID4b2f69bf-bfd8-438e-79d0-4bdf85ae32cb">4,8%</entry><entry id="UUIDe7583ec8-5ecf-4f43-5631-8ea775cf75c9">4,4%</entry><entry id="UUID88343552-2540-4ac1-572a-d9ea962ca5ad">3,7%</entry></row><row id="UUID67e7ae75-437c-4ca1-7e36-c6643921e607"><entry id="UUIDb78a06ec-0d43-4707-6c16-932e1c0b053c">Kanada</entry><entry id="UUID887a5f8a-6c60-4727-6e55-e5c22231797b">9,8%</entry><entry id="UUID92b0eef1-2e50-47b5-74cc-f317bdbebc52">8,8%</entry><entry id="UUIDcb5bc6de-9c54-4a8e-59bf-1d27f8839747">6,4%</entry><entry id="UUID943912a8-02d7-4950-5cba-1e08e3523e46">6,2%</entry><entry id="UUID5f5d2fdc-26eb-40d5-5e8f-b6aa7a162b33">5,7%</entry></row><row id="UUID8a009428-89eb-40de-42e0-64c186081237"><entry id="UUID3d8b2a13-a724-41a4-679d-08afa6d4f719">Japonia</entry><entry id="UUID5bbce081-b5f9-4207-7cfd-b599e6843412">2,1%</entry><entry id="UUIDa70a4f51-fba1-4ee1-4423-cab5b24e5701">3,4%</entry><entry id="UUIDbdb49a00-bb98-4af0-58ec-a6e71846cc9f">5,1%</entry><entry id="UUID55983ca8-f163-4556-4f2a-cc2396edb573">4,5%</entry><entry id="UUIDc8c7d130-6256-4a0a-5d64-47dff1135a3a">2,4%</entry></row><row id="UUID98f4cd1d-9ea9-49a1-43b2-83534607e82a"><entry id="UUIDaaaefd24-fb9d-4bb2-6038-76d9da6696ed">Francja</entry><entry id="UUIDcdb9bd83-31f1-4c59-556e-238819bdb272">9,5%</entry><entry id="UUID4f3fe35b-a132-4cd4-49fe-14fb8dd11100">12,5%</entry><entry id="UUIDcf6d7328-a97f-44df-65f1-bec82bd229a4">8,7%</entry><entry id="UUIDf48d458c-dbf2-4718-44a2-b31895ca45e8">10,1%</entry><entry id="UUIDd35e8b63-5bf4-4a6b-4ec5-609c0430d0f7">8,5%</entry></row><row id="UUIDb414def7-fd47-4a71-642b-d2e4c84f949f"><entry id="UUID363a886b-eb4f-40d8-6601-197a59162e0c">Niemcy</entry><entry id="UUID2540816e-2125-4241-5fc4-8898608ecaf1">5,6%</entry><entry id="UUID9ce64099-dd59-49f6-441e-9d3c1cae19ff">9,0%</entry><entry id="UUID75b51bcb-6fe4-4ba4-7a63-a4033fa8d9fa">8,9%</entry><entry id="UUIDc53047c2-25cc-4666-7fca-e272c0fe34c0">9,8%</entry><entry id="UUID48a59349-503c-46e4-674c-4fb899359505">3,1%</entry></row><row id="UUID0f8ac03e-2f7a-438b-4279-8c7101e4a57e"><entry id="UUID6ebdbead-89f9-45b4-517a-10b0f3dee132">Włochy</entry><entry id="UUID9bc077f8-5936-4e8d-79f0-88112e65348a">6,9%</entry><entry id="UUIDd7006312-52db-4777-5abf-24ccb3f8faac">11,7%</entry><entry id="UUIDe2f4d917-99e2-45e6-476a-06bbb9e0cb15">9,6%</entry><entry id="UUIDc2d17cfe-d7e5-434b-4508-39362168bf88">7,8%</entry><entry id="UUIDb1ef16f3-43ae-463e-529b-a78f662507cb">10,0%</entry></row><row id="UUID82935b6b-9b3d-46cf-4628-a784372e429d"><entry id="UUIDd7e33dfb-9538-4729-7052-54a4f297f0fa">Szwecja</entry><entry id="UUIDc1808826-ea96-424d-5233-c74c9257c370">3,1%</entry><entry id="UUID43f9fca2-bfc3-446c-4ff6-d2755b1b1dcd">9,9%</entry><entry id="UUIDdf7106b3-1a99-489c-7056-f689a4f48a05">5,0%</entry><entry id="UUID62456dd1-a7cb-4314-504b-fc7ebab7c02c">5,2%</entry><entry id="UUID8e9b2caa-0ac2-4ddd-4bb0-40c4c1fdc0f0">7,0%</entry></row><row id="UUID2ec01019-3972-4a3a-53b4-ac9535dabe34"><entry id="UUID4107a017-d178-438c-4cfc-56df1fccc240">Zjednoczone Królestwo</entry><entry id="UUID3c716bf8-337a-4fc1-5173-3ad2e8e0be53">8,8%</entry><entry id="UUIDda509830-3c13-4f5b-46a8-69eec8b71d5c">8,1%</entry><entry id="UUIDaef2a6e6-3309-4a80-68b5-6fc966537287">5,1%</entry><entry id="UUID0446a8f5-0e5b-4b02-773d-e6d0971218f1">5,5%</entry><entry id="UUIDa4fe8ccc-3d8c-402e-6a70-c83ed36b3820">3,9%</entry></row><row id="UUID2ec01019-3972-4a3a-ki78-ac9535dabe34"><entry id="UUID4107a017-d178-438c-6767-56df1fccc240">Polska</entry><entry id="UUID3c716bf8-337a-4fc1-4455-3ad2e8e0be53">12,%</entry><entry id="UUIDda509830-3c13-55e3-46a8-69eec8b71d5c">13,2%</entry><entry id="UUIDaef2a6e6-2343-4a80-68b5-6fc966537287">17,5%</entry><entry id="UUID0446a8f5-w3re-4b02-773d-e6d0971218f1">14,8%</entry><entry id="UUIDa4fe8ccc-3d8c-hy78-6a70-c83ed36b3820">5,2%</entry></row></tbody></tgroup></table>
+      <para id="UUIDaf1d4504-834c-4504-7fc2-6698798d4b90">Tego typu zestawienia powinny być interpretowane z dużą dozą ostrożności, ponieważ każdy kraj wykorzystuje nieco inne definicje bezrobocia i narzędzia ankietowe do jego pomiaru, a także ma odmiennie funkcjonujące rynki pracy. Dane dla Polski – na tle referencyjnej grupy krajów dość wysokie – odwołują się do definicji „rejestrowanego bezrobocia”. Gdyby przyjąć metodologię baelowską, stosowne wskaźniki byłyby z pewnością niższe (zgodnie z danymi GUS, które są niestety dostępne tylko od 2010 r., bezrobocie na koniec czwartego kwartału 2019 r. obliczone na podstawie badań ankietowych kształtowało się na poziomie 2,9%). Stopa bezrobocia w Japonii wydaje się dość niska, mimo że od końca lat 80. ubiegłego wieku japońska gospodarka jest pogrążona w stagnacji, a niekiedy nawet w recesji. Tak niski wskaźnik bezrobocia prawdopodobnie rysuje zbyt optymistyczny obraz tego rynku pracy. W Japonii pracownicy, którzy tracą zatrudnienie, zazwyczaj szybko wychodzą z zasobu siły roboczej i nie szukają nowego zajęcia, a więc nie są zaliczani do grupy bezrobotnych. Ponadto firmy japońskie dość niechętnie zwalniają ludzi, w związku z tym mają dużą liczbę pracowników, którzy pracują w niepełnym wymiarze czasu pracy lub pozostają oficjalnie zatrudnieni, mimo że niewiele robią. (To skądinąd jedna z wielu przyczyn stagnacji, w jakiej pogrążona jest ta gospodarka). Możemy postrzegać ten japoński schemat postępowania jako niezwykłą metodę zapewniania wsparcia bezrobotnym przez społeczeństwo, a nie oznakę zdrowej gospodarki.</para>
+      <note type="note" id="fs-idm33245792" class="economics linkup">
+        <para id="fs-idm19654848">Informacje o Chinach i gospodarce tego kraju wprost zalewają media. Zmiany wartości chińskiego juana w porównaniu z dolarem, stopa wzrostu PKB w tym kraju i wysokość inflacji prawdopodobnie będą częścią wieczornego programu biznesowego dziś lub jutro. Dlaczego więc gospodarka Państwa Środka nie została uwzględniona w dyskusji o bezrobociu w ujęciu międzynarodowym? Powodem jest brak rzetelnych statystyk. Ten <link url="http://openstax.org/l/ChinaEmployment" id="UUID2d8889c7-c34d-4452-45fd-abf47427c649">artykuł</link> to wyjaśnia.</para>
+      </note>
+      <para id="UUID94de2cb5-76ad-4fba-5d17-fa97157f073f">Porównywanie stóp bezrobocia w Stanach Zjednoczonych i innych gospodarkach o wysokich dochodach ze stopami bezrobocia w krajach rozwijających się, leżących w Ameryce Łacińskiej, Afryce i Azji jest bardzo trudne. Jednym z najważniejszych powodów jest fakt, że urzędom statystycznym w wielu biedniejszych krajach brakuje zasobów i możliwości technicznych porównywalnych z tymi, którymi dysponuje Biuro Spisu Ludności USA, Eurostat czy GUS. Jeszcze większy problem z porównaniami międzynarodowymi wynika z tego, że w wielu krajach o niskich dochodach większość pracowników nie jest oficjalnie zarejestrowana przez pracodawcę i nie otrzymuje regularnych wynagrodzeń. Ludzie znajdują tam raczej zatrudnienie dorywcze, krótkoterminowe, pracują w zamian za utrzymanie lub prowadzą handel wymienny (barterowy – np. jako rekompensatę za swój wysiłek otrzymują jedzenie dla siebie i rodziny). Ponadto wpływ bezrobocia na społeczeństwo w krajach o wysokich i niskich dochodach jest zróżnicowany. Bezrobotni pracownicy w rozwiniętych gospodarkach mają dostęp do różnych programów rządowych, takich jak ubezpieczenie na wypadek bezrobocia, opieka społeczna czy bony żywnościowe. Podobne programy w krajach biednych albo w ogóle nie istnieją, albo skala wsparcia jest bardzo ograniczona. Chociaż bezrobocie stanowi poważny problem w wielu krajach o niskich dochodach, jego symptomy i konsekwencje znacznie różnią się od tych właściwych dla krajów zamożnych.</para>
+    </section>
+    <section id="fs-idm110167232" class="summary">
+      <title id="UUID311db296-0471-4dbe-643e-376ac9847397">Key Concepts and Summary</title>
+      <para id="fs-idm26272224">Stopa bezrobocia w USA rośnie w okresach stagnacji gospodarczej i recesji, ale spada do przedziału 4–6%, gdy gospodarka zaczyna ponownie rosnąć. Stopa bezrobocia nigdy nie spada do zera. Pomimo ogromnego wzrostu liczby ludności i zasobu siły roboczej w USA w XX w., a także innych głębokich zmian gospodarczych, takich jak globalizacja i wprowadzanie nowych technologii substytuujących pracę, stopa bezrobocia w Stanach Zjednoczonych i Polsce nie wykazuje długoterminowej tendencji wzrostowej.</para>
+      <para id="UUIDccb213a4-450a-4c56-77c2-55ec1396bc1d">Stopy bezrobocia uzależnione są od czynników determinujących sytuację ludzi na rynku pracy: są wyższe dla Afroamerykanów i Latynosów niż dla białych; wyższe dla gorzej wykształconych i posiadających niższe kwalifikacje; wyższe dla osób młodych w porównaniu z pracownikami w średnim wieku. Stopa bezrobocia wśród kobiet była kiedyś wyższa niż stopa bezrobocia wśród mężczyzn, ale w ostatnich latach wartości tych wskaźniki w obu grupach uległy unifikacji.</para>
+    </section>
+    <section id="fs-idp1757648" class="self-check-questions">
+      <title id="UUID8e3d27b4-b62a-4bf6-5f32-dde0cd5c7b9c">Self-Check Questions</title>
+      <exercise id="fs-idm86466512">
+        <problem id="UUID2266f13d-521c-4971-4b22-14025a215b90">
+          <para id="UUID44a45003-21eb-4886-4c3d-40fee9c779b5">Czy w długim okresie stopa bezrobocia w USA wskazywała – ogólnie rzecz biorąc – tendencję wzrostową, spadkową, czy pozostawała na stałym poziomie?</para>
+        </problem>
+        <solution id="fs-idm91640336">
+          <para id="fs-idm79951024">W długim okresie stopa bezrobocia w Stanach Zjednoczonych utrzymywała się generalnie na tym samym poziomie.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm79064496">
+        <problem id="fs-idm39297616">
+          <para id="fs-idm63871312">Dla jakich grup społecznych w USA stopy bezrobocia są zazwyczaj wyższe:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm72911744">
+            <item id="UUID2f2ec4ee-b982-4ff1-5f27-86930fcfc16a">
+              <para id="UUIDbd4a0f84-3c79-43d0-7d52-0d77b7ac6292">Osoby białe czy przedstawiciele mniejszości etnicznych?</para>
+            </item>
+            <item id="UUID5d9debd9-d7d1-47f7-5874-50f9d074e477">
+              <para id="UUIDc999d0d0-e9a9-490c-7023-c5421149878e">Osoby młode czy w średnim wieku?</para>
+            </item>
+            <item id="UUIDaa90a484-6669-4fb7-4901-066d3b8affd1">
+              <para id="UUIDeba82a12-0c5a-4027-4ae7-f37a28c8ef17">Licealiści czy osoby po studiach?</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idm52192144">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm125615424">
+            <item id="UUIDc7a39e5c-567a-46c7-7b01-b00e6b636d26">
+              <para id="UUIDcf269400-d698-4e6f-5064-c2f719c3c594">Przedstawiciele mniejszości etnicznych.</para>
+            </item>
+            <item id="UUID3b0883ed-accf-4a80-7cb9-d0bb841cb90b">
+              <para id="UUIDb13e1bce-314f-4aec-676d-f267790a771c">Osoby młode.</para>
+            </item>
+            <item id="UUIDab54af35-a7c0-46ca-740b-f71009446571">
+              <para id="UUIDec214758-4702-4a53-7201-864dbb68d8f7">Licealiści.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm67785312" class="review-questions">
+      <title id="UUIDafbd96d6-6e64-4bc8-674c-0feaad8abfc3">Review Questions</title>
+      <exercise id="fs-idm44810400">
+        <problem id="fs-idm85678304">
+          <para id="fs-idm71928784">Czy stopa bezrobocia w Stanach Zjednoczonych jest zazwyczaj wyższa, niższa, czy na podobnym poziomie jak w innych krajach o wysokich dochodach?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm98767376">
+        <problem id="fs-idm66746336">
+          <para id="fs-idm62988704">Czy w Stanach Zjednoczonych stopa bezrobocia jest rozłożona równomiernie w całej populacji?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm24253632" class="critical-thinking">
+      <title id="UUID47b58c2b-0dde-47a2-746c-9767f232e8ab">Critical Thinking Questions</title>
+      <exercise id="fs-idm83170224">
+        <problem id="fs-idm73526544">
+          <para id="fs-idm53548256">Czy wyższa stopa bezrobocia wśród pracowników reprezentujących mniejszości etniczne musi być oznaką dyskryminacji? Jakie mogą być inne przyczyny wyższej stopy bezrobocia w tej grupie?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm67800336">
+        <problem id="fs-idp9789024">
+          <para id="fs-idm29179152">Chociaż bezrobocie jest silnie ujemnie skorelowane z poziomem aktywności gospodarczej, to w realnym świecie reakcja tego parametru jest opóźniona w stosunku do odczytu zmian aktywności gospodarczej. Innymi słowy, firmy nie zwalniają pracowników natychmiast w odpowiedzi na spadek sprzedaży. Czekają jakiś czas, zanim zareagują. Podobnie firmy nie zatrudniają pracowników od razu, gdy ich sprzedaż wzrasta. Z czego wynika takie opóźnienie reakcji?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm32464592">
+        <problem id="fs-idm89127360">
+          <para id="fs-idm55485504">Jak myślisz, dlaczego stopa bezrobocia jest niższa dla osób z wyższym wykształceniem?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+</document>

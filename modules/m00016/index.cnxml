@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uc0c3b063-b65b-475b-b3c5-593e19a77142" id="Uc0c3b063-b65b-475b-b3c5-593e19a77142" xml:lang="en" cnxml-version="0.7">
+  <title>3.4 Przyczyny bezrobocia w długim okresie</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00016</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/c0c3b063-b65b-475b-b3c5-593e19a77142</md:content-url>
+    <md:title>3.4 Przyczyny bezrobocia w długim okresie</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:03.477273963+00:00</md:version>
+    <md:created>2023-08-30T08:02:03.477273963+00:00</md:created>
+    <md:revised>2023-08-30T08:02:03.477273963+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>c0c3b063-b65b-475b-b3c5-593e19a77142</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-9987-5543-7c527b82d03b3911" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUIDd557b5db-6109-4b24-6eeb-d849381d5e8e">
+          <para id="UUIDf2774161-cb33-48c5-4a3b-0a6f5bc00716">Zdefiniować bezrobocie frykcyjne i strukturalne</para>
+        </item>
+        <item id="UUID46999b4d-6171-4871-757d-01f950034cbd">
+          <para id="UUID23c19ed1-b50a-4f86-5ee8-9772d57991ac">Przeanalizować relacje pomiędzy naturalną stopą bezrobocia a poziomem potencjalnego PKB, produktywnością i politykami publicznymi</para>
+        </item>
+        <item id="UUIDf31dcbcb-037d-4310-5612-26421f1ac7ec">
+          <para id="UUIDe6a432d3-21b9-42d3-7c93-f0bd6b4b03fe">Wyjaśnić, jak zmieniał się poziom naturalnej stopy bezrobocia w ciągu ostatnich lat</para>
+        </item>
+        <item id="UUID9554e069-11e1-4e03-79cc-1e04a7a2407b">
+          <para id="UUID593c51b3-655b-40fb-77d7-33cc62150b48">Podać sposoby ograniczania poziomu bezrobocia</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDbb57958e-82c3-408a-5e4e-e603723996e4">Zjawisko bezrobocia cyklicznego wyjaśnia, dlaczego liczba osób pozostających bez pracy wzrasta podczas recesji i maleje podczas okresów ekspansji. Ale dlaczego bezrobocie utrzymuje się nawet w czasach korzystnej koniunktury? Dlaczego stopa bezrobocia nigdy nie jest równa zero? Nawet wtedy, gdy gospodarka amerykańska szybko się rozwija, tamtejsza stopa bezrobocia rzadko spada do poziomu 4%. W poprzednich podrozdziałach zwrócono uwagę na to, że stopy bezrobocia w wielu krajach europejskich, takich jak Włochy, Francja i Niemcy, w różnych okresach w ciągu ostatnich kilkudziesięciu lat były stosunkowo wysokie. Dlaczego – jeśli potraktujemy jako punkt odniesienia gospodarkę amerykańską – w niektórych państwach stopa bezrobocia jest w stały sposób wyższa zarówno w latach lepszej, jak i gorszej koniunktury? Jakie czynniki wpłynęły z kolei na tak gwałtowny spadek stopy bezrobocia w Polsce w ciągu ostatnich 6–8 lat? Na opisanie poziomu bezrobocia, które występuje nawet wtedy, gdy gospodarka jest w świetnej kondycji, ekonomiści mają stosowny termin: nazywają go <term id="UUID49a0b983-43fb-4436-4657-28de0fd610fd">naturalną stopą bezrobocia</term> (ang. <foreign xml:lang="en" id="UUID5c67c2d1-3edb-4e82-4a01-e15783d461a2"><term id="UUID98bbc489-1390-4973-59f6-95c50e1cf3df"><emphasis effect="italics">natural rate of unemployment</emphasis></term></foreign>).</para>
+    <section id="fs-idm11421040">
+      <title id="UUIDb0a3909a-d789-47f7-74d6-aee4df28e69b">Długi okres: Naturalna stopa bezrobocia</title>
+      <para id="UUID51ff8a75-6cce-4c16-6637-2895b7428fb1">Naturalna stopa bezrobocia nie jest wielkością „naturalną” w sensie, jaki znamy z nauk fizycznych. Poziom naturalnej stopy bezrobocia nie ma charakteru stałego, jak temperatura krzepnięcia i wrzenia wody (odpowiednio: 0ºC i 100ºC). Nie jest to niezmienne prawo natury. Słowo „naturalny” w naukach społecznych oznacza raczej wypadkową łącznego działania czynników gospodarczych, społecznych i politycznych istniejących w danym czasie w gospodarce, która nie doświadcza ani okresu gwałtownej ekspansji, ani recesji. Na „naturalność” stopy bezrobocia składa się zatem typowy sposób postępowania firm rozwijających się i zatrudniających siłę roboczą w dynamicznej gospodarce, zwyczaje, powszechnie podzielane poglądy i sposób postępowania ludzi na rynku pracy, a także prowadzona przez państwo polityka publiczna oddziałująca na skłonność ludzi do podejmowania pracy (aktywność zawodową) i gotowość firm do zatrudniania pracowników. Omówmy te czynniki bardziej szczegółowo.</para>
+    </section>
+    <section id="fs-idp13184672">
+      <title id="UUIDb6389cbf-3b3a-4909-757f-b9193e8f2dd9">Bezrobocie frykcyjne</title>
+      <para id="UUID212f3f7c-85fb-4762-45d0-20724f79ff43">W gospodarce rynkowej bankructwa przedsiębiorstw zdarzają się zawsze. Powody bywają różne: przestarzała technologia, kiepskie kierownictwo, zmiany gustów konsumentów powodujące zmniejszenie zapotrzebowania na produkty firmy, upadek dużego klienta, pojawienie się nowych konkurentów krajowych i zagranicznych lub po prostu pech. I odwrotnie, zbieg szczęśliwych okoliczności lub racjonalne decyzje podejmowane przez właścicieli pozwalają przedsiębiorstwom na szybki rozwój i wzrost zatrudnienia. W idealnym świecie wszyscy, którzy stracili pracę, natychmiast znajdowaliby nową. Jednak w rzeczywistości nawet jeśli liczba osób poszukujących zatrudnienia jest równa liczbie wakatów, znalezienie nowej posady, odbycie rozmowy kwalifikacyjnej i ustalenie, czy istniejące wolne stanowisko pracy jest dobrze dopasowane do kompetencji kandydata, a może nawet sprzedaż domu i kupno innego w pobliżu siedziby nowego pracodawcy – to wszystko zajmuje trochę czasu. Bezrobocie, które związane jest z naturalnymi dla każdej gospodarki decyzjami pracowników o zmianie miejsca pracy, ekonomiści nazywają <term id="UUID88ac1243-1efe-4b96-440f-ffe163d265b9">bezrobociem frykcyjnym</term> (ang. <foreign xml:lang="en" id="UUIDe12031ae-cbac-4b06-60f7-c859969013b4"><term id="UUIDfe66cd03-7401-462b-6ddc-a8c28ff0c444"><emphasis effect="italics">frictional unemployment</emphasis></term></foreign>). Trudno je traktować jako zjawisko niekorzystne. Zarówno pracodawca, jak i potencjalny pracownik potrzebują czasu, aby znaleźć z jednej strony optymalnego kandydata, z drugiej zaś miejsce pracy zgodne z preferencjami. Proces ten po prostu wymaga zarówno wysiłku, jak i czasu, bez którego przedsiębiorstwa nie będą produktywne, a pracownicy zadowoleni z posady. Podejście, które opiera się na zatrudnieniu pierwszego kandydata z brzegu i przyjęciu pierwszej otrzymanej oferty, absolutnie tego nie gwarantuje.</para>
+      <para id="UUID4718ddec-8aaf-422e-4515-7b64cdc9b51c">W połowie pierwszej dekady XXI w., jeszcze przed początkiem globalnego kryzysu (który nastąpił w roku 2008), w ciągu każdego kwartału ok. 7% pracowników w USA traciło pracę. Jednak w okresie ożywienia i ekspansji liczba miejsc pracy tworzonych w tym samym czasie znacznie przekracza liczbę likwidowanych stanowisk. Na przykład w 2019 r. w amerykańskiej gospodarce każdego dnia było ok. 6 mln bezrobotnych. Mimo że dwie trzecie z tej grupy znajdowało nowe stanowisko w ciągu 14 tygodni (lub nawet szybciej), stopa bezrobocia w ciągu roku pozostawała na względnie stałym poziomie. Działo się tak dlatego, że dotychczasowi bezrobotni co prawda znajdowali nową pracę, ale w statystykach w dużej mierze zastępowani byli przez tych pracowników, którzy ją w międzyczasie tracili.</para>
+      <para id="UUID17c3ee44-adca-4eff-5fff-34d7140224a0">Oczywiście byłoby lepiej, gdyby osoby, które straciły pracę, mogły od razu i bez ponoszenia jakichkolwiek nakładów objąć istniejące lub nowo powstałe wakaty, ale w realnym świecie nie jest to możliwe. Ktoś, kogo zwolniono z fabryki tekstyliów w Karolinie Południowej, nie może natychmiast rozpocząć pracy w fabryce tekstyliów w Kalifornii. Proces dostosowań na rynku pracy odbywa się stopniowo. Niektórzy ludzie znajdują nowe zatrudnienie w pobliżu swego dotychczasowego miejsca pracy, podczas gdy inni dochodzą do wniosku, że muszą przenieść się tam, gdzie o atrakcyjne (z punktu widzenia ich samych oraz ich partnerów i dzieci) zajęcie jest łatwiej. Niektóre osoby mogą znaleźć pracę w bardzo podobnym przedsiębiorstwie, na niemal takim samym stanowisku, inni natomiast zmuszeni są rozpocząć nową ścieżkę kariery, zmieniając branżę i rodzaj wykonywanej pracy. Niektórzy ludzie, będący w wieku przedemerytalnym, zdecydują się na pracę w niepełnym wymiarze godzin. Inni szukają pracodawcy, który ma dla nich długoterminową ofertę z możliwościami rozwoju zawodowego, szkoleń itd. Bezrobocie frykcyjne, które wynika z naturalnego procesu zmiany miejsc pracy w dynamicznie rozwijającej się gospodarce, może stanowić 1-2 procent zasobu siły roboczej. <emphasis effect="underline">od jednego do 2 punktów procentowych całkowitej stopy bezrobocia.</emphasis></para>
+      <para id="UUID92aa73d7-006a-4179-65eb-bef7e1af283b">Poziom bezrobocia frykcyjnego będzie zależał od tego, jakie są koszty transakcyjne (wyrażone zarówno w pieniądzu, jak i w kategoriach czasu i nakładu pracy) znalezienia interesującego miejsca pracy i dopasowanego do oczekiwań przedsiębiorstwa pracownika. Im koszty te są niższe, tym szybciej i taniej obejmowane będą powstające wakaty. Skala bezrobocia frykcyjnego będzie również zależała od mobilności siły roboczej (czy jeśli stracę pracę w Poznaniu, będę skłonny przenieść się do Trójmiasta), a to z kolei jest pochodną stanu rynku mieszkaniowego (jak łatwo i po jakiej cenie mogę sprzedać nieruchomość w Poznaniu i kupić nową w Trójmieście), sektora bankowego (jak łatwo dostać kredyt) i w szerszym kontekście historii i kultury danego kraju.</para>
+      <para id="fs-idm31492384">Wysokość bezrobocia frykcyjnego i tym samym naturalnej stopy bezrobocia zależy również od rozkładu wieku ludności. Panel (b) <link target-id="CNX_Econ_C21_011" document="m00014" cmlnle:case="genitive" id="UUIDa209d76b-2467-4fb2-6374-01619cf77528" /> pokazuje, że stopy bezrobocia są zazwyczaj niższe dla osób w wieku z przedziału od 25 do 54 lat oraz w wieku powyżej 55 lat niż dla osób młodszych. Pracownicy w sile wieku, jak czasem nazywa się osoby w przedziale wiekowym 25–54 lat, są zazwyczaj na takim etapie życia, że najważniejszymi elementami przy wyborze potencjalnego pracodawcy są stabilność zatrudnienia i dochód regularnie wpływający na konto. Starsi pracownicy (powyżej 60 roku życia), którzy stracą pracę, mogą zdezaktywizować się zawodowo, ponieważ ich dochody i standard życia do pewnego stopnia stabilizuje otrzymywana już lub nieodległa emerytura (jeśli mają odpowiedni staż pracy mogą po prostu uznać, że zamiast szukać zatrudnienia po prostu doczekają do osiągnięcia określonego przepisami prawa wieku emerytalnego). Z kolei znaczący odsetek najmłodszych uczestników rynku pracy (w wieku poniżej 25 lat) będzie próbował swoich sił w różnych zawodach i różnych przedsiębiorstwach, poszukując dopiero swojej optymalnej ścieżki życiowej, co skutkować będzie większą mobilnością zawodową, a tym samym wyższym bezrobociem frykcyjnym. W związku z tym społeczeństwo z relatywnie wysokim odsetkiem młodych pracowników (tak jak to było w Stanach Zjednoczonych od połowy lat 60. XX w., kiedy to <emphasis effect="italics">baby boomers</emphasis> zaczęli wchodzić na rynek pracy) będzie się charakteryzowało tendencją do utrzymywania wyższej stopy bezrobocia niż społeczeństwo z wyższym odsetkiem starszych pracowników.</para>
+      <section id="UUID13b1ecc4-9ab8-4ee5-4ffe-c1ef2cffd395">
+        <title id="UUID3a27fac7-db94-400e-64f6-66b3d8a41e34">Bezrobocie strukturalne</title>
+        <para id="UUID28a20b47-3cf4-4f8d-660e-8f2b96e9f304">Innym czynnikiem wpływającym na naturalną stopę bezrobocia jest wielkość <term id="UUID5709e66b-deb8-4022-69d2-25dd85751cce">bezrobocia strukturalnego</term> (ang. <foreign xml:lang="en" id="UUID5cb0175c-0076-419f-54ba-6c59af623ed0"><term id="UUID1e587f0d-6069-49b8-7ac7-42503d703fa9"><emphasis effect="italics">structural unemployment</emphasis></term></foreign>). Ludzie stają się bezrobotni z powodów strukturalnych wtedy, gdy brakuje im kwalifikacji poszukiwanych na rynku pracy, lub wówczas, gdy popyt na ich pracę występuje poza miejscem ich zamieszkania i z różnych względów, np. z uwagi na sytuację życiową lub brak środków umożliwiających przeprowadzkę, nie mogą się przenieść za pracą. W ten sposób bezrobocie strukturalne obejmuje w krajach uprzemysłowionych pracowników przemysłu ciężkiego (górników, hutników, stoczniowców) i osoby, które nie zdobyły żadnego formalnego wykształcenia i nie mają żadnych konkretnych kwalifikacji (bo nie zdołały ukończyć nawet szkoły średniej), jak również tych pracowników, którzy zamieszkują regiony z wysokim bezrobociem (np. województwo warmińsko-mazurskie w Polsce), ale nie dysponują środkami umożliwiającymi zakup lub wynajęcie lokum w dużej aglomeracji, np. Warszawie lub Trójmieście.</para>
+        <para id="UUIDc836387f-f5ae-417c-47f9-4e5eaee623e6">Niektórzy uważają, że zmiany technologiczne są jednym z czynników wpływających na pojawienie się bezrobocia strukturalnego. W przeszłości wprowadzenie nowych technologii pozbawiło pracy osoby o niskich bądź specyficznych kwalifikacjach (np. dorożkarzy, wozaków, windziarzy i maszynistów wyspecjalizowanych w prowadzeniu parowozów), ale jednocześnie stworzyło zapotrzebowanie na pracowników o wyższych lub innych kwalifikacjach, którzy są w stanie wykorzystać nowe technologie (kierowców, informatyków, kurierów i osoby zarabiające dzięki aktywności w mediach społecznościowych). Edukacja wydaje się kluczem do zminimalizowania wielkości bezrobocia strukturalnego. Osoby z formalnym wykształceniem i nauczone tego, jak się uczyć, mogą się stosunkowo łatwo przekwalifikować, jeśli zostaną dotknięte bezrobociem strukturalnym (co miało miejsce np. w Polsce, gdzie posiadający stosowne doświadczenie dydaktyczne i formalne kwalifikacje potwierdzone dyplomem uczelni nauczyciele języka rosyjskiego przekwalifikowali się i uczą innych języków obcych). W przypadku osób bez formalnego wykształcenia i pozbawionych umiejętności przyswajania wiedzy opcja ta raczej nie wchodzi w grę.</para>
+      </section>
+    </section>
+    <section id="fs-idp20544784">
+      <title id="UUID16f2641d-4d80-4a2e-6b08-81be0dfea859">Bezrobocie naturalne a poziom potencjalnego PKB</title>
+      <para id="UUID0c43555a-2eb9-430c-5467-a6099e234a31">Naturalna stopa bezrobocia jest związana z dwoma innymi ważnymi pojęciami: pełnym zatrudnieniem oraz poziomem potencjalnego PKB. Ekonomiści przyjmują, i jest to twierdzenie w zasadzie niekontrowersyjne, że w gospodarce mamy do czynienia z pełnym zatrudnieniem, gdy obliczana na podstawie przyjętej w danym kraju metody stopa bezrobocia jest równa naturalnej stopie bezrobocia. Jeśli w gospodarce utrzymany jest stan pełnego zatrudnienia, to rzeczywisty (obserwowany) poziom PKB (czyli ten zmierzony przez właściwy dla danego kraju urząd statystyczny) jest równy potencjalnemu PKB. Wykorzystanie pełnego potencjału danej gospodarki w tym wypadku oznacza, że mamy pełne wykorzystanie czynnika produkcji „praca”, czyli właśnie pełne zatrudnienie. Natomiast gdy gospodarka znajduje się poniżej poziomu pełnego zatrudnienia, czyli stopa bezrobocia jest wyższa od stopy naturalnej, to rzeczywisty PKB jest mniejszy od potencjalnego. (Bezrobocie, które nie wynika z czynników naturalnych, wskazuje, że część dostępnego zasobu czynnika produkcji „praca” nie jest wykorzystana w pełni). Wreszcie, gdy gospodarka działa powyżej pełnego zatrudnienia, wówczas stopa bezrobocia jest mniejsza od stopy naturalnej, a obserwowany PKB jest większy od potencjalnego. Funkcjonowanie gospodarek powyżej potencjału jest możliwe tylko przez krótki okres, ponieważ oznacza ponadstandardowe wykorzystanie pracowników (np. w taki sposób, że wszyscy pracują nie tylko w weekendy, ale też wyrabiają nadgodziny).</para>
+    </section>
+    <section id="fs-idm20378240">
+      <title id="UUID01ebbcfe-24ef-4f1a-75aa-44cb87a27171">Zmiany produktywności a naturalna stopa bezrobocia</title>
+      <para id="UUID682c48a6-90f3-4dd3-515d-d30726fa67d7">Nieoczekiwane zmiany produktywności mogą wywierać silny wpływ na poziom naturalnej stopy bezrobocia. W długim okresie to właśnie produktywność pracowników determinuje poziom płac w gospodarce. Gdyby przedsiębiorstwo płaciło pracownikom więcej, niż wynika to z ich produktywności (w pewnym uproszczeniu jest to wartość produktów wytworzonych przez konkretnego pracownika lub zespół w jednostce czasu), ponosiłoby straty, które wcześniej czy później doprowadziłyby je do bankructwa. I odwrotnie, jeśli przedsiębiorstwo próbuje płacić pracownikom mniej, niż wynika to z ich produktywności, wówczas na konkurencyjnym rynku pracy inne firmy uznają, że warto tych pracowników zatrudnić i zapłacić im wyższe wynagrodzenie, odpowiadające wartości wytwarzanych przez nich dóbr lub usług.</para>
+      <para id="UUIDdce8dd3f-ce9c-42c2-588d-f6fbeddb4647">Dostosowanie płac do poziomu wynikającego z produktywności pracowników nie następuje jednak ani szybko, ani bezproblemowo. Pracodawcy zmieniają wynagrodzenia swoich pracowników zazwyczaj tylko raz lub dwa razy w roku. Na wielu stanowiskach mierzenie indywidualnej produktywności jest zresztą bardzo trudne. Zastanówmy się przykładowo, w jaki sposób ustalić dokładną wielkość produkcji księgowego, który jest jedną z wielu osób pracujących w dziale podatkowym dużej korporacji. Ponieważ produktywność trudno jest zmierzyć, pracodawcy często kalkulują skalę podwyżek płac na podstawie dostępnych informacji o uśrednionych zmianach produktywności w tym konkretnym przedsiębiorstwie lub wręcz całej gospodarce. Jeśli zatem wydajność wzrasta, powiedzmy, o 2% rocznie, to płaca przykładowego księgowego również wzrośnie w tym samym tempie. Jeśli jednak produktywność zmieni się w nieoczekiwany sposób, to fakt ten będzie miał wpływ na naturalną stopę bezrobocia.</para>
+      <para id="fs-idm44086144">Doświadczenia gospodarki amerykańskiej w latach 70. i 90. XX w. dostarczają dwóch wyrazistych przykładów ilustrujących powyższą tezę. W drugiej połowie lat 70. wzrost produktywności nieoczekiwanie zwolnił (co omówiliśmy w <link document="m00007" cmlnle:case="locative" id="UUIDef4af8df-0092-40a2-526c-ba14230df26c" />). Wielkość produkcji na godzinę dla amerykańskich pracowników w sektorze przedsiębiorstw rosła w tempie 3,3% rocznie w latach 1960–1973, ale tylko o 0,8% w latach 1973–1982. Panel (a) <link target-id="CNX_Econ_C21_015" document="" cmlnle:case="genitive" id="UUID379b4c34-81d9-494c-67f7-d3b945205a4b" /> obrazuje sytuację, w której krzywa popytu na pracę – czyli ilość pracy, którą sektor przedsiębiorstw jest skłonny zakupić przy każdym poziomie wynagrodzenia – przesuwa się co roku w górę w związku z rosnącą wydajnością, z położenia D<sub>0</sub> do D<sub>1</sub> i następnie do D<sub>2</sub>. W rezultacie również płace rynkowe systematycznie rosną, począwszy od poziomu W<sub>0</sub> do W<sub>1</sub>, a następnie do W<sub>2</sub>. Jednak gdy tempo wzrostu wydajności nieoczekiwanie spada, dynamika wzrostu płac utrzymuje się na niezmienionym poziomie. Płace rosną co roku w tym samym tempie, z poziomu W<sub>2</sub> do W<sub>3</sub>, a potem do W<sub>4</sub>, ale krzywa popytu na pracę już się nie przesuwa. Powstaje różnica pomiędzy ilością pracy oferowanej na rynku przy płacy W<sub>4</sub> a zapotrzebowaniem na pracę przy tym samym poziomie wynagrodzenia. W konsekwencji stopa bezrobocia wzrasta. W następstwie niespodziewanie niskiej dynamiki wzrostu produktywności w USA w latach 70. XX wieku, w okresie od maja 1980 do końca 1986 r. stopa bezrobocia nie spadła poniżej 7%. Z czasem wzrost płac dostosuje się do wolniejszego tempa wzrostu produktywności i stopa bezrobocia z powrotem się obniży, ale proces ten może trwać całe lata.</para>
+      <figure id="CNX_Econ_C21_015">
+        <title id="UUIDe3844948-b118-42ce-46a3-2e899a9d4dfd">Nieoczekiwane zmiany produktywności a poziom bezrobocie</title>
+        <media alt="Dwa wykresy pokazują, w jaki sposób wzrost lub spadek dynamiki zmian produktywności wpływają na płace i bezrobocie. Jeśli płace rosną szybciej niż produktywność, wówczas poziom bezrobocia się zwiększy. Natomiast gdy produktywność rośnie szybciej niż płace, pojawi się nadwyżka zapotrzebowania na pracę w stosunku od ilości pracy oferowanej przez ludzi na rynku." id="fs-idm38683280">
+          <image src="../../media//CNX_Econ_C21_015.svg" mime-type="image/svg+xml" id="UUID0511ae33-2819-42e9-7f4b-1c3792c75be0" />
+        </media>
+        <caption id="UUIDe9bf8cdd-5bfe-4aed-6c6c-97e17459d44e">Panel (a) Wydajność rośnie, zwiększając popyt na pracę przy każdym poziomie wynagrodzeń. Pracodawcy i pracownicy przyzwyczajają się do tempa wzrostu płac zdeterminowanego historyczną dynamiką wzrostu produktywności. Kiedy wydajność pracy przestaje rosnąć, dynamika wzrostu wynagrodzeń nie zmienia się jednak od razu, co oznacza, że płace rosną w dotychczasowym tempie. Tymczasem popyt na pracę się nie zwiększa, więc przy zatrudnieniu W<sub>4</sub> pojawia się bezrobocie, gdyż ilość oferowanej pracy przekracza zapotrzebowanie. Panel (b) Stopa wzrostu wydajności przez pewien czas wynosiła zero, więc pracodawcy i pracownicy zaakceptowali poziom płac wynikający z równowagi rynkowej (W). Następnie wydajność niespodziewanie wzrasta, przesuwając linię popytu na pracę z D<sub>0</sub> do D<sub>1</sub>. Przy płacy (W) oznacza to, że zapotrzebowanie na pracę przewyższa ilość pracy oferowanej. Przy tak dużej liczbie ofert pracy stopa bezrobocia będzie niska.</caption>
+      </figure>
+      <para id="fs-idm48652544">Późne lata 90. XX w. dostarczają odwrotnego przykładu: zamiast zaskakującego spadku tempa zmian wydajności, który miał miejsce w latach 70., produktywność w amerykańskiej gospodarce nadspodziewanie szybko rosła w drugiej połowie ostatniej dekady XX w. Średnioroczna stopa wzrostu realnej wartości produkcji na godzinę pracy zwiększała się o 1,7% w latach 1980–1995 i aż o 2,6% w latach 1995–2001. Uprośćmy nieco tę sytuację, aby jej ilustracja graficzna była bardziej czytelna. Powiedzmy, że w latach 1980–1995 produktywność w USA pozostawała na stałym poziomie, więc punkt równowagi rynkowej znajdował się w E, gdzie podaż pracy przecina się z popytem, tak jak to przedstawiono na panelu (b) <link target-id="CNX_Econ_C21_015" document="" id="UUID3386a4ec-2a80-44ce-4477-f6885cd8652f" />. W rezultacie płace również się nie zmieniały. Po 1995 r. produktywność zaczyna szybko rosnąć, co powoduje przesunięcie krzywej popytu na pracę w prawo, z położenia D0 do D1. Jednak przynajmniej przez jakiś czas płace są nadal na tym samym poziomie, ponieważ zarówno pracodawcy, jak i pracownicy przyzwyczaili się do tego, że skoro produktywność się nie zmienia, to wynagrodzenia również nie rosną. W efekcie, przy ustalonym poziomie płac (W), zapotrzebowanie na pracę (Q1) przez pewien czas przekracza ilość pracy oferowanej (Q0), a bezrobocie jest bardzo niskie – okresowo może być wręcz poniżej naturalnej stopy bezrobocia. Wiedząc to, łatwiej zrozumieć, dlaczego odsetek bezrobotnych utrzymywał się w USA poniżej 4,5% – na poziomie dość niskim jak na standardy historyczne – od 1998 r. aż do początku recesji w 2001 r.</para>
+      <para id="UUID41962bc8-656b-4f8d-4d1b-0b5d6fe98385">Wielkość bezrobocia będzie ceteris paribus nieco wyższa, gdy dynamika wzrostu produktywności pracy niespodziewanie się zmniejszy. I odwrotnie – odsetek bezrobotnych będzie nieco niższy, gdy tempo wzrostu wydajności okaże się niespodziewanie wysokie. Jednak w długim okresie płace dostosują się do poziomu odzwierciedlającego wydajność.</para>
+    </section>
+    <section id="fs-idp35406592">
+      <title id="UUIDf48d05a5-dc4d-4512-544d-119b00a36d0c">Polityki publiczne a naturalna stopa bezrobocia</title>
+      <para id="UUID286d0716-e07d-4d02-777c-2ebf2db1fbee">Polityki publiczne również mogą mieć duży wpływ na poziom naturalnej stopy bezrobocia. Zasady określające wysokość i okres wypłat zasiłków dla bezrobotnych będą silnie determinować to, jak intensywnie ludzie poszukują pracy. Jeśli pracownik, który stracił pracę, ma zagwarantowany hojny pakiet transferów, obejmujący nie tylko kupony żywnościowe, lecz również ubezpieczenie zdrowotne, zasiłek pieniężny i bezpłatne mieszkanie, to koszt alternatywny pozostawania bez pracy jest stosunkowo niski i taka osoba będzie niezbyt chętnie poszukiwała nowego zatrudnienia.</para>
+      <para id="UUID11dd27e4-d9eb-4fec-6941-d9d117c7672c">Wydaje się, że najważniejsza jest nie tyle wysokość zasiłków, ile okres ich wypłacania. Szczodra pomoc dla bezrobotnych kończąca się po, powiedzmy, sześciu miesiącach generuje silniejsze zachęty do poszukiwania pracy, w porównaniu z relatywnie niewielkimi środkami wypłacanymi przez kilka lat. Podobnie pomoc państwa w poszukiwaniu pracy lub zdobywaniu nowych kwalifikacji może skutecznie zachęcić bezrobotnych do szybszego powrotu do pracy.</para>
+      <note type="note" id="fs-idm39765424" class="economics linkup">
+        <para id="fs-idp74314592">Przeczytaj ten <link url="http://openstax.org/l/NYT_Benefits" id="UUIDd4d5f735-4850-43e7-695b-ccaf0d9be81f">artykuł</link>, aby dowiedzieć się, kto dokładnie jest uprawniony do pobierania zasiłku dla bezrobotnych w USA.</para>
+      </note>
+      <para id="UUID0204bb8d-f783-49f9-73ea-09f667b9f8c9">Popyt na pracę, a więc sposób postępowania przedsiębiorstw i ich skłonność do tworzenia nowych miejsc pracy, w znacznym stopniu determinowany jest przez przepisy prawa, instytucje i sposób postępowania związków zawodowych. Jeśli rząd nakłada na nowo powstające firmy kolejne obowiązki biurokratyczne (polegające choćby na konieczności uzyskiwania koncesji, pozwoleń, uiszczania opłat, definiujące jakość produktów czy sposób świadczenia usług, ograniczając okres aktywności, np. poprzez zakaz handlu w niedzielę), to trudno oczekiwać, że będą one powstawać lub rozszerzać obszar swojej aktywności, a tym samym zwiększać zatrudnienie.</para>
+      <para id="UUIDa5781ed2-768f-44d1-63c4-372bb46cec18">Niezależnie od tego, jak ważkie argumenty odwołujące się do kwestii społecznych można przywołać na obronę tego typu regulacji, stanowią one barierę, np. między pewną grupą zainteresowanych pracą w niedzielę osób (studenci!) a pewną liczbą firm poszukujących pracowników. To nie oznacza automatycznie, że podobnych ograniczeń nie należy wprowadzać, uważnie porównując korzyści i koszty rzecz jasna. Nie zmienia to jednak faktu, że przekładają się one na wyższą naturalną stopę bezrobocia. Podobnie jeśli rząd utrudnia proces zwalniania pracowników nawet wtedy, gdy jest to uzasadnione kondycją przedsiębiorstw, mogą one reagować w ten sposób, że nie zatrudniają więcej pracowników, niż jest to absolutnie konieczne – ponieważ ich ewentualne zwolnienie byłoby nie tylko kosztowne, ale też trudne i czasochłonne. Alternatywą dla tworzenia nowych miejsc pracy jest w takiej sytuacji nakłanianie już zatrudnionych do wydłużania czasu pracy, brania nadgodzin i przychodzenia do biura lub fabryki w weekendy. Wysokie płace minimalne mogą zniechęcać przedsiębiorstwa do zatrudniania pracowników młodych i o niskich kwalifikacjach. Regulacje z kolei mogą wspierać siłę i znaczenie związków zawodowych, jednak im silniejsze organizacje związkowe, tym większe prawdopodobieństwo, że płace zrzeszonych w nich pracowników będą wyższe. Trudno się dziwić, że w tej sytuacji pracodawcy unikają zatrudniania związkowców i za wszelką cenę ograniczają możliwości powstania związków zawodowych na terenie ich przedsiębiorstw.</para>
+    </section>
+    <section id="fs-idm33483552">
+      <title id="UUID80526007-49b2-414b-61d7-754f06def108">Kształtowanie się naturalnej stopy bezrobocia w ostatnich latach</title>
+      <para id="fs-idm21562224">Podstawowe czynniki ekonomiczne, społeczne i polityczne, które determinują poziom naturalnej stopy bezrobocia, mogą zmieniać się w czasie, co oznacza, że również wysokość naturalnej stopy bezrobocia podlega wahaniom.</para>
+      <para id="UUID3d698fd3-da8e-44b4-56ce-926a32f9b3d6">Szacowana przez ekonomistów naturalna stopa bezrobocia w gospodarce amerykańskiej na początku XXI w. oscylowała wokół 5%, co oznacza spadek w stosunku do poprzednich dekad. Wśród najczęściej wymienianych determinantów takiej zmiany wskazywane są następujące elementy.</para>
+      <list list-type="enumerated" id="fs-idp30474432">
+        <item id="UUID4d1ec05a-0942-4bc1-41b3-43e7f2822550">
+          <para id="UUID2bd9f992-1a55-4ee7-5137-7f94ddda0b9e">Internet stał się narzędziem, które obniżyło koszty transakcyjne (przede wszystkim wyrażone w kategoriach czasu) zatrudnienia nowego pracownika. Znalezienie tak pracownika, jak i pracodawcy jest szybsze i łatwiejsze, pracownicy mogą na wyspecjalizowanych portalach (LinkedIn!) stosunkowo łatwo znaleźć setki ofert zatrudnienia na terenie całego kraju, a pracodawcy wręcz tysiące potencjalnych kandydatów. Obecna sytuacja nie ma żadnego porównania w stosunku do prób odszukania informacji o lokalnych pracodawcach, a następnie polowania na numery telefonów do ich działów kadr oraz żądania listy wakatów i formularzy zgłoszeniowych. Internet umożliwia również efektywną pracę zdalną, która ogranicza konieczność przeprowadzki. To dzięki globalnej sieci tysiące polskich informatyków może świadczyć swoje usługi na rzecz firm ulokowanych w Wielkiej Brytanii i Stanach Zjednoczonych.</para>
+        </item>
+        <item id="UUIDe4575d52-40de-42b5-6e68-7bf9c57bf20e">
+          <para id="UUIDff721511-f2e4-4a27-53a4-a80c39c510c0">Rozwój wyspecjalizowanych przedsiębiorstw zajmujących się wynajmem pracowników tymczasowych również przyczynił się do zmniejszenia naturalnej stopy bezrobocia. Na początku lat 80. ubiegłego stulecia tylko ok. 0,5% wszystkich pracowników w USA znajdowało pracę za pośrednictwem agencji pracy tymczasowej. Na początku XXI w. liczba ta wzrosła do ponad 2%. Agencje pracy tymczasowej mogą zaproponować pracownikom zajęcie w okresie poszukiwania stałego zatrudnienia. Mogą również służyć jako punkty informacyjne, pomagając pracownikom w pozyskaniu informacji o ofertach pracy u określonych pracodawców oraz o możliwości zatrudnienia na okres próbny. Dla wielu pracowników praca tymczasowa jest krokiem w stronę stałej posady, o której mogliby się nie dowiedzieć lub której nie mogliby zdobyć w inny sposób. Szczególnie dla pracowników, którzy zmieniają nie tylko miejsce zamieszkania na terenie jakiegoś kraju, ale wręcz kraj, w którym żyją i pracują. Dlatego wzrost liczby miejsc pracy tymczasowej przekładał się i zapewne w dalszym ciągu będzie miał wpływ na zmniejszenie bezrobocia frykcyjnego.</para>
+        </item>
+        <item id="UUIDe516c548-34bc-43ea-479a-fca3f5ce9749">
+          <para id="UUID876f4855-215a-4b0c-7301-1045cd88c4aa">Starzenie się pokolenia powojennego wyżu demograficznego, generacji urodzonej pomiędzy latami 1946 i 1964. Kiedy roczniki baby boomers wchodziły na rynek pracy, czyli mniej więcej w połowie lat 70., odsetek młodych pracowników w gospodarce był stosunkowo wysoki, ale obecnie, wraz z przechodzeniem tych ludzi na emeryturę, maleje. Wcześniej zauważyliśmy, że wraz z wiekiem odsetek osób pozostających bez pracy spada, co jest czynnikiem zmniejszającym naturalną stopę bezrobocia w miarę starzenia się pokolenia wyżu demograficznego.</para>
+        </item>
+      </list>
+      <para id="fs-idp55520736">Połączone działanie wszystkich trzech przywołanych wyżej elementów zmniejszyło naturalną stopę bezrobocia w latach 90. i na początku XXI w. w stosunku do poziomu z lat 80. Recesja z lat 2008–2009 sprawiła, że stopa bezrobocia w amerykańskiej gospodarce wzrosła pod koniec 2009 r. do 10%. Jednak nawet w tym czasie Congressional Budget Office prognozowało, że do 2015 r. stopa bezrobocia ponownie spadnie do ok. 5%, i prognozy te okazały się słuszne. W pierwszym kwartale 2020 r., czyli tuż przed wybuchem pandemii, bezrobocie w USA osiągnęło poziom zaledwie 3,5%. Po jej zakończeniu, tj. w pierwszym kwartale 2022 r. Congressional Budget Office szacowało naturalną stopę bezrobocia na ok. 4,6%.</para>
+    </section>
+    <section id="fs-idm103651488">
+      <title id="UUID17778642-a9e0-4020-7428-3aad6a87c302">Naturalna stopa bezrobocia w Europie</title>
+      <para id="UUID95b97627-aaf5-4e8a-59e0-f3f6750023ec">W porównaniu z innymi krajami uprzemysłowionymi naturalna stopa bezrobocia w gospodarce amerykańskiej wydaje się stosunkowo niska. Niezależnie od tego, jaka była kondycja gospodarek tak państw europejskich, jak i USA, od początku lat 70. XX w. bezrobocie w krajach Europy Zachodniej kształtowało się na poziomie ok. 10%. Bezrobocie w Europie było wyższe nie dlatego, że recesje okazywały się tu głębsze, ale raczej z uwagi na odmienne od amerykańskich uwarunkowania kształtujące popyt na pracę i podaż tejże. To przyczyniło się do ustalenia znacznie wyższej naturalnej stopy bezrobocia.</para>
+      <para id="UUID4b927557-085d-4756-50bf-fc20f3fd5bae">W wielu krajach europejskich polityka socjalna wciąż opiera się na kombinacji hojnych świadczeń socjalnych i zasiłków dla bezrobotnych, jak również silnie zbiurokratyzowanego procesu nakładającego na przedsiębiorstwa dodatkowe obowiązki (i koszty) przy zatrudnianiu i zwalnianiu pracowników. Ponadto w wielu państwach obowiązują przepisy, które wymagają od firm, by oferowały pracownikom wielomiesięczne okresy wypowiedzenia w przypadku zwolnienia oraz zapewniały im znaczne odprawy lub finansowały pakiety szkoleń umożliwiające przekwalifikowanie. Okres wypowiedzenia w przypadku zwolnienia pracownika może wynosić ponad trzy miesiące w Hiszpanii, Niemczech, Danii i Belgii, a odprawa może sięgać nawet wartości rocznej pensji (lub więcej) w Austrii, Hiszpanii, Portugalii, Włoszech i Grecji. Takie przepisy z pewnością zniechęcają do zwalniania pracowników. Jednak jeśli firmy wiedzą, że trudno będzie im zwolnić pracowników, wstrzymują się również z ich zatrudnianiem. Dopiero w XXI w. w krajach europejskich doszło do zmiany tego podejścia, co skutkowało reformą systemu zabezpieczeń społecznych ograniczającą kwotę i okres pobierania zasiłków (reforma Hartz IV) w Niemczech czy strategią flexicurity na rynku pracy w krajach takich jak Dania (połączenie wysokich świadczeń socjalnych i wydatków na szkolenia finansowanych jednak przez państwo i elastycznego rynku pracy, ułatwiającego proces zwolnień).</para>
+      <para id="UUIDd8e71fc8-9b5d-4397-6377-e3a94f7edce1">Wyższy w ostatnich latach poziom bezrobocia w wielu krajach europejskich, szczególnie tych położonych w basenie Morza Śródziemnego, utrzymujący się nawet w przypadku relatywnie silnego wzrostu gospodarczego, można przypisać temu, że prawa i regulacje sprzyjające wysokiej naturalnej stopie bezrobocia są w Europie wciąż powszechne.</para>
+    </section>
+    <section id="fs-idm6693376">
+      <title id="UUIDb33943a0-27d9-4bff-7315-f3ded6a0ae2b">Przegląd możliwych sposobów ograniczania bezrobocia przez państwo</title>
+      <para id="fs-idm6923168">Dokładny przegląd sposobów ograniczania przez państwo wysokiego bezrobocia będzie przedmiotem rozważań w kolejnych rozdziałach. Jednak już teraz warto przedstawić główne uwarunkowania wpływające na strategie walki z tym problemem.</para>
+      <para id="UUID0e83a55f-0cbb-4281-6ecf-db55bfffb6c2">Tak jak to ma miejsce w przypadku każdej choroby, sposób leczenia zależy od postawienia właściwej diagnozy. W zależności od rodzaju bezrobocia państwo powinno zastosować odmienny zestaw narzędzi. Bezrobocie cykliczne jest problemem krótkotrwałym, spowodowanym tym, że gospodarka znajduje się w recesji. Preferowanym rozwiązaniem będzie więc unikanie lub minimalizowanie skali spadku poziomu PKB. W podrozdziale <link document="m00061" id="UUID48e84478-dda1-4fab-440b-2c6d5141e060" /> omówione zostaną sposoby pozwalające do pewnego stopnia zapobiec recesji lub przynajmniej skrócić jej okres i zmniejszyć skalę spadku produktu krajowego. Należy do nich np. stymulowanie siły nabywczej pozwalające stabilizować popyt na dobra i usługi wytwarzane przez przedsiębiorstwa, a tym samym również na siłę roboczą.</para>
+      <para id="UUIDd042e421-3202-42a1-7e1f-8edf2c54430a">Trudniej poradzić sobie z wysoką naturalną stopą bezrobocia. W gospodarce rynkowej firmy zatrudniają i zwalniają pracowników w sposób swobodny, a rządy nie mogą w zasadzie kontrolować tego procesu. Ponadto zmieniająca się struktura wiekowa populacji lub nieoczekiwane zmiany produktywności są także poza kontrolą rządu i przez pewien czas wpływają na wysokość naturalnej stopy bezrobocia. Jednak jak pokazuje przykład relatywnie wysokiej stopy bezrobocia w wielu krajach europejskich, polityka państwa może wpływać na wysokość naturalnej stopy bezrobocia, która będzie utrzymywać się nawet w okresie szybkiego wzrostu PKB.</para>
+      <para id="UUIDf117b82c-b0cb-44f4-459d-620258d0b384">Gdy państwo chce wprowadzić narzędzia oddziałujące na zachowania pracowników lub pracodawców, powinno wpierw zbadać, jak wpłyną one na bodźce zachęcające do poszukiwania wolnych miejsc pracy i pracowników, a także na obieg informacji na rynku pracy. Czy wysokość wsparcia finansowego osób bezrobotnych nie demotywuje poszukujących nowego zatrudnienia? Czy wprowadzanie przepisów chroniących osoby pracujące przed zwolnieniem (np. w drodze wydłużania okresów wypowiedzenia) nie zniechęca pracodawców do tworzenia nowych miejsc pracy? W jaki sposób ochrona kobiet w ciąży i matek przekłada się na skłonność przedsiębiorstw do zatrudniania młodych kobiet? Podobnie władze różnego szczebla (krajowe lub lokalne) mogą być zmuszone do ponownej oceny przepisów utrudniających rozpoczynanie lub rozszerzanie działalności gospodarczej (zakaz handlu w niedzielę, zakaz sprzedaży alkoholu w nocy itd.), tak aby nie zniechęcały one do zatrudniania nowych pracowników lub nie zachęcały do zwolnień tych, którzy mają już pracę. Nie chodzi o to, żeby pozostawić rynek pracy lub wręcz gospodarkę jako taką poza jakąkolwiek regulacją. Rzecz w tym, żeby uchwalając nowe przepisy, decydenci wnikliwie rozważyli związane z nimi skutki.</para>
+      <note type="note" id="fs-idm24297072" class="bringhome economics">
+        <title id="UUID678b3c2b-2c5c-4303-4204-650e803f9c45">Bezrobocie i pandemia Covid-19 – skomplikowana historia</title>
+        <para id="UUIDd67ca1d3-fd04-4f29-770f-a6e2e94b953a">Po dwóch latach od rozpoczęcia pandemii, czyli na przełomie pierwszego i drugiego kwartału 2022 r., stopa bezrobocia w USA znalazła się na dobrej drodze, aby ponownie spaść poniżej poziomu 4%. Była to świetna wiadomość dla pracowników, niemniej po lekturze niniejszego rozdziału wiemy już, że ocena kondycji rynku pracy na podstawie jednego tylko parametru jest bardzo ryzykowna. W tym samym czasie miliony osób pozostawały bowiem poza amerykańskim rynkiem pracy ze względu na sytuację zdrowotną społeczeństwa, a odsetek pracowników pozostających bez pracy przez okres dłuższy niż 26 tygodni był nadal dość wysoki.</para>
+        <para id="UUID567b2c76-d4eb-4a0b-4242-2a02e1143437">Przejście na pracę zdalną umożliwiło obniżenie stopy bezrobocia, zapewniając większą elastyczność pracownikom dbającym o swoje zdrowie i bezpieczeństwo. Nie pomogło to jednak kobietom, które nadal były obciążone nadmiernymi obowiązkami związanymi z prowadzeniem domu i w mniejszym stopniu skorzystały z uelastycznienia sposobów świadczenia pracy. W 2020 r. stopa bezrobocia wśród kobiet przekroczyła stopę bezrobocia wśród mężczyzn o ponad 1 punkt procentowy.</para>
+        <para id="UUIDaca07e8d-60a2-48ab-64da-9c2c84cddd14">Jednocześnie pandemia stałą się impulsem do lepszego zrozumienia tego, jak możemy wykorzystać informacje ze wszystkich obszarów rynku pracy do oceny kondycji gospodarki. Kluczowe zjawisko w tym kontekście to tzw. polaryzacja zatrudnienia. Określa się w ten sposób sytuację, w której rośnie ono przede wszystkim na stanowiskach opłacanych najwyżej i najniżej, a maleje tam, gdzie wymagane są średnie kwalifikacje. Polaryzacja zatrudnienia jest wynikiem postępu technologicznego w dziedzinie robotyki, informatyki oraz technologii informacyjnych i komunikacyjnych. Wynikiem tego postępu jest spadek popytu na pracę w zawodach, które opierają się na wykonywaniu zadań „rutynowych”, czyli opisanych procedurami. Jaimovich i Siu wykazali, że polaryzacja zatrudnienia była charakterystyczna dla okresów następujących w Stanach Zjednoczonych po ostatnich trzech recesjach, co wydaje się przyczyną obserwowanego obecnie bezzatrudnieniowego ożywienia gospodarczego.</para>
+      </note>
+    </section>
+    <section id="fs-idp12698960" class="summary">
+      <title id="UUIDccf3d3dd-84df-4449-6dff-d5a3ba3901e4">Key Concepts and Summary</title>
+      <para id="UUID1a78cbe5-fe73-4fc3-79b7-1e37de209afc">Naturalna stopa bezrobocia to odsetek bezrobotnych, który występuje nawet wtedy, gdy gospodarka jest w świetnej kondycji. Na naturalne bezrobocie składają się bezrobocie frykcyjne związane z naturalnymi dla każdej gospodarki decyzjami pracowników o zmianie miejsca pracy, jak również bezrobocie strukturalne, występujące wtedy, gdy popyt na określone umiejętności zawodowe w sposób trwały się zmniejsza. Wysokość naturalnej stopy bezrobocia znajduje się pod wpływem przepisów prawa określających warunki zatrudniania i zwalniania pracowników, których niepożądanym skutkiem ubocznym może być zniechęcanie przedsiębiorstw do tworzenia nowych miejsc pracy.</para>
+    </section>
+    <section id="fs-idp26588160" class="self-check-questions">
+      <title id="UUID1817f07e-ccba-43c5-4558-e946ca8bd084">Self-Check Questions</title>
+      <exercise id="fs-idp26589040">
+        <problem id="fs-idp26589296">
+          <para id="fs-idp26589552">Czy wzrost współczynnika aktywności zawodowej kobiet może być traktowany jako przyczyna wzrostu bezrobocia cyklicznego, czy raczej naturalnego? Odpowiedź uzasadnij.</para>
+        </problem>
+        <solution id="fs-idp26590064">
+          <para id="fs-idp26590192">Wzrost podaży pracy był społecznym trendem demograficznym, a nie wynikiem recesji w gospodarce. Dlatego też aktywizacja zawodowa kobiet przekładała się na poziom naturalnej stopy bezrobocia.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp26591152">
+        <problem id="fs-idp26591408">
+          <para id="fs-idp26591664">Wielu studentów kończy studia, zanim znajdzie pracę. Do jakiej kategorii bezrobotnych zaliczani są absolwenci, którzy zaczynają poszukiwać pracy?</para>
+        </problem>
+        <solution id="fs-idm14170720">
+          <para id="fs-idp616064">Nowe osoby wchodzące na rynek pracy (czy to po studiach, czy też nie) zaliczane są do kategorii bezrobotnych frykcyjnych, dopóki nie znajdą pracy.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm26444352" class="review-questions">
+      <title id="UUID2d5e3c96-f84e-4e9e-6fe4-fc10a97bc59c">Review Questions</title>
+      <exercise id="fs-idp46461280">
+        <problem id="fs-idm58286432">
+          <para id="fs-idm29069328">Jaki termin opisuje poziom bezrobocia występującego nawet wtedy, gdy gospodarka znajduje się w świetnej kondycji?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm57841328">
+        <problem id="fs-idm22430192">
+          <para id="fs-idm33102592">Jakie czynniki determinują poziom naturalnej stopy bezrobocia w danej gospodarce?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm14656016">
+        <problem id="fs-idm36305040">
+          <para id="fs-idm765808">Jak myślisz, czy naturalna stopa bezrobocia w różnych krajach jest mniej więcej taka sama?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm56566128">
+        <problem id="fs-idp5078384">
+          <para id="fs-idm38643680">Czy twoim zdaniem naturalna stopa bezrobocia w konkretnym kraju pozostanie taka sama w długim okresie, powiedzmy, kilkudziesięciu lat?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm9204960">
+        <problem id="fs-idp26680448">
+          <para id="fs-idm34750608">Co to jest bezrobocie frykcyjne? Podaj jego przykłady.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp6569056">
+        <problem id="fs-idm23726256">
+          <para id="fs-idm1579104">Co to jest bezrobocie strukturalne? Podaj jego przykłady.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm29300400">
+        <problem id="fs-idp2304528">
+          <para id="fs-idp30019504">Czy po kilku latach wzrostu gospodarczego oczekujesz, że bezrobocie w gospodarce będzie miało głównie charakter cykliczny, czy też będzie raczej wynikało z czynników związanych z bezrobociem naturalnym? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp31799776">
+        <problem id="fs-idp27085664">
+          <para id="fs-idp9043456">Jaki typ bezrobocia (cykliczne, frykcyjne czy strukturalne) dotyczy każdego z poniższych przypadków:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="eip-id1170413091233">
+            <item id="UUID1ce96999-5418-4c8e-601e-189a8b0251f1">
+              <para id="UUID9a1fa46f-aeae-4403-7cee-8def0104f2e1">Architekci krajobrazu zwalniani w czasie recesji w odpowiedzi na spadek liczby budowanych mieszkań.</para>
+            </item>
+            <item id="UUIDf14e1a4e-fe2f-4185-727d-3c44f931064e">
+              <para id="UUID7c32e065-8961-4f37-61e0-cdf27d774b70">Górnicy zwolnieni z pracy z powodu regulacji ograniczających wykorzystanie energetyki węglowej.</para>
+            </item>
+            <item id="UUIDba4c88c6-6c4b-40de-6500-6126e72910a0">
+              <para id="UUIDd5b37b04-85f9-4dad-4d14-25af10888058">Analityk finansowy, który rzuca pracę w Łodzi i szuka podobnej w Poznaniu.</para>
+            </item>
+            <item id="UUIDe8549551-fcb4-4596-7aaa-c3afebf6bb7a">
+              <para id="UUID4616e4e1-6a6a-49be-6b9f-588d7747a56f">Drukarze zwolnieni z pracy z powodu spadku popytu na katalogi i ulotki.</para>
+            </item>
+            <item id="UUID373dc5d8-c3c9-4d82-7e31-63010256891d">
+              <para id="UUID41259a21-befa-4fb6-491c-d7fc0d56b3f4">Pracownicy fabryk w Stanach Zjednoczonych tracący pracę, bo ich zakłady są zamykane z powodu przenoszenia produkcji do Meksyku i Chin.</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm63243760" class="critical-thinking">
+      <title id="UUID272ff14d-cc99-4f30-5f9f-824cdb3083de">Critical Thinking Questions</title>
+      <exercise id="fs-idm36842080">
+        <problem id="fs-idm38170400">
+          <para id="fs-idm50438304">W jakiej sytuacji spadek bezrobocia byłby zjawiskiem niekorzystnym dla gospodarki?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm33939264">
+        <problem id="fs-idm63366784">
+          <para id="fs-idm44852208">W jakiej sytuacji wzrost stopy bezrobocia byłby dla gospodarki korzystny?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm46368608">
+        <problem id="fs-idm60101072">
+          <para id="fs-idp39012368">Gdy pokolenie wyżu demograficznego przejdzie na emeryturę, stosunek liczby emerytów do liczby pracowników wyraźnie wzrośnie. Jak wpłynie to na wydatki ZUS? A jak na poziom życia przeciętnego Polaka?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm7516528">
+        <problem id="fs-idm72633040">
+          <para id="fs-idm34438416">W ciągu ostatnich kilku dekad w wielu krajach stopa bezrobocia była wyższa niż w Stanach Zjednoczonych. Czy główną przyczyną tej długoterminowej różnicy jest raczej bezrobocie cykliczne, czy naturalne? Przedstaw krótko swój sposób rozumowania.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm31059216">
+        <problem id="fs-idm44841120">
+          <para id="fs-idm55923072">Czy dążenie do zerowego bezrobocia jest pożądane? Przedstaw argumenty za i przeciw takiemu działaniu.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm45048352">
+        <problem id="fs-idp47264576">
+          <para id="fs-idm5224016">Czy wyeliminowanie naturalnego bezrobocia byłoby korzystne? Przedstaw swój sposób rozumowania. <emphasis effect="italics">Wskazówka</emphasis>: Zastanów się, jak wyglądałaby gospodarka i jakie należałoby w niej wprowadzić rozwiązania, aby uzyskać zerową stopę bezrobocia naturalnego.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm64344592">
+        <problem id="fs-idp29293088">
+          <para id="fs-idm91079840">Stopa bezrobocia w USA wzrosła z 4,6% w lipcu roku 2001 do 5,9% w czerwcu 2002 r. Czy uważasz, że powodem tego skoku było raczej bezrobocie cykliczne, czy też zmiana naturalnej stopy bezrobocia? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm100878048" class="problems">
+      <title id="UUIDd32bbb0c-e51f-41e5-5dc9-fd66b2a95fe6">Problems</title>
+      <exercise id="fs-idm82609744">
+        <problem id="fs-idm86643248">
+          <para id="fs-idm123935856">Jak twoim zdaniem powinny się zmieniać płace i wielkość zatrudnienia w miarę przechodzenia na emeryturę pokolenia wyżu demograficznego? Czy możesz swoją odpowiedź zilustrować na wykresie?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm73332832" class="references">
+      <title id="UUID27ba0b76-6b39-4a52-450d-bbbe67c3aa2d">References</title>
+      <para id="fs-idp23652672">Bureau of Labor Statistics. Labor Force Statistics from the Current Population Survey. <emphasis effect="italics">Accessed March 6, 2015</emphasis> http://data.bls.gov/timeseries/LNS14000000.</para>
+      <para id="fs-idm22652832">Cappelli, P. (20 June 2012). “Why Good People Can’t Get Jobs: Chasing After the Purple Squirrel.” http://knowledge.wharton.upenn.edu/article.cfm?articleid=3027.</para>
+    </section>
+  </content>
+  <glossary id="UUIDb7fbd1d2-104a-45ff-6291-93e788922959">
+    <definition id="fs-idm72245360">
+      <term id="UUID1024fb3e-ad9f-4329-6661-41f6a8d19ff6">bezrobocie frykcyjne, (ang. <foreign xml:lang="en" id="UUIDb77fbdc1-c7d5-4929-5389-bae16273ea2b"><emphasis effect="italics">frictional unemployment</emphasis></foreign>)</term>
+      <meaning id="fs-idm37846992">
+        <para id="UUID9c557537-9928-48df-6d3f-7f04d1b9d5c0">bezrobocie związane z naturalnym procesem zmiany pracy przez pracowników</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm69316544">
+      <term id="UUID9a39b467-55ec-4e8c-56a5-0245afcabf13">naturalna stopa bezrobocia, (ang. <foreign xml:lang="en" id="UUID520e8611-059f-4beb-5301-e4ed11e6093c"><emphasis effect="italics">natural rate of unemployment</emphasis></foreign>)</term>
+      <meaning id="fs-idp17888608">
+        <para id="UUIDee04a919-650b-43b6-6253-6450da0a2c15">bezrobocie, które występuje nawet w gospodarce pozostającej w doskonałej kondycji, jego istnienie jest uwarunkowane kombinacją czynników ekonomicznych, społecznych i politycznych</para>
+      </meaning>
+    </definition>
+    <definition id="UUID718bf505-098b-4e1c-5ac8-d69f1fce3da9">
+      <term id="UUIDfafc6a1f-cf85-42f5-77c6-74e33ad67723">bezrobocie strukturalne, (ang. <foreign xml:lang="en" id="UUIDc5cdf75b-24e2-4f49-4876-914657843502"><emphasis effect="italics">structural unemployment</emphasis></foreign>)</term>
+      <meaning id="fs-idm7925072">
+        <para id="UUIDd0b1683c-1a7d-493c-506e-bd81ef7b73ce">bezrobocie, które jest konsekwencją niedopasowania kwalifikacji pracowników i potrzeb pracodawców lub miejsc zgłaszania popytu na pracę i występowania jej podaży</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

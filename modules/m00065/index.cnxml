@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U7cc03cb3-2105-4ad6-ba38-3300763d7ac8" id="U7cc03cb3-2105-4ad6-ba38-3300763d7ac8" xml:lang="en" cnxml-version="0.7">
+  <title>12.4 Automatic Stabilizers</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00065</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/7cc03cb3-2105-4ad6-ba38-3300763d7ac8</md:content-url>
+    <md:title>12.4 Automatic Stabilizers</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:05.248131590+00:00</md:version>
+    <md:created>2023-08-30T08:02:05.248131590+00:00</md:created>
+    <md:revised>2023-08-30T08:02:05.248131590+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>7cc03cb3-2105-4ad6-ba38-3300763d7ac8</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <list id="list-00001">
+      <item id="UUIDca4d730c-8cb6-448f-4c7e-1e7107c46ce9">
+        <para id="UUID02ad1897-8a76-4666-6a15-5ac0b7540890">Opisać, w jaki sposób rząd może wykorzystać dyskrecjonalną (uznaniową) politykę fiskalną do stabilizowania gospodarki</para>
+      </item>
+      <item id="UUID119929ca-55f9-416a-6da9-9ff3e4b790e0">
+        <para id="UUID243a1b3e-8250-4088-6315-76562c316955">Objaśnić, czym są automatyczne stabilizatory koniunktury</para>
+      </item>
+      <item id="UUID1e2db7fa-156c-41c3-5ed8-a288162b285b">
+        <para id="UUID86c49962-5991-498f-4b7c-39b50af77930">Zrozumieć, w jaki sposób rząd może wykorzystać koncepcję budżetu strukturalnego (budżetu pełnego zatrudnienia) do identyfikowania automatycznych stabilizatorów koniunktury</para>
+      </item>
+    </list>
+    <para id="fs-idm81313344">Miliony amerykańskich bezrobotnych, którzy stracili posady w latach 2008–2009, pobierało zasiłki, w mniejszej lub większej części zastępujące ich uzyskiwane wcześniej dochody z pracy. O <term cmlnle:reference="dyskrecjonalna (uznaniowa) polityka fiskalna" id="UUID3084d5be-371e-4ee7-5806-4f5e9596ae01">dyskrecjonalnej (uznaniowej) polityce fiskalnej</term> (<foreign xml:lang="en" id="UUID26d72436-ddec-4c7a-4e4f-87b66a0536d0"><term id="UUID12ca4eaf-3a28-45e8-5922-468967deb4f2">discretionary fiscal policy</term></foreign>) mówimy wtedy, gdy rząd uchwala nowe prawo wyraźnie zmieniające wysokość podatków lub wydatków państwa. Przykładem jest pakiet stymulacyjny z 2009 r. w USA, podatkowy program Polski Ład przygotowany przez rząd PiS w 2022 r., wprowadzenie do polskiego prawa programu Rodzina 500 Plus czy też trzynastej i czternastej emerytury. Zmiany wielkości podatków i wydatków państwa mogą również zachodzić automatycznie, dzięki <term cmlnle:reference="automatyczne stabilizatory" id="UUIDa7b852d3-e1e2-45fc-5108-82b732b1fe1d">automatycznym stabilizatorom koniunktury</term> (<foreign xml:lang="en" id="UUIDe741187f-df58-4fd8-6e05-1c5a451b2e0f"><term id="UUID4a213b51-416b-4ee3-5d6d-cea3d59efe0a">automatic stabilizers</term></foreign>), takim jak zasiłki dla bezrobotnych, które stymulują wzrost popytu globalnego w czasie recesji i ograniczają jego rozmiary w okresie silnego ożywienia.</para>
+    <section id="fs-idp80084160">
+      <title id="UUID5805e28c-a482-45c3-612f-3d6df27fd01b">Łagodzenie recesji i ożywienia</title>
+      <para id="UUIDa4285a2f-1db6-41bc-792c-a1b61f2728b8">Rozważmy najpierw sytuację, gdy popyt globalny gwałtownie rośnie, powodując przesunięcie się punktu równowagi do poziomu produkcji powyżej potencjalnego PKB. Sytuacja ta zwiększa presję inflacyjną w gospodarce. Receptą w takim przypadku jest restrykcyjna polityka fiskalna, realizowana najczęściej poprzez kombinację wyższych podatków i niższych wydatków państwa. Do pewnego stopnia <emphasis effect="italics">obie</emphasis> zmiany następują automatycznie. Jeśli chodzi o podatki, wzrost popytu globalnego oznacza, że pracownicy i przedsiębiorstwa w całej gospodarce zarabiają więcej. Ponieważ podatki zależą m.in. od wysokości dochodów osobistych i zysków przedsiębiorstw, wzrost popytu globalnego automatycznie zwiększa wpływy podatkowe. Dodatkowo, rosnąca inflacja, która zazwyczaj jest konsekwencją gwałtownego wzrostu popytu globalnego, również zwiększa dochody budżetu, tak jak to miało miejsce w Polsce w 2022 r. Jeśli chodzi o wydatki, większy popyt globalny oznacza zazwyczaj niższe bezrobocie i mniej zwolnień pracowników, a więc istnieje mniejsze zapotrzebowanie na wydatki państwa przeznaczane na zasiłki dla bezrobotnych, opiekę społeczną i inne programy zabezpieczenia społecznego.</para>
+      <para id="UUIDeead5649-11f9-404c-4969-7f3c8af5634b">Ten sam mechanizm działa również w drugą stronę. Gdy popyt globalny gwałtownie spada i pojawia się recesja, receptą jest ekspansywna polityka fiskalna – mieszanka obniżek podatków i wzrostu wydatków państwa. Niższy popyt globalny i wyższe bezrobocie powodują spadek dochodów osobistych i zysków przedsiębiorstw, co powoduje automatyczne zmniejszenie kwoty należnych podatków. Wyższe bezrobocie i pogorszenie kondycji gospodarki prowadzą do zwiększenia wydatków państwa na zasiłki dla bezrobotnych, opiekę społeczną i inne tego typu programy. Na przykład w roku 2009 w USA pakiet stymulacyjny obejmował wydłużenie okresu pobierania zasiłku dla bezrobotnych. Jak sugeruje analiza modelu AD-AS, automatyczne stabilizatory osłabiają tempo wzrostu popytu globalnego w sytuacji, w której rząd wdraża ekspansywny wariant polityki fiskalnej, i zwiększają dynamikę wzrostu wydatków globalnych wtedy, gdy rząd decyduje się na restrykcyjny wariant polityki fiskalnej.</para>
+      <para id="fs-idm14499984">Połączenie automatycznych stabilizatorów koniunktury i dyskrecjonalnej polityki fiskalnej spowodowało bardzo duży deficyt budżetowy w USA w 2009 r. Globalny kryzys finansowy, który rozpoczął się pod koniec 2007 r., oznaczał zmniejszenie aktywności podmiotów ekonomicznych generujących podatki. Większość ekonomistów, nawet tych, którzy są zaniepokojeni utrzymującymi się dużymi deficytami budżetowymi, jest znacznie mniej niechętnych lub wręcz popiera krótkookresowe (obejmujące kilka lat) wzrosty deficytów budżetowych podczas poważnych recesji i bezpośrednio po nich.</para>
+      <para id="fs-idp8129408">Spojrzenie wstecz na historię gospodarczą pozwala znaleźć inne przykłady kluczowej roli automatycznych stabilizatorów koniunktury. Przypomnijmy, że w drugiej dekadzie XXI w. w Stanach Zjednoczonych okresy wzrostu gospodarczego między recesjami wydłużyły się (jak omówiliśmy w <link document="m00012" id="UUID04857ac1-a60e-4302-7ac9-35d4c5d2f5d1" />). Trzy najdłuższe fazy wzrostu gospodarczego w ciągu XX w. w Stanach Zjednoczonych miały miejsce w latach 60. i 80. oraz w okresie 1991–2001. Jednym z powodów, dla których w ostatnich dekadach gospodarka rzadziej wpadała w recesję, jest wzrost wydatków państwa i podatków w drugiej połowie XX w. Zatem zakres i skala automatycznego stabilizowania gospodarki ze strony wydatków państwa i podatków są obecnie większe niż w pierwszej połowie XX w. Na przykład ok. 1900 r. wydatki federalne w USA stanowiły mniej więcej 2% PKB. W 1929 r., tuż przed wybuchem wielkiego kryzysu, wydatki rządowe nadal wynosiły tylko 4% PKB. Mniejsze rozmiary państwa przed wybuchem II wojny światowej sprawiały, że automatyczne stabilizatory były znacznie słabsze niż w ostatnich kilku dekadach, kiedy wydatki rządowe w USA osiągały często poziom 20% PKB lub nawet wyższy.</para>
+    </section>
+    <section id="fs-idp48879968">
+      <title id="UUID4b54e076-e0a8-4da2-5460-85b39d438974">Budżet strukturalny</title>
+      <para id="fs-idp63192880">W Stanach Zjednoczonych Biuro Budżetowe Kongresu (Congressional Budget Office – CBO) oblicza każdego roku saldo <term cmlnle:reference="budżet strukturalny" id="UUIDe7d0160b-a03d-456b-4df4-c80509566a7e">budżetu strukturalnego</term> (<foreign xml:lang="en" id="UUIDa7bff05c-4aaa-45fc-78ce-f55fb91bc063"><term id="UUID6b9c68bf-dee4-4f22-461d-1056d664eed3">standardized employment budget</term></foreign>). Pokazuje ono, jaki byłby wynik budżetu (deficyt lub nadwyżka), gdyby gospodarka produkowała na poziomie potencjalnego PKB, czyli w sytuacji, w której istniałoby tylko bezrobocie naturalne. W krajach UE analogiczne działania podejmuje Komisja Europejska. Oznacza to, że deficyt strukturalny nie uwzględnia wpływu automatycznych stabilizatorów. <link target-id="CNX_Econ_C30_012" id="UUIDcdab7bc8-2ec8-49b1-79ee-c75d98423fdd" /> przedstawia rzeczywisty i strukturalny deficyt budżetowy w Stanach Zjednoczonych w ostatnich dziesięcioleciach.</para>
+      <note type="note" id="fs-idp21278368" class="economics linkup">
+        <para id="fs-idp7093664">Odwiedź poniższą <link url="http://openstax.org/l/CBO" id="UUID2cf0168f-c31c-41f4-7ef0-8d8f84c0b3df">stronę internetową</link>, aby dowiedzieć się więcej o Biurze Budżetowym Kongresu Stanów Zjednoczonych.</para>
+      </note>
+      <figure id="CNX_Econ_C30_012">
+        <title id="UUID2e2ac9d3-c3d5-4cae-50e1-9b528504bcbc">Porównanie rzeczywistego i strukturalnego deficytu budżetowego w USA w latach 1965-2020</title>
+        <media alt="Wykres pokazuje, jak zmieniało się saldo strukturalnego i rzeczywistego budżetu państwa w Stanach Zjednoczonych po roku 1965. Obie krzywe rosną i maleją mniej więcej w tym samym czasie. Oba salda są dodatnie jedynie między połową lat 90. XX w. a początkiem XXI w. W 2014 r. deficyt strukturalny i rzeczywisty przekroczyły poziom 6% PKB." id="fs-idp12612800">
+          <image src="../../media//CNX_Econv1-2_C30_13.svg" mime-type="image/svg+xml" id="UUIDcad26634-3ade-4de1-4fad-fdd8466ed3ce" />
+        </media>
+        <caption id="UUID09ee04ae-a332-4311-51f9-53330c9658b9">Kiedy gospodarka jest w recesji, deficyt strukturalny jest mniejszy niż deficyt rzeczywisty, ponieważ wielkość produkcji znajduje się poniżej potencjalnego PKB, a automatyczne stabilizatory zmniejszają podatki i zwiększają wydatki państwa. Kiedy gospodarka znajduje się w fazie szybkiego wzrostu, deficyt strukturalny (lub nadwyżka strukturalna) jest większy niż deficyt rzeczywisty (lub rzeczywista nadwyżka), ponieważ gospodarka produkuje na poziomie zbliżonym do potencjalnego PKB (lub nawet większym), więc automatyczne stabilizatory podnoszą podatki i zmniejszają zapotrzebowanie na wydatki państwa. (Źródła: Actual and Cyclically Adjusted Budget Surpluses/Deficits, http://www.cbo.gov/publication/43977; Economic Report of the President, Table B-1, http://www.gpo.gov/fdsys/pkg/ERP-2013/content-detail.html).</caption>
+      </figure>
+      <para id="UUID0a17ecac-785d-42c9-5596-ef3505d1e692">Zauważmy, że w okresach recesji, takich jak wczesne lata 90. XX w., rok 2001 czy 2009, deficyt strukturalny był mniejszy niż deficyt rzeczywisty. Podczas recesji automatyczne stabilizatory zwiększają deficyt budżetowy, więc gdyby w gospodarce było pełne zatrudnienie, deficyt byłby mniejszy. Natomiast pod koniec lat 90. XX w. nadwyżka budżetu strukturalnego była niższa od nadwyżki rzeczywistego budżetu państwa. Różnica między deficytem lub nadwyżką strukturalną a deficytem lub nadwyżką rzeczywistą pokazuje skutki działania automatycznych stabilizatorów. Innymi słowy, dane na temat budżetu strukturalnego pozwalają ocenić, jaki byłby deficyt budżetowy, gdyby gospodarka produkowała na poziomie potencjalnego PKB.</para>
+      <para id="fs-idp31395472">Automatyczne stabilizatory działają szybko. Niższe płace oznaczają, że z wypłaty od razu pobierane są mniejsze podatki. Wyższe bezrobocie lub ubóstwo oznaczają, że wydatki państwa w tych obszarach rosną od razu, gdy ludzie ubiegają się o należne im świadczenia. Chociaż automatyczne stabilizatory nieco kompensują zmiany popytu globalnego, nie wyrównują ich w całości ani nawet w większej części. W przeszłości automatyczne stabilizatory po stronie podatkowej i wydatkowej neutralizowały ok. 10% wszelkich początkowych zmian poziomu produkcji. Kompensacja może wydawać się nieduża, ale jest potrzebna. Automatyczne stabilizatory, podobnie jak amortyzatory w samochodzie, mogą być przydatne, jeśli zmniejszają wpływ największych wstrząsów, nawet jeśli nie eliminują ich całkowicie.</para>
+    </section>
+    <section id="fs-idm157597744" class="summary">
+      <title id="UUID5c8effff-a363-4c9f-6510-7f0c6a41e458">Podsumowanie</title>
+      <para id="fs-idm109123440">Polityka fiskalna ma częściowo charakter dyskrecjonalny (uznaniowy), co oznacza, że rząd arbitralnie wprowadza zmiany w podatkach lub wydatkach państwa w odpowiedzi na bieżące wydarzenia gospodarcze, a częściowo jest realizowana za pomocą automatycznych stabilizatorów, czyli takich zmian w podatkach i wydatkach państwa, które zachodzą automatycznie w określonej sytuacji i nie wymagają intencjonalnych działań decydentów ani zmian w prawie. Saldo budżetu strukturalnego to taki wynik budżetu państwa, który wystąpiłby, gdyby gospodarka produkowała w danym roku na poziomie potencjalnego PKB. Wielu ekonomistów i polityków krytykuje stosowanie dyskrecjonalnej polityki fiskalnej z różnych powodów, w tym obaw związanych z opóźnieniami czasowymi, wpływem na stopy procentowe oraz polityczną naturą decyzji fiskalnych.</para>
+    </section>
+    <section id="fs-idm140434560" class="self-check-questions">
+      <title id="UUID2219779b-a715-4429-426f-8395e919c9d5">Pytania sprawdzające</title>
+      <exercise id="fs-idm134927376">
+        <problem id="fs-idm109295360">
+          <para id="fs-idm134750608">Czy podczas recesji rzeczywiste saldo budżetu (deficyt lub nadwyżka) jest większe, czy mniejsze niż saldo strukturalne?</para>
+        </problem>
+        <solution id="fs-idm17104192">
+          <para id="fs-idm191306288">Rzeczywisty deficyt jest większy, m.in. dlatego, że wpływy z podatków są mniejsze, niż oczekiwano.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm25516416">
+        <problem id="fs-idm87298048">
+          <para id="fs-idm144072736">Jaka jest główna przewaga automatycznych stabilizatorów koniunktury nad dyskrecjonalną polityką fiskalną?</para>
+        </problem>
+        <solution id="fs-idm209064464">
+          <para id="fs-idm25914816">Automatyczne stabilizatory zaczynają działać bardzo szybko, podczas gdy wdrożenie polityki dyskrecjonalnej może zająć dużo czasu.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp11944368">
+        <problem id="fs-idm56111888">
+          <para id="fs-idp16442624">Wyjaśnij, jak działają automatyczne stabilizatory koniunktury zarówno po stronie podatków, jak i wydatków państwa. Rozważ dwie sytuacje: a) gospodarka wytwarza mniej, niż wynosi potencjalny PKB, b) gospodarka produkuje więcej niż potencjalny PKB.</para>
+        </problem>
+        <solution id="fs-idm80857072">
+          <para id="fs-idp30366304">Ponieważ w czasie recesji spada produkcja i maleją dochody, automatycznie zmniejszają się też wpływy podatkowe. Wiele programów pomocy społecznej i wsparcia bezrobotnych jest zaprojektowanych w taki sposób, aby osoby należące do określonych kategorii, takich jak „bezrobotni” lub „osoby o niskich dochodach”, kwalifikowały się do świadczeń od momentu, gdy w danej grupie się znajdą. Podczas recesji więcej osób trafia do tych kategorii i automatycznie dostaje świadczenia. Niższe podatki i wyższe wydatki, które występują w okresie recesji, są właśnie automatycznymi stabilizatorami koniunktury. Natomiast w przypadku ożywienia gospodarczego wzrastają średnie dochody w gospodarce, więc automatycznie rosną wpływy podatkowe. W takiej sytuacji mniej osób spełnia kryteria otrzymania pomocy dla bezrobotnych lub potrzebujących, zatem wydatki rządowe na pomoc dla bezrobotnych i opiekę społeczną automatycznie maleją. Ta kombinacja wyższych podatków i niższych wydatków państwa jest działaniem automatycznych stabilizatorów podczas okresu ożywienia.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm57220032" class="review-questions">
+      <title id="UUID027e33c4-85cd-4bb3-6393-b4466e7e9ce4">Sprawdź wiedzę</title>
+      <exercise id="fs-idp67903568">
+        <problem id="fs-idm107388560">
+          <para id="fs-idp51799040">Jaka jest różnica między dyskrecjonalną polityką fiskalną a automatycznymi stabilizatorami koniunktury?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp19422896">
+        <problem id="fs-idp77455696">
+          <para id="fs-idm106046416">Dlaczego automatyczne stabilizatory koniunktury działają „automatycznie”?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm123149840">
+        <problem id="fs-idm59498816">
+          <para id="fs-idp78315936">Co to jest budżet strukturalny?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp48315728" class="critical-thinking">
+      <title id="UUID217f20a1-f6cd-4229-4ff2-656774cb6063">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idp48717040">
+        <problem id="fs-idp24518192">
+          <para id="fs-idp136792832">Czy amerykański program Medicaid (program pomocy rządu federalnego dla rodzin i osób o niskich dochodach) może być, twoim zdaniem, uznany za automatyczny stabilizator koniunktury?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUIDd6df185b-cefe-4c7f-5f43-56dd867cb47c">
+    <definition id="fs-idp110752">
+      <term id="UUID93e90300-b4a3-41af-6bb5-6357e48db036">automatyczne stabilizatory koniunktury (ang. automatic stabilizers)</term>
+      <meaning id="fs-idm114987456">
+        <para id="UUIDd8247124-c8a5-4a0e-7a62-079b3a159b17">zmiany podatków i wydatków państwa, które nie wymagają podejmowania decyzji przez decydentów politycznych, a skutkują zmniejszeniem tempa spadku popytu globalnego podczas spowolnienia gospodarczego i recesji oraz ograniczeniem dynamiki wzrostu popytu globalnego, gdy gospodarka znajduje się w fazie ożywienia</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp28854864">
+      <term id="UUID4615ed91-6545-4b8f-6992-f80e13796708">dyskrecjonalna (uznaniowa) polityka fiskalna (ang. discretionary fiscal policy)</term>
+      <meaning id="fs-idm118445568">
+        <para id="UUID84c318c7-d2c3-4306-5f4c-4799537ff221">polityka fiskalna wpływająca na popyt globalny, która polega na ustanowieniu przez rząd nowego prawa wyraźnie zmieniającego podatki lub poziom wydatków państwa</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp18189600">
+      <term id="UUID97a4058d-a036-4cfa-494f-1845c0e6421d">budżet strukturalny (ang. standardized employment budget)</term>
+      <meaning id="fs-idm71487856">
+        <para id="UUIDaf6498c8-36cd-40e7-4888-ab2ec9952106">saldo budżetu państwa, które wystąpiłoby w danym roku, gdyby gospodarka produkowała na poziomie potencjalnego PKB</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

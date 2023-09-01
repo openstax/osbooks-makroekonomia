@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U71f1ebcd-07ce-45e3-8b66-6f5c592afb9b" id="U71f1ebcd-07ce-45e3-8b66-6f5c592afb9b" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie dopolityki pieniężnej i regulacyjnej banku centralnego</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00051</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/71f1ebcd-07ce-45e3-8b66-6f5c592afb9b</md:content-url>
+    <md:title>Wprowadzenie dopolityki pieniężnej i regulacyjnej banku centralnego</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:04.739642462+00:00</md:version>
+    <md:created>2023-08-30T08:02:04.739642462+00:00</md:created>
+    <md:revised>2023-08-30T08:02:04.739642462+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>71f1ebcd-07ce-45e3-8b66-6f5c592afb9b</md:uuid>
+  </metadata>
+  <content>
+    <figure id="CNX_Econ_C28_000" class="splash">
+      <title id="UUID4dfc9e8b-48cb-4e44-494e-44044a584089">Gmach Marrinera S. Ecclesa, główna siedziba Banku Rezerwy Federalnej w Waszyngtonie</title>
+      <media alt="Zdjęcie przedstawia wejście do budynku imienia Marrinera S. Ecclesa, głównej siedziby amerykańskiego banku centralnego, czyli Systemu Rezerwy Federalnej." id="fs-idp29671408">
+        <image src="../../media//CNX_Econ_C28_000.jpg" mime-type="image/jpeg" id="UUIDf9f7b3f1-e730-4cde-719e-a3c5dbe4dc8e" />
+      </media>
+      <caption id="UUID9a16747a-535c-4bf5-5e33-32a8355b3978">Za tymi drzwiami zapadają niektóre z najważniejszych decyzji dotyczących polityki pieniężnej w Stanach Zjednoczonych. (Źródło: modyfikacja pracy „squirrel83”/Flickr Creative Commons)</caption>
+    </figure>
+    <note type="note" id="fs-idm93457376" class="bringhome economics">
+      <title id="UUID9d185b7b-1284-4d12-5002-74b46205242f">Jak bardzo można obniżyć stopy procentowe?</title>
+      <para id="UUIDf1514d2e-e5e3-42f8-4621-a5c41447cbe3">Większość ekonomistów uważa, że polityka pieniężna (czyli decyzje banku centralnego, które przekładają się na wysokość stóp procentowych m.in. poprzez zasady i warunki udzielanych kredytów) ma ogromny wpływ na gospodarkę każdego kraju. Z ekspansywną polityką pieniężną (monetarną) mamy do czynienia wtedy, gdy bank centralny obniża stopy procentowe i zwiększa dostępność kredytu. W efekcie tych działań inwestycje przedsiębiorstw i wydatki gospodarstw domowych rosną, powodując wzrost PKB i zatrudnienia.</para>
+      <para id="UUIDc364c983-f55b-4402-410d-d9610260148b">Co się jednak stanie, jeśli stopy procentowe narzucone przez banki komercyjne jako koszt kredytu są już bliskie zeru? Nie można przecież obniżyć ich poniżej zera, prawda? Oznaczałoby to bowiem, że pożyczkodawcy płaciliby pożyczkobiorcom za pożyczanie od nich pieniędzy. Właśnie w takiej sytuacji znalazł się System Rezerwy Federalnej USA pod koniec globalnego kryzysu finansowego, czyli w roku 2009, a także w czasie recesji spowodowanej pandemią koronawirusa w roku 2020. Stopa funduszy federalnych, czyli stopa procentowa będąca punktem odniesienia dla banków komercyjnych w ich działalności kredytowej, którą amerykański bank centralny traktuje jako podstawowe narzędzie polityki pieniężnej, w roku 2007 wynosiła ok. 5%. W ciągu kolejnych dwóch lat obniżyła się do poziomu 0,16%. Po zakończeniu kryzysu ponownie wzrosła do ok. 2%, a po rozpoczęciu recesji pandemicznej spadła po raz kolejny, w marcu 2020 r. osiągając zaledwie 0,05%.</para>
+      <para id="UUID1175da48-75f1-447d-51c1-b4bf1098f01f">Politykę Banku Rezerwy Federalnej w latach 2008–2009 komplikowało również to, że polityka fiskalna, czyli drugi ze sposobów, w jaki państwo może wpływać na sytuację w gospodarce, nie mogła się opierać na obniżkach podatków i wzroście wydatków ze względu na sytuację budżetu federalnego w Stanach Zjednoczonych i powszechne obawy, że zarówno jego deficyt, jak i rozmiary długu publicznego są zbyt wysokie. Jakie było zatem pole manewru amerykańskiego banku centralnego? W jaki sposób System Rezerwy Federalnej mógł kształtować politykę pieniężną, aby stymulować gospodarkę? Dodatkowo o ile polityka fiskalna w czasie recesji pandemicznej była bardziej agresywna, to sytuacja gospodarcza sektora przedsiębiorstw i gospodarstw domowych również była trudniejsza i konieczne okazało się dodatkowe wsparcie finansowe skierowane do obu grup podmiotów. Rozwiązaniem problemu dolnej granicy wysokości stóp procentowych w czasie tych kryzysów była – jak zostanie to przedstawione w niniejszym rozdziale – zmiana reguł gry.</para>
+    </note>
+    <note type="note" id="fs-idm75858032" class="chapter-objectives economics">
+      <title id="UUIDa66573ae-de1d-4986-46b1-55604a1fed12">Wprowadzenie do polityki pieniężnej i regulacyjnej banku centralnego</title>
+      <para id="fs-idm100242240">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idm30198304">
+        <item id="UUIDbcc02194-71c3-4546-5348-30e20e8847a1">
+          <para id="UUIDd007f3c4-732f-4715-52ea-a16cb629dd16">W jaki sposób banki centralne wpływają na działalność banków komercyjnych</para>
+        </item>
+        <item id="UUIDb4a5f4dd-860d-4c37-7974-702f1567722d">
+          <para id="UUIDd8b15473-3a04-45b8-4b69-6547f94e5b9b">Jakie są narzędzia polityki pieniężnej (monetarnej) wykorzystywane przez banki centralne</para>
+        </item>
+        <item id="UUIDdbe29aea-14f2-4c9a-4d33-c24d55bfd46d">
+          <para id="UUIDd634010d-c19f-4c04-44d3-671d8635c86f">W jaki sposób polityka pieniężna przekłada się na sytuację w gospodarce</para>
+        </item>
+        <item id="UUID7eaf342b-c1f0-418c-5f8d-18ada7e54e01">
+          <para id="UUIDce1fc192-c655-4a92-6d42-7b46510c4f73">Jakie są pułapki polityki pieniężnej</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDe2e5b521-be76-4f1c-6f7c-9c3de1846676">Pieniądze, pożyczki (oraz kredyty) i banki pozostają ze sobą w nierozerwalnym związku. Pieniądze są deponowane na rachunkach bankowych, a następnie pożyczane przedsiębiorstwom, gospodarstwom domowym i innym bankom. Jeśli ten zazębiający się system pieniądza, pożyczek i banków działa efektywnie, transakcje gospodarcze na rynkach dóbr, usług i czynników produkcji zawierane są płynnie, a oszczędzający bez problemu wchodzą w interakcje z pożyczkobiorcami. Jednak jeśli system pieniężny i bankowy nie działa sprawnie, gospodarka może albo wpaść w recesję, albo cierpieć z powodu przedłużającej się inflacji.</para>
+    <para id="UUID1bb7bf83-46f4-493a-4c0d-e1a9d9b0b386">Państwo (jego wyspecjalizowane agendy) wspiera funkcjonowanie tego systemu. Jednak mechanizmy te nie zawsze działają bez turbulencji. W niniejszym rozdziale zostaną omówione zasady, zgodnie z którymi prowadzona jest polityka pieniężna, oraz czynniki mogące ograniczyć jej skuteczność i efektywność.</para>
+  </content>
+</document>

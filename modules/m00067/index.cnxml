@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U9e0683cc-7466-4156-8f37-b34d95b8829b" id="U9e0683cc-7466-4156-8f37-b34d95b8829b" xml:lang="en" cnxml-version="0.7">
+  <title>12.6 The Question of a Balanced Budget</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00067</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/9e0683cc-7466-4156-8f37-b34d95b8829b</md:content-url>
+    <md:title>12.6 The Question of a Balanced Budget</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:05.301547042+00:00</md:version>
+    <md:created>2023-08-30T08:02:05.301547042+00:00</md:created>
+    <md:revised>2023-08-30T08:02:05.301547042+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>9e0683cc-7466-4156-8f37-b34d95b8829b</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <list id="list-00001">
+      <item id="UUID6ffb1214-c7c3-4df4-75d1-12b1fd09b342">
+        <para id="UUID293a64b5-f15d-4cba-54ec-923b0b9de321">Zrozumieć argumenty za i przeciw zrównoważonemu budżetowi</para>
+      </item>
+      <item id="UUIDd5556394-7135-4004-4458-02e2afd16d9c">
+        <para id="UUID9d110b3c-6f01-4c7d-43e6-f92680a58f64">Wskazać krótko- i długookresowe konsekwencje deficytu budżetowego</para>
+      </item>
+    </list>
+    <para id="fs-idm13100464">Przez wiele dziesięcioleci, począwszy od lat 30. XX w., różni ustawodawcy przedstawiali propozycje wymagające od rządu USA corocznego równoważenia budżetu. W 1995 r. zaproponowano poprawkę do konstytucji nakazującą prowadzenie polityki zrównoważonego budżetu. Została ona przyjęta przez Izbę Reprezentantów USA z dużym zapasem głosów, ale przepadła w Senacie, gdzie zabrakło jej tylko jednego głosu. (Aby zrównoważony budżet stał się poprawką do konstytucji, musiałby uzyskać co najmniej 2/3 głosów w Kongresie i zostać przyjęty przez co najmniej 3/4 stanowych legislatur).</para>
+    <para id="UUIDb8bc031e-54a8-4a18-4f10-b9b7d35b0a28">Większość ekonomistów na propozycję permanentnie <term cmlnle:reference="zrównoważony budżet" id="UUIDaab97792-7ec5-4b7f-4dde-b5edf362b779">zrównoważonego budżetu</term> (<foreign xml:lang="en" id="UUID443bd254-dfd6-4236-7101-832a4af48e79"><term id="UUID5ffab2c1-fc47-4f16-786d-50e5c44cc690">balanced budget</term></foreign>) reaguje rozbawieniem. W końcu ekonomiści wiedzą, że w krótkim okresie saldo budżetu wykazuje wahania zarówno w górę, jak i w dół w zależności od stanu koniunktury i kierunku działań automatycznych stabilizatorów. Recesja gospodarcza automatycznie prowadzi do większych deficytów lub mniejszych nadwyżek budżetowych, podczas gdy ekspansja powoduje mniejsze deficyty lub większe nadwyżki budżetowe. Wymóg, aby budżet był co roku zrównoważony, uniemożliwiłby działanie automatycznych stabilizatorów i zwiększał koszty wahań koniunkturalnych.</para>
+    <para id="fs-idp24158128">Niektórzy zwolennicy poprawki dotyczącej zrównoważonego budżetu uważają, że skoro gospodarstwa domowe muszą równoważyć własne budżety, to rząd też powinien tak robić. Jednak analogia między zachowaniem rządu a zachowaniem gospodarstw domowych jest błędna. Większość gospodarstw domowych nie bilansuje przecież swoich budżetów co roku. W niektórych latach gospodarstwa domowe pożyczają pieniądze na zakup domów, samochodów, na opłacenie kosztów leczenia albo czesnego. W pozostałych latach spłacają kredyty i odkładają środki na kontach emerytalnych. Po przejściu na emeryturę wydają te oszczędności. Ponadto rządu nie można traktować tak jak gospodarstw domowych z wielu powodów, z których bodaj najważniejszym jest ten, że rząd ma obowiązek troszczyć się o stan gospodarki jako całego systemu. Zgodnie z <term cmlnle:reference="keynesowska polityka makroekonomiczna" id="UUID97a43706-cb7d-4fc7-7c49-531275d87884">keynesowską polityką makroekonomiczną</term> (<foreign xml:lang="en" id="UUID96c36abe-63ee-4fa6-7639-0459231dbeb0"><term id="UUID279252e8-47e3-4fca-58eb-7633beabb979">Keynesian macroeconomic policy</term></foreign>), dla dobra całej gospodarki rząd musi działać przeciwnie do stanu koniunktury – wydawać pieniądze w trudnych czasach i oszczędzać, gdy jest dobrze.</para>
+    <para id="fs-idp110738656">Nie ma też szczególnego powodu, by oczekiwać, że budżet państwa będzie zrównoważony w średnim okresie kilku lat. Na przykład utrzymując duże deficyty budżetowe, państwo może dokonać kluczowych długoterminowych inwestycji w <term id="UUIDde322dcf-d9e2-4b0b-5a61-b905587fd208">kapitał ludzki</term> (<foreign xml:lang="en" id="UUID80a66cef-5625-4e70-43f7-b6c43665672e"><term id="UUID1c59a683-a6f8-40f0-4605-175389a3ab00">human capital</term></foreign>) i <term cmlnle:reference="infrastruktura" id="UUIDb63a9b14-5610-4a1d-5d98-db7cc29042dd">infrastrukturę</term> (<foreign xml:lang="en" id="UUIDf563d4e3-7690-400a-55d2-8e1400bcf3bc"><term id="UUID9be8786f-ac6e-446f-4dc2-479a3f43aaa4">infrastructure</term></foreign>), co zwiększy produktywność gospodarki w długim okresie. Decyzje te mogą okazać się dobre lub złe, ale nie zawsze są one irracjonalne. Polityka ciągłego deficytu budżetowego może utrzymywać się przez dziesięciolecia. Jak pokazują doświadczenia USA od końca II wojny światowej do ok. 1980 r., utrzymywanie deficytu budżetowego prawie co roku przez dziesięciolecia jest jak najbardziej możliwe i dopóki procentowe przyrosty zadłużenia są mniejsze niż procentowy wzrost PKB, udział długu publicznego w PKB będzie malał.</para>
+    <para id="fs-idm68938576">Powyższa argumentacja absolutnie nie oznacza, że deficyty budżetowe są zawsze polityką rozsądną. W krótkim okresie rząd, który ma bardzo duży deficyt budżetowy, może doprowadzić do takiego wzrostu popytu globalnego, że w gospodarce pojawi się wysoka inflacja. Ponadto państwo może zaciągać pożyczki z niemądrych lub niepraktycznych powodów. W <link document="m00068" id="UUID9d4e63c5-64b7-44aa-5937-a2a2c3f06f3f" /> omawiamy, w jaki sposób duże deficyty budżetowe, poprzez zmniejszenie oszczędności krajowych, mogą w niektórych przypadkach ograniczyć wzrost gospodarczy, a nawet przyczynić się do międzynarodowych kryzysów finansowych. Wymóg równowagi budżetowej w każdym roku kalendarzowym jest jednak przesadną i błędną reakcją na obawę, że deficyty budżetowe mogą czasem stać się zbyt duże.</para>
+    <note type="note" id="fs-idp42122800" class="bringhome economics">
+      <title id="UUID758d475c-414d-4d17-545e-454d7e6a20f5">Bez Parku Narodowego Yellowstone?</title>
+      <para id="fs-idp51340144"><term cmlnle:reference="zamknięcie rządu" id="UUIDb6e00e45-082f-48ff-5dbb-ffdd4836f512">Zamknięcie rządu</term> (<foreign xml:lang="en" id="UUID4c069093-c945-4d0f-567b-ffc957a991eb"><emphasis effect="italics" /><term id="UUID994d2bb0-b622-4554-5aa8-5b35b4e0b597"><emphasis effect="italics">government shutdown</emphasis></term><emphasis effect="italics" /></foreign>) w 2013 r. w Stanach Zjednoczonych odsłoniło wiele aspektów związanych z polityką fiskalną na poziomie federalnym. W 2013 r. Republikanie i Demokraci nie mogli dojść do porozumienia co do tego, jaką politykę wydatków państwa należy prowadzić i jak duży powinien być dług publiczny. Ze względu na dotkliwość recesji lat 2008–2009 oraz wysoce ekspansywną politykę fiskalną prowadzoną w kolejnych latach deficyt budżetu federalnego i dług publiczny w Stanach Zjednoczonych były historycznie wysokie. Jednym ze sposobów ograniczenia wydatków federalnych i pożyczek zaciąganych przez rząd była odmowa podniesienia prawnego limitu zadłużenia federalnego lub uzależnienie tego kroku od odrzucenia ustawy o przystępnej cenie opieki zdrowotnej (Affordable Health Care Act). Ten spór doprowadził do dwutygodniowego zamknięcia rządu federalnego i przybliżył osiągnięcie terminu, w którym rząd nie byłby w stanie wykupić swoich obligacji skarbowych. W końcu jednak partie doszły do porozumienia i uniknięto bankructwa. Ten przykład wyraźnie pokazuje, jak ściśle budżet państwa jest powiązany z polityką.</para>
+    </note>
+    <section id="fs-idp50090320" class="summary">
+      <title id="UUID430f7eac-8627-4740-6779-3c30cf007671">Podsumowanie</title>
+      <para id="fs-idm60706688">Polityka zrównoważonego budżetu jest popularną ideą głoszoną przez różnych polityków, ale ekonomiczne zalety takiego rozwiązania są wątpliwe. Większość ekonomistów uważa, że polityka fiskalna musi być wystarczająco elastyczna, aby umożliwiła sfinansowanie nieprzewidzianych wydatków, związanych np. z prowadzeniem wojen czy zwalczeniem recesji. Chociaż utrzymujące się duże deficyty budżetowe rzeczywiście mogą stanowić problem, polityka zrównoważonego budżetu też nie jest dobrym rozwiązaniem, gdyż uniemożliwia pojawienie się nawet niewielkich, przejściowych deficytów, które w pewnych przypadkach mogą być konieczne do prowadzenia antycyklicznej polityki gospodarczej.</para>
+    </section>
+    <section id="fs-idp66691488" class="self-check-questions">
+      <title id="UUIDa2955dd6-db09-4e11-4b3f-cbf4de722c4d">Pytania sprawdzające</title>
+      <exercise id="fs-idp72180224">
+        <problem id="fs-idp17958128">
+          <para id="fs-idm66747312">W jaki sposób wymóg utrzymywania zrównoważonego budżetu wpłynąłby na decyzję rządu o obniżce podatków podczas recesji?</para>
+        </problem>
+        <solution id="fs-idp24764880">
+          <para id="fs-idm66010160">Rząd musiałby uzupełnić brakujące wpływy podatkowe, podnosząc podatki w innych obszarach lub tnąc wydatki.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm29246496">
+        <problem id="fs-idm84469760">
+          <para id="fs-idm81216048">W jaki sposób wymóg utrzymywania zrównoważonego budżetu zmieniłby działanie automatycznych stabilizatorów koniunktury?</para>
+        </problem>
+        <solution id="fs-idp29580960">
+          <para id="fs-idm69203680">Programy, w których kwota wydatków nie jest ustalona sztywno, ale określana przez warunki makroekonomiczne, np. przyznawanie bonów żywnościowych w USA, straciłyby wiele na elastyczności, gdyby wzrost wydatków państwa musiał zostać zrównoważony odpowiednimi podwyżkami podatków lub cięciami wydatków w innych obszarach.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm165859840" class="review-questions">
+      <title id="UUIDe1860024-a7b1-4ed7-6b96-bfd01e94ebe2">Sprawdź wiedzę</title>
+      <exercise id="fs-idm82699200">
+        <problem id="fs-idm76136448">
+          <para id="fs-idm61820784">Jakie są argumenty za i przeciw polityce zrównoważonego budżetu?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp11124272" class="critical-thinking">
+      <title id="UUIDe2b0afa2-11d4-4795-552c-3ff31e05d4cb">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idm205830848">
+        <problem id="fs-idm69527072">
+          <para id="fs-idp27329216">Czy zgadzasz się ze stwierdzeniem, jakoby „w najlepszym interesie każdej gospodarki było bezwzględne utrzymywanie zrównoważonego budżetu w każdym roku obrachunkowym”? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp22353904">
+        <problem id="fs-idm90693296">
+          <para id="fs-idm111988080">Jakich działań oczekiwano by od amerykańskiego parlamentu i prezydenta podczas globalnego kryzysu finansowego z lat 2008–2009, gdyby poprawka do konstytucji wymagająca prowadzenia polityki zrównoważonego budżetu została ratyfikowana? Jaki miałoby to wpływ na stopę bezrobocia?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+</document>

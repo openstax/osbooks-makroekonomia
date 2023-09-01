@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U6d0f15c3-eff0-40e2-8e48-a2c480275b58" id="U6d0f15c3-eff0-40e2-8e48-a2c480275b58" xml:lang="en" cnxml-version="0.7">
+  <title>8.3 Poszukiwanie równowagi między modelem keynesowskim a neoklasycznym</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00045</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/6d0f15c3-eff0-40e2-8e48-a2c480275b58</md:content-url>
+    <md:title>8.3 Poszukiwanie równowagi między modelem keynesowskim a neoklasycznym</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:04.434116542+00:00</md:version>
+    <md:created>2023-08-30T08:02:04.434116542+00:00</md:created>
+    <md:revised>2023-08-30T08:02:04.434116542+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>6d0f15c3-eff0-40e2-8e48-a2c480275b58</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-h764-5433-2f8243826e62d49c" class="learning-objectives">
+      <para id="ch26uud03_p01">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID328cf9a7-b25a-4349-7547-498b14981b8a">
+          <para id="UUID662c1013-6c5e-4ee6-47a9-7424830e5ff7">Wyjaśnić, jak na recesję reagują ekonomiści neoklasyczni, a jak keynesowscy</para>
+        </item>
+        <item id="UUID927623ad-f52f-43f7-5f73-2c22ff7040a7">
+          <para id="UUIDb47fc3cb-1377-4b91-62a5-dd56baa80de7">Zrozumieć, jakie są współzależności pomiędzy modelem neoklasycznym i keynesowskim</para>
+        </item>
+      </list>
+    </note>
+    <para id="ch26mod03_p02">Proces poszukiwania złotego środka pomiędzy modelem keynesowskim a neoklasycznym można porównać do jednoczesnej jazdy na dwóch koniach. Kiedy artysta cyrkowy stoi na dwóch rumakach, mając jedną stopę na grzbiecie konia prawego, a drugą na grzbiecie lewego, ekscytacja widzów rośnie wraz z powiększającym się odstępem między zwierzętami. Współcześni ekonomiści wjeżdżają w przyszłość właśnie na takich dwóch koniach – jedną nogą „stojąc” na krótkookresowej perspektywie keynesowskiej, a drugą na długookresowym podejściu neoklasycznym. Zachowanie równowagi pomiędzy obydwoma sposobami analizy może wydawać się karkołomne, ale nie da się go uniknąć. Zarówno podejście keynesowskie, jak i neoklasyczne ma bowiem swoje mocne i słabe strony.</para>
+    <para id="UUID19f6d850-8436-4e3f-6c62-c38b44de48b3">Krótkookresowy model keynesowski, podkreślający istotną rolę popytu globalnego jako źródła cykli koniunkturalnych oraz zakładający sztywność cen i płac, dobrze objaśnia przyczyny wielu recesji oraz wahania bezrobocia cyklicznego. Koncentrując się na krótkookresowych dostosowaniach produkcji do popytu globalnego, ekonomia keynesowska pomija jednak długookresowe determinanty wzrostu gospodarczego, które trzeba wziąć pod uwagę nawet wtedy, gdy gospodarka znajduje się na poziomie potencjalnego PKB i naturalnej stopy bezrobocia.</para>
+    <para id="UUIDfd484ce1-177f-4a3e-4020-9cb11f99a970">Model neoklasyczny, kładący nacisk na zagregowaną podaż, koncentruje się na podstawowych determinantach produkcji i zatrudnienia i jest przydatny przede wszystkim do analizy wzrostu gospodarczego i rynków pracy w długim okresie. Model neoklasyczny nie jest jednak szczególnie pomocny w wyjaśnianiu wahań bezrobocia w krótkim, kilkuletnim horyzoncie czasowym. W zasadzie nie jest też użyteczny, gdy gospodarka pogrążona jest w długotrwałej, głębokiej recesji, takiej jak Wielki Kryzys z lat 30. XX w. Ekonomia keynesowska postrzega inflację jako cenę, którą trzeba zapłacić za niskie bezrobocie, zaś dla ekonomistów neoklasycznych inflacja jest kosztem, który nie oferuje żadnych kompensujących korzyści w postaci niższego bezrobocia.</para>
+    <para id="ch26mod03_p03">Makroekonomia nie jest jednak wyborem między poglądami jednej grupy ekonomistów, którzy są czystymi keynesistami, a poglądami grupy drugiej, czyli czystych neoklasyków. Wielu ekonomistów głównego nurtu wierzy w użyteczność zarówno podejścia keynesowskiego, jak i neoklasycznego. <term id="UUIDe7ff8f24-ed75-4335-72d1-61447b155173">Robert Solow</term>, laureat Nagrody Nobla w dziedzinie ekonomii z 1987 r., tak opisał to specyficzne podwójne podejście:</para>
+    <quote id="fs-idm26910752">
+      <para id="ch26mod03_q01">Myślę, że w krótkim okresie coś w rodzaju „keynesizmu” jest użytecznym sposobem analizy gospodarki, z pewnością lepszym niż cokolwiek „neoklasycznego”. W bardzo długich okresach odpowiedzi na interesujące pytania najlepiej szukać w ramach modelu neoklasycznego, zaś ujęcie keynesowskie byłoby znacznie mniej użyteczne. W perspektywie od pięciu do dziesięciu lat musimy złożyć nasz sposób rozumienia gospodarki w całość najlepiej, jak potrafimy, i poszukać modelu eklektycznego [łączącego podejście neoklasyczne i keynesowskie], który spełni oczekiwania, jakie przed nim postawimy.</para>
+    </quote>
+    <para id="ch26mod03_p05">Wielu współczesnych ekonomistów poświęca dużo czasu i energii na próby skonstruowania modelu, który łączyłby najbardziej atrakcyjne aspekty podejścia keynesowskiego i neoklasycznego. Możliwe jest zbudowanie złożonego modelu matematycznego, w którym popyt globalny oraz lepkie ceny i płace mają znaczenie w krótkim okresie, zaś w długiej perspektywie czasowej ceny, płace i podaż globalna dostosowują się w pełni do zmiennej sytuacji w gospodarce. Jednak opracowanie ogólnego modelu, który obejmowałby zarówno krótkookresowe ujęcie keynesowskie, jak i długookresowe ujęcie neoklasyczne, nie jest łatwe.</para>
+    <note type="note" id="ch26mod03_bring" class="bringhome economics">
+      <title id="UUID4d3aa9d5-1269-4937-7d8b-1b7cd47f6c1c">Żeglując po nieznanych wodach – globalny kryzys finansowy i wywołana pandemią recesja z roku 2020</title>
+      <para id="UUID72b36de8-d4f9-4ea3-6c1f-387011cc063a">Czy polityka państwa realizowana w celu ustabilizowania gospodarki i rynków finansowych w okresie globalnego kryzysu finansowego była skuteczna? Wielu ekonomistów zarówno ze szkoły keynesowskiej, jak i neoklasycznej twierdziło, że tak, chociaż w różnym stopniu. Alan Blinder z Princeton University i Mark Zandi z Moody’s Analytics uważali, że bez aktywnej polityki fiskalnej spadek PKB w USA byłby znacznie większy niż 3,3% w 2008 r. i 0,1% w roku 2009. Oszacowali również, że gospodarka amerykańska straciłaby o 8,5 mln miejsc pracy więcej, gdyby rząd nie interweniował na rynku i nie realizował Programu pomocy dla zagrożonych aktywów (<foreign xml:lang="en" id="UUID2ee5f929-7761-497b-4c30-4926841d4ac5">Troubled Asset Relief Program</foreign> – TARP) w celu wsparcia branży finansowej i kluczowych producentów samochodów, takich jak General Motors i Chrysler. Carlos Carvalho, Stefano Eusip i Christian Grisse, ekonomiści Banku Rezerwy Federalnej, wykazali w swoim badaniu pt. „Policy Initiatives in the Global Recession: What Did Forecasters Expect?”, że po interwencji państwa osoby i instytucje opracowujące prognozy gospodarcze dostosowały swoje oczekiwania do nowej polityki państwa. Częściej przewidywali wzrost inwestycji w związku z niższymi stopami procentowymi wynikającymi z ekspansywnej polityki pieniężnej oraz przyspieszonym wzrostem gospodarczym będącym efektem polityki fiskalnej.</para>
+      <para id="UUID7dcc1542-3d6a-45e9-5884-5a148a93b8c4">Model neoklasyczny można również wykorzystać, aby lepiej zrozumieć doświadczenia USA w zakresie polityki gospodarczej wdrożonej podczas wywołanej pandemią recesji w roku 2020. Jednym z najważniejszych zarzutów stawianych ekonomistom keynesowskim przez zwolenników perspektywy neoklasycznej jest to, że polityka rządu często zbyt wolno reaguje na pojawiające się recesje. Jednak po wybuchu pandemii rząd federalny zareagował naprawdę szybko, udzielając pomocy władzom stanowym i lokalnym, zwiększając ubezpieczenie dla bezrobotnych, pomagając firmom zmuszonym do zamknięcia działalności oraz wprowadzając czeki stymulacyjne w celu zwiększenia wydatków. Nie ma wątpliwości, że bez tej polityki skutki gospodarcze pandemii byłyby znacznie gorsze. Niektórzy ekonomiści twierdzą nawet, że rząd pomógł „za bardzo”. Ich zdaniem wysoka inflacja, jakiej doświadczyła amerykańska gospodarka od połowy 2021 r., jest spowodowana faktem, że realna produkcja rosła szybciej niż potencjalna. Teza ta jest w zasadzie akceptowana przez większość amerykańskich ekonomistów, spory budzi jedynie skala wpływu pomocy federalnej na stopę inflacji i oddzielenie czynników popytowych od podażowych (wzrostu kosztów wywołanego przerwaniem łańcuchów dostaw i wzrostem cen surowców energetycznych, do którego doszło w drugiej połowie 2022 r. w związku z przygotowaniami Rosji do napaści na Ukrainę). Skądinąd podobne argumenty pojawiają się w polskiej debacie dotyczącej strategii radzenia sobie z gospodarczymi skutkami pandemii koronawirusa.</para>
+      <para id="UUID019b4089-2ea7-4dd0-6680-6a6806a00772">Skupiając się na potencjalnym PKB zamiast na popycie krótkookresowym, zwolennicy modelu neoklasycznego podkreślają również zależność pomiędzy bieżącą sytuacją w gospodarce a możliwościami generowania wysokich stóp wzrostu w przyszłości. Od czasu uderzenia pandemii miliony pracowników pozostało poza rynkiem pracy z powodu wcześniejszych emerytur, obaw o zdrowie i bezpieczeństwo, dostępności opieki nad dziećmi i zamknięcia szkół. Jak wspomniano w rozdziale poświęconym bezrobociu (<link document="m00012" id="UUID07335b40-a8c0-4ec8-61e0-45060304065c" />), zmiany te spowodowały, że aktywność zawodowa utrzymuje się na poziomie niższym niż średnia historyczna. Pandemia utrudniła również przyszłym pracownikom zdobycie umiejętności zwiększających produktywność na rynku pracy. Im dłużej będzie się utrzymywać ta niekorzystna sytuacja, tym niższe będzie tempo wzrostu potencjalnego PKB.</para>
+    </note>
+    <section id="ch26mod03_summ" class="summary">
+      <title id="UUID376210fc-8290-4c78-5906-7184b85bfb1b">Podsumowanie</title>
+      <para id="UUID9eac7c90-dcc1-47a2-6a84-733aaa4e9b48">Ekonomia keynesowska uważa zmiany popytu globalnego za przyczynę cyklicznych wahań. Keynesiści opowiadają się za tym, by państwo prowadziło aktywną politykę służącą zapobieganiu recesjom i inflacji, ponieważ ich zdaniem gospodarka szybko i samoczynnie nie powróci do stanu pełnego zatrudnienia.</para>
+      <para id="UUIDade8cb09-7da6-4861-6cb6-7251742f2d7a">Ekonomia neoklasyczna kładzie większy nacisk na podaż globalną. Neoklasycy uważają, że długookresowy wzrost produktywności wpływa na potencjalny PKB i że gospodarka po zmianie popytu globalnego zazwyczaj szybko powraca do stanu pełnego zatrudnienia. Ekonomiści neoklasyczni, sceptyczni co do skuteczności polityki keynesowskiej, są bardziej skłonni opowiadać się za brakiem lub bardzo ograniczoną rolą aktywnej polityki stabilizacyjnej państwa.</para>
+      <para id="UUID7584def4-0b14-4cf0-6b09-b2c2a592f8e7">Podczas gdy keynesiści w walce z recesją odwołują się do ujemnej zależności między inflacją a bezrobociem, zdaniem ekonomistów neoklasycznych taka zależność nie istnieje. Neoklasycy uważają, że wszelkie wynikające z aktywnej polityki państwa krótkookresowe korzyści (np. w postaci niższego bezrobocia) w końcu znikną, a jej wynikiem będzie jedynie inflacja.</para>
+    </section>
+    <section id="ch26mod03_sques" class="self-check-questions">
+      <title id="UUID78ebcf94-fbbb-47d1-77e6-d41820b7ac16">Pytanie sprawdzające</title>
+      <exercise id="ch26mod03_sques01">
+        <problem id="ch26mod03_squesp01">
+          <para id="ch26mod03_p10">Spróbuj krótko podsumować założenia keynesowskiego i neoklasycznego modelu gospodarki.</para>
+        </problem>
+        <solution id="ch26mod03_sques01s">
+          <para id="ch26mod03_p11">Krótkookresowy model keynesowski opiera się na sztywności cen i płac oraz dużej roli popytu globalnego jako czynnika powodującego cykle koniunkturalne. Dzięki temu dobrze wyjaśnia wiele recesji oraz wahania bezrobocia cyklicznego. Model neoklasyczny podkreśla dużą rolę podaży globalnej i koncentruje się na podstawowych determinantach produkcji i zatrudnienia, a tym samym kładzie większy nacisk na wzrost gospodarczy i sposób funkcjonowania rynków pracy.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="ch26mod03_rques" class="review-questions">
+      <title id="UUID85743935-72c2-42a7-5c71-f7447ad87403">Sprawdź wiedzę</title>
+      <exercise id="ch26mod03_rques01">
+        <problem id="ch26mod03_rquesp01">
+          <para id="ch26mod03_p12">Dlaczego zwolennicy modelu neoklasycznego sprzeciwiają się aktywnej polityce państwa polegającej na stymulowaniu popytu globalnego w czasie recesji, jeśli mogłoby to pomóc w osiągnięciu pełnego zatrudnienia? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="ch26mod03_rques02">
+        <problem id="ch26mod03_rquesp02">
+          <para id="ch26mod03_p13">Jeśli gospodarka cierpi z powodu wysokiej inflacji, czy ekonomista keynesowski opowiadałby się za polityką stabilizacyjną obejmującą wyższe podatki i wyższe stopy procentowe? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch26mod03_ctques" class="critical-thinking">
+      <title id="UUID205bfab1-2946-4142-402a-8477f8368f19">Ćwicz myślenie krytyczne</title>
+      <exercise id="ch26mod03_ctques01">
+        <problem id="ch26mod03_ctquesp01">
+          <para id="ch26mod03_p14">Czy bycie neoklasycznym keynesistą jest logiczną sprzecznością? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch26mod03_ref" class="references">
+      <title id="UUID15161468-fcf8-4509-5236-d17a3309b7e2">Bibliografia</title>
+      <para id="ch26mod03_ref01">Carvalho, Carlos, Stefano Eusepi, and Christian Grisse. “Policy Initiatives in the Global Recession: What Did Forecasters Expect?” <emphasis effect="italics">Federal Reserve Bank of New York: Current Issues in Economics and Finance</emphasis>, 18, no. 2 (2012). http://www.newyorkfed.org/research/current_issues/ci18-2.pdf.</para>
+    </section>
+  </content>
+</document>

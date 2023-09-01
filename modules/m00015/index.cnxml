@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U02dccbf5-1584-4e6d-aecb-dbd70bd30986" id="U02dccbf5-1584-4e6d-aecb-dbd70bd30986" xml:lang="en" cnxml-version="0.7">
+  <title>3.3 Przyczyny bezrobocia w krótkim okresie</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00015</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/02dccbf5-1584-4e6d-aecb-dbd70bd30986</md:content-url>
+    <md:title>3.3 Przyczyny bezrobocia w krótkim okresie</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:03.392543370+00:00</md:version>
+    <md:created>2023-08-30T08:02:03.392543370+00:00</md:created>
+    <md:revised>2023-08-30T08:02:03.392543370+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>02dccbf5-1584-4e6d-aecb-dbd70bd30986</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-8899-a146-7c527b82d03b3911" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID5e758095-654c-444f-609d-0b3638050154">
+          <para id="UUID2bb7ff17-4f09-4476-5732-16bb9690cf87">Analizować zmiany bezrobocia cyklicznego</para>
+        </item>
+        <item id="UUID6ca1b608-e4c5-421b-4266-0718ee392e24">
+          <para id="UUID3fb64b8a-8088-4494-6c56-8533ba56261e">Wyjaśnić, jaki jest związek między „lepkimi cenami” a poziomem zatrudnienia</para>
+        </item>
+        <item id="UUID8fa6f327-4247-4c01-7b41-c456fddc5de6">
+          <para id="UUID165f0184-14f3-46a9-56d6-91a63031a47e">Wykorzystać model rynku (podaż i popyt) do analizy poziomu bezrobocia i wysokości wynagrodzeń</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idm54037408">W poprzednim rozdziale mieliśmy okazję zapoznać się z zagadnieniem zmienności bezrobocia w czasie. Teraz spróbujemy odpowiedzieć na pytanie, jakie czynniki wpływają na wysokość tego wskaźnika w krótkim i długim okresie. Są takie same, czy jednak się różnią? Zacznijmy od analizy w krótki okresie.</para>
+    <section id="fs-idm97198208">
+      <title id="UUIDeb81f15f-6e0b-4ebf-69d3-c6f153d92475">Bezrobocie cykliczne</title>
+      <para id="UUIDd156649b-6e4c-4375-6dcb-d3b95451011a">Przyjmijmy racjonalne założenie, zgodnie z którym w krótkim okresie, liczonym raczej w miesiącach i latach niż dekadach, liczba godzin, które przeciętny człowiek jest skłonny przepracować za daną płacę w ciągu tygodnia lub miesiąca, nie zmienia się znacząco, a więc zarówno indywidualna, jak i rynkowa krzywa podaży pracy nie ulegają nie ulegają zmianom (ani przesunięciu, ani zmianie nachylenia). Dodatkowo przyjmijmy standardowe założenie <emphasis effect="italics">ceteris paribus</emphasis>, dotyczące braku istotnych zmian w strukturze wiekowej siły roboczej, instytucjach i prawie wpływających na sposób funkcjonowania rynku pracy.</para>
+      <para id="UUIDb84d1b04-a42c-4f3e-5d45-e987d55c34d7">Jednym z podstawowych czynników kształtujących popyt na pracę zgłaszany przez przedsiębiorstwa jest to, w jaki sposób postrzegają one sytuację makroekonomiczną lub inaczej mówiąc, kondycję gospodarki. Pamiętajmy, że popyt na czynniki produkcji takie jak praca jest popytem pochodnym, zależnym od zapotrzebowania zgłaszanego przez potencjalnych klientów na produkty oferowane do sprzedaży przez konkretne przedsiębiorstwa (popyt na pracę kelnerów i kucharzy jest pochodny w stosunku do popytu na jedzenie „na mieście”, a popyt na wykładowców ekonomii jest pochodny w stosunku do popytu zgłaszanego przez młodych ludzi zainteresowanych studiowaniem ekonomii). Jeśli przedsiębiorstwa oceniają, że gospodarka się rozwija, więc popyt na ich dobra i usługi będzie rósł, to przy danym wynagrodzeniu będą chciały zatrudnić większą liczbę pracowników, a krzywa popytu na pracę przesunie się w prawo. I odwrotnie, jeśli firmy uznają, że gospodarka spowalnia lub wchodzi w recesję (a zatem trudniej będzie sprzedać oferowany asortyment), wtedy będą chciały zatrudnić mniejszą liczbę pracowników przy danej płacy (a być może również zwolnić część z tych, którzy już pracują), zaś krzywa popytu na pracę przesunie się w lewo. Zmienność wielkości bezrobocia wywoływaną przez cykliczne zmiany aktywności gospodarczej (przechodzenie od ekspansji do recesji lub od recesji do ekspansji) ekonomiści nazywają <term id="UUIDd7a1ea9c-2d6e-4575-7b10-2a2e6d5c7928">bezrobocie cykliczne</term> (ang. <emphasis effect="italics" /><foreign xml:lang="en" id="UUID443d81f9-1794-4946-7a9d-711e0f462e55"><emphasis effect="italics" /><term id="UUID07bff30d-83de-4670-740b-b6e19e28bfed"><emphasis effect="italics">cyclical unemployment</emphasis></term><emphasis effect="italics" /></foreign>).</para>
+      <para id="fs-idm82946752">Z punktu widzenia pewnego wyidealizowanego sposobu funkcjonowania rynku pracy (a dokładniej tego, jak zachowują się rynkowe krzywe popytu i podaży oraz cena), bezrobocie stanowi pewną zagadkę. Jak to bowiem pokazuje <link target-id="CNX_Econ_C21_006" document="" id="UUIDcbde0b6e-e15f-4b7c-4fce-d99b3238a2cd" />, jeśli rynek pracy jest wolny od ingerencji państwa, zaś cena równowagi (czyli płaca) może się szybko dostosowywać do sytuacji na tym rynku (mówimy wówczas, że jest on elastyczny, a płaca giętka), to na rynku pracy powinna istnieć równowaga między popytem a podażą, czyli nie powinno występować bezrobocie (które nie jest przecież niczym innym jak nadwyżką podaży nad popytem). Przy płacy równej (W<sub>e</sub>) powinna istnieć pełna równowaga pomiędzy ilością pracy oferowanej i zapotrzebowaniem na pracę, dla liczby pracowników lub godzin pracy zdefiniowanych jako (Q<sub>e</sub>).</para>
+      <figure id="CNX_Econ_C21_006">
+        <title id="UUID625b8209-17a2-4ed0-59c8-4a0a690360f5">Równowaga na rynku pracy, a zjawisko bezrobocia</title>
+        <media alt="Wykres wskazuje, że przy pewnych wyidealizowanych założeniach na rynku pracy zawsze powinna panować równowaga przy płacy, która zrównuje wielkość popytu i podaży. Jeśli płaca ta może się w swobodny sposób kształtować (rynek jest elastyczny), bezrobocie nigdy nie powinno się pojawić." id="fs-idm24740880">
+          <image src="../../media//CNX_Econ_C21_006.svg" mime-type="image/svg+xml" id="UUID996a345f-be21-4a8d-53fa-61c3512ddbd1" />
+        </media>
+        <caption id="UUID9244cd1d-c57a-4a24-5cb9-003d45a37d80">Na rynku pracy z elastycznymi płacami równowaga wystąpi przy płacy W<sub>e</sub> i ilości pracy Q<sub>e</sub> (definiowanej jako liczba przepracowanych godzin lub zatrudnionych osób), które zapewniają równość zapotrzebowania na pracę zgłaszanego przez przedsiębiorstwa (krzywa popytu D) i ilości pracy oferowanej przez pracowników (krzywa podaży S).</caption>
+      </figure>
+      <para id="UUID6aef7f39-4ad3-4b7d-78ff-df49588616c1">Jednym z możliwych czynników, który sprawia, że w statystykach pojawia się kategoria osób bezrobotnych, jest to, że ludzie nie chcą pracować za wynagrodzenie równe obecnej płacy równowagi (np. 10 zł za godzinę „na rękę”), ale byliby skłonni podjąć pracę, gdyby wynagrodzenie było wyższe (np. 20 zł za godzinę). Jeśli w rozmowie z ankieterem zadeklarują, że szukają takiej pracy i byliby gotowi ją podjąć, zostaną zaklasyfikowani jako aktywni zawodowo i bezrobotni. Z punktu widzenia ekonomisty ważne jest jednak nie to, jak klasyfikujemy takie osoby, tylko pytanie, czy ludzie ci pozostają bez pracy dlatego, że nie mogą jej znaleźć, czy też dlatego, że szukać jej nie chcą.</para>
+      <para id="UUID0e4ce696-2094-4f2c-721c-be35874fb17b">Prawdopodobnie część z takich osób jest bezrobotna z powodu swoich nierealistycznych oczekiwań co do zarobków, ale nie stanowią one większości. Większość osób bezrobotnych to ludzie, których przyjaciele i znajomi, posiadający podobne wiedzę, umiejętności i doświadczenie, są gdzieś zatrudnieni i otrzymują płace zgodne z ich preferencjami. Oznacza to, że bezrobotni też byliby skłonni pracować na stanowiskach i z wynagrodzeniem analogicznym do tego, jakie otrzymują ich przyjaciele. Jeśli jednak pracodawcy nie zatrudniają dodatkowych pracowników, szanse na znalezienie atrakcyjnego miejsca pracy są bardzo niskie, a to oznacza, że osoby te są bezrobotne mimowolnie. W ten sposób pojawia się przymusowe bezrobocie.</para>
+    </section>
+    <section id="fs-idp52865680">
+      <title id="UUID2848b3e1-79bc-498f-4332-640f5096c506">Dlaczego płace są „lepkie” i nie równoważą rynku pracy</title>
+      <para id="UUID67519483-0353-4d8f-5f97-4b99b052d3de">Model rynku pracy z elastycznymi płacami nie tłumaczy, dlaczego zjawisko bezrobocia w ogóle występuje w gospodarce, ponieważ w sytuacji pojawienia się nadwyżki po stronie popytu, a szczególnie podaży, płace powinny (zgodnie z założeniami modelu) dostosować się w taki sposób, by każdy, kto jest zainteresowany podjęciem zatrudnienia, mógł je znaleźć. W takiej sytuacji użyteczne może być odrzucenie założenia, że płace niemal natychmiast dostosowują się do sytuacji rynkowej (są doskonale giętkie), i rozważenie modeli ekonomicznych, w których płace nie są giętkie, lecz dostosowują się do sytuacji na rynku relatywnie wolniej. Opóźnienie w reakcji płac na sytuację rynkową występuje przede wszystkim wtedy, gdy poziom wynagrodzeń powinien spaść, aby zrównoważyć popyt i podaż na rynku pracy. Jednym z powodów, dla których płace są „<term cxlxt:index="default" cmlnle:reference="lepkie płace" id="UUIDb0ad0c53-420a-47d9-7d9b-4b01e08f8016">lepkie</term>” (ang. <foreign xml:lang="en" id="UUID8b5db8c6-d530-4bf5-75dd-74b3a460c2d7">sticky</foreign>), czyli „przyklejają się” do swojego poziomu i nie maleją w taki sposób, aby zrównoważyć popyt i podaż, jest prawne i instytucjonalne otoczenie rynku pracy.</para>
+      <para id="UUIDe8c09b49-4ab9-457f-662c-a747dad2107e">W przypadku pracowników o niskich kwalifikacjach, młodych lub wykonujących nieskomplikowane zadania i w związku z tym otrzymujących płacę minimalną ewentualne dalsze obniżanie ich wynagrodzeń jest nielegalne. Z kolei w przypadku pracowników, których stanowiska są objęte tzw. układami zbiorowymi, czyli umocowanymi prawnie wieloletnimi kontraktami zawieranymi przez związki zawodowe z pracodawcą (pomyśl w tym kontekście o górnikach w Polsce lub sportowcach zawodowych lig amerykańskich), jak również regulacjami państwowymi (takimi jak Karta nauczyciela w Polsce), cięcia płac mogą naruszać taki kontrakt i wywołać spór prawny lub strajk narażający firmę na straty. Jednak istnienie płacy minimalnej i układy zbiorowe nie są wystarczającym uzasadnieniem lepkości płac, które to zjawisko jest obserwowane w całej gospodarce i nie tylko w kontekście najniższych wynagrodzeń. Ostatecznie z ok. 78,3 mln osób zatrudnionych w amerykańskiej gospodarce, których wynagrodzenie określa stawka godzinowa, tylko ok. 1,1 mln – mniej niż 2% – nie otrzymuje wynagrodzenia powyżej płacy minimalnej. Podobnie związki zawodowe reprezentują zaledwie jakieś 12% amerykańskich pracowników najemnych. W innych krajach rozwiniętych, przede wszystkim państw członkowskich UE, dla których dość typowe jest utrzymywanie wysokiego poziomu płac minimalnych lub rozbudowanego systemu układów zbiorowych, większy odsetek pracowników może mieć płace wynegocjowane przez związki zawodowe lub na poziomie zbliżonym do płacy minimalnej. Z dostępnych szacunków prezentowanych m. in. przez polski rząd wynika, że w 2023 r. minimalne wynagrodzenie w Polsce pobierało ok. 3 mln pracowników (czyli ok. 27% zatrudnionych), jednak odsetek ten od kilku lat - czyli wraz z rozpoczęciem cyklu podwyżek płacy minimalnej - nieustannie rośnie (w 2021 r. było to jedynie ok. 1,7 mln pracowników, a w roku 2012 tylko 1,3 mln. pracowników). Jednak w przypadku Stanów Zjednoczonych te dwa czynniki łącznie dotyczą nie więcej niż 15% całej siły roboczej.</para>
+      <para id="UUIDf7534b1b-cba8-4d14-6c88-15ba75779de4">Ekonomiści poszukający przyczyn lepkości płac, których wysokość znacznie odbiega od minimalnego, gwarantowanego prawem poziomu, skupili się na czynnikach mogących charakteryzować większość stosunków pracy w gospodarce. Zaproponowali szereg różnych teorii, które mają jednak pewien wspólny mianownik.</para>
+      <para id="UUID64886a42-1a35-4569-729e-8730e3a574b2">Jedno z możliwych wyjaśnień wskazuje, że nawet pracownicy, którzy nie należą do związków zawodowych, często pracują na podstawie <term id="UUID8eb02763-2c79-4b47-6c93-ab4bc1a626e5">niepisanego (ukrytego) kontraktu</term> (ang. <emphasis effect="italics" /><foreign xml:lang="en" id="UUIDf39ad197-f83d-4136-747e-d1e336fab5bc"><emphasis effect="italics" /><term id="UUID1aa99bd3-16e3-4e78-53d7-3d24e2881651"><emphasis effect="italics">implicit contract</emphasis></term><emphasis effect="italics" /></foreign>). Polega on na tym, że pracodawca będzie starał się nie dopuścić do spadku płac w okresie stagnacji lub recesji, jak również w sytuacji, w której to konkretne przedsiębiorstwo boryka się z problemami, w zamian za co pracownicy nie będą oczekiwali ogromnych podwyżek płac wówczas, gdy gospodarka lub firma przeżywają okres rozkwitu. Takie zachowanie przy ustalaniu płac działa jak specyficzna forma ubezpieczenia: pracownik ma pewną ochronę przed spadkiem płac w gorszych czasach, ale płaci za tę ochronę nieco niższym wynagrodzeniem w okresach szczególnie korzystnej koniunktury. Oczywiście, ten rodzaj niepisanego kontraktu (ang. <emphasis effect="italics">implicit contract</emphasis>) oznacza, że firmy będą wstrzymywać się z obniżkami płac, aby pracownicy nie poczuli się oszukani i nie zmniejszali swojego zaangażowania w wykonywane obowiązki lub nawet nie odeszli z pracy.</para>
+      <para id="UUIDdfc515bf-498b-43cb-5971-ea7a123d5c44"><term id="UUIDc1c43f8e-2c7d-4fed-740c-1916e0ff9e34">Teoria płacy efektywnościowej (wydajnościowej)</term> (ang. <foreign xml:lang="en" id="UUIDce8bbd5f-a8a8-4e12-410b-9431c69fd732"><term id="UUID1c76bd0b-b3ed-4527-664a-53f45f405ad8">efficiency wage theory</term></foreign>) utrzymuje z kolei, że produktywność pracowników i ich skłonność do rzetelnej pracy zależą przede wszystkim od poziomu ich wynagrodzenia, a zatem pracodawcy mogą uznać, że warto im płacić nieco więcej, niż dyktują to warunki rynkowe. W końcu jeśli ktoś otrzymuje wynagrodzenie, którego nie zaoferuje mu nikt inny, to będzie swoją pracę i swojego pracodawcę traktował z należytą dozą szacunku i po prostu będzie się przykładał do pracy. A gdy będzie trzeba, zgodzi się zostać po godzinach, przyjść do pracy w dniu wolnym itd. Jeśli zaś w mniej lub bardziej odległej przyszłości pracodawca zaproponuje mu czasowe obniżenie wynagrodzenia, argumentując, że sytuacja firmy jest wyjątkowo trudna, to zaakceptuje tę propozycję i nie odejdzie, szukając bardziej atrakcyjnego zatrudnienia. Pracodawcy z kolei wiedzą, że zatrudnianie i szkolenie nowych pracowników jest kosztowne i czasochłonne, wolą więc zapłacić obecnej załodze trochę więcej teraz, niż stracić ją, a potem zatrudniać i szkolić nową. W ten sposób, unikając obniżek płac, pracodawca minimalizuje koszty szkolenia i zatrudniania nowych pracowników, a jednocześnie czerpie korzyści z dobrze zmotywowanych pracowników. Pionierem takiego podejścia do zarządzania personelem był Henry Ford, założyciel amerykańskiego koncernu motoryzacyjnego. Zmotoryzowanie Ameryki modelem Forda T było możliwe m.in. dzięki wprowadzeniu płacy efektywnościowej (która w 1914 r. wynosiła 5 dol. za dzień pracy).</para>
+      <para id="UUID962a2d06-2359-4caf-5dfd-c8ca50d8b8e9">Są także argumenty wskazujące na niebezpieczeństwo związane z <term id="UUID1be69db8-ae38-4401-6455-c3b65e2f735f">selekcję negatywną w przypadku obniżek płac</term> (ang. <foreign xml:lang="en" id="UUID5852322b-fe45-4ee4-7f3f-ee139252d751"><term id="UUID1f6b1ffc-a5dc-4e0f-45cd-2c03dee8a80b">adverse selection</term></foreign>). Jeśli pracodawca reaguje na pogarszające się warunki prowadzenia działalności gospodarczej obniżką płac wszystkich pracowników, to najprawdopodobniej ci najlepsi, których akurat bardzo chciałby zatrzymać, odejdą, a zostaną leniwi, niezmotywowani i pozbawieni kwalifikacji. Ci pierwsi bowiem z łatwością znajdą na rynku nowe zatrudnienie, ci drudzy zaś wiedzą, że w przypadku zwolnienia szanse na nowe płatne zajęcia są stosunkowo niewielkie. W związku z tym zamiast obniżać wynagrodzenia, pracodawcy próbują pozbywać się najgorszych pracowników. Czasami przedsiębiorstwa, które przeżywają trudne chwile, mogą próbować przekonywać pracowników do krótkoterminowej redukcji płac i nadal zatrzymać większość załogi. Jednak typowym postępowaniem w opisanej sytuacji jest zwalnianie niektórych pracowników, a nie obniżanie płac wszystkim.</para>
+      <para id="UUIDfeaa92f5-06c0-49be-60bf-887a447ae5c3"><term id="UUID45d4413f-394e-43ab-4fe5-286484910408">Model „swój-obcy”</term> (ang. <foreign xml:lang="en" id="UUID152b5360-79f5-444c-71f3-f00a73a51523"><term id="UUID1cb64bf4-99d5-4024-73ec-69a3aa2570f0">insider-outsider</term></foreign>) z kolei wskazuje na to, że osoby już zatrudnione przez przedsiębiorstwa są „swoje”, podczas gdy nowi pracownicy, a szczególnie osoby, które nie mają pracy, są traktowani jak „obcy”. Firmy polegają w swojej aktywności na zatrudnionych pracownikach, którzy utrzymują sprawne funkcjonowanie organizacji, znają rutynowe procedury i są w stanie przekazać doświadczenie nowo zatrudnionym. W tym kontekście trudne do wyobrażenia jest posunięcie polegające na obniżeniu płac „swoim”, aby zatrudnić bezrobotnych „obcych”, gdyż z pewnością zraziłoby to doświadczonych pracowników i zaszkodziło produktywności i perspektywom firmy.</para>
+      <para id="UUID2adc7f69-1269-46bc-58c4-2c561d15f734">Wreszcie, argument odwołujący się do <term id="UUIDef9f4174-3e08-460e-4ede-3520e42a7548">braku możliwości koordynacji płac</term> (ang. <foreign xml:lang="en" id="UUID7394cd8f-668b-45f7-563d-cc182ce09c06"><term id="UUIDc30aae8f-af25-4481-7557-d8581d4ab4ef">r<emphasis effect="italics">elative wage coordination argument</emphasis></term><emphasis effect="italics" /></foreign>) wskazuje, że nawet jeśli większość pracowników byłaby skłonna zgodzić się na obniżenie swoich wynagrodzeń w okresie recesji lub stagnacji, pod warunkiem, że dotknie to wszystkich wykonujących tę samą lub podobną pracę (powiedzmy – kierowca przekonany argumentami o recesji zgadza się na obniżenie swojego wynagrodzenia, jeśli wszyscy kierowcy zaakceptują niższe płace), to w kapitalistycznej gospodarce nie ma praktycznych możliwości, aby podobny plan wcielić w życie. Pokusa wyłamania się z takiego porozumienia przez właścicieli firm spedycyjnych, którzy płaciliby więcej najlepszym kierowcom, byłaby zbyt duża. To skądinąd argument uzasadniający zawieranie porozumień zbiorowych, które – jeśli taka sytuacja zostałaby w nich uwzględniona – pozwalałyby na obniżkę. Pracownicy postawieni przed możliwością obniżenia płacy, podczas gdy wynagrodzenia ich kolegów w innych przedsiębiorstwach pozostałyby niezmienione, będą ostro walczyć przeciwko takim obniżkom. Doskonale zdają sobie bowiem sprawę z tego, że zmniejszenie płacy oznacza pogorszenie ich sytuacji zarówno w kategoriach bezwzględnych, jak i w stosunku do innych osób wykonujących to samo zajęcie.</para>
+      <para id="fs-idp3534736">Powyższe teorie wskazujące powody, dla których płace pozostają lepkie, szczególnie w kontekście potencjalnej obniżki ich poziomu, różnią się w kwestii możliwych implikacji. Określenie ich mocnych i słabych stron jest przedmiotem ciągłych badań i kontrowersji wśród ekonomistów. Jednak wszystkie bez wyjątku wskazują, że płace będą spadały relatywnie wolno, o ile w ogóle, nawet jeśli gospodarka lub konkretne przedsiębiorstwo znajdują się w trudnym okresie. Jeśli płace nie są giętkie i nie obniżają się bardzo szybko do poziomu, który równoważy popyt z podażą (co oznacza, że rynek pracy jest nieelastyczny), może dojść do krótkotrwałego lub długotrwałego bezrobocia. Pokazuje to <link target-id="CNX_Econ_C21_013" document="" id="UUID828329db-8c45-4c0c-5d60-b2ab619b67c3" />.</para>
+      <para id="UUID3865002c-514d-483e-7f03-1d506c23baab" />
+      <figure id="CNX_Econ_C21_013">
+        <title id="UUID318ff385-6eaf-4f70-638b-8f7a2b12d7cc">Lepkie płace na rynku pracy</title>
+        <media alt="Wykres pokazuje, w jaki sposób lepkie płace (czyli takie, które nie zmieniają się w dostatecznym stopniu w pożądanym kierunku) przekładają się na stopę bezrobocia." id="fs-idm6305424">
+          <image src="../../media//CNX_Econ_C21_013.svg" mime-type="image/svg+xml" id="UUIDfe84b96b-0259-4529-73c1-4e0e57911e1f" />
+        </media>
+        <caption id="UUID901f2384-4200-4cb3-5aff-315327a13eaa">Ponieważ stawka płacy jest lepka i nie zmniejsza się poniżej poziomu wyznaczonego przez W, rynek pracy nie jest zrównoważony, a liczba osób, które chcą pracować (Q<sub>s</sub>), jest większa niż liczba wolnych miejsc pracy (Q<sub>d</sub>). W rezultacie pojawia się bezrobocie, którego rozmiary zostały oznaczone klamrą na wykresie.</caption>
+      </figure>
+      <para id="UUID93c63a34-529d-452b-7f03-45622ab72b36" />
+      <para id="fs-idm42987296"><link target-id="CNX_Econ_C21_014" document="" id="UUIDcb4207e2-76bd-4609-6056-3293485b9015" /> wskazuje na konsekwencje "lepkich" płac dla równowagi na rynku pracy w sytuacji, w której przesunięcia ulega krzywa popytu. Panel (a) uwzględnia sytuację, w której popyt przesuwa się w prawo, z położenia D0 do D<sub>1</sub>. W tym przypadku płaca równowagi wzrasta z poziomu W<sub>0</sub> do W<sub>1</sub> (jak to zostało wskazane powyżej, lepkość płac jest zjawiskiem pojawiającym się w sytuacji, w której płace miałyby zostać obniżone), a liczba zatrudnionych osób (lub liczba przepracowanych godzin, jeśli w ten sposób będziemy definiować ilość pracy) wzrasta z Q<sub>0</sub> do Q<sub>1</sub>. Na rynku pracy utrzymuje się równowaga, a pracownicy – dzięki wzrostowi wynagrodzeń – są zmotywowani do wydajnej pracy.</para>
+      <para id="fs-idm7635840">Panel (b) pokazuje z kolei sytuację, w której popyt na pracę przesuwa się w lewo, z położenia D<sub>0</sub> do D<sub>1</sub>, podobnie jak ma to miejsce w czasie recesji, kiedy wraz ze spadkiem popytu na dobra i usługi maleje również popyt na pracę. Ponieważ tym razem płace są lepkie i nie zmniejszają się do poziomu, który zapewniłby równowagę rynkową (W<sub>1</sub>), niemożliwe jest zrównanie popytu i podaży, przynajmniej w krótkim okresie. Zamiast tego po przesunięciu krzywej popytu na pracę i utrzymaniu płac na dotychczasowym poziomie liczba osób skłonnych do podjęcia pracy za dotychczasowym wynagrodzeniem (W<sub>0</sub>) nie zmienia się i wynosi (Q<sub>0</sub>). Tymczasem wielkość zapotrzebowania na pracowników przy niezmienionym wynagrodzeniu (W<sub>0</sub>) spadła do poziomu (Q<sub>2</sub>). Pojawiła się zatem grupa pracowników, którzy są skłonni pracować za płacę (W0), ale nie mogą znaleźć pracy. Ta nadwyżka pracowników chętnych do podjęcia pracy nad liczbą osób, które pracodawcy chcieliby zatrudnić, to nic innego jak bezrobocie.</para>
+      <figure id="CNX_Econ_C21_014">
+        <title id="UUID36f42c66-6e63-4b37-4fd7-f7ab20c9af8e">Lepkie płace i zmiany popytu na rynku pracy – przyczyny bezrobocia w krótkim okresie</title>
+        <media alt="Oba panele pokazują, w jaki sposób przesunięcie popytu wpływa na sytuację na rynku pracy. Wraz ze wzrostem popytu (przesunięciem krzywej w prawo) rośnie zarówno płaca równowagi, jak i wielkość zatrudnienia. Spadek popytu (czyli przesunięcie krzywej w lewo) w sytuacji lepkich płac powoduje natomiast, że pojawia się nadwyżka chętnych do podjęcia pracy nad liczbą osób, które pracodawcy chcą zatrudnić, czyli bezrobocie." id="fs-idm775360">
+          <image src="../../media//CNX_Econ_C21_014.svg" mime-type="image/svg+xml" id="UUID8e6dc049-75bc-4a78-79be-588ac59b2340" />
+        </media>
+        <caption id="UUID338c4133-cd71-4451-6c6a-7cc6d00324b0">Panel (a) Na rynku pracy, na którym płace mogą w swobodny sposób rosnąć (są giętkie), wzrost popytu na pracę z poziomu D<sub>0</sub> do D<sub>1</sub> prowadzi do wzrostu liczby pracujących osób w warunkach równowagi z Q<sub>0</sub> do Q<sub>1</sub> oraz wzrostu płacy równowagi z poziomu W<sub>0</sub> do W<sub>1</sub>. Panel (b) Na rynku pracy, na którym płace są lepkie i nie maleją, spadek popytu na pracę z poziomu D0 do D<sub>1</sub> prowadzi do spadku zapotrzebowania na pracowników zgłaszanego przez pracodawców przy pierwotnej płacy (W<sub>0</sub>) z poziomu Q<sub>0</sub> do Q<sub>2</sub>. Pracownicy nie chcą jednak podjąć zatrudnienia za wynagrodzeniem (W<sub>0</sub>), ale nie mogą znaleźć pracy opłacanej na poziomie W<sub>0</sub> i stają się bezrobotni.</caption>
+      </figure>
+      <para id="UUID801c649b-5044-4c43-6fb5-1dfe205a57e0">Przedstawiona powyżej analiza graficzna pomaga wyjaśnić, dlaczego – jak to już zostało zaznaczone powyżej – bezrobocie ma tendencję do wzrostu w czasie recesji i spadku podczas okresów ekspansji gospodarczej. Kondycja gospodarki wpływa na położenie krzywej popytu na pracę, co w połączeniu z lepkimi płacami determinuje pojawienie się lub wzrost liczby osób bezrobotnych. Powiększanie się rozmiarów bezrobocia będące konsekwencją spowolnienia tempa wzrostu gospodarczego (stagnacji) lub recesji nazywamy bezrobociem cyklicznym.</para>
+      <note type="note" id="fs-idm75740992" class="economics linkup">
+        <para id="fs-idm46268496">Bank Rezerwy Federalnej w St. Louis jest najlepszym źródłem danych makroekonomicznych (w postaci szeregów czasowych), znanych jako Federal Reserve Economic Data (<link url="http://openstax.org/l/FRED_employment" id="UUID0bdc7b74-ef84-4d28-54b7-e1a77c49ae04">FRED</link>), dostarcza kompletnych zestawów danych na temat różnych miar bezrobocia w USA, jak również miesięczny raport Bureau of Labor Statistics z wynikami ankiet dotyczących sytuacji gospodarstw domowych i zatrudnienia. W Polsce tego typu dane dostępne są na witrynie internetowej Głównego Urzędu Statystycznego <link url="www.stat.gov.pl" id="UUIDdf792811-eea5-4195-5e97-3ae27cb1fd15">www.stat.gov.pl</link>.</para>
+      </note>
+    </section>
+    <section id="fs-idm89551216" class="summary">
+      <title id="UUID14ea4988-d695-499e-60ef-61f7bf78300f">Key Concepts and Summary</title>
+      <para id="UUID4740d944-3427-479f-56bb-be6b4cbcffaa">Bezrobocie cykliczne zmienia się wraz ze zmianami faz cyklu koniunkturalnego. W modelu rynku pracy z doskonale giętkimi płacami zapotrzebowanie na pracę zawsze równa się liczbie osób chętnych do podjęcia zatrudnienia (lub godzin pracy), ponieważ wynagrodzenia zmieniają się tak, aby zapewnić równowagę rynkową. Ekonomiści zaproponowali wiele teorii wyjaśniających, dlaczego w realnym świecie płace są lepkie, czyli nie zmieniają się w stopniu zapewniającym równowagę, szczególnie w sytuacji, w której niezbędny byłby ich spadek. Są to m.in.: niepisane kontrakty, teoria płac efektywnościowych, negatywna selekcja w przypadku obniżki wynagrodzeń, model „swój-obcy” i brak możliwości koordynacji płac w skali całej gospodarki.</para>
+    </section>
+    <section id="fs-idp4693264" class="self-check-questions">
+      <title id="UUID4eeac097-61fd-4941-7cbf-79afbd9734f8">Self-Check Questions</title>
+      <exercise id="fs-idm37773536">
+        <problem id="fs-idp58972832">
+          <para id="fs-idm40495296">Począwszy od lat 70. XX w. przez trzy kolejne dekady kobiety masowo dołączały do zasobu amerykańskiej siły roboczej. Załóżmy, że płace są lepkie, a ok. roku 1970 popyt na pracę zrównał się z jej podażą przy ówczesnej stawce płac. Jak myślisz, co się stało ze stawką płac, zatrudnieniem i bezrobociem w wyniku wzrostu aktywności zawodowej kobiet?</para>
+        </problem>
+        <solution id="fs-idm22401408">
+          <para id="fs-idp31545728">Z powodu napływu kobiet na rynek pracy podaż pracy przesuwa się w prawo, z położenia S do S<sub>2</sub>. Ponieważ płace są lepkie, zwiększona podaż pracy powoduje wzrost liczby osób poszukujących zatrudnienia (Q<sub>s</sub>), ale nie zmienia się liczba dostępnych miejsc pracy (Q<sub>e</sub>). W rezultacie bezrobocie wzrasta o wielkość, o jaką zwiększyła się podaż pracy. Widać to na poniższej ilustracji.</para>
+          <para id="UUIDf08a7981-0294-40f8-5f39-21b916de3ed0">Z czasem, gdy popyt na pracę wzrośnie, bezrobocie będzie spadać i w końcu płace zaczną ponownie rosnąć. Ale ten wzrost popytu na pracę wykracza poza zakres przedstawionego tutaj problemu.</para>
+          <figure id="CNX_Econ_C21_012" class="unnumbered">
+            <media alt="Wykres ilustruje zmiany, które są konsekwencją zdarzeń opisanych w zadaniu. Krzywa podaży pracy przesuwa się w prawo, z położenia S do położenia S2. W wyniku tego przesunięcia i przy założeniu, że poziom płac się nie zmieni (gdyż są one lepkie), wzrost podaży pracy doprowadzi do wzrostu bezrobocia w wysokości równej wzrostowi wielkości podaży pracy." id="fs-idp60980464">
+              <image src="../../media//CNX_Econ_C21_012.svg" mime-type="image/svg+xml" id="UUIDc59a7926-cedb-46cb-6a8d-e10db4814570" />
+            </media>
+          </figure>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp48561008" class="review-questions">
+      <title id="UUID8398c5f2-5871-416c-4bcd-92659252b5a6">Review Questions</title>
+      <exercise id="fs-idp7657808">
+        <problem id="fs-idp1429312">
+          <para id="fs-idp63439776">Kiedy należałoby się spodziewać wzrostu bezrobocia cyklicznego? A spadku?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp2176560">
+        <problem id="fs-idp14900592">
+          <para id="fs-idp78087248">Dlaczego na rynku pracy z giętkimi płacami występuje bezrobocie?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp70950016">
+        <problem id="fs-idm63353648">
+          <para id="fs-idp39689200">Wymień i wyjaśnij kilka powodów, dla których płace mogą być lepkie, zwłaszcza w sytuacji, w której powinny spadać.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp41022080" class="critical-thinking">
+      <title id="UUID5f3b324a-2838-4785-76ca-36c5e3c79df1">Critical Thinking Questions</title>
+      <exercise id="fs-idp71692576">
+        <problem id="fs-idp73377072">
+          <para id="fs-idp43217536">Czy uważasz za racjonalny wybór pracowników, którzy wolą względnie stały poziom wynagrodzeń (lepkie płace), nawet jeśli miałoby to oznaczać bezrobocie części z nich? Przedstaw swój sposób rozumowania. W jaki sposób zaprezentowane w stosownym podrozdziale teorie dotyczące lepkości płac odnoszą się do twojej argumentacji?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp71167488" class="problems">
+      <title id="UUIDf1add5e3-82ff-4993-7fb5-f0d6f0d29a3e">Problems</title>
+      <exercise id="fs-idp86687728">
+        <problem id="fs-idp67857648">
+          <para id="fs-idp45722704">Pewien rząd uchwala prawo „przyjazne rodzinie”, zgodnie z którym przedsiębiorstwa nie mogą zatrudniać pracowników w godzinach wieczornych, w nocy ani w czasie weekendu, tak aby każdy mógł spędzać ten czas w domu z rodziną. Przeanalizuj rezultaty wprowadzenia tego prawa, wykorzystując diagram popytu i podaży na rynku pracy: na początku załóż, że płace są giętkie, a następnie przyjmij, że płace są lepkie przy zmianach wynagrodzenia w dół.</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUIDb5768e56-c000-4c87-55b4-6dbd4f4aa5d2">
+    <definition id="fs-idp21046032">
+      <term id="UUID521c7c0e-bece-4ce5-5f38-17d07bbcebfd">selekcja negatywna w przypadku obniżek płac (ang. <foreign xml:lang="en" id="UUID2459dd17-a6f4-489c-4932-ee6bc7d79ea5">adverse selection</foreign>)</term>
+      <meaning id="fs-idm5707088">
+        <para id="UUID0bf1eeae-bff1-420b-5407-741fbc20df7e">sytuacja, gdy pracodawca obniża płace wszystkim pracownikom, w wyniku czego najlepsi z nich odchodzą do innych firm</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp101677936">
+      <term id="UUID24a22249-0de4-405f-6ffd-47fb852b2ef1">bezrobocie cykliczne (ang. <foreign xml:lang="en" id="UUID17239868-917c-45a6-519f-975d18f442d9"><emphasis effect="italics">cyclical unemployment</emphasis></foreign>)</term>
+      <meaning id="fs-idp37984400">
+        <para id="UUID7903b5c2-9c21-4180-5d27-5d05dc2e09b9">bezrobocie, które jest ściśle związane z cyklem koniunkturalnym, np. wyższe bezrobocie występuje podczas recesji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp11620928">
+      <term id="UUID7ebb41dd-014d-48e8-4d74-7b1bbfbe2cc2">teoria płac efektywnościowych (wydajnościowych) (ang. <foreign xml:lang="en" id="UUIDe883db05-5ad9-4cc0-50c3-a85045711780">efficiency wage theory</foreign>)</term>
+      <meaning id="fs-idp46604976">
+        <para id="UUID38c545fe-0cf8-45eb-43b6-2dcfd5db4551">teoria mówiąca, że produktywność pracowników, zarówno traktowanych indywidualnie, jak i całych grup, wzrośnie, jeśli pracodawca będzie im płacił więcej niż wynosi wysokość wynagrodzenia ustalona na konkurencyjnym rynku pracy</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp104451024">
+      <term id="UUIDd6748480-401c-479c-4cc7-c016dc221a69">niepisane (ukryte) kontrakty (ang. <foreign xml:lang="en" id="UUIDd097a613-fcac-4d78-64a9-25f2b7072783"><emphasis effect="italics">implicit contract</emphasis></foreign>)</term>
+      <meaning id="fs-idm20596560">
+        <para id="UUID73aa3840-5d6a-49f5-762b-bca05f59535b">obowiązujące na rynku pracy niepisane umowy, zgodnie z którymi pracodawca stara się nie dopuścić do spadku wysokości płac, gdy gospodarka zmaga się ze stagnacją, recesją lub dane przedsiębiorstwo doświadcza jakichś problemów, a pracownicy w zamian nie oczekują ogromnych podwyżek wynagrodzeń, gdy gospodarka lub firma są w świetnej kondycji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp93093392">
+      <term id="UUIDd324797a-b45f-4cc8-5ad3-ac8a3f297f98">model „swój-obcy” (insider-outsider) (ang. <foreign xml:lang="en" id="UUIDfb8ccdf8-12e7-4d92-7cdd-52436fe74715">insider-outsider</foreign>)</term>
+      <meaning id="fs-idp79123056">
+        <para id="UUID9aa1e7b4-f254-437e-4ac0-b51d75f86877">osoby już pracujące w firmie, znające jej procedury i sposób funkcjonowania, są traktowane jak swoi, pozostali pracownicy i chętni do podjęcia pracy są uważani za obcych; w konsekwencji poziom wynagrodzeń swoich jest utrzymywany, nie maleją one nawet wtedy, gdy obniżka umożliwiłaby zatrudnienie obcych</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp55562448">
+      <term id="UUIDab604c44-2d1d-40e1-7992-0eff34c01c7a">brak możliwości koordynacji płac względnych (ang. <foreign xml:lang="en" id="UUID0c49bf09-2b6f-462b-7ed9-ceae12648253">r<emphasis effect="italics">elative wage coordination argument</emphasis></foreign>)</term>
+      <meaning id="fs-idp48586016">
+        <para id="UUIDbd89476d-1672-4fdf-5458-16485565c514">ogólna/powszechna redukcja płac w całej gospodarce jest trudna do przeprowadzenia, gdyż wystawia pracodawców na silną pokusę niedotrzymania porozumienia; konsekwencją jest brak akceptacji pracowników dla takich propozycji</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

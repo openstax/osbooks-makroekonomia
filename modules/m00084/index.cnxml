@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U7d5c823b-27ae-4654-83fd-32a329a69a41" id="U7d5c823b-27ae-4654-83fd-32a329a69a41" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do globalizacji i protekcjonizmu</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00084</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/7d5c823b-27ae-4654-83fd-32a329a69a41</md:content-url>
+    <md:title>Wprowadzenie do globalizacji i protekcjonizmu</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:06.402349032+00:00</md:version>
+    <md:created>2023-08-30T08:02:06.402349032+00:00</md:created>
+    <md:revised>2023-08-30T08:02:06.402349032+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>7d5c823b-27ae-4654-83fd-32a329a69a41</md:uuid>
+  </metadata>
+  <content>
+    <figure id="CNX_Econ_C34_000" class="splash">
+      <title id="UUID1986fdb2-b094-44de-5dc2-de583ef5979e">Konkurencja w produkcji płaskich ekranów</title>
+      <media alt="Zdjęcie przedstawia komputery stacjonarne, laptopy i inne urządzenia elektroniczne wyposażone w ekrany." id="fs-idm27088624">
+        <image src="../../media//CNX_Econ_C34_000.jpg" mime-type="image/jpeg" id="UUIDe53cc04d-ba4f-4ec6-50af-f4e0b3f5469b" />
+      </media>
+      <caption id="UUID1c18d2cd-cb53-4542-465e-7aed68a7a9c3">Rynek płaskich wyświetlaczy w Stanach Zjednoczonych jest ogromny. Tamtejsi wytwórcy muszą konkurować z producentami z całego świata. (Źródło: modyfikacja pracy “Jemimus”/Flickr Creative Commons).</caption>
+    </figure>
+    <note type="note" id="fs-idm31009504" class="bringhome economics">
+      <title id="UUID4d0e9713-f0f1-4b2d-79a9-be72ff5d9d06">Jakie są wady protekcjonizmu?</title>
+      <para id="UUID2fbf1ec3-0d0f-4396-7f8e-5e5c36734952">Rządy są zmotywowane do ingerowania w rynkową alokację dochodów, dóbr i usług oraz majątku dla osiągnięcia celów politycznych lub społecznych. Chociaż władze mogą ograniczyć wzrost cen niektórych produktów, nie są w stanie kontrolować tego, ile ludzie chcą kupować, ani wolumenu produkcji przedsiębiorstw. Nawet na rynkach poddanych kontroli w dalszym ciągu obowiązywać będą prawa popytu i podaży. Polityka handlowa może wprawdzie ograniczyć zakres i miejsce oddziaływania mechanizmów ekonomicznych, jednak osłabiane w jednym miejscu, zamanifestują swojej siły w innym.</para>
+      <para id="UUIDb931e6ec-3bad-48fa-6c10-de35de64c981">Przykładem działania takiego mechanizmu jest produkcja i sprzedaż monitorów komputerowych, wyświetlaczy do laptopów, tabletów i telewizorów. Na początku lat 90. ub. w. zdecydowana większość płaskich wyświetlaczy stosowanych w laptopach produkowanych w USA była importowana, głównie z Japonii. Niewielki, ale politycznie wpływowy amerykański przemysł płaskich wyświetlaczy poskarżył się w Departamencie Handlu na dumping obcych firm. Przedstawiciele amerykańskich przedsiębiorstw argumentowali wówczas, że Japończycy sprzedają wyświetlacze „poniżej wartości godziwej”, co utrudnia konkurowanie firmom z USA. Ten powód ochrony krajowego rynku jest zazwyczaj nazywany działaniem antydumpingowym. Inne argumenty przywołane przez amerykańskich producentów odwoływały się do kwestii bezpieczeństwa narodowego. Po wstępnym dochodzeniu przeprowadzonym przez Departament Handlu, którego efektem była konstatacja, że japońskie firmy faktycznie dumping stosowały, Komisja Handlu Międzynarodowego Stanów Zjednoczonych nałożyła 63-procentowe cło (anty)dumpingowe (lub podatek) na import płaskich wyświetlaczy z Japonii. Czy było to dla USA korzystne posunięcie? Przemyśl to i sprawdź, czy pod wpływem lektury niniejszego rozdziału twoje poglądy nie ulegną zmianie.</para>
+    </note>
+    <note type="note" id="fs-idp51241312" class="chapter-objectives economics">
+      <title id="UUID76a1fc6d-8ec5-4f35-6a47-847d58be239e">Wprowadzenie do tematu globalizmu i protekcjonizmu</title>
+      <para id="fs-idp108781760">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idp50530768">
+        <item id="UUID398d10d9-8c34-4ab2-427a-1f13b9f3f6f0">
+          <para id="UUID405411e8-d10a-439b-5268-64f1cab474f3">Dlaczego protekcjonizm może być uznany za pośrednią subwencję, jaką konsumenci danego dobra przekazują jego producentom</para>
+        </item>
+        <item id="UUID1e2d37ef-a551-41cd-4847-d3db4027289d">
+          <para id="UUIDc54593fa-ff7f-4631-74b9-392b90a053b6">W jaki sposób handel międzynarodowy wpływa na liczbę miejsc pracy, wysokość płac oraz warunki pracy</para>
+        </item>
+        <item id="UUID2fe4bb39-3167-4903-4960-e09f5e0acc70">
+          <para id="UUID5d2b7215-ba29-4fb0-5849-11010d78901c">Jakie argumenty mogą uzasadniać ograniczenia importu</para>
+        </item>
+        <item id="UUID76d839f7-cc66-4a58-62c8-735902c29dd2">
+          <para id="UUIDbd1e55cb-7857-46bc-4685-92fafd2dbc81">W jaki sposób polityka handlowa jest wdrażana na szczeblu globalnym, regionalnym i krajowym</para>
+        </item>
+        <item id="UUID8ba39b5f-3efc-4817-5a59-bc0ee281706f">
+          <para id="UUIDa8d9e191-f29d-4950-521b-45bb8a1e3d7c">Z jakimi wyborami typu „coś za coś” mamy do czynienia w przypadku polityki handlowej</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idm27784032" />
+    <para id="UUIDe58097e6-ecaa-410d-6c74-2570aa415d8a">Począwszy od drugiej połowy XX w. świat stał się znacznie bardziej zintegrowany pod wieloma względami, zwłaszcza ekonomicznym. W 1970 r. import i eksport stanowiły 11% PKB USA, podczas gdy obecnie jest to już 32%. Jednak Stany Zjednoczone, ze względu na rozmiary swojej gospodarki, są mniej uzależnione od handlu zagranicznego niż większość rozwiniętych państw świata. Na przykład według Banku Światowego 97% działalności gospodarczej Botswany jest związane z handlem zagranicznym. W tym rozdziale omówimy politykę handlową – prawa i strategie stosowane przez państwa do regulowania handlu międzynarodowego. Temat ten nie jest pozbawiony kontrowersji. </para>
+    <para id="UUID2188f5d1-dca2-4ce5-4ab4-a4bff1b43680">Ponieważ gospodarka światowa podlega daleko idącej globalizacji, firmy i pracownicy w krajach o wysokich dochodach, takich jak Stany Zjednoczone, Japonia lub członkowie Unii Europejskiej, dostrzegają zagrożenie konkurencyjne ze strony firm z państw o średnich dochodach, takich jak Meksyk, Chiny czy Południowa Afryka, które mają niższe koszty życia, dlatego wypłacają swoim pracownikom niższe wynagrodzenia. Firmy i zatrudnieni w krajach o niskich dochodach niepokoją się z kolei, że ucierpią, jeśli będą musieli konkurować z bardziej produktywnymi pracownikami i zaawansowaną technologią, jaką dysponują gospodarki o wysokich dochodach. </para>
+    <para id="UUIDf368410d-68b2-44ab-7d1d-50ce5a148429">Z drugiej strony niektórzy ekolodzy obawiają się, że międzynarodowe firmy mogą ominąć przepisy dotyczące ochrony środowiska, przenosząc produkcję do państw o znacznie mniej restrykcyjnych lub po prostu nieistniejących normach zanieczyszczeń, co wprawdzie poprawi stan powietrza, wód i gleby w krajach rozwiniętych, za to drastycznie zmniejszy w nich liczbę miejsc pracy. Niektórzy politycy wyrażają obawy, że ich kraj może stać się nadmiernie zależny od importu kluczowych produktów, takich jak ropa naftowa, gaz ziemny czy metale ziem rzadkich, co w wypadku konfliktu zbrojnego może zagrozić bezpieczeństwu narodowemu. Wszystkie te wątpliwości skłaniają rządy do formułowania strategii politycznych polegających na ochronie zarówno bezpieczeństwa narodowego, jak i miejsc pracy, a tym samym dochodów ludności. Strategie te, mimo górnolotnego zazwyczaj brzmienia konkretnych przepisów w nich zawartych, sprowadzają się po prostu do ograniczenia importu z krajów trzecich. W niniejszym rozdziale przeanalizowano argumenty najczęściej przywoływane na obronę takiego sposoby postępowania. Najpierw jednak musimy zapoznać się z kilkoma kluczowymi pojęciami z obszaru polityki handlowej i zrozumieć, w jaki sposób model popytu i podaży odnosi się do handlu międzynarodowego.</para>
+  </content>
+</document>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub99abadf-07b4-4b4b-b19a-8406ffcbe467" id="Ub99abadf-07b4-4b4b-b19a-8406ffcbe467" xml:lang="en" cnxml-version="0.7">
+  <title>16.5 Kompromisy w polityce handlowej</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00089</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/b99abadf-07b4-4b4b-b19a-8406ffcbe467</md:content-url>
+    <md:title>16.5 Kompromisy w polityce handlowej</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:06.627213215+00:00</md:version>
+    <md:created>2023-08-30T08:02:06.627213215+00:00</md:created>
+    <md:revised>2023-08-30T08:02:06.627213215+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>b99abadf-07b4-4b4b-b19a-8406ffcbe467</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID4ac92b40-78bc-49d0-55b8-03c4f5e2ee20" class="learning-objectives">
+      <para id="para-00001">Pod przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID2f6fb7f1-1ecc-47b0-4cbe-3b4127e9c20b">
+          <para id="UUID511103a4-5f07-4e37-6c3b-b4ec3fe050a3">Ocenić w pełni złożoność handlu międzynarodowego</para>
+        </item>
+        <item id="UUID5de5aff6-8a4d-4af1-7d93-4fa021fd6638">
+          <para id="UUIDacef9926-5662-41c3-67e0-c5c84d31a299">Wskazać powody, dla których handel międzynarodowy tak bardzo wpływa na gospodarkę zorientowaną na rynek</para>
+        </item>
+        <item id="UUID2d437006-e765-40d2-5680-0e25b46bbf00">
+          <para id="UUID399aac4d-bb65-4293-40c6-958a5ea8a366">Wyjaśnić pojęcie i znaczenie „przełomowej zmiany na rynku”</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDa61c8d82-1228-464f-6b39-07e8e017039c">Ekonomiści chętnie przyznają, że handel międzynarodowy to nie tylko sielanka i sukcesy. Z biegiem czasu przeciętny człowiek zyskuje na handlu międzynarodowym, zarówno jako pracownik, który ma większą produktywność i wyższe zarobki ze względu na korzyści płynące ze specjalizacji i przewagi komparatywnej, jak i jako konsument, mogący czerpać korzyści z zakupów bardziej różnorodnych towarów wytwarzanych na całym świecie, o wysokiej jakości, w atrakcyjnych cenach. „Przeciętna osoba” jest jednak lubianym przez ekonomistów konstruktem teoretycznym, a nie realnie istniejącym człowiekiem – reprezentuje mieszankę tych, którym poszło bardzo dobrze, tych, którym poszło dobrze, i tych, którym poszło zupełnie źle. Politycy powinni koncentrować swoje wysiłki nie tylko na „przeciętnych osobach” i niewątpliwych historiach sukcesu, ale także na tych, którzy szczęścia nie mieli. Wśród ważnych kwestii związanych z handlem międzynarodowym należy jeszcze raz wskazać pracowników w innych krajach (szczególnie tych o średnich i niskich dochodach), środowisko naturalne, perspektywy dla nowych gałęzi przemysłu, jak również obronność i kluczowe interesy gospodarki narodowej.</para>
+    <para id="UUID3f63911e-b912-4e8f-7ebe-115130ce17ee">Wśród ekonomistów panuje powszechne przekonanie, że lepiej jest czerpać korzyści płynące z handlu zagranicznego, nawet jeżeli w konsekwencji trzeba będzie radzić sobie ze wskazanymi wyżej kosztami i <term cmlnle:reference="wybór typu &quot;coś za coś&quot;" id="UUID70d8939d-26f1-48f4-5bc2-894dbc0e9569">wyborami typu "coś za coś"</term> (<foreign xml:lang="en" id="UUIDce604662-dfbd-41a0-4140-66ebc61d0bdb">tradeoffs</foreign>), niż całkowicie rezygnować z wymiany handlowej z zagranicą, aby uniknąć konieczności ich ponoszenia.</para>
+    <para id="UUID827c4af3-0075-4f23-4d8d-0a509cb58644">Aby uzyskać lepsze intuicyjne zrozumienie tego argumentu, wyobraźmy sobie hipotetyczną amerykańską firmę o nazwie Technotron. Technotron opracowuje nową technologię, która pozwala firmie zwiększyć wydajność i jakość swoich towarów przy mniejszej liczbie pracowników i tym samym przy niższych kosztach. W wyniku tej technologii inne amerykańskie firmy z tej branży stracą pieniądze i będą musiały zwolnić pracowników, a niektóre nawet zbankrutują. Czy rząd Stanów Zjednoczonych powinien chronić istniejące firmy i ich pracowników, zakazując Technotronowi korzystania z nowej technologii? Większość ludzi żyjących w gospodarkach zorientowanych na rynek sprzeciwiałaby się blokowaniu lepszych produktów, które obniżają koszt towarów i usług. Z pewnością istnieje sytuacja, w której społeczeństwo zapewnia tymczasowe wsparcie i pomoc tym, którzy znajdują się bez pracy. Wiele osób opowiada się za wsparciem w postaci rządowych programów zachęcających do przekwalifikowania się i nabywania dodatkowych umiejętności. Rząd może również wspierać wysiłki badawczo-rozwojowe, aby inne firmy mogły znaleźć sposoby na prześcignięcie Technotronu. Całkowite zablokowanie nowej technologii wydaje się jednak błędem. W końcu niewiele osób opowiedziałoby się za rezygnacją z elektryczności, ponieważ uderzy ona w producentów nafty i świec. Niewielu sugerowałoby powstrzymanie się od ulepszeń w technologii medycznej, ponieważ mogą one spowodować utratę pieniędzy przez firmy sprzedające pijawki i olej z węża. Krótko mówiąc, większość ludzi postrzega zakłócenia spowodowane zmianami technologicznymi jako konieczny koszt, który z pewnością warto ponieść.</para>
+    <para id="UUIDcb700afc-0b2a-4b92-45b4-415c11a451c4">Teraz wyobraź sobie, że nowa „technologia” Technotronu jest niezwykle prosta: firma importuje po prostu to, co sprzedaje inny kraj. Innymi słowy, pomyśl o handlu zagranicznym jako o rodzaju innowacyjnej technologii. Obiektywnie rzecz biorąc, sytuacja jest teraz dokładnie taka sama jak wcześniej. Z powodu nowej technologii Technotronu – który w tym przypadku importuje towary z innego kraju – inne firmy z tej branży stracą pieniądze i zwolnią pracowników. Tak jak niewłaściwe i ostatecznie nierozsądne byłoby reagowanie na zakłócenia wywołane przez nową technologię jej zakazywaniem, tak samo niewłaściwe i ostatecznie niemądre byłoby reagowanie na zakłócenia w handlu międzynarodowym poprzez próby ograniczania jego skali.</para>
+    <para id="UUID3c86ac7b-699e-4f79-7b9a-c055fe752ea4">Oczywiście, niektórzy pracownicy i firmy z powodu handlu międzynarodowego ucierpią. W żywej gospodarce zorientowanej na rynek niektórzy pracownicy i firmy zawsze będą doświadczać zakłóceń z wielu różnych powodów. Zarządzanie przedsiębiorstwem może być lepsze lub gorsze. Pracownicy pewnej firmy mogą być mniej lub bardziej wydajni. Twardzi krajowi konkurenci mogą wywołać tyle samo zaburzeń, co twardzi konkurenci zagraniczni. Czasami nowy produkt jest hitem wśród konsumentów, a czasami porażką. Czasem firma ma szczęście, a czasem pecha. Dla niektórych firm handel międzynarodowy będzie oznaczał ogromne możliwości zwiększenia produktywności i miejsc pracy, innym przyniesie stres i ból. Zakłócenia wywołane przez handel międzynarodowy nie różnią się zasadniczo od wszystkich innych zakłóceń spowodowanych mechanizmami gospodarki rynkowej.</para>
+    <para id="UUID3c33055b-5a4c-4311-7c93-a41a93ba5129">Innymi słowy, analiza ekonomiczna pozbawionego barier handlu zagranicznego nie opiera się na przekonaniu, że międzynarodowa wymiana handlowa nie może być destrukcyjna dla niektórych gałęzi lokalnego przemysłu, ani nie konfrontuje nas (producentów, konsumentów i polityków) z wyborami typu „coś za coś”. W rzeczywistości historia Technotronu zaczyna się od szczególnej <term cxlxt:index="default" cmlnle:reference="przełomowa zmiana na rynku" id="UUIDa845cf78-2031-4ad8-6448-1aab989277a8">przełomowej zmiany na rynku</term> (<foreign xml:lang="en" id="UUID75f68e78-326f-4804-6c33-e6f2a8ad7848"><term cxlxt:index="foreign" id="UUIDd8ffa82d-2841-4f73-7b0f-fc662da53526">disruptive market change</term></foreign>) – nowej technologii (lub używając pojęcia wprowadzonego przez J. Schumpetera, po prostu innowacji) – która powoduje konieczność skonfrontowania się z nową sytuacją. Najlepsze rozwiązania z zakresu polityki publicznej przeciwdziałające lub łagodzące zakłócenia wywołane przez handel zagraniczny zazwyczaj nie uwzględniają praktyk protekcjonistycznych. Są to raczej sposoby rozwiązywania konkretnych problemów wynikających z tych zakłóceń, kosztów i kompromisów, przy jednoczesnym możliwie nieograniczonym czerpaniu korzyści z handlu międzynarodowego.</para>
+    <note type="note" id="fs-idm61926864" class="bringhome economics">
+      <title id="UUIDe1e92777-3955-4910-65e3-e586fb8bd1c5">Jakie są wady protekcjonizmu?</title>
+      <para id="UUID91d3624c-b214-4857-7aa4-c1c061b90d14">Amerykański krajowy przemysł płaskich wyświetlaczy zatrudniał wielu pracowników, zanim ITC (komisja handlu międzynarodowego) nałożyła podatek marżowy od dumpingu na importowane substytuty. Wyświetlacze stanowią znaczną część kosztów produkcji laptopów, sięgającą nawet 50%. W związku z tym podatek antydumpingowy znacznie zwiększył koszt, a tym samym cenę laptopów produkowanych w USA. W wyniku decyzji ITC Apple przeniósł swoją krajową fabrykę komputerów Macintosh do Irlandii (gdzie już jedną miał). Toshiba zamknęła amerykańską fabrykę laptopów. A IBM porzucił plany otwarcia fabryki laptopów w Karolinie Północnej i postanowił zwiększyć moce produkcyjne w swoim zakładzie w Japonii. W tym przypadku zamiast ochronić interesy USA i zapewnić krajowym producentom przewagę nad produktami wytwarzanymi gdzie indziej, podatek antydumpingowy przyniósł całkowicie niezamierzony efekt – przeniesienie do innych krajów produkcji dóbr wykorzystujących płaskie ekrany jako komponent wyrobów gotowych. Wiele osób straciło pracę, a większość produkcji płaskich wyświetlaczy odbywa się obecnie poza USA.</para>
+    </note>
+    <section id="fs-idp140909280" class="summary">
+      <title id="UUID1fccbb93-19b5-4a77-64fa-20a840fa5210">Key Concepts and Summary</title>
+      <para id="UUIDd662aba3-4f57-4521-7844-1a7d282536da">Handel międzynarodowy z pewnością ma wpływ na dystrybucję dochodów. Trudno się temu dziwić. Wszystkie krajowe lub międzynarodowe konkurencyjne siły rynkowe są do pewnego stopnia destrukcyjne. Sukces rynkowy jednych zazwyczaj oznacza co najmniej kłopoty innych, a niekiedy wręcz konieczność wycofania się z danej branży. Rząd ma do odegrania swoją rolę w zabezpieczaniu pracowników przed zakłóceniami na rynku. Jednak tak jak na dłuższą metę nierozsądne byłoby ograniczanie powstawania w kraju nowych technologii i innych czynników wpływających na sytuację rynkową, tak niewskazane jest ograniczanie skali handlu zagranicznego. W obu przypadkach zakłócenia niosą ze sobą korzyści ekonomiczne, których skala znacznie przekracza potencjalne straty.</para>
+    </section>
+    <section id="fs-idm160373168" class="self-check-questions">
+      <title id="UUID5413c9af-fd65-42d6-6a22-30397701e91c">Self-Check Questions</title>
+      <exercise id="fs-idm150665440">
+        <problem id="fs-idm112453136">
+          <para id="fs-idm60516016">Jak konkurencja, niezależnie od tego, czy krajowa, czy zagraniczna, może szkodzić przedsiębiorstwom?</para>
+        </problem>
+        <solution id="fs-idm153313664">
+          <para id="UUID0d461523-a3bc-4ccb-5b3b-c540fa10c485">Konkurencja ze strony firm oferujących lepsze lub tańsze produkty może zmniejszyć zyski firmy i doprowadzić ją do wycofania się z prowadzonej działalności. W konsekwencji jej pracownicy tracą dochody, a nawet pracę.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm132633744">
+        <problem id="fs-idm83495312">
+          <para id="fs-idm3924224">Jakie są korzyści z konkurencji?</para>
+        </problem>
+        <solution id="fs-idm125317232">
+          <para id="UUIDe2a74e0d-9310-4979-4757-0c6db640d07e">Konsumenci otrzymują lepsze i/lub tańsze produkty. Firmy z lepszymi lub tańszymi produktami zwiększają swoje zyski. Pracownicy tych firm zarabiają więcej. W sumie zyski przeważają nad stratami.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp66486608" class="review-questions">
+      <title id="UUID9ae1fa06-4d1c-4503-53af-baa9b0e55dda">Review Questions</title>
+      <exercise id="fs-idp83180496">
+        <problem id="fs-idp10608992">
+          <para id="fs-idp61812288">Kto zyskuje, a kto traci na handlu zagranicznym?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm10434944">
+        <problem id="fs-idp100490896">
+          <para id="fs-idp151358304">Dlaczego handel międzynarodowy jest czynnikiem korzystnym, jeśli niektórzy ludzie z jego powodu ponoszą poważne straty?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp93094176">
+        <problem id="fs-idp41646064">
+          <para id="fs-idp93698400">W jaki sposób rządy mogą pomóc ludziom, którzy tracą w związku z handlem zagranicznym?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp23849008" class="critical-thinking">
+      <title id="UUIDad71050c-d886-4c84-48d8-00582755ca64">Critical Thinking Questions</title>
+      <exercise id="fs-idp77298640">
+        <problem id="fs-idm67199040">
+          <para id="fs-idm69847264">Wskaż przykłady innowacyjnych produktów, które zrewolucjonizowały wytwarzające je branże.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp51575728">
+        <problem id="fs-idp22950384">
+          <para id="UUIDc0eaff8d-726e-4702-6dec-22b445fce707">Zasadniczo korzyści z handlu międzynarodowego dla danego kraju przewyższają koszty, bez względu na to, czy kraj importuje, czy eksportuje. W praktyce jednak nie zawsze możliwa jest pełna rekompensata kosztów poniesionych przez przegranych w danym kraju, na przykład pracowników tracących pracę z powodu importu z zagranicy. Czy twoim zdaniem oznacza to, że aby zapobiec takim kosztom, handel powinien zostać zahamowany?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm68528608">
+        <problem id="fs-idm78009344">
+          <para id="UUID173b89df-a8ca-4428-4433-390ad9cfc80d">Ekonomiści czasami mówią, że protekcjonizm jest dopiero „drugim najlepszym” wyborem, jeśli myślimy o sposobach radzenia sobie z konkretnymi trudnościami wywołanymi przez handel zagraniczny. Istnieją bowiem inne instrumenty polityki ekonomicznej, które działają bardziej bezpośrednio lub skuteczniej łagodzą dany problem, pozwalając jednocześnie osiągać korzyści z handlu zagranicznego. Wyjaśnij, dlaczego protekcjonizm jest „drugim najlepszym” wyborem w przypadku:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp52429744">
+            <item id="UUID99345079-eab4-4e52-7c89-b87cd92c48d3">
+              <para id="UUID6dbdaf13-52ef-4188-7d2c-e123180432c1">pomocy pracownikom, którzy tracą stanowiska pracy,</para>
+            </item>
+            <item id="UUID2d7cf7e3-44ef-4491-4623-519da100f1a1">
+              <para id="UUID9b47f527-7b09-46a6-57b4-a19225069c3e">ochrony wybranych branż,</para>
+            </item>
+            <item id="UUIDc88c6516-bf99-45f3-6759-3acce01efd76">
+              <para id="UUIDd34bc353-317a-46f7-5239-cc4c08064eab">ochrony środowiska,</para>
+            </item>
+            <item id="UUID3e710d15-4236-41ad-4a59-e065e30b76f8">
+              <para id="UUIDa9244b7f-b968-4a4a-7965-68d972574fb4">obrony narodowej.</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm2607104">
+        <problem id="fs-idm50909344">
+          <para id="UUID199e8561-f95c-42b3-49c7-99b6f956b5b8">Handel ma wpływ na dystrybucję dochodów. Załóżmy na przykład, że z powodu przystąpienia Polski do UE wzrastają obroty handlowe pomiędzy Niemcami a Polską. Niemcy sprzedają lakiery i farby do Polski. Polska wysyła do Niemiec meble. Czy twoim zdaniem taki model handlu zwiększy lub zmniejszy liczbę miejsc pracy i płace w przemyśle lakierniczym w Niemczech? A co z branżą meblarską w tym kraju? Jak wpłynie to na przemysł lakierniczy i produkcję mebli w Polsce? Co musi się stać, aby łączna liczba osób bezrobotnych w obu krajach nie wzrosła?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp17862576" class="references">
+      <title id="UUIDbf22036f-a868-44ca-566e-99304f65880e">References</title>
+      <para id="fs-idp35791328">E. Helpman, and O. Itskhoki, “Labour Market Rigidities, Trade and Unemployment,” <emphasis effect="italics">The Review of Economic Studies</emphasis>, 77. 3 (2010): 1100-1137.</para>
+      <para id="fs-idm83409616">M.J. Melitz, and D. Trefler. “Gains from Trade when Firms Matter.” <emphasis effect="italics">The Journal of Economic Perspectives</emphasis>, 26.2 (2012): 91-118.</para>
+      <para id="fs-idp69178528">Rauch, J. “Was Mancur Olson Wrong?” <emphasis effect="italics">The American</emphasis>, February 15, 2013. http://www.american.com/archive/2013/february/was-mancur-olson-wrong.</para>
+      <para id="fs-idp15572576">Office of the United States Trade Representative. “U.S. Trade Representative Froman Announces FY 2014 WTO Tariff-Rate Quota Allocations for Raw Cane Sugar, Refined and Specialty Sugar and Sugar-Containing Products.”Accessed January 6, 2014. http://www.ustr.gov/about-us/press-office/press-releases/2013/september/WTO-trq-for-sugar.</para>
+      <para id="fs-idm84722128">The World Bank. “Merchandise trade (% of GDP).” Accessed January 4, 2014. http://data.worldbank.org/indicator/TG.VAL.TOTL.GD.ZS.</para>
+      <para id="eip-676">World Trade Organization. 2014. “Annual Report 2014.” Accessed April 1, 2015. https://www.wto.org/english/res_e/booksp_e/anrep_e/anrep14_chap10_e.pdf.</para>
+    </section>
+  </content>
+  <glossary id="UUIDdd782099-b6b7-4101-530b-8a5306bd6561">
+    <definition id="fs-idp80967808">
+      <term id="UUID2e368474-0865-4ff1-7d04-b34e8046b5fa">przełomowa zmiana na rynku/innowacja (<foreign xml:lang="en" id="UUIDbcaa1e25-2b40-4cba-52d0-e20cdd8a33dc">disruptive market change</foreign>)</term>
+      <meaning id="fs-idm7739200">
+        <para id="UUID3ebe1ee9-73af-448a-5950-34053a342ae6">innowacyjny nowy produkt lub technologia produkcji, które zakłócają status quo na rynku, pozwalając innowatorom osiągnąć większe zyski, a dla innych przedsiębiorstw oznaczają utratę dochodów, jeśli nie będą potrafiły wprowadzić własnych innowacji</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

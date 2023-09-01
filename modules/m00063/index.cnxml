@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U95614fbc-9f48-4f5e-bc4d-e7056267e500" id="U95614fbc-9f48-4f5e-bc4d-e7056267e500" xml:lang="en" cnxml-version="0.7">
+  <title>12.2 Federal Deficits and the National Debt</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00063</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/95614fbc-9f48-4f5e-bc4d-e7056267e500</md:content-url>
+    <md:title>12.2 Federal Deficits and the National Debt</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:05.142508823+00:00</md:version>
+    <md:created>2023-08-30T08:02:05.142508823+00:00</md:created>
+    <md:revised>2023-08-30T08:02:05.142508823+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>95614fbc-9f48-4f5e-bc4d-e7056267e500</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <list id="list-00001">
+      <item id="UUID2d241afb-5660-4ad9-7c3f-efb07f21875c">
+        <para id="UUIDd99fb515-61d2-452a-7462-ee36e5493e98">Opisać budżet federalny USA w kategoriach rocznego i skumulowanego długu</para>
+      </item>
+      <item id="UUIDc6b6dd3c-c6e6-456a-714c-276f263d11fe">
+        <para id="UUIDf1c4523c-aae4-41d1-637c-c436c993ebc8">Wyjaśnić, w jaki sposób wzrost gospodarczy i recesja wpływają na możliwość powstania nadwyżki budżetowej i deficytu budżetowego.</para>
+      </item>
+    </list>
+    <para id="fs-idm125221504">Po omówieniu <term cmlnle:reference="dochód budżetu państwa" id="UUID5799f195-ebc5-4ba3-6b4d-972b6f177c3e">dochodów budżetu państwa</term> (<foreign xml:lang="en" id="UUIDfbe04ecb-364c-4141-757e-92e1387d3e8b"><term id="UUIDd71fc5b5-f215-428e-578b-29fa05e398d6">budget revenue</term></foreign>) i wydatków budżetowych przechodzimy do analizy deficytu i nadwyżki budżetowej, czyli różnicy między dochodami państwa (w tym wpływami podatkowymi) a wydatkami w ciągu roku podatkowego. W Stanach Zjednoczonych rozpoczyna się on 1 października, a kończy 30 września następnego roku, w Polsce zaś rok budżetowy pokrywa się z kalendarzowym.</para>
+    <para id="UUID8ae1192b-0a4d-4b28-4ff0-2635bcc807b0"><link target-id="CNX_Econ_C30_006" id="UUID672d7c59-7ca2-47bb-4ce7-d3bc5e1d9654" /> pokazuje saldo (nadwyżkę, równowagę lub deficyt) budżetu federalnego Stanów Zjednoczonych (jako procent PKB) od 1930 r. Gdy krzywa znajduje się powyżej osi poziomej, budżet państwa wykazuje nadwyżkę. Gdy krzywa schodzi poniżej osi poziomej, oznacza to deficyt budżetowy. Największy deficyt (jako procent PKB) wystąpił w okresie II wojny światowej. Wysokie deficyty notowano również w latach 30. i 80. XX w., na początku lat 90. XX w., a także podczas recesji w latach 2008–2009.</para>
+    <figure id="CNX_Econ_C30_006">
+      <title id="UUID97e92760-5257-4264-4b02-fa408637cda4">Saldo budżetu federalnego USA (% PKB), 1929–2020</title>
+      <media alt="Wykres pokazuje, że deficyt budżetu federalnego USA (w relacji do PKB) gwałtownie wzrósł między późnymi latami 30. a połową lat 40. XX w. W 2009 r. deficyt wyniósł ok. 10% PKB. W 2014 r. był on bliski 3% PKB." id="fs-idm144610288">
+        <image src="../../media//CNX_Econv1-2_C30_07.svg" mime-type="image/svg+xml" id="UUIDc20e2d7e-f299-4e55-6070-54d1a8730e49" />
+      </media>
+      <caption id="UUID109ddd24-e073-4a72-4119-b347a247951a">Rząd federalny od dziesięcioleci notuje deficyt budżetowy. Pod koniec lat 90. XX w. budżet przez krótki czas wykazywał nadwyżkę, po czym w pierwszej dekadzie XXI w. ponownie pojawił się deficyt, który był szczególnie głęboki podczas recesji w latach 2008–2009. (Źródło: Bank Rezerwy Federalnej w St. Louis (FRED) http://research.stlouisfed.org/fred2/series/FYFSGDA188S).</caption>
+    </figure>
+    <section id="fs-idp121260656">
+      <title id="UUID4093c361-d7c0-4bea-665a-7d7c473982b1">Dług publiczny</title>
+      <para id="fs-idp32725808">Innym użytecznym sposobem analizy deficytu budżetowego jest podejście wykorzystujące poziom skumulowanego zadłużenia.<term id="UUIDfd79cd5d-bccb-4710-7c90-ef500593ed81">Dług publiczny</term> (<foreign xml:lang="en" id="UUID94618500-2c7d-4c87-5208-4bcc72411316"><term id="UUID3eeb23e4-727a-40d8-476d-59f7fecba55b">national debt, public debt</term></foreign>) to całkowita kwota, którą rząd pożyczył i jeszcze nie spłacił. Natomiast deficyt budżetowy pokazuje, ile pieniędzy rząd pożyczył w jednym konkretnym roku. <link target-id="CNX_Econ_C30_007" id="UUID6f0b0604-d7f5-4920-5af9-4b3bfc3554fa" /> przedstawia stosunek długu publicznego do PKB w Stanach Zjednoczonych od 1966 r. Począwszy od drugiej połowy lat 60. XX w. dług publiczny w USA przez kolejne 20 lat nieustanie malał. Wysokie deficyty budżetowe w latach 80. i na początku lat 90. XX w. spowodowały gwałtowny wzrost relacji długu do PKB. Z kolei, kiedy w latach 1998–2001 rząd osiągnął nadwyżkę budżetową, dług publiczny znacznie spadł. W następnych latach, począwszy od 2002 r., ponownie pojawił się deficyt budżetowy, który doprowadził do wzrostu długu publicznego (liczonego jako odsetek PKB) – duży skok został zanotowany zwłaszcza w okresie recesji 2008–2009.</para>
+      <para id="UUID212f95c2-4faa-4bc0-78fb-b8b665b24059" />
+      <figure id="CNX_Econ_C30_007">
+        <title id="UUIDdefdc5ef-7add-4241-72e5-d29fde7a0dda">Dług publiczny rządu federalnego USA (% PKB), 1966–2020</title>
+        <media alt="Wykres pokazuje, że dług publiczny rządu federalnego USA (w relacji do PKB) rósł, począwszy od połowy lat 80. ub. wieku. Szczególnie szybki wzrost długu publicznego miał miejsce podczas recesji w roku 2009, kiedy to przekroczył poziom 60% PKB." id="fs-idm1841680">
+          <image src="../../media//CNX_Econv1-2_C30_08.svg" mime-type="image/svg+xml" id="UUID636d1460-8e86-4bc9-7b4a-241143fa1ede" />
+        </media>
+        <caption id="UUIDc3c3d849-4c15-4737-4a0c-3baf0a5fd566">Dług publiczny rządu federalnego USA to skumulowana, niespłacona suma rocznych deficytów i nadwyżek budżetowych. Deficyt budżetowy nie zawsze oznacza wzrost relacji długu publicznego do PKB. W latach 60. i 70. XX w. rząd często notował niewielki deficyt budżetowy, ale ponieważ wzrost zadłużenia był niższy niż wzrost PKB, stosunek długu publicznego do PKB malał. Podczas recesji w latach 2008–2009 dług publiczny (w relacji do PKB) gwałtownie wzrósł. (Źródło: Raport ekonomiczny Prezydenta, Economic Report of the President, Tabela B-20, http://www.gpo.gov/fdsys/pkg/ERP-2015/content-detail.html).</caption>
+      </figure>
+      <para id="UUID0e0abb5a-6d74-445f-48af-51e77f7009ce">Poniższa ramka „Poznaj szczegóły” pokazuje, w jaki sposób rząd radzi sobie z długiem publicznym.</para>
+      <note type="note" id="fs-idm108397376" class="clearup economics">
+        <title id="UUIDca8c638c-1e5f-4000-58d0-b38857390f52">Czym jest dług publiczny?</title>
+        <para id="fs-idm86003264">Deficyt budżetu państwa powoduje, że rząd sprzedaje obligacje i bony skarbowe na rynku, aby pokryć różnicę między wydatkami a dochodami budżetu państwa. Wartość wszystkich pozostających w obiegu rządowych papierów dłużnych, które muszą zostać przez państwo odkupione, jest równa długowi publicznemu.</para>
+      </note>
+    </section>
+    <section id="fs-idp55032960">
+      <title id="UUID083a8c75-cc6f-44e7-6708-b74a30324ee1">Droga od deficytów do nadwyżek i z powrotem</title>
+      <para id="fs-idp93077808">Dlaczego deficyty budżetowe nagle zmieniły się w nadwyżkę budżetową w latach 1998–2001, a następnie od 2002 r. znów pojawiły się deficyty? Dlaczego deficyt stał się tak bardzo wysoki po 2007 r.? <link target-id="CNX_Econ_C30_008" id="UUID8c2652a6-6e2b-4b06-6e80-308dcae3f474" /> sugeruje kilka odpowiedzi. Wykres przedstawia wcześniej prezentowane dane dotyczące całkowitych wydatków i dochodów podatkowych rządu federalnego USA w sposób umożliwiający odczytanie salda budżetowego od 1990 r.</para>
+      <figure id="CNX_Econ_C30_008">
+        <title id="UUID2ff66884-d749-4f7b-4937-647cc558a29c">Całkowite wydatki i dochody podatkowe rządu federalnego w USA (% PKB), 1990–2020</title>
+        <media alt="Wykres pokazuje, że wydatki państwa i dochody podatkowe zmieniają się w przeciwnych kierunkach. W 1990 r. wydatki ogółem rządu federalnego wynosiły ok. 22% PKB, a wpływy z podatków kształtowały się na poziomie nieco poniżej 18% PKB. W 2014 r. całkowite wydatki rządu były na poziomie ok. 22% PKB, zaś wpływy z podatków – ok. 17% PKB." id="fs-idp64370432">
+          <image src="../../media//CNX_Econv1-2_C30_09.svg" mime-type="image/svg+xml" id="UUIDdb8d3f43-b211-402d-6b06-1aab3836d5fb" />
+        </media>
+        <caption id="UUID18982906-8837-4beb-5327-2fc9aac30ab9">Kiedy wydatki państwa przekraczają dochody podatkowe, różnica tych dwóch wielkości jest deficytem budżetowym. Kiedy dochody podatkowe są większe niż wydatki państwa, różnica jest nadwyżką budżetową. Podczas recesji, która rozpoczęła się pod koniec 2007 r., wydatki państwa były wyższe, a wpływy podatkowe niższe, co doprowadziło do gwałtownego wzrostu deficytu publicznego w roku 2009. Z analogiczną sytuacją mieliśmy do czynienia w czasie recesji wywołanej pandemią koronawirusa w roku 2020. (Źródło: Raport ekonomiczny Prezydenta, Economic Report of the President, Tabele B-21 i B-1, http://www.gpo. gov/fdsys/pkg/ERP-2015/content-detail.html).</caption>
+      </figure>
+      <para id="fs-idp37104">Wydatki rządu federalnego USA (w % PKB) systematycznie spadały w latach 90. XX w. Najważniejszym powodem tego stanu rzeczy było zmniejszenie nakładów na obronę narodową z 5,2% PKB w 1990 r. do 3,0% PKB w roku 2000. Zmniejszyły się także wydatki rządu federalnego z tytułu odsetek (w % PKB) – o ok. 1 punkt procentowy. Dochody podatkowe na szczeblu federalnym znacznie wzrosły w późnych latach 90. XX w., skacząc z 18,1% PKB w 1994 r. do 20,8% PKB w 2000 r. Szybki rozwój gospodarczy pod koniec lat 90. ub. wieku doprowadził do znacznego wzrostu dochodów podatkowych. Podatki dochodowe od osób fizycznych zwiększają się wraz ze wzrostem dochodów gospodarstw domowych, z kolei podatki dochodowe od osób prawnych rosną wraz ze wzrostem zysków przedsiębiorstw. W tym samym czasie wydatki państwa na płatności transferowe, takie jak zasiłki dla bezrobotnych, bony żywnościowe i opieka społeczna, zmniejszyły się, ponieważ więcej osób pracowało.</para>
+      <para id="UUID5b045114-7ebc-4eb1-769c-3be49a64ed9f">Tak gwałtowny wzrost dochodów podatkowych i spadek wydatków na płatności transferowe był w dużej mierze nieoczekiwany, nawet dla doświadczonych analityków budżetowych, stąd nadwyżka budżetowa była zaskoczeniem. Jednak na początku XXI w. wiele z tych korzystnych czynników wygasło. Dochody podatkowe spadły, głównie z powodu recesji, której początek odnotowano w marcu 2001 r. Kongres uchwalił serię obniżek podatków, a prezydent George W. Bush podpisał je i w 2001 r. weszły one w życie. Ponadto wydatki rządowe wzrosły z powodu zwiększenia wydatków na obronę narodową, opiekę zdrowotną, edukację, ubezpieczenia społeczne i programy wsparcia dla ludzi dotkniętych przez recesję i powolny wzrost gospodarczy, który po niej nastąpił. Budżet zaczął ponownie notować deficyt. Kiedy pod koniec 2007 r. rozpoczęła się recesja związana z globalnym kryzysem finansowym, wydatki państwa wzrosły, a wpływy podatkowe spadły do niespotykanego w historii poziomu, co doprowadziło do ogromnych niedoborów w budżecie.</para>
+      <para id="fs-idp48558272">Długoterminowe prognozy budżetowe dla Stanów Zjednoczonych, o horyzoncie czasowym dłuższym niż 10-letni, przewidują ogromne deficyty. Wzrost deficytu budżetowego podczas recesji lat 2008–2009 wywołał negatywne długookresowe skutki. Do tego dochodzą niekorzystne następstwa pandemii koronawirusa oraz trudna sytuacja demograficzna. Głównym powodem tej ostatniej jest „baby boom” – wyjątkowo wysoki wskaźnik urodzeń, który rozpoczął się w 1946 r., zaraz po II wojnie światowej, i trwał przez mniej więcej dwie dekady. W 2010 r. pierwsze osoby urodzone w okresie powojennego wyżu demograficznego zaczęły osiągać wiek 65 lat, a w ciągu kolejnych dwóch dekad odsetek Amerykanów w wieku powyżej 65 lat znacznie wzrośnie. Oznacza to, że wpływy z podatków od wynagrodzeń, które są przeznaczane na finansowanie ubezpieczeń społecznych i programu Medicare, będą znacznie niższe niż przewidywane wydatki na te programy, jak pokazuje poniższa ramka „Poznaj szczegóły”. Dlatego prognozy dużych deficytów budżetowych są uzasadnione. Decyzja rządu o wzroście stawek podatkowych w celu wsparcia tych programów lub o obniżeniu poziomu wypłacanych z nich świadczeń zmieniłaby te niekorzystne długoterminowe trendy.</para>
+      <note type="note" id="fs-idm191407264" class="clearup economics">
+        <title id="UUID88fbfc55-b273-4c9b-6569-fd347f7bcfd9">Jakie są długookresowe prognozy budżetowe dla ubezpieczeń społecznych i programu Medicare?</title>
+        <para id="fs-idm22814288">W 1946 r. tylko jeden na 13 Amerykanów miał ponad 65 lat. W 2000 r. stosunek ten wynosił już jeden do ośmiu. Do 2030 r. co piąty Amerykanin będzie w wieku ponad 65 lat. Ubezpieczenia społeczne (Social Security) i Medicare to dwa ogromne programy federalne w USA adresowane do osób starszych. Rosnąca liczba Amerykanów w starszym wieku powoduje wzrost wydatków na te programy, a także na program Medicaid. Obecny podatek od wynagrodzeń nałożony na pracowników, finansujący całość ubezpieczeń społecznych i część programu Medicare dotyczącą ubezpieczeń na wypadek hospitalizacji, nie wystarczy na pokrycie oczekiwanych kosztów. Jakie są więc możliwe opcje?</para>
+        <para id="UUIDc95e8b80-3efd-4b71-628d-87dff5a3c77f">Długoterminowe prognozy Biura Budżetowego Kongresu na 2009 r. wskazują, że łączne wydatki na ubezpieczenia społeczne i program Medicare wzrosną z 8,3% PKB w 2009 r. do ok. 13% PKB w roku 2035 r. i ok. 20% PKB w 2080. Sfinansowanie tych wydatków wymagać będzie pewnych zmian: (1) podatki będą musiały drastycznie wzrosnąć; (2) inne wydatki będą musiały drastycznie zmaleć; (3) wiek emerytalny i/lub wiek umożliwiający uzyskanie świadczenia Medicare trzeba będzie podwyższyć lub (4) rząd federalny będzie musiał akceptować bardzo wysokie deficyty budżetowe.</para>
+        <para id="fs-idm123663328">Niektórzy sugerują zniesienie górnego limitu wynagrodzeń podlegających opodatkowaniu podatkiem od wynagrodzeń, tak aby osoby o bardzo wysokich dochodach musiały płacić podatek od całej kwoty swoich zarobków. Inni proponują finansowanie Social Security i Medicare nie w ramach systemu, w którym obecni pracownicy płacą na emerytów, a w ramach systemu kapitałowego, gdzie każdy pracownik ma indywidualne konto, na które wpłaca fundusze przez całe życie, a po przejściu na emeryturę opłaca z nich opiekę zdrowotną.</para>
+        <para id="UUIDab3e2417-3727-4ad6-5342-77d5ceee1525">Problem ten występuje nie tylko w Stanach Zjednoczonych. Zapewnienie odpowiedniego poziomu świadczeń emerytalnych i zdrowotnych rosnącemu odsetkowi osób starszych przy spadającym odsetku pracowników będzie jeszcze trudniejsze w wielu krajach europejskich (w tym w Polsce) i w Japonii. To, skąd wziąć pieniądze, aby wypłacić obiecane świadczenia osobom starszym, będzie trudną decyzją polityczną.</para>
+      </note>
+      <para id="fs-idp83668432">W kolejnej części omówimy wykorzystanie polityki fiskalnej do przeciwdziałania cyklom koniunkturalnym. Ponadto przyjrzymy się polityce zrównoważonego budżetu, czyli sytuacji, w której wydatki i dochody państwa są równe. W podrozdziale „Wprowadzenie do skutków zadłużenia państwa” (<link document="m00068" id="UUIDc46c58c5-5a60-4011-58eb-a75a0f9d5761" />) omówimy wpływ polityki fiskalnej i zadłużenia państwa na oszczędności krajowe, a tym samym na wzrost gospodarczy i bilans handlowy.</para>
+    </section>
+    <section id="fs-idp67967024" class="summary">
+      <title id="UUID466a526a-e38a-489d-4043-be558289006a">Podsumowanie</title>
+      <para id="fs-idp50811760">Przez większą część XX w. rząd Stanów Zjednoczonych zaciągał długi w czasie wojny, a następnie spłacał je powoli w czasie pokoju. Jednak pod koniec stulecia, w latach 80. i na początku lat 90., mimo pokoju USA też mocno się zapożyczyły. Potem pojawił się okres nadwyżek budżetowych w latach 1998–2001, po którym nastąpił powrót do deficytów budżetowych, szczególnie wysokich podczas recesji w latach 2008–2009. Deficyt budżetowy i nadwyżka budżetowa są mierzone w skali roku. Natomiast dług publiczny to pozostała do spłaty suma dotychczasowych sald budżetowych.</para>
+    </section>
+    <section id="fs-idm97027088" class="self-check-questions">
+      <title id="UUID17e62438-c0cd-49e0-690f-5b89eabca8d9">Pytania sprawdzające</title>
+      <exercise id="fs-idm114122368">
+        <problem id="fs-idm104349696">
+          <para id="fs-idp28727232">Dług publiczny ma w sobie pewną samonapędzającą się cechę. Istnieje bowiem jedna kategoria wydatków państwa, która automatycznie rośnie wraz z nim. Jakie to wydatki?</para>
+        </problem>
+        <solution id="fs-idm46191264">
+          <para id="fs-idm100046192">Wraz ze wzrostem zadłużenia rosną również płatności odsetkowe, więc deficyt budżetowy rośnie, nawet jeśli inne wydatki państwa są stałe.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm117195504">
+        <problem id="fs-idp14883200">
+          <para id="fs-idm151519184">Prawda czy fałsz (zadanie dotyczy gospodarki Stanów Zjednoczonych):</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm173663152">
+            <item id="UUID9754979d-0687-43f9-5b26-0505dc11257a">
+              <para id="UUID8fcf0241-b642-4d81-6c06-1220352aa37e">Wydatki rządu federalnego w USA znacznie wzrosły w ostatnich dziesięcioleciach.</para>
+            </item>
+            <item id="UUID00747069-4b6f-4576-4d3b-fb1b9c80c316">
+              <para id="UUIDbb447d71-9e6f-4e1a-491c-7228a49e7847">Deficyty federalne były bardzo duże w latach 1995–2015.</para>
+            </item>
+            <item id="UUIDb8ea7223-c093-47dc-7e31-dded4df027f8">
+              <para id="UUID7877c820-2eec-4fe8-6325-4353eafc1658">Skumulowany dług federalny (jako procent PKB) jest bliski osiągnięcia najwyższego poziomu w historii.</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idp1224448">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm14504192">
+            <item id="UUID6eba5205-1f56-4f3f-61b0-348fc3210e8a">
+              <para id="UUIDa260fd58-0f47-42d8-7ef1-a96af676891e">Jako udział w PKB jest to fałsz. W dolarach nominalnych jest to prawda.</para>
+            </item>
+            <item id="UUID51955572-31a5-485b-49f1-792c9ea2acd9">
+              <para id="UUID6d0fab94-cfd0-43fe-67ee-69e3dc4cd32a">Fałsz. Chociaż deficyty budżetowe były duże w latach 2003 i 2004 oraz utrzymywały się w późniejszych latach, rząd federalny wykazywał nadwyżki budżetowe w latach 1998–2001.</para>
+            </item>
+            <item id="UUIDa56b0a62-aac4-42e6-6fc2-cdb9a96f9c8e">
+              <para id="UUID1e0e10c0-419c-4470-6b76-f0a8fd6b5897">Fałsz.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp15982064" class="review-questions">
+      <title id="UUID423f1601-5ec2-4ac9-79bf-099cbbcd2897">Sprawdź wiedzę</title>
+      <exercise id="fs-idm41960656">
+        <problem id="fs-idp111476128">
+          <para id="fs-idp51261664">Jak zmieniała się wysokość deficytów budżetowych w Stanach Zjednoczonych w ostatnich dekadach?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm37414240">
+        <problem id="fs-idp107932016">
+          <para id="fs-idp23033792">Jaka jest różnica między deficytem budżetowym a długiem publicznym?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm161180464" class="critical-thinking">
+      <title id="UUID7d8e8c54-dcc8-4b60-5f6a-56e1ffdf1edf">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idm27785392">
+        <problem id="fs-idm135919232">
+          <para id="fs-idp3162064">Czy w okresie szybkiego wzrostu gospodarczego rząd federalny zanotuje raczej nadwyżkę budżetową, czy deficyt budżetowy? Od czego jeszcze to zależy?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm35998752">
+        <problem id="fs-idm138365536">
+          <para id="fs-idm75321248">Ekonomista Arthur Laffer zauważył, że w niektórych przypadkach wpływy z podatku dochodowego mogą wzrosnąć, gdy stawki podatkowe spadną. Dlaczego, twoim zdaniem, niekiedy tak właśnie się dzieje?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm4836896">
+        <problem id="fs-idm12146592">
+          <para id="fs-idm55376912">Czy jest możliwe, aby w kraju notującym deficyt budżetowy stosunek długu publicznego do PKB malał? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm4836876">
+        <problem id="fs-idm12146544">
+          <para id="fs-idm55376932">Czy w kraju może jednocześnie wystąpić nadwyżka budżetowa i wzrost relacji długu publicznego do PKB? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm124944" class="problems">
+      <title id="UUID21e9948b-9af3-4d1f-7b35-fbe9ddb43b60">Problemy</title>
+      <exercise id="fs-idp281856">
+        <problem id="fs-idm145053328">
+          <para id="fs-idm43569024">Jeśli państwo notuje deficyt budżetowy w wysokości 10 mld dol. rocznie przez 10 lat, następnie nadwyżkę budżetową w wysokości 1 mld dol. przez 5 lat, a potem zrównoważony budżet przez kolejne 10 lat, to ile wynosi dług publiczny?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp136231792" class="references">
+      <title id="UUID087b3062-89c6-4396-5945-c1c24ea7fd82">Bibliografia</title>
+      <para id="fs-idp67822000">Eisner, Robert. <emphasis effect="italics">The Great Deficit Scares: The Federal Budget, Trade, and Social Security</emphasis>. New York: Priority Press Publications, 1997.</para>
+      <para id="fs-idm955088">Weisman, Jonathan, and Ashley Parker. “Republicans Back Down, Ending Crisis Over Shutdown and Debt Limit.” <emphasis effect="italics">The New York Times</emphasis>, October 16, 2013. http://www.nytimes.com/2013/10/17/us/congress-budget-debate.html.</para>
+      <para id="fs-idm1058080">Wessel, David. <emphasis effect="italics">Red Ink: Inside the High-Stakes Politics of Federal Budget</emphasis>. New York: Crown Publishing Group, 2013.</para>
+    </section>
+  </content>
+  <glossary id="UUID92cda579-78fb-4db9-593a-eb901c6ee18c">
+    <definition id="fs-idp99290000">
+      <term id="UUID2665e0ca-d52c-414e-5c3c-67a9cf26d730">dług publiczny (ang. national debt, public debt)</term>
+      <meaning id="fs-idm55510208">
+        <para id="UUID8dd57da9-3f9f-4aa2-747c-9d8683eca3ad">całkowita skumulowana kwota środków, którą rząd pożyczył i jeszcze nie spłacił; inaczej mówiąc, skumulowana wartość sald budżetowych z przeszłości</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

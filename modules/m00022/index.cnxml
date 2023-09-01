@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U30eeee0d-8fd3-4b34-b3a7-a1d84f41e6fb" id="U30eeee0d-8fd3-4b34-b3a7-a1d84f41e6fb" xml:lang="en" cnxml-version="0.7">
+  <title>4.5 Indeksacja cen i jej ograniczenia</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00022</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/30eeee0d-8fd3-4b34-b3a7-a1d84f41e6fb</md:content-url>
+    <md:title>4.5 Indeksacja cen i jej ograniczenia</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:03.711346516+00:00</md:version>
+    <md:created>2023-08-30T08:02:03.711346516+00:00</md:created>
+    <md:revised>2023-08-30T08:02:03.711346516+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>30eeee0d-8fd3-4b34-b3a7-a1d84f41e6fb</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-352b-uyht-7c527b82d03b3911" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUIDc23a4185-26f6-41cc-5885-d3c6b9d2b6b5">
+          <para id="UUIDdc40387a-c558-4b60-5a39-5f08b68295ea">Objaśnić sprzężenie zwrotne pomiędzy indeksacją a inflacją</para>
+        </item>
+        <item id="UUIDde963fc2-e63b-4747-558f-596a647493ed">
+          <para id="UUIDcec1593e-691a-4f0a-77b4-c6a518a75102">Wskazać trzy sposoby, jakie może wykorzystać państwo, aby kontrolować inflację narzędziami polityki makroekonomicznej</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID43cc248d-b42b-4566-47a0-854e96b192e7">W poprzednim podrozdziale przywołaliśmy już zjawisko waloryzacji, czyli zwiększenia wartości emerytur zgodnie ze stopą inflacji. Waloryzacja emerytur jest jednak tylko jednym z elementów procesu, który polega na automatycznym dostosowaniu cen, płac i stóp procentowych do inflacji, który ekonomiści nazywają <term id="UUIDbe9aad59-8783-4831-403d-1ec29df133eb">indeksacją</term> (ang. <foreign xml:lang="en" id="UUIDdb9109f0-8926-47bc-7f59-a91a60c7de57"><term id="UUID056b04a3-25e3-4e35-5dc2-0df733ff134c">indexed</term></foreign>). Indeksowana wartość wzrasta w tym samym tempie, co wybrana miara inflacji, najczęściej wskaźnik cen towarów i usług konsumpcyjnych (CPI). Negatywne skutki inflacji wywoływane są w dużej mierze przez fakt, że zjawisko to – szczególnie gdy ma charakter niespodziewany – wpływa na jedną część gospodarki, ale na pozostałe już nie. Na przykład zwiększa ceny, ale już nie płace. Proces indeksacji ogranicza te asymetryczne konsekwencje inflacji.</para>
+    <section id="fs-idp17265568">
+      <title id="UUIDd20e8940-bdd0-4e95-5a58-5ac10227940f">Indeksacja na rynkach prywatnych w USA</title>
+      <para id="UUIDf6ab3f52-247a-4b5c-5840-d5aeb89c641e">W latach 70. i 80. ub. wieku amerykańskie związki zawodowe dość powszechnie wykorzystywały w negocjacjach płacowych klauzule <term id="UUIDce4b89d6-b464-4990-4e17-df14cb1de52d">korekty kosztów utrzymania (COLA)</term> (ang. <foreign xml:lang="en" id="UUID611fa003-a7c2-4369-6dfd-381fc1ca6f38"><term id="UUID1333b7d3-59a8-4b4d-7eb4-938f5950ca3c">cost-of-living adjustments</term></foreign>), które gwarantowały, że płace będą nadążały za inflacją. Kontrakty zawierające te klauzule były najczęściej konstruowane w taki sposób, że wpisywano w niej zasadę „COLA plus”, np. COLA plus 3%. W takim przypadku dla stopy inflacji na poziomie 5% wzrost płac wynosiłby automatycznie 8%, ale jeśli inflacja osiągnęłaby 9%, płace z automatu wzrosłyby już o 12%. COLA jest formą indeksacji stosowaną do wynagrodzeń.</para>
+      <para id="UUID6bce27e6-e2d7-4387-479b-a00dc9293f18">Kredyty udzielane przez sektor bankowy zwykle mają wbudowane korekty inflacyjne polegające na tym, że wzrost stopy inflacji o 2 punkty procentowe spowoduje automatyczny wzrost stopy procentowej, którą instytucja finansowa pobiera od kredytu, również o 2 punkty procentowe. W Polsce taką funkcję pełni międzybankowa stopa procentowa, określana powszechnie jako WIBOR, której wartość – oczywiście w pewnym uproszczeniu – zmienia się wraz ze zmianami inflacji (dokładniej, WIBOR podąża za wysokością stóp procentowych ustalanych przez NBP, ale te oczywiście rosną wraz ze wzrostem inflacji). Jeśli oprocentowanie kredytu hipotecznego ze zmienną stopą procentową oparte jest na zasadzie WIBOR plus marża, to wraz ze wzrostem stopy inflacji koszt kredytu dla osób, które go zaciągnęły, będzie rósł, zabezpieczając interesy instytucji pożyczkowej. W Stanach Zjednoczonych wprowadzono z kolei <term id="UUID53367d5c-7faf-4522-43bd-2d641947dbb8">kredyt hipoteczny o zmiennym oprocentowaniu (ARM)</term> (ang. <foreign xml:lang="en" id="UUID5e31f8c3-b77b-43d0-6d6d-d054f1997a11"><term id="UUIDbf170e61-fe72-4278-46b9-a11a63055765">adjustable-rate mortgage</term></foreign>), w którym stopa procentowa zmienia się wraz ze stopą inflacji. Kredytobiorca mógł wybrać jedną z dwóch opcji – stałe oprocentowanie kredytu lub oprocentowanie zmienne wbudowane w produkty typu ARM. Jeśli ktoś decydował się na oprocentowanie stałe, musiał zaakceptować wyższą stopę procentową w momencie zaciągnięcia zobowiązania, ale miał gwarancję, że stopa ta się nie zmieni. Z drugiej strony kredyty o zmiennym oprocentowaniu oferowały niższy poziom stóp procentowych, który mógł jednak wzrosnąć w okresie trwania umowy. W Polsce tego typu rozwiązania są wciąż niezwykle rzadkie i klienci biorący kredyty hipoteczne niemal zawsze mają do czynienia ze zmienną stopą procentową. Z drugiej strony, czy ktoś zdecydowałby się na zaciągnięcie kredytu hipotecznego ze stałą stopą procentową w marcu 2023 r., mając świadomość, że inflacja w Polsce będzie w kolejnych latach spadać (tak przynajmniej zapowiadali wszyscy eksperci, choć oczywiście różnili się w ocenie tempa tego spadku)? Warto jednak pamiętać, że kredyty te zaciągane są zazwyczaj na kilkadziesiąt lat i nikt nie potrafi przewidzieć, czy w przyszłości inflacja w Polsce nie przekroczy poziomu 20%.</para>
+      <para id="UUIDf9fb810d-d7b1-402d-61f5-804bb1891af1">Wiele odnawianych automatycznie i długoterminowych umów biznesowych również zawiera zapisy o automatycznym dostosowywaniu cen do zmian wysokości inflacji. Tego typu kontrakty wykorzystuje się szczególnie w sytuacji, gdy stopa inflacji jest trudna do przewidzenia. Przy cenach wyrażonych w kategoriach nominalnych nie ma zatem możliwości określenia wysokości kwot wbudowanych w kontrakt w taki sposób, aby zabezpieczyć jednocześnie interesy sprzedającego i kupującego. Sprzedawcy cenią sobie takie umowy, bo ryzyko związane ze spadkiem realnego przychodu, gdyby inflacja była jednak wyższa od przewidywanej, jest w ich przypadku niezwykle małe. Kupujący z kolei wiedzą, że jeśli inflacja będzie niższa od oczekiwanej, nie zapłacą zbyt dużo. Umowa z klauzulą o automatycznym dostosowywaniu do inflacji wykorzystuje tym samym realny poziom cen.</para>
+    </section>
+    <section id="fs-idm40555904">
+      <title id="UUID5c680979-1d68-49ad-5f5b-c512ccb47e85">Indeksacja w programach publicznych</title>
+      <para id="UUIDf0060837-d77d-46e4-6bea-622a565af9af">Wiele amerykańskich programów publicznych zawiera mechanizm indeksowania do inflacji zarówno wysokości dochodów, jak i wydatków. System podatku od dochodów osobistych w USA, podobnie jak polski PIT, ma charakter progresywny, czyli po przekroczeniu pewnego progu dochodowego od nadwyżki płaci się podatek według wyższej stawki (krańcowa stopa podatkowa rośnie). Między innymi dlatego właśnie używa się potocznie określenia „wpaść w wyższy próg podatkowy”. W pewnym uproszczeniu, bo system podatku od dochodów osobistych w Polsce nie jest wzorem klarowności, zarówno w roku 2022, jak i 2023 od dochodów niższych niż 120 tys. zł płaciło się 12% podatku, pomniejszonego o 3600 zł, natomiast od nadwyżki dochodu powyżej kwoty 120 tys. zł podatek wynosił już 32%.</para>
+      <para id="UUIDc30442fa-6641-47a1-739f-54a66fc990aa">Ze względu na wiele skomplikowanych przepisów prawa podatkowego istniejących zarówno w USA, jak i w Polsce trudno jest dokładnie określić wysokość zobowiązania, jakie dana osoba na podstawie powyższych stawek i progów powinna zapłacić. Niemniej, co do zasady, wraz ze wzrostem nominalnego dochodu stawki podatkowe rosną. A zatem wzrost dochodów nominalnych wynikający z inflacji, który przecież nie przekłada się na zwiększenie siły nabywczej (dochodów realnych), może oznaczać realny wzrost zobowiązania podatkowego (jeśli dojdzie do przekroczenia progu podatkowego). Aby temu zapobiec, w 1981 r. administracja federalna w USA wprowadziła mechanizm automatycznej indeksacji progów podatkowych.</para>
+      <para id="UUID4dc014ce-20aa-4c39-41dd-7ba401b1c23d">W Stanach Zjednoczonych indeksowane są jednak nie tylko progi podatkowe, ale również świadczenia socjalne. Od czasu uchwalenia ustawy o indeksacji ubezpieczeń społecznych w 1972 r. wysokość świadczeń z tytułu ubezpieczeń społecznych wzrasta co roku wraz ze wskaźnikiem cen towarów i usług konsumpcyjnych. Ponadto z uwagi na fakt, że system zabezpieczenia społecznego w USA jest finansowany z podatków od wynagrodzeń, które zostały nałożone na dochody powyżej 137 700 dol. rocznie (stan na rok 2020), również ta kwota jest automatycznie indeksowana. Mamy zatem do czynienia z automatycznym wzrostem tak świadczeń, jak i bazy podatkowej finansującej ich wypłacanie. W Polsce z kolei emerytury są w automatyczny sposób zwiększane w drodze waloryzacji. Procedura rozpoczyna się 1 marca każdego roku i ma zrekompensować utratę siły nabywczej tych świadczeń. Zasady indeksacji zostały wprowadzone Ustawą z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. W roku 2023 waloryzacja będzie miała charakter kwotowo-procentowy. Część emerytur zostanie powiększona o gwarantowaną kwotę podwyżki, a część pomnożona przez wskaźnik waloryzacji. Wskaźnik waloryzacji emerytur w 2023 r. wyniesie 14,8% (przypomnijmy, że średnioroczna inflacja w 2022 r. była w Polsce na poziomie 14,4%), natomiast gwarantowana minimalna kwota podwyżki to 250 zł brutto, tj. 227,50 zł netto. Oznacza to, że jeśli wskaźnik procentowy nie pozwoli na zwiększenie emerytury o 250 zł brutto, zadziała zasada waloryzacji kwotowej.</para>
+      <para id="UUID7e7005dd-69ab-4395-4764-24785a4d8459">Kolejnym przykładem programu publicznego, w który wbudowana jest indeksacja, są specjalne obligacje oferowane przez rząd federalny Stanów Zjednoczonych od 1996 r. Obligacje są instrumentem, dzięki któremu państwo (i wiele firm z sektora prywatnego) pożycza pieniądze. Obligacje to specjalne papiery wartościowe, które emitowane są przez dłużnika i nabywane przez wierzycieli. Zakup obligacji uprawnia do ich odsprzedaży dłużnikowi po cenie emisyjnej powiększonej o specjalną premię, która jest wynagrodzeniem za wykorzystanie kapitału. Tradycyjnie zakup obligacji rządu Stanów Zjednoczonych uprawniał do otrzymania stałej premii określanej jako procent ceny emisyjnej. Taka polityka zachęcała rząd zaciągający pożyczki do pobudzania inflacji, ponieważ mógł on wtedy spłacić swoje zobowiązania wobec nabywców obligacji pieniędzmi o niższej sile nabywczej. Jeśli bowiem inflacja wynosiła 10%, a premia za zakup obligacji określona została np. na 8% ceny nominalnej, to nabywca obligacji po jej wykupie przez rząd otrzymywał kwotę, której realna wartość była niższa niż suma przeznaczona przez tegoż nabywcę na zakup obligacji. Jednak obligacje indeksowane gwarantują wypłatę premii w wysokości określonej przez realną stopę procentową, która jest równa stopie nominalnej powiększonej o stopę inflacji. W przypadku emeryta próbującego planować długoterminowo i martwiącego się o ryzyko wzrostu inflacji obligacje indeksowane, które gwarantują stopę zwrotu wyższą niż inflacja – bez względu na jej poziom – mogą być bardzo interesującą inwestycją. Podobny mechanizm jest wbudowany w oferowane w Polsce obligacje indeksowane inflacją.</para>
+    </section>
+    <section id="fs-idm6030352">
+      <title id="UUIDc1a253d0-4668-4f05-528f-be45b867cbe6">Czy indeksacja może zmniejszyć obawy związane z inflacją?</title>
+      <para id="UUID98641ca1-3e44-4e87-6298-d5668ae582d4">Indeksacja może się wydawać całkiem rozsądnym posunięciem. W końcu, gdy dochody osób i przedsiębiorstw oraz programy publiczne są indeksowane o inflację, ludzie mogą mniej się martwić o niepożądaną redystrybucję dochodów i inne niekorzystne konsekwencje wzrostu cen. Jednak niektórzy z najbardziej nieprzejednanych przeciwników inflacji na indeksację patrzą bardzo podejrzliwie. Zwracają uwagę, że indeksacja jest zawsze częściowa. Nie każdy pracodawca zapewni pracownikom mechanizm korekty kosztów utrzymania (COLA). Nie wszystkie firmy mogą założyć, że ich koszty i przychody będą rosły dokładnie w tym samym tempie, co wskaźnik cen towarów i usług konsumpcyjnych (CPI). Nie wszystkie stopy procentowe dla kredytobiorców i depozytariuszy zmienią się tak, by dokładnie odpowiadać tempu wzrostu inflacji. Jednak w miarę rozpowszechniania się mechanizmów indeksacji polityczny sprzeciw wobec inflacji może zmaleć. W końcu starsze osoby, których świadczenia Social Security są chronione przed inflacją, lub banki, które udzieliły kredytów o zmiennym oprocentowaniu, nie mają już tak wielu powodów, by przejmować się tym, jak wysoka jest stopa inflacji. W świecie, w którym niektórzy ludzie mogą być chronieni przed inflacją, a inni nie, lepiej zorientowani w finansach przedsiębiorcy i inwestorzy mogą szukać sposobów zabezpieczenia swoich zysków, podczas gdy podmioty posiadające mniejszą wiedzę finansową mogą wciąż bardzo na inflacji ucierpieć.</para>
+    </section>
+    <section id="fs-idp10062352">
+      <title id="UUIDad1e939d-d82b-48a9-7d08-161eeb726d12">Przegląd dyskusji politycznych na temat inflacji</title>
+      <para id="UUIDf5514b64-f933-40b2-63e5-1b5194dbc930">W niniejszym rozdziale skupiliśmy się na tym, w jaki sposób ekonomiści mierzą inflację, na historycznych doświadczeniach z inflacją w różnych krajach, na metodach dostosowywania wartości zmiennych nominalnych do tempa wzrostu cen (indeksacja) oraz wpływie inflacji na gospodarkę. Pominęliśmy natomiast kwestię czynników, które inflację wywołują, i sposobów, które państwo może wykorzystać, aby zmniejszyć stopę inflacji lub wręcz całkowicie ją wyeliminować. Zagadnienia te zostaną dogłębnie przeanalizowane w kolejnych rozdziałach. Warto jednak przedstawić tutaj choćby wstępne informacje na ten temat.</para>
+      <para id="UUID82d9e118-33c9-4dd5-418a-f12ba3b75ff5">Opis czynników wywołujących inflację możemy zawrzeć w jednym zdaniu: zbyt wiele jednostek pieniężnych (dolarów lub złotych) w porównaniu z dostępnym w gospodarce wolumenem dóbr i usług. Inflacja w XX w. rosła przede wszystkim w konsekwencji wojen, w czasie których bardzo wysokie wydatki publiczne zamieniające się w dochody gospodarstw domowych nie napotykają dostatecznej oferty towarów konsumpcyjnych, ponieważ moce produkcyjne są ukierunkowane na wspieranie wysiłku wojennego (wytwarza się czołgi, a nie samochody, i spadochrony, a nie pończochy). Podczas konfliktów zbrojnych normą jest kontrola cen i niekiedy również system reglamentacji dóbr (np. paliw silnikowych). Po zakończeniu wojny mechanizm kontroli cen jest likwidowany, a skumulowana siła nabywcza, nie napotykając dostatecznej masy towarowej (w końcu nie od razu udaje się skokowo zwiększyć produkcję dóbr konsumpcyjnych), prowadzi do inflacji. Jeśli mamy do czynienia z sytuacją odwrotną, czyli jest zbyt dużo towarów w porównaniu z zasobami pieniądza, ceny zaczynają maleć, co oznacza pojawienie się deflacji. To dlatego w czasie szczególnie dotkliwych recesji, takich jak Wielki Kryzys, stopa inflacji gwałtownie maleje (takie zjawisko określamy jako dezinflacja) albo pojawia się deflacja.</para>
+      <para id="UUID0febfa87-784c-4336-6f1e-38338261b5cb">Implikacje polityczne są jasne. Jeśli chcemy uniknąć inflacji, wartość siły nabywczej w gospodarce musi rosnąć mniej więcej w takim samym tempie jak wolumen produkcji dóbr. Polityka makroekonomiczna, którą państwo może stosować, aby wpłynąć na siłę nabywczą konsumentów – poprzez podatki, wydatki publiczne, regulację stóp procentowych i zasad udzielania kredytów – może zatem spowodować wzrost inflacji lub obniżyć ją do akceptowalnego społecznie poziomu.</para>
+      <note type="note" id="fs-idm56178624" class="bringhome economics">
+        <title id="UUID036d4302-58e0-471c-74dc-5b505c309233">Inflacja w czasie pandemii – powrót do lat 70. XX w. czy chwilowa korekta?</title>
+        <para id="fs-idm115248656">Recesja wywołana pandemią spowodowała różnego rodzaju zakłócenia w globalnej gospodarce, w tym inflację. W czasie pandemii ceny towarów takich jak gaz i samochody spadły, ponieważ ludzie przestawili się na pracę zdalną i odwoływali plany podróży. A w drugim i czwartym kwartale 2020 r. z uwagi na ścisłe lockdowny nie mieli jak wydawać pieniędzy, bo de facto zostali zamknięci w domach. Jednak gdy na początku 2021 r. gospodarka zaczęła powoli wychodzić z pandemii, ponownie zaobserwowaliśmy znaczne wzrosty cen. Postpandemiczna inflacja była również napędzana stymulacyjnymi wydatkami państwa i bardzo niskimi stopami procentowymi. Pandemia spowodowała również niedobory w całym globalnym łańcuchu dostaw, co jeszcze bardziej podniosło ceny (więcej na ten temat dowiesz się za kilka rozdziałów, kiedy będziemy mówić o zagregowanych popycie i podaży). Dodatkowo już w czwartym kwartale 2021 r. ceny surowców zaczęły rosnąć, napędzane polityką Federacji Rosyjskiej, która przygotowywała się do napaści na Ukrainę i próbowała za pomocą cen gazu i ropy naftowej wpłynąć na kraje UE. Przy inflacji przekraczającej poziom 6% w USA i dwucyfrowym tempie wzrostu cen w Polsce i innych krajach UE w 2022 r. często zadawano pytanie o to, czy jest to zwiastun trwałego trendu, który może doprowadzić do powtórzenia się sytuacji z lat 70. XX w. Niektórzy ekonomiści uważają, że inflacja wywołana pandemią jest tylko przejściowym dostosowaniem – w istocie ceny wybranych artykułów znacznie wzrosły również po zakończeniu recesji wywołanej kryzysem finansowym z 2008 r. Spadek amerykańskiej inflacji poniżej poziomu 4%, do jakiego doszło w 2023 r., zdaje się potwierdzać te przypuszczenia. Inni jednak wskazywali i wskazują, że tym razem wzrost stopy inflacji może mieć charakter trwały, zwłaszcza biorąc pod uwagę wybuch wojny w Ukrainie oraz wpływ tego konfliktu na ceny żywności i surowców energetycznych. Jeśli konsumenci spodziewają się wyższej inflacji, może to być samospełniająca się przepowiednia, bo zaczynają kupować rzeczy teraz, aby uniknąć przyszłego wzrostu cen. Jak to już było podkreślone wcześniej, inflacja budzi obawy przede wszystkim konsumentów, a nie ekonomistów. Niemniej jeśli inflacji nie towarzyszy wzrost standardu życia, konsekwencje dla gospodarki mogą być niezwykle poważne.</para>
+      </note>
+    </section>
+    <section id="fs-idp11765440" class="summary">
+      <title id="UUID674027dd-2dea-48a5-5830-590d3e90c150">Key Concepts and Summary</title>
+      <para id="fs-idm43814032">Płatność jest indeksowana, jeśli jest automatycznie dostosowywana do stopy inflacji. Przykłady indeksacji w amerykańskim sektorze prywatnym obejmują umowy o pracę z korektą kosztów utrzymania (COLA) i kredyty hipoteczne ze zmiennym poziomem oprocentowania (ARM). W Polsce z kolei przykładem tego typu rozwiązań jest wykorzystanie w kredytach hipotecznych zmiennej stawki WIBOR. Przykładami indeksacji w sektorze publicznym są choćby automatyczne dostosowywanie progów podatkowych do wysokości inflacji w USA czy waloryzacja emerytur w Polsce.</para>
+    </section>
+    <section id="fs-idm39988016" class="self-check-questions">
+      <title id="UUID08ea3d57-5da4-4049-4d04-3f8880848ccd">Self-Check Questions</title>
+      <exercise id="fs-idm54829936">
+        <problem id="fs-idp40517728">
+          <para id="fs-idp4478864">W jaki sposób wzrost inflacji powinien wpłynąć na oprocentowanie kredytu hipotecznego o zmiennym oprocentowaniu?</para>
+        </problem>
+        <solution id="fs-idp41728672">
+          <para id="fs-idp1316640">Wyższa inflacja obniża realne oprocentowanie kredytów hipotecznych o stałym oprocentowaniu. Ponieważ kredyty o zmiennym oprocentowaniu mają utrzymać realną stopę procentową na niezmienionym poziomie, wyższa inflacja prowadzi do wyższego nominalnego oprocentowania takich kredytów.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm2013408">
+        <problem id="fs-idm36408016">
+          <para id="fs-idm18213072">Kredyt hipoteczny ze stałą stopą procentową ma takie samo oprocentowanie przez cały okres kredytowania niezależnie od tego, czy jest zaciągany na 15, czy 30 lat. Natomiast w wypadku kredytu hipotecznego ze zmienną stopą procentową wysokość odsetek, jakie będzie płacił kredytobiorca, może się zmienić w ślad za zmianą rynkowych stóp procentowych. Jeśli inflacja nieoczekiwanie spadnie o 3 punkty procentowe, co może się stać z właścicielem domu z hipoteką o zmiennym oprocentowaniu?</para>
+        </problem>
+        <solution id="fs-idp1433344">
+          <para id="fs-idp7469136">Ponieważ kredyt hipoteczny wykorzystuje zmienną stopę procentową, powinna się ona obniżyć w takim samym stopniu, w jakim spadła stopa inflacji, tj. o 3 punkty procentowe. Dzięki temu realna stopa procentowa w ramach tego kredytu pozostanie na stałym poziomie.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm50363664" class="review-questions">
+      <title id="UUIDc4a1e2e9-1984-4d49-5d48-ab2fd4ffff7b">Review Questions</title>
+      <exercise id="fs-idm44531696">
+        <problem id="fs-idm58900208">
+          <para id="fs-idm67157120">Czym jest indeksacja?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp2373408">
+        <problem id="fs-idm64113120">
+          <para id="fs-idm67229280">Wymień kilka możliwych obszarów stosowania indeksacji w sektorze prywatnym i publicznym.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp13610896" class="critical-thinking">
+      <title id="UUID50574c7e-3702-4972-7cd7-0313ede0728f">Critical Thinking Questions</title>
+      <exercise id="fs-idm48008912">
+        <problem id="fs-idm37829056">
+          <para id="fs-idp23274832">Jeśli rząd, zaciągając pożyczki, zyskuje na niespodziewanej inflacji, to dlaczego decyduje się na oferowanie nabywcom indeksowanych obligacji, które ograniczają te korzyści?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm40282064">
+        <problem id="fs-idp13642624">
+          <para id="fs-idp21066288">Czy uważasz, że doskonała indeksacja jest możliwa? Wyjaśnij swój sposób rozumowania.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm60206400" class="problems">
+      <title id="UUID0172478c-a37c-427a-4b43-bcfa983d3c9d">Problems</title>
+      <exercise id="fs-idm72418096">
+        <problem id="fs-idm10123088">
+          <para id="fs-idp25698448">Wskaż, dla których z wymienionych niżej podmiotów nieoczekiwany wzrost stopy inflacji o 5 punktów procentowych jest korzystny, dla których niekorzystny, a dla których neutralny:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm61366720">
+            <item id="UUIDa676664e-e306-4645-44c3-e2d7a446dfe9">
+              <para id="UUIDb0f9feb9-2eff-4be9-7997-2cf6102352b8">Członek związku zawodowego z kontraktem płacowym uwzględniającym korektę kosztów utrzymania COLA,</para>
+            </item>
+            <item id="UUID802dd957-abcf-474a-544a-d98dcbf909d3">
+              <para id="UUID0ba99b45-4000-49cd-78dc-5ae86a0333c5">Osoba posiadająca duży zapas gotówki w skrytce depozytowej w banku,</para>
+            </item>
+            <item id="UUIDda5779ed-74b7-4cae-5202-6e63ca5e6575">
+              <para id="UUIDd8454ec0-b197-4fc0-571d-3b021ed59695">Bank pożyczający pieniądze na stały procent,</para>
+            </item>
+            <item id="UUID92c38a75-b39d-4248-7b4c-889c31f25af4">
+              <para id="UUIDc7c05b5b-2c39-4104-6258-5ddfa47d7f39">Osoba, która właśnie usłyszała od swojego przełożonego, że przez kolejne 11 miesięcy na pewno nie otrzyma podwyżki.</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm18593952">
+        <problem id="fs-idm1137376">
+          <para id="fs-idm7631712">Rozalia wie, że gdy przejdzie na emeryturę za 16 lat, dostanie od swojej firmy jednorazową wypłatę w wysokości 80 tys. zł. Jaką siłę nabywczą, wyrażoną w dzisiejszych złotych, będzie miała ta kwota, jeśli w ciągu kolejnych 16 lat inflacja wyniesie 6% rocznie? Wskazówka: Zacznij od obliczenia skali wzrostu poziomu cen w ciągu kolejnych 16 lat.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp9903552" class="references">
+      <title id="UUID076071ae-cd15-40bf-644f-f9ff1a87c62d">References</title>
+      <para id="fs-idm12470784">Wines, Michael. “How Bad is Inflation in Zimbabwe?” <emphasis effect="italics">The New York Times</emphasis>, May 2, 2006. http://www.nytimes.com/2006/05/02/world/africa/02zimbabwe.html?pagewanted=all&amp;_r=0.</para>
+      <para id="fs-idm8776096">Hanke, Steve H. “R.I.P. Zimbabwe Dollar.” <emphasis effect="italics">CATO Institute</emphasis>. Accessed December 31, 2013. http://www.cato.org/zimbabwe.</para>
+      <para id="eip-392">Massachusetts Institute of Technology. 2015. "Billion Prices Project." Accessed March 4, 2015. http://bpp.mit.edu/usa/.</para>
+    </section>
+  </content>
+  <glossary id="UUIDde1d62f5-d885-47d3-785f-f5ec6738b30e">
+    <definition id="fs-idm43011696">
+      <term id="UUID92b16bb0-9f88-4b6c-795e-47f7506db49d">kredyt hipoteczny o zmiennym oprocentowaniu (ARM) (ang. <foreign xml:lang="en" id="UUIDf8ee1c1a-f7e9-48f8-4902-0cb4d90dc2d8"><emphasis effect="italics">adjustable-rate mortgage (ARM)</emphasis></foreign>)</term>
+      <meaning id="fs-idm80076128">
+        <para id="UUID8f717c6a-e152-4f88-604a-7505de12061d">kredyt wykorzystywany na zakup nieruchomości, w który wbudowana została stopa procentowa podlegająca zmianom w zależności od stopy inflacji, inaczej jest to kredyt ze stałą realną stopą procentową</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm4546880">
+      <term id="UUID8e790b1d-1647-43dd-5418-f2ca4082a764">korekta kosztów utrzymania (COLA) (ang. <foreign xml:lang="en" id="UUID0ac4b3b4-9b96-4e54-55bd-d2f096e574b5"><emphasis effect="italics">cost-of-living adjustments (COLAs)</emphasis></foreign>)</term>
+      <meaning id="fs-idm28671440">
+        <para id="UUID24812e1d-8be8-4d3b-5b52-531d4ae2c795">postanowienie umowne, dzięki któremu wysokość wynagrodzenia jest w automatyczny sposób zwiększana o wartość stopy inflacji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm79882752">
+      <term id="UUIDd58abddc-74a1-4f24-6446-3786fd7fa423">indeksacja (ang. <foreign xml:lang="en" id="UUIDff9214d2-c541-417d-5107-f812a3f3c67a"><emphasis effect="italics">indexed</emphasis></foreign>)</term>
+      <meaning id="fs-idm29445264">
+        <para id="UUIDb0b9c733-cf62-44f7-53a2-efb7671c2a39">automatyczne korygowanie cen, płac lub stóp procentowych o stopę inflacji</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U4b76d8af-23ce-44a2-8c2a-75a42a2903dd" id="U4b76d8af-23ce-44a2-8c2a-75a42a2903dd" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do tematyki bezrobocia</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00012</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/4b76d8af-23ce-44a2-8c2a-75a42a2903dd</md:content-url>
+    <md:title>Wprowadzenie do tematyki bezrobocia</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:03.082848108+00:00</md:version>
+    <md:created>2023-08-30T08:02:03.082848108+00:00</md:created>
+    <md:revised>2023-08-30T08:02:03.082848108+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>4b76d8af-23ce-44a2-8c2a-75a42a2903dd</md:uuid>
+  </metadata>
+  <content>
+    <figure id="CNX_Econ_C21_016" class="splash">
+      <title id="UUID660fb2d5-9c1f-4566-479f-3a3bb3f724b8">Bankructwo</title>
+      <media alt="Zdjęcie przedstawia tablice informujące o zakończeniu działalności przez księgarnię Borders. Ogłoszenia oznajmiają, że nie tylko wszystkie książki, ale również wyposażenie jest na sprzedaż." id="fs-idm75693232">
+        <image src="../../media//CNX_Econ_C21_016.jpg" mime-type="image/jpeg" id="UUID38f44cf8-74f0-4754-5db8-803e51bc3136" />
+      </media>
+      <caption id="UUIDab3d2f96-e5b6-4d7f-4eeb-11640d54b58f">Borders była jedną z wielu firm, które nie przetrwały głębokiej recesji gospodarczej, jaka dotknęła amerykańską gospodarkę w latach 2008–2009. (Źródło: modyfikacja pracy Luis Villa del Campo/Flickr Creative Commons). UWAGA FOTO WYMIENIONE NA NOWE - TEŻ PODMIENIĆ</caption>
+    </figure>
+    <note type="note" id="fs-idm122273584" class="bringhome economics">
+      <title id="UUID24d8d57f-0ce6-47da-4d75-85d62fdf02c0">Bezrobocie i pandemia Covid-19 – skomplikowana historia</title>
+      <para id="UUID7682ac37-400e-49c3-6fcc-f412001fc07d">W powojennej historii Stanów Zjednoczonych nigdy wcześniej nie doszło do zjawiska o porównywalnej skali. Między marcem a kwietniem 2020 r. stopa bezrobocia w USA wzrosła z 4,4% do 14,7%. (Warto zauważyć, że w ciągu całego roku 2020 bezrobocie w Polsce zwiększyło się zgodnie z danymi opublikowanymi przez GUS o ponad 1 punkt procentowy, z poziomu 5,2% w grudniu roku 2019 do 6,8% w grudniu 2020, zaś w grudniu 2022 r. stopa bezrobocia rejestrowanego była dokładnie taka sama jak przed wybuchem pandemii (<link url="https://stat.gov.pl/obszary-tematyczne/rynek-pracy/bezrobocie-rejestrowane/stopa-bezrobocia-rejestrowanego-w-latach-1990-2023,4,1.html" id="UUIDdc58acde-38d2-40be-5b68-2f72d71493de">źródło</link>)). Konsekwencją rozpoczynającej się właśnie pandemii Covid-19 i wprowadzonych w związku z tym przepisów drastycznie ograniczających nie tylko możliwości prowadzenia działalności gospodarczej, ale wręcz swobodę przemieszczania się, były miliony pracowników, którzy nagle znaleźli się bez pracy, ponieważ firmy zostały zamknięte, a ludzie, pozostając w domach, ograniczyli wydatki, zwłaszcza na restauracje, turystykę i podróże. Z czasem, w miarę poprawy sytuacji epidemiologicznej i powrotu nadziei na przywrócenie trybu życia sprzed pandemii, bezrobocie zaczęło spadać. W 2022 r., dzięki dostępności szczepionek i szybko rosnącemu odsetkowi osób zabezpieczonych przynajmniej dwoma ich dawkami, sytuacja  jeszcze się poprawiła, ale obawy przed pojawieniem się nowych, bardziej zjadliwych wariantów koronawirusa uniemożliwiały pełny powrót do normalności.</para>
+      <para id="UUID80c3be30-ca90-4dff-7fc6-c4b4db7d1a32">Pandemia Covid-19 miała również inne negatywne skutki dla rynku pracy. Stopa aktywności zawodowej (potocznie określana również jako stopa partycypacji), czyli odsetek aktywnych zawodowo (pracujących i poszukujących pracy) osób w wieku produkcyjnym spadł i na początku 2022 r. pozostał niższy niż w roku 2019. Było to konsekwencją podejmowanych samodzielnie i wymuszonych wyborów. Niektórzy byli zmuszeni do przerwania pracy z powodu wprowadzenia nauki zdalnej, zamknięcia placówek opiekuńczych (przedszkoli) i konieczności opieki nad dziećmi. Inni obawiali się kontaktów ze współpracownikami i klientami w środku globalnej pandemii. Jeszcze inni po prostu zdecydowali się przejść na wcześniejszą emeryturę. Aktywność zawodowa mierzona stopą aktywności zawodowej wciąż kładzie się cieniem na zjawisku ożywienia na rynku pracy.</para>
+      <para id="UUIDd4634d9a-f42b-4b5b-7c21-f0ab212938f8">Te dwie zmienne – stopa bezrobocia i stopa aktywności zawodowej – pokazują, jak skomplikowane mogą być zależności na rynku pracy. Mimo że stopa bezrobocia w 2021 r. spadła, rozczarowujące statystyki dotyczące aktywności zawodowej Amerykanów wskazują na ograniczoną skalę ożywienia gospodarczego. Jednego dnia można przeczytać nagłówek o tym, jak łatwo jest znaleźć lub zmienić pracę, by kolejnego zobaczyć tytuły oznajmiające, jak trudno jest pracodawcom rekrutować wykwalifikowanych pracowników. Po zakończeniu lektury tego rozdziału będziesz w stanie interpretować sytuację na rynku pracy w oparciu o dostępne dane.</para>
+    </note>
+    <note type="note" id="fs-idp55299312" class="chapter-objectives economics">
+      <title id="UUID11716002-0e51-473d-6443-90aa4be6632c">Wprowadzenie do tematyki bezrobocia</title>
+      <para id="fs-idp5590432">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idm27909488">
+        <item id="UUID3eef5821-44e8-4b4a-44f9-80ede7d95b6c">
+          <para id="UUIDb5448ab1-0bdc-44d1-56ab-260ca2862be2">Jak ekonomiści definiują i obliczają stopę bezrobocia</para>
+        </item>
+        <item id="UUIDb12b064b-a9d9-4030-43b3-3caa7b465d6d">
+          <para id="UUIDe9d995d7-07a1-4ba2-7cb1-8de799f7092d">W jaki sposób można klasyfikować różne rodzaje bezrobocia</para>
+        </item>
+        <item id="UUID15b291b9-8d49-4f49-44d3-b78f8e71b89c">
+          <para id="UUID34696359-6c45-4d65-7d4c-23a203c19a20">Jakie czynniki wpływają na poziom bezrobocia w krótkim i długim okresie</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUID7cb74859-6b01-4f0c-5e4f-d1875e5687f5">Utrata pracy staje się zazwyczaj niezwykle bolesnym i brzemiennym w skutki doświadczeniem życiowym, porównywalnym z poważnym wypadkiem samochodowym i długotrwałym procesem rozwodowym, którego konsekwencje może w pełni zrozumieć tylko ktoś, kto przez nie przeszedł. Bezrobotni i ich rodziny, nie mając bezpieczeństwa finansowego, żyją w ciągłym napięciu. Są zmuszeni do podejmowania trudnych decyzji, takich jak rezygnacja z dotychczasowego standardu życia (rozrywek, posiłków na mieście, abonamentu telewizji kablowej), sprzedaży samochodu czy zmiany miejsca zamieszkania, która szczególnie dla dzieci wyrwanych ze swojego środowiska bywa traumatyczna. Nawet jeśli osoba bezrobotna znajdzie nową pracę, to jej wynagrodzenie może być niższe niż poprzednio. Dla wielu ludzi praca jest ważnym elementem samooceny. Bezrobocie, które mocno obniża poczucie własnej wartości, może wpływać na relacje rodzinne oraz zdrowie psychiczne i fizyczne. Nierzadko – szczególnie wśród mężczyzn – prowadzi do samobójstw.</para>
+    <para id="UUID7a2d52e5-3bae-4610-63c7-8c70c6560e80">Już tylko wskazane wyżej społeczne koszty bezrobocia mogą uzasadniać uznanie tego wskaźnika za priorytet polityki ekonomicznej państwa i utrzymywanie go na jak najniższym poziomie. Jednak bezrobocie generuje również istotne koszty ekonomiczne dla całego społeczeństwa. Jeśli miliony osób bezrobotnych, ale chętnych do pracy, nie mogą znaleźć zatrudnienia, to czynniki produkcji w danej gospodarce pozostają niewykorzystane. Kraj z wysokim bezrobociem jest jak firma posiadająca gotową do pracy, ale nieużytkowaną fabrykę. Gigantycznym <term id="term-00001" class="no-emphasis">kosztem alternatywnym bezrobocia</term> (ang. <foreign xml:lang="en" id="UUID757dd7dd-c208-4d4a-40cc-36db2609cf75"><term cxlxt:index="foreign" id="UUID2da9c2ee-2a53-43fe-7c88-101d3f346601">opportunity cost of unemployment</term></foreign>) są dobra i usługi, które mogliby wyprodukować bezrobotni pracownicy.</para>
+    <para id="UUID373cb4d9-03c2-4019-5d7b-2fb0f8b1ada1">W tym rozdziale omówimy sposoby, jakie ekonomiści wykorzystują, aby bezrobocie zdefiniować i oszacować jego skalę. Przyjrzymy się zmianom stopy bezrobocia w Stanach Zjednoczonych, Polsce i innych krajach. Następnie wyjaśnimy jego rodzaje, ekonomiczne aspekty oraz narzędzia stosowane przez państwo w celu zmniejszenia rozmiaru tego zjawiska.</para>
+  </content>
+</document>

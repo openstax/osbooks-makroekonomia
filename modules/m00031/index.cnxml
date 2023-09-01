@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U7f7375bf-945b-44ff-975c-c2f544c8db72" id="U7f7375bf-945b-44ff-975c-c2f544c8db72" xml:lang="en" cnxml-version="0.7">
+  <title>6.1 Popyt i podaż z perspektywy makroekonomicznej</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00031</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/7f7375bf-945b-44ff-975c-c2f544c8db72</md:content-url>
+    <md:title>6.1 Popyt i podaż z perspektywy makroekonomicznej</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:03.889574888+00:00</md:version>
+    <md:created>2023-08-30T08:02:03.889574888+00:00</md:created>
+    <md:revised>2023-08-30T08:02:03.889574888+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>7f7375bf-945b-44ff-975c-c2f544c8db72</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-5543-8463-7c527b82d03b3911" class="learning-objectives">
+      <para id="ch24mod01_p81">Po przeczytaniu tego podrozdziału będziesz w stanie :</para>
+      <list id="list-00001">
+        <item id="UUID5bac5a81-95a0-4496-538b-748068d63517">
+          <para id="UUIDc95e07ee-c0fa-4ca5-7280-1ca690597d87">Objaśnić sposób działania prawa rynków Saya i zrozumieć, dlaczego ma ono zastosowanie przede wszystkim w długim horyzoncie czasowym</para>
+        </item>
+        <item id="UUID4a602b82-07b5-43b1-7097-64008d3665cb">
+          <para id="UUID50f6a07a-86f5-425f-65ff-a08b427b93b3">Objaśnić prawo rynków Keynesa i zrozumieć, dlaczego ma ono zastosowanie przede wszystkim w krótkiej perspektywie czasowej</para>
+        </item>
+      </list>
+    </note>
+    <para id="ch24mod01_p01">Ekonomistów z ostatnich dwóch stuleci, którzy koncentrowali swoje dociekania na zagadnieniach makroekonomicznych, możemy podzielić na dwie grupy. Członkowie pierwszej z nich uważali, że to podaż globalna jest najważniejszym czynnikiem decydującym o wielkości produkcji w danej gospodarce, a globalny popyt dostosowuje się do podaży. Z kolei reprezentanci drugiej byli przeciwnego zdania: że to właśnie popyt globalny jest najważniejszym czynnikiem wpływającym na wielkość produkcji, a globalna podaż dostosowuje się do popytu.</para>
+    <section id="ch24mod01_01">
+      <title id="UUIDfdd5576f-d4cf-4f74-78b7-3472ef660e13">Prawo rynków Saya i ekonomia podażowa</title>
+      <para id="ch24mod01_p02">Ekonomiści, którzy kładą nacisk na stronę podażową w kształtowaniu wielkości produkcji, często odwołują się do prac słynnego francuskiego ekonomisty z początku XIX w. <term id="UUIDb19ddf8e-ca47-4309-572b-89a2c23f4c29">Jeana-Baptiste'a Saya</term> (1767–1832). <term id="UUID3c1850d6-56ee-4368-75da-a5162051414e">Prawo rynków Saya</term> (<foreign xml:lang="en" id="UUIDd24556f6-929e-4c6c-7281-94c0632731d3"><term id="UUIDd985df44-181b-47fc-7450-f5c9d1d0379c">Say's law</term></foreign>) można sprowadzić do słów: „podaż kreuje popyt na samą siebie”. Żeby być precyzyjnym – Say w swoich pismach tak naprawdę jednoznacznie nigdy tego prawa nie sformułował. Stwierdzenie to jest pewnym uproszczeniem jego poglądów, niemniej dobrze oddaje sposób myślenia tego ekonomisty.</para>
+      <para id="ch24mod01_p03">Intuicja stojąca za prawem Saya polega na tym, że za każdym razem, gdy dobro lub usługa są produkowane i sprzedawane, tworzony jest czyjś dochód: pracowników i właścicieli firmy odpowiedzialnej za dostarczenie gotowego produktu na rynek, jak również pracowników i właścicieli przedsiębiorstw wchodzących w skład łańcucha tworzenia wartości (poddostawców, sprzedawców energii, właścicieli czynników produkcji wykorzystywanych w danym procesie wytwarzania itd.). Wspominaliśmy o tym wcześniej w dyskusji na temat dochodowej metody liczenia PKB. Na skutek wzajemnego oddziaływania popytu i podaży mamy do czynienia z wahaniami cen na poszczególnych rynkach. Niezależnie jednak od poziomu cen każda transakcja sprzedaży stanowi czyjś dochód, a zatem – zgodnie z prawem Saya – podaż musi gdzieś w gospodarce wykreować popyt o takiej samej wartości. Jean-Baptiste Say, <term id="UUIDe5a08ece-3d6f-4bd8-643e-c397afc29017">Adam Smith</term> oraz inni ekonomiści żyjący na przełomie XVIII i XIX w., którzy w ten sposób rozumieli sposób funkcjonowania gospodarki w skali makro, zaliczani są do klasyków ekonomii. Współcześni ekonomiści podzielający pogląd Saya o kluczowej roli strony podażowej w gospodarce nazywani są więc <term cmlnle:reference="ekonomiści neoklasyczni" id="UUID72ddf006-e89c-44f7-47f7-c25882b5dcc8">ekonomistami neoklasycznymi</term> (<foreign xml:lang="en" id="UUIDefc67710-2b1c-4247-7e3e-701b8f02d9a7"><term id="UUID33ac6d3e-022f-49e4-53bb-bac2ee084f19">neoclassical economists</term></foreign>).</para>
+      <para id="UUIDc08e31f3-63d5-4aa3-7a35-ff9fba01ec0f">Jeśli podaż co do zasady kreuje identyczny co do wartości popyt na poziomie makroekonomicznym, to – jak zauważył sam Say – trudno zrozumieć, dlaczego kiedykolwiek miałyby wystąpić okresy recesji i wysokiego bezrobocia. Aby rozwiać wszelkie wątpliwości, nawet jeśli globalna podaż zawsze kreuje taką samą wartość globalnego popytu, może się oczywiście zdarzyć, że niektóre firmy będą osiągać zyski, podczas gdy inne poniosą straty. Jednak w czasie recesji zdecydowana większość firm notuje straty i musi ograniczać skalę działalności lub nawet całkowicie ją wstrzymać. Tym samym podczas recesji gospodarka jako całość się kurczy, porażek jest więcej niż sukcesów, a wiele przedsiębiorstw bankrutuje i zwalnia pracowników.</para>
+      <para id="UUIDfb6c545c-bbec-444e-6db1-7b92a600ce22">Prawo rynków Saya, zgodnie z którym globalna podaż kreuje identyczny w skali makroekonomicznej popyt, dobrze przybliża zachowanie gospodarki w długim okresie. W perspektywie lat bądź nawet dekad, wraz ze wzrostem potencjału produkcyjnego, globalny popyt rośnie mniej więcej w tym samym tempie, co globalna podaż. Jednak w krótszym horyzoncie czasowym, obejmującym raczej kwartały i lata niż dekady, mogą się pojawić okresy, w których większość przedsiębiorstw będzie się borykać z problemem niedostatecznego popytu na swoje produkty.</para>
+    </section>
+    <section id="ch24mod01_02">
+      <title id="UUID234276b7-2dd2-43c2-41d5-ff915a6d48d1">Prawo rynków Keynesa i ekonomia popytowa</title>
+      <para id="ch24mod01_p06">Alternatywą dla prawa Saya, które podkreśla kluczową rolę strony podażowej, jest <term id="UUID88b33c49-a1fe-4149-54c8-b73297c108b8">prawo rynków Keynesa</term> (<foreign xml:lang="en" id="UUIDcc97d3da-833f-4ed2-7817-e1a79c43e9a5"><term id="UUID109b8f6d-eb39-4dca-42db-e11b5d590121">Keynes' law</term></foreign>), które można wyrazić za pomocą twierdzenia, że to „globalny popyt stymuluje globalną podaż produktów”. Podobnie jak to było w przypadku Jeana-Baptiste’a Saya, <term id="UUID1d487d46-4955-4e7c-512f-e2f9526edfa8">John Maynard Keynes</term> (<foreign xml:lang="en" id="UUIDfc372722-54ce-4650-5730-e8498a120ada"><term id="UUID36d84625-c9b2-4f38-7cc2-7bea40d5e378">John Maynard Keynes</term></foreign>) nigdy nie sformułował swojego prawa dokładnie w taki właśnie sposób, niemniej powyższa formuła trafnie oddaje jego pogląd na tę kwestię.</para>
+      <para id="ch24mod01_p08">Kiedy Keynes (właściwie powinniśmy w jego przypadku używać tytułu „lord”, ponieważ ten gigant myśli ekonomicznej XX w. w 1944 r. otrzymał tytuł szlachecki) pisał swoją najważniejszą książkę zatytułowaną „Ogólna teoria zatrudnienia, procentu i pieniądza” w czasie Wielkiego Kryzysu w latach 30. XX w., zwrócił uwagę na fakt, że w okresach nawet najgłębszych depresji możliwości produkcyjne gospodarki nie ulegają dużym zmianom. Stopa bezrobocia w USA w latach 1933–1935 zwiększyła się do ponad 20%, ale liczba potencjalnych pracowników utrzymywała się w zasadzie na niezmienionym poziomie. Fabryki zostały zamknięte, jednak maszyny i urządzenia były nadal gotowe do produkcji. Technologie, które zostały wynalezione w latach 20., w kolejnej dekadzie wciąż były dostępne. Keynes argumentował, że Wielki Kryzys (a także zdecydowana większość recesji o mniejszej skali) nie był spowodowany spadkiem możliwości produkcyjnych gospodarki wynikającym z ograniczenia dostępnych zasobów pracy, kapitału rzeczowego i technologii. Twierdził, że gospodarka nie wykorzystuje w pełni swojego potencjału produkcyjnego nie dlatego, że brakuje technologicznych możliwości wyprodukowania większej liczby dóbr i usług przy istniejących zasobach czynników wytwórczych, ale dlatego, że popyt w gospodarce jest zbyt mały i nie gwarantuje przedsiębiorstwom zbytu wyprodukowanych dóbr i usług. Keynes wskazywał, że w okresach recesji o poziomie PKB nie decydowały możliwości produkcyjne gospodarki, ale raczej wielkość całkowitego popytu.</para>
+      <para id="UUIDd2a6fd38-9f10-478d-44f9-932b96c50876">Prawo rynków Keynesa dość dobrze opisuje sposób funkcjonowania gospodarki w krótkim okresie, trwającym od kilku miesięcy do kilku lat. W tak zdefiniowanym horyzoncie czasowym wiele przedsiębiorstw może doświadczyć gwałtownego spadku popytu na swoje produkty w wyniku recesji. Albo przeciwnie – równie imponującego wzrostu zapotrzebowania na wytwarzane produkty podczas ożywienia gospodarczego, tak że firma będzie miała problemy z wyprodukowaniem wystarczającej ilości dóbr czy usług. Jednak wzrost popytu nie jest panaceum na problemy gospodarcze. Przecież gdyby tak było, państwo mogłoby zwiększyć PKB do dowolnego poziomu, po prostu nieustannie stymulując popyt globalny drogą wzrostu swoich wydatków lub poprzez obniżkę podatków prowadzącą do wzrostu konsumpcji. Gospodarki mają jednak swoje ograniczenia (bariery) produkcyjne zdefiniowane przez dostępne zasoby pracy, kapitału rzeczowego, technologii i pozostałych czynników wytwórczych, a także przez otoczenie instytucjonalne, które wpływa m.in. na efektywność wykorzystania dostępnych zasobów. Ograniczenia wynikające z możliwości produkcyjnych nie znikają automatycznie na skutek wzrostu popytu. Gospodarka Polski niezależnie od tego, jak gigantyczny popyt udałoby się w niej wygenerować, nie będzie w stanie produkować wolumenu dóbr i usług porównywalnego z gospodarką amerykańską.</para>
+    </section>
+    <section id="ch24mod01_03">
+      <title id="UUID0062d441-54e1-442f-5cdf-db88c2d7ecdc">Łączne ujęcie strony popytowej i podażowej w gospodarce</title>
+      <para id="ch24mod01_p09">Prawo rynków Saya, uwypuklające znaczenie podaży globalnej, i prawo rynków Keynesa, podkreślające kluczową rolę popytu w krótkim okresie, pozwalają na sformułowanie dwóch wniosków. Po pierwsze, analiza gospodarki skoncentrowana wyłącznie na stronie podażowej lub wyłącznie na popycie globalnym będzie niekompletna. Niezbędne jest ujęcie uwzględniające to, co się dzieje z oboma tymi parametrami. Po drugie, ponieważ prawo Keynesa dotyczy krótkiego okresu, a prawo Saya długiego, charakter relacji (substytucyjna lub komplementarna) pomiędzy trzema podstawowymi celami polityki gospodarczej (szybki i trwały wzrost gospodarczy, niskie bezrobocie i niska inflacja) w krótkim i długim okresie mogą być różne.</para>
+    </section>
+    <section id="ch24mod01_summ" class="summary">
+      <title id="UUIDb463140f-5853-47f4-58b1-8c4f798babcd">Podsumowanie</title>
+      <para id="ch24mod01_p10">Ekonomiści neoklasyczni podkreślają znaczenie prawa rynków Saya, zgodnie z którym globalna podaż kreuje popyt na samą siebie. Z kolei ekonomiści identyfikujący się z poglądami głoszonymi przez Keynesa kładą nacisk na sformułowane przez niego prawo rynków, w myśl którego to popyt globalny wpływa na wielkość podaży w gospodarce. Wielu ekonomistów głównego nurtu (reprezentujących ortodoksyjny nurt w makroekonomii) przyjmuje jednocześnie perspektywę keynesowską, podkreślającą znaczenie popytu globalnego, w krótkim okresie ograniczonym do kilku lat, i perspektywę neoklasyczną, kładącą nacisk na podaż globalną, w długim okresie (powyżej 5 lat).</para>
+    </section>
+    <section id="ch24mod01_sques" class="self-check-questions">
+      <title id="UUID0c4d173c-db81-43fa-6e48-b1caf0939382">Pytania sprawdzające</title>
+      <exercise id="ch24mod01_sques01">
+        <problem id="ch24mod01_squesp01">
+          <para id="ch24mod01_p11">Opisz mechanizm, za pomocą którego globalna podaż kreuje popyt.</para>
+        </problem>
+        <solution id="ch24mod01_sques01s">
+          <para id="ch24mod01_p12">Aby produkować, przedsiębiorstwa muszą zatrudniać pracowników (wykorzystywać kapitał i ziemię), którzy w ten sposób uzyskują dochód (czynniki produkcji są wynagradzane). Swoje wynagrodzenie, równe wartości wytworzonych dóbr i usług, pracownicy (właściciele kapitału i ziemi) przeznaczają na zakupy towarów, które wyprodukowali.</para>
+        </solution>
+      </exercise>
+      <exercise id="ch24mod01_sques02">
+        <problem id="ch24mod01_squesp02">
+          <para id="ch24mod01_p13">Opisz mechanizm, za pomocą którego globalny popyt kreuje podaż.</para>
+        </problem>
+        <solution id="ch24mod01_sques02s">
+          <para id="ch24mod01_p14">Kiedy konsumenci chcą kupić więcej dóbr i usług, niż jest dostępne na rynku, ceny rosną. Dodatkowe możliwości zysku skłaniają nowe przedsiębiorstwa do wejścia do gałęzi i wyprodukowania dodatkowych towarów (a te, które już funkcjonowały w branży, do zwiększenia produkcji), aby zaspokoić dodatkowy popyt. W ten sposób rośnie podaż.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="ch24mod01_rques" class="review-questions">
+      <title id="UUID14ed8128-2bfb-4726-46fc-918236c27780">Sprawdź wiedzę</title>
+      <exercise id="ch24mod01_rques02">
+        <problem id="ch24mod01_rques01p">
+          <para id="ch24mod01_p15">Wyjaśnij działanie prawa rynków Saya.</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod01_rques04">
+        <problem id="ch24mod01_rques03p">
+          <para id="ch24mod01_p17">Wyjaśnij działanie prawa rynków Keynesa.</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod01_rques05">
+        <problem id="ch24mod01_rques04p">
+          <para id="ch24mod01_p18">Czy ekonomiści neoklasyczni identyfikują się z prawem rynków Keynesa, czy z prawem Saya?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod01_rques06">
+        <problem id="ch24mod01_rques05p">
+          <para id="ch24mod01_p19">Czy prawo rynków Saya objaśnia funkcjonowanie gospodarki w krótkim, czy w długim okresie? A prawo rynków Keynesa?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch24mod01_ctques" class="critical-thinking">
+      <title id="UUID5abbdc7a-2b4a-495d-6544-7e9bdc86a648">Ćwicz myślenie krytyczne</title>
+      <exercise id="ch24mod01_ctques01">
+        <problem id="ch24mod01_ctques01p">
+          <para id="ch24mod01_p20">Dlaczego jedni ekonomiści analizują sposób funkcjonowania gospodarki przede wszystkim na podstawie modelu neoklasycznego, inni zaś głównie na podstawie modelu keynesowskiego?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch24mod01_ref" class="references">
+      <title id="UUID1bdbcd33-ee72-444d-427a-090174f5aba3">Bibliografia</title>
+      <para id="ch24mod01_ref01">Keynes, John Maynard. <emphasis effect="italics">The General Theory of Employment, Interest and Money</emphasis>. London: Palgrave Macmillan, 1936.</para>
+      <para id="ch24mod01_ref02">U.S. Department of Commerce: United States Census Bureau. “New Residential Sales: Historical Data.” http://www.census.gov/construction/nrs/historical_data/.</para>
+    </section>
+  </content>
+  <glossary id="UUID78ccb171-2f69-4dba-5bdc-ffe35d49ec48">
+    <definition id="ch24mod01_gl01">
+      <term id="UUID83b6b3d2-794d-483b-4e04-bca81508b11c">prawo rynków Keynesa (ang. <foreign xml:lang="en" id="UUIDf29ba3fb-6725-4778-4e38-b711c2846f6e">Keynes’ law</foreign>)</term>
+      <meaning id="ch24mod01_gl01m">
+        <para id="UUIDe126b256-bb2e-4da8-676a-fa83a8a52a06">przeświadczenie, że to popyt globalny kreuje rozmiary podaży globalnej</para>
+      </meaning>
+    </definition>
+    <definition id="ch24mod01_gl02">
+      <term id="UUID0e5aad56-b01c-4d24-7fc0-146e15327f94">ekonomiści neoklasyczni (ang. <foreign xml:lang="en" id="UUID96c62731-bb34-4b0c-5deb-6e428d37f831">neoclassical economists</foreign>)</term>
+      <meaning id="ch24mod01_gl02m">
+        <para id="UUIDd1c6edf2-9a92-4a01-6234-2dfb9f70f92d">ekonomiści podkreślający kluczową rolę strony podażowej w kształtowaniu rozmiarów produkcji w gospodarce w długim okresie</para>
+      </meaning>
+    </definition>
+    <definition id="ch24mod01_gl03">
+      <term id="UUIDcbcba280-59f2-45b6-5f7a-720ecbda440d">prawo rynków Saya (ang. <foreign xml:lang="en" id="UUID53b8c93d-bc24-46ff-4fa1-f81392bab0d2">Say’s law</foreign>)</term>
+      <meaning id="ch24mod01_gl03m">
+        <para id="UUIDa3302b4c-444d-4455-4bff-a6e31880da54">przeświadczenie, zgodnie z którym to podaż globalna determinuje rozmiary globalnego popytu</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U2bd08e6b-7756-4a5a-8163-04df85f4ea68" id="U2bd08e6b-7756-4a5a-8163-04df85f4ea68" xml:lang="en" cnxml-version="0.7">
+  <title>5.5 Zalety i wady deficytu handlowego</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00028</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/2bd08e6b-7756-4a5a-8163-04df85f4ea68</md:content-url>
+    <md:title>5.5 Zalety i wady deficytu handlowego</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:03.857209282+00:00</md:version>
+    <md:created>2023-08-30T08:02:03.857209282+00:00</md:created>
+    <md:revised>2023-08-30T08:02:03.857209282+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>2bd08e6b-7756-4a5a-8163-04df85f4ea68</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-5543-j665-7c527b82d03b3911" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUIDa33f7f13-6829-481c-7713-e407bd1b0b4f">
+          <para id="UUID05ffbbc4-e1b4-47fe-6019-adb1ab2f3009">Wskazać trzy mechanizmy, które sprawiają, że utrzymywanie deficytu handlowego i pozycja pożyczkobiorcy międzynarodowego netto poprawia kondycję gospodarki</para>
+        </item>
+        <item id="UUIDa5c7b7bc-7322-4a10-6ebb-085371f50260">
+          <para id="UUID22d83b67-10b0-498e-6148-9ed85fda4eec">Wskazać trzy mechanizmy, które sprawiają, że utrzymywanie deficytu handlowego i pozycja pożyczkobiorcy międzynarodowego netto osłabia kondycję gospodarki</para>
+        </item>
+      </list>
+    </note>
+    <para id="UUIDd04c59b0-c48f-433c-4734-5805ecb1fd33">Transakcje rynkowe zawsze obejmują ekwiwalentne wobec transferu dóbr i usług przepływy finansowe (w końcu jeśli kupujesz cokolwiek choćby w osiedlowym sklepie, to niemal jednocześnie ze zdjęciem konkretnego produktu z półki i włożeniem go do torby pieniądze z twojego portfela lub konta wędrują do właściciela sklepu). Podobnie dzieje się w ramach handlu zagranicznego, gdzie przepływom dóbr i usług pomiędzy krajami towarzyszą ekwiwalentne przepływy międzynarodowego kapitału finansowego (zakupom ropy naftowej przez Orlen w Arabii Saudyjskiej – czyli polskiemu importowi – odpowiada strumień kapitału, który jest zapłatą za ten surowiec). Pytanie o to, czy deficyty lub nadwyżki handlowe są dobre, czy złe dla gospodarki, jest z ekonomicznego punktu widzenia dokładnie tym samym, co rozstrzyganie, czy lepiej jest polegać na napływie netto kapitału finansowego z zagranicy, czy może jednak inwestować krajowy kapitał poza granicami, czyli stać się międzynarodowym pożyczkodawcą netto. Obiegowa mądrość głosi, że pożyczanie pieniędzy jest zazwyczaj nierozsądne, a kraj prowadzący rozsądną politykę, podobnie jak rozważna osoba, powinien zawsze polegać na własnych zasobach. Choć z pewnością można zapożyczyć się za bardzo (co może poświadczyć każdy, komu bank zablokował kartę kredytową), pożyczanie pieniędzy w specyficznych sytuacjach również da się ekonomicznie uzasadnić. Tym samym zarówno w wypadku jednostek, jak i państw polityka konsekwentnego powstrzymywania się od korzystania z pożyczek, w tym pożyczek udzielanych na międzynarodowym rynku finansowym, nie niesie ze sobą żadnych ekonomicznych korzyści.</para>
+    <para id="UUID4e8fa603-2fcb-4a2e-59b1-f23d39c0ed56">Pożyczanie ma sens wtedy, gdy kupuje się coś, co przynosi korzyści w długim okresie, a więc gdy pożyczka finansuje inwestycję. Zaciągnięcie kredytu, który pozwoli sfinansować studia, ma sens, ponieważ zdobycie tytułu magistra zwiększa, przeciętnie rzecz biorąc, zarobki osób z wyższym wykształceniem w stosunku do absolwentów szkół średnich. Wyższe wynagrodzenie po zakończeniu studiów umożliwi spłatę zaciągniętego kredytu. Z punktu widzenia przedsiębiorstw wzięcie pożyczki lub zaciągnięcie kredytu na zakup nowej maszyny również jest ekonomicznie uzasadnione, oczywiście jeśli maszyna pozwoli zwiększyć zyski firmy na tyle, by udało się zaciągnięte zobowiązania spłacić. Podobnie z punktu widzenia gospodarki konkretnego kraju pożyczanie pieniędzy na międzynarodowym rynku finansowym ma sens o tyle, o ile środki te zostaną wykorzystane w sposób przyspieszający tempo wzrostu gospodarczego. Wówczas taki kraj z czasem będzie w stanie spłacić zaciągnięte zobowiązania finansowe, zaś jego mieszkańcy dzięki napływowi kapitału uzyskają wyższy standard życia.</para>
+    <para id="UUIDd0437cd7-4df5-485b-5a87-40212e9dcae8">Dobrym przykładem państwa, które dużo pożyczało za granicą, mądrze inwestowało otrzymane środki i doskonale sobie dzięki nim radziło, są Stany Zjednoczone w XIX w. USA utrzymywały deficyty handlowe niemal przez cały okres między rokiem 1831 a 1875 (dokładniej – przez 40 z 45 lat), co automatycznie oznaczało pozycję pożyczkobiorcy netto. Kapitał finansowy napływający z zagranicy inwestowany był m.in. w rozwój sieci kolejowej, co przyspieszyło dynamikę wzrostu i rozwoju gospodarczego. Przeczytaj poniższą <link target-id="fs-idp67624720" cmlnle:case="accusative" id="UUID61bbfca8-9af9-4e85-4afd-d595aa06381e" />, aby uzyskać więcej informacji na ten temat.</para>
+    <para id="UUID2e2084a6-9942-44c3-79e8-68a94d6e6cbc">Bardziej współczesnym przykładem jest Korea Południowa i jej doświadczenia z lat 70. XX w. Niemal przez całą dekadę kraj ten utrzymywał deficyt handlowy i tym samym stał się importerem kapitału. Jednocześnie jednak dzięki napływowi międzynarodowego kapitału Korea Południowa miała bardzo wysoki wolumen inwestycji przedsiębiorstw, szczególnie w maszyny i urządzenia, pozwalający jej uzyskiwać wysokie tempo wzrostu gospodarczego. Począwszy od połowy lat 80. przez kolejne dziesięć lat Korea Południowa notowała z kolei nadwyżki handlowe, co oznaczało, że spłacała swoje wcześniejsze pożyczki, wysyłając kapitał za granicę.</para>
+    <para id="UUIDf93fa5cb-6448-42bf-413b-5d8729aaea7d">Z drugiej strony niektóre kraje, utrzymując wysokie deficyty handlowe, zaciągają znaczne pożyczki na światowych rynkach finansowych i popadają przez to w różnego rodzaju kłopoty. Powtórzmy zatem: deficyt sam w sobie nie jest ani dobry, ani zły. Kluczowe jest to, w jaki sposób napływające do kraju środki zostaną wykorzystane. Warto w tym kontekście przeanalizować dwa rodzaje problemów o charakterze wewnętrznym i zewnętrznym. Po pierwsze, państwo pożyczkobiorca może znaleźć się w trudnej sytuacji, jeśli nie zainwestuje napływających z zagranicy środków w sposób prowadzący do wzrostu produktywności. Kilka dużych gospodarek Ameryki Łacińskiej, w tym Meksyk i Brazylia, miało w latach 70. XX w. wysokie deficyty handlowe i tym samym dużo pożyczało za granicą. Napływ kapitału finansowego nie zwiększył jednak w wystarczającym stopniu produktywności i nie doprowadził do przyspieszenia tempa wzrostu gospodarczego, co oznaczało, że kraje te miały ogromne problemy ze spłatą pożyczonych pieniędzy, gdy w kolejnej dekadzie warunki gospodarcze się zmieniły. Podobny problem dotknął wiele państw afrykańskich, które w latach 70. i 80. XX w. chętnie zaciągały pożyczki na międzynarodowych rynkach finansowych, ale nie inwestowały ich w produktywny sposób. W rezultacie większość z nich musiało później spłacać wysokie odsetki, co było wyzwaniem dla ich gospodarek, które właściwie nie skorzystały z kapitału napływającego kilka lub kilkanaście lat wcześniej.</para>
+    <note type="note" id="fs-idp67624720" class="clearup economics">
+      <title id="UUIDc17ec69d-6170-4699-638e-0054b085a56a">Czy deficyty handlowe zawsze są szkodliwe?</title>
+      <para id="UUID21f896f4-5501-4029-679f-c2cd8d59767e">Przez większą część XIX w. import USA przewyższał eksport, a gospodarka notowała deficyty handlowe. Jednak sytuacja ta wcale nie wstrzymała tempa wzrostu i rozwoju amerykańskiej gospodarki. Przeciwnie, to właśnie owe deficyty przyczyniły się do imponującego tempa wzrostu gospodarczego, który dał USA najwyższy na świecie poziom PKB per capita około roku 1900.</para>
+      <para id="UUID8240364f-5e63-4e88-4904-e9c405ab3f33">Deficyty handlowe oznaczały, że Stany Zjednoczone były w tym samym okresie pożyczkobiorcą netto na rynkach światowych. Większość napływającego kapitału została zainwestowana w rozwój infrastruktury, przede wszystkim kolejowej, lecz również drogowej, wodociągowej czy oświatowej. Oba rodzaje inwestycji przełożyły się – jakkolwiek nie wprost – na wzrost dynamiki amerykańskiej gospodarki.</para>
+      <para id="UUID14a5b64c-2317-4e4c-78a2-bc24210a4d60">Nie powinniśmy oczywiście przeceniać wpływu zagranicznego kapitału inwestycyjnego na tempo wzrostu gospodarczego w USA. Dla większości lat zagraniczny kapitał finansowy stanowił nie więcej niż 6–10% środków, które wykorzystywano na inwestycje w gospodarce. Niemniej jednak deficyty handlowe i towarzyszący im napływ funduszy z zagranicy wyraźnie pomogły, a nie przeszkodziły w rozwoju Stanów Zjednoczonych w XIX w.</para>
+    </note>
+    <para id="fs-idm101260976">Drugim rodzajem problemów związanych z napływem kapitału międzynarodowego do danego kraju jest mobilność środków finansowych. Kapitał może wypłynąć z kraju równie szybko, jak wcześniej do niego wpłynął. Omówiliśmy ten scenariusz na początku niniejszego rozdziału. W połowie lat 90. ub. wieku wiele krajów wschodniej Azji – Tajlandia, Indonezja, Malezja i Korea Południowa – notowało wysokie deficyty handlowe i importowało kapitał z zagranicy. Jednak w roku 1997 i 1998 inwestorzy zagraniczni uznali, że kondycja tych gospodarek nie gwarantuje spłaty zaciągniętych wcześniej zobowiązań, i zaczęli wycofywać swoje kapitały (sprzedając akcje, obligacje, nieruchomości i likwidując depozyty w sektorze bankowym). Niezwykle szybki odpływ zagranicznego kapitału wstrząsnął systemami bankowymi i gospodarkami tych krajów, pogrążając je w głębokiej recesji. Związki pomiędzy międzynarodowymi przepływami kapitału, sektorem bankowym i kondycją gospodarki zostaną dokładnie omówione w <link document="m00068" cmlnle:case="locative" id="UUIDf017e2ef-0fd7-42dc-5708-3c311d5b593d" />.</para>
+    <para id="fs-idm44919456">Jak zatem widać, deficyt handlowy nie zawsze jest zjawiskiem niekorzystnym dla gospodarki. Analogicznie nie ma również gwarancji, że nadwyżka handlowa przełoży się na poprawę kondycji ekonomicznej danego kraju. Na przykład Niemcy i Japonia w ciągu ostatnich 30 lat notowały znaczne nadwyżki handlowe niemal nieprzerwanie. Niezależnie od utrzymującego się dodatniego salda w bilansie handlowym oba kraje od czasu do czasu doświadczały recesji i żaden z nich nie odnotował w tym okresie szczególnie wysokiego tempa wzrostu gospodarczego. Więcej o nadwyżce handlowej Japonii możesz przeczytać w <link target-id="fs-idp84358176" cmlnle:case="locative" id="UUID71bfe2a1-2a5d-49e7-5210-cdfae8ac6cc6" />.</para>
+    <note type="note" id="fs-idp242806608" class="economics linkup">
+      <para id="fs-idp117134944">Obejrzyj to <link url="http://openstax.org/l/tradedeficit" id="UUID07fe83e6-8483-4c1b-6260-ff9518e79f1b">wideo</link> aby się przekonać, czy deficyt handlowy jest korzystny, czy raczej szkodliwy dla gospodarki.</para>
+    </note>
+    <para id="UUID804962a9-aef2-4a66-6a8b-7339930ba6d9" />
+    <note type="note" id="fs-idp84358176" class="clearup economics">
+      <title id="UUIDf1558a51-cd91-487d-5ff9-e3859abc2d11">Czy nadwyżki handlowe zawsze są korzystne? Sytuacja Japonii pod koniec XX w.</title>
+      <para id="UUID25afe26f-5076-4350-7c00-794a60a260e1">Prawdopodobnie żadna gospodarka na świecie nie kojarzy się bardziej z nadwyżkami w bilansie obrotów handlowych niż Japonia. Wraz z rozpoczęciem ostatniej dekady XX w. wysokość tych nadwyżek sięgała często nawet 100 mld dol. rocznie. Gdy japońska gospodarka rozwijała się dynamicznie w latach 60. i 70. ub. stulecia, wiele osób, szczególnie nieposiadających wykształcenia ekonomicznego, wskazywało na wysokie nadwyżki handlowe Japonii zarówno jako na przyczynę, jak i skutek jej świetnej kondycji gospodarczej. Biorąc jednak pod uwagę tempo wzrostu gospodarczego, od początku lat 90. ub. wieku Japonia balansuje na krawędzi recesji. Dynamika realnego wzrostu PKB w skali roku nie przekracza 1%, a bezrobocie cały czas rośnie. Najwyraźniej ogromna nadwyżka handlowa nie jest gwarancją wysokiego tempa wzrostu.</para>
+      <para id="UUID707e80b6-a606-4642-4290-feb45c722d10">W istocie nadwyżka handlowa Japonii odzwierciedla fakt, że kraj ten ma bardzo wysoki wolumen oszczędności krajowych. Japońska gospodarka dysponuje większymi zasobami kapitału, niż jest w stanie zainwestować w kraju, a więc środki te muszą wypłynąć za granicę. W pogrążonej w stagnacji gospodarce Japonii konsumpcja towarów importowanych jest stosunkowo niska, podobnie zresztą jak globalne wydatki na zakupy dóbr i usług. W efekcie eksport Japonii stale przewyższa import, utrzymując nadwyżkę handlową na wysokim poziomie. Dopiero z początkiem drugiej dekady XXI w. nadwyżka handlowa Japonii zaczęła się zmniejszać, zaś w 2013 r. kraj ten odnotował deficyt ze względu na wysokie koszty importowanej ropy. Niemniej w 2015 r. Japonia ponownie zanotowała nadwyżkę w bilansie handlowym i dodatnie saldo tego bilansu utrzymuje się do początku trzeciej dekady obecnego stulecia.</para>
+    </note>
+    <section id="fs-idp87720448" class="summary">
+      <title id="UUIDd6df7a3b-76d6-409f-5288-aee4b0435872">Key Concepts and Summary</title>
+      <para id="UUID075944f8-2328-4108-60c9-6de9b9a04725">Nadwyżki handlowe nie są gwarancją utrzymywania korzystnej kondycji gospodarczej, zaś deficyty handlowe nie oznaczają automatycznie jej słabości. Deficyty, podobnie jak nadwyżki, same w sobie nie są ani dobre, ani złe. Kluczowe jest to, w jaki sposób napływające do kraju środki finansowe z międzynarodowych rynków zostaną wykorzystane – czy zasilą inwestycje zwiększające produktywność i przekładające się na przyspieszenie dynamiki wzrostu gospodarczego, czy też nie.</para>
+    </section>
+    <section id="fs-idp67673408" class="self-check-questions">
+      <title id="UUID026b14cb-aef6-424e-4437-aa38977ae8da">Self-Check Questions</title>
+      <exercise id="fs-idp23126016">
+        <problem id="fs-idp109193712">
+          <para id="fs-idp20720896">Dla każdego z poniższych punktów wskaż, czy ten rodzaj wydatku uzasadnia – z punktu widzenia produktywności – powstanie deficytu budżetowego.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm2917232">
+            <item id="UUID3afd2ec1-f1a8-43cb-6983-c344cee78a27">
+              <para id="UUIDe9b99088-1ebf-4f6f-50bc-7aa0f03f3216">Wzrost strumienia środków zasilających NFZ</para>
+            </item>
+            <item id="UUIDeb7a7a47-608a-45a4-4410-97c4f840971d">
+              <para id="UUID88f4400f-807f-449d-4ac2-b2aca4ff4da6">Zwiększone wydatki na edukację</para>
+            </item>
+            <item id="UUIDcb673a1e-43ec-46e2-6efe-690386027f7e">
+              <para id="UUID35d163c8-520b-424b-4601-c3c4577a0443">Zwiększone wydatki na program przezbrajania polskiej armii</para>
+            </item>
+            <item id="UUID9a485648-acee-4696-6174-95a88fa9ebab">
+              <para id="UUID1cb778db-72a5-436c-6b12-f87690c9b75d">Zwiększone wydatki na lotniska i kontrolę ruchu lotniczego</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idm67360576">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm170677648">
+            <item id="UUIDe3a67648-c528-4582-4774-bd14ce50a9ac">
+              <para id="UUIDdb7a9b35-fa25-46a0-4114-909b230c13ed">Wzrost strumienia środków zasilających NFZ nie przekłada się automatycznie na wzrost produktywności, więc deficyt budżetowy nie jest uzasadniony.</para>
+            </item>
+            <item id="UUID84ec5373-565d-415d-6eef-3d05bcbbdfdf">
+              <para id="UUID8c93efcd-c748-4cec-5359-18b1a3c050ba">Zwiększone wydatki na edukację zwiększą produktywność i przyspieszą wzrost gospodarczy, więc deficyt budżetowy jest uzasadniony.</para>
+            </item>
+            <item id="UUIDcc538b4c-a03c-4624-6eb7-8e462c31022e">
+              <para id="UUID1a740293-d27a-4728-4032-6a522d86794f">Zwiększone wydatki na program przezbrajania armii mogą nie zwiększyć produktywności, więc deficyt budżetowy nie jest uzasadniony.</para>
+            </item>
+            <item id="UUID254d10b9-48e2-4595-7ac5-fe0e98669c3b">
+              <para id="UUID5a4512c0-53ba-4f17-49c8-1970e0339b24">Zwiększone wydatki na lotniska i kontrolę ruchu lotniczego zwiększą produktywność i przyspieszą wzrost gospodarczy, więc deficyt budżetowy jest uzasadniony.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp16261952">
+        <problem id="fs-idp148829280">
+          <para id="fs-idp45810624">W jaki sposób wysokie deficyty handlowe zaszkodziły krajom Azji Południowo-Wschodniej w połowie lat 80. XX w.? (Przypomnijmy, że deficyty handlowe są tożsame z napływem kapitału finansowego z zagranicy).</para>
+        </problem>
+        <solution id="fs-idp149816912">
+          <para id="fs-idm44735936">Zagraniczni inwestorzy zaczęli obawiać się o perspektywy odzyskania ulokowanych w tych krajach środków i zaczęli wycofywać kapitał z giełdy, rynków obligacji i nieruchomości oraz sektora bankowego.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp41124208">
+        <problem id="fs-idm32519312">
+          <para id="fs-idm51012480">Opisz scenariusz, w którym nadwyżka handlowa jest korzystna dla gospodarki, oraz taki, w którym nadwyżka handlowa charakteryzuje gospodarkę znajdującą się w kiepskiej kondycji. Jaki kluczowy czynnik lub czynniki determinują wpływ salda bilansu handlowego na sytuację gospodarczą danego kraju?</para>
+        </problem>
+        <solution id="fs-idm8502368">
+          <para id="fs-idp109185888">Szybko rosnąca nadwyżka handlowa może wynikać z wielu czynników, nie warto więc pochopnie zakładać jej konkretnej przyczyny. Jeśli jednak istnieją tylko dwie możliwości: albo gospodarka pogrążona jest w recesji, albo szybko się rozwija, to odpowiedzią będzie recesja. W czasie recesji popyt globalny na dobra i usługi, w tym oczywiście towary importowane, spada. Eksport zależy przede wszystkim od sytuacji w krajach, do których jest on kierowany, stąd wzrost nadwyżki handlowej.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp6393504" class="review-questions">
+      <title id="UUID904d3318-846a-4e3b-59d9-8fa255e43c57">Review Questions</title>
+      <exercise id="fs-idp2237328">
+        <problem id="fs-idm39191648">
+          <para id="fs-idm95164912">W jakich warunkach deficyt handlowy może mieć korzystny wpływ na gospodarkę? A w jakich może być niekorzystny?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm79938672">
+        <problem id="fs-idm94362608">
+          <para id="fs-idp7684464">Czy nadwyżka handlowa w automatyczny sposób przekłada się na wysokie tempo wzrostu gospodarczego?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm35709744" class="critical-thinking">
+      <title id="UUIDe5b2a690-2133-49ab-529e-232741f96795">Critical Thinking Question</title>
+      <exercise id="fs-idp68023184">
+        <problem id="fs-idp18614416">
+          <para id="fs-idp74815328">Co jest ważniejsze: saldo na rachunku obrotów bieżących danego kraju czy tempo wzrostu jego PKB? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm55210192" class="references">
+      <title id="UUID31fd20d9-537e-4a00-6814-aad715ad3c76">References</title>
+      <para id="fs-idp49820240">Tabuchi, Hiroko. “Japan Reports a $78 Billion Trade Deficit for 2012.” <emphasis effect="italics">The New York Times</emphasis>, January 23, 2013. http://www.nytimes.com/2013/01/24/business/global/japan-reports-a-78-billion-trade-deficit-for-2012.html?_r=0.</para>
+      <para id="eip-655">World Bank. 2014. "Exports of Goods and Services (% of GDP)." Accesed April 13, 2015. http://data.worldbank.org/indicator/NE.EXP.GNFS.ZS/countries.</para>
+    </section>
+  </content>
+</document>

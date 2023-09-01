@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ue8b16063-24dc-4f2b-a935-62f59d78cb18" id="Ue8b16063-24dc-4f2b-a935-62f59d78cb18" xml:lang="en" cnxml-version="0.7">
+  <title>10.3 Wpływ polityki pieniężnej na wynik ekonomiczny</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00054</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/e8b16063-24dc-4f2b-a935-62f59d78cb18</md:content-url>
+    <md:title>10.3 Wpływ polityki pieniężnej na wynik ekonomiczny</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:04.779902211+00:00</md:version>
+    <md:created>2023-08-30T08:02:04.779902211+00:00</md:created>
+    <md:revised>2023-08-30T08:02:04.779902211+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>e8b16063-24dc-4f2b-a935-62f59d78cb18</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <list id="list-00001">
+      <item id="UUID17f3ed8a-d025-416d-5b77-cfea7f83b6ff">
+        <para id="UUIDd2a2fe4a-7a37-4d6c-7e6f-8f201cc854e9">Porównać ekspansywną i restrykcyjną politykę pieniężną</para>
+      </item>
+      <item id="UUID7b84b8c5-f74c-45b0-47fd-5205337cc07a">
+        <para id="UUID5828f51d-859e-4313-710b-b5aef943f194">Wyjaśnić, w jaki sposób polityka pieniężna wpływa na poziom stóp procentowych w gospodarce i zagregowany popyt</para>
+      </item>
+      <item id="UUIDf2b76155-4460-4c4e-5466-4430326a8f3e">
+        <para id="UUID4c9c95d3-4229-4b42-7569-c1e43c153221">Ocenić skuteczność polityki pieniężnej jako narzędzia stymulowania gospodarki na przykładzie decyzji podejmowanych przez amerykański System Rezerwy Federalnej</para>
+      </item>
+      <item id="UUID70b6dd0a-5717-4beb-4f29-c95e305d73fe">
+        <para id="UUIDee3c8f4e-ebdb-4b78-5ce2-80c452ac5f80">Wyjaśnić znaczenie luzowania ilościowego (QE) jako narzędzia kontroli podaży pieniądza</para>
+      </item>
+    </list>
+    <para id="UUIDcf66cf88-b734-46cd-63db-7172ca01c291">Polityka pieniężna, która dzięki stymulowaniu wzrostu podaży pieniądza przekłada się na obniżanie stóp procentowych i wzrost wartości zaciągniętych pożyczek, nazywana jest <term cmlnle:reference="ekspansywna polityka pieniężna" id="UUID610b2524-9585-49d1-47c2-b75a15a6796a">ekspansywną</term> (ang. <foreign xml:lang="en" id="UUID6982e073-00ae-431f-6bd1-c2f3b64e3d77"><term id="UUID40a45076-2784-4c15-4fbb-1859101d6d8f">expansionary monetary policy</term></foreign> albo <foreign xml:lang="en" id="UUID4759581d-aa72-4656-75d4-b2d60f7afd23"><term id="UUID56fdca3b-1f80-4470-4f3e-9d2173b5615c">loose monetary policy</term></foreign>). I odwrotnie – polityka pieniężna, której efektem jest wzrost stóp procentowych i zmniejszenie wartości pożyczek (dzięki zmniejszeniu podaży pieniądza), określana jest jako <term cmlnle:reference="restrykcyjna polityka pieniężna" id="UUIDdad1545f-0ec4-4650-57e1-37288d065619">restrykcyjna</term> (ang. <foreign xml:lang="en" id="UUIDc97e2d9e-3e12-4d9d-44ec-6cb61a3a2bbb"><term id="UUIDb3a92577-e139-4919-73d9-7471250a209f">contractionary monetary policy</term></foreign> lub <foreign xml:lang="en" id="UUIDd674a4e7-6cfa-427f-7f1b-520c8fbc1100"><term id="UUIDc6b2c1ce-29ca-4f8a-788f-aa6ae652f878">tight monetary policy</term></foreign>. Należy również podkreślić, iż polityka pieniężna prowadzona przez bank centralny wpływa na bieżącą wycenę instrumentów dłużnych (głównie obligacji), których cena zależy od wysokości stóp procentowych - rosnące stopy zmniejszają bieżącą cenę obligacji.  W tym podrozdziale omówimy sposób, w jaki ekspansywna i restrykcyjna polityka pieniężna wpływają na wysokość stóp procentowych, zagregowany popyt, a tym samym na wysokość bezrobocia oraz stopę inflacji. Spróbujemy też ocenić skuteczność polityki pieniężnej prowadzonej przez amerykański FED w ciągu ostatnich 50 lat.</para>
+    <section id="fs-idm78734896">
+      <title id="UUIDea16bf58-929f-49ca-571e-c8ade8bf768a">Wpływ polityki pieniężnej na stopy procentowe</title>
+      <para id="fs-idm54023136">Rozważmy model rynku opisujący podaż i popyt na pożyczki udzielane przez banki komercyjne, przedstawiony na <link target-id="CNX_Econ_C28_002" cmlnle:case="locative" id="UUIDfa9242e6-09c0-423d-41ab-2537a3580c4b" />. Pierwotna równowaga (E<sub>0</sub>) występuje przy stopie procentowej równej 8% i wartości udzielonych (zaciągniętych) pożyczek równej 10 mld zł. Ekspansywna polityka pieniężna przesunie podaż funduszy pożyczkowych w prawo (z pierwotnego położenia S<sub>0</sub> do S<sub>1</sub>). Doprowadzi to do ukształtowania się nowej równowagi (w punkcie E<sub>1</sub>), przy niższej stopie procentowej (6%) i wartości pożyczek równej 14 mld zł. I odwrotnie, restrykcyjna polityka pieniężna przesunie podaż funduszy pożyczkowych w lewo (z pierwotnego położenia S<sub>0</sub> do S<sub>2</sub>). Tym razem równowaga ukształtuje się w punkcie E<sub>2</sub>, przy wyższym poziomie stóp procentowych (10%) i niższej wartości udzielonych pożyczek (8 mld zł).</para>
+      <figure id="CNX_Econ_C28_002">
+        <title id="UUID7b4a791d-dfa7-4e29-776e-ba8ab5af3f92">Polityka pieniężna i stopy procentowe</title>
+        <media alt="Wykres pokazuje, w jaki sposób polityka pieniężna determinuje położenie krzywej podaży funduszy pożyczkowych i tym samym wysokość stóp procentowych w gospodarce." id="fs-idp468784">
+          <image src="../../media//CNX_Econ_C28_002.svg" mime-type="image/svg+xml" id="UUID26dc89cf-7328-4955-5237-2493ea0cc735" />
+        </media>
+        <caption id="UUID3ac1c609-1fdb-46ac-64ad-9198ee8adad6">Pierwotna równowaga opisana jest punktem E0. Ekspansywna polityka pieniężna przesunie podaż funduszy pożyczkowych w prawo, z położenia S<sub>0</sub> do S<sub>1</sub>, co będzie oznaczać przesunięcie równowagi do punktu E<sub>1</sub> i tym samym spadek stóp procentowych z 8% do 6%. Restrykcyjna polityka pieniężna przesunie podaż funduszy pożyczkowych do położenia S<sub>2</sub>, tj. w lewo w stosunku do pierwotnej krzywej podaży (S<sub>0</sub>), co doprowadzi do wzrostu stóp procentowych do poziomu 10%.</caption>
+      </figure>
+      <para id="fs-idm96661744">W jaki sposób bank centralny może podnieść poziom stóp procentowych w gospodarce? Analizując komentarze do działań banku centralnego w zakresie polityki pieniężnej, bardzo często można natknąć się na stwierdzenia, że bank centralny „podniósł stopy procentowe” lub „obniżył stopy procentowe”. Trzeba jednak pamiętać, że jest to skrót myślowy. Bank centralny nie ma bowiem władzy, która pozwala mu bezpośrednio ustalać poziom stóp procentowych w gospodarce, czyli np. wysokość oprocentowania, którą konkretny bank komercyjny obciąży kredyt udzielony przedsiębiorstwu produkującemu śruby i mutry, lub też oprocentowanie depozytu wpłaconego przez rodzinę Kowalskich do tego samego banku. Za pomocą narzędzi opisanych w poprzednim podrozdziale (np. operacji otwartego rynku) bank centralny wpływa jednak na wartość pożyczek udzielanych w gospodarce i tym samym – co pokazuje <link target-id="CNX_Econ_C28_002" id="UUID17cc5c08-e2a8-4478-49bb-c173631ae589" /> – na wysokość stóp procentowych. Bank centralny będzie kontynuował swoje działania dopóty, dopóki nie doprowadzi do ukształtowania się stóp procentowych w gospodarce na pożądanym poziomie.</para>
+      <para id="UUID7d636af7-dbe6-47f5-42a3-519d7297a644">Oczywiście rynki finansowe wykorzystują bardzo wiele różnych stóp procentowych w kontekście różnego rodzaju pożyczek, kredytów, pożyczkobiorców reprezentujących różny poziom ryzyka czy okres, na jaki środki pieniężne są udostępnione przedsiębiorstwom lub gospodarstwom domowym. Niemniej jeśli działania banku centralnego zwiększają (zmniejszają) podaż pieniądza, można oczekiwać, że oprocentowanie w gospodarce spadnie (wzrośnie) niezależnie od tego, jakiego instrumentu finansowego będzie dotyczyć. Należy jednak pamiętać, że nie ma łatwego i bezpośredniego przełożenia działań banku centralnego na wysokość oprocentowania zaciągniętego przez ciebie kredytu. W Polsce podwyżki stóp procentowych wykorzystywanych przez NBP w rozliczeniach z bankami komercyjnymi doprowadziły w 2022 r. do znacznie szybszego wzrostu stopy WIBOR (odzwierciedlającej oczekiwania rynku co do zmiany stóp NBP w przyszłości), która była wówczas dość powszechnie wykorzystywana jako baza do wyznaczania oprocentowania np. kredytów hipotecznych. Dynamika wzrostu WIBOR-u przewyższała tempo podwyżek stóp procentowych, na jakie zdecydował się Narodowy Bank Polski. Warto podkreślić, iż wartość WIBOR kształtuje się pomiędzy wysokością stopy lombardowej i referencyjnej NBP, które zostały przywołane w poprzednim podrozdziale.</para>
+    </section>
+    <section id="fs-idp98596512">
+      <title id="UUID69f52e86-9bb2-490a-4bd1-57b5abf647b0">Wpływ polityki pieniężnej na zagregowany (globalny) popyt</title>
+      <para id="UUIDa9072326-5c79-4274-4665-88e7dec80b03">Polityka pieniężna wpływa na rynkowe stopy procentowe i dostępną ilość funduszy pożyczkowych oferowanych przez sektor bankowy, co z kolei przekłada się na wolumen zagregowanego popytu. Restrykcyjna polityka pieniężna, która prowadzi do wyższych stóp procentowych i zmniejszonej ilości funduszy pożyczkowych, będzie miała negatywny wpływ na dwa składniki popytu globalnego – inwestycje i konsumpcję. Inwestycje dokonywane przez przedsiębiorstwa zmniejszą się, ponieważ pożyczki dla firm staną się droższe. Jeśli określona inwestycja (np. zakup nowej linii produkcyjnej lub ciężarówki) przyniesie w ciągu roku 8% zwrotu, to po wzroście stopy procentowej obciążającej ewentualną pożyczkę do poziomu 10% wydatkowanie środków na ten projekt stanie się nieopłacalne (środki pozyskane dzięki dokonanej inwestycji nie pozwolą na spłatę zaciągniętej pożyczki). Z kolei przedsiębiorstwa, które dysponują środkami własnymi, z pewnością zauważą, że przy wyższych stopach procentowych relatywnie bardziej atrakcyjny jest zakup papierów wartościowych lub po prostu założenie depozytu niż pozyskanie środków trwałych służących zwiększeniu potencjału produkcyjnego. Wyższe stopy procentowe zniechęcą również gospodarstwa domowe do zakupu dóbr trwałego użytku, ponieważ wzrost oprocentowania podniesie koszt nabycia domu lub samochodu. W krańcowych przypadkach wzrost stopy procentowej może oznaczać również utratę zdolności kredytowej dla części gospodarstw domowych (wysokość miesięcznej raty kapitałowej powiększonej o odsetki będzie wyższa niż ich miesięczne dochody, które mogą przeznaczyć na jej spłatę). I odwrotnie, ekspansywna polityka pieniężna, prowadząca do niższych stóp procentowych i większej ilości funduszy pożyczkowych, będzie zwiększała inwestycje przedsiębiorstw i konsumpcję gospodarstw domowych.</para>
+      <para id="fs-idp162497616">Jeśli gospodarka zmaga się z recesją i wysokim bezrobociem, a produkcja jest poniżej poziomu <term cmlnle:reference="potencjalny PKB" id="UUID39615228-2145-4b0b-7e4f-9d9f38080fe0">potencjalnego PKB</term>, ekspansywna polityka pieniężna może pomóc gospodarce powrócić do poziomu PKB oznaczającego pełne wykorzystanie zdolności wytwórczych. Panel (a) <link target-id="CNX_Econv1-2_C28_08" cmlnle:case="genitive" id="UUID0596c199-8f94-4f07-63d6-c91f5847b779" /> pokazuje taką właśnie sytuację. Analizowany przykład dotyczy krótkiego okresu, w związku z tym będziemy wykorzystywać krótkookresową krzywą podaży globalnej (SAS). Równowaga w gospodarce borykającej się z recesją występuje przy poziomie produkcji równej 600, tj. w punkcie E<sub>0</sub>. Ekspansywna polityka pieniężna pozwoli obniżyć stopy procentowe i tym samym pobudzi wydatki inwestycyjne i konsumpcyjne, powodując przesunięcie pierwotnej krzywej zagregowanego popytu (AD<sub>0</sub>) w prawo, do położenia AD<sub>1</sub>. Nowa równowaga ukształtuje się na poziomie równym potencjalnemu PKB (czyli 700) w punkcie E<sub>1</sub>.</para>
+      <figure id="CNX_Econv1-2_C28_08">
+        <title id="UUID7e597ef8-fa54-4a4b-419c-8628d943e759">Ekspansywna i restrykcyjna polityka pieniężna</title>
+        <media alt="Wykres pokazuje, w jaki sposób zmiany podaży pieniądza mogą w czasie recesji przywrócić wolumen produkcji w gospodarce do poziomu potencjalnego PKB." id="fs-idp97363200">
+          <image src="../../media//CNX_Econv1-2_C28_08.svg" mime-type="image/svg+xml" id="UUID88dad27d-38e1-457e-408a-b444a04d7b6d" />
+        </media>
+        <caption id="UUID8c02441f-370f-4592-7bc9-5c117f8cace8">Panel (a) Gospodarka boryka się z recesją, a produkcja i poziom cen są wyznaczone przez punkt równowagi E0. Ekspansywna polityka pieniężna obniży stopy procentowe i przesunie zagregowany popyt w prawo, z położenia AD<sub>0</sub> do AD<sub>1</sub>, prowadząc do nowej równowagi (E<sub>1</sub>), dla której wolumen produkcji jest równy poziomowi potencjalnego PKB przy niemal niezmienionym poziomie cen. Panel (b) W punkcie startu analizy wolumen produkcji jest wyższy od potencjalnego PKB, co prowadzi do powstania presji inflacyjnej (równowaga jest w punkcie E<sub>0</sub>). Restrykcyjna polityka pieniężna przesunie zagregowany popyt w lewo, z położenia AD<sub>0</sub> do AD<sub>1</sub>, obniżając wolumen produkcji do poziomu potencjalnego PKB i zmniejszając poziom cen (równowaga w punkcie E<sub>1</sub>).</caption>
+      </figure>
+      <para id="UUIDf8d0da32-dd06-4e81-6a36-d4ad29c650ae">I odwrotnie, jeśli gospodarka produkuje wolumen przekraczający poziom jej potencjalnego PKB, restrykcyjna polityka pieniężna może zmniejszyć presję inflacyjną. Na panelu (b) <link target-id="CNX_Econv1-2_C28_08" cmlnle:case="genitive" id="UUID14dca84e-c6d1-4e0c-42ea-f76e5722915f" /> pierwotna równowaga (E<sub>0</sub>) występuje przy produkcji równej 750, czyli powyżej poziomu potencjalnego PKB. Restrykcyjna polityka pieniężna podniesie stopy procentowe, zniechęci przedsiębiorstwa i gospodarstwa domowe do zaciągania pożyczek na wydatki inwestycyjne i konsumpcyjne oraz spowoduje przesunięcie pierwotnej krzywej popytu (AD<sub>0</sub>) w lewo, do położenia AD<sub>1</sub>, tak że nowa równowaga (E<sub>1</sub>) ukształtuje się na poziomie potencjalnego PKB równym 700.</para>
+      <para id="UUID417c623f-bb6d-4a8f-52ba-f824dccd60b8">Przykłady te sugerują, że polityka pieniężna powinna mieć charakter <term id="UUIDb300e5a3-284f-4e33-7fb2-63727080c6bf">antycykliczny</term> (ang. <foreign xml:lang="en" id="UUID441f78f6-10e3-4c15-45bc-b745f265b12c"><term id="UUID7394be49-bddd-4deb-6c6e-92e2a3e1ed1c">countercyclical</term></foreign>); to znaczy działać w taki sposób, aby zmniejszać amplitudę wahań wielkości produkcji w trakcie cyklu koniunkturalnego. Bank centralny powinien rozluźniać politykę pieniężną, gdy recesja powoduje wzrost bezrobocia, i zaostrzyć ją, gdy w gospodarce pojawia się presja inflacyjna. Oczywiście polityka antycykliczna niesie ze sobą niebezpieczeństwo nadmiernej reakcji. Jeśli ekspansywna polityka pieniężna ukierunkowana na zakończenie recesji będzie wdrażana w zbyt gwałtowny sposób, może doprowadzić do tak dużego wzrostu zagregowanego popytu (przesunąć go tak mocno w prawo), że wywoła to inflację. Z kolei jeśli restrykcyjna polityka pieniężna mająca na celu obniżenie inflacji będzie wdrażana w sposób zbyt gwałtowny (czasami w tym kontekście wykorzystuje się określenie „schładzanie gospodarki”), może doprowadzić do nadmiernego skurczenia się zagregowanego popytu (nadmiernie przesunąć go w lewo), co wywoła recesję. (Niektórzy ekonomiści wskazują, że z taką sytuacją mieliśmy do czynienia w Polsce na przełomie XX i XXI w.). <link target-id="CNX_Econ_C28_011" id="UUIDa85fe359-d103-4d34-7b3c-a4b619045e93" /> podsumowuje łańcuch efektów, które łączą ekspansywną i restrykcyjną politykę pieniężną ze zmianami produkcji i poziomu cen.</para>
+      <figure id="CNX_Econ_C28_011">
+        <title id="UUIDa0142342-4047-4f54-5720-19fba17944a8">Mechanizm transmisji impulsów monetarnych na poziom produkcji i cen w gospodarce</title>
+        <media alt="Wykres pokazuje mechanizm transmisji, poprzez który polityka pieniężna wpływa na wielkość produkcji i poziom cen w gospodarce." id="fs-idm7152896">
+          <image src="../../media//CNX_Econ_C28_011.svg" mime-type="image/svg+xml" id="UUID38ca2c77-18af-4eb8-7e57-8bea4636f105" />
+        </media>
+        <caption id="UUIDd57784f0-942d-4ee0-4002-c75515a59209">Panel (a) W ramach ekspansywnej polityki pieniężnej bank centralny zwiększa podaż pieniądza, co obniża stopę procentową, i stymulując wzrost inwestycji oraz konsumpcji, przesuwa zagregowany popyt w prawo. Rezultatem jest wyższy poziom cen i – przynajmniej w krótkim okresie – wyższy realny PKB. Panel (b) W ramach restrykcyjnej polityki pieniężnej bank centralny zmniejsza podaż pieniądza, co zwiększa stopę procentową, a obniżając skłonność do inwestowania i konsumpcji, przesuwa zagregowany popyt w lewo. Rezultatem jest niższy poziom cen i – przynajmniej w krótkim okresie – niższy realny PKB.</caption>
+      </figure>
+    </section>
+    <section id="fs-idp1628816">
+      <title id="UUID71cb55ba-c461-474b-6787-7639e18db36c">Działania Rezerwy Federalnej w czasie ostatnich 50 lat</title>
+      <para id="UUID3611fdd7-7c6d-43c4-65cd-128d08c37d39">Przyjrzyjmy się polityce pieniężnej prowadzonej przez System Rezerwy Federalnej w okresie ostatnich 50 lat, tj. od początku lat 70. XX w. aż do roku 2020, aby zrozumieć, w jaki sposób amerykański bank centralny za pomocą operacji otwartego rynku wpływał na wysokość stóp procentowych.</para>
+      <para id="UUIDc2f520b9-0a8f-42aa-5948-56a93c893ae3">Oczywiście, próba analizy historii gospodarczej USA w ciągu ostatnich 50 lat tylko przez pryzmat posunięć FED pomija inne czynniki, które w tym okresie wpływały na poziom bezrobocia, długość i częstotliwość występowania recesji, tempo wzrostu gospodarczego i poziom inflacji. Analizowany okres został podzielony na dziesięć epizodów, które potwierdzają, że Rezerwa Federalna jest podmiotem mającym największy wpływ na kondycję amerykańskiej gospodarki, a jej przewodniczący (lub przewodnicząca) dysponuje niezwykle szerokim zakresem władzy.</para>
+      <para id="fs-idp9023376"><link target-id="CNX_Econv1-2_C28_10" id="UUIDc2ff6cba-ade4-4104-4077-5a0f0beb41a2" /> pokazuje, w jaki sposób System Rezerwy Federalnej prowadził politykę pieniężną, kierując się wysokością stopy procentowej funduszy federalnych w latach 1970–2020. Wykres przedstawia kształtowanie się stopy procentowej funduszy federalnych (pamiętaj, że to jest właśnie parametr ustalany w ramach operacji otwartego rynku w USA), <term id="UUIDfe726093-4256-4202-5bb8-9fd87277e7e8">stopy bezrobocia</term> i <term id="UUID2c2c3299-7a52-4e66-5ca4-95989a6d726e">stopy inflacji</term>.</para>
+      <figure id="CNX_Econv1-2_C28_10">
+        <title id="UUID310990f7-80e0-4123-6464-19f144552eda">Polityka pieniężna, bezrobocie i inflacja</title>
+        <media alt="Wykres przedstawia historyczne stopy inflacji, bezrobocia oraz stopę procentową funduszy federalnych w okresie ostatnich 50 lat w USA." id="fs-idp661936">
+          <image src="../../media//CNX_Econv1-2_C28_10.svg" mime-type="image/svg+xml" id="UUID72e76f1f-0ae5-485f-654d-e70b148b2c0d" />
+        </media>
+        <caption id="UUID67471fc4-0539-40ad-6197-91f4dbc88005">Analizując kształtowanie się stopy procentowej funduszy federalnych, stopy bezrobocia i stopy inflacji, można dostrzec, że FED na wysoką inflację reagował zazwyczaj, zaostrzając politykę pieniężną (podnosząc stopę procentową funduszy federalnych), zaś wraz z rosnącym bezrobociem obniżał stopę procentową funduszy federalnych, czyli wdrażał ekspansywny wariant polityki pieniężnej.</caption>
+      </figure>
+      <para id="UUIDb59ef2b1-1eaa-4c6d-566a-aeec63f44eb1"><emphasis effect="bold">Zdarzenie</emphasis> <emphasis effect="bold">1</emphasis></para>
+      <para id="UUIDd3a076d5-db95-4792-5cd5-95cbd4da6e51">Przyjrzyjmy się najpierw końcówce lat 70. XX w. Stopa inflacji była wówczas relatywnie wysoka (powyżej 10% w 1979 i 1980 r.), w związku z czym FED zastosował restrykcyjny wariant polityki pieniężnej, w ramach którego stopa funduszy federalnych wzrosła z 5,5% w roku 1977 r. do 16,4% w roku 1981. Do roku 1983 stopa inflacji spadła do 3,2%, ale zagregowany popyt skurczył się na tyle gwałtownie, że w 1980 r. i w okresie 1981–1982 doszło do kolejnych recesji, a stopa bezrobocia wzrosła z 5,8% w roku 1979 do 9,7% w 1982.</para>
+      <para id="fs-idm24176"><emphasis effect="bold">Zdarzenie 2</emphasis></para>
+      <para id="UUID05638dd9-21bf-4ffc-6d1e-2d941ab33fe5">Na początku lat 80. wśród ekonomistów panował konsensus, że inflacja spada, w związku z czym FED rozpoczął cykl obniżek stopy procentowej (rozluźnił politykę monetarną), aby ograniczyć bardzo wysokie bezrobocie. Stopa procentowa funduszy federalnych zmniejszyła się z 16,4% w 1981 r. do 6,8% w 1986 r. Mniej więcej do roku 1986 inflacja spadła do ok. 2%, a stopa bezrobocia obniżyła się do 7% i nadal malała.</para>
+      <para id="fs-idp9116752"><emphasis effect="bold">Zdarzenie 3</emphasis></para>
+      <para id="UUID918bf682-c935-44e5-665b-1de94600fa66">Pod koniec lat 80. inflacja ponownie zaczęła jednak rosnąć, z 2% w 1986 do 5% w 1989 r. W odpowiedzi System Rezerwy Federalnej zastosował restrykcyjną politykę pieniężną i podniósł stopę funduszy federalnych z 6,6% w roku 1987 do 9,2% w 1989. Restrykcyjny wariant polityki pieniężnej zatrzymał inflację, która spadła z ponad 5% w roku 1990 do poniżej 3% w roku 1992, ale przyczynił się również do wywołania recesji w latach 1990–1991, w czasie której stopa bezrobocia wzrosła z 5,3% w roku 1989 do 7,5% w 1992.</para>
+      <para id="fs-idp9117888"><emphasis effect="bold">Zdarzenie 4</emphasis></para>
+      <para id="UUID48952398-e381-4944-4d92-7a886e394366">Na początku lat 90., gdy powszechne stało się przekonanie, że inflacja znów jest pod kontrolą, FED – rozluźniając politykę pieniężną – obniżył stopy procentowe (z 8,1% w roku 1990 do 3,5% w 1992). Wraz z rozwojem gospodarki stopa bezrobocia zaczęła spadać z 7,5% w roku 1992 do mniej niż 5% w 1997.</para>
+      <para id="fs-idp9140752"><emphasis effect="bold">Zdarzenia 5 i 6</emphasis></para>
+      <para id="UUIDb3db6578-0146-43b7-76a9-1ddc9fd313ba">W połowie lat 90. Rezerwa Federalna w odpowiedzi na rosnącą presję inflacyjną w amerykańskiej gospodarce podniosła stopę funduszy federalnych z 3% do 5,8% w latach 1993–1995. Dzięki temu relatywnie umiarkowanemu zacieśnieniu polityki pieniężnej udało się uniknąć wzrostu inflacji i utrzymać satysfakcjonujące tempo wzrostu gospodarczego. Następnie w latach 1999–2000 FED, obawiając się, że inflacja ponownie zacznie rosnąć, podniósł stopę procentową funduszy federalnych z 4,6% w grudniu 1998 r. do 6,5% w czerwcu 2000 r. Udało się w ten sposób zmniejszyć stopę inflacji, ale w roku 2001 amerykańska gospodarka wpadła w recesję. W latach 2000–2002 stopa bezrobocia wzrosła z 4,0% do 5,8%.</para>
+      <para id="fs-idp738720"><emphasis effect="bold">Zdarzenia 7 i 8</emphasis></para>
+      <para id="UUIDd270edb6-c92a-4b92-42ba-c2f27b351564">Wzrost stopy bezrobocia stał się dla Systemu Rezerwy Federalnej impulsem do gwałtownego rozluźnienia polityki pieniężnej. Stopa funduszy federalnych spadła z 6,2% w roku 2000 do zaledwie 1,7% w 2002, a następnie ponownie do zaledwie 1% w roku 2003. Głównym motywem tego dość panicznego posunięcia była obawa przed deflacją, która w poprzedniej dekadzie dotknęła japońską gospodarkę. Wraz z zakończeniem recesji stopa bezrobocia również zaczęła spadać, zaś FED rozpoczął powolne zacieśnianie polityki pieniężnej, podnosząc stopę funduszy federalnych aż do 2007 r., gdy osiągnęła ona poziom 5%.</para>
+      <para id="fs-idm26368"><emphasis effect="bold">Zdarzenie 9</emphasis></para>
+      <para id="UUID64b88b60-351a-4952-61d5-cab0a18374a3">W roku 2008 rozpoczął się globalny kryzys finansowy, który wymusił na Rezerwie Federalnej gwałtowne rozluźnienie polityki pieniężnej. Wysokość stopy funduszy federalnych spadła z poziomu 2% w roku 2008 do zera w 2009. Pomimo tego posunięcia amerykańska gospodarka wciąż pozostawała w głębokiej recesji (bezrobocie wzrosło z 4,6% w roku 2007 do 9,6% w 2010). Operacje otwartego rynku nie mogły doprowadzić stopy funduszy federalnych do poziomu niższego od zera. FED został zmuszony do znalezienia alternatywnych instrumentów polityki pieniężnej.</para>
+      <para id="UUIDf9d92d15-2d34-4367-7c72-96153dc5567a"><emphasis effect="bold">Zdarzenie 10</emphasis></para>
+      <para id="UUID5f4de09a-b663-4585-57ec-023427a20126">Wraz z rozpoczęciem pandemii w marcu 2020 r. FED ponownie obniżył stopy procentowe, zmniejszając w ciągu kilku tygodni docelową stopę funduszy federalnych z 2% do 0–0,25%. Gwałtowne rozluźnienie polityki pieniężnej – podobnie jak 12 lat wcześniej – nie przyniosło pożądanych rezultatów (bezrobocie gwałtownie wzrosło, z poziomu 3,7% w roku 2019 do 8,1% w 2020). Wsparcie gospodarki po raz kolejny wymagało nieszablonowych rozwiązań.</para>
+    </section>
+    <section id="fs-idp9045664">
+      <title id="UUIDe59bc0ea-3af8-4b0e-426e-cffa38b0fb70">Luzowanie ilościowe</title>
+      <para id="UUID134ff611-2318-4df5-7f7d-a7b6831c939b">Najskuteczniejszy i w związku z tym najczęściej wykorzystywany tradycyjny instrument polityki pieniężnej – operacje otwartego rynku – działają poprzez zwiększanie lub zmniejszanie podaży pieniądza w sposób, który wpływa na stopy procentowe w gospodarce. Jednak pod koniec roku 2008, gdy Stany Zjednoczone zmagały się z recesją, System Rezerwy Federalnej obniżył już w ten sposób stopy procentowe do poziomu bliskiego zeru. Ponieważ recesja wciąż trwała, FED zdecydował się na wykorzystanie innowacyjnego narzędzia wpływu na stopy procentowe w gospodarce, znanego jako <term id="UUIDea348251-c119-435c-68a3-df56a99bfdbd">luzowanie ilościowe</term> (ang. <foreign xml:lang="en" id="UUIDd0a83453-ae84-4dba-424a-5877b51bc6fc"><emphasis effect="bold" /><term id="UUID28883ae2-98ba-4201-7412-f503cae27ef4"><emphasis effect="bold">Q</emphasis>uantitative <emphasis effect="bold">E</emphasis>asing</term></foreign>). Polega ono na kupowaniu przez bank centralny długoterminowych publicznych i prywatnych papierów wartościowych (zarówno tych zabezpieczonych hipoteką, jak i przede wszystkim obligacji skarbowych) w celu zwiększenia podaży funduszy pożyczkowych i pobudzenia <term cmlnle:reference="zagregowany popyt" id="UUIDd74c2b74-c9c1-46cb-5b8d-9b550ddd19fa">zagregowanego popytu</term>.</para>
+      <para id="UUID25299f5d-7476-4b60-58c9-0c4b3b84b134">Luzowanie ilościowe różniło się od tradycyjnej polityki pieniężnej na kilka kluczowych sposobów. Po pierwsze, Rezerwa Federalna kupowała obligacje (długoterminowe papiery wartościowe) zamiast bonów (czyli papierów o charakterze krótkoterminowym). Stało się tak dlatego, że w 2008 r. zniknęła możliwość stymulowania gospodarki poprzez obniżanie krótkoterminowych stóp procentowych. Te były już bowiem ekstremalnie niskie. (Więcej informacji na ten temat można znaleźć na końcu tego rozdziału w <link target-id="fs-idp12365104" document="m00055" cmlnle:case="locative" id="UUIDa8e5c15c-9a62-4228-6686-0fd2016085e5" />. Dlatego prezes FED Ben Bernanke dążył do obniżenia długoterminowych stóp procentowych za pomocą luzowania ilościowego.</para>
+      <para id="UUIDbdcdc511-d121-462c-7a0c-1b686c626709">Prowadzi to do drugiej różnicy pomiędzy QE a tradycyjną polityką pieniężną. Zamiast kupować jedynie skarbowe papiery wartościowe, FED zaczął skupować również prywatne papiery wartościowe zabezpieczone hipoteką, czego nigdy wcześniej nie robił. W czasie kryzysu finansowego, który stał się bezpośrednią przyczyną recesji, papiery wartościowe zabezpieczone hipoteką nazywano aktywami toksycznymi, ponieważ w sytuacji załamania rynku nieruchomości nikt nie potrafił oszacować, ile w rzeczywistości są one warte, co postawiło instytucje finansowe utrzymujące te instrumenty w bardzo trudnej sytuacji. Oferując zakup papierów wartościowych zabezpieczonych hipoteką, FED nie tylko obniżał długoterminowe stopy procentowe, ale też uwalniał bilanse banków komercyjnych z tych toksycznych aktywów, co stabilizowało system bankowy.</para>
+      <para id="fs-idp647360">Luzowanie ilościowe (QE) zostało przeprowadzone w trzech etapach:</para>
+      <list list-type="enumerated" id="fs-idp60976">
+        <item id="UUIDa86299a9-7d0c-4daa-4efa-4c88be465cc9">
+          <para id="UUID9d9be27f-e81e-40d6-4484-2e7be6e7ca1e">Podczas fazy pierwszej (określanej jako QE<sub>1</sub>), która rozpoczęła się w listopadzie 2008 r., FED kupił za 600 mld dol. papiery wartościowe zabezpieczone hipoteką od agencji rządowych Fannie Mae i Freddie Mac.</para>
+        </item>
+        <item id="UUID0a29f401-c464-430a-4f58-afd1ce5238ba">
+          <para id="UUIDa226f156-6926-4904-733d-8db6f2c9b5d4">W listopadzie 2010 r. FED rozpoczął QE<sub>2</sub>, w ramach którego kupił amerykańskie obligacje skarbowe o wartości 600 mld dol.</para>
+        </item>
+        <item id="UUIDe572679b-b189-4ecd-778b-81ee19a19ecb">
+          <para id="UUIDe976e2d9-1b5a-4c93-6a7d-8e6e2d781f39">Etap trzeci (QE<sub>3</sub>) nastąpił we wrześniu 2012 r., gdy System Rezerwy Federalnej zainicjował operację zakupu papierów wartościowych zabezpieczonych hipoteką o wartości 40 mld dol. miesięcznie. Kwota ta została zwiększona w grudniu 2012 r. do 85 mld dol. miesięcznie. Jednocześnie FED stwierdził, że gdy tylko warunki gospodarcze na to pozwolą, zacznie zmniejszać swoje zaangażowanie (lub zmniejszać wartość miesięcznych zakupów). W październiku 2014 r. System Rezerwy Federalnej ogłosił, że po raz ostatni kupuje obligacje o wartości 15 mld dol. i tym posunięciem kończy politykę luzowania ilościowego.</para>
+        </item>
+      </list>
+      <para id="UUID392ff23d-b6a6-4908-6f2b-15b550822b4c">O polityce luzowania ilościowego, którą przyjął System Rezerwy Federalnej (podobnie jak inne banki centralne na całym świecie), zwykle myślimy jako o tymczasowych środkach nadzwyczajnych. Jeśli te kroki mają być tymczasowe, FED będzie musiał zaprzestać udzielania tych dodatkowych pożyczek i sprzedać zgromadzone papiery wartościowe (zapewne ze znaczną stratą). Istnieją poważne obawy, że proces luzowania ilościowego może okazać się znacznie trudniejszy do odwrócenia niż jego uchwalenie i przeprowadzenie. Analizy sugerują, że o ile QE<sub>1</sub> przyniosło pożądany skutek, to już QE<sub>2</sub> i QE<sub>3</sub> były znacznie mniej efektywne.</para>
+      <para id="UUIDc5b2371b-f076-433b-464d-d30bdc36549e">Szybko przenieśmy się do marca 2020 r., kiedy to System Rezerwy Federalnej pod przewodnictwem Jerome’a Powella obiecał kolejną rundę zakupów aktywów mającą zapewnić płynność finansową zagrożonemu kryzysem pandemicznym systemowi finansowemu, którą niektórzy nazwali „QE<sub>4</sub>”. Ten etap był znacznie krótszy, a jednocześnie bardziej intensywny – FED zwiększył wartość swoich aktywów o 2 bln dol. w ciągu zaledwie kilku miesięcy. Dość szybko jednak System Rezerwy Federalnej rozpoczął proces ograniczania zakupów. Niemniej na koniec 2021 r. łączna wartość aktywów FED przekroczyła wartość 8 bln dol., wobec 4 bln w lutym 2020 r.</para>
+    </section>
+    <section id="fs-idp8984592" class="summary">
+      <title id="UUID12517d04-adeb-4219-7b74-f66cd2a23a8a">Key Concepts and Summary</title>
+      <para id="UUID18591677-6f0e-4535-76b5-dce3e0541957">Ekspansywna polityka pieniężna zwiększa ilość pieniądza oraz wartość udzielonych pożyczek i w ten sposób pozwala na obniżenie stóp procentowych w gospodarce, co zwiększa wolumen zagregowanego popytu i przeciwdziała recesji. Restrykcyjna polityka pieniężna zmniejsza ilość pieniądza oraz wartość udzielonych pożyczek i w ten sposób przyczynia się do podniesienia stóp procentowych w gospodarce, co ogranicza wolumen zagregowanego popytu i przeciwdziała inflacji. Podczas recesji w latach 2008–2009 i ponownie w czasie kryzysu pandemicznego w roku 2020 banki centralne na całym świecie wykorzystywały luzowanie ilościowe jako niestandardowe narzędzie służące zwiększaniu podaży funduszy pożyczkowych i tym samym stymulowaniu zagregowanego popytu.</para>
+    </section>
+    <section id="fs-idp157072" class="self-check-questions">
+      <title id="UUID871b4a5c-5295-4d19-4fd5-184dc83a237e">Self-Check Questions</title>
+      <exercise id="fs-idp183264">
+        <problem id="fs-idp183520">
+          <para id="fs-idm50736">Dlaczego restrykcyjna polityka pieniężna powoduje wzrost stóp procentowych?</para>
+        </problem>
+        <solution id="fs-idm50224">
+          <para id="fs-idm50096">Restrykcyjna polityka pieniężna zmniejsza ilość funduszy pożyczkowych w gospodarce. Podobnie jak w przypadku wszystkich innych towarów nadwyżka popytu nad podażą prowadzi do wyższej ceny, więc stopa procentowa lub inaczej mówiąc, cena pożyczanych pieniędzy rośnie.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm160128">
+        <problem id="fs-idm159872">
+          <para id="fs-idm159616">Dlaczego ekspansywna polityka pieniężna powoduje spadek stóp procentowych?</para>
+        </problem>
+        <solution id="fs-idm546944">
+          <para id="fs-idm546816">Wzrost ilości dostępnych funduszy pożyczkowych sprawia, że podaż zaczyna przekraczać zgłaszany popyt, co prowadzi do obniżki stóp procentowych (ceny pieniądza na rynku).</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp9111296" class="review-questions">
+      <title id="UUID98a8a33c-2455-4636-7982-b0a9537b6ec2">Review Questions</title>
+      <exercise id="fs-idp302848">
+        <problem id="fs-idp303104">
+          <para id="fs-idp303360">W jaki sposób ekspansywna i restrykcyjna polityka pieniężna wpływają na ilość pieniądza w gospodarce?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp301360">
+        <problem id="fs-idp301616">
+          <para id="fs-idp301872">W jaki sposób restrykcyjna i ekspansywna polityka pieniężna wpływają na stopy procentowe?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp302512">
+        <problem id="fs-idp9122384">
+          <para id="fs-idp9122640">W jaki sposób ekspansywna i restrykcyjna polityka pieniężna wpływają na zagregowany popyt?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp9123392">
+        <problem id="fs-idm211872">
+          <para id="fs-idm211616">Jakiej polityki pieniężnej spodziewałbyś się w odpowiedzi na wysoką inflację: ekspansywnej czy restrykcyjnej? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm210848">
+        <problem id="fs-idp721184">
+          <para id="fs-idp721440">Objaśnij, w jaki sposób można wykorzystać luzowanie ilościowe do stymulowania zagregowanego popytu</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp722208" class="critical-thinking">
+      <title id="UUIDd7c6c9f0-ba3e-4f85-45ad-0eda9ed3350e">Critical Thinking Question</title>
+      <exercise id="fs-idp305040">
+        <problem id="fs-idp305296">
+          <para id="fs-idp25296">Dobrze znany model ekonomiczny zwany krzywą Phillipsa (omówiony w <link document="m00037" id="UUIDaa162012-917f-4145-46c0-d5e807382ce0" />) opisuje krótkookresowy wybór typu „coś za coś” pomiędzy inflacją a bezrobociem. Wykorzystując pojęcia ekspansywnej i restrykcyjnej polityki pieniężnej, wyjaśnij, dlaczego w krótkim okresie, gdy jedna z tych zmiennych (np. bezrobocie) spada, to druga (np. inflacja) zazwyczaj rośnie.</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUID48a45897-3c60-46ec-57a7-ccdf42497742">
+    <definition id="fs-idm35984">
+      <term id="UUID3c246e8a-431b-490d-62e8-36c2f9a91465">restrykcyjna polityka pieniężna (ang. <foreign xml:lang="en" id="UUID07bcd89c-e0e7-45dc-5565-b0686a395fea"><term id="UUID51497a13-4979-487d-796f-be29b9d66630">contractionary monetary policy</term></foreign> lub <foreign xml:lang="en" id="UUID06cc273d-ca7a-472f-41a5-8ffcb38b2380"><term id="UUIDcc29185c-79e6-4275-7f3b-8df719abf551">tight monetary policy</term></foreign>)</term>
+      <meaning id="fs-idm35344">
+        <para id="UUID91d215b6-8735-4375-5f6e-f0e23db9ab6e">polityka pieniężna, która ograniczając podaż pieniądza, prowadzi do wzrostu stóp procentowych w gospodarce</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm34832">
+      <term id="UUID6f2534ee-1f05-4587-42ce-ebc7799ef8e9">antycykliczny (ang. <foreign xml:lang="en" id="UUID30c62415-433f-41b1-485c-d5283edc5720"><term id="UUID88177380-0e8a-46c8-5464-0d49db353e51">countercyclical</term></foreign>)</term>
+      <meaning id="fs-idm34192">
+        <para id="UUIDa4fd1f33-0634-4fc7-5b1f-9ff164f5da20">cecha polityki pieniężnej lub fiskalnej polegająca na tym, że narzędzia obu polityk wpływają na gospodarkę w sposób przeciwny do cyklu koniunkturalnego, pobudzają ją w czasie recesji i zmniejszają skalę aktywności gospodarczej w okresie silnej ekspansji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm33568">
+      <term id="UUID39056717-d546-444e-48fe-fbb585b92d0c">ekspansywna polityka pieniężna (ang. <foreign xml:lang="en" id="UUID3d00302b-b0e2-4664-68a7-a5fa5c4a8bd4"><term id="UUIDac0ed69f-0c87-4ee6-70c0-85fd2e506c83">xpansionary monetary policy</term></foreign> albo <foreign xml:lang="en" id="UUIDcac6f347-8558-4dae-7eaf-c1361c8742e2"><term id="UUIDc2075668-0ffe-4b48-402c-db02d183dba1">loose monetary policy</term></foreign>)</term>
+      <meaning id="fs-idm32928">
+        <para id="UUID6c4433e8-54ff-411f-7bab-1fa370ab22cd">polityka pieniężna, która zwiększając podaż pieniądza, prowadzi do spadku stóp procentowych w gospodarce</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm406304">
+      <term id="UUID5c01e600-3d24-4b17-52c3-248ae78c6dc3">luzowanie ilościowe (QE) (ang. <foreign xml:lang="en" id="UUID75bec59f-d8c6-4e74-5801-7c8fecef9dbe"><term id="UUID56c31fb2-d296-4fe1-7291-966033e73859"><emphasis effect="bold">Q</emphasis>uantitative <emphasis effect="bold">E</emphasis>asing</term></foreign>)</term>
+      <meaning id="fs-idm405664">
+        <para id="UUIDd7625791-6307-480a-6584-9256c0d2ebb1">polityka polegająca na zakupie przez banki centralne długoterminowych publicznych i prywatnych papierów wartościowych (zarówno tych zabezpieczonych hipoteką, jak i przede wszystkim obligacji skarbowych) w celu zwiększenia dostępności funduszy pożyczkowych, a przez to pobudzenia zagregowanego popytu</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

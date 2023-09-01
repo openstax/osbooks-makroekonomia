@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uc158fdf8-3db6-41d6-be1d-da0f9f43f45d" id="Uc158fdf8-3db6-41d6-be1d-da0f9f43f45d" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Introduction to Government Budgets and Fiscal Policy</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00061</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/c158fdf8-3db6-41d6-be1d-da0f9f43f45d</md:content-url>
+    <md:title>Introduction to Government Budgets and Fiscal Policy</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:04.971475271+00:00</md:version>
+    <md:created>2023-08-30T08:02:04.971475271+00:00</md:created>
+    <md:revised>2023-08-30T08:02:04.971475271+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>c158fdf8-3db6-41d6-be1d-da0f9f43f45d</md:uuid>
+  </metadata>
+  <content>
+    <figure id="CNX_Econ_C30_000" class="splash">
+      <title id="UUID457f6aac-454b-4a20-6eeb-b816e167dc25">Zawieszenie pracy rządu federalnego (shutdown) a funkcjonowanie parków narodowych w USA</title>
+      <media alt="Zdjęcie przedstawia tablicę z nazwą Parku Narodowego Yellowstone w Stanach Zjednoczonych." id="fs-idm38616032">
+        <image src="../../media//CNX_Econ_C30_000.jpg" mime-type="image/jpeg" id="UUID72f36ca4-eca1-4acb-5e0e-1404777521ed" />
+      </media>
+      <caption id="UUID446577c8-36b9-4039-70e1-1a6d2c8baf74">Park Narodowy Yellowstone jest jedną z wielu instytucji publicznych, które musiały zostać zamknięte podczas zawieszenia pracy rządu federalnego w Stanach Zjednoczonych w październiku 2013 r. (Źródło: modyfikacja pracy „daveynin”/flickr Creative Commons).</caption>
+    </figure>
+    <note type="note" id="fs-idm3035072" class="bringhome economics">
+      <title id="UUID3df6b28d-f21b-422b-5efc-c01c381a0a7b">Zamknięcie Parku Narodowego Yellowstone</title>
+      <para id="UUIDf76d7b03-e63d-4d14-77e6-dd53735fdc5b">Odbyłeś długą podróż, aby zobaczyć Park Narodowy Yellowstone w pięknym październiku 2013 r., ale okazało się, że jest… zamknięty. Zamknięty! Ale dlaczego?</para>
+      <para id="UUID8161d596-0ccd-4370-7900-c46f6e0f9b63">W październiku 2013 r. doszło do dwutygodniowego częściowego zawieszenia pracy rządu USA. Wiele finansowanych z budżetu federalnego służb i instytucji, np. parki narodowe, przestało pracować, a 800 tys. ludzi zwolniono. Turyści byli zszokowani, podobnie jak reszta świata: Kongres i prezydent USA nie byli w stanie dojść do porozumienia w sprawie budżetu. Republikanie i Demokraci spierali się o priorytety w wydatkach państwa i nie mogli uchwalić zwiększenia limitu długu publicznego. W każdym roku budżet Stanów Zjednoczonych, który wynosi ponad 3 bln dol., musi zostać zatwierdzony przez Kongres i podpisany przez prezydenta. Dwie trzecie budżetu to należności i inne obowiązkowe wydatki państwa realizowane automatycznie, gdy tylko dane programy zostaną uchwalone. Z debatą budżetową powiązana była kwestia zwiększenia pułapu zadłużenia, czyli tego, jak wysoki może być dług publiczny rządu USA. Izba Reprezentantów odmówiła zatwierdzenia ustaw o finansowaniu rządu, jeśli nie będą zawierały przepisów mających na celu wstrzymanie lub zmianę Ustawy o przystępnej cenie opieki zdrowotnej (ang. Affordable Health Care Act) (potocznie znanej jako „Obamacare”). Z każdym dniem Stany Zjednoczone coraz bardziej zbliżały się do momentu, w którym nie będą mogły spłacać swoich zobowiązań.</para>
+      <para id="UUIDa2ce92e5-623b-4f34-55ec-f97a031b6d0a">Dlaczego budżet państwa wywołuje tak gorące debaty? Co by się stało, gdyby Stany Zjednoczone faktycznie przestały spłacać swoje długi? W tym rozdziale omówimy budżet państwa, podatki i politykę fiskalną. Przyjrzymy się również deficytowi budżetowemu i zadłużeniu publicznemu.</para>
+    </note>
+    <note type="note" id="fs-idp1954880" class="chapter-objectives economics">
+      <title id="UUID577a029a-6c32-45e7-50c2-4e10776c8c90">Wprowadzenie do tematu budżetu państwa i polityki fiskalnej</title>
+      <para id="fs-idp54508480">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idp106365712">
+        <item id="UUIDfd9c9858-e1dd-4941-61a1-33ea9c9b7101">
+          <para id="UUIDf8a23959-ed1b-4a51-411a-24b291b70e96">Czym są wydatki państwa i podatki</para>
+        </item>
+        <item id="UUID41189339-60ce-40bf-7092-d260127ac1d3">
+          <para id="UUID940daaf6-84c6-4a6e-5379-bc1df8f4cd1a">W jaki sposób powstaje deficyt budżetowy i czym jest dług publiczny</para>
+        </item>
+        <item id="UUIDe5146c9c-5423-4e62-7404-ed39ecc5d065">
+          <para id="UUID56f44ffe-fd6c-4e5d-7c4a-45504067ab7d">Jak można wykorzystać politykę fiskalną do walki z recesją, bezrobociem i inflacją</para>
+        </item>
+        <item id="UUID06066663-fd48-4978-68c0-bd85289b20b0">
+          <para id="UUIDb9b9e339-bd08-47f1-502b-1d28f373733a">Jak działają automatyczne stabilizatory koniunktury</para>
+        </item>
+        <item id="UUID779e69f2-2764-4316-47f4-c0f8fa70cea1">
+          <para id="UUIDb0414f24-4dc0-44e3-69ae-aa6f564a1580">Jakie są praktyczne problemy związane z uznaniową (dyskrecjonalną) polityką fiskalną</para>
+        </item>
+        <item id="UUID7dcecbec-b5c8-487a-5bd1-5a5992bd93e8">
+          <para id="UUID7fc347c8-5022-4aa3-6283-b3d9340cb33d">Jakie wyzwania wiążą się z kwestią zrównoważonego budżetu</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idp141963888">Rząd i jednostki samorządu terytorialnego posiadają własne budżety, na które składają się dochody, jakie spodziewają się otrzymać z podatków i innych źródeł (np. ceł), a także planowane wydatki. Budżety mogą radykalnie się zmienić w ciągu kilku lat, ponieważ decyzje polityczne i nieoczekiwane zdarzenia zakłócają wcześniejsze plany dochodów podatkowych i wydatków publicznych.</para>
+    <para id="UUIDa655c8fa-f5fe-4c88-6f32-45d39524c82f">W tym rozdziale ponownie przyjrzymy się <term cmlnle:reference="polityka fiskalna" id="UUID24e7cac1-6699-4305-4d50-47b634274cda">polityce fiskalnej</term> (<foreign xml:lang="en" id="UUID67ba7f58-a1f8-4baa-4430-41cf1302f9c2"><term id="UUIDf9a1511d-aba5-4668-7358-bfa7189e356a">fiscal policy</term></foreign>). Jest ona jednym z dwóch narzędzi polityki gospodarczej służących natychmiastowemu poprawianiu stanu gospodarki (drugim jest polityka pieniężna). Bank centralny prowadzi politykę pieniężną, natomiast za politykę fiskalną odpowiada rząd.</para>
+    <para id="UUIDb49a4df7-41da-4ad5-786d-37fcfc366108">Dyskusja na temat polityki fiskalnej koncentruje się na tym, jak podatki i wydatki państwa wpływają na popyt globalny. Wszystkie wydatki państwa i podatki oddziałują na gospodarkę, ale mówiąc o polityce fiskalnej, mamy na myśli przede wszystkim politykę rządu centralnego. Rozdział zaczynamy od zwięzłego przeglądu wydatków i podatków w USA i w Polsce. Następnie omówimy politykę fiskalną z perspektywy krótkookresowej, m.in. sposoby wykorzystania przez rząd podatków i wydatków do walki z recesją, bezrobociem i inflacją, wpływ recesji i wzrostu gospodarczego na budżet państwa, a także korzyści wynikające z posiadania zrównoważonego budżetu.</para>
+  </content>
+</document>

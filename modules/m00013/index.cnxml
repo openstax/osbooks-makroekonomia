@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ud2970fc8-cc4e-4b89-a876-715de02f35ff" id="Ud2970fc8-cc4e-4b89-a876-715de02f35ff" xml:lang="en" cnxml-version="0.7">
+  <title>3.1 W jaki sposób ekonomiści definiują i obliczają stopę bezrobocia </title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00013</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/d2970fc8-cc4e-4b89-a876-715de02f35ff</md:content-url>
+    <md:title>3.1 W jaki sposób ekonomiści definiują i obliczają stopę bezrobocia </md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:03.111408958+00:00</md:version>
+    <md:created>2023-08-30T08:02:03.111408958+00:00</md:created>
+    <md:revised>2023-08-30T08:02:03.111408958+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>d2970fc8-cc4e-4b89-a876-715de02f35ff</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-u784-7821-7c527b82d03b3911" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID0e228949-dda3-4a7b-4f63-3c702340ef78">
+          <para id="UUID5fdd0cb1-305a-4584-5048-0a8e5e01e737">Obliczyć współczynnik aktywności zawodowej (stopę partycypacji) i stopę bezrobocia</para>
+        </item>
+        <item id="UUIDa55a41c7-e0c3-4b52-50f7-01d185df6ba4">
+          <para id="UUID5ae9f0a0-ab02-4df0-44c8-e32a44ba5462">Wyjaśnić, na czym polega zjawisko ukrytego bezrobocia i co to znaczy, że się jest lub nie jest częścią zasobu siły roboczej</para>
+        </item>
+        <item id="UUID98e51a41-0cea-4bb0-786c-a18b8deb1aee">
+          <para id="UUID7ad468eb-5a0d-4569-44ab-888e142ee77c">Ocenić i interpretować dane dotyczące bezrobocia</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idp32600112">Raporty prasowe i telewizyjne zazwyczaj podają wielkość bezrobocia w procentach, czyli pokazują, ile wynosi stopa bezrobocia. Oznacza to, że wartość ta ma charakter względny lub inaczej relatywny. Możemy np. napisać, że rejestrowane bezrobocie w Polsce – zgodnie z danymi GUS (https://stat.gov.pl/obszary-tematyczne/rynek-pracy/bezrobocie-rejestrowane/stopa-bezrobocia-rejestrowanego-w-latach-1990-2023,4,1.html) – w marcu 2023 r. wyniosło 5,4%, w porównaniu z 5,5% w lutym tego samego roku i 5,8% w marcu roku 2022. Na pierwszy rzut oka zmiany między wartościami procentowymi mogą wydawać się niewielkie. Pamiętaj jednak, że w Polsce mieszka ok. 25 mln osób w wieku produkcyjnym (kobiety w wieku 18–59 lat i mężczyźni w wieku 18–64 lata). Wzrost bezrobocia o jeden punkt procentowy, nawet jeśli tylko połowa tej grupy byłaby aktywna zawodowo, oznaczałby więc ok. 150 tys. osób tracących zatrudnienie. To średniej wielkości miasto, takie jak Olsztyn. Choć stopa bezrobocia w Polsce może się wydawać relatywnie bardzo niska, w dalszym ciągu oznacza to 821 tys. ludzi zarejestrowanych jako bezrobotni (dane z marca 2023 r.). A ponieważ bezrobocie dotyka nie tylko osobę, która straciła zatrudnienie, lecz również jej bliskich, może to stwarzać poważne problemy nawet dla ponad 2 mln ludzi. Wykonanie tego prostego rachunku zmienia pewnie twoje spojrzenie na 5-procentową stopę bezrobocia, jaką mamy w Polsce. Jeśli jeszcze uświadomisz sobie, że w marcu 2004 r. bezrobocie rejestrowane w naszym kraju sięgało 20,4%, łatwiej będzie ci zrozumieć skalę problemów łączących się z tym zjawiskiem.</para>
+    <note type="note" id="fs-idm28958448" class="economics linkup">
+      <para id="fs-idm144319776">W USA dane na temat stopy bezrobocia publikuje <link url="http://openstax.org/l/BLS1" id="UUIDadb8bfb7-b8e1-4ef8-7473-d2c72908a637">Bureau of Labor Statistics</link>, a w Polsce <link url="https://stat.gov.pl/obszary-tematyczne/rynek-pracy/bezrobocie-rejestrowane/stopa-bezrobocia-rejestrowanego-w-latach-1990-2023,4,1.html" id="UUIDecd97054-3834-45fa-654e-68d80700e750">Główny Urząd Statystyczny</link>.</para>
+    </note>
+    <section id="fs-idm28087104">
+      <title id="UUIDcf3d2d9f-d975-4a2a-73f0-f3c1a11a5a1d">Jak definiujemy zasób siły roboczej w gospodarce?</title>
+      <para id="UUID362fdef2-1cab-4f23-7bd7-31fd1f44928f">Czy wszystkie osoby dorosłe, które pozostają bez pracy, powinniśmy uznawać za bezrobotne? Oczywiście, że nie. Wiek aktywności produkcyjnej to 15 lat i więcej, ale większość osób niepełnoletnich nie pracuje, tylko się uczy. Z kolei znaczny procent zatrudnionych po osiągnięciu wieku emerytalnego (w Polsce jest to ukończone 60 lat dla kobiet i 65 dla mężczyzn) również rezygnuje z pracy. Wielu studentów stacjonarnych studiów licencjackich świadomie nie podejmuje zatrudnienia, niewłaściwe byłoby zatem uznawanie ich za osoby bezrobotne. Część osób utrzymuje się z kapitału lub wynajmu nieruchomości (to tzw. rentierzy). Inni przebywają na długotrwałych urlopach (np. macierzyńskich lub rodzicielskich). Jeszcze inni pozostają na utrzymaniu współmałżonków lub partnerów. Formalnie za osoby bezrobotne nie uznajemy również przestępców i osób zajmujących się działalnością pozaprawną (w Polsce np. trudniących się nierządem).</para>
+      <para id="UUIDd6caea3e-c4ac-4e2f-7065-330ef18a272c">Niewłaściwe byłoby zatem dzielenie populacji ludzi dorosłych jedynie na pracujących i bezrobotnych, skoro istnieje grupa trzecia: osoby, które nie mają pracy i z powodów wskazanych powyżej nie są zainteresowane jej podjęciem. Należą do niej także ci, którzy w przeszłości co prawda chcieli pracować, ale przestali już szukać pracy, np. zniechęceni bezowocnymi poszukiwaniami odpowiedniego stanowiska. Ekonomiści określają tę trzecią grupę jako <term id="UUIDcea5e88c-ef8a-4d29-403d-af5f907a19d7">bierną zawodowo</term> lub <term id="UUID78692d51-271d-4797-6109-335e2ff3a46d">pozostającą poza zasobem siły roboczej</term> ( <foreign xml:lang="en" id="UUID5164124b-ba4a-4836-53a7-555dada1a69a"><emphasis effect="italics">out of the labor force</emphasis></foreign>).</para>
+      <para id="UUIDb853ee4d-1c20-42fb-4a6d-369359c96d69">Stopa bezrobocia szacowana jest w Polsce na dwa sposoby, stąd w publikacjach medialnych można znaleźć dwa poziomy bezrobocia charakterystyczne dla polskiej gospodarki. Pierwszy z nich to tzw. bezrobocie rejestrowane, związane z prawną definicją osoby bezrobotnej. W pewny uproszczeniu możemy przyjąć, że jest to ktoś, kto uzyskał taki status, rejestrując się w powiatowym urzędzie pracy. Dokładna definicja wykorzystywana przez GUS przedstawia się następująco: „[Bezrobotni to] Osoby, które ukończyły 18 lat i nie osiągnęły wieku emerytalnego, niezatrudnione i niewykonujące innej pracy zarobkowej, zdolne i gotowe do podjęcia zatrudnienia w pełnym wymiarze czasu pracy i zarejestrowane we właściwym dla miejsca zameldowania (stałego lub czasowego) powiatowym urzędzie pracy oraz poszukujące zatrudnienia lub innej pracy zarobkowej”. Tak jak zostało to już wskazane powyżej, bezrobocie rejestrowane w Polsce nieznacznie przekracza 5%.</para>
+      <para id="UUIDfbab98f7-949c-4f76-530b-2aa2aae0ca99">Natomiast drugi sposób postrzegania bezrobocia związany jest z badaniem aktywności ekonomicznej ludności (BAEL, stąd „bezrobocie baelowskie”). W BAEL zbierane są informacje o pracujących w wieku 15-89 lat, o bezrobotnych w wieku 15-74 lata i o biernych zawodowo w wieku 15-89 lat. Osoby mające 90 lat i więcej są z zasady zaliczane do biernych zawodowo. W wywiadzie telefonicznym ankieterzy statystyczni identyfikują osoby bezrobotne w wieku 15–74 lat, które spełniają jednocześnie trzy warunki: po pierwsze, w okresie badanego tygodnia nie były osobami pracującymi; po drugie, aktywnie poszukiwały pracy, tzn. podjęły konkretne działania w ciągu czterech tygodni (wliczając jako ostatni tydzień badany), aby znaleźć pracę; i po trzecie, były gotowe (zdolne) podjąć pracę w ciągu dwóch tygodni następujących po tygodniu badanym. Baelowska metoda pomiaru bezrobocia jest rekomendowana przez Międzynarodową Organizację Pracy oraz wykorzystywana przez Eurostat, zatem służy ona do obliczeń bezrobocia w krajach UE. Stopa bezrobocia w Polsce liczona zgodnie z metodą BAEL wynosiła w drugim kwartale 2022 r. 2,6%.</para>
+      <para id="UUID8d9c8108-f4c5-4ef3-641e-5b09f9d8b9be">Osoba zaklasyfikowana jako bezrobotna pozostaje zatem bez pracy, ale wyraża gotowość jej podjęcia, a także aktywnie poszukiwała pracy w czasie ostatnich czterech tygodni. Osoba, która nie jest zatrudniona, ale nie jest obecnie gotowa do podjęcia pracy lub nie szukała jej aktywnie w ciągu ostatnich czterech tygodni, nie należy do siły roboczej i tym samym nie może zostać uznana za bezrobotną.</para>
+      <note type="note" id="UUID298664b4-b454-4457-4d85-979ba71c7f88" class="clearup economics">
+        <para id="UUID5ae2aef0-4c3d-4e1f-430b-3a3d479b771c"><emphasis effect="bold">Zatrudnieni:</emphasis> pracują i otrzymują w związku z tym wynagrodzenie.</para>
+        <para id="UUID6e2a6efb-089c-459c-752f-fd46cc6168a4"><emphasis effect="bold">Bezrobotni:</emphasis> nie mają pracy i aktywnie jej poszukują.</para>
+        <para id="UUID3c05ff36-2746-406c-5428-a4e4305a87a1"><emphasis effect="bold">Bierni zawodowo:</emphasis> nie pracują zarobkowo i nie poszukują pracy.</para>
+        <para id="UUIDf35be093-de7a-491e-4ddd-d5c804e0c507"><emphasis effect="bold">Zasób siły roboczej</emphasis> <emphasis effect="bold">(aktywni zawodowo):</emphasis> liczba zatrudnionych plus liczba bezrobotnych.</para>
+      </note>
+    </section>
+    <section id="fs-idm25051664">
+      <title id="UUID85f7e306-b811-4dfd-5c63-df98541379cd">Obliczanie stopy bezrobocia i stopy aktywności zawodowej (stopy partycypacji)</title>
+      <para id="fs-idm51367232"><link target-id="CNX_Econ_C21_001" document="" id="UUIDf524a59d-72cc-42c0-75ea-62f0d621d8d7" /> przedstawia podział populacji na trzy grupy. W drugim kwartale 2022 r. ok. 58% tej grupy należało do osób aktywnych zawodowo (stanowiło zasób siły roboczej), czyli grupy osób pracujących lub bezrobotnych, ale poszukujących pracy. Siłę roboczą możemy tym samym podzielić na pracujących i bezrobotnych. Odpowiednie wartości przedstawione są w <link target-id="Table_21_01" document="" cmlnle:case="locative" id="UUID72ca482f-6cf6-4468-619e-9782cc8adc76" />. Jak łatwo zauważyć, <term id="UUIDe33f3739-538b-4ba8-5081-ada917600177">stopa bezrobocia</term> (ang. <foreign xml:lang="en" id="UUID63e1d821-98d2-460a-40c7-c6026343c868"><term cxlxt:index="foreign" id="UUID07c054e0-247d-4f2f-687c-83d1a85e21b4">unemployment rate</term></foreign>) nie jest odsetkiem całej dorosłej populacji pozostającej bez pracy, ale raczej odsetkiem dorosłych, którzy stanowią zasób siły roboczej (są aktywni zawodowo), ale pracy nie mają.</para>
+      <equation id="fs-idp76778576" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa bezrobocia</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mtext>Liczba osób bezrobotnych</mtext><mtext>Zasób siły roboczej</mtext></mfrac></mtd></mtr></mtable><mo> × </mo><mn>100</mn></math></equation>
+      <figure id="CNX_Econ_C21_001">
+        <title id="UUID5010291b-3a03-4e10-6b9d-b05ea5fd5b13">Osoby pracujące, bezrobotne i bierne zawodowo w wieku 15–89 lat w Polsce w drugim kwartale 2022 r.</title>
+        <media alt="Wykres kołowy przedstawia liczbę osób pracujących w polskiej gospodarce w drugim kwartale 2022 r. (16,770 mln), bezrobotnych (454 tys. osób) i pozostających poza zasobem siły roboczej (biernych zawodowo – 12,508 mln)." id="fs-idp7770976">
+          <image src="../../media//CNX_Econ2e_C21_02.svg" mime-type="image/svg+xml" id="UUID33f76eef-f18d-49fc-75ab-55844d2e4b1c" />
+        </media>
+        <caption id="UUID28511e9a-1169-401f-5fda-33d235f0b3ce">Całkowita populacja osób w wieku 15–89 lat w Polsce w drugim kwartale 2022 r. wyniosła blisko 30 mln (dokładnie 29,752 mln). W ramach tej grupy tylko 454 tys. osób było bezrobotnych, natomiast liczba pracujących sięgnęła 17,244 mln. Pozostałe 12,508 mln zaklasyfikowano jako osoby nieaktywne zawodowo.</caption>
+      </figure>
+      <table summary="Under the first unlabeled column are the values: Total adult population over the age of 16; In the labor force; Employed; Unemployed; and Out of the labor force. Under the second unlabeled column are the values: 249.9 million; 157 million (62.8%); 148.3 million; 8.7 million; and 92.9 million (37.2%)." id="Table_21_01"><title id="UUIDeb9195b4-e98c-4d14-7938-c8dc7204aca1">Pracujący, bezrobotni i bierni zawodowo w Polsce w II kwartale 2022 r.</title><tgroup cols="2" id="UUID16d55fe1-4c8a-41b6-5de5-4b4f74c89dd4"><colspec colnum="1" colname="col1" id="UUID2dcb87cd-98fc-4d20-4333-9c9e046402ef" /><colspec colnum="2" colname="col2" id="UUID3e7dfadd-7bac-46ea-6c83-14d35eac1738" /><tbody id="UUID8e60578b-73d7-472c-7550-ea6adbd63cf9"><row id="UUID8a81b1ba-9670-481e-50d2-2e36f1273830"><entry id="UUID97809ae3-0294-4c0f-65a7-68c243183ce2">Populacja osób w wieku 15-89 lat, ogółem</entry><entry id="UUID2f363fab-d247-435b-46d9-a4f5f53bc127">29,752 mln </entry></row><row id="UUIDec8e6bb1-2023-4347-66fd-a2fdfad403db"><entry id="UUID029f696f-7dc3-4cfc-7497-ce54a5ee7f41">Aktywni zawodowo (zasób siły roboczej)</entry><entry id="UUIDde347f14-84fd-4ba0-612f-fec07b624dc3">17,244 mln</entry></row><row id="UUID5e4fce71-de3a-4212-63a8-f5ed085d4084"><entry id="UUID03d0aec8-d6fb-4aea-7dd5-dacbf6677647">Pracujący </entry><entry id="UUIDda0b7b86-3f10-4f53-6568-123242b8488b">16,770 mln</entry></row><row id="UUID18a79d53-e7e6-49b5-4d09-0f62de7e88df"><entry id="UUID5ba9e6a6-2c1a-4711-7a75-dd17034cf9c6">Bezrobotni </entry><entry id="UUIDadf1187b-d151-4bdb-58e0-d5a09922eaf0">0,454 mln</entry></row><row id="UUIDe557d4c1-5e55-4139-6a54-a46f21fde985"><entry id="UUID6b837db5-92ad-4721-7dc8-bfe58e749d9d">Bierni zawodowo (pozostający poza zasobem siły roboczej) </entry><entry id="UUID2a7bc655-d930-4414-72ea-f467491db2ee">12,508 mln</entry></row></tbody></tgroup><caption id="UUID4ec88d8f-c97b-436e-67f7-cf989eaf952b">(Źródło: pracujacy_bezrobotni_i_bierni_zawodowo_-_wyniki_wstepne_bael_w_ii_kwartale_2022_r.%20(1).pdf)</caption></table>
+      <para id="fs-idp44908512">Wykorzystując powyższe dane, możemy obliczyć stopę bezrobocia w Polsce (zgodnie z metodą BAEL), poprzez podzielenie 454 tys. bezrobotnych przez 17,244 mln osób aktywnych zawodowo, co daje 2,6%. Poniższa <link target-id="fs-idm9605232" id="UUIDb5b50874-a4b9-4866-4686-f2be8d53a934" /> przeprowadzi cię przez kolejne etapy tej matematycznej operacji.</para>
+      <note type="note" id="fs-idm9605232" class="economics workout">
+        <title id="UUID2da822e2-5a2e-441b-44bd-e7f1a3286af7">Obliczanie stopy aktywności zawodowej (stopy partycypacji) i stopy bezrobocia</title>
+        <para id="fs-idp36088656">W jaki sposób ekonomiści obliczają stopę aktywności zawodowej (stopę partycypacji) i odsetek osób nieaktywnych zawodowo (pozostających poza zasobem siły roboczej)? Wykorzystamy wartości z <link target-id="Table_21_01" document="" cmlnle:case="genitive" id="UUIDe0823eb7-e713-45b1-669f-4322f651f5ce" />, aby zilustrować kolejne kroki.</para>
+        <para id="UUID276c09b0-4b0c-48db-483b-3b4684012ea0">Określanie stopy aktywności zawodowej:</para>
+        <para id="UUIDe6634566-6036-4b72-4333-779e71576130">Krok 1. Podziel liczbę osób aktywnych zawodowo (17,244 mln) przez liczbę osób w wieku 15–89 lat ogółem (29,752 mln).</para>
+        <para id="UUID2eaff044-ea54-4e8d-4f7c-66d246fe3675">Krok 2. Pomnóż przez 100 i wstaw znak „%”, aby otrzymać wartość procentową.</para>
+        <equation id="fs-idm16459392" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa aktywności zawodowej</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mrow><mn>17,244</mn></mrow><mrow><mn>29,752</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>0,5796</mn></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>57,96%</mn></mtd></mtr></mtable></math></equation>
+        <para id="fs-idp41657808" />
+        <para id="UUID6fd70edc-9b47-4119-5814-a0bb680e8261">Określanie odsetka osób pozostających poza zasobem siły roboczej:</para>
+        <para id="UUIDc86d92f3-c86f-4b47-70a1-96276c578e06">Krok 1. Podziel liczbę osób biernych zawodowo (12,508 mln) przez liczbę osób w wieku 15–89 lat (29,752 mln).</para>
+        <para id="UUIDdd30a89d-fab6-4149-7fde-17e7433e9b47">Krok 2. Pomnóż przez 100 i wstaw znak „%”, aby otrzymać wartość procentową.</para>
+        <equation id="fs-idp59413632" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa aktywności zawodowej</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mrow><mn>12,508</mn></mrow><mrow><mn>29,752</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>0,4204</mn></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>42,04%</mn></mtd></mtr></mtable></math></equation>
+        <para id="UUIDaede30da-b57b-4242-7f49-7d7d16a15221" />
+        <para id="UUIDab3b1655-5f00-4a73-749c-52fa37256607">Określanie stopy bezrobocia:</para>
+        <para id="UUIDc9b4f31d-2f78-4fd2-67c8-aea18a18ee7d">Krok 1. Podziel liczbę bezrobotnych (454 tys.) przez liczbę osób aktywnych zawodowo (17,244 mln).</para>
+        <para id="UUID754e8cdd-3402-46a8-4a8c-c06b7298d3bd">Krok 2. Pomnóż przez 100 i wstaw znak „%”, aby otrzymać stopę bezrobocia wyrażoną w procentach.</para>
+        <equation id="fs-idp183082448" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa bezrobocia</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mrow><mn>0,454</mn></mrow><mrow><mn>17,244</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>0,02632</mn></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>2,6%</mn></mtd></mtr></mtable></math></equation>
+      </note>
+    </section>
+    <section id="fs-idm7306464">
+      <title id="UUID4ac3717f-7ae6-419d-517b-85b21e704243">Bezrobocie ukryte</title>
+      <para id="UUIDb49a6a00-c2cb-4e75-4282-3237f83d49c5">Przedstawiony powyżej sposób klasyfikacji ludzi ze względu na rodzaj ich aktywności na rynku pracy w dalszym ciągu może nie dawać właściwego obrazu sytuacji. Niektórzy pracują w niepełnym wymiarze godzin lub wykonują pracę tymczasową, ale poszukują zajęcia na pełny etat i na stałe. Tacy ludzie są zaliczani do osób pracujących, chociaż forma ich zatrudnienia nie jest zgodna z ich preferencjami. Istnieją też osoby <term id="UUID9a87a403-e82b-4495-5562-07b627396aec">wykonujące pracę poniżej swoich kwalifikacji</term> (ang. <foreign xml:lang="en" id="UUIDbc3799f6-6682-48f6-7cfe-862feb963120">underemployed</foreign>), tj. w pełni przeszkolone lub wykwalifikowane do pewnego rodzaju pracy, ale zatrudnione na stanowiskach gorzej płatnych lub niewykorzystujących pełni ich potencjału. Przykładem niech będzie osoba z dyplomem ukończenia studiów w dziedzinie finansów, która pracuje jako sprzedawca w niepełnym wymiarze czasu pracy, lub robotnik wykwalifikowany zatrudniony jako ochroniarz w supermarkecie. Tacy ludzie są także zaliczani do grupy pracujących. Wszystkie tego typu przypadki tworzą bardzo szeroką kategorię <term id="UUID33653814-4e40-4047-6694-56f1b06b83ae">ukrytego bezrobocia</term> (ang. <foreign xml:lang="en" id="UUID0ab7b2d1-8280-443d-4699-5905e1f48333">hidden unemployment</foreign>). Do tej grupy zalicza się także <term id="UUID320ac6d5-b80f-4192-4fee-6b7050e028f5">pracowników zniechęconych</term> (ang. <foreign xml:lang="en" id="UUID2ee2c942-5ebb-449a-595f-8d3989c82862">discouraged workers</foreign>), czyli takich, którzy przestali już szukać pracy i tym samym nie są zaliczani do grupy aktywnej zawodowo, a więc i do bezrobotnych.</para>
+    </section>
+    <section id="fs-idm44716656">
+      <title id="UUID060939c7-dfa4-4896-4a6b-cee718af9163">Współczynnik aktywności zawodowej (stopa partycypacji)</title>
+      <para id="fs-idp42938000">Inną ważną statystyką jest <term id="term-00006">stopa aktywności zawodowej</term> (ang. <foreign xml:lang="en" id="UUIDcde34c64-e649-424c-6b73-7ddc86c70d93">labor force participation rate</foreign>). Jest to odsetek osób w wieku 15–89 lat, które są zatrudnione lub bezrobotne (czyli aktywnie poszukują pracy i są gotowe niezwłocznie ją podjąć). Analizując dane z <link target-id="CNX_Econ_C21_001" document="" cmlnle:case="genitive" id="UUID1bc93e56-7e49-463d-65eb-385470ff2123" /> oraz <link target-id="Table_21_01" document="" cmlnle:case="genitive" id="UUID9f328f14-0d94-4354-5294-a85fee752a42" />, łatwo dostrzec, że w obliczeniach tego wskaźnika zostało uwzględnione 17,244 mln ludzi zaliczonych do siły roboczej. Wskaźnik ten obliczamy, dzieląc liczbę osób należących do zasobu siły roboczej (to znaczy liczbę zatrudnionych i bezrobotnych) przez populację w wieku 15–89 lat ogółem. Otrzymany ułamek zapisujemy w procentach. Z danych za drugi kwartał 2022 r. wynika, że współczynnik aktywności zawodowej w Polsce wynosił 57,96%. W ujęciu historycznym stopa partycypacji siły roboczej w Polsce podlegała stosunkowo niewielkim zmianom. Współczynnik aktywności zawodowej przedstawiany jest przez Główny Urząd Statystyczny od 1992 r., czyli od momentu prowadzenia badań aktywności ekonomicznej ludności. W pierwszych latach transformacji wskaźnik ten utrzymywał się powyżej poziomu 60%, ale ok. 1994 r. zaczął się obniżać. Od roku 2000 nie spadł jednak poniżej 53%, z minimum na początku 2007 r. (53,2%). Od 2008 r. mamy do czynienia z bardzo powolnym, ale dość stabilnym wzrostem tego współczynnika.</para>
+    </section>
+    <section id="fs-idp43412832">
+      <title id="UUID62e06afd-5165-435e-6081-62a0cdaf743c">Krytyka sposobu mierzenia bezrobocia</title>
+      <para id="UUID99d9ee1b-28aa-4a9f-6ea5-59e994f86618">Przy obliczaniu liczby i odsetka osób bezrobotnych zawsze pojawiają się pewne komplikacje. Na przykład: jak zakwalifikować ludzi, którzy nie mają pracy i byliby gotowi ją podjąć, ale w okolicy brakuje wolnych miejsc pracy, więc przestali już szukać zatrudnienia? Tacy ludzie (i ich rodziny) mogą cierpieć z powodu bezrobocia, jednak w ankiecie są uznawani za nieaktywnych zawodowo, ponieważ nie poszukują już pracy aktywnie. Inne osoby mogą z kolei deklarować, że są gotowe do podjęcia pracy, choć tak naprawdę wcale nie są tym zainteresowane i nie poszukują zatrudnienia zbyt intensywnie. Zalicza się je do bezrobotnych, choć należałoby je raczej zaklasyfikować jako osoby nieaktywne zawodowo. Jeszcze inni ludzie mogą być zatrudnieni np. do wykonywania pewnych prac w ogrodnictwie, opiece nad dziećmi lub sprzątania, ale nie zgłaszają uzyskanych dochodów organom podatkowym. W rozmowie z ankieterem mogą deklarować, że są bezrobotni, podczas gdy tak naprawdę pracują.</para>
+      <para id="UUIDeff1e3a8-949b-4222-5cba-368a3d8ff6e7">Chociaż stopa bezrobocia jest wskaźnikiem ogniskującym uwagę opinii publicznej i mediów, ekonomiści publikują znacznie więcej badań i raportów, w których próbują zmierzyć zaangażowanie ludzi w aktywność zawodową i przedstawić bardziej zniuansowany i pełny obraz rynku pracy. To, że statystyki gospodarcze są niedoskonałe, nie jest wielkim odkryciem. Jednak nawet niedoskonałe miary, takie jak stopa bezrobocia, mogą być bardzo wartościowe, jeśli tylko zostaną umiejętnie zinterpretowane i w przystępny sposób opisane.</para>
+      <note type="note" id="fs-idp62767856" class="economics linkup">
+        <para id="fs-idp88099744">Kliknij <link url="http://openstax.org/l/BLS_CPS" id="UUIDbf73059b-2554-45a8-4143-64afae4aea8b">tutaj</link>, aby dowiedzieć się więcej o bieżącym badaniu ludności w USA oraz przeczytać najczęściej zadawane pytania na temat pracy i zatrudnienia. Natomiast  informacje o wynikach ostatniego Narodowego Spisu Powszechnego Ludności i Mieszkań z 2021 r. można znaleźć pod adresem:  (https://stat.gov.pl/aktualnosci/informacje-o-wynikach-narodowego-spisu-powszechnego-ludnosci-i-mieszkan-2021,422,1.html)</para>
+      </note>
+    </section>
+    <section id="fs-idm108841264" class="summary">
+      <title id="UUIDfb8fc33f-e6c8-47ad-722b-f8df76c0551f">Key Concepts and Summary</title>
+      <para id="UUID23d24cbe-89de-47cd-66f3-9b6cabaffc59">Bezrobocie wiąże się z wysokimi kosztami. Osoby bezrobotne cierpią z powodu stresu i utraty dochodów. Gospodarka z wysokim bezrobociem ponosi koszt alternatywny w postaci niewykorzystanych zasobów. Populację ludzi dorosłych (w Polsce w wieku 15–89 lat) można podzielić na siłę roboczą (aktywni zawodowo) i osoby pozostające poza zasobem siły roboczej (bierni zawodowo). Z kolei siłę roboczą dzielimy na pracujących i bezrobotnych. Aby osoba niepracująca mogła zostać uznana za bezrobotną, musi być nie tylko chętna do podjęcia zatrudnienia i zdolna do pracy, ale również aktywnie jej poszukiwać. Jeśli nie spełnia tych warunków, jest zaliczana do grona osób pozostających poza zasobem siły roboczej. Ekonomiści definiują stopę bezrobocia jako liczbę bezrobotnych podzieloną przez liczbę osób należących do zasobu siły roboczej (a nie ogółu dorosłych). W Polsce stopę bezrobocia oblicza się na dwa sposoby – wykorzystując liczbę osób zarejestrowanych w powiatowych urzędach pracy (tzw. bezrobocie rejestrowane) i ankietowe badanie aktywności ekonomicznej ludności (tzw. bezrobocie baelowskie).</para>
+    </section>
+    <section id="fs-idm16490656" class="self-check-questions">
+      <title id="UUID01d8e977-293f-4c26-66ae-3f36753b5820">Self-Check Questions</title>
+      <exercise id="fs-idm30965072">
+        <problem id="fs-idm112267440">
+          <para id="UUID77761570-d126-4f08-4b7c-1c2ac0de4932">Załóżmy, że populacja osób dorosłych (w wieku 15–89 lat) w pewnym kraju wynosi 237,8 mln, a siła robocza 153,9 mln (z czego pracuje 139,1 mln). Ile osób „nie pracuje”? Jakie w tym kraju są proporcje pracujących, bezrobotnych i pozostających poza zasobem siły roboczej? Wskazówka: proporcje są udziałami wyrażonymi w procentach.</para>
+        </problem>
+        <solution id="fs-idm9437536">
+          <para id="fs-idm14288">Populacja jest podzielona na zasób siły roboczej i ludzi nieaktywnych zawodowo. Liczba dorosłych nienależących do zasobu siły roboczej to: 237,8 -­ 153,9 = 83,9 mln. Ponieważ siłę roboczą dzielimy na pracujących i bezrobotnych, liczba bezrobotnych wynosi: 153,9 ­- 139,1 = 18,8 mln. Populacja dorosłych charakteryzuje się więc następującymi proporcjami:</para>
+          <list id="fs-idm6497392">
+            <item id="UUID838e2e76-d24a-4759-6369-c583f0dac041">
+              <para id="UUIDcda4a250-18bf-46d3-7fab-bac7112af859">139,1/237,8 = 58,5% osób zatrudnionych</para>
+            </item>
+            <item id="UUIDa5692c06-7901-427d-54ee-bf1d2a274481">
+              <para id="UUIDc7fe5bf9-4ad0-4a0c-64f9-caf8e1d8974b">14,8/237,8 = 6,2% osób bezrobotnych</para>
+            </item>
+            <item id="UUID1dc80d8e-8d42-4048-660f-d349f005ac9c">
+              <para id="UUID0e14249e-e133-462b-77e0-f5d6507ef6b9">83,9/237,8 = 35,3% osób poza zasobem siły roboczej</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm17318464">
+        <problem id="fs-idm64848656">
+          <para id="fs-idm12613664">Korzystając z powyższych danych, oblicz stopę bezrobocia. Dane te pochodzą z amerykańskich statystyk za rok 2010. Porównaj wynik z obliczoną wcześniej „baelowską” stopą bezrobocia w Polsce w drugim kwartale 2022 r. Jakie są twoje wnioski?</para>
+        </problem>
+        <solution id="fs-idm25995408">
+          <para id="fs-idm51565952">Stopę bezrobocia definiuje się jako odsetek bezrobotnych w porównaniu z zasobem siły roboczej: 14,8/153,9 = 9,6%. To znacznie więcej niż obliczona wcześniej stopa bezrobocia w Polsce, która wyniosła 2,6%.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idm5551472" class="review-questions">
+      <title id="UUID92707ec2-efb3-4c1e-6cff-ce79bd3001b1">Review Questions</title>
+      <exercise id="fs-idm73229136">
+        <problem id="fs-idp35593488">
+          <para id="fs-idp9107328">Jaka jest różnica pomiędzy osobą bezrobotną a pozostającą poza zasobem siły roboczej?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm84512960">
+        <problem id="fs-idm37751168">
+          <para id="UUIDbdaf2315-447d-4983-625e-702ccd430ecb">W jaki sposób oblicza się stopę bezrobocia? A jak obliczysz odsetek siły roboczej w populacji?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm84828624">
+        <problem id="fs-idp11612000">
+          <para id="fs-idp9662416">Czy wszyscy niepracujący dorośli zaliczani są do osób bezrobotnych?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm107938544">
+        <problem id="fs-idm13066000">
+          <para id="fs-idm12509088">Co stanie się ze stopą bezrobocia, jeśli zniechęceni poszukiwaniem pracy bezrobotni zostaną uznani za nieaktywnych zawodowo?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp12505360">
+        <problem id="fs-idm11722720">
+          <para id="fs-idm38805104">Co dzieje się ze wskaźnikiem aktywności zawodowej, gdy osoby pracujące zostaną zaklasyfikowane jako bezrobotne? A co się stanie, gdy zostaną zaklasyfikowane jako osoby zniechęcone poszukiwaniem pracy?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp23213872">
+        <problem id="fs-idp11568912">
+          <para id="fs-idm8415328">Jakie problemy pojawiają się w sytuacji, w której wykorzystujemy stopę bezrobocia jako precyzyjną miarę bezrobocia ogółem?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp14339968">
+        <problem id="fs-idp12301200">
+          <para id="fs-idm18666080">Oceń, czy następujące osoby zostałyby uznane za bezrobotne w bieżących badaniach zatrudnienia:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm2666304">
+            <item id="UUIDed3143d6-e4f8-4635-64fe-afd214cfdc43">
+              <para id="UUID1869372a-3b45-40c6-63f2-bc55f245003b">Mąż pozostający w domu z dziećmi, podczas gdy jego żona pracuje.</para>
+            </item>
+            <item id="UUIDe2a1b45e-2772-4aee-60d0-27bbdecb915b">
+              <para id="UUID24b9e02d-b4c3-4bf4-703d-2e05fa1975e2">Pracownik produkcyjny, którego fabryka została zamknięta.</para>
+            </item>
+            <item id="UUID0dae3ade-9ce6-4c53-5e18-1c56783c8326">
+              <para id="UUID71961bfd-b9be-45f1-6d95-8e992a3564ec">Student na bezpłatnym letnim stażu.</para>
+            </item>
+            <item id="UUID94e2b9a9-e9c1-4c1d-7f41-73d434ebfba3">
+              <para id="UUIDd72310e3-620b-4a73-7344-40d3e53ad9c2">Emeryt.</para>
+            </item>
+            <item id="UUID8212625e-1853-44b8-6004-89d874c774f0">
+              <para id="UUID408ee493-e71b-4c2f-68bf-d6df1388423e">Ktoś, kto od dwóch lat jest bez pracy, ale wciąż jej poszukuje.</para>
+            </item>
+            <item id="UUID12f73dbc-6359-432c-687d-1e691f97de0c">
+              <para id="UUID5ed3470c-ce55-4140-7982-53cb8bf5b24d">Ktoś, kto jest bez pracy od dwóch miesięcy, ale jej nie poszukuje.</para>
+            </item>
+            <item id="UUID8ebd8d93-b047-4acc-5da8-5397d6109e5d">
+              <para id="UUIDe7e49711-453d-4796-6751-0715d1249344">Ktoś, kto nie lubi swojej obecnej pracy i aktywnie poszukuje innej.</para>
+            </item>
+            <item id="UUID069ae7d4-cd2c-41ae-71c2-143b4767eb1e">
+              <para id="UUID5fe4a6a4-7f47-4cb7-6b4f-c4e8e49c2c38">Ktoś, kto decyduje się na pracę w niepełnym wymiarze godzin, ponieważ nie może znaleźć zatrudnienia na cały etat.</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp14757664" class="critical-thinking">
+      <title id="UUIDaad5bc52-3290-4e14-61a5-283490378d4b">Critical Thinking Questions</title>
+      <exercise id="fs-idm84338128">
+        <problem id="fs-idm13074976">
+          <para id="fs-idm85424352">Czy posługując się przedstawioną w rozdziale definicją stopy bezrobocia, można powiedzieć, że jej wzrost jest zawsze niekorzystny dla społeczeństwa?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm60279744">
+        <problem id="fs-idm12996320">
+          <para id="fs-idm15409568">Czy spadek stopy bezrobocia jest zawsze korzystny dla społeczeństwa? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm11581328">
+        <problem id="fs-idm50528288">
+          <para id="fs-idm674848">Wyjaśnij, dlaczego jednocześnie może zmniejszyć się liczba miejsc pracy i stopa bezrobocia, jeśli wielu pracowników zniechęci się do poszukiwania pracy.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm40100176">
+        <problem id="fs-idm38620384">
+          <para id="fs-idm48931296">Czy twoim zdaniem ukryte bezrobocie będzie wyższe, niższe lub mniej więcej takie samo, gdy porównamy dwie sytuacje: stopa bezrobocia jest wysoka, powiedzmy 10%, i na niskim poziomie, np. 4%? Odpowiedź uzasadnij.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm85610352" class="problems">
+      <title id="UUID855ddfd3-9fd7-4e53-715f-13bbd99a967d">Problems</title>
+      <exercise id="fs-idm137514912">
+        <problem id="fs-idm59568720">
+          <para id="fs-idm54905424">Pewien kraj z populacją 8 mln osób dorosłych ma 5 mln pracujących i 500 tys. bezrobotnych. Pozostała część dorosłej populacji nie należy do zasobu siły roboczej. Jaka jest stopa bezrobocia w tym kraju? Jaki jest odsetek ludzi aktywnych zawodowo? Naszkicuj wykres kołowy, który przyporządkuje dorosłą populację do tych trzech grup.</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUIDb284df79-6bbe-4d76-61e4-cec1de25fd5b">
+    <definition id="fs-idm43157584">
+      <term id="UUIDe01549aa-49f0-4268-596c-41d36a1f80e8">osoby zniechęcone poszukiwaniami pracy, (ang. <foreign xml:lang="en" id="UUID93c0a994-7fae-42fb-48ee-566f509fe362">discouraged workers</foreign>)</term>
+      <meaning id="fs-idm28811424">
+        <para id="UUIDd6358870-9596-4fe6-4cbb-ed4da354e3ae">osoby, które przestały szukać zatrudnienia z powodu braku odpowiednich miejsc pracy</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm56912768">
+      <term id="UUID1b16540c-6858-430c-6626-2cdaa5edbf94">stopa aktywności zawodowej, (ang. <foreign xml:lang="en" id="UUIDe0ba14b9-8f8d-4fd7-6aa4-2cb3b811784b">labor force participation rate</foreign>)</term>
+      <meaning id="fs-idp16719616">
+        <para id="UUID17358187-877e-438d-6f41-7dde84fa3451">odsetek populacji dorosłych osób (w Polsce w wieku 15–89 lat), które są zatrudnione albo też bezrobotne, ale poszukują pracy</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm70411056">
+      <term id="UUID43f6cc20-f35f-4d0d-71e1-5eed12dd0bff">osoby pozostające poza zasobem siły roboczej, (ang. <foreign xml:lang="en" id="UUIDcf768e3b-55f7-40b2-4ce7-08a7ca675c29"><emphasis effect="italics">out of the labor force</emphasis></foreign>)</term>
+      <meaning id="fs-idm61397296">
+        <para id="UUID9ca2015a-2b96-4853-7302-78a82576e508">osoby, które nie pracują i nie poszukują pracy, bez względu na to, czy chcą pracować, czy też nie; tacy ludzie określani są także jako nieaktywni zawodowo</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp17525824">
+      <term id="UUID7bcb7b1e-2649-465d-656d-ba0b1cb1d192">zatrudnieni poniżej kwalifikacji, (ang. <foreign xml:lang="en" id="UUIDeee8fca3-beba-4b76-7afc-3e61907ab748">underemployed</foreign>)</term>
+      <meaning id="fs-idm48713408">
+        <para id="UUID77ebbf44-5285-4b94-61c6-1d220efa8b31">osoby, które pracują, ale wykonują pracę poniżej swoich kwalifikacji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm43319232">
+      <term id="UUID3866e135-98b2-4ca5-4da4-c1e9882d04df">stopa bezrobocia, (ang. <foreign xml:lang="en" id="UUIDcf26c356-fab2-4a65-49e6-cb237bde9eff">unemployment rate</foreign>)</term>
+      <meaning id="fs-idm67812384">
+        <para id="UUID62848ccd-92ba-49e1-49a9-72b37a7a602a">odsetek osób dorosłych, które są aktywne zawodowo, ale nie pracują; inaczej mówiąc, są to osoby, które aktywnie poszukują pracy i są gotowe niezwłocznie ją podjąć</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

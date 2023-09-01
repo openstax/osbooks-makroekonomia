@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U4ae20372-518e-486e-b71f-aa660530a96a" id="U4ae20372-518e-486e-b71f-aa660530a96a" xml:lang="en" cnxml-version="0.7">
+  <title>6.6 Keynes’ Law and Say’s Law in the AD/AS Model</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00036</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/4ae20372-518e-486e-b71f-aa660530a96a</md:content-url>
+    <md:title>6.6 Keynes’ Law and Say’s Law in the AD/AS Model</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:04.094853802+00:00</md:version>
+    <md:created>2023-08-30T08:02:04.094853802+00:00</md:created>
+    <md:revised>2023-08-30T08:02:04.094853802+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>4ae20372-518e-486e-b71f-aa660530a96a</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-5543-87ut-7c527b82d03b3911" class="learning-objectives">
+      <para id="ch24mod96_h2">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUIDa2c08077-7877-440a-5bf8-36e25ae59ca3">
+          <para id="UUIDb8e4d128-b00e-4b09-589f-ca3d255dc0a6">Wskazać obszar neoklasyczny, pośredni i keynesowski w modelu popytu globalnego i podaży globalnej</para>
+        </item>
+        <item id="UUID4c43dc89-8267-4e95-469a-51ccac0567ed">
+          <para id="UUIDe8e5acd9-d1f6-4683-4ee1-8b6242e00203">Wykorzystać model AD-AS do diagnozy kondycji gospodarczej swojego kraju</para>
+        </item>
+      </list>
+    </note>
+    <para id="ch24mod06_p01">Możemy użyć modelu AD-AS do zilustrowania zarówno <term cmlnle:reference="prawo Saya" id="UUID7cf388e3-0f44-4551-451b-f567c7adf761">prawa rynków Saya</term> (<foreign xml:lang="en" id="UUIDa7a00479-79c5-452e-47c0-e6fb6fdc4239"><term id="UUIDa5c2338d-22f6-4541-4b69-50d390faba9d">Say's law</term></foreign>), zgodnie z którym to podaż kreuje swój popyt, jak i <term cmlnle:reference="prawo Keynesa" id="UUID669c6408-8fbe-4e56-54ff-96848ed5daa1">prawa rynków Keynesa</term> (<foreign xml:lang="en" id="UUID962f7201-cb50-412d-79ee-02f4493b76e6"><term id="UUID1a17bc35-acf4-4f4c-6f41-b44dda98690b">Keynes' law</term></foreign>), które kładzie nacisk na popyt jako czynnik przesądzający o wielkości podaży. W tym celu rozważmy trzy obszary na wykresie krzywej SAS, które przedstawiono na <link target-id="CNX_Econ_C24_011" cmlnle:case="locative" id="UUID9573ff96-d223-45aa-54df-c356929fe3e2" />.</para>
+    <figure id="CNX_Econ_C24_011">
+      <title id="UUID9d2d9f84-64c3-44d1-7814-e671c5f18481">Obszar keynesowski, neoklasyczny i pośredni na wykresie krzywej podaży globalnej</title>
+      <media alt="Wykres przedstawia trzy krzywe popytu globalnego, które oddzielają od siebie obszary: keynesowski, pośredni i neoklasyczny. Obszar keynesowski znajduje się po lewej stronie i jednocześnie najniżej, pośredni leży pośrodku, zaś neoklasyczny jest wysunięty najbardziej na prawo i położony najwyżej." id="mCNX_Econ_C24_011">
+        <image src="../../media//CNX_Econ_C24_011.svg" mime-type="image/svg+xml" id="UUID4396c6e0-737e-4ac0-62d8-e6e9168b86ee" />
+      </media>
+      <caption id="UUIDd0a36590-90ec-438f-427a-a94aaa8da40b">W pobliżu punktu równowagi E<sub>k</sub>, czyli w obszarze keynesowskim, położonym po lewej stronie wykresu krzywej SAS, niewielkie przesunięcia krzywej popytu globalnego w prawo lub w lewo oddziałują na wolumen produkcji Y<sub>k</sub>, ale nie wpływają znacząco na poziom cen. W obszarze keynesowskim popyt globalny AD w dużej mierze determinuje wielkość produkcji. W pobliżu punktu równowagi E<sub>n</sub>, czyli w obszarze neoklasycznym znajdującym się po prawej stronie krzywej SAS, niewielkie przesunięcia krzywej AD w prawo lub w lewo będą wywierały stosunkowo niewielki wpływ na wielkość produkcji Y<sub>n</sub>, ale będą miały silny wpływ na poziom cen. W obszarze neoklasycznym to prawie pionowa krzywa SAS, położona blisko poziomu potencjalnego PKB, określa w dużej mierze wielkość produkcji. W strefie pośredniej wokół punktu równowagi E<sub>p</sub> przesunięcie krzywej AD w prawo powoduje wzrost zarówno produkcji, jak i cen, podczas gdy ruch AD w lewo prowadzi do spadku produkcji i cen.</caption>
+    </figure>
+    <para id="UUIDab962af2-d0f2-4754-6b41-e66488bb6da3">Spójrzmy najpierw na <term cmlnle:reference="strefa keynesowska" id="UUID0307b128-ee00-4b96-6f01-eb78c22663ab">obszar keynesowski</term> (ang. <foreign xml:lang="en" id="UUIDb754fb01-06a0-4ef5-4b5b-831446e71169"><term id="UUID450093c6-c8f2-4cfb-51df-790680e852a5">Keynesian zone</term></foreign>), czyli tę część krzywej SAS, która leży po lewej stronie i jest stosunkowo płaska. Jeśli krzywa AD przecina krzywą SAS w punkcie równowagi E<sub>k</sub>, to co możemy powiedzieć o sytuacji gospodarczej w tym obszarze? Otóż wartość realnego PKB jest znacznie niższa od poziomu potencjalnego, gospodarka znajduje się w recesji, a bezrobocie przymusowe jest wysokie. Jeśli popyt globalny zwiększy się lub zmniejszy, nowe położenie krzywej popytu globalnego określi finalną wielkość produkcji (a tym samym poziom bezrobocia). Presja inflacyjna w obszarze keynesowskim nie jest istotnym powodem do niepokoju, ponieważ poziom cen jest w miarę stabilny – producenci reagują na zwiększony popyt głównie wzrostem produkcji, a nie wzrostem cen.</para>
+    <para id="ch24mod06_p02">Przeanalizujmy teraz <term cmlnle:reference="strefa neoklasyczna" id="UUIDe5ba767e-b2d4-4ab4-73e2-c1cbc58ee028">obszar neoklasyczny</term> (ang. <foreign xml:lang="en" id="UUIDc906c2d2-46bd-4cb0-7171-604a3ba1df23"><term id="UUIDd340749f-8180-4c3d-49b3-5d7da8c96c8b">neoclassical zone</term></foreign>) krzywej SAS, charakteryzujący się niemal pionowym kształtem tej krzywej i znajdujący się po jej prawej stronie. Jeśli popyt globalny AD przecina tę część krzywej SAS w punkcie równowagi, takim jak E<sub>n</sub>, gdzie produkcja jest równa lub zbliżona do poziomu potencjalnego, wówczas wielkość potencjalnego PKB w dużej mierze określa faktyczny poziom produkcji w gospodarce. Ponieważ równowaga jest bliska potencjalnemu PKB, bezrobocie przymusowe jest niskie, chociaż problemem może być bezrobocie strukturalne. W obszarze neoklasycznym wzrost lub spadek popytu globalnego ma niewielki wpływ na wolumen produkcji i zatrudnienie. Jedynym sposobem na zwiększenie realnego PKB jest przesunięcie krzywej AS w prawo. Zmiany popytu globalnego w obszarze neoklasycznym prowadzą do zmian poziomu cen.</para>
+    <para id="ch24mod06_p03">Na koniec przyjrzyjmy się <term cmlnle:reference="strefa pośrednia" id="UUID93ada518-9ec9-4add-4244-9598759a8602">obszarowi pośredniemu</term> (an. <foreign xml:lang="en" id="UUID8593f32d-79de-428a-62d6-4b3415176e94"><term id="UUIDd9e3eb63-00d5-4884-786e-e8c82fa6199c">intermediate zone</term></foreign>) krzywej SAS na <link target-id="CNX_Econ_C24_011" cmlnle:case="locative" id="UUID17d5d927-32d3-4e5f-614a-f50b309cf984" />. Jeśli popyt globalny przecina tę część krzywej SAS w punkcie równowagi takim jak E<sub>p</sub>, możemy się spodziewać, że przesunięcia krzywej popytu globalnego będą prowadzić do zmian bezrobocia i inflacji w przeciwnych kierunkach. Na przykład przesunięcie krzywej AD w prawo przybliży wolumen produkcji do poziomu potencjalnego, a tym samym zmniejszy bezrobocie, ale przyniesie też wyższy poziom cen (lub szybszą inflację). I odwrotnie, przesunięcie krzywej AD w lewo oddali produkcję od poziomu potencjalnego i zwiększy bezrobocie, ale spowoduje także obniżenie poziomu cen (lub spadek inflacji).</para>
+    <para id="ch24mod06_p04">Dzięki podzieleniu krzywej SAS na różne obszary możemy dokonać diagnozy stanu gospodarki, niczym lekarz badający pacjenta i określający jego kondycję na podstawie objawów. Najpierw należy określić, w jakim obszarze znajduje się analizowana gospodarka. Dzięki temu będziemy mogli stwierdzić, jakie będą konsekwencje zmian popytu globalnego i możliwości realizacji pożądanych, ale wykluczających się niekiedy celów polityki gospodarczej, w wyniku zastosowania przez państwo różnych jej kombinacji. Niektórzy ekonomiści uważają, że gospodarki w zasadzie nie przemieszczają się pomiędzy zdefiniowanymi powyżej obszarami. Na przykład ortodoksyjni keynesiści utrzymują, że gospodarki przez większość czasu znajdują się w obszarze keynesowskim, a obszar neoklasyczny postrzegają jako czysto teoretyczną abstrakcję. I odwrotnie, skrajni neoklasycy twierdzą, że gospodarki przez większość czasu znajdują się w obszarze neoklasycznym, a obszar keynesowski nie jest wart ich uwagi. <link document="m00037" id="UUID93acf947-ba19-4aef-5a7d-cc405ef323f0" /> i <link document="m00042" id="UUIDa4522dae-90d3-4975-5519-a257c239608f" /> powinny pomóc w wyjaśnieniu podstaw i konsekwencji tych przeciwstawnych poglądów na gospodarkę.</para>
+    <note type="note" id="ch24mod06_bring" class="bringhome economics">
+      <title id="UUIDaf467365-3fc3-41b3-40fe-71b585ffcd88">Recesja wywołana pandemią: kwestia popytu czy podaży?</title>
+      <para id="UUID16a70b98-554b-4a66-54b5-c9448e705f21">Wspomnieliśmy wcześniej, że globalna pandemia zagrażającej życiu ludzkiemu choroby, takiej jak Covid-19, może spowodować przesunięcie krzywej podaży globalnej w lewo, ze względu na tymczasowe zmniejszenie liczby pracowników chętnych do podjęcia zatrudnienia i wstrzymanie produkcji dóbr, zarówno z uwagi na brak rąk do pracy, jak i administracyjne ograniczenia w prowadzeniu działalności gospodarczej, przede wszystkim w sektorze usług (określane mianem lockdownów). Pandemie mogą jednak również wpływać na zagregowany popyt. Kiedy ludzie wahają się, czy wydawać pieniądze ze względu na wysokie prawdopodobieństwo utraty pracy lub po prostu z obawy przed pojawianiem się w miejscach publicznych, będzie to miało wpływ na zagregowane wydatki w gospodarce. Konsumenci wydają mniej m.in. w restauracjach, hotelach, przestają odwiedzać bary, kluby i dyskoteki, nie chodzą na siłownię itd., zaś firmy przestają inwestować z powodu braku popytu i niepewnej przyszłości. Oba czynniki prowadzą do przesunięcia krzywej zagregowanego popytu w lewo.</para>
+      <para id="UUIDb13ed779-6362-4435-485b-6402f982d459">Choć trwają dyskusje, czy wywołana pandemią globalna recesja, której polska gospodarka doświadczyła w 2020 r., była napędzana przede wszystkim przez malejącą podaż, czy kurczący się popyt, najbardziej prawdopodobna odpowiedź będzie brzmiała: zarówno przez jedno, jak i drugie. W marcu i kwietniu 2020 r. pracownicy masowo opuszczali rynek pracy, a później w ciągu roku wahali się, czy powrócić ze względu na obawy dotyczące zdrowia i bezpieczeństwa. Wiele osób było również zmuszonych do odwołania planowanych podróży lub zrezygnowało z nich dobrowolnie z obawy o swoje bezpieczeństwo, co dodatkowo zmniejszyło zagregowany popyt. Doprowadziło to do głębokiego ograniczenia wolumenu produkcji w gospodarce światowej (przede wszystkim w Chinach, z ich niezwykle restrykcyjną polityką lockdownów), które było odczuwalne jeszcze w drugiej połowie 2022 r.</para>
+    </note>
+    <section id="ch24mod06_summ" class="summary">
+      <title id="UUIDcd4d1a3f-f86e-4b08-71fc-ed410baade1a">Podsumowanie</title>
+      <para id="ch24mod06_p09">Krzywą SAS możemy podzielić na trzy obszary. Zgodnie z prawem rynków Keynesa popyt kreuje podaż, więc przesunięcie krzywej popytu globalnego spowoduje zmiany realnego PKB i poziomu zatrudnienia. Działanie prawa Keynesa możemy pokazać na poziomej części krzywej podaży globalnej, w tzw. obszarze keynesowskim. Znajduje się on po lewej stronie krzywej SAS, czyli w jej płaskiej części, więc zmiany popytu globalnego będą miały silny wpływ na wolumen produkcji, ale niewielki na poziom cen. Prawo rynków Say'a opiera się na założeniu, iż to podaż kreuje popyt na samą siebie. W takiej sytuacji zmiany popytu globalnego nie oddziałują na realny PKB i zatrudnienie, a jedynie na poziom cen. Działanie prawa Say'a możemy pokazać na pionowej części krzywej podaży globalnej, czyli w tzw. obszarze neoklasycznym. Leży on po prawej stronie krzywej SAS, w jej stromej – prawie pionowej – części, więc zmiany popytu globalnego będą miały silny wpływ na poziom cen, ale niewielki na wolumen produkcji. Obszar pośredni znajduje się pośrodku krzywej SAS, w jej rosnącej części, co oznacza, że wzrost popytu globalnego spowoduje zwiększenie produkcji i cen, podczas gdy spadek AD doprowadzi do zmniejszenia obu parametrów.</para>
+    </section>
+    <section id="ch24mod06_sques" class="self-check-questions">
+      <title id="UUIDc72fc320-7ebc-47e6-4a2b-aa7038656d0c">Pytania sprawdzające</title>
+      <exercise id="ch24mod06_sques01">
+        <problem id="ch24mod06_squesp01">
+          <para id="ch24mod06_p10">Jeśli kondycja gospodarki sytuuje ją w neoklasycznym obszarze krzywej SAS, a popyt globalny spada, co najprawdopodobniej stanie się z poziomem realnego PKB?</para>
+        </problem>
+        <solution id="ch24mod06_sques01s">
+          <para id="ch24mod06_p11">Ponieważ krzywa SAS jest pionowa w obszarze neoklasycznym, spadek popytu globalnego spowoduje obniżenie poziomu cen, ale realny PKB i poziom zatrudnienia nie zmienią się (z wyjątkiem sytuacji, gdy początkowa równowaga była bardzo blisko obszaru pośredniego i właśnie tam gospodarka znajdzie się po spadku popytu globalnego).</para>
+        </solution>
+      </exercise>
+      <exercise id="ch24mod06_sques02">
+        <problem id="ch24mod06_squesp02">
+          <para id="ch24mod06_p12">Jeśli gospodarka działa w keynesowskim obszarze krzywej SAS, a popyt globalny spada, co najprawdopodobniej stanie się z poziomem realnego PKB?</para>
+        </problem>
+        <solution id="ch24mod06_sques02s">
+          <para id="ch24mod06_p13">Ponieważ krzywa SAS jest pozioma w obszarze keynesowskim, spadek AD powinien doprowadzić do obniżenia się realnego PKB przy stałym poziomie cen.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="ch24mod06_rques" class="review-questions">
+      <title id="UUID79c143be-9c67-4b42-6d5a-19326425861b">Sprawdź wiedzę</title>
+      <exercise id="ch24mod06_rques01">
+        <problem id="ch24mod06_rquesp01">
+          <para id="ch24mod06_p14">Czym jest keynesowski obszar krzywej SAS? Jak zmienia się w nim poziom cen?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod06_rques02">
+        <problem id="ch24mod06_rquesp02">
+          <para id="ch24mod06_p15">Czym jest neoklasyczny obszar krzywej SAS? Jak zmienia się w nim wielkość produkcji?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod06_rques03">
+        <problem id="ch24mod06_rquesp03">
+          <para id="ch24mod06_p16">Czym jest pośredni obszar krzywej SAS? Czy w tym obszarze powiększaniu produkcji towarzyszy wzrost, czy spadek poziomu cen?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch24mod06_ctques" class="critical-thinking">
+      <title id="UUID756989da-ba2e-4c1a-665f-e706b55288f4">Ćwicz myślenie krytyczne</title>
+      <exercise id="ch24mod06_ctques01">
+        <problem id="ch24mod06_ctquesp01">
+          <para id="ch24mod06_p17">Wyjaśnij, dlaczego krótkookresowa krzywa podaży globalnej (SAS) jest dość płaska w swoim obszarze keynesowskim. W jaki sposób możemy potwierdzić, że dana gospodarka znajduje się w tym właśnie obszarze?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod06_ctques02">
+        <problem id="ch24mod06_ctquesp02">
+          <para id="ch24mod06_p18">Wyjaśnij, dlaczego krótkookresowa krzywa podaży globalnej (SAS) jest pionowa w swoim obszarze neoklasycznym. W jaki sposób możemy potwierdzić, że dana gospodarka znajduje się w tym właśnie obszarze?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod06_ctques03">
+        <problem id="ch24mod06_ctquesp03">
+          <para id="ch24mod06_p19">Dlaczego dla polityków gospodarczych kluczową kwestią pozostaje umiejscowienie gospodarki na konkretnym obszarze krzywej SAS?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod06_ctques04">
+        <problem id="ch24mod06_ctquesp04">
+          <para id="ch24mod06_p20">Czy twoim zdaniem polska gospodarka znajduje się obecnie na keynesowskim, pośrednim czy neoklasycznym obszarze krzywej podaży globalnej (SAS)?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod06_ctques05">
+        <problem id="ch24mod06_ctquesp05">
+          <para id="ch24mod06_p21">Czy prawo rynków Saya i prawo rynków Keynesa wzajemnie się wykluczają?</para>
+        </problem>
+      </exercise>
+    </section>
+  </content>
+  <glossary id="UUID78fc14d9-3bc1-4332-6072-e8b5acfaee42">
+    <definition id="ch24mod06_gl01">
+      <term id="UUID1b95d159-c85e-4938-4282-dd133997acf8">obszar pośredni (ang. <foreign xml:lang="en" id="UUIDa540f552-2e28-45c7-7eb3-febc75f9653c">intermediate zone</foreign>)</term>
+      <meaning id="ch24mod06_gl01m">
+        <para id="UUIDf688ca83-a0b0-4091-684f-5dad9f4d906c">część krzywej SAS, na której PKB znajduje się poniżej poziomu potencjalnego, ale nie tak daleko, jak w obszarze keynesowskim; krzywa SAS ma nachylenie dodatnie</para>
+      </meaning>
+    </definition>
+    <definition id="ch24mod06_gl02">
+      <term id="UUIDfe586bd7-51c0-48b9-50f0-130e8d59745e">obszar keynesowski (ang. <foreign xml:lang="en" id="UUID6873313b-ae1e-48d9-5ba3-fa481b5cd300">Keynesian zone</foreign>)</term>
+      <meaning id="ch24mod06_gl02m">
+        <para id="UUID2bc93e7a-8b97-4371-69fc-f3c89b589a98">część krzywej SAS, na której PKB sytuuje się znacznie poniżej poziomu potencjalnego, a sama krzywa SAS jest płaska</para>
+      </meaning>
+    </definition>
+    <definition id="ch24mod06_gl03">
+      <term id="UUID54818b4e-0515-4e05-779b-7548359654e3">obszar neoklasyczny (ang. <foreign xml:lang="en" id="UUID5bc5b088-d98f-4a34-6616-0e8592dc5c4f">neoclassical zone</foreign>)</term>
+      <meaning id="ch24mod06_gl03m">
+        <para id="UUID5fcd4790-9c14-4912-7dda-b22087421159">część krzywej SAS, na której PKB jest równy lub zbliżony do poziomu potencjalnego, a sama krzywa SAS jest stroma</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

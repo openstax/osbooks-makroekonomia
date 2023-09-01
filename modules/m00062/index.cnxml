@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ua7e0a744-f7e3-4e23-8c2e-26ac19dcd130" id="Ua7e0a744-f7e3-4e23-8c2e-26ac19dcd130" xml:lang="en" cnxml-version="0.7">
+  <title>12.1 Government Spending</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00062</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/a7e0a744-f7e3-4e23-8c2e-26ac19dcd130</md:content-url>
+    <md:title>12.1 Government Spending</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:05.058545118+00:00</md:version>
+    <md:created>2023-08-30T08:02:05.058545118+00:00</md:created>
+    <md:revised>2023-08-30T08:02:05.058545118+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>a7e0a744-f7e3-4e23-8c2e-26ac19dcd130</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <list id="list-00001">
+      <item id="UUID52dc64b1-0776-4955-4bc3-24470194b238">
+        <para id="UUIDec698147-1985-4080-79aa-088a83a91f0d">Ocenić poziom i strukturę wydatków sektora publicznego w USA w ciągu ostatnich kilku dekad</para>
+      </item>
+      <item id="UUIDf3722ff3-4687-47b6-69e4-10cf14898850">
+        <para id="UUIDb6e414e4-2de4-4a31-72bb-7dc2fc9d3de0">Zrozumieć różnice między podatkami o charakterze regresywnym, proporcjonalnym i progresywnym</para>
+      </item>
+      <item id="UUIDf5a30ea9-b016-4abc-7528-9c60a6303162">
+        <para id="UUID4e3d5562-b6d3-411a-6da6-1833db21f468">Wskazać główne cele wydatków i źródła dochodów budżetu państwa w Polsce</para>
+      </item>
+    </list>
+    <para id="fs-idp2038352">Wydatki państwa w USA obejmują szereg usług świadczonych przez władze federalne, stanowe i lokalne. Kiedy w danym roku rząd federalny wydaje więcej pieniędzy, niż zbiera z podatków, występuje <term id="UUIDda6a7a9a-2154-4d55-7cf4-62b27f732f58">deficyt budżetowy</term> (<foreign xml:lang="en" id="UUID4ee8b3fd-265b-4352-425f-4c44b5a40457"><term id="UUIDee19c9e0-4c9b-4906-4cf2-0c4724aae169">budget deficit</term></foreign>). I odwrotnie, kiedy dochody podatkowe w danym roku są większe niż wydatki państwa, mówimy o <term cmlnle:reference="nadwyżka budżetowa" id="UUID94af66fd-114f-4298-5dc0-f7e8006c6ad4">nadwyżce budżetowej</term> (<foreign xml:lang="en" id="UUID3d3cab79-e0f1-43ac-4113-c10266fee26a"><term id="UUID318866f0-f278-4103-5d39-a6eed23c660d">budget surplus</term></foreign>). Jeśli wydatki rządowe i podatki są równe, mamy do czynienia z <term cmlnle:reference="równowaga budżetowa" id="UUIDfd90f55c-36b5-45a4-65d2-cecbdfcfb501">równowagą budżetową</term> (<foreign xml:lang="en" id="UUID513e9bb1-7d60-4ff4-5278-a4e04bdaac8b"><term id="UUID80e8ffca-48ee-45aa-7818-8f6913e3e098">balanced budget</term></foreign>). Na przykład w 2009 r. Stany Zjednoczone zanotowały największy w historii deficyt budżetowy, w wysokości 1,4 bln dol. Stanowił on ok. 10% ówczesnego PKB kraju, co czyni go zdecydowanie największym deficytem budżetowym w stosunku do PKB od czasu gigantycznej pożyczki, którą rząd USA wykorzystał do sfinansowania swoich działań w czasie II wojny światowej.</para>
+    <section id="fs-idm94759184">
+      <title id="UUID881db217-2453-47ae-4f35-631421e6822e">Wydatki rządu federalnego w USA</title>
+      <para id="fs-idp18158448">Nominalne (tj. w cenach bieżących, czyli nieskorygowanych o inflację) wydatki rządu federalnego w latach 1960–2014 wzrosły ponad 38-krotnie, z 93,4 mld dol. w roku 1960 do 3,9 bln dol. w 2014. Jednak porównywanie wydatków w czasie w cenach bieżących jest mylące, bo nie uwzględnia inflacji, wzrostu liczby ludności ani zmian w gospodarce realnej. Lepszą metodą analizy zmian wydatków państwa w czasie jest wykorzystanie danych na temat udziału wydatków państwa w PKB.</para>
+      <para id="UUIDef81ec45-b2a8-49a6-4efe-0515d82b8982">Górna krzywa na <link target-id="CNX_Econ_C30_001" cmlnle:case="locative" id="UUID182ad5d8-5956-4e5a-58cd-24b796e9ba69" /> pokazuje poziom wydatków federalnych wyrażony jako odsetek PKB. Pomimo powszechnego wśród Amerykanów przekonania, że ich rząd stale się rozrasta, wykres dowodzi, że przez te ponad pięć dekad wydatki federalne oscylowały w przedziale od 18% do 22% PKB. Pozostałe krzywe na <link target-id="CNX_Econ_C30_001" cmlnle:case="locative" id="UUID96e6f931-38ef-4d99-538b-ffa2da0e1e9b" /> przedstawiają główne kategorie wydatków federalnych: obrona narodowa, ubezpieczenia społeczne, ochrona zdrowia i odsetki. Na wykresie widać, że wydatki na obronę narodową liczone jako procent PKB od lat 60. XX w. generalnie spadały, chociaż w latach 80. XX w., w okresie rządów prezydenta Ronalda Reagana, a potem w następstwie ataków terrorystycznych z 11 września 2001 r. doszło do pewnych wzrostów. Dla kontrastu, wydatki na ubezpieczenia społeczne i ochronę zdrowia widziane jako odsetek PKB stale rosły. Wydatki na ochronę zdrowia obejmują opiekę zdrowotną dla osób w podeszłym wieku (program Medicare) oraz dla ludzi o niskich dochodach (program Medicaid). Rządy stanowe również częściowo finansują program Medicaid. Odsetki od długu stanowią ostatnią główną kategorię wydatków państwa na <link target-id="CNX_Econ_C30_001" cmlnle:case="locative" id="UUIDb4c0beec-9b56-4d34-7897-1e84028f128f" />.</para>
+      <figure id="CNX_Econ_C30_001">
+        <title id="UUID83c4ba55-84e0-44f6-6c18-32428303f802">Wydatki rządu federalnego w USA, 1960–2014</title>
+        <media alt="Wykres przedstawia pięć krzywych reprezentujących różne kategorie wydatków rządu federalnego w latach 1960–2014. Całkowite wydatki zawsze przekraczały 17% PKB. Wydatki na obronę narodową nigdy nie wzrosły powyżej 15% PKB, a obecnie stanowią ok. 5% PKB. Wydatki na ubezpieczenia społeczne nigdy nie przekroczyły 5% PKB. Wydatki z tytułu odsetek kształtowały się na poziomie poniżej 5% PKB. Wydatki na ochronę zdrowia jako jedyne wzrosły, z ok. 1% PKB w roku 1960 do ok. 4% PKB w 2014." id="fs-idm24128496">
+          <image src="../../media//CNX_Econ2e_C30_02.svg" mime-type="image/svg+xml" id="UUID606087bd-dfb0-4899-642c-1ad0a1f3b90c" />
+        </media>
+        <caption id="UUID5bf59b40-f8ee-4fc7-793c-46a21f13c3f6">W latach 1960–2014 całkowite wydatki rządu federalnego wahały się w przedziale od ok. 18% do 22% PKB. Wprawdzie w 2009 r. były wyższe, ale do 2013 r. z powrotem spadły do wcześniejszego poziomu. Nakłady państwa na obronę narodową zmniejszyły się, podczas gdy wydatki na ubezpieczenia społeczne i na ochronę zdrowia (głównie na programy Medicare i Medicaid) wzrosły. (Źródło: Raport ekonomiczny Prezydenta (Economic Report of the President), Tabele B-2 i B-22, http://www.gpo.gov/fdsys/pkg/ERP-2014/content-detail.html)</caption>
+      </figure>
+      <para id="fs-idp182692576">Każdego roku państwo pożycza fundusze od obywateli i obcokrajowców na pokrycie deficytu budżetowego. Robi to poprzez sprzedaż papierów wartościowych (np. obligacji skarbowych), w istocie pożyczając pieniądze od społeczeństwa i obiecując w przyszłości spłatę należności wraz z odsetkami. W latach 1961–1997 rząd Stanów Zjednoczonych (podobnie jak rząd Polski po roku 1992) prawie co roku wykazywał deficyt budżetowy, a tym samym pożyczał pieniądze od społeczeństwa. W latach 1998–2001 Stany Zjednoczone notowały nadwyżkę budżetową, po czym w budżecie znów pojawił się deficyt.</para>
+      <para id="UUID4293bb39-22de-4964-5a7f-145a4f1c5197">Odsetki od pożyczek zaciągniętych przez rząd federalny USA w latach 60. i 70. XX w. wynosiły zazwyczaj 1–2% PKB, ale w latach 80. przekroczyły 3% PKB i utrzymywały się na tym poziomie do późnych lat 90. XX w. Rząd był w stanie spłacić część swoich wcześniejszych zobowiązań, utrzymując nadwyżkę budżetową w latach 1998–2001, a dzięki niskim stopom procentowym wydatki z tytułu odsetek od wcześniejszych pożyczek spadły z powrotem do poziomu 1,4% PKB w 2012 r.</para>
+      <para id="fs-idp73240464">W dalszej części tego rozdziału bardziej szczegółowo omówimy kwestie dotyczące pożyczek rządowych i długu publicznego, ale najpierw musimy wyjaśnić różnicę między deficytem budżetowym a długiem publicznym. Deficyt to nie dług. Różnica między deficytem a długiem odnosi się do horyzontu czasowego. Deficyt budżetowy (lub nadwyżka budżetowa) dotyczy stanu budżetu państwa w danym roku. Natomiast dług publiczny narasta w czasie. Jest to suma wszystkich przeszłych deficytów i nadwyżek. Jeśli pożyczasz 10 000 zł rocznie na każde z pięciu lat studiów, twój roczny deficyt wynosi 10 000 zł, ale skumulowany dług w ciągu pięciu lat urośnie do 50 000 zł.</para>
+      <para id="fs-idp9961760">Pięć kategorii wydatków: dopłaty do rent i emerytur (ubezpieczenia społeczne), ochrona zdrowia, pomoc społeczna, edukacja i infrastruktura stanowiło blisko 67% wszystkich wydatków budżetu państwa w Polsce w 2020 r., jak pokazano na <link target-id="CNX_Econ_C30_002" cmlnle:case="locative" id="UUID597953bd-af2b-4ca6-6204-2b51a31d4553" />. Pozostałe 33% obejmuje wszystkie inne kategorie wydatków, m.in.: rynek pracy, obronę narodową, bezpieczeństwo i sprawiedliwość, środowisko, naukę i szkolnictwo wyższe. Całkowite wydatki budżetu państwa w 2020 r. wyniosły 1 058 772 mln zł.</para>
+      <figure id="CNX_Econ_C30_002">
+        <title id="UUIDf977b1b0-223b-47f0-68f3-b49290ac2282">Struktura wydatków budżetu państwa w Polsce w roku 2020</title>
+        <media alt="Wykres kołowy ilustruje strukturę wydatków budżetu państwa w Polsce w 2020 r." id="fs-idp50219888">
+          <image src="../../media//CNX_Econ_C30_002.svg" mime-type="image/svg+xml" id="UUID1e1a39fe-cc77-4f2b-65fc-716d0f1500f4" />
+        </media>
+        <caption id="UUID6b12467e-2062-4d33-75b8-2be396596cc0">Około 67% wydatków budżetu państwa w Polsce w 2020 r. przeznaczono na pięć najważniejszych dziedzin: ubezpieczenia społeczne, ochronę zdrowia, pomoc społeczną, edukację i infrastrukturę. Na wszystkie pozostałe obszary zostało zatem 33%. (Źródło: www.mf.gov.pl).</caption>
+      </figure>
+      <section id="UUIDe84de206-cb7d-43c7-4ebc-93ff06dbb286">
+        <title id="UUID2b361bd9-4a3a-4db4-7cbb-8148969ca22b">Podatki</title>
+        <para id="fs-idp27422608">Ekonomiści są zgodni, że podatki mogą zostać nałożone zarówno na strumienie, jak i zasoby. W tym pierwszym przypadku opodatkowane mogą zostać zarówno dochody i przychody, jak też wydatki. Natomiast opodatkowanie zasobów będzie dotyczyć różnych składników majątku. Podatki mogą być nałożone na dochody osób fizycznych i prawnych i obciążać dochód wypracowany przez wszystkie czynniki produkcji (pracę, kapitał i ziemię). Niektóre zryczałtowane sposoby poboru podatku od osób prawnych istniejące w Polsce (np. karta podatkowa, którą podmioty gospodarze mogły wybrać jako sposób opodatkowania do końca 2021 r.) sprawiają, że podatki te zyskują charakter przychodowy. Natomiast podatki nakładane na wydatki to przede wszystkim podatki konsumpcyjne: podatek od towarów i usług (VAT) i podatek akcyzowy. Podatki obciążające zasoby to w przeważającej części podatki majątkowe, które dotyczą nieruchomości (m.in.: podatek rolny, leśny, podatek od nieruchomości), ruchomych składników majątku (podatek od środków transportowych) oraz spadków i darowizn.</para>
+        <para id="UUIDb8dc06dd-20ed-407d-660d-7e615d37c0d9">Klasyfikacja stosowana przez OECD jako podatki traktuje również cła, jednak zgodnie z definicją obecną w polskim prawie nie mogą być one uważane za ten rodzaj danin publicznych. Zawierają bowiem w sobie element ekwiwalentności (nabywamy pozwolenie na wwóz albo wywóz towarów).</para>
+        <para id="UUIDfa323058-6796-463a-5ab7-2626924b5926">Ekonomiści dzielą również podatki na bezpośrednie i pośrednie. Te pierwsze bezpośrednio obciążają podmiot podatku, czyli podatnika i stanowią jego koszt. W polskim systemie prawnym podatkami bezpośrednimi są m.in.: podatek dochodowy od osób fizycznych (PIT), podatek dochodowy od osób prawnych (CIT), podatek od spadków i darowizn. Natomiast podatki pośrednie swoją nazwę wywodzą od sposobu ich poboru. Jest on płacony przy zakupie obciążonego nim dobra lub usługi, a nie bezpośrednio w urzędzie skarbowym. W Polsce do podatków pośrednich zaliczamy: podatek od towarów i usług (VAT), podatek akcyzowy i podatek od gier.</para>
+        <para id="UUID14bba133-9690-4a27-4283-7278caa9583b">Poza wskazanymi powyżej w Polsce i na świecie funkcjonują lub funkcjonowały różne inne, nietypowe podatki. Możemy do nich zaliczyć m.in.:</para>
+        <list id="UUID8edd8a41-b2d7-49d2-43df-c6afb39aea82">
+          <item id="UUIDa60a1aaf-69c7-48fb-749f-1cf4286d8185">
+            <para id="UUID2abe34e8-2b4f-4ac2-52e4-1cb990f79cde">Podatek od czystego (zazwyczaj) powietrza, czyli tzw. opłata klimatyczna. Jej maksymalna stawka w 2023 r. to 5,40 zł za nocleg w mieście mającym status uzdrowiska oraz 2,80 zł w pozostałych. Większość gmin ustala zazwyczaj poziom maksymalny lub zbliżony do maksymalnego.</para>
+          </item>
+          <item id="UUIDfb858ae4-13f1-4269-4b4e-77788e82cca9">
+            <para id="UUIDdfe7664f-0826-4acd-57b2-74dc17dcfa28">Podatek od kart i zapalniczek. Od kart do gry w pokera czy układania pasjansa też trzeba było płacić podatek. W Polsce zniesiono go stosunkowo niedawno, bo w 2009 r., ale wcześniej funkcjonował przez kilkadziesiąt lat. Karty obciążone były akcyzą, a więc podatkiem nakładanym też na papierosy, alkohol czy paliwa. Przed wojną wynosiła ona od 1,30 zł do 10 zł, w zależności od liczby kart w talii i ich przeznaczenia. Na akcyzę od kart do gry zezwala cały czas Unia Europejska, choć nie są nią objęte karty do gry dla dzieci.</para>
+          </item>
+          <item id="UUIDc4de1d80-bfc1-4172-5aa7-8ab1c7bd97ad">
+            <para id="UUID2e25d0f3-2cea-495d-649b-c32ee325dabf">„Bykowe”, formalnie zwane podatkiem od bezdzietności i stanu kawalerskiego, obowiązywało na początku PRL-u. Zlikwidowano je pod koniec lat 60. Było płacone zarówno przez kobiety, jak i przez mężczyzn.</para>
+          </item>
+          <item id="UUID6727d613-61e5-4e18-56b6-915f8074ff93">
+            <para id="UUIDcf5dca3c-c89e-4c2c-7685-37c6fbf4687d">Podatek reprograficzny, czyli opłata, jaką wnoszą producenci i importerzy magnetofonów, magnetowidów, nagrywarek DVD i CD, kserokopiarek czy skanerów. Słowem, wszystkich urządzeń mogących posłużyć do kopiowania książek, filmów czy innych dzieł. Od niedawna taksą obłożone są nawet aparaty fotograficzne. Podatek wprowadzono w 1994 r. razem z ustawą o prawach autorskich. Ma być rekompensatą dla twórców za możliwość powielania ich prac. Jego wysokość waha się od 0,001% do 3% wartości sprzedanych urządzeń. Opłatę uiszczać muszą też producenci czystych nośników takich jak płyta CD czy DVD, a nawet papiernie sprzedające ryzy papieru do ksero.</para>
+          </item>
+          <item id="UUIDe7a08ab3-b9f2-4601-76c0-2b4aa31d9c2e">
+            <para id="UUID4f8198d8-6293-4544-7d74-2dc33ca6f019">Podatek od solariów w USA (dodatkowo 10% wartości usługi) czy podatek od basenów przydomowych w Grecji (800 euro rocznie).</para>
+          </item>
+        </list>
+        <para id="UUID51756ca6-c6f8-41c6-7824-0a100296f797">W Polsce, inaczej niż w Stanach Zjednoczonych, istnieją dwie główne kategorie podatków, które przynoszą budżetowi centralnemu największe dochody. Są to podatki nałożone na konsumpcję (podatek od towarów i usług – VAT i podatek akcyzowy) oraz podatki dochodowe (podatek dochodowy od osób fizycznych – PIT i podatek od dochodów osób prawnych – CIT). W Stanach Zjednoczonych nie istnieje podatek od towarów i usług, zaś podatki nałożone na konsumpcję nie odgrywają tak istotnej roli jak w Polsce i w całej UE.</para>
+        <para id="fs-idp131088">Kiedy większość ludzi myśli o podatkach, pierwszym, który przychodzi im na myśl, jest <term id="UUID492b76e5-86c2-4b07-59dd-00e930ebabcd">podatek dochodowy od osób fizycznych (PIT)</term> (<foreign xml:lang="en" id="UUIDb4474a04-9295-4280-6a7d-47e149781816"><term id="UUIDccc0f255-dbd2-4668-4bea-ab7cdc498b24">individual income tax, personal income tax</term></foreign>). Jednak wpływy z tego tytułu (68,1 mld zł) stanowiły w 2022 r. tylko niecałe 15% dochodów podatkowych budżetu państwa (465,5 mld zł) w Polsce. Najważniejszym źródłem dochodów państwa jest podatek od towarów i usług (234,3 mld zł), który odpowiadał za ponad 50% wpływów podatkowych do budżetu centralnego.</para>
+        <para id="fs-idm95791072">Sposób konstrukcji stawek dzieli podatki na progresywne, regresywne i proporcjonalne (zwane niekiedy liniowymi). Aby dobrze zrozumieć różnice między nimi, musimy wprowadzić pojęcia <term cmlnle:reference="krańcowa stopa podatkowa" id="UUID31b9ab5f-961a-4128-73d3-9159feed847e">krańcowej stopy podatkowej</term> (<emphasis effect="italics" /><foreign xml:lang="en" id="UUID49bf083d-d396-4f79-5944-9e241e917450"><emphasis effect="italics" /><term id="UUIDea122046-79f9-43a7-596b-6e6d52f2d8b1"><emphasis effect="italics">Marginal Tax Rate</emphasis></term><emphasis effect="italics" /></foreign> <emphasis effect="italics">– MTR)</emphasis> i średniej stopy podatkowej (<emphasis effect="italics">Average Tax Rate - ATR</emphasis>). Średnia stopa podatkowa to relacja kwoty odprowadzonego podatku i wysokości dochodu podlegającego opodatkowaniu, zaś krańcowa stopa podatkowa to stosunek kwoty podatku i będącej jego źródłem dodatkowej jednostki uzyskanego dochodu. W przypadku podatków proporcjonalnych krańcowa i średnia stopa podatkowa są sobie równe (jak to ma miejsce w podatku od dochodów kapitałowych – „podatku Belki”). Podatki progresywne (takie jak polski PIT) oznaczają, że krańcowa stopa podatkowa jest wyższa niż średnia stopa podatkowa, zaś podatki regresywne charakteryzują się relacją odwrotną: średnia stopa podatkowa jest niższa niż krańcowa. W klasycznej formule podatek regresywny funkcjonował w pierwszej połowie lat 90. na Łotwie. W 1995 r. został zastąpiony podatkiem liniowym. Ten rzadki rodzaj opodatkowania próbował również wprowadzić szwajcarski kanton Obelveden, czemu 1 czerwca 2007 r. sprzeciwił się Szwajcarski Sąd Federalny, uznając ten rodzaj opodatkowania za niezgodny z konstytucją.</para>
+        <para id="UUID9e9b8d93-0c62-4f0a-4db9-d7dd9981daae">Podatek PIT jest <term cmlnle:reference="podatek progresywny" id="UUID1ee33ade-556e-4412-74e3-827e2c1e6e0c">podatkiem progresywnym</term> (<foreign xml:lang="en" id="UUIDd8dede27-0160-4d33-67ee-ad18c2ad6c91"><term id="UUID5812e11c-2f48-4036-7b47-ad2df5229cfa">progressive tax</term></foreign>), co oznacza, że <term id="UUID1815012a-ff10-411f-6aad-6e40b67daf9a">krańcowe stawki podatkowe</term> (<foreign xml:lang="en" id="UUIDeeb4a383-1343-466c-741f-dc9f7e511d57"><term id="UUID73abdac4-ce48-4cfd-57d5-cfc55bac21ab">marginal tax rate</term></foreign>) rosną wraz ze wzrostem dochodów gospodarstwa domowego. Zgodnie ze stanem prawnym obowiązującym w Polsce w połowie roku 2023, jeśli twoje roczne dochody nie przekraczają 120 tys., zapłacisz podatek zgodnie ze stawką 12%, natomiast od dochodów przekraczających tę kwotę podatek wyniesie już 32%. Podatki dochodowe mogą mieć również charakter proporcjonalny lub regresywny.</para>
+        <note type="note" id="UUID8bfecd46-b813-49b5-5cb9-20dbe25a9dbd">
+          <para id="UUIDb973a972-ceba-4a13-5779-9d6e0abb0385">Jak działa krańcowa stawka podatkowa?</para>
+          <para id="fs-idm10421584">Załóżmy, że średni miesięczny dochód podatnika wynosi 11 000 zł. Przyjmijmy również, że roczny dochód od 0 do 120 tys. zł jest opodatkowany stawką 12%, zaś wielkość powyżej tego progu stawką 32%. Ponieważ osoba w rozważanym przypadku zarabia 132 tys. zł rocznie, jej krańcowa stawka podatkowa wynosi 32%.</para>
+        </note>
+        <para id="fs-idm55629520">Drugim najważniejszym źródłem dochodów do budżetu państwa w Polsce w 2022 r. był podatek akcyzowy (79,8 mld zł), czyli rodzaj selektywnego podatku pośredniego nakładanego na niektóre, ściśle określone ustawowo, produkty konsumpcyjne (są to m.in.: paliwa silnikowe, oleje opałowe i gaz, energia elektryczna, napoje alkoholowe oraz wyroby tytoniowe, jak również samochody osobowe, broń, kosmetyki, wyroby perfumeryjne, skóry futerkowe). Akcyza, jak każdy podatek pośredni, ma wpływ na cenę wyrobu, w związku z czym faktycznym podatnikiem jest tu ostateczny nabywca (konsument) danego dobra. Trzecim co do wielkości źródłem wpływów z podatków do budżetu państwa był w 2022 r. <term id="UUID282f4634-c5f5-44d3-4f21-0ae930dda9f2">podatek dochodowy od osób prawnych (CIT)</term> (<foreign xml:lang="en" id="UUID13b6ab4e-c9fd-4378-581d-c72b3b363f4c"><term id="UUID015c6ea0-9c92-4481-5c03-41e7c1689b00">corporate income tax</term></foreign>) - 70,1 mld zł..</para>
+        <para id="UUID64f09e7a-23ea-4d97-7188-9c83f2c48be8">W polskim systemie prawnym można dodatkowo wyróżnić podatek od czynności cywilnoprawnych, podatek od gier i do niedawna podatek od posiadania psa (zamieniony obecnie na opłatę lokalną).</para>
+      </section>
+    </section>
+    <section id="fs-idm8416880" class="summary">
+      <title id="UUIDc90e2785-137b-4f33-4da7-5e3c3ada012b">Podsumowanie</title>
+      <para id="fs-idm42473920">Polityka fiskalna obejmuje wydatki państwa oraz zbierane przez państwo podatki. W ostatnich dziesięcioleciach poziom wydatków i podatków rządu federalnego w USA wyrażony jako odsetek PKB niewiele się zmienił, oscylując pomiędzy 18% a 22% PKB. Pięć głównych obszarów – dopłaty do rent i emerytur (ubezpieczenia społeczne), ochrona zdrowia, pomoc społeczna, edukacja i infrastruktura – stanowiło blisko 67% wszystkich wydatków budżetu państwa w Polsce w 2020 r. Kiedy państwo wydaje więcej, niż gromadzi z podatków, notuje deficyt budżetowy. Kiedy państwo uzyskuje z podatków więcej, niż wydaje, osiąga nadwyżkę budżetową. Jeśli wydatki państwa i podatki są równe, budżet pozostaje zrównoważony. Suma wszystkich przeszłych deficytów budżetowych i nadwyżek budżetowych składa się na dług publiczny. W przypadku podatku progresywnego osoby o wyższych dochodach płacą większy odsetek dochodu w postaci podatków niż osoby o niższych dochodach. Przykładem jest polski podatek dochodowy od osób fizycznych. W podatku proporcjonalnym, jakim jest np. podatek od dochodów kapitałowych, wszyscy – niezależnie od poziomu dochodów – płacą taką samą część dochodu w postaci podatków. Podatek regresywny występuje wtedy, gdy osoby o wysokich dochodach płacą niższą część dochodu w postaci podatków niż osoby o niskich dochodach. Najważniejszym źródłem dochodów budżetu państwa w Polsce pozostają od wielu lat nałożone na konsumpcję podatki pośrednie, czyli podatek od towarów i usług (VAT) i podatek akcyzowy.</para>
+    </section>
+    <section id="fs-idp23894256" class="self-check-questions">
+      <title id="UUID468d8128-e129-4bf3-5c0d-bbd465f5f6d2">Pytania sprawdzające</title>
+      <exercise id="fs-idm43790816">
+        <problem id="fs-idp70171360">
+          <para id="fs-idp27155312">W jaki sposób można wyrównać różnice między dochodami podatkowymi a wydatkami w sytuacji, w której państwo notuje deficyt budżetowy?</para>
+        </problem>
+        <solution id="fs-idp141272480">
+          <para id="fs-idp113728448">Państwo może np. pożyczyć pieniądze od gospodarstw domowych lub przedsiębiorstw, sprzedając obligacje skarbowe.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp26882128">
+        <problem id="fs-idp113404624">
+          <para id="fs-idp66616832">Na co można przeznaczyć środki wygospodarowane w ramach nadwyżki budżetowej?</para>
+        </problem>
+        <solution id="fs-idm42215664">
+          <para id="fs-idm27048560">Środki te mogą zostać wykorzystane na spłatę długu publicznego lub zostać zwrócone podatnikom.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm6107792">
+        <problem id="fs-idp113504608">
+          <para id="fs-idp44613520">Czy jest możliwe, że państwo corocznie notuje deficyt budżetowy, a mimo to dług publiczny liczony jako procent PKB maleje? Odpowiedź uzasadnij.</para>
+        </problem>
+        <solution id="fs-idp71832496">
+          <para id="fs-idm8331984">Tak, państwo może wykazywać deficyt budżetowy i jednocześnie notować spadek stosunku długu publicznego do PKB. Nie jest to wcale sytuacja rzadka – występowała choćby w ostatnich latach w Polsce. Jeżeli deficyt budżetowy w danym roku jest względnie niski, a wzrost gospodarczy względnie szybki, to w ułamku przedstawiającym relację długu publicznego do PKB licznik rośnie wolniej niż mianownik, czyli cały ułamek maleje. Tak zachowywała się gospodarka amerykańska w okresie od zakończenia II wojny światowej mniej więcej do 1980 r.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp8721152">
+        <problem id="fs-idm69366176">
+          <para id="fs-idp1509616">Czy jest możliwe, że państwo osiąga corocznie nadwyżkę budżetową, a mimo to dług publiczny (jako procent PKB) rośnie? Odpowiedź uzasadnij.</para>
+        </problem>
+        <solution id="fs-idm87301904">
+          <para id="fs-idm84237248">Teoretycznie jest to możliwe, choć mało prawdopodobne. Wyobraźmy sobie przypadek państwa z niewielką nadwyżką budżetową osiągniętą w trakcie recesji, kiedy gospodarka się kurczy. Możliwa byłaby wówczas sytuacja, że w ułamku mierzącym relację długu do PKB spadek licznika byłby proporcjonalnie mniejszy niż spadek mianownika, więc stosunek długu publicznego do PKB wzrósłby.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp27558128">
+        <problem id="fs-idp27560192">
+          <para id="fs-idm107288496">Załóżmy, że prezenty zostały opodatkowane według stawki 10% dla kwot do 100 tys. zł i 20% dla wszystkich kwot powyżej 100 tys. zł. Czy ten podatek będzie regresywny, czy progresywny?</para>
+        </problem>
+        <solution id="UUIDe4e06bbc-9ece-4cc8-4281-d4a2186ebd3d">
+          <para id="fs-idp4427104">Progresywny. Osoby, które wręczają droższe prezenty, podlegające wyższej stawce podatkowej, zazwyczaj mają też większe dochody.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp27558867">
+        <problem id="fs-idp27560944">
+          <para id="fs-idm107288852">Stawka podatku na ubezpieczenia społeczne w USA wynosi 6,2% od dochodów pracowników poniżej 113 tys. dol. i 0% powyżej tej kwoty. Czy podatek ten ma charakter progresywny, regresywny czy proporcjonalny?</para>
+        </problem>
+        <solution id="UUIDe4e06bbc-43ee-jh76-4281-d4a2186ebd3d">
+          <para id="fs-idp4427223">Podatek ma charakter regresywny, ponieważ osoby zamożne w ogóle nie płacą podatków od dochodu powyżej 113 000 dol. Gdy porównujemy odsetek całkowitego dochodu przeznaczony na podatki, okazuje się, że podatek na ubezpieczenia społeczne w USA uderza bardziej w osoby o niższych dochodach niż w osoby zamożniejsze.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp20524112" class="review-questions">
+      <title id="UUID48f381a6-58a9-4159-5351-44427d60f4ab">Sprawdź wiedzę</title>
+      <exercise id="fs-idp101967200">
+        <problem id="fs-idp43765232">
+          <para id="fs-idm67650320">Podaj kilka przykładów zmian w wydatkach państwa i podatkach, które stanowiłyby politykę fiskalną, i kilka przykładów takich zmian, których nie można byłoby zakwalifikować do tej kategorii.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp19347712">
+        <problem id="fs-idp142714256">
+          <para id="fs-idm61941952">Czy wydatki i podatki rządu federalnego USA w ciągu ostatnich kilku dekad wykazywały tendencję wzrostową, czy spadkową?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm6177888">
+        <problem id="fs-idm11819376">
+          <para id="fs-idp667232">Jakie są główne kategorie wydatków budżetu państwa w Polsce?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm67584800">
+        <problem id="fs-idp113732592">
+          <para id="fs-idp115937056">Jaka jest różnica między deficytem budżetowym, zrównoważonym budżetem i nadwyżką budżetową?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm8669152">
+        <problem id="fs-idp71305008">
+          <para id="fs-idp108305168">Jaka jest różnica między podatkiem progresywnym, proporcjonalnym i regresywnym?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm103696480" class="critical-thinking">
+      <title id="UUID04d2a352-4f47-4638-49b2-58fde45e1e70">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idp65969712">
+        <problem id="fs-idp20106048">
+          <para id="fs-idm33188832">Dlaczego do analizy ekonomicznej lepiej jest wykorzystywać wydatki państwa mierzone jako odsetek PKB, a nie w walucie krajowej w cenach bieżących?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm95850928">
+        <problem id="fs-idp24490592">
+          <para id="fs-idm84948032">Akcyza na papierosy i alkohol oraz w szerszym kontekście wszystkie podatki nakładane na konsumpcję są często krytykowane za swój regresywny charakter. Niemniej jednak wszyscy konsumenci płacą tę samą stawkę podatku na konkretne dobro niezależnie od swojego dochodu. Czy uważasz, że krytyka ta jest słuszna?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm42645104" class="problems">
+      <title id="UUIDf7bc9054-7947-4ed4-507c-482a576163f6">Problemy</title>
+      <exercise id="fs-idm3994416">
+        <problem id="fs-idm5332496">
+          <para id="fs-idm473968">W pewnym państwie w roku początkowym całkowity dług publiczny wynosi 3,5 mld dol. W pierwszym roku państwo notuje deficyt budżetowy w wysokości 400 mln dol. W drugim roku deficyt budżetu państwa jest równy 1 mld dol. W trzecim roku państwo osiąga nadwyżkę budżetową w wysokości 200 mln dol. Ile wynosi całkowity dług publiczny na koniec trzeciego roku?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp14496208" class="references">
+      <title id="UUIDd16fb6da-ff37-499a-6753-09cc4ba44d33">Bibliografia</title>
+      <para id="fs-idp37139968">Kramer, Mattea, et. al. <emphasis effect="italics">A People's Guide to the Federal Budget.</emphasis> National Priorities Project. Northampton: Interlink Books, 2012.</para>
+      <para id="fs-idp27902016">Kurtzleben, Danielle. “10 States With The Largest Budget Shortfalls.” <emphasis effect="italics">U.S. News &amp; World Report</emphasis>. January 14, 2011. http://www.usnews.com/news/articles/2011/01/14/10-states-with-the-largest-budget-shortfalls.</para>
+      <para id="fs-idm12914528">Miller, Rich, and William Selway. “U.S. Cities and States Start Spending Again.” <emphasis effect="italics">BloombergBusinessweek</emphasis>, January 10, 2013. http://www.businessweek.com/articles/2013-01-10/u-dot-s-dot-cities-and-states-start-spending-again.</para>
+      <para id="fs-idp81779984">Weisman, Jonathan. “After Year of Working Around Federal Cuts, Agencies Face Fewer Options.” <emphasis effect="italics">The New York Times</emphasis>, October 26, 2013. http://www.nytimes.com/2013/10/27/us/politics/after-year-of-working-around-federal-cuts-agencies-face-fewer-options.html?_r=0.</para>
+      <para id="fs-idm65365600">Chantrill, Christopher. USGovernmentSpending.com. “Government Spending Details: United States Federal State and Local Government Spending, Fiscal Year 2013.” http://www.usgovernmentspending.com/year_spending_2013USbn_15bs2n_20.</para>
+    </section>
+  </content>
+  <glossary id="UUIDa6208bde-a1ae-48ba-7667-ae8e91e54629">
+    <definition id="fs-idm17894208">
+      <term id="UUID61525075-0501-47dc-7afd-9f762a0c7339">budżet zrównoważony (ang. balanced budget)</term>
+      <meaning id="fs-idp113101008">
+        <para id="UUID34d053e5-f509-4d15-7ffa-9cebb2eef19d">sytuacja, gdy wydatki państwa są równe dochodom budżetowym</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp7219344">
+      <term id="UUID0b00bf0e-9317-464c-7754-6bd3571acdbe">deficyt budżetowy (ang. budget deficit)</term>
+      <meaning id="fs-idp27008016">
+        <para id="UUIDa3da2fd0-e5d4-424e-7436-9416559a7591">sytuacja, gdy wydatki państwa są większe niż dochody budżetowe</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm5068432">
+      <term id="UUID392f2b31-0f63-450b-4341-a316f62fe581">nadwyżka budżetowa (ang. budget surplus)</term>
+      <meaning id="fs-idp111193312">
+        <para id="UUIDe7760281-efa6-45ec-505b-8cb26ba8e41a">sytuacja, gdy wydatki państwa są mniejsze niż dochody budżetowe</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp99464688">
+      <term id="UUID272ae158-5b92-4865-586e-9b801d8d54e1">podatek dochodowy od osób prawnych (CIT) (ang. corporate income tax)</term>
+      <meaning id="fs-idp80193888">
+        <para id="UUIDa9081321-da33-4b07-690d-ba8b1f0b24fc">podatek nakładany na zyski przedsiębiorstw</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp44235712">
+      <term id="UUIDfa0c0227-3ba2-4733-4d3f-ed3f61593ffd">podatek od spadków i darowizn (ang. estate and gift tax)</term>
+      <meaning id="fs-idp184851712">
+        <para id="UUID6a9de47c-415b-4a64-51b4-6f96b472cf76">podatek nakładany na kwoty dziedziczone w spadku lub przekazywane w postaci darowizn przez osoby fizyczne lub prawne innym podmiotom</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp143389568">
+      <term id="UUID5b1c1401-04e9-44f1-7f8b-938ecc23fe4c">podatek akcyzowy (ang. excise tax)</term>
+      <meaning id="fs-idp184526432">
+        <para id="UUID75580b7b-7d0b-4d6e-599b-f9b2c979013e">rodzaj selektywnego podatku pośredniego nakładanego na niektóre, ściśle określone ustawowo produkty konsumpcyjne, np. paliwa silnikowe, papierosy lub alkohol</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp97973072">
+      <term id="UUIDf3d7bd65-22af-4a38-6f46-d0ff86517259">podatek dochodowy od osób fizycznych (PIT) (ang. individual income tax, personal income tax)</term>
+      <meaning id="fs-idp185376432">
+        <para id="UUID839573a7-44e9-41b9-64d5-e79e6315a877">podatek od dochodu (we wszystkich formach) uzyskiwanego przez osoby fizyczne</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp9111344">
+      <term id="UUID922961f3-301f-4907-5d19-bd8a19c2c469">krańcowa stawka podatkowa (ang. marginal tax rate)</term>
+      <meaning id="fs-idp193541264">
+        <para id="UUIDfba82a3b-1333-44f1-4445-2fb817729b64">stopa podatkowa, która odnosi się do kolejnej uzyskanej jednostki dochodu</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp186702880">
+      <term id="UUIDe5f666f0-2f2c-401f-412f-cb49915be98c">podatek progresywny (ang. progressive tax)</term>
+      <meaning id="fs-idp196447888">
+        <para id="UUID2fb9ad84-bd67-4cff-70b8-56b5f19ea923">podatek, w którym osoby o wyższych dochodach płacą w postaci podatków większą ich część niż osoby o niskich dochodach</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp121593152">
+      <term id="UUIDb7276b33-7033-414e-4a10-dfcc528dc97c">podatek proporcjonalny (ang. proportional tax)</term>
+      <meaning id="fs-idp153089760">
+        <para id="UUIDe85b8f9c-c12f-454b-65df-75e396123341">podatek, w którym każda osoba, niezależnie od poziomu zarobków, przeznacza na podatki taki sam odsetek uzyskiwanego dochodu</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp99047056">
+      <term id="UUIDa9107330-0925-4407-690d-b71d1655f83c">podatek regresywny (ang. regressive tax)</term>
+      <meaning id="fs-idp33928560">
+        <para id="UUIDc64e24b0-324b-4514-5c00-989e56879fd6">podatek, w którym osoby o wyższych dochodach płacą w postaci podatków mniejszą ich część niż osoby o niskich dochodach</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub1dfa8aa-57e1-405d-ad65-f4968eb34622" id="Ub1dfa8aa-57e1-405d-ad65-f4968eb34622" xml:lang="en" cnxml-version="0.7">
+  <title>7.2 The Building Blocks of Keynesian Analysis</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00039</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/b1dfa8aa-57e1-405d-ad65-f4968eb34622</md:content-url>
+    <md:title>7.2 The Building Blocks of Keynesian Analysis</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:04.183339271+00:00</md:version>
+    <md:created>2023-08-30T08:02:04.183339271+00:00</md:created>
+    <md:revised>2023-08-30T08:02:04.183339271+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>b1dfa8aa-57e1-405d-ad65-f4968eb34622</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID7a9d77c9-hy56-4689-7033-08cffc2c4979" class="learning-objectives">
+      <para id="ch27mod93_p01">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID5af2fc6e-925e-4fb8-4eb3-d263f0a6cc2a">
+          <para id="UUID320fd5bc-e0c8-4bd3-4cd7-4dd46ee9e34c">Wytłumaczyć, jak keynesiści postrzegają zjawisko recesji, zakładając sztywność (lepkość) cen i płac oraz kluczową rolę popytu globalnego</para>
+        </item>
+        <item id="UUIDbbe7e2d5-5b50-4002-7a70-e07fc02fd0e7">
+          <para id="UUID7772549f-84c2-4e60-4c56-9c762ff47af4">Wyjaśnić znaczenie trzech zjawisk: problemu koordynacji związanej z obniżaniem płac, kosztów zmienianych jadłospisów oraz makroekonomicznych efektów zewnętrznych</para>
+        </item>
+        <item id="UUIDc865624b-e389-4666-47f2-d3e5fac5c992">
+          <para id="UUIDeec95ea1-eb07-40e4-608d-173c6f1174cd">Zrozumieć działanie mnożnika wydatków autonomicznych</para>
+        </item>
+      </list>
+    </note>
+    <para id="ch25mod03_p01">Wiedząc, jakie są składniki popytu globalnego, wracamy do keynesowskiej analizy gospodarki z wykorzystaniem modelu popytu globalnego i podaży globalnej (AD-AS). Gospodarkę w ujęciu keynesowskim można także analizować za pomocą modelu wydatki-produkcja (ang. the expenditure-output model), czyli tzw. krzyża keynesowskiego (ang. <foreign xml:lang="en" id="UUIDdd6437be-7d4c-4755-4b56-5eaec5d74c2e">Keynesian cross</foreign>). W tym celu zobacz <link document="m00091" id="UUIDd7dbec69-735f-4f6b-49e5-111ea89cbbcf" />).</para>
+    <para id="UUID8b40da4c-fac6-423e-401d-1b1b09bc9d72">Keynesowska interpretacja modelu AD-AS identyfikuje czynniki, z powodu których w gospodarce pojawiają się kryzysy i recesje, a także wskazuje narzędzia z zakresu polityki gospodarczej pozwalające na minimalizację niekorzystnych następstw tych zjawisk. Keynesowskie spojrzenie na <term cmlnle:reference="recesja" id="UUID2dcc057e-0772-46d5-4256-fa58d1173b3f">recesję</term> (ang. <foreign xml:lang="en" id="UUID89a1ba9d-6a5d-49f2-45f2-8f0bbed8ad28"><term id="UUID3ce29a93-c92b-42b9-4a0b-d774a3aa980f">recession</term></foreign>) opiera się na dwóch kluczowych założeniach. Po pierwsze, popyt globalny nie zawsze w automatyczny sposób dostosowuje swoją wysokość w taki sposób, aby zachęcić przedsiębiorstwa do zwiększania zatrudniania aż do momentu, w którym bezrobocie przymusowe spadnie do zera. Po drugie, w konsekwencji wahań popytu globalnego gospodarka wraca do stanu równowagi długookresowej (tj. do stanu pełnego zatrudnienia osiąganego przy potencjalnym poziomie PKB) w relatywnie wolnym tempie, z uwagi na <term id="UUID4578100c-6db1-49f6-72fe-29ee94f22f14">sztywne (lepkie) płace i ceny</term> (ang. <foreign xml:lang="en" id="UUIDf40a5639-674f-4300-7625-aa6210617c64"><term id="UUIDab1f5a82-6be5-4792-428d-f8b0098b43f1">sticky wages and prices</term></foreign>). Sztywność (lepkość) płac i cen oznacza, że nie zmieniają się one pod wpływem zmian popytu globalnego. Przeanalizujemy po kolei te dwa założenia, a następnie zobaczymy, w jaki sposób są one uwzględnione w modelu AD-AS.</para>
+    <para id="ch25mod03_p04">Zgodnie z pierwszym założeniem szkoły keynesowskiej recesje występują wtedy, gdy popyt na dobra i usługi znajduje się poniżej poziomu odpowiadającemu pełnemu wykorzystaniu czynników wytwórczych. Innymi słowy, przecięcie krzywych popytu globalnego i podaży globalnej następuje przy poziomie PKB niższym niż w stanie pełnego zatrudnienia. Załóżmy, że mamy do czynienia z załamaniem się giełdy (jak w 1929 r.) lub rynku mieszkaniowego (jak w roku 2008). W obu przypadkach wartość majątku gospodarstw domowych zmniejsza się, a w ślad za tym maleją wydatki konsumpcyjne. Gdy przedsiębiorstwa dostrzegają spadek konsumpcji lub napotykają ograniczenia wynikające np. z pandemii, które redukują skalę działalności gospodarczej, pogarszają się ich oceny opłacalności inwestycji, co skutkuje spadkiem wydatków inwestycyjnych.</para>
+    <para id="UUIDd4efd9ca-7969-4f18-781a-fef40d339c87">Powyższa sytuacja wystąpiła podczas Wielkiego Kryzysu, gdy zdolności wytwórcze dotkniętych tym zjawiskiem gospodarek właściwie się nie zmieniły. W latach 1929–1930 nie było powodzi, trzęsienia ziemi czy innych klęsk żywiołowych rujnujących fabryki. Nie wybuchła epidemia, która zdziesiątkowałaby szeregi pracowników. Ceny kluczowych nakładów, np. ropy naftowej, nie wzrosły gwałtownie na rynkach światowych. Gospodarka Stanów Zjednoczonych w 1933 r. miała prawie taki sam stan fabryk, zasób pracowników i poziom technologii jak cztery lata wcześniej, w 1929 r. – a mimo to, biorąc pod uwagę wolumen produkcji, dramatycznie się skurczyła. Tak samo było w roku 2008.</para>
+    <para id="UUIDe15dbef8-923a-4433-7314-b340e3df6f84">Jak zauważył Keynes, scenariusz zdarzeń obserwowanych podczas Wielkiego Kryzysu był sprzeczny z prawem Saya, zgodnie z którym „podaż kreuje popyt na samą siebie”. Chociaż gospodarka posiadała odpowiedni zasób czynników produkcji, ta – ze względu na niedobór popytu – była dużo niższa od poziomu potencjalnego.</para>
+    <note type="note" id="ch25mod03_link01" class="economics linkup">
+      <para id="ch25mod03_p06">Odwiedź poniższą <link url="http://openstax.org/l/expenditures" id="UUID415ab2ed-c843-4e53-6a71-60998cf5bf65">stronę internetową</link>, aby zapoznać się z danymi umożliwiającymi samodzielne obliczenie wartości PKB.</para>
+    </note>
+    <section id="ch25mod03_01">
+      <title id="UUIDbdbc8894-5578-44a3-5de8-090a4caddc05">Sztywność (lepkość) cen i płac</title>
+      <para id="ch25mod03_p07">Zdaniem Keynesa ceny i płace nie reagują na wahania popytu globalnego natychmiast. Uważał on, że ceny i płace są „lepkie” (ang. sticky), co utrudnia powrót gospodarki do stanu pełnego zatrudnienia i potencjalnego PKB. Keynes podkreślał jeden szczególny powód, dla którego płace są lepkie: <term id="UUIDffa82dcb-84d2-4be5-4b88-f75c75d17fc6">problem koordynacji</term> (ang. <foreign xml:lang="en" id="UUID490426b3-2498-4db8-69a9-2accca412021"><term id="UUID1b7b1f3b-5eb3-4a4d-78b0-c4d480fcd4e4">coordination argument</term></foreign>). Problem koordynacji oznacza, że nawet jeśli większość ludzi byłaby skłonna – przynajmniej hipotetycznie – obniżyć swoje wynagrodzenia w czasach gorszej koniunktury, szczególnie gdyby wszyscy inni zatrudnieni również doświadczyli spadku wynagrodzeń, to jednak gospodarka rynkowa nie dysponuje metodą na wdrożenie planu skoordynowanych obniżek płac. W <link document="m00012" cmlnle:case="locative" id="UUID4fc4b93d-e08c-4b6d-7baa-7e8431147ff6" /> wskazany został szereg czynników ograniczających elastyczność płac przy próbie ich obniżenia. Większość z nich odnosi się do potencjalnego spadku zaangażowania pracowników i w konsekwencji ich produktywności, które miałyby być następstwem spadku wynagrodzeń.</para>
+      <para id="UUID810d8019-e76a-42cc-543f-aa20cd6ce8da">Niektórzy współcześni ekonomiści argumentują w duchu keynesowskim, że ceny produktów – podobnie jak płace – także mogą być lepkie. Wiele przedsiębiorstw, o ile nie wszystkie, nie zmienia cen codziennie ani nawet co miesiąc. Kiedy przedsiębiorstwo rozważa zmianę cen, musi wziąć pod uwagę dwa rodzaje kosztów. Po pierwsze, zmiana cen wymaga pewnych nakładów: menedżerowie muszą przeanalizować popyt rynkowy i zachowania konkurentów oraz odpowiednio ustalić nowe ceny, muszą zaktualizować broszury i ulotki reklamowe, zmienić zapisy w księgach rachunkowych oraz wymienić etykiety z cenami na półkach sklepowych i/lub produktach. Po drugie, częste zmiany cen mogą dezorientować i denerwować klientów, zwłaszcza jeśli odkryją oni, że produkt kosztuje teraz więcej, niż się spodziewali. Takie koszty zmiany cen nazywane są <term cmlnle:reference="koszty zmienianych jadłospisów" id="UUIDfe9976a9-c22c-49de-632c-58abf407a9aa">kosztami zmienianych jadłospisów</term> (ang. <foreign xml:lang="en" id="UUIDe95f561f-cec1-4952-70c7-97910fe21680"><term id="UUIDce4bab18-ea37-441a-60ed-79664205809d">menu costs</term></foreign>) (nazwa pochodzi od drukowania nowych kart dań z nowymi cenami w restauracjach). Ceny oczywiście reagują na wahania popytu i podaży, ale z perspektywy makroekonomicznej proces ich zmiany w całej gospodarce jest rozciągnięty w czasie.</para>
+      <para id="ch25mod02_p08">Aby zrozumieć wpływ sztywnych cen i płac na gospodarkę, przeanalizujmy <link target-id="CNX_Econ_C25_024" cmlnle:case="accusative" id="UUIDdd17c2e6-8fbb-4b96-4622-9c05f6a8aa06" />. Panel (a) wykresu przedstawia rynek pracy, zaś panel (b) – rynek produktów. Początkowa równowaga (E<sub>0</sub>) na każdym rynku występuje w punkcie przecięcia krzywej popytu (D<sub>0</sub>) i krzywej podaży (S<sub>0</sub>). Kiedy popyt globalny spada, krzywa popytu na pracę przesuwa się w lewo, do położenia D<sub>1</sub> na panelu (a), a krzywa popytu na produkt przesuwa się w lewo, do położenia D<sub>1</sub> na panelu (b). Jednak ze względu na lepkość płac i cen wynagrodzenia pozostają przez jakiś czas na swoim pierwotnym poziomie W<sub>0</sub>, a ceny – na poziomie P<sub>0</sub>.</para>
+      <para id="ch25mod02_p09">W rezultacie na rynku pracy oraz na rynku produktów pojawia się nadwyżka podaży, która oznacza, że oferowana ilość pracy lub produktów jest większa od zapotrzebowania przy danej płacy lub cenie. Ilość Q<sub>1</sub> jest mniejsza od Q<sub>0</sub> na panelach (a) i (b) <link target-id="CNX_Econ_C25_024" cmlnle:case="genitive" id="UUIDaa4ee722-770f-49b8-4cd9-f72daaaba57f" />. Jeśli sytuacja taka występuje na wielu rynkach, gospodarka znajduje się w recesji. Oznacza to, że przedsiębiorstwa nie mogą sprzedać takiej ilości, jaką chciałyby wyprodukować przy istniejącej cenie rynkowej, i nie chcą zatrudnić wszystkich pracowników, którzy chcieliby pracować przy istniejącej płacy. Ramka „Poznaj szczegóły” dokładniej omawia ten problem.</para>
+      <figure id="CNX_Econ_C25_024">
+        <title id="UUID015a8523-e26a-4d2a-4333-16d3eafff4f8">Spadek popytu na rynku pracy i rynku produktów przy lepkich płacach i cenach</title>
+        <media alt="Dwa wykresy pokazują skutki lepkości cen i płac (czyli nadwyżkę podaży) na rynku pracy i rynku produktów." id="CNX_Econ_C25_024m">
+          <image src="../../media//CNX_Econ_C25_024.svg" mime-type="image/svg+xml" id="UUIDb222b81e-1911-44ad-4aae-bfd9b12d8e0f" />
+        </media>
+        <caption id="UUIDda6951c3-1f7a-49d1-446b-d80856825782">Na panelach (a) i (b) wykresu krzywa popytu przesuwa się w lewo, z położenia D<sub>0</sub> do D<sub>1</sub>. Jednak płace na panelu (a) i ceny na panelu (b) nie spadają natychmiast. Na rynku pracy wielkość popytu na pracę przy początkowym poziomie wynagrodzenia (W<sub>0</sub>) wynosi Q<sub>0</sub>, ale dla nowej krzywej popytu na pracę (D<sub>1</sub>) jest to już tylko Q<sub>1</sub>. Na rynku produktów wielkość popytu przy początkowej cenie (P<sub>0</sub>) wynosi Q<sub>0</sub>, ale dla nowej krzywej popytu (D<sub>1</sub>) już tylko Q<sub>1</sub>. Na rynku pracy wystąpi nadwyżka podaży pracy, czyli bezrobocie. Na rynku produktów również pojawi się nadwyżka podaży, ponieważ wielkość zapotrzebowania jest znacznie mniejsza niż ilość oferowana. A zatem lepkie ceny i płace w połączeniu ze spadkiem popytu globalnego powodują bezrobocie i recesję.</caption>
+      </figure>
+      <note type="note" id="ch25mod02_clear01" class="clearup economics">
+        <title id="UUIDa806c06b-a5c1-4c67-4c1c-5051c4817d5e">Dlaczego dostosowanie płac następowało w USA tak powoli?</title>
+        <para id="ch25mod02_p11">W Stanach Zjednoczonych ożywienie po globalnym kryzysie finansowym było stosunkowo powolne. Wielu relatywnie nisko opłacanych pracowników sektora usług, w przedsiębiorstwach takich jak McDonalds, Dominos i Walmart, zagroziło strajkiem w celu uzyskania wyższych wynagrodzeń. Ich trudna sytuacja była częścią szerszego trendu charakteryzującego wzrost zatrudnienia i płac w okresie ożywienia gospodarczego po głębokiej recesji.</para>
+        <figure id="CNX_Econ_C25_028">
+          <title id="UUIDa6e27358-6bf7-4a53-7c56-7a758dd28576">Miejsca pracy utracone i utworzone w okresie recesji lub ożywienia</title>
+          <media alt="Wykres po lewej stronie wskazuje, że większość miejsc pracy utraconych podczas recesji dotyczyła pracowników o średnim poziomie wynagrodzeń (60%). Wykres po prawej stronie pokazuje z kolei, że większość miejsc pracy utworzonych podczas ożywienia dotyczyła nisko opłacanych stanowisk (58%)." id="CNX_Econ_C25_028m">
+            <image src="../../media//CNX_Econ_C25_028.svg" mime-type="image/svg+xml" id="UUID7dd6aabb-5916-43d3-7964-04bac9f0021c" />
+          </media>
+          <caption id="UUID1ff5c316-2c81-4e7d-742c-bc33ef2678d6">W wyniku globalnego kryzysu finansowego zlikwidowano przede wszystkim miejsca pracy osób o średnim poziomie wynagrodzeń, zaś w okresie następującym bezpośrednio po tej recesji utworzono głównie stanowiska niskopłatne.</caption>
+        </figure>
+        <para id="UUIDa59f4da1-e8f9-4aaf-6a13-4a5e6df42389">Dane dla Stanów Zjednoczonych wskazują, że podczas globalnego kryzysu finansowego 60% utraconych miejsc pracy dotyczyło stanowisk o średnim poziomie wynagrodzeń. Większość z nich została zastąpiona w okresie ożywienia gospodarczego niskopłatnymi miejscami pracy w usługach, handlu detalicznym oraz branży spożywczej.</para>
+        <para id="UUIDbafb6fd3-9aac-44af-4f00-4c8abc142861">Wynagrodzenia w tych sektorach są równe lub zbliżone do płacy minimalnej i „lepkie” zarówno przy próbach ich obniżki, jak i podwyżki. Płace są lepkie przy próbach obniżki ze względu na przepisy dotyczące płacy minimalnej (nie można ich już zgodnie z prawem zmniejszyć). Są także lepkie przy próbach podwyżki, ponieważ niewielka konkurencja na rynku pracy dla osób o niskich kwalifikacjach pozwala pracodawcom unikać podnoszenia wynagrodzeń, co czynią chętnie, maksymalizując swoje zyski. Jednocześnie wskaźnik cen towarów i usług konsumpcyjnych w latach 2007–2012 wzrósł o 11%, obniżając płace realne tych pracowników.</para>
+      </note>
+    </section>
+    <section id="ch25mod02_02">
+      <title id="UUID357222ab-24c2-44b0-666c-528dcb44e9df">Dwa keynesowskie założenia w modelu AD-AS</title>
+      <para id="ch25mod02_p14"><link target-id="CNX_Econ_C25_035" id="UUIDec1ea568-390c-44a5-7206-95feb7b9ebd8" /> przedstawia sposób funkcjonowania modelu AD-AS, w który wbudowane zostały dwa fundamentalne keynesowskie założenia. Pierwszym z nich jest kluczowa rola popytu globalnego jako czynnika wywołującego recesję, drugim – sztywność cen i płac. Ze względu na lepkość cen i płac makroekonomiczna krzywa podaży globalnej jest bardziej płaska niż mikroekonomiczne krzywe podaży pracy lub konkretnego dobra. Gdy ceny i płace są na tyle lepkie, że w ogóle się nie zmieniają w odpowiedzi na przesunięcia krzywej popytu, krzywa podaży globalnej jest całkowicie płaska (pozioma) dla wszystkich rozmiarów produkcji niższych od potencjalnego poziomu PKB, jak pokazano to na <link target-id="CNX_Econ_C25_035" cmlnle:case="locative" id="UUID5158d553-1b29-4b39-6f17-60d725a4eba2" />. Konkluzja ta jest jednym z najważniejszych przykładów tzw. <term cmlnle:reference="makroekonomiczny efekt zewnętrzny" id="UUID7ec96e2a-9cd1-4977-5e32-267c7bcf16a1">makroekonomicznego efektu zewnętrznego</term> (ang. <foreign xml:lang="en" id="UUIDd4b0d8e4-abce-4eef-5674-a4681b0443fd"><term id="UUID1628bd84-d7b4-4c15-4404-17d915ddf4ad">macroeconomic externality</term></foreign>), Polega on na tym, że ścieżka dostosowań parametrów makroekonomicznych do różnego rodzaju szoków (zmian) jest nie tylko odmienna, ale z punktu widzenia gospodarki również mniej korzystna od dostosowań na poziomie mikroekonomicznym. Jeśli popyt na dobra lub usługi produkowane przez konkretne przedsiębiorstwo spada, zazwyczaj nie ma ono żadnych problemów, aby obniżyć ceny i tym samym zwiększyć sprzedaż. Jednak jeśli wszystkie przedsiębiorstwa doświadczają spadku popytu na swoje produkty (popyt globalny się zmniejsza), lepkie ceny w całej gospodarce uniemożliwiają dostosowanie się popytu globalnego (co pokazalibyśmy jako ruch wzdłuż krzywej AD w kierunku niższych cen).</para>
+      <para id="UUID189a4980-3144-40b1-6053-cda8b05d084a">Początkowa równowaga w gospodarce znajduje się w punkcie przecięcia krzywej popytu globalnego (AD<sub>0</sub>) i krzywej podaży globalnej (AS). Ponieważ punkt przecięcia znajduje się na poziomie potencjalnego PKB (Y<sub>p</sub>), w gospodarce występuje pełne zatrudnienie. Jednak kiedy popyt globalny przesuwa się w lewo, sztywne ceny i płace sprawiają, że realny PKB spada, zaś ceny w ogóle się nie zmieniają. Ponieważ nowa równowaga występuje przy produkcji równej Y<sub>1</sub>, pojawia się wysokie bezrobocie przymusowe.</para>
+      <figure id="CNX_Econ_C25_035">
+        <title id="UUID50b133fa-2c8e-41d9-7602-bcea4c3c3836">Keynesowski sposób postrzegania recesji</title>
+        <media alt="Wykres przedstawia krzywą popytu globalnego, która przesuwa się w lewo, co w konsekwencji prowadzi do głębokiego spadku poziomu produkcji i utrzymania niezmiennego poziomu cen." id="mCNX_Econ_C25_035">
+          <image src="../../media//CNX_Econ_C25_035.svg" mime-type="image/svg+xml" id="UUID58506f71-226b-414b-4c25-b4e39d24d955" />
+        </media>
+        <caption id="UUID1a36cd0b-f791-421f-4a70-517eebec34cc">Rysunek przedstawia sposób funkcjonowania modelu AD-AS, w który wbudowane zostały dwa kluczowe założenia ekonomii keynesowskiej. Recesja w gospodarce pojawia się, gdy popyt globalny spada z AD<sub>0</sub> do AD<sub>1</sub>. Spadek poziomu realnego PKB jest trwały, ze względu na założenie stałości cen i płac, co przekłada się na płaską krzywą SAS dla wszystkich rozmiarów produkcji poniżej poziomu potencjalnego. Uchylenie tego założenia umożliwiłoby obniżenie cen (i płac), czego skutkiem byłoby ograniczenie skali spadku PKB (recesji). Jeśli krzywa podaży globalnej jest pozioma, nowym punktem równowagi staje się E<sub>1</sub>, przy znacznie niższej od poziomu potencjalnego wartości PKB.</caption>
+      </figure>
+    </section>
+    <section id="ch25mod02_03">
+      <title id="UUIDffe092b2-7251-4f13-4f9e-c8ef467a6e75">Mnożnik wydatków autonomicznych</title>
+      <para id="ch25mod02_p016">Kluczową koncepcją w ekonomii keynesowskiej jest <term id="UUID232f2887-4590-48e1-4897-041d7322af48">mnożnik wydatków autonomicznych (mnożnik wydatków)</term> (ang. <foreign xml:lang="en" id="UUID6a056e1c-dfcd-431a-79eb-0730ddcdc721"><term id="UUIDf7e371dd-806e-45b5-7cbe-dae96ea7ed79">expenditure multiplier</term></foreign>). Nie chodzi tu jednak o proste stwierdzenie, że poziom wydatków wpływa na wartość PKB. Mnożnik pokazuje, że zmiana wydatków powoduje większą niż proporcjonalna zmianę PKB (wzrost wydatków o jednostkę pieniężną – dolara lub złotego – zwiększa wartość PKB o więcej niż jednego dolara lub złotego). A zatem:</para>
+      <equation id="ch25mod02_eq1" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML">
+ <mrow>
+  <mfrac>
+   <mrow>
+    <mtext>ΔY</mtext>
+   </mrow>
+   <mrow>
+    <mtext>ΔWydatki</mtext>
+   </mrow>
+  </mfrac>
+  <mo>></mo><mn>1</mn>
+ </mrow>
+</math></equation>
+      <para id="UUID31c1e392-d7ac-410f-46a0-cf968f773b4a">Zgodnie z mechanizmem mnożnikowym wydatki jednej osoby stają się dochodem innych osób, co prowadzi do wzrostu wydatków tych osób, które przekładają się na kolejny wzrost dochodów, co przekłada się na kolejny wzrost wydatków itd. W konsekwencji skumulowany wpływ pierwotnego impulsu na PKB jest większy niż wartość tego impulsu. Dodatek dotyczący <term id="UUIDb79f3bac-25f9-49fb-4636-9210953aea81">modelu wydatki-produkcja</term> (<link document="m00091" id="UUIDdb76f92f-3aae-4909-5f59-681a3da29296" />) zawiera szczegółowe informacje na temat mechanizmu mnożnikowego, ale koncepcja ta jest na tyle ważna, że wspominamy o niej już teraz. Z mechanizmem mnożnikowym mamy do czynienia zawsze wtedy, gdy następuje zmiana wydatków autonomicznych, czyli takich, które są niezależne od bieżącego dochodu (przede wszystkich inwestycji i wydatków państwa). Dlatego też znajomość koncepcji mnożnika jest kluczowa dla zrozumienia skuteczności polityki fiskalnej. Mechanizm mnożnikowy działa oczywiście zarówno wtedy, gdy wydatki rosną (zwiększając ponadproporcjonalnie wartość PKB), jak i wtedy, gdy maleją (ponadproporcjonalnie zmniejszając wartość PKB). Na przykład załamanie wydatków inwestycyjnych podczas Wielkiego Kryzysu spowodowało spadek realnego PKB znacznie większy niż kwota, o którą te inwestycje się zmniejszyły. W analizie skutków polityki gospodarczej istotna jest wartość mnożnika. Była ona ważnym elementem dyskusji na temat skuteczności fiskalnego pakietu stymulacyjnego wprowadzonego w USA za prezydentury Baracka Obamy.</para>
+    </section>
+    <section id="ch25mod02_summ" class="summary">
+      <title id="UUID4d6e166a-33e8-4a6f-7bc3-280861f84f8b">Podsumowanie</title>
+      <para id="ch25mod02_p18">Ekonomia keynesowska opiera się na dwóch głównych założeniach. Po pierwsze, krótkookresowe wahania produkcji są przede wszystkim konsekwencją zmian popytu globalnego, co oznacza, że główną przyczyną recesji jest właśnie spadek popytu. Po drugie, płace i ceny są lepkie (sztywne), co prowadzi do wzrostu bezrobocia w okresach spowolnienia gospodarczego. Ten wzrost bezrobocia jest przykładem makroekonomicznego efektu zewnętrznego. O ile nadwyżka podaży powoduje zwykle spadek cen na poziomie mikroekonomicznym, o tyle w skali makro efekt taki nie musi wystąpić. Zgodnie z założeniami modelu keynesowskiego rezultatem spadku popytu globalnego na poziomie makroekonomicznym jest zmniejszenie produkcji, a nie obniżenie poziomu cen. Jednym z powodów, dla których ceny mogą być lepkie, są koszty zmienianych jadłospisów. Obejmują one koszty wewnętrzne ponoszone przez przedsiębiorstwo w związku ze zmianą etykiet, nową dokumentacją księgową, a także koniecznością poinformowania (prawdopodobnie niezadowolonych) konsumentów o nowych cenach. Keynesiści są również przekonani, że w gospodarce działa mechanizm mnożnika wydatków, czyli koncepcja, zgodnie z którą zmiana wydatków autonomicznych powoduje ponadproporcjonalną zmianę wartości PKB.</para>
+    </section>
+    <section id="ch25mod02_sques" class="self-check-questions">
+      <title id="UUIDd16fd144-4abd-4408-44ce-9813c0d3ff4c">Pytania sprawdzające</title>
+      <exercise id="ch25mod02_sques01">
+        <problem id="ch25mod02_squesp01">
+          <para id="ch25mod02_p19">Wykorzystując model AD-AS, wyjaśnij, jak powstaje luka inflacyjna, jeśli gospodarka w punkcie startu analizy znajduje się w równowadze takiej jak na <link target-id="CNX_Econ_C25_035" cmlnle:case="locative" id="UUIDabf54c08-9dce-48f3-783a-3a5c478d37a3" />.</para>
+        </problem>
+        <solution id="ch25mod02_sques01s">
+          <para id="ch25mod02_p20">Luka inflacyjna jest wynikiem wzrostu popytu globalnego w sytuacji, gdy produkcja znajduje się na poziomie potencjalnym. Ponieważ krzywa podaży globalnej (AS) jest pionowa przy potencjalnym PKB, każdy wzrost AD doprowadzi do wyższego poziomu cen (tj. inflacji) przy niezmienionym poziomie realnego PKB. Łatwo to dostrzec, jeśli narysujesz nową krzywą AD<sub>1</sub> na prawo od AD<sub>0</sub>.</para>
+        </solution>
+      </exercise>
+      <exercise id="ch25mod02_sques02">
+        <problem id="ch25mod02_squesp02">
+          <para id="ch25mod02_p21">Załóżmy, że państwo obniża wydatki, aby zlikwidować deficyt budżetowy. Użyj modelu AD-AS, aby pokazać prawdopodobne konsekwencje takiego posunięcia dla poziomu produkcji i zatrudnienia. Wskazówka: wykorzystaj <link target-id="CNX_Econ_C25_035" cmlnle:case="accusative" id="UUID864f6bb2-a749-4b68-4110-a80475a1a50d" />.</para>
+        </problem>
+        <solution id="ch25mod02_sques02s">
+          <para id="ch25mod02_p22">Spadek wydatków państwa przesuwa krzywą AD w lewo.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="ch25mod02_rques" class="review-questions">
+      <title id="UUIDee3ff1c8-2237-47a8-4dda-4d80f11aa266">Sprawdź wiedzę</title>
+      <exercise id="ch25mod02_rques01">
+        <problem id="ch25mod02_rquesp01">
+          <para id="ch25mod02_p23">Jaka jest – zgodnie z założeniami modelu keynesowskiego – główna przyczyna recesji: spadek popytu globalnego czy spadek podaży globalnej? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="ch25mod02_rques02">
+        <problem id="ch25mod02_rquesp02">
+          <para id="ch25mod02_p24">Dlaczego lepkie ceny i płace wzmacniają negatywny wpływ spadku popytu globalnego na poziom bezrobocia i skalę recesji?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch25mod02_rques03">
+        <problem id="ch25mod02_rquesp03">
+          <para id="ch25mod02_p25">Wyjaśnij, co ekonomiści rozumieją przez termin „koszty zmienianych jadłospisów”.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch25mod02_ctques" class="critical-thinking">
+      <title id="UUIDe7309f66-ef3e-481a-7433-e7a19fb2954b">Ćwicz myślenie krytyczne</title>
+      <exercise id="ch25mod02_ctques01">
+        <problem id="ch25mod02_ctquesp01">
+          <para id="ch25mod02_p26">Czy założenie, zgodnie z którym płace są lepkie wyłącznie przy próbie ich obniżki, ma sens? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="ch25mod02_ctques02">
+        <problem id="ch25mod02_ctquesp02">
+          <para id="ch25mod02_p27">Załóżmy, że w gospodarce znajdującej się na poziomie potencjalnego PKB rośnie eksport. W jaki sposób produkcja przeznaczona na eksport może wzrosnąć w odpowiedzi na powiększający się popyt, biorąc pod uwagę to, że gospodarka jest już w stanie pełnego zatrudnienia?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="ch25mod02_ref" class="references">
+      <title id="UUID352a24d1-227b-484d-7226-366a427bc792">Bibliografia</title>
+      <para id="ch25mod02_ref01">Harford, Tim. “What Price Supply and Demand?” http://timharford.com/2014/01/what-price-supply-and-demand/?utm_source=dlvr.it&amp;utm_medium=twitter.</para>
+      <para id="ch25mod02_ref02">National Employment Law Project. “Job Creation and Economic Recovery.” http://www.nelp.org/index.php/content/content_issues/category/job_creation_and_economic_recovery/.</para>
+    </section>
+  </content>
+  <glossary id="UUIDc3713a98-405b-4eeb-7403-f9e6e13dfd61">
+    <definition id="ch25mod02_gl01">
+      <term id="UUID99121481-a06e-408b-75ae-b3d551c172f3">problem koordynacji (ang. <foreign xml:lang="en" id="UUID3b47e3b5-800a-47c8-56a3-8fe8978d77c1">coordination argument</foreign>)</term>
+      <meaning id="ch25mod02_gl01m">
+        <para id="UUIDa7f12387-ef3d-4f14-5b51-6bb37c33a112">niemożliwa do osiągnięcia doskonała informacja o skali obniżki cen i wynagrodzeń akceptowalnej dla innych pracowników i uczestników rynku w sytuacji, w której taka obniżka jest niezbędna i uzasadniona kondycją gospodarki</para>
+      </meaning>
+    </definition>
+    <definition id="ch25mod02_gl02">
+      <term id="UUIDc0093d08-bb14-4912-7a2c-179170c76822">mnożnik wydatków autonomicznych (mnożnik wydatków) (ang. <foreign xml:lang="en" id="UUID74d02d1e-b4b8-4853-7d2a-b9926ca671ea">expenditure multiplier</foreign>)</term>
+      <meaning id="ch25mod02_gl02m">
+        <para id="UUID2aa9ad47-dd1c-44ad-4fd5-ad20c8dc2f76">keynesowska koncepcja, zgodnie z którą zmiana wydatków autonomicznych powoduje więcej niż proporcjonalną zmianę realnego PKB</para>
+      </meaning>
+    </definition>
+    <definition id="ch25mod02_gl03">
+      <term id="UUID1fcddd67-e080-42aa-489e-e4e95dd8d127">makroekonomiczny efekt zewnętrzny (ang. <foreign xml:lang="en" id="UUID6432ac6c-9c06-4778-5427-e7a534861016">macroeconomic externality</foreign>)</term>
+      <meaning id="ch25mod02_gl03m">
+        <para id="UUID714656d3-417a-4ca9-4f32-4edc02c42059">występuje, gdy ścieżka dostosowań na poziomie makroekonomicznym jest inna i prowadzi do negatywnych – w porównaniu z dostosowaniami na poziomie mikro – konsekwencji; przykładem mogą być dodatnio nachylone krzywe podaży przedsiębiorstw, przekształcające się w wyniku agregacji (połączenia) w płaską krzywą podaży globalnej, co sprawia, że ceny w gospodarce nie spadają w okresach recesji i nie stymulują popytu globalnego</para>
+      </meaning>
+    </definition>
+    <definition id="ch25mod02_gl04">
+      <term id="UUIDf04673d7-f0d0-4ee3-5865-82dd447b4a8c">koszty zmienianych jadłospisów/koszty menu (ang. <foreign xml:lang="en" id="UUID2a86b5ca-3fe7-40f5-5486-21631d80ca41">menu costs</foreign>)</term>
+      <meaning id="ch25mod02_gl04m">
+        <para id="UUID6f84c2d6-10ee-4f25-42a4-03a719fd77d9">koszty ponoszone przez przedsiębiorstwa w związku ze zmianami cen</para>
+      </meaning>
+    </definition>
+    <definition id="ch25mod02_gl05">
+      <term id="UUID21a89e4f-b3cd-45f1-5b5d-8cc0c4fef918">lepkie (sztywne) ceny i płace (ang. <foreign xml:lang="en" id="UUID82b90114-c5ba-4364-516f-b10f1953feba">sticky wages and prices</foreign>)</term>
+      <meaning id="ch25mod02_gl05m">
+        <para id="UUID29dd193d-656a-439b-55ed-1a4a83bd3527">sytuacja, w której ceny i płace pozostają stałe niezależnie od zmian popytu, czyli nie rosną w odpowiedzi na jego wzrost i nie maleją na skutek jego spadku</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>

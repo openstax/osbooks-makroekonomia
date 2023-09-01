@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U77b219e0-4847-468b-96b9-d1ff17bda0fa" id="U77b219e0-4847-468b-96b9-d1ff17bda0fa" xml:lang="en" cnxml-version="0.7">
+  <title>1.3 Śledzenie zmian realnego PKB w czasie</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00004</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:content-url>adaptarr.naukosfera.com/modules/77b219e0-4847-468b-96b9-d1ff17bda0fa</md:content-url>
+    <md:title>1.3 Śledzenie zmian realnego PKB w czasie</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-08-30T08:02:02.803639912+00:00</md:version>
+    <md:created>2023-08-30T08:02:02.803639912+00:00</md:created>
+    <md:revised>2023-08-30T08:02:02.803639912+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>77b219e0-4847-468b-96b9-d1ff17bda0fa</md:uuid>
+  </metadata>
+  <content>
+    <note type="note" id="UUID704d5026-kjuy-a146-7c527b82d03b3911" class="learning-objectives">
+      <para id="UUID704d5026-b94f-ddee-d847c24211b046d9">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="UUID704d5026-0608-yyhh-947f4bf51f03f979">
+        <item id="UUID704d5026-a652-3433-d11e6956d47a10b7">
+          <para id="UUID704d5026-1fc3-t654-71ca13cb6f478300">Objaśnić pojęcia ekspansji, recesji oraz górnego i dolnego punktu zwrotnego cyklu koniunkturalnego (szczytu i dna)</para>
+        </item>
+        <item id="UUID704d5026-f88b-reee-1631060f367d6467">
+          <para id="UUID704d5026-121a-hhgg-ac48e0726a64a3e8">Wytłumaczyć, dlaczego monitorowanie zmian realnego PKB w czasie jest procesem tak istotnym</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idp94661760">Kiedy media donoszą, że „w pierwszym kwartale gospodarka wzrosła o 1,2%”, liczby te dotyczą zmian procentowych realnego PKB. Zgodnie z przyjętą konwencją zmianę PKB podaje się w ujęciu rocznym. Jeśli wzrost realnego PKB został obliczony w danym kwartale w stosunku do kwartału poprzedniego, mnożymy go przez 4, aby podać przybliżone tempo zmian PKB w skali całego roku. Aby szacunek był jak najbliższy prawdzie, w takim przypadku należy też uwzględnić korektę sezonową; wygodniej jest od razu podawać zmianę procentową PKB w danym kwartale w stosunku do analogicznego kwartału poprzedniego roku – wówczas tempa wzrostu nie mnożymy przez 4, a wynik taki jest w zasadzie pozbawiony obciążenia czynnikiem sezonowym.</para>
+    <figure id="CNX_Econ_C19_008">
+      <title id="UUID3a6fe659-ecbb-4903-4003-ab337713054b">PKB Stanów Zjednoczonych w latach 1930–2020</title>
+      <media alt="Wykres jest ilustracją wykładniczego tempa wzrostu realnego PKB w USA, szczególnie po roku 1950." id="fs-idm3821664">
+        <image src="../../media//CNX_Econ_C19_008.svg" mime-type="image/svg+xml" id="UUIDcbe1b158-33ea-4783-4212-d44610ad43d9" />
+      </media>
+      <caption id="UUIDe6c50c20-ab0b-443a-5d22-785fb1eb433f">Realny PKB w Stanach Zjednoczonych w 2020 r. (w cenach stałych z 2009 r.) wyniósł ok. 18,4 bln dol. Po wyeliminowaniu wpływu inflacji oznacza to ok. 18-krotny wzrost wolumenu produkcji dóbr i usług w gospodarce amerykańskiej od początku czwartej dekady XX w. (Źródło: bea.gov).</caption>
+    </figure>
+    <para id="fs-idp4304016"><link target-id="CNX_Econ_C19_008" id="UUID1f6e1bd9-8890-46ae-64ac-4c4decf52142" /> obrazuje ścieżkę zmian realnego PKB w USA od 1930 r. Krótkookresowe spadki wielkości produkcji niejednokrotnie przerywały długookresową ścieżkę wzrostu PKB. Spadek realnego PKB nazywamy <term cmlnle:reference="recesja" id="UUID45d0f4dd-dc08-4c06-70bd-4c1898eca0d9">recesją</term> (ang. <foreign xml:lang="en" id="UUIDad0a059d-0464-4973-7c07-a0085818ff85"><term id="UUID96d23021-7f98-40df-76f8-40ac0a02c67b">recession</term></foreign>). Zgodnie z polską nomenklaturą o recesji mówimy wtedy, gdy w ciągu dwóch kolejnych kwartałów poziom realnego PKB się obniża. Jest to tzw. <term cxlxt:index="default" id="UUID0b8f1afc-b1f0-4eca-5b76-f0671245d812">recesja techniczna</term>. Dla większości ekonomistów z recesją będziemy mieli do czynienia wtedy, gdy wartość realnego PKB na koniec roku kalendarzowego będzie niższa od analogicznej wartości na koniec roku poprzedniego. Taka sytuacja w Polsce miała miejsce w 2020 r., wskutek pandemii Covid-19, i był to jedyny taki przypadek po 1992 r. (<link url="https://stat.gov.pl/wskazniki-makroekonomiczne/" id="UUID3b32337c-227e-46f2-6ac6-320e26b58852">link do źródła</link>). Szczególnie długą i głęboką recesję nazywamy <term cmlnle:reference="kryzys" id="UUID347d48ae-252a-45ef-76f9-46f34165385b">kryzysem</term> (ang. <foreign xml:lang="en" id="UUID058ab821-e12c-425b-73f4-c353fabc99e4"><term id="UUID7e2e857e-6fa5-4c18-43bd-1786bdfcb9cd">crisis</term></foreign>), a w języku angielskim również terminem <foreign xml:lang="en" id="UUID290272ed-dfc0-4de6-5d01-d40a7ab69161"><term id="UUIDe37f6869-843c-4413-59cf-477a90fb44c2">depression</term></foreign>. Ogromny spadek PKB, który nastąpił podczas <term cmlnle:reference="Wielki Kryzys" id="UUID5ea8bbfa-5a8a-4e5d-4d5f-752ac1a65fff">Wielkiego Kryzysu</term> (ang. <foreign xml:lang="en" id="UUIDb07b4abc-2fe3-49f1-63bd-c16acfe0eb0e"><term id="UUID186ae7c8-83fe-416d-7770-d54a983f5985">Great Depression</term></foreign>) lat 30. XX w., jest wyraźnie widoczny na wykresie, podobnie jak <term id="UUID2fdcf160-c0f7-4a08-716a-47abbcf547ad">kryzys globalny z lat 2008–2009</term> (ang. <foreign xml:lang="en" id="UUID39ca980c-c60d-4ed7-5bca-1a0597827693"><term id="UUIDe3acbe03-9947-4379-7d4a-b6c77097f089">Great Recession</term></foreign>). Warto podkreślić, że w Polsce w okresie występowania niekorzystnych zjawisk nazywanych globalnym kryzysem recesja się nie pojawiła. Zachowaliśmy status tzw. zielonej wyspy, co oznaczało, że byliśmy jednym krajem UE, w którym wartość realnego PKB w ujęciu rok do roku nieustannie rosła, jakkolwiek w niektórych latach dynamika wzrostu była bardzo niska (np. 1,5% w 2012, 0,9% w 2013). Z kolei okres ożywienia, kiedy realny PKB się zwiększa, nazywamy <term cmlnle:reference="ekspansja" id="UUID1cb69b49-c856-4864-6058-56a95af02799">ekspansją</term> (ang. <foreign xml:lang="en" id="UUID7cecb0f0-26ea-4146-407f-99fff76963e3"><term id="UUIDa30d0641-ee73-4255-5585-3bdb2dc751d2">expansion</term></foreign>).</para>
+    <para id="UUID2b999e80-31fa-4e86-4f92-9423b1995c76">Realny PKB jest ważną zmienną makroekonomiczną, ponieważ jest silnie skorelowany z innymi miarami aktywności gospodarczej, takimi jak zatrudnienie i bezrobocie. Wraz ze wzrostem realnego PKB zazwyczaj rośnie również zatrudnienie, jakkolwiek jeśli tempo wzrostu jest bardzo niskie (tak jak to miało miejsce w Polsce w latach 2012–2013 i 2001–2002), bezrobocie może utrzymywać się na niezmienionym poziomie lub nawet rosnąć również wtedy, gdy kraj notuje dodatnie tempo wzrostu realnego PKB.</para>
+    <para id="fs-idp75162576">Najbardziej dotkliwym problemem społecznym wywoływanym przez recesje i kryzysy jest to, że wraz ze spadkiem poziomu produkcji szybko rośnie prawdopodobieństwo zwolnień pracowników. Utrata pracy wiąże się zaś z bolesnymi kosztami finansowymi i osobistymi tak dla samych pracowników, jak i ich rodzin. Ponadto osoby, którym pomimo recesji uda się zachować miejsce pracy, na ogół nie mają szans na uzyskanie podwyżki wynagrodzenia. Co więcej, pracodawcy borykający się ze spadkiem popytu na swoje produkty zazwyczaj próbują ograniczyć koszty wytwarzania, w związku z czym redukują płace.</para>
+    <para id="UUID9425bc5a-7afb-4034-5a74-5acf51a54113"><link target-id="Table_19_09" id="UUIDc41dfef6-e907-4bbb-7179-001bafca032d" /> przedstawia okresy recesji i ekspansji w USA, począwszy od roku 1900. Gdy gospodarka znajduje się w punkcie, w którym wielkość produkcji osiąga maksimum i po przekroczeniu którego gospodarka wpada w recesję, mamy do czynienia z górnym punktem zwrotnym dotychczasowego trendu, czyli <term cmlnle:reference="szczyt" id="UUID01ad91b2-0835-45c0-5457-b4230a1019c3">szczytem</term> (ang. <foreign xml:lang="en" id="UUID88b6fa79-6cff-447d-5045-6e2d7435f694"><term id="UUIDbf0279e3-927b-4729-4c9d-4114e310d253">peak</term></foreign>). Analogicznie stan charakteryzujący się najniższym wolumenem produkcji, występujący pod koniec recesji i poprzedzający okres ożywienia, nazywany jest dolnym punktem zwrotnym, czyli <term cmlnle:reference="dno" id="UUID1379db37-4ee4-4bb4-5ec8-734fcc4df3f8">dnem</term> lub <term cmlnle:reference="dołek" id="UUIDbce8036e-17e2-422c-483f-4ce544c6e3fb">dołkiem</term> (ang. <foreign xml:lang="en" id="UUIDeb5d28b3-ec6a-4e32-470a-a101b761910e"><term id="UUID9d14b3e9-9ff5-4ca2-5e38-27ba02a82ac8">trough</term></foreign>). Tak więc recesja trwa od szczytu do dna, a ekspansja (ożywienie gospodarcze) od dna do szczytu. Wahania w gospodarce trwające od szczytu do dna i od dna do szczytu nazywamy <term cmlnle:reference="cykl koniunkturalny" id="UUID7a452ea1-5e7e-4e71-723e-5a6cf8856161">cyklem koniunkturalnym</term> (ang. <foreign xml:lang="en" id="UUID72315a04-78a2-4379-60ea-af12976aa90f"><term id="UUID82ecf6ad-a3b0-4ad5-720f-f149b65e14b9">business cycle</term></foreign>). Ciekawym zjawiskiem jest to, że w XX w. w gospodarce amerykańskiej trzy najdłuższe ekspansje, liczone od dna do szczytu, wystąpiły po 1960 r. Recesja związana z globalnym kryzysem finansowym rozpoczęła się w grudniu 2007 r. i zakończyła formalnie w czerwcu 2009 r. Była to najpoważniejsza recesja od czasów Wielkiego Kryzysu lat 30. XX w. Trwająca od czerwca 2009 r. ekspansja również była stosunkowo długa, gdyż trwała do 2020 r., kiedy pojawiła się recesja wywołana przez pandemię koronawirusa.</para>
+    <table summary="The table shows the pattern of recessions and expansions in the U.S. economy since 1900. Column 1 lists the Trough dates. Column 2 lists the Peak dates. Column 3 lists the Months of Contraction. Column 4 lists the Months of Expansion. Trough: December 1900; Peak: September 1902; 18 (months of contraction); 21 (months of expansion). Trough: August 1904; Peak: May 1907; 23 (months of contraction); 33 (months of expansion). Trough: June 1908; Peak: January 1910; 13 (months of contraction); 19 (months of expansion). Trough: January 1912; Peak: January 1913; 24 (months of contraction); 12 (months of expansion). Trough: December 1914; Peak: August 1918; 23 (months of contraction); 44 (months of expansion). Trough: March 1919; Peak: January 1920; 7 (months of contraction); 10 (months of expansion). Trough: July 1921; Peak: May 1923; 18 (months of contraction); 22 (months of expansion). Trough: July 1924; Peak: October 1926; 14 (months of contraction); 27 (months of expansion). Trough: November 1927; Peak: August 1929; 23 (months of contraction); 21 (months of expansion). Trough: March 1933; Peak: May 1937; 43 (months of contraction); 50 (months of expansion). Trough: June 1938; Peak: February 1945; 13 (months of contraction); 80 (months of expansion). Trough: October 1945; Peak: November 1948; 8 (months of contraction); 37 (months of expansion). Trough: October 1949; Peak: July 1953; 11 (months of contraction); 45 (months of expansion). Trough: May 1954; Peak: August 1957; 10 (months of contraction); 39 (months of expansion). Trough: April 1958; Peak: April 1960; 8 (months of contraction); 24 (months of expansion). Trough: February 1961; Peak: December 1969; 10 (months of contraction); 106 (months of expansion). Trough: November 1970; Peak: November 1973; 11 (months of contraction); 36 (months of expansion). Trough: March 1975; Peak: January 1980; 16 (months of contraction); 58 (months of expansion). Trough: July 1980; Peak: July 1981; 6 (months of contraction); 12 (months of expansion). Trough: November 1982; Peak: July 1990; 16 (months of contraction); 92 (months of expansion). Trough: March 2001; Peak: November 2001; 8 (months of contraction); 120 (months of expansion). Trough: December 2007; Peak: June 2009; 18 (months of contraction); 73 (months of expansion)." id="Table_19_09"><tgroup cols="4" id="UUID7e5da7f6-5c8b-4af2-7b3a-c71ffc051722"><colspec colnum="1" colname="col1" id="UUIDc8d768b2-63f4-4be0-643f-ecad6c9632f9" /><colspec colnum="2" colname="col2" id="UUID69417af3-d79b-4001-53ce-d0ecb6d255c2" /><colspec colnum="3" colname="col3" id="UUID088bc07f-0862-4e1a-605b-a7be7839b4c1" /><colspec colnum="4" colname="col4" id="UUID87b1b4c3-146f-4a32-4f57-d651e766421c" /><thead id="UUIDddef2b80-c440-4258-44a3-87225a4a9da5"><row id="UUID27d3ceab-f6d3-438b-78d8-0982f94cf731"><entry id="UUID1c8731f6-4ed3-4061-606e-edb16ce08c78">Dno</entry><entry id="UUID2ca98f1e-4c2b-4929-6bc0-503ea65d01c5">Szczyt</entry><entry id="UUID4c51973a-7c56-474e-6947-0c01ebae6c92">Okres recesji w miesiącach</entry><entry id="UUIDa3ae0ac5-f861-4843-7a41-b324ec490147">Okres ożywienia w miesiącach</entry></row></thead><tbody id="UUIDa3f9a3bf-32d0-4b8a-7fa1-94c81683fafc"><row id="UUID3938ad0e-704f-4439-7754-8128d8bcd0e3"><entry id="UUID6d7ef906-457f-43f7-4700-fb87b1cf0b69">Grudzień 1900</entry><entry id="UUID854012ea-f1a1-4fe9-73c4-308a1bb3a4b1">Wrzesień 1902</entry><entry id="UUIDcf2ce358-3635-4004-71d7-39db801b2eb9">18</entry><entry id="UUIDf9652a30-8125-4a89-72ce-937c72d9224e">21</entry></row><row id="UUIDd0b19b93-8d89-4ea8-477b-fb6884fd4548"><entry id="UUID64e5f354-1758-445b-542a-4611e1cbdcf3">Sierpień 1904</entry><entry id="UUID92bcc44d-86e1-4a56-6cf1-70c2bac5a78e">Maj 1907</entry><entry id="UUID17c8968b-1a7b-420c-6011-3e37bf6fafb9">23</entry><entry id="UUID4cdb3056-9a99-4e59-5805-9fce06214427">33</entry></row><row id="UUID3380af4c-23e3-48dd-6d9e-d90431b60195"><entry id="UUIDb5c81c62-cbd9-4933-4a5a-1d0d3c8cf7f9">Czerwiec 1908</entry><entry id="UUID255323eb-209d-4638-5085-592fe69ab125">Styczeń 1910</entry><entry id="UUID5353f8dc-6a90-4477-49e7-8620adfca5a6">13</entry><entry id="UUIDc7e501f6-67a0-4006-6256-c37f67077d49">19</entry></row><row id="UUID51cdd1b8-22af-41b0-6e6c-9453913a58f1"><entry id="UUIDa773a4a8-5ea9-4075-4c1a-ac5451b88a03">Styczeń 1912</entry><entry id="UUID7467e82c-6e6f-44cb-5135-89f10619c249">Styczeń 1913</entry><entry id="UUID3604cc69-0769-469e-7901-8774a5aead1a">24</entry><entry id="UUID94bad912-ca38-4e1e-76f5-833617096945">12</entry></row><row id="UUIDc057f7ca-868a-4380-57cd-6892f0060ddc"><entry id="UUID4da71523-2119-4270-4f78-e20c1bab953f">Grudzień 1914</entry><entry id="UUIDc23296d7-2072-4668-656d-0b9eb273ee94">Sierpień 1918</entry><entry id="UUID67a026d5-74b5-4b29-5314-a59043d04a58">23</entry><entry id="UUID0c6c4861-626e-4c2f-59c7-0adb102ec2fb">44</entry></row><row id="UUID219dd46b-d229-4ce3-6a51-38f08d32adc0"><entry id="UUID3e1dec8e-f859-4949-7a87-dc31afb139f3">Marzec 1919</entry><entry id="UUID644350c0-2376-42cf-43e8-8d0eea052f33">Styczeń 1920</entry><entry id="UUID632ac089-e94f-4f08-7726-839d2ef7c7f4">7</entry><entry id="UUIDba86d48f-f8fe-4e40-52f4-807f6520ef60">10</entry></row><row id="UUIDbb843b58-3e59-472d-671e-c1772a538352"><entry id="UUIDeb163a6f-68f7-43ef-78a8-8092c3e216a2">Lipiec 1921</entry><entry id="UUIDff7ee6b5-3381-4327-7d14-c1887cf8b9dc">Maj 1923</entry><entry id="UUID15d79cea-ebf4-4aab-7a7e-6f613c1b7a7f">18</entry><entry id="UUID40165926-70af-4234-7328-5e048b1a8031">22</entry></row><row id="UUIDb71fa963-6690-45ec-4194-da18be27f8ea"><entry id="UUID57118cd3-5eca-458f-617d-74b0e731ca83">Lipiec 1924</entry><entry id="UUID86c8ee76-afb9-4540-4a86-0098104a649f">Październik 1926</entry><entry id="UUIDe156a537-dc52-4c25-6403-bbe1f867cbf5">14</entry><entry id="UUIDfb3f26d0-6702-4390-5407-f222798b7ede">27</entry></row><row id="UUID22bd51c5-c46b-4d92-6556-497aa00b946c"><entry id="UUID973a64cc-d162-49a1-453c-bdf5f56e01d0">Listopad 1927</entry><entry id="UUID7bf122e5-cd9c-4bac-6c6a-3bdb16cc3264">Sierpień 1929</entry><entry id="UUID3539aff9-62cc-49c5-77cf-7bbb7468cd1d">23</entry><entry id="UUIDad423b25-80fc-47dd-7478-835aa8208926">21</entry></row><row id="UUIDc8ea4283-ed4c-4114-7c9e-1c938a534142"><entry id="UUID4c800f51-d5c3-4e66-5b15-775a5a39933d">Marzec 1933</entry><entry id="UUID9f0321bf-4fe7-4543-4ab2-ef97d3c1eadc">Maj 1937</entry><entry id="UUIDdc1b857b-0d77-4dc1-5c80-e49f72c73b30">43</entry><entry id="UUIDddd85d55-29d2-4d66-7ead-b9a9dbd87754">50</entry></row><row id="UUID8a2edff7-467d-4870-6b7e-f3da0c617891"><entry id="UUID511cafb2-da2f-4459-5982-2ca30f107fb4">Czerwiec 1938</entry><entry id="UUIDef380ab7-feca-42d7-4683-099d7ba8f4f5">Luty 1945</entry><entry id="UUIDa424c054-2b00-4bad-5789-861abb47495b">13</entry><entry id="UUID09dc6050-9e72-47f1-58ca-aac2eeeaf491">80</entry></row><row id="UUIDec385cf9-4b7c-4051-40de-b68183a909c6"><entry id="UUID9698e464-9bf5-4f4f-51b1-f08d707e9453">Październik 1945</entry><entry id="UUIDa6cc5986-eb9c-4d10-6378-d772454ff18c">Listopad 1948</entry><entry id="UUID5f437f1e-0a91-4c16-5b08-ec5fa52ca3f3">8</entry><entry id="UUID68375409-3331-42dd-4d83-9e7f9da0f11e">37</entry></row><row id="UUIDdb9df898-3500-4618-5aa1-4f2e1b829a54"><entry id="UUID4dcc6ebc-f6b4-44d6-77c9-1b4918442f7d">Październik 1949</entry><entry id="UUIDee6465e6-7627-486f-6677-1ba993040abe">Lipiec 1953</entry><entry id="UUIDc22712e5-e2c8-4b3d-52a8-1ead93ab31dc">11</entry><entry id="UUID6c17af2c-cfe3-4493-5da1-e5bb55650ce0">45</entry></row><row id="UUIDc826d375-c884-4c39-4a20-cf82ff7aeed3"><entry id="UUIDfabec322-8119-4e9e-5753-c03c2bb29789">Maj 1954</entry><entry id="UUID10ff5ab9-03cc-461a-5f95-dff76a17e2ee">Sierpień 1957</entry><entry id="UUID172a0a99-76e8-4de4-699b-1c6167ea130b">10</entry><entry id="UUID7d61f7c6-8898-4acc-7143-c9f265280cf4">39</entry></row><row id="UUID6f2b65a9-9638-4a94-4a9e-33d6dbb31f3a"><entry id="UUID06853bd5-4a61-408b-5c5d-009e7e39b5aa">Kwiecień 1958</entry><entry id="UUID3d2d207b-38fb-4d71-478d-b4fa95abf7fb">Kwiecień 1960</entry><entry id="UUID954a422d-9001-4112-4d8c-9452df1ccf94">8</entry><entry id="UUID11466127-411b-4c9f-4eed-afa99a9e8e47">24</entry></row><row id="UUID7d7edb80-3366-4265-497e-7e9c9c10d11a"><entry id="UUIDb50b5b7b-8edc-48d7-69d2-a974c192e0d2">Luty 1961</entry><entry id="UUID94d5ded9-1aaf-4011-4ed5-fe469753ba37">Grudzień 1969</entry><entry id="UUID1f1df575-724f-4cf7-7194-2aa555c7956b">10</entry><entry id="UUID82ea386b-8dc8-44d0-5eba-e15e26b88456">106</entry></row><row id="UUIDa73e1f46-ddeb-4df5-502e-c94c1df491f5"><entry id="UUID638346c6-736f-47ac-58c1-a31b1e84e337">Listopad 1970</entry><entry id="UUID675a098f-050a-4f66-4e82-deddef23ad18">Listopad 1973</entry><entry id="UUID8acd727a-c153-414b-433e-05334cad953e">11</entry><entry id="UUID51758de1-3e06-41ce-5ddd-77f9ea9581db">36</entry></row><row id="UUID7cd3fa0d-86bb-4226-5e0a-d6e809408e50"><entry id="UUIDc1f223f2-a261-444c-4a59-04a1eec65f8a">Marzec 1975</entry><entry id="UUID9eff3057-1449-4839-566b-0c46139ad742">Styczeń 1980</entry><entry id="UUID3ee44014-84c7-4c2f-65f1-37d530f86896">16</entry><entry id="UUID2b104bb3-f420-44c0-4dce-0097e891ec46">58</entry></row><row id="UUID5f5f7469-c46e-4eeb-6300-8edc1d1de933"><entry id="UUIDb68e55f9-a9b3-419f-4c12-d8fd19657a21">Lipiec 1980</entry><entry id="UUIDe0b6bc47-a6af-43af-7c70-ed7cd0ca400b">Lipiec 1981</entry><entry id="UUID464981ed-41af-4b19-61c4-135e4fadb846">6</entry><entry id="UUID475a5c96-5abe-4188-5492-80a1fa193427">12</entry></row><row id="UUID496e5bd5-d5a5-49b1-432b-a75329154d27"><entry id="UUIDc27716bd-66ac-4122-7962-33c9760de16f">Listopad 1982</entry><entry id="UUID8f6c2855-68ed-4127-7821-cdf96b46f3c4">Lipiec 1990</entry><entry id="UUID47c050d5-7ba3-4e82-67ff-761fa9a5d2c1">16</entry><entry id="UUID0c9612a4-8938-4188-7be5-003bae608015">92</entry></row><row id="UUID17ed0b30-f42b-45ef-4280-29602880cd5b"><entry id="UUID050043e0-d817-4141-5b1a-072b6aea7c6c">Marzec 1991</entry><entry id="UUID316d78e8-c8c8-4f66-46db-98ec62e9d864">Marzec 2001</entry><entry id="UUID6124cef3-f372-4dea-55fc-185665ee5939">8</entry><entry id="UUIDc2925383-16dc-43c1-73d9-693a3f2381f7">120</entry></row><row id="UUID5329f8e8-c89a-446d-4842-53c6fe1ab73d"><entry id="UUIDe08519fb-f041-498d-6256-a7a886d4e60c">Listopad 2001</entry><entry id="UUID3cf9db07-21c8-443e-76f9-d098674bdb63">Grudzień 2007</entry><entry id="UUID4d90e1ae-dd6c-4113-4642-f96bbd7c19cd">8</entry><entry id="UUID318b3761-e567-47d6-42b5-c654fe4ec50e">73</entry></row><row id="UUID17ed0b30-f42b-4432-u765-29602880cd5b"><entry id="UUID050043e0-d817-23wq-wqte-072b6aea7c6c">Czerwiec 2009</entry><entry id="UUID316d78e8-532w-qqer-46db-98ec62e9d864">Luty 2020</entry><entry id="UUID6124cef3-gt65-4dea-55fc-185665ee5939">18</entry><entry id="UUIDc2925383-4322-43c1-73d9-693a3f2381f7">128</entry></row><row id="UUID5329f8e8-2er5-446d-4842-53c6fe1ab73d"><entry id="UUIDe08519fb-bg56-498d-6256-a7a886d4e60c">Kwiecień 2020</entry><entry id="UUID3cf9db07-334r-5533-ewr5-d098674bdb63">-</entry><entry id="UUID4d90e1ae-dd6c-4113-eewq-f96bbd7c19cd">2</entry><entry id="UUID318b3761-e567-47d6-juyt-c654fe4ec50e">-</entry></row></tbody></tgroup><caption id="UUIDcb540ee1-ac93-47b7-5f04-59a1194e9c7c">Cykle gospodarcze w USA od 1900 r. (Source: http://www.nber.org/cycles/main.html).</caption></table>
+    <para id="fs-idp29009152"><foreign xml:lang="en" id="UUIDdd7e09e6-5a9a-426c-5580-726ce511cc76"><term id="UUID96e619a0-ff8e-4ec7-5a68-bf4df764d3d6">National Bureau of Economic Research (NBER)</term></foreign>, prywatna amerykańska instytucja badawcza, zajmuje się badaniem cykli koniunkturalnych w gospodarce USA. Analiza zmiennych makroekonomicznych, takich jak stopa bezrobocia i poziom dochodów rozporządzalnych, wskazuje, że negatywne skutki recesji często utrzymują się jeszcze długo po oficjalnej dacie jej zakończenia wyznaczonej przez NBER.</para>
+    <section id="fs-idp17544032" class="summary">
+      <title id="UUID28d862ea-6dd8-4322-54c4-c0166c3c1520">Podsumowanie</title>
+      <para id="fs-idm24831088">W perspektywie długookresowej realny PKB Stanów Zjednoczonych znacznie wzrósł. Jednocześnie produkcja nie zwiększała się co roku o taką samą wielkość. Obserwowane w czasie wahania wolumenu produkcji tworzą cykle koniunkturalne. Gdy PKB spada, pojawia się zjawisko recesji. Dłuższy i głębszy spadek produkcji to kryzys. Recesje zaczynają się w szczycie cyklu koniunkturalnego (górnym punkcie zwrotnym) i kończą w dołku (dolnym punkcie zwrotnym). Okres ożywienia, kiedy realny PKB rośnie, nazywamy ekspansją.</para>
+    </section>
+    <section id="fs-idp158656" class="self-check-questions">
+      <title id="UUIDda82ba34-988e-414f-787e-651791b3cd3c">Pytania sprawdzające</title>
+      <exercise id="fs-idm35530192">
+        <problem id="fs-idp4421712">
+          <para id="fs-idm16923200">Spójrz na <link target-id="CNX_Econ_C19_008" cmlnle:case="accusative" id="UUIDbbfb5441-bf02-4d38-7c0f-ff6f4e569808" /> bez patrzenia na <link target-id="Table_19_09" cmlnle:case="accusative" id="UUID3b61c0ff-cdc2-4062-7565-0e24cb2879de" />. Jeśli zdefiniujemy recesję jako znaczny spadek produkcji krajowej, to czy oprócz recesji z lat 2008–2009 możesz wskazać jeszcze inne recesje, które wystąpiły po 1960 r.? (Odpowiedź wymaga wykorzystania własnej intuicji).</para>
+        </problem>
+        <solution id="fs-idm18437456">
+          <para id="fs-idp157584">Dwie inne recesje są widoczne na wykresie jako niewielkie spadki PKB: w latach 1973–1975 i 1981–1982. Na wykresie można wskazać jeszcze dwa okresy spowolnienia gospodarczego przejawiającego się spłaszczeniem ścieżki wzrostu realnego PKB: w latach 1990–1991 i 2001.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp22823008">
+        <problem id="fs-idp70438560">
+          <para id="fs-idp23154320">Wykorzystując dane przedstawione w <link target-id="Table_19_09" cmlnle:case="locative" id="UUIDd1b43dea-4e86-47ba-4106-a241cc22438d" />, powiedz, jak często zdarzały się recesje od zakończenia II wojny światowej (tj. od 1945 r.).</para>
+        </problem>
+        <solution id="fs-idm24827872">
+          <para id="fs-idp523936">W ciągu około 70 lat wystąpiło 11 recesji, czyli pojawiały się średnio raz na sześć lat.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp1340512">
+        <problem id="fs-idp55292128">
+          <para id="fs-idp33642496">Jak długo, zgodnie z <link target-id="Table_19_09" cmlnle:case="instrumental" id="UUID7cdc57b2-8a29-4a6d-425a-8111e30ef35d" />, trwała przeciętna recesja od zakończenia II wojny światowej?</para>
+        </problem>
+        <solution id="fs-idp32865968">
+          <para id="fs-idp7320672">Dla każdej recesji przedstawiono w tabeli miesiące, w których produkcja spadła. Uśrednienie tych danych dla okresu po II wojnie światowej daje średni czas trwania recesji wynoszący 11 miesięcy, czyli nieco mniej niż rok.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm10104304">
+        <problem id="fs-idm5028432">
+          <para id="fs-idp91448576">Jak długo, zgodnie z <link target-id="Table_19_09" cmlnle:case="instrumental" id="UUIDf4096911-7430-409f-6ffa-7a8b26b5d9e7" />, trwała przeciętna faza ekspansja od zakończenia II wojny światowej?</para>
+        </problem>
+        <solution id="fs-idp44484688">
+          <para id="fs-idp16084880">W tabeli przedstawiono miesiące, w których produkcja rosła. Uśrednienie tych danych dla okresu po II wojnie światowej daje średni czas trwania ekspansji wynoszący 60,5 miesiąca, czyli ponad pięć lat.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp54008768" class="review-questions">
+      <title id="UUID2726d94c-730c-42f3-590f-3dc684fe151b">Sprawdź wiedzę</title>
+      <exercise id="fs-idp5267840">
+        <problem id="fs-idp6610432">
+          <para id="fs-idp73027344">Jak wygląda typowa ścieżka wahań PKB dla kraju wysoko rozwiniętego, np. Stanów Zjednoczonych, w krótkim i długim okresie?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp1212272" class="critical-thinking">
+      <title id="UUID2fab88de-4d1f-4320-5521-29ca0060451f">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idp35437712">
+        <problem id="fs-idp12210144">
+          <para id="fs-idp5245536">Dlaczego PKB Stanów Zjednoczonych jest dziś o wiele wyższy niż 50 czy 100 lat temu?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm75881664">
+        <problem id="fs-idm63654624">
+          <para id="fs-idp967696">Dlaczego PKB nie rośnie w stałym tempie, lecz wykazuje wahania w czasie?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm81210160" class="references">
+      <title id="UUID783444db-cb4f-4ab9-56b9-f2aa268daeaa">Bibliografia</title>
+      <para id="fs-idm26865680">The National Bureau of Economic Research. “Information on Recessions and Recoveries, the NBER Business Cycle Dating Committee, and related topics.” http://www.nber.org/cycles/main.html.</para>
+    </section>
+  </content>
+  <glossary id="UUIDaadeeda2-773b-4505-5eac-c6b959171580">
+    <definition id="fs-idp4290944">
+      <term id="UUID6e5762a4-3b40-404a-58dc-050b2eb3987e">cykl koniunkturalny (ang. <foreign xml:lang="en" id="UUIDefe05acc-8cfe-47ee-4855-366babe28eff">business cycle</foreign>)</term>
+      <meaning id="fs-idp3873088">
+        <para id="UUIDa18a1c64-255b-4a4e-71d5-fe2105ab98a3">krótkookresowe wahania poziomu aktywności gospodarczej w trakcie naprzemiennie występujących okresów ożywienia i recesji</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp27754240">
+      <term id="UUIDe46ceb85-22b3-4ddf-43de-d276acda93d1">kryzys (ang. <foreign xml:lang="en" id="UUID968549cd-120e-4b4d-7b5a-e13d6004b962">crisis</foreign> lub <foreign xml:lang="en" id="UUID0e3fda30-85fd-469b-63fb-8203cddd8c1f">depression</foreign>)</term>
+      <meaning id="fs-idp10759360">
+        <para id="UUID2f2d52ab-240a-435b-7a8c-d7ca4ff8d214">szczególnie długotrwały i głęboki spadek poziomu aktywności gospodarczej</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp26586384">
+      <term id="UUID8627eb21-7519-4b5d-5fb9-17a12f9f5e09">szczyt (górny punkt zwrotny cyklu koniunkturalnego) (ang. <foreign xml:lang="en" id="UUID56d24df1-417a-422f-6c33-87980d06c1a4">peak</foreign>)</term>
+      <meaning id="fs-idm87433472">
+        <para id="UUID0924c49d-d3ac-4353-74a4-43eee1cb59aa">punkt w czasie, gdy wielkość PKB osiąga maksimum i po przekroczeniu którego rozpoczyna się recesja</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp3736448">
+      <term id="UUID68a908f7-db8f-45c7-6397-46f49d5e4553">recesja (ang. <foreign xml:lang="en" id="UUIDa2929b08-8d42-4ebf-5210-dc5a6a925c06">recession</foreign>)</term>
+      <meaning id="fs-idm14196896">
+        <para id="UUID8696b268-1acd-4344-67ae-01529a1758d1">okres spadku poziomu PKB; zgodnie z definicją przyjętą w Polsce pojawia się, gdy realny poziom PKB spada przez dwa kolejne kwartały</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp1056848">
+      <term id="UUIDc3ab55f9-5b60-4f0a-74c1-55cc0b4d9f43">dno (dołek, dolny punkt zwrotny cyklu koniunkturalnego) (ang. <foreign xml:lang="en" id="UUID6971fc09-3798-4a01-7216-97797815bf29">trough</foreign>)</term>
+      <meaning id="fs-idm42687872">
+        <para id="UUID34242f8b-5317-40ea-5e6a-df3469815b35">punkt w czasie, gdy PKB osiąga najniższy poziom; występuje pod koniec recesji, tuż przed rozpoczęciem ożywienia</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDb0116451-90fc-4720-508a-d07f6fac0185">
+      <term id="UUIDf998529a-89f0-461e-45da-17e5a0e23d47"><emphasis effect="bold">ekspansja (ang.</emphasis> <foreign xml:lang="en" id="UUID69b91667-ff4b-4e39-495e-41e48bd72df8"><emphasis effect="bold">expansion</emphasis></foreign><emphasis effect="bold">)</emphasis></term>
+      <meaning id="UUID2e9301c2-e952-412f-51fa-1540f1aef832">
+        <para id="UUID10ca71ad-6882-4e9a-4781-9c9d3b8e366e">okres ożywienia, kiedy wartość realnego PKB się zwiększa</para>
+      </meaning>
+    </definition>
+  </glossary>
+</document>
