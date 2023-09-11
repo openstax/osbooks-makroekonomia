@@ -99,9 +99,9 @@
     </definition>
     <definition id="UUID205a06f7-f0d3-4451-7a16-b5592372e642">
       <term id="UUID1e6d3318-a317-41cd-50c8-d21fa9dcb98c">ekwiwalencja ricardiańska</term>
-      <seealso id="UUID78e71463-f3a1-49c7-46ba-b00aaf621512">
-        <term id="UUIDcd0726f3-f10a-41bd-7989-4d60fce9eba7">równoważność ricardiańska</term>
-      </seealso>
+      <meaning id="fs-idm938730k8">
+        <para id="UUID4c619fb0-9709-4446-y654-353249ad3802">równoważność ricardiańska</para>
+      </meaning>
     </definition>
     <definition id="fs-idm52983008">
       <term id="UUID69f197f5-96d4-4607-76ac-2fc56d4fb1db">deficyty bliźniacze (ang. <foreign xml:lang="en" id="UUIDca2b35f9-202e-4c98-48a0-1b8e22589f4f">twin deficits</foreign>)</term>
