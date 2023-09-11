@@ -108,9 +108,9 @@
     </definition>
     <definition id="UUIDa1078152-fc60-4a17-6205-782cee81f679">
       <term id="UUID6e144f6e-8eb5-407a-4dc9-7c32757cb1bd">gospodarka konwergująca</term>
-      <seealso id="UUIDa776b643-10aa-417c-4c9a-a0255b8975d0">
-        <term id="UUIDb48971d2-def2-4b19-6f5a-e1d577c977c8">gospodarka rozwijająca się</term>
-      </seealso>
+      <meaning id="UUIDa776b643-10aa-417c-4c9a-a0255b8975d0">
+        <para id="UUIDb48971d2-def2-4b19-6f5a-e1d577c977c8">gospodarka rozwijająca się</para>
+      </meaning>
     </definition>
   </glossary>
 </document>
