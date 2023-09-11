@@ -144,9 +144,9 @@
     </definition>
     <definition id="UUID2f02cc38-df62-4005-4270-ba13a23a7099">
       <term id="UUID0143d593-5ea9-4acc-7ce4-4ecb85a2a16e">innowacja</term>
-      <seealso id="UUID30cf4ad7-ca64-4e65-7d8b-efc0d464e08c">
-        <term id="UUID2897d6ff-2e52-4c52-6621-28c07f489b74">przełomowa zmiana na rynku</term>
-      </seealso>
+      <meaning id="UUID30cf4ad7-ca64-4e65-7d8b-efc0d464e08c">
+        <para id="UUID2897d6ff-2e52-4c52-6621-28c07f489b74">przełomowa zmiana na rynku</para>
+      </meaning>
     </definition>
   </glossary>
 </document>
