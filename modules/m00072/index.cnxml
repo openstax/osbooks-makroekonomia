@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U2b6c92cc-a111-48b6-85cb-c4f986138297" id="U2b6c92cc-a111-48b6-85cb-c4f986138297" xml:lang="en" cnxml-version="0.7">
-  <title>13.4 Fiscal Policy, Investment, and Economic Growth</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U2ef7c970-3cfd-4051-ad28-23273f40144d" id="U2ef7c970-3cfd-4051-ad28-23273f40144d" xml:lang="en" cnxml-version="0.7">
+  <title>13.3 How Government Borrowing Affects Private Saving</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00072</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/2b6c92cc-a111-48b6-85cb-c4f986138297</md:content-url>
-    <md:title>13.4 Fiscal Policy, Investment, and Economic Growth</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/2ef7c970-3cfd-4051-ad28-23273f40144d</md:content-url>
+    <md:title>13.3 How Government Borrowing Affects Private Saving</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:05.538841508+00:00</md:version>
-    <md:created>2023-08-30T08:02:05.538841508+00:00</md:created>
-    <md:revised>2023-08-30T08:02:05.538841508+00:00</md:revised>
+    <md:version>2023-09-11T10:25:15.457757020+00:00</md:version>
+    <md:created>2023-09-11T10:25:15.457757020+00:00</md:created>
+    <md:revised>2023-09-11T10:25:15.457757020+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,163 +20,94 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>2b6c92cc-a111-48b6-85cb-c4f986138297</md:uuid>
+    <md:uuid>2ef7c970-3cfd-4051-ad28-23273f40144d</md:uuid>
   </metadata>
   <content>
     <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
     <list id="list-00001">
-      <item id="UUID2b164cbc-e047-4f11-5b76-0c3d6d1b4117">
-        <para id="UUID2d4e8ea8-a2d1-4841-5cc1-10454d4552e2">Wyjaśnić zjawisko wypierania i jego wpływ na inwestycje w kapitał rzeczowy</para>
+      <item id="UUID40bd0e7d-39b3-4f9f-5cbf-c10c7ce7d35b">
+        <para id="UUID6d2795fa-c312-4506-5201-a85b44dc4dbc">Wykorzystać równoważność ricardiańską (teorię Ricardo) do oceny, w jaki sposób zadłużenie państwa wpływa na prywatne oszczędności</para>
       </item>
-      <item id="UUID7488b6b5-5ed4-43e3-4abc-fd295ba52de6">
-        <para id="UUIDfb9407ff-3730-47ce-62de-ec4ed946f1bc">Wskazać związek pomiędzy deficytem budżetowym a stopami procentowymi</para>
-      </item>
-      <item id="UUIDbbe5380e-d0d1-4c14-6c88-7bb3bcd8e1ea">
-        <para id="UUIDb746aa4f-0280-403c-4fbd-13d678fcb57d">Zrozumieć, dlaczego wzrost gospodarczy jest powiązany z inwestycjami w kapitał rzeczowy, kapitał ludzki i technologię</para>
+      <item id="UUIDe0dcea84-f33b-4dff-793a-03dba8c38bfa">
+        <para id="UUIDa4c35d6d-357b-4efb-4fd2-21c59a25f1f8">Zilustrować równoważność ricardiańską na wykresie</para>
       </item>
     </list>
-    <para id="fs-idm137234624">Głównym źródłem wzrostu gospodarczego są inwestycje w kapitał rzeczowy, kapitał ludzki i technologię, osadzone w środowisku gospodarczym, w którym ludzie i przedsiębiorstwa reagują na bodźce cenowe generowane przez efektywnie funkcjonujące rynki. Zadłużenie państwa może zmniejszyć kapitał finansowy dostępny dla prywatnych przedsiębiorstw chcących inwestować w kapitał rzeczowy. Z drugiej strony wydatki państwa mogą stymulować długookresowy wzrost gospodarczy poprzez zwiększenie nakładów na infrastrukturę, edukację lub na badania, co prowadzi do pojawienia się i rozwoju nowych technologii.</para>
-    <section id="fs-idm60602240">
-      <title id="UUID717f90e5-665c-43ff-52c4-874e991c919c">Efekt wypierania</title>
-      <para id="fs-idm85836912">Wyższy deficyt budżetowy zwiększa zapotrzebowanie państwa na kapitał finansowy. Jeśli prywatne oszczędności i bilans handlowy pozostają na niezmienionym poziomie, wówczas mniej kapitału finansowego będzie dostępne dla prywatnych podmiotów zainteresowanych wydatkami na kapitał rzeczowy. Kiedy pożyczki zaciągane przez państwo wykorzystują dostępny kapitał finansowy i zmniejszają jego zasób przeznaczony na finansowanie prywatnych inwestycji, mamy do czynienia z <term cmlnle:reference="wypieranie" id="UUID8f4ae06d-e15a-4700-636f-1f0723e896ed">wypieraniem</term> (<foreign xml:lang="en" id="UUIDa7940a50-04bf-459c-4434-ff22d5e3d47e"><term id="UUID9dae8757-e8db-4b8e-42d5-5c5afbf6fc83">crowding out</term></foreign>).</para>
-      <para id="UUIDb35bd1c8-1875-43d9-762b-a6bb23a490af">Aby lepiej zrozumieć efekt wypierania, przyjrzyjmy się gospodarce Stanów Zjednoczonych przed recesją, która rozpoczęła się pod koniec 2007 r. Na przykład w 2005 r. deficyt budżetowy w USA wynosił ok. 4% PKB. Prywatne inwestycje przedsiębiorstw oscylowały w ostatnich dziesięcioleciach w przedziale od 14% do 18% PKB. Jednak w każdym roku mniej więcej połowa amerykańskich inwestycji w kapitał rzeczowy miała charakter odtworzeniowy i służyła zastąpieniu maszyn i urządzeń, które się zużyły lub stały się technologicznie przestarzałe. Tylko mniej więcej połowa inwestycji skutkowała wzrostem ogólnej ilości kapitału rzeczowego w gospodarce. Inwestycje w nowy kapitał rzeczowy wynosiły zatem ok. 7–9% PKB. W takiej sytuacji nawet deficyt budżetowy rzędu 4% PKB może potencjalnie wyprzeć znaczną część nowych wydatków inwestycyjnych. I odwrotnie, mniejszy deficyt budżetowy lub wyższa nadwyżka budżetowa zwiększają pulę kapitału finansowego dostępnego dla inwestorów prywatnych.</para>
-      <note type="note" id="fs-idm88406992" class="economics linkup">
-        <para id="fs-idm129013104">Odwiedź poniższą <link url="http://openstax.org/l/debtclock" id="UUID4ada2f71-d630-4251-51d0-a32acfafaa2e">stronę internetową</link>, aby zobaczyć zegar długu publicznego w USA.</para>
-      </note>
-      <para id="fs-idp54503856"><link target-id="CNX_Econ_C31_003" id="UUID90c64209-91d7-4210-5ff4-54eeacc109ea" /> pokazuje wynik budżetu państwa i poziom inwestycji prywatnych w USA po roku 1980. Jeśli prawdą jest, że większy deficyt budżetowy powoduje spadek prywatnych inwestycji w kapitał rzeczowy, a mniejszy deficyt budżetowy lub większa nadwyżka budżetowa powodują wzrost takich inwestycji, obie krzywe na wykresie powinny zmieniać się mniej więcej w tym samym kierunku. Działo się tak pod koniec lat 90. XX w. i na początku XXI w. Saldo budżetu federalnego w Stanach Zjednoczonych przekształciło się z deficytu na poziomie 2,2% PKB w 1995 r. w nadwyżkę w wysokości 2,4% PKB w roku 2000, co oznacza poprawę o 4,6 punktu procentowego w relacji do PKB. W latach 1995–2000 prywatne inwestycje w kapitał rzeczowy wzrosły z 15% PKB do 18% PKB, czyli o 3 punkty procentowe. Kiedy ekspansywna polityka fiskalna rządu Stanów Zjednoczonych ponownie doprowadziła do deficytu budżetowego na początku XXI w., mniej kapitału finansowego było dostępne dla inwestycji prywatnych i ich stopa spadła w 2003 r. do ok. 15% PKB.</para>
-      <figure id="CNX_Econ_C31_003">
-        <title id="UUID64bc61e8-8325-4f18-78be-5fbea5a7db33">Saldo budżetu państwa i inwestycje prywatne w USA</title>
-        <media alt="Wykres pokazuje, że począwszy od roku 1980 w Stanach Zjednoczonych pożyczki zaciągane przez państwo i inwestycje prywatne były ze sobą często skorelowane. Oś pionowa przedstawia saldo budżetu państwa oraz stopę inwestycji prywatnych w USA (w relacji do PKB). Na osi poziomej zaznaczone są lata (od roku 1980 do 2020). Wykres sugeruje, że mniejsze zadłużenie państwa uwalniało czasami kapitał służący finansowaniu inwestycji prywatnych." id="fs-idm37246480">
-          <image src="../../media//CNX_Econv1-2_C31_04.svg" mime-type="image/svg+xml" id="UUID051f2ea9-2227-4439-6527-e8ee7050b687" />
-        </media>
-        <caption id="UUIDf9b2a636-5cf8-4db6-5e0f-5329e6dff60a">Związek między prywatnymi oszczędnościami a przepływami międzynarodowego kapitału odgrywa istotną rolę w kształtowaniu wyniku budżetu państwa. W rezultacie pożyczki zaciągane przez państwo i inwestycje prywatne mogą być ze sobą skorelowane. Na przykład w latach 90. XX w. spadek zadłużenia państwa zmniejszył skalę efektu wypierania, dzięki czemu więcej funduszy było dostępnych na finansowanie inwestycji prywatnych.</caption>
-      </figure>
-      <para id="fs-idm121119104">Deficyty budżetowe nie pochłaniają w całości krajowych inwestycji prywatnych, gdyż należy też uwzględnić prywatne oszczędności i napływ zagranicznych inwestycji finansowych. Na przykład w połowie lat 80. XX w. deficyt budżetowy Stanów Zjednoczonych znacznie wzrósł i nie towarzyszył mu spadek inwestycji prywatnych w tej samej skali. Prywatne inwestycje w środki trwałe (z wyłączeniem mieszkalnictwa) spadły z 1,94 bln dol. w 2008 r. do 1,64 bln dol. w roku 2009 głównie dlatego, że podczas recesji przedsiębiorstwom brakowało funduszy i motywacji do inwestowania. Według Biura Analiz Ekonomicznych wzrost inwestycji w latach 2009–2014 wyniósł średnio ok. 5,9% i osiągnął poziom 2,2 bln dol. – tylko nieznacznie powyżej wartości z 2008 r. W tym samym okresie stopy procentowe spadły z 3,94% do niecałych 0,25%, ponieważ Rezerwa Federalna podjęła dramatyczne działania zapobiegające recesji w postaci zwiększenia podaży pieniądza za pomocą obniżek krótkoterminowych stóp procentowych. Wydaje się, że wypieranie prywatnych inwestycji przez wydatki państwa nie występowało w czasie globalnego kryzysu finansowego. Jednak w miarę poprawy sytuacji gospodarczej i wzrostu stóp procentowych zadłużenie państwa może potencjalnie wywierać presję na stopy procentowe.</para>
+    <para id="fs-idp2522384">Zmiana salda budżetu państwa może wpłynąć na prywatne oszczędności. Wyobraź sobie, że ludzie obserwują stan finansów publicznych i odpowiednio dostosowują do niego swoje oszczędności. Na przykład ilekroć rząd ma deficyt budżetowy, ludzie mogą rozumować w ten sposób: „Cóż, wyższy deficyt budżetowy oznacza, że w przyszłości będę po prostu płacić większe podatki, aby spłacić zadłużenie państwa, więc zacznę oszczędzać już teraz”. Jeśli rząd osiąga nadwyżkę budżetową, ludzie mogą pomyśleć: „Przy nadwyżce budżetowej (lub niskim deficycie budżetowym) stopy procentowe spadają, więc oszczędzanie jest mniej atrakcyjne. Co więcej, kraj dysponujący nadwyżką budżetową będzie mógł w przyszłości pozwolić sobie na obniżkę podatków. Nie będę teraz zawracać sobie głowy oszczędzaniem”.</para>
+    <para id="UUIDf0140814-d944-4e25-571e-22434bafe1b2">Teoria, że racjonalnie działające gospodarstwa domowe mogą dostosowywać swoje oszczędności do sytuacji sektora publicznego (salda budżetu państwa), jest znana jako <term id="UUIDb0d33d21-48d4-4773-4c87-17ce2929523f">równoważność ricardiańska</term> <term cmlnle:reference="ekwiwalencja ricardiańska " id="UUID36e60fdd-7b2d-46ae-7545-43af02760e41">(ekwiwalencja)</term> (ang. <foreign xml:lang="en" id="UUIDfbeda1ef-825a-4bfd-743f-ad2d28fbc03f"><term id="UUID257a78d8-4255-4d11-40e8-42a47b4f479c">Ricardian equivalence</term></foreign>). Idea ta ma naukowe korzenie w pracach słynnego ekonomisty <term cxlxt:index="name" cmlnle:reference="David Ricardo" cxlxt:name="Ricardo, David" cxlxt:born="1772" cxlxt:died="1823" id="UUID62825b92-864a-495c-42a1-2b230f042770">Davida Ricardo</term> (1772–1823). Jeśli równoważność ricardiańska jest całkowicie prawdziwa, to w równaniu przedstawiającym tożsamość oszczędności i inwestycji każda zmiana salda budżetu państwa będzie całkowicie zrekompensowana odpowiednią zmianą oszczędności prywatnych. W rezultacie zmiany zadłużenia państwa nie będą miały żadnego wpływu ani na inwestycje w kapitał rzeczowy, ani na bilans handlowy.</para>
+    <para id="fs-idm40538912">W rzeczywistości sektor prywatny tylko czasami i jedynie częściowo dostosowuje swoje oszczędności do salda budżetu państwa. <link target-id="CNX_Econ_C31_006" id="UUID8aa3a14a-7f40-43a7-4e88-e2f7b413cd6f" /> pokazuje saldo budżetu USA oraz stopę prywatnych oszczędności (obejmującą zarówno gospodarstwa domowe, jak i przedsiębiorstwa) po roku 1980. Związek między tymi wielkościami nie jest wcale oczywisty. Na przykład w połowie lat 80. XX w. deficyt budżetu państwa był dość duży, ale nie nastąpił odpowiadający mu wzrost prywatnych oszczędności. Kiedy jednak pod koniec lat 90. XX w. pojawiła się nadwyżka budżetowa, nastąpił równoczesny spadek prywatnych oszczędności. Gdy deficyty budżetowe w latach 2008–2009 stały się bardzo duże, można było dostrzec pewne oznaki wzrostu oszczędności. Badania empiryczne obejmujące gospodarkę Stanów Zjednoczonych sugerują, że wzrostowi zadłużenia państwa o 1 dolara towarzyszy wzrost prywatnych oszczędności o ok. 30 centów. Podobne wnioski wynikają z analizy przeprowadzonej przez Bank Światowy pod koniec lat 90. XX w. na danych obejmujących budżety państwa i prywatne oszczędności w wielu krajach na całym świecie.</para>
+    <figure id="CNX_Econ_C31_006">
+      <title id="UUIDcb2cf0d1-2866-4e8b-78ed-594bec9fe81c">Deficyt budżetu państwa i prywatne oszczędności w Stanach Zjednoczonych</title>
+      <media alt="Wykres pokazuje, że zadłużenie państwa i inwestycje prywatne czasami zmieniają się w tym samym kierunku, ale bywa i tak, że związek pomiędzy nimi nie odzwierciedla równoważności ricardiańskiej. Na przykład w latach 1980–1984 deficyt budżetu państwa w USA spadł z 5% PKB do 2% PKB, a oszczędności prywatne brutto zmniejszyły się w tym samym okresie z 22% PKB do 20% PKB. W 2014 r. oszczędności prywatne brutto stanowiły ok. 20% PKB, zaś deficyt budżetowy zbliżył się do 3% PKB." id="fs-idm8341280">
+        <image src="../../media//CNX_Econv1-2_C31_07.svg" mime-type="image/svg+xml" id="UUID04747afc-7171-4e50-4843-5026151a4ca4" />
+      </media>
+      <caption id="UUID57ff20a7-4740-41b8-6651-295fe217180d">Ekwiwalencja ricardiańska sugeruje, że dodatkowe oszczędności prywatne równoważą każdy wzrost zadłużenia państwa, a spadek oszczędności prywatnych kompensuje spadek zadłużenia państwa. Okazuje się, że teoria ta tylko czasami jest prawdziwa. (Źródło: Bureau of Economic Analysis and Federal Reserve Economic Data).</caption>
+    </figure>
+    <para id="fs-idm31588800">Oszczędności prywatne do pewnego stopnia rosną, gdy państwo boryka się z wysokimi deficytami budżetowymi, a zmniejszają się, gdy deficyt maleje lub pojawia się nadwyżka budżetowa. Jednak prywatne oszczędności nie kompensują w pełni negatywnych skutków zadłużenia państwa. Ponadto efekty kompensacji mogą znacznie się różnić w zależności od kraju i okresu analizy.</para>
+    <para id="UUID734f911e-fe8e-48f6-44cb-9ac24d2859f1">Jeśli wzrost deficytu budżetowego jest finansowany przez międzynarodowych inwestorów finansowych, wówczas deficytowi budżetowemu może towarzyszyć deficyt handlowy. W niektórych krajach takie <term id="UUIDc7e6b92a-f373-463b-6578-0b8dd3aae95c">deficyty bliźniacze</term> (ang. <foreign xml:lang="en" id="UUID932a34df-11fe-4705-5b48-26b3e2a78d47"><term id="UUID70c7a6af-c8d3-4226-4158-72a6cbacab30">twin deficits</term></foreign>) doprowadziły do sytuacji, że międzynarodowi inwestorzy finansowi najpierw przekazywali pieniądze do innego kraju, powodując aprecjację jego waluty, a następnie wycofywali swoje fundusze, przyczyniając się do spadku jej wartości i kryzysu finansowego.</para>
+    <section id="fs-idm43579168" class="summary">
+      <title id="UUID7701f980-8843-42aa-6811-6b81d8e02f3c">Podsumowanie</title>
+      <para id="fs-idm26670336">Zgodnie z równoważnością (ekwiwalencją) ricardiańską zmiany prywatnych oszczędności równoważą zmiany zadłużenia państwa. A zatem większe oszczędności prywatne skompensują wyższe deficyty budżetowe, a nadwyżkom budżetowym będą towarzyszyć mniejsze oszczędności prywatne. Jeśli teoria ta jest prawdziwa, to zmiany w poziomie zadłużenia państwa nie powinny mieć wpływu na prywatne inwestycje w kapitał rzeczowy ani na bilans handlowy. Dowody empiryczne sugerują jednak, że ta teoretyczna koncepcja prawdziwa jest tylko częściowo.</para>
     </section>
-    <section id="fs-idm156091488">
-      <title id="UUID92f01485-9768-4ed1-7919-ab222a0d937b">Kanał stopy procentowej</title>
-      <para id="fs-idm88451552">Załóżmy, że wzrost zadłużenia państwa oddziałuje na wolumen inwestycji prywatnych. Jak wpłynie to na stopy procentowe na rynkach finansowych? Na <link target-id="CNX_Econ_C31_004" cmlnle:case="locative" id="UUIDb36a0d1e-f16c-4485-7658-bc235dcee1ab" /> równowaga początkowa (E<sub>0</sub>), w której krzywa popytu (D0) na kapitał finansowy przecina się z krzywą podaży (S<sub>0</sub>), występuje przy stopie procentowej 5% i ilości kapitału finansowego odpowiadającej 20% PKB. Jednak wraz ze wzrostem deficytu budżetowego krzywa popytu na kapitał finansowy przesuwa się z położenia D<sub>0</sub> do D<sub>1</sub>. Nowa równowaga (E<sub>1</sub>) występuje przy stopie procentowej równiej 6% i ilości kapitału finansowego odpowiadającej już 21% PKB.</para>
-      <figure id="CNX_Econ_C31_004">
-        <title id="UUID5ef8bb1c-f263-408c-4bd9-44cd3ed7a257">Deficyt budżetowy a stopy procentowe</title>
-        <media alt="Wykres przedstawia dwie krzywe popytu na kapitał finansowy o nachyleniu ujemnym i krzywą podaży kapitału finansowego o nachyleniu dodatnim. Na osi pionowej została odłożona cena kapitału finansowego, czyli stopa procentowa, a na osi poziomej – ilość kapitału finansowego (w relacji do PKB). Wzrost zadłużenia państwa zwiększa wielkość zapotrzebowania na kapitał finansowy przy każdym poziomie stóp procentowych, co na wykresie ilustruje przesunięcie krzywej popytu na kapitał finansowy w prawo, z położenia D0 do D1. W efekcie stopa procentowa równoważąca rynek rośnie." id="fs-idm11645456">
-          <image src="../../media//CNX_Econ_C31_004.svg" mime-type="image/svg+xml" id="UUID2960a983-1815-4476-7689-7733c2de7c18" />
-        </media>
-        <caption id="UUIDb93f3df5-0b9d-4966-4577-b72ea9dfbf04">Na rynku finansowym wzrost zadłużenia państwa przesuwa krzywą popytu na kapitał finansowy w prawo, z położenia D<sub>0</sub> do D<sub>1</sub>. Punkt równowagi przesuwa się z E<sub>0</sub> do E<sub>1</sub>, a stopa procentowa wzrasta z 5% do 6%. Wyższa stopa procentowa jest jednym z kanałów oddziaływania, za pomocą którego wydatki państwa wypierają prywatne inwestycje.</caption>
-      </figure>
-      <para id="UUID21f0860c-dfb9-4898-6dbd-5bdbeb048c21">Badania empiryczne dotyczące zależności między zadłużeniem państwa a stopami procentowymi w Stanach Zjednoczonych sugerują, że wzrost deficytu budżetowego o 1 punkt procentowy w relacji do PKB prowadzi do wzrostu stóp procentowych o 0,5–1,0 punktu procentowego, przy pozostałych czynnikach niezmienionych. Z kolei wyższa stopa procentowa zwykle zniechęca przedsiębiorstwa do dokonywania inwestycji w kapitał rzeczowy. Jednym z powodów, dla których deficyt budżetu państwa wypiera inwestycje prywatne, jest wzrost stóp procentowych. Istnieją jednak badania empiryczne, które wskazują na ograniczony związek między tymi zmiennymi (przynajmniej w Stanach Zjednoczonych), ale i tak wraz ze wzrostem deficytu budżetowego niebezpieczeństwo związane z podwyżką stóp procentowych staje się bardziej realne.</para>
-      <para id="fs-idp11376992">W tym momencie możesz zastanawiać się nad potencjalnymi działaniami amerykańskiego banku centralnego. Czy Bank Rezerwy Federalnej może zastosować ekspansywną politykę pieniężną w celu obniżenia stóp procentowych lub – jak w tym przypadku – zapobieżenia wzrostowi stóp procentowych? To interesujące pytanie podkreśla znaczenie współzależności polityki pieniężnej i fiskalnej. Wyobraź sobie, że rząd prowadzi politykę wysokiego deficytu budżetowego (ekspansywną politykę fiskalną), co powoduje wzrost stóp procentowych i wypieranie prywatnych inwestycji. Jeżeli deficyt budżetowy zwiększa popyt globalny w sytuacji, gdy gospodarka jest już blisko potencjalnego PKB, co wywołuje zagrożenie inflacją, bank centralny może zareagować i wprowadzić restrykcyjny wariant polityki monetarnej. W tej sytuacji podwyżka stóp procentowych na skutek wzrostu zadłużenia państwa będzie wzmocniona przez restrykcyjną politykę pieniężną i w efekcie wydatki publiczne mogą wyprzeć znaczną część inwestycji prywatnych.</para>
-      <para id="fs-idp68848576">Jeżeli natomiast deficyt budżetowy zwiększa popyt globalny, gdy gospodarka wytwarza znacznie poniżej poziomu potencjalnego PKB, zagrożenie inflacją nie jest duże, więc bank centralny może zastosować ekspansywną politykę pieniężną. W takiej sytuacji wyższe stopy procentowe związane ze wzrostem zadłużenia państwa są w dużej mierze równoważone niższymi stopami procentowymi wynikającymi z ekspansywnej polityki pieniężnej, więc skala wypierania inwestycji prywatnych będzie niewielka.</para>
-      <para id="UUID5196b0bf-825b-4f3e-5a9e-53007433e53a">Jednak bank centralny, niezależnie od jego wpływu na to, co dzieje się w gospodarce, nie może zlekceważyć tożsamości oszczędności i inwestycji. Jeśli zadłużenie państwa rośnie, to albo muszą spaść prywatne inwestycje, albo wzrosnąć prywatne oszczędności lub deficyt handlowy. Prowadząc restrykcyjną lub ekspansywną politykę pieniężną, bank centralny może jedynie zwiększyć prawdopodobieństwo realizacji jednego z tych dwóch scenariuszy.</para>
-    </section>
-    <section id="fs-idp123876944">
-      <title id="UUIDd84e744b-2c0c-4b1f-4e38-2388407b2fba">Inwestycje publiczne w kapitał rzeczowy</title>
-      <para id="fs-idp28871440">Państwo może bezpośrednio inwestować w kapitał rzeczowy, co obejmuje m.in. drogi i mosty, zaopatrzenie w wodę i kanalizację, porty morskie i lotnicze, szkoły i szpitale, elektrownie (w tym elektrownie wodne i farmy wiatrowe), urządzenia telekomunikacyjne i zbrojenia. W 2014 r. Stany Zjednoczone z budżetu federalnego wydały ok. 92 mld dol. na transport, w tym autostrady, transport zbiorowy i lotniska. <link target-id="Table_31_01" id="UUID1acae71a-c19b-483f-6ef6-08dd4f835e70" /> pokazuje wydatki amerykańskiego rządu federalnego w 2014 r. na główne publiczne inwestycje w kapitał rzeczowy. W tabeli pominięte zostały inwestycje związane ze zbrojeniami oraz mieszkalnictwem, ponieważ koncentrujemy się na inwestycjach publicznych, które mają bezpośredni wpływ na dynamikę wzrostu produkcji w sektorze prywatnym.</para>
-      <table summary="The table shows the type of public physical capital in column 1 and the 2011 federal outlays in billions of dollars in column 2. Transportation = $59,920; community and regional development = 0,544; natural resources and the environment = $6,741; education, training, employment, and social services = $71; other = $8,427; total = $85,703." id="Table_31_01"><title id="UUIDd24c0979-bc14-4712-717f-2b81dbdb0205">Wydatki na inwestycje w kapitał rzeczowy w Stanach Zjednoczonych w 2014 r.</title><tgroup cols="2" id="UUIDc6f873e0-d29a-4dc2-5a8f-2747d443626f"><colspec colnum="1" colname="col1" id="UUID7eb53d76-4995-4a6d-64cf-264eb6209faf" /><colspec colnum="2" colname="col2" id="UUIDecbeae08-b5d1-42d6-7bae-e143046fab38" /><thead id="UUID97317779-3ea7-494c-4eaf-963805e9ad85"><row id="UUID72dcb089-c8a9-4e72-4bf0-30343201588b"><entry id="UUIDbfe7c59e-6a3c-4aa0-64f3-b62e25816a7f">Wyszczególnienie</entry><entry id="UUID1762e985-a8ff-435f-7c6a-04019489b2cd">Nakłady rządu federalnego w 2014 r. (mln dol.)</entry></row></thead><tbody id="UUID1489e5fe-8f56-4e58-696b-40bbe598d69f"><row id="UUID602c8517-37d4-4879-6563-aa8b9c64ef16"><entry id="UUIDf65a830c-b7fd-478f-44f9-ff134d9fd614">Transport</entry><entry id="UUIDae35f4c0-96fa-4373-6d09-4cb234ef5781">91 915</entry></row><row id="UUIDc5273a7f-df75-4c6a-790d-c0bfab5b3fc3"><entry id="UUIDbffa4cf1-7582-44ed-5bb8-5216c8ac58bc">Rozwój regionalny</entry><entry id="UUID36abc57d-a840-4d48-7e51-90aef0ff9423">20 670</entry></row><row id="UUID2113fb34-76fa-47ea-539e-7727c30e5bf2"><entry id="UUID6101bfbd-4e63-48bb-70f1-dc1d107f0f19">Zasoby naturalne i środowisko</entry><entry id="UUID8b2691cf-29a8-4824-7551-7f7cbf4f1dcf">36 171</entry></row><row id="UUIDdb58b48b-1707-4dbf-7e37-88b085049c10"><entry id="UUIDa2e73c34-83b6-452d-5f3c-691dd0a0170c">Edukacja, szkolenia, zatrudnienie i usługi społeczne</entry><entry id="UUID0c0d92d5-947b-43f4-7c51-1eb68d320d15">90 615</entry></row><row id="UUID058b7a00-63ae-40e0-4375-d834746ecd82"><entry id="UUID8635e7f6-020f-4838-7958-e946230686c0">Inne</entry><entry id="UUID3d5a46a5-d010-449c-4b5c-0a02525d4283">37 282</entry></row><row id="UUIDb7548cc0-6fe9-4448-6f56-0412743d2489"><entry id="UUID786b76c3-4f85-4503-6b25-30bcac80a169">Ogółem</entry><entry id="UUID272b6eef-e7cb-4635-5f6e-8005e2875066">276 653</entry></row></tbody></tgroup></table>
-      <para id="fs-idm9811072">Tego rodzaju publiczne inwestycje w kapitał rzeczowy mogą zwiększyć produkcję i wydajność gospodarki. Gospodarka z dobrą siecią dróg oraz stabilnymi dostawami energii elektrycznej będzie w stanie wytworzyć więcej. Trudno jednak oszacować, jakie będą dokładne korzyści gospodarcze z inwestycji publicznych w kapitał rzeczowy, ponieważ rząd reaguje zarówno na bodźce polityczne, jak i ekonomiczne. Gdy przedsiębiorstwo inwestuje w kapitał rzeczowy, podlega dyscyplinie rynkowej: jeśli nie uzyska odpowiedniej stopy zwrotu z inwestycji, może stracić pieniądze, a nawet zbankrutować.</para>
-      <para id="UUIDc69d2adf-5494-45a4-54e0-3f747c1c5f7e">W niektórych przypadkach inwestycje w kapitał rzeczowy są sposobem wydawania pieniędzy w okręgach o istotnym znaczeniu dla polityków (w amerykańskim slangu politycznym takie działania noszą nazwę „<term id="UUIDe9e06ca9-a709-405d-665e-1a59388e14e5">prawa o beczce wieprzowiny</term>” [ang. <foreign xml:lang="en" id="UUID20bee707-260a-48b5-48ee-26291569c6e1"><term id="UUIDb39d0d17-16c0-4fbc-493c-6e828ccf9a1c">pork barell legislation</term></foreign>]). Efektem mogą być niepotrzebne drogi lub biurowce. Nawet jeśli projekt jest pożyteczny i potrzebny, może być zrealizowany w sposób nadmiernie kosztowny, ponieważ lokalni kontrahenci, którzy wspierają polityków w czasie kampanii wyborczej i asygnują na ten cel pokaźne fundusze, oczekują później wyższego wynagrodzenia za świadczone przez siebie usługi. Czasami sytuacja jest odwrotna i rząd federalny lub władze lokalne nie dokonują niezbędnych inwestycji, ponieważ decyzja o wydatkach na infrastrukturę jest podejmowana na podstawie nie tylko ekonomicznych, lecz również politycznych przesłanek (musi przynosić korzyści mierzone np. wzrostem poparcia). Zarządzanie inwestycjami publicznymi w sposób efektywny kosztowo może być trudne.</para>
-      <para id="fs-idm71992624">Jeśli rząd finansuje inwestycje w kapitał rzeczowy za pomocą wyższych podatków lub niższych wydatków publicznych w innych obszarach, nie musi się martwić o bezpośrednie wypieranie inwestycji prywatnych. Pośrednio jednak wyższe podatki od gospodarstw domowych mogą obniżyć poziom dostępnych oszczędności prywatnych i w efekcie mieć podobny skutek. Jeśli rząd finansuje inwestycje w kapitał rzeczowy za pomocą długu, może to się odbywać kosztem wypierania prywatnych inwestycji w kapitał rzeczowy, co jest niekorzystne dla gospodarki.</para>
-    </section>
-    <section id="fs-idp195308896">
-      <title id="UUID5ee0bdbb-a57a-49f9-4d68-ed09982777f2">Inwestycje publiczne w kapitał ludzki</title>
-      <para id="fs-idp111470736">W większości krajów rząd odgrywa kluczową rolę w inwestycjach społeczeństwa w kapitał ludzki poprzez system publicznej edukacji. Wysoko wykształcona i wykwalifikowana siła robocza jest ważnym źródłem szybkiego tempa wzrostu gospodarczego. W krajach niżej rozwiniętych dodatkowe inwestycje w kapitał ludzki prawdopodobnie zwiększają produktywność i przyspieszają dynamikę wzrostu gospodarczego. W przypadku Stanów Zjednoczonych krytycy zastanawiają się, o ile jeszcze nakłady państwa na edukację muszą się zwiększyć, aby faktyczny poziom edukacji uległ poprawie.</para>
-      <para id="UUID6e291360-5f9c-4f70-47a0-3270dbc4a71a">Wśród ekonomistów dyskusje na temat reformy edukacji często zaczynają się od niewygodnych faktów. Jak pokazuje <link target-id="CNX_Econ_C31_011" id="UUID83e3bd6d-49a9-4462-7bcd-b8965f347dec" />, w Stanach Zjednoczonych wydatki na ucznia od przedszkola do ukończenia średniego szczebla edukacji zanotowały znaczny realny wzrost w okresie 1998–2010. Zgodnie z danymi US Census Bureau bieżące wydatki na ucznia w szkole podstawowej i średniej wzrosły z 5001 dol. w 1998 r. do 10 608 dol. w roku 2012. Jednak jak zmierzono za pomocą standardowych testów takich jak SAT, poziom osiągnięć akademickich uczniów w ostatnich dekadach niemal nie drgnął. W testach międzynarodowych uczniowie z USA pozostają w tyle za młodymi ludźmi z wielu innych krajów. (Oczywiście wyniki testów są niedoskonałą miarą poziomu wykształcenia z różnych powodów. Trudno byłoby jednak argumentować, że w amerykańskim systemie edukacji nie ma żadnych problemów, a testy są po prostu niedokładne lub w niewłaściwy sposób mierzą wiedzę i umiejętności akurat amerykańskich uczniów).</para>
-      <figure id="CNX_Econ_C31_011">
-        <title id="UUID6bedb2c7-5637-4c2d-7e7f-7b681ac72899">Łączne wydatki na szkolnictwo podstawowe, średnie i zawodowe w USA w latach 1998–2020</title>
-        <media alt="Wykres liniowy pokazuje, że wydatki państwa na edukację niemal nieustannie rosły w okresie od roku 1998 aż do 2020." id="fs-idp143131696">
-          <image src="../../media//CNX_Econv1-2_C31_06.svg" mime-type="image/svg+xml" id="UUID898fdec5-3883-46b8-7f5d-1576f80d3c3b" />
-        </media>
-        <caption id="UUIDc41e6954-81a6-4e55-47bd-8edfb8aadf50">Wykres pokazuje, że w analizowanym okresie wydatki państwa na edukację stale rosły aż do 2020 r. (z wyłączeniem okresu 2010–2012). (Źródło: Office of Management and Budget).</caption>
-      </figure>
-      <para id="fs-idp7053536">Fakt, że zwiększone środki finansowe nie przyniosły wyraźnych wymiernych korzyści w wynikach studentów, skłonił niektórych ekspertów ds. edukacji do przemyśleń, czy problemy nie wynikają aby ze struktury szkolnictwa, a nie tylko z wielkości przeznaczanych na nie środków.</para>
-      <para id="UUID89231b0a-4af2-4180-62bf-0c4c64377258">Nie wszystkie wydatki na akumulację kapitału ludzkiego muszą być dokonywane przez państwo: wielu uczniów i studentów w Stanach Zjednoczonych pokrywa znaczną część kosztów swojej edukacji. Dla USA i innych krajów wysoko rozwiniętych główny nacisk kładziony jest obecnie na to, jak uzyskać większy zwrot z wydatków na edukację i poprawić wyniki przeciętnego absolwenta szkoły średniej, a nie na to, jak zwiększyć wydatki na tę dziedzinę.</para>
-    </section>
-    <section id="fs-idm39531648">
-      <title id="UUIDe93ad3c1-8b12-4e9a-4f51-80cc2b5518de">Jak polityka fiskalna może przyspieszyć postęp techniczny?</title>
-      <para id="fs-idm10520336">Prace badawczo-rozwojowe (B+R) są siłą napędową powstawania i rozwoju nowych technologii. Według National Science Foundation federalne nakłady na badania i rozwój w Stanach Zjednoczonych kształtowały się na poziomie średnio 8,8% PKB. Około jednej piątej amerykańskich wydatków na B+R przeznacza się na badania związane z obronnością i przestrzenią kosmiczną. Chociaż wydatki na badania i rozwój ukierunkowane na obronę narodową mogą czasem prowadzić do powstania innowacji przynoszących korzyść konsumentom, prace badawczo-rozwojowe zorientowane na produkcję nowej broni mają mniejsze szanse na przyniesienie korzyści gospodarce cywilnej niż bezpośrednie wydatki cywilne na badania i rozwój.</para>
-      <para id="UUID60b06248-c9a5-42ed-7316-176cc8583777">Polityka fiskalna może zachęcać do podejmowania prac badawczo-rozwojowych za pomocą bezpośredniego stymulowania wydatków lub poprzez ulgi podatkowe. Rząd może wydawać więcej pieniędzy na prace badawczo-rozwojowe prowadzone w swoich laboratoriach, a także rozszerzyć federalne dotacje na badania i rozwój przeznaczone dla uczelni wyższych, organizacji non profit i sektora prywatnego. Według danych National Science Foundation w 2014 r. fundusze federalne w Stanach Zjednoczonych były źródłem 135,5 mld dol. skierowanych na prace badawczo-rozwojowe, co stanowiło ok. 4% całkowitych wydatków budżetowych rządu federalnego. Polityka fiskalna może również wspierać badania i rozwój poprzez odpowiednie ulgi podatkowe, które umożliwiają przedsiębiorstwom płacenie niższych podatków w miarę zwiększania wydatków na sferę B+R.</para>
-    </section>
-    <section id="fs-idp103617904">
-      <title id="UUID6d49af20-1686-4889-641c-6e675abe99ca">Polityka fiskalna, inwestycje i wzrost gospodarczy: podsumowanie</title>
-      <para id="fs-idp158568368">Inwestycje w kapitał rzeczowy, kapitał ludzki i nowe technologie są niezbędne dla długookresowego wzrostu gospodarczego, co pokazuje <link target-id="Table_31_02" id="UUID40fcafe3-599a-4ae7-785d-e2426754b86b" />. W gospodarce rynkowej przedsiębiorstwa prywatne realizują większość inwestycji w kapitał rzeczowy, a polityka fiskalna powinna być ukierunkowana na równoważenie salda budżetu w długim okresie (co jednak nie oznacza, że równowaga ma być koniecznie osiągana w każdym roku obrachunkowym!), by minimalizować ryzyko wypierania inwestycji sektora prywatnego. Efekty wielu działań prorozwojowych urzeczywistniają się stopniowo. W miarę jak społeczeństwo jest lepiej wykształcone, więcej inwestuje w kapitał rzeczowy oraz opracowuje i wdraża nowe technologie.</para>
-      <table summary="The table shows how the private and public sectors invest in physical capital, human capital and new technology. The table shows the following for private sector investments: physical capital = new investment in property and equipment; human capital = on-the-job training; new technology = research and development. The table shows the following for public sector investments: physical capital = public infrastructure; human capital = public education and job training; new technology = research and development encouraged through private sector incentives and direct spending." id="Table_31_02"><title id="UUID3a65df00-64d7-4acf-5597-a676e2d63737">Inwestycyjna rola sektora publicznego i prywatnego w gospodarce rynkowej</title><tgroup cols="4" id="UUIDd2cfc3bc-a281-4872-7ef4-45664165cf15"><colspec colnum="1" colname="col1" id="UUID92441bc5-e348-423c-7e03-d081205bd572" /><colspec colnum="2" colname="col2" id="UUID27c586c9-169d-4a56-4530-42b5d90b8064" /><colspec colnum="3" colname="col3" id="UUIDb30122bd-bb27-4525-619e-9bd209b8ac03" /><colspec colnum="4" colname="col4" id="UUID96018b43-8fbf-484e-55c9-96341e4fc249" /><thead id="UUIDdc79dc4e-d2c7-425a-58f1-fcc9775205b4"><row id="UUID7f913b43-7a91-417e-7e4d-f859e399ac79"><entry id="UUID31777fdf-9b03-4400-648d-68d44744d5bb" /><entry id="UUID96583043-5c45-47bc-468c-90bf184626e4">Kapitał rzeczowy</entry><entry id="UUID91125158-89bb-442f-47de-ef28df457cf9">Kapitał ludzki</entry><entry id="UUID691e099b-05a2-46ce-7a19-b367afeb5f48">Nowe technologie</entry></row></thead><tbody id="UUIDca9d4fae-de95-47c4-5c6a-fa8740952231"><row id="UUID59226ec8-42c5-4746-7caf-b3959734fe96"><entry id="UUID1209a78e-ea1c-4ecb-5d7b-1f93b90735d5"><emphasis effect="bold">Sektor prywatny</emphasis></entry><entry id="UUIDc3165c94-2c53-44bb-4939-bbff744fc4d2">Nowe inwestycje w nieruchomości oraz maszyny i urządzenia</entry><entry id="UUID37eb6f9f-5144-48d6-61f2-8eb832c5cb43">Szkolenia pracownicze</entry><entry id="UUIDb4d8a8a4-78a6-4afb-4c4f-5a3ba3196143">Prowadzenie prac badawczo-rozwojowych</entry></row><row id="UUIDb75d6259-baf7-4c5c-4c07-56af5892ca91"><entry id="UUID36252eb6-baa9-40f5-5b60-72c14233277f"><emphasis effect="bold">Sektor publiczny</emphasis></entry><entry id="UUIDffcbb1e6-7130-493d-5498-4dab17c93345"> Infrastruktura publiczna</entry><entry id="UUID22f9ca09-30f2-4e03-4612-f10da1c6876d">Edukacja publiczna, szkolenia zawodowe</entry><entry id="UUID44c8ee7e-6159-4394-7444-57f0f0d3aa7b">Wspieranie badań i rozwoju poprzez zachęty dla sektora prywatnego i bezpośrednie wydatki na B+R</entry></row></tbody></tgroup><caption id="UUIDe22d63f2-6308-43a7-7f52-946d34cd082b" /></table>
-      <note type="note" id="eip-148" class="bringhome economics">
-        <title id="UUID4490461b-821a-47c2-77a1-1bb826ee097a">Finansowanie szkolnictwa wyższego</title>
-        <para id="fs-idm158867232">W latach 1982–2012 wzrost kosztów edukacji uniwersyteckiej znacznie przewyższył wzrost dochodów typowej amerykańskiej rodziny. Według zespołu badawczego prezydenta Obamy koszt czteroletniej edukacji na publicznym uniwersytecie (co odpowiada mniej więcej polskiemu licencjatowi) w ciągu ostatnich 30 lat wzrósł o 257%, gdy tymczasem dochody przeciętnego gospodarstwa domowego zwiększyły się o zaledwie 16%. Tocząca się debata na temat zrównoważonego budżetu i proponowanych cięć uwydatniła potrzebę zwiększenia inwestycji w kapitał ludzki dla rozwoju gospodarki w porównaniu z pogłębianiem i tak już znacznego poziomu zadłużenia rządu USA. Latem 2013 r. prezydent Obama przedstawił plan zwiększenia dostępności cenowej szkolnictwa wyższego, obejmujący zwiększenie wysokości grantów Pell Grant i liczby ich beneficjentów, nałożenie górnych limitów na oprocentowanie kredytów studenckich oraz zapewnienie ulg podatkowych na edukację. Ponadto plan wprowadza nowy system sprawozdawczości dla instytucji edukacyjnych, koncentrujący się na efektywności wydatków (np. poprzez pomiar liczby osób, które zdobyły tytuł licencjata w porównaniu z liczbą studentów rozpoczynających edukację). To, czy wszystkie te inicjatywy przyniosą skutek, dopiero się okaże, ale wskazują one na kreatywne podejście, które rząd może przyjąć, aby wypełnić swoje zobowiązania zarówno z perspektywy polityki publicznej, jak i fiskalnej.</para>
-      </note>
-    </section>
-    <section id="fs-idp4731552" class="summary">
-      <title id="UUIDba9b62ab-ea1a-40ba-5508-a8e3cbb762ff">Podsumowanie</title>
-      <para id="fs-idp5295888">Wzrost gospodarczy wynika z inwestycji w kapitał rzeczowy, kapitał ludzki i z postępu technicznego. Wydatki publiczne mogą wypierać inwestycje sektora prywatnego w kapitał rzeczowy, ale polityka fiskalna może również zwiększyć inwestycje w kapitał rzeczowy będący własnością publiczną, w kapitał ludzki (edukację) oraz na badania i rozwój. Możliwe metody poprawy poziomu wykształcenia społeczeństwa i zwiększenia akumulacji kapitału ludzkiego obejmują wyższe wydatki na płace dla nauczycieli i na inne potrzeby edukacyjne oraz reorganizację systemu edukacji, aby zwiększyć zachęty do efektywnego gospodarowania środkami. Stymulowanie prac badawczo-rozwojowych w celu przyspieszenia postępu technicznego może nastąpić w wyniku bezpośrednich wydatków państwa na badania i rozwój lub wprowadzenia ulg podatkowych dla przedsiębiorstw realizujących prace w obszarze B+R.</para>
-    </section>
-    <section id="fs-idp4902208" class="self-check-questions">
-      <title id="UUIDdd67c5e1-6b37-47e2-45a4-db179c0bb6c7">Pytania sprawdzające</title>
-      <exercise id="fs-idm95381552">
-        <problem id="fs-idm27188896">
-          <para id="fs-idm88418176">Dlaczego wielu ekspertów ds. edukacji twierdzi, że dla amerykańskiego szkolnictwa lepsza jest zmiana systemu bodźców, a nie wzrost nakładów finansowych? Nie decydując, które rozwiązanie jest lepsze, wymień przykładowe sposoby zmiany systemu bodźców.</para>
+    <section id="fs-idp47248784" class="self-check-questions">
+      <title id="UUID88247b22-13ab-4a7e-5d96-f6d1db45c720">Pytania sprawdzające</title>
+      <exercise id="fs-idp4519024">
+        <problem id="fs-idp163673424">
+          <para id="fs-idp74945680">Wyobraźmy sobie gospodarkę, w której obowiązuje równoważność ricardiańska. W gospodarce tej deficyt budżetowy wynosi 50, deficyt handlowy jest równy 20, prywatne oszczędności wynoszą 130, a inwestycje 100. Jeśli deficyt budżetowy zwiększy się do 70, jak wpłynie to na inne składniki występujące w równaniu przedstawiającym tożsamość oszczędności i inwestycji?</para>
         </problem>
-        <solution id="fs-idm28241888">
-          <para id="fs-idm174243072">Mimo że w ciągu ostatnich kilku dekad nakłady finansowe w przeliczeniu na jednego ucznia znacznie wzrosły, w tym samym czasie wyniki testów się pogorszyły. Skłoniło to wielu ekspertów do twierdzenia, że problemem nie są zasoby (a przynajmniej nie tylko zasoby), lecz sposób organizacji i zarządzania szkołami oraz motywacja zarówno uczniów, jak i nauczycieli. Istnieje wiele propozycji zmiany systemu bodźców, ale stosunkowo mało jest twardych dowodów na to, które propozycje ostatecznie się sprawdzą. Nie próbując oceniać, czy te propozycje są dobre, czy złe, po prostu wymieńmy niektóre z nich. A są to: regularne testowanie uczniów, nagradzanie nauczycieli lub szkół, które dobrze wypadły w takich testach, dodatkowe szkolenia dla nauczycieli, umożliwienie uczniom wyboru szkoły publicznej, umożliwienie nauczycielom i rodzicom otwierania nowych szkół, wręczanie uczniom bonów edukacyjnych, które mogą być wykorzystane na opłacenie czesnego w szkołach publicznych lub prywatnych.</para>
-        </solution>
-      </exercise>
-      <exercise id="fs-idp20601984">
-        <problem id="fs-idp72152208">
-          <para id="fs-idp44448896">Jakie kroki może podjąć rząd, aby zachęcić przedsiębiorstwa do prac badawczo-rozwojowych?</para>
-        </problem>
-        <solution id="fs-idm27142848">
-          <para id="fs-idm74231184">Rząd może finansować badania i rozwój za pomocą środków publicznych. Może również wprowadzić ulgi podatkowe dla przedsiębiorstw realizujących prace badawczo-rozwojowe.</para>
+        <solution id="fs-idp78708720">
+          <para id="fs-idp10097952">Równoważność ricardiańska oznacza, że prywatne oszczędności zmieniają się dokładnie w taki sposób, aby skompensować wszelkie zmiany salda budżetu państwa. Jeśli zatem deficyt budżetowy rośnie o 20, oszczędności prywatne również rosną o 20, a deficyt handlowy się nie zmienia. Równanie przedstawiające tożsamość oszczędności i inwestycji w sytuacji początkowej (przed wzrostem deficytu budżetowego) jest zapisane poniżej. Zauważ, że jeśli jakakolwiek zmiana składnika (G - T) jest równoważona zmianą S, to pozostałe składniki tego równania nie ulegają zmianie. Jeśli zatem (G - T) wzrośnie o 20, to S również musi wzrosnąć o 20.</para>
+          <equation id="fs-idp47306352" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>S + (Z − X)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I + (G − T)</mtext></mtd></mtr><mtr><mtd><mtext>130 + 20</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>100 + 50</mtext></mtd></mtr></mtable></math></equation>
         </solution>
       </exercise>
     </section>
-    <section id="fs-idm3143504" class="review-questions">
-      <title id="UUIDca22ba1b-7261-4c23-54ba-1b0c360c3efe">Sprawdź wiedzę</title>
-      <exercise id="fs-idp97868752">
-        <problem id="fs-idp80308144">
-          <para id="fs-idm17745952">W jaki sposób polityka fiskalna może stymulować wzrost gospodarczy?</para>
+    <section id="fs-idp87321392" class="review-questions">
+      <title id="UUID7d51ea49-8b38-482e-7d18-b190ec06bede">Sprawdź wiedzę</title>
+      <exercise id="fs-idp50592">
+        <problem id="fs-idm54206576">
+          <para id="fs-idm49239936">Czym jest równoważność ricardiańska?</para>
         </problem>
       </exercise>
-      <exercise id="fs-idm63546272">
-        <problem id="fs-idm55447568">
-          <para id="fs-idp100930224">Wymień przykłady działań z zakresu polityki fiskalnej mających na celu zwiększenie akumulacji kapitału ludzkiego w społeczeństwie.</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idp542528">
-        <problem id="fs-idm42085904">
-          <para id="fs-idm3117472">Wymień przykłady działań z zakresu polityki fiskalnej mających na celu ulepszenie technologii, z których gospodarka będzie korzystała w przyszłości.</para>
+      <exercise id="fs-idp75346592">
+        <problem id="fs-idp86285440">
+          <para id="fs-idm22875136">Co wspólnego mają równoważność ricardiańska i koncepcja racjonalności podmiotów ekonomicznych?</para>
         </problem>
       </exercise>
     </section>
-    <section id="fs-idp31010736" class="critical-thinking">
-      <title id="UUID34f3613a-e08f-41a2-44c2-f6a9ead4ed06">Ćwicz myślenie krytyczne</title>
-      <exercise id="fs-idp61566432">
-        <problem id="fs-idm58212480">
-          <para id="fs-idp85466528">Wyjaśnij, dlaczego rząd może preferować zachęty inwestycyjne w obszarze B+R kierowane do prywatnych przedsiębiorstw, zamiast wydawać środki publiczne bezpośrednio na te cele.</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idp20908528">
-        <problem id="fs-idp1684208">
-          <para id="fs-idm11878048">W jakich warunkach wypieranie nie hamuje długookresowego wzrostu gospodarczego? W jakich warunkach wypieranie spowalnia długookresowy wzrost gospodarczy?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idp112326432">
-        <problem id="fs-idm72197712">
-          <para id="fs-idm12789408">Co musi się stać, aby państwo mogło prowadzić politykę deficytu budżetowego przy całkowitym braku zjawiska wypierania?</para>
+    <section id="fs-idm23959600" class="critical-thinking">
+      <title id="UUID09cfb36b-c223-4289-6f19-814f99387aae">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idm79837344">
+        <problem id="fs-idm19354656">
+          <para id="fs-idp23604080">Wyjaśnij, czy zgadzasz się z założeniem równoważności ricardiańskiej, zgodnie z którym racjonalni ludzie rozumują tak: „Cóż, wyższy deficyt budżetowy (nadwyżka budżetowa) oznacza, że w przyszłości będę po prostu płacił więcej (mniej) podatków na pokrycie zadłużenia państwa, więc już teraz zacznę oszczędzać (wydawać) pieniądze”. Uzasadnij swoją odpowiedź.</para>
         </problem>
       </exercise>
     </section>
-    <section id="fs-idm40720880" class="problems">
-      <title id="UUIDdd96c6ec-3198-4748-46bb-85719e9a9ab3">Problemy</title>
-      <exercise id="fs-idm50999024">
-        <problem id="fs-idm20898928">
-          <para id="fs-idp17717392">Podczas globalnego kryzysu finansowego niektórzy ekonomiści argumentowali, że stopy procentowe nie zmienią się w konsekwencji deficytu budżetowego, tak jak to jest standardowo prezentowane na wykresie popytu i podaży kapitału finansowego. Miało się tak stać ze względu na fakt, iż rząd zaczął inwestować, podczas gdy prywatne przedsiębiorstwa tego nie robiły. Korzystając z wykresu, wyjaśnij, w jaki sposób inwestycje publiczne równoważyły niedobór popytu.</para>
+    <section id="fs-idp117718544" class="problems">
+      <title id="UUID8d593661-8a62-4366-7b88-27b618c1d640">Problemy</title>
+      <exercise id="fs-idp23698304">
+        <problem id="fs-idp35506432">
+          <para id="fs-idp17326352">Zilustruj koncepcję ekwiwalencji ricardiańskiej za pomocą wykresu przedstawiającego popyt na kapitał finansowy i jego podaż.</para>
         </problem>
       </exercise>
-    </section>
-    <section id="fs-idm21180224" class="references">
-      <title id="UUID63570d9e-0102-454e-7494-32e2fd57e5aa">Bibliografia</title>
-      <para id="fs-idp58680624">U.S. Department of Commerce: Bureau of Economic Analysis. “National Data: National Income and Product Accounts Tables.” Accessed December 1, 2013. http://www.bea.gov/iTable/iTable.cfm?ReqID=9&amp;step=1#reqid=9&amp;step=3&amp;isuri=1&amp;910=X&amp;911=0&amp;903=146&amp;904=2008&amp;905=2013&amp;906=A.</para>
-      <para id="fs-idp68078864">Board of Governors of the Federal Reserve System, “Selected Interest Rates (Daily) – H.15.” Accessed December 10, 2013. http://www.federalreserve.gov/releases/h15/data.htm.</para>
-      <para id="fs-idp31091808">The White House. “Fiscal Year 2013 Historical Tables: Budget of the U.S. Government.” Accessed December 12, 2013. http://www.whitehouse.gov/sites/default/files/omb/budget/fy2013/assets/hist.pdf.</para>
-      <para id="fs-idp154622336">The National Science Foundation. Accessed December 19, 2013. http://www.nsf.gov/.</para>
     </section>
   </content>
+  <glossary id="UUID24c5a4ed-2495-48a8-51d4-2062fcd1bce2">
+    <definition id="fs-idm140396576">
+      <term id="UUIDdfc6b539-b983-422a-7d1a-336fc058a687">równoważność ricardiańska (ang. <foreign xml:lang="en" id="UUID28969014-706e-4a97-5127-a80e88eb6fea">Ricardian equivalence</foreign>)</term>
+      <meaning id="fs-idm93873072">
+        <para id="UUID4c619fb0-9709-4446-53cb-353249ad3802">teoria, zgodnie z którą racjonalne gospodarstwa domowe dostosowują swoje oszczędności do zmian poziomu zadłużenia państwa</para>
+      </meaning>
+    </definition>
+    <definition id="UUID205a06f7-f0d3-4451-7a16-b5592372e642">
+      <term id="UUID1e6d3318-a317-41cd-50c8-d21fa9dcb98c">ekwiwalencja ricardiańska</term>
+      <seealso id="UUID78e71463-f3a1-49c7-46ba-b00aaf621512">
+        <term id="UUIDcd0726f3-f10a-41bd-7989-4d60fce9eba7">równoważność ricardiańska</term>
+      </seealso>
+    </definition>
+    <definition id="fs-idm52983008">
+      <term id="UUID69f197f5-96d4-4607-76ac-2fc56d4fb1db">deficyty bliźniacze (ang. <foreign xml:lang="en" id="UUIDca2b35f9-202e-4c98-48a0-1b8e22589f4f">twin deficits</foreign>)</term>
+      <meaning id="fs-idp26876432">
+        <para id="UUID6c3ff47e-0f55-4a26-7941-01692fed023b">jednoczesne występowanie deficytu handlowego i deficytu budżetowego</para>
+      </meaning>
+    </definition>
+  </glossary>
 </document>

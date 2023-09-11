@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U34397686-38cc-46e9-82d9-69b2275ae01f" id="U34397686-38cc-46e9-82d9-69b2275ae01f" xml:lang="en" cnxml-version="0.7">
-  <title>13.1 How Government Borrowing Affects Investment and the Trade Balance</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U58428863-f2ad-40f7-84ba-12642620c5a2" id="U58428863-f2ad-40f7-84ba-12642620c5a2" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do tematu skutków zadłużenia państwa</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00069</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/34397686-38cc-46e9-82d9-69b2275ae01f</md:content-url>
-    <md:title>13.1 How Government Borrowing Affects Investment and the Trade Balance</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/58428863-f2ad-40f7-84ba-12642620c5a2</md:content-url>
+    <md:title>Wprowadzenie do tematu skutków zadłużenia państwa</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:05.368444999+00:00</md:version>
-    <md:created>2023-08-30T08:02:05.368444999+00:00</md:created>
-    <md:revised>2023-08-30T08:02:05.368444999+00:00</md:revised>
+    <md:version>2023-09-11T10:25:15.267307752+00:00</md:version>
+    <md:created>2023-09-11T10:25:15.267307752+00:00</md:created>
+    <md:revised>2023-09-11T10:25:15.267307752+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,141 +20,44 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>34397686-38cc-46e9-82d9-69b2275ae01f</md:uuid>
+    <md:uuid>58428863-f2ad-40f7-84ba-12642620c5a2</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
-    <list id="list-00001">
-      <item id="UUIDed270556-5dd6-486c-4b45-4195b226856f">
-        <para id="UUIDfa79cb02-1858-4c1b-6bcd-e1efca28690b">Zrozumieć implikacje tożsamości (równości) oszczędności i inwestycji dla strony popytowej i podażowej w gospodarce</para>
-      </item>
-      <item id="UUID52df308a-2ff9-45c1-7bf8-bee600a72209">
-        <para id="UUIDf0e9e177-4188-4e9c-71cf-3d2cd920a8e4">Ocenić, jaką funkcję pełnią nadwyżka budżetowa i nadwyżka w obrotach handlowych w równości pomiędzy inwestycjami i oszczędnościami</para>
-      </item>
-    </list>
-    <para id="fs-idp138613488">Kiedy państwo pożycza pieniądze na rynkach finansowych, z makroekonomicznego punktu widzenia istnieją trzy możliwe źródła pozyskiwania przez nie środków: (1) wzrost oszczędności gospodarstw domowych, (2) zmniejszenie wolumenu pożyczek zaciąganych przez przedsiębiorstwa prywatne oraz (3) zwiększenie ilości środków pochodzących z zagranicy, np. od zagranicznych inwestorów finansowych. Zaczniemy od wyjaśnienia, dlaczego przynajmniej jedna z tych trzech opcji musi wystąpić, a następnie zbadamy, w jaki sposób stopy procentowe i kursy walutowe dostosowują się do nowej sytuacji.</para>
-    <section id="fs-idm61406336">
-      <title id="UUID19d29e0f-9fa3-4b46-757b-860bf6817892">Tożsamość (równość) oszczędności i inwestycji</title>
-      <para id="fs-idm114632528">Tożsamość oszczędności i inwestycji, którą po raz pierwszy wprowadziliśmy w podrozdziale „Wprowadzenie do handlu międzynarodowego i przepływów kapitałowych” (<link document="m00023" id="UUID4a95911a-15d5-4691-6bcd-ad66df807416" />), stanowi podstawę do zrozumienia zależności między źródłami popytu i podaży na rynkach kapitału finansowego. Źródłem tożsamości jest konstatacja, która zawsze musi być prawdziwa: ilość kapitału finansowego oferowanego na rynku musi być równa ilości, na którą zgłaszane jest zapotrzebowanie.</para>
-      <para id="UUID363ca26c-7618-4964-61fe-c911044c902a">W gospodarce zamkniętej występują dwa główne źródła kapitału finansowego: prywatne oszczędności pochodzące z danego kraju oraz oszczędności publiczne.</para>
-      <equation id="fs-idm141711120" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Oszczędności całkowite = Oszczędności prywatne (S) + Oszczędności publiczne (T − G)</mtext></math></equation>
-      <para id="UUID651c388e-b60e-4443-6af2-74a67f0b90d2">W gospodarce otwartej istnieje jeszcze trzecie źródło oszczędności: napływ kapitału finansowego z zagranicy. Napływ oszczędności z zagranicy jest z definicji równy deficytowi handlowemu, jak wyjaśniliśmy w podrozdziale „Wprowadzenie do tematu kursów walutowych i międzynarodowych przepływów kapitałowych” (<link document="m00023" id="UUID2b3d09e1-def6-4b40-48d5-0455b4a4e294" />). Napływ zagranicznego kapitału inwestycyjnego możemy zapisać jako import (Z) minus eksport (X). Istnieją dwa główne źródła popytu na kapitał finansowy: inwestycje sektora prywatnego (I) oraz potrzeby pożyczkowe państwa. Pożyczki państwa w danym roku są równe deficytowi budżetowemu, który możemy zapisać jako różnicę między wydatkami państwa (G) a podatkami netto (T). Przedstawia to równanie (1):</para>
-      <equation id="fs-idm71460064" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>Oszczędności prywatne + Napływ oszczędności z zagranicy</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Inwestycje prywatne + Deficyt budżetu państwa</mtext></mtd></mtr><mtr><mtd><mtext>S + (Z − X)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I + (G − T)</mtext></mtd></mtr></mtable></math></equation>
-      <para id="UUID4882d8b2-facd-43fa-6f4c-392c32f0025d">Państwo często wydaje więcej, niż uzyskuje z podatków, a zatem oszczędności publiczne (T - G) są ujemne. W konsekwencji państwo musi zaciągać pożyczki w kwocie (G - T), zamiast zwiększać oszczędności. W przypadku deficytu budżetowego państwo jest stroną zgłaszającą zapotrzebowanie na kapitał finansowy, a nie podmiotem dostarczającym kapitał na rynek. W kategoriach algebraicznych możemy zapisać tożsamość oszczędności i inwestycji w postaci równania (2):</para>
-      <equation id="fs-idp17863184" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Inwestycje prywatne</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Oszczędności prywatne </mtext><mo>+</mo><mo> </mo><mtext>Oszczędności publiczne</mtext><mo> </mo><mo>+</mo><mtext> Deficyt handlowy</mtext></mtd></mtr><mtr><mtd><mtext>I</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (T − G) + (Z − X)</mtext></mtd></mtr></mtable></math></equation>
-      <para id="UUID6c2bba06-42bb-4c61-46ab-3307f12a9cfc">Zmianie dowolnego składnika tożsamości oszczędności i inwestycji musi towarzyszyć przynajmniej jedna zmiana innego elementu tego równania, ponieważ równość podaży i popytu wynika z samej definicji równowagi rynkowej. Jeżeli zmienia się saldo budżetu państwa, to zmianie muszą ulec prywatne oszczędności lub prywatne inwestycje, lub bilans handlowy (bądź jakaś kombinacja tych trzech elementów). <link target-id="CNX_Econ_C31_009" id="UUID76293e06-55ec-4b26-6335-dbd205b2dc78" /> pokazuje możliwe skutki zmiany salda budżetu państwa.</para>
-      <figure id="CNX_Econ_C31_009">
-        <title id="UUIDc1bed80e-ede6-4963-7bf8-3c2b4f7adcb3">Wpływ zmian salda budżetu na inwestycje, oszczędności i bilans handlowy</title>
-        <media alt="Opierając się na tożsamości oszczędności i inwestycji, części (a) i (b) ilustracji pokazują, co dzieje się z inwestycjami, oszczędnościami prywatnymi i deficytem handlowym, gdy zmienia się saldo budżetu. Część (a) Gdy rośnie deficyt budżetowy (lub maleje nadwyżka budżetowa), skutkiem może być (1) spadek krajowych inwestycji prywatnych lub (2) wzrost oszczędności prywatnych, lub (3) wzrost deficytu handlowego (bądź zmniejszenie nadwyżki handlowej). Odwrotne skutki występują, gdy deficyt budżetowy maleje (albo rośnie nadwyżka budżetowa), co pokazuje część (b) ilustracji." id="fs-idm198916416">
-          <image src="../../media//CNX_Econ_C31_009.svg" mime-type="image/svg+xml" id="UUID96f5333a-f0bc-48f8-5a79-3cb5e38f1ef5" />
-        </media>
-        <caption id="UUID4d745619-7b49-4ef6-455e-1cd8f25584f4">Część (a) pokazuje potencjalne skutki wzrostu deficytu budżetowego (lub spadku nadwyżki budżetowej). Część (b) przedstawia potencjalne skutki spadku deficytu budżetowego (lub wzrostu nadwyżki budżetowej).</caption>
-      </figure>
-    </section>
-    <section id="fs-idm49805760">
-      <title id="UUID4f76d3e4-c6ad-4643-5282-acb2331e9d9c">Znaczenie nadwyżki budżetowej i nadwyżki handlowej</title>
-      <para id="fs-idm42470640">Tożsamość oszczędności i inwestycji musi zachodzić zawsze, ponieważ na rynku kapitału finansowego, podobnie jak na każdym innym, wcześniej czy później ustala się stan równowagi, w którym wielkość zapotrzebowania i oferowany wolumen kapitału finansowego są sobie równe. Jednak wzór będzie wyglądać nieco inaczej, jeśli budżet państwa osiągnie deficyt zamiast nadwyżki lub jeśli bilans handlowy wykaże nadwyżkę zamiast deficytu. Na przykład w latach 1999–2000 budżet Stanów Zjednoczonych wykazywał nadwyżkę, chociaż gospodarka nadal doświadczała deficytów handlowych. Kiedy państwo osiąga nadwyżkę budżetową, jest dostarczycielem oszczędności, a nie pożyczkobiorcą, czyli na rynku kapitału finansowego znajduje się po stronie podaży, a nie popytu. W takiej sytuacji tożsamość oszczędności i inwestycji można zapisać jako równanie (3):</para>
-      <equation id="fs-idp68505312" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd>
-<mtd><mo>=</mo></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr>
-<mtr><mtd><mtext>Oszczędności prywatne + Deficyt handlowy + Nadwyżka budżetowa</mtext></mtd><mtd><mo>=</mo></mtd>
-<mtd><mtext>Inwestycje prywatne</mtext></mtd></mtr>
-<mtr><mtd><mtext>S + (Z − X) + (T − G)</mtext></mtd>
-<mtd><mo>=</mo></mtd>
-<mtd><mtext>I</mtext></mtd></mtr></mtable></math></equation>
-      <para id="UUID1e173da8-680c-430e-518e-497d46a88adb">Zauważ, że powyższe wyrażenie jest z matematycznego punktu widzenia takie samo jak równanie (2), z tym że strony oszczędnościowa i inwestycyjna tożsamości są po prostu odwrócone.</para>
-      <para id="UUID77b47a9e-ed97-4cd2-7839-b74f3a24cd7f">W latach 60. XX w. rząd USA często wykazywał deficyty budżetowe, ale gospodarka zwykle notowała nadwyżki handlowe. Ponieważ nadwyżka handlowa oznacza, że gospodarka doświadcza odpływu netto kapitału finansowego, tożsamość oszczędności i inwestycji przybiera następującą postać:</para>
-      <equation id="eip-526" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>Oszczędności prywatne</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>Inwestycje prywatne + Odpływ oszczędności zagranicznych + Deficyt budżetowy</mtext></mtd></mtr><mtr><mtd><mtext>S</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>I + (X − Z) + (G − T)</mtext></mtd></mtr></mtable></math></equation>
-      <para id="UUID5f317961-66c3-446e-62ec-35464f62af76">Deficyt handlowy stanowi część podaży kapitału finansowego. Natomiast nadwyżka handlowa reprezentuje odpływ kapitału finansowego, który opuszcza dany kraj i jest inwestowany w innych częściach świata.</para>
-      <equation id="fs-idm183612752" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>Oszczędności prywatne</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>Inwestycje prywatne + Deficyt budżetowy + Nadwyżka handlowa</mtext></mtd></mtr><mtr><mtd><mtext>S</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>I + (G − T) + (X − Z) </mtext></mtd></mtr></mtable></math></equation>
-      <para id="UUID68481c91-9a56-478e-4532-20627cdfe78b">Istota tych równań polega na tym, że tożsamość oszczędności i inwestycji jest zawsze spełniona. Podczas zapisywania tych zależności, jeszcze przed rozpoczęciem obliczeń, ważne jest, aby zrozumieć od strony ekonomicznej, co znajduje się po stronie podaży i popytu na rynku kapitału finansowego. Wtedy znacznie trudniej jest popełnić błąd przy zapisie równania.</para>
-      <para id="UUID1db3f399-5a41-4a69-4239-b6b68d8e2a5f" />
-      <para id="fs-idm208344448">Jak widać na <link target-id="CNX_Econ_C31_010" cmlnle:case="locative" id="UUIDd96ad971-3506-4e2d-455e-2cf009b8c8f0" />, zgodnie z danymi Amerykańskiego Biura Zarządzania i Budżetu (Office of Management and Budget), USA konsekwentnie utrzymywało deficyty budżetowe od 1970 r., z wyjątkiem okresu 1998–2001. Niepokojący jest bardzo szybki wzrost deficytu budżetowego po 2008 r., co częściowo odzwierciedla spadające dochody podatkowe oraz zwiększone wydatki państwa z powodu globalnego kryzysu finansowego. (Przypomnijmy, że T to podatki netto, a więc wpływy po odjęciu transferów. Kiedy rząd musi przekazać fundusze z powrotem do gospodarstw domowych jako dochody transferowe przeznaczone np. na finansowanie programu „Rodzina 500 Plus”, deficyt budżetowy rośnie). Utrzymujące się deficyty mają wpływ na przyszłą kondycję amerykańskiej gospodarki.</para>
-      <figure id="CNX_Econ_C31_010">
-        <title id="UUIDb9fe09dd-9991-4a93-4585-a6f89bd3c273">Saldo budżetu federalnego Stanów Zjednoczonych, 1952–2020 (mld dol.)</title>
-        <media alt="Wykres pokazuje saldo budżetu federalnego Stanów Zjednoczonych w latach 1952–2020. W drugiej połowie lat 80. XX w. wartość deficytu przekroczyła po raz pierwszy 200 mld USD, pod koniec lat 90. stopniowo przechodząc w nadwyżkę. Począwszy od 2008 r. deficyt gwałtownie wzrósł. Największy deficyt został zanotowany w 2020 r. (w okresie recesji wywołanej pandemią koronawirusa) i wyniósł ponad 3,1 bln dol., czyli osiągnął wartość niewiele niższą niż suma deficytów z pięciu poprzednich lat." id="fs-idp80641376">
-          <image src="../../media//CNX_Econv1-2_C31_03.svg" mime-type="image/svg+xml" id="UUID056809c6-d4ea-4acd-54c9-5e5063aa3e7d" />
-        </media>
-        <caption id="UUID2fe61dad-1753-4585-7aa2-fb4c6afd114c">Stany Zjednoczone od ponad 30 lat, z wyjątkiem okresu 1998–2001, wykazują deficyt budżetowy. Wydatki na zbrojenia, wydatki na zabezpieczenie społeczne oraz spadek dochodów podatkowych w połączeniu ze zwiększonym wsparciem dla gospodarstw domowych podczas globalnego kryzysu finansowego i pandemii to główne czynniki wpływające na silny wzrost deficytu po 2008 r. (Źródło: Tabela 1.1, „Summary of Receipts, Outlays, and Surpluses or Deficits”, https://www.whitehouse.gov/omb/budget/Historicals).</caption>
-      </figure>
-      <para id="fs-idp5838992">Rosnący deficyt budżetowy może skutkować spadkiem inwestycji krajowych, wzrostem prywatnych oszczędności lub wzrostem deficytu handlowego. W dalszej części rozdziału bardziej szczegółowo omawiamy każdy z tych scenariuszy.</para>
-    </section>
-    <section id="fs-idp23167984" class="summary">
-      <title id="UUID8d8053c5-5c52-4bd9-4b83-f2209f53c7e6">Podsumowanie</title>
-      <para id="fs-idp137775296">Z tożsamości (równania) oszczędności i inwestycji wynika, że jeśli zmienia się deficyt budżetu państwa, to zmienić się muszą również prywatne oszczędności lub prywatne inwestycje w kapitał rzeczowy, lub bilans handlowy (albo też jakaś kombinacja tych trzech elementów).</para>
-    </section>
-    <section id="fs-idp55509920" class="self-check-questions">
-      <title id="UUIDcd9604d4-b34f-419d-6746-266d2a702bcf">Pytania sprawdzające</title>
-      <exercise id="fs-idp74791152">
-        <problem id="fs-idp18247312">
-          <para id="fs-idp74796416">W pewnym kraju oszczędności prywatne wynoszą 600, nadwyżka budżetowa jest równa 200, a nadwyżka handlowa wynosi 100. Jaki jest poziom prywatnych inwestycji w tej gospodarce?</para>
-        </problem>
-        <solution id="fs-idp7353312">
-          <para id="fs-idp35774064">Aby odpowiedzieć na to pytanie, wykorzystujemy tożsamość oszczędności i inwestycji. W naszym przypadku rząd ma nadwyżkę budżetową, więc nadwyżka budżetowa pojawia się po stronie podaży kapitału finansowego. Mamy zatem:</para>
-          <equation id="fs-idp52246608" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px 2px 2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>S + (T − G)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I + (X − Z)</mtext></mtd></mtr><mtr><mtd><mtext>600 + 200</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext> I + 100</mtext></mtd></mtr><mtr><mtd><mtext>I</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext> 700</mtext></mtd></mtr></mtable></math></equation>
-        </solution>
-      </exercise>
-      <exercise id="fs-idp10558016">
-        <problem id="fs-idp96996096">
-          <para id="fs-idm2115008">W pewnej gospodarce nadwyżka budżetowa wynosi 1000, prywatne oszczędności są równe 4000, a inwestycje wynoszą 5000.</para>
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp45854816">
-            <item id="UUID6eea500e-f0b8-4f95-7eb7-e103e62e0ae0">
-              <para id="UUID0fec4739-a24b-461b-5f46-84740b47ee43">Zapisz tożsamość oszczędności i inwestycji dla tej gospodarki.</para>
-            </item>
-            <item id="UUIDaa30223d-bb56-42b4-68df-bb88288d53ce">
-              <para id="UUIDaf0381ed-9d9b-4028-66ae-f820a45257e0">Ile wynosi saldo bilansu handlowego?</para>
-            </item>
-            <item id="UUID184ffcf6-4c21-42c0-763c-742e0d752bff">
-              <para id="UUID17226b73-ffae-4096-4da9-3ea08831dc4b">Jeśli nadwyżka budżetowa zmieni się w deficyt budżetowy równy 1000, przy stałym poziomie prywatnych oszczędności i inwestycji, jakie będzie nowe saldo bilansu handlowego?</para>
-            </item>
-          </list>
-        </problem>
-        <solution id="fs-idp42282048">
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm20352560">
-            <item id="UUID5ec22b16-96aa-4f78-6080-060a574e4b2c">
-              <para id="UUID34d80177-5a6f-468e-4276-711e28ee0613">Ponieważ rząd osiąga nadwyżkę budżetową, państwo dostarcza kapitału i wynik budżetu państwa znajduje się w równaniu po stronie podażowej. Poniższe równanie przedstawia tożsamość oszczędności i inwestycji dla tej gospodarki:</para>
-              <equation id="fs-idp6415904" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>S + (T − G)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I + (X − Z)</mtext></mtd></mtr></mtable></math></equation>
-            </item>
-            <item id="UUIDebc1c3fa-27b5-4945-5cba-06628f4c05ba">
-              <para id="UUIDb3c819bd-342f-4936-7b87-ef44ed7c661d">Podstawiając podane wartości do równania przedstawionego w części (a), mamy (X - Z) = 0.</para>
-            </item>
-            <item id="UUID8e85eb25-e170-42d0-53cf-9682978ea29a">
-              <para id="UUIDa5b81ae8-0d6b-496f-517b-254cd871c24d">Ponieważ rząd wykazuje deficyt budżetowy, państwo zgłasza zapotrzebowanie na kapitał i wynik budżetu państwa znajduje się w równaniu po stronie popytowej. Nie wiadomo z góry, czy gospodarka notuje deficyt handlowy, czy nadwyżkę handlową. Ale kiedy podstawiając do wzoru, widzimy, że wielkość popytu na kapitał finansowy zaczyna przekraczać wielkość podaży, wiemy, że musi istnieć dodatkowy zasób kapitału finansowego dostarczonego przez inwestorów zagranicznych, aby obie strony równania były równe. Oznacza to deficyt handlowy w wysokości 2000. Ten przykład pokazuje, że dużemu deficytowi budżetowemu towarzyszy duży deficyt handlowy.</para>
-              <equation id="fs-idm55281616" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>S + (Z − X)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I + (G − T)</mtext></mtd></mtr><mtr><mtd><mtext>4000 + 2000</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>5000 + 1000</mtext></mtd></mtr></mtable></math></equation>
-            </item>
-          </list>
-        </solution>
-      </exercise>
-    </section>
-    <section id="fs-idp95015984" class="review-questions">
-      <title id="UUID99ec7ba4-92c5-47e5-4e56-209814401028">Sprawdź wiedzę</title>
-      <exercise id="fs-idp97118624">
-        <problem id="fs-idp191486736">
-          <para id="fs-idp192592384">Wykorzystując tożsamość oszczędności i inwestycji, wymień trzy możliwe reakcje gospodarki na wzrost deficytu budżetowego.</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idp106510992">
-        <problem id="fs-idp166234784">
-          <para id="fs-idp155395456">Jak wzrost deficytu budżetowego wpływa na inwestycje sektora prywatnego w kapitał rzeczowy? Uzasadnij swoją odpowiedź.</para>
-        </problem>
-      </exercise>
-    </section>
-    <section id="fs-idm4339696" class="critical-thinking">
-      <title id="UUID27bc575a-1d88-4190-7082-6e160a2b9d1a">Ćwicz myślenie krytyczne</title>
-      <exercise id="fs-idm7324352">
-        <problem id="fs-idp115423952">
-          <para id="fs-idm37151776">Załóżmy, że nie występuje dyskrecjonalny (uznaniowy) wzrost wydatków rządowych. Wyjaśnij, w jaki sposób poprawiająca się koniunktura gospodarcza wpływa na wynik budżetu państwa, a co za tym idzie – na inwestycje i bilans handlowy.</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idm48981648">
-        <problem id="fs-idm7370656">
-          <para id="fs-idp94137664">Wyjaśnij, w jaki sposób mniejsze inwestycje krajowe, które występują z powodu deficytu budżetowego, wpłyną na przyszły wzrost gospodarczy.</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idm59408656">
-        <problem id="fs-idp102083776">
-          <para id="fs-idm12110832">W najnowszej historii Stanów Zjednoczonych kilka razy doszło do zamknięcia rządu (ang. government shutdown). Wyjaśnij, w jaki sposób takie wydarzenie wpływa na zmienne występujące w równaniu przedstawiającym tożsamość inwestycji i oszczędności. Czy zamknięcie rządu może wpłynąć na deficyt budżetu państwa?</para>
-        </problem>
-      </exercise>
-    </section>
+    <figure id="CNX_Econ_C31_000" class="splash">
+      <title id="UUID1c6df441-ab19-4a19-4fee-415c7db642c6">Prezydent Stanów Zjednoczonych Lyndon B. Johnson</title>
+      <media alt="Zdjęcie przedstawia prezydenta Lyndona B. Johnsona siedzącego w sali wykładowej." id="fs-idm21118912">
+        <image src="../../media//CNX_Econ_C31_000.jpg" mime-type="image/jpeg" id="UUID1bbc6c84-c099-41e5-787f-def57aa3a780" />
+      </media>
+      <caption id="UUID775925cc-139b-4636-6c91-b6a8cc694672">Prezydent Lyndon Johnson odegrał kluczową rolę w finansowaniu szkolnictwa wyższego. (Źródło: modyfikacja obrazu LBJ Museum &amp; Library).</caption>
+    </figure>
+    <note type="note" id="fs-idp42343248" class="bringhome economics">
+      <title id="UUID377a6cef-30ab-490a-77bb-3445ac43064c">Finansowanie szkolnictwa wyższego</title>
+      <para id="fs-idp66818912">8 listopada 1965 r. prezydent USA Lyndon B. Johnson podpisał Ustawę o szkolnictwie wyższym (The Higher Education Act). Jednym pociągnięciem pióra wdrożył programy pomocy finansowej, pożyczek studenckich i wsparcia zatrudnienia studentów, aby pomóc Amerykanom opłacić studia. W swoim wystąpieniu prezydent stwierdził:</para>
+      <quote id="fs-idm32901824">
+        <para id="fs-idm34688656">„Tutaj zostały zasiane ziarna, z których wyrosło moje mocne przekonanie, że dla jednostki edukacja jest drogą do sukcesu i spełnienia; dla narodu jest to droga do społeczeństwa nie tylko wolnego, ale i cywilizowanego, a dla świata jest to droga do pokoju – ponieważ to edukacja przedkłada rozsądek nad siłę”.</para>
+      </quote>
+      <para id="fs-idm14429584">Dodał, że ta ustawa „odpowiada za finansowanie szkolnictwa wyższego dla milionów Amerykanów. Jest ucieleśnieniem inwestycji Stanów Zjednoczonych w kapitał ludzki”. Od momentu podpisania ustawy przez Johnsona rząd kilkakrotnie ją nowelizował.</para>
+      <para id="UUID72bd248e-6af2-4882-4926-5142e664b253">Celem Ustawy o szkolnictwie wyższym było zbudowanie kapitału ludzkiego dzięki upowszechnieniu edukacji na poziomie uniwersyteckim. Wprowadzono trzy kryteria stosowane przy ocenie tego, na ile student kwalifikuje się do przyznania pomocy: dochód, forma studiów (stacjonarne czy niestacjonarne) i wysokość czesnego. Według „Amerykańskiego badania dotyczącego pomocy dla studentów szkół wyższych” (National Postsecondary Student Aid Study – NPSAS: 12), w roku akademickim 2011/2012 ponad 70% wszystkich studentów studiów stacjonarnych otrzymało jakąś formę federalnej pomocy finansowej, 47% uzyskało granty, a kolejne 55% dostało pożyczki studenckie od rządu federalnego. Budżet na pomoc finansową został zwiększony nie tylko z powodu większej liczby studentów, ale także z powodu wzrostu wysokości czesnego i innych opłat za studia. Administracja Trumpa kwestionowała te podwyżki i całą koncepcję zarządzania przez rząd szkolnictwem wyższym. Zadaniem prezydenta i Kongresu jest zapewnienie równowagi między dyscypliną fiskalną a finansowaniem przez państwo ważnych wydatków, takich jak inwestycje w kapitał ludzki.</para>
+    </note>
+    <note type="note" id="fs-idp44287664" class="chapter-objectives economics">
+      <title id="UUIDcfb8429f-d34f-4e93-71af-bd3883d1e53a">Wprowadzenie do tematu skutków zadłużenia państwa</title>
+      <para id="fs-idp26710560">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idp47572656">
+        <item id="UUID50b30ad0-8e8f-4f09-6f67-151cb7a92913">
+          <para id="UUID5b9acbfa-a24a-48e7-5512-605e3bd8015d">W jaki sposób zadłużenie państwa wpływa na poziom inwestycji i bilans handlowy</para>
+        </item>
+        <item id="UUID8a87efa7-a071-45c0-416f-e2169b494533">
+          <para id="UUID85171f4a-2611-424c-62f0-3664b247aea0">Jakie są wzajemne relacje pomiędzy polityką fiskalną, inwestycjami i wzrostem gospodarczym</para>
+        </item>
+        <item id="UUIDd2d82c29-2700-4a98-5323-06484e2bb6a8">
+          <para id="UUID9d6463f0-bc74-4b3b-69c3-e13d64e18142">Jaki jest wpływ zadłużenia państwa na wielkość prywatnych oszczędności</para>
+        </item>
+        <item id="UUIDe5eaeb41-ada2-4277-4625-8411f9f7d09a">
+          <para id="UUIDd76f8895-bb77-46f4-4fc3-01affdf2c05f">Jakie są relacje pomiędzy polityką fiskalną i bilansem handlowym</para>
+        </item>
+      </list>
+    </note>
+    <para id="fs-idp85972688">Rząd musi finansować wiele obszarów wymagających wsparcia finansowego. Wszelkie wydatki powinny być realizowane z uwzględnieniem dyscypliny fiskalnej i przy starannej analizie ich następstw. Kiedy rząd wydaje więcej, niż uzyskuje dzięki podatkom, pojawia się deficyt budżetowy, który powoduje, że rząd pożycza pieniądze i się zadłuża. Kiedy zadłużenie państwa jest szczególnie wysokie i trwałe, może to znacznie zmniejszyć ilość kapitału finansowego dostępnego dla przedsiębiorstw oraz doprowadzić do nierównowagi handlowej, a nawet kryzysów finansowych.</para>
+    <para id="UUIDcb84b460-0aa8-4edc-530f-62126f5c064b">W rozdziale „Budżet państwa i polityka fiskalna” (<link document="m00062" id="UUIDc93f79d4-3592-44ae-689c-9e178d3d2f4a" />) przedstawiliśmy pojęcia deficytu budżetowego i długu publicznego, a także sposób, w jaki rząd może wykorzystać politykę fiskalną do walki z recesją lub inflacją. Ten rozdział rozpoczyna się od przywołania ważnej tożsamości makroekonomicznej, jaką jest równość oszczędności i inwestycji, którą po raz pierwszy wprowadziliśmy w rozdziale „Handel zagraniczny i przepływy kapitału” (<link document="m00024" id="UUID699831f4-b98d-46aa-7e22-cc962e818f60" />), aby pokazać, w jaki sposób zadłużenie państwa wpływa na inwestycje przedsiębiorstw w kapitał rzeczowy oraz na bilans handlowy. Przedłużający się okres występowania deficytów budżetowych może prowadzić do niższego wzrostu gospodarczego, po części dlatego, że fundusze, które rząd pożycza na finansowanie deficytu budżetowego, zazwyczaj nie są już dostępne dla inwestorów prywatnych. Co więcej, utrzymujący się wysoki deficyt budżetowy może prowadzić do niekorzystnych zjawisk gospodarczych, takich jak: wysoka inflacja, znaczny napływ kapitału finansowego z zagranicy, gwałtowny spadek kursu walutowego oraz poważne obciążenia systemu bankowego i finansowego danego kraju.</para>
   </content>
 </document>

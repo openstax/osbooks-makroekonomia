@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U12343973-41ff-4244-8768-89f74538ff03" id="U12343973-41ff-4244-8768-89f74538ff03" xml:lang="en" cnxml-version="0.7">
-  <title>6.4 Shifts in Aggregate Demand</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ucbb54587-6399-4c9c-beef-a2c81d201a9f" id="Ucbb54587-6399-4c9c-beef-a2c81d201a9f" xml:lang="en" cnxml-version="0.7">
+  <title>6.3 Shifts in Aggregate Supply</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00034</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/12343973-41ff-4244-8768-89f74538ff03</md:content-url>
-    <md:title>6.4 Shifts in Aggregate Demand</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/cbb54587-6399-4c9c-beef-a2c81d201a9f</md:content-url>
+    <md:title>6.3 Shifts in Aggregate Supply</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:04.036359166+00:00</md:version>
-    <md:created>2023-08-30T08:02:04.036359166+00:00</md:created>
-    <md:revised>2023-08-30T08:02:04.036359166+00:00</md:revised>
+    <md:version>2023-09-11T10:25:06.307812071+00:00</md:version>
+    <md:created>2023-09-11T10:25:06.307812071+00:00</md:created>
+    <md:revised>2023-09-11T10:25:06.307812071+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,144 +20,121 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>12343973-41ff-4244-8768-89f74538ff03</md:uuid>
+    <md:uuid>cbb54587-6399-4c9c-beef-a2c81d201a9f</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUID704d5026-5543-8463-7c527b82d03b3911" class="learning-objectives">
+    <note type="note" id="UUID704d5026-5543-h674-7c527b82d03b3911" class="learning-objectives">
       <para id="ch24mod93_p34">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUID1eb3c7a3-f4b9-4c5c-40fe-05acf319520b">
-          <para id="UUID43b8cec5-e723-457a-6814-0c5627369589">Wyjaśnić, w jaki sposób wolumen importu wpływa na popyt globalny</para>
+        <item id="UUIDc7b7ef02-edd2-4a74-4925-1d52b237c704">
+          <para id="UUIDd108d541-db22-49a8-55c1-5956d7212371">Zrozumieć, w jaki sposób wzrost wydajności pracy wpływa na krzywą podaży globalnej</para>
         </item>
-        <item id="UUIDe24db254-d909-4a8d-5e59-bf7f2339ca8b">
-          <para id="UUIDbe780f92-50f9-47bc-61f7-f3ddc11ecccd">Zrozumieć, jak nastroje konsumentów i producentów przekładają się na rozmiary popytu globalnego</para>
-        </item>
-        <item id="UUID6ed195a3-c8ad-4cb8-782f-a875bce149d7">
-          <para id="UUIDf14287e4-6123-466b-60de-b89afd1023fc">Określić, w jaki sposób polityka państwa oddziałuje na popyt globalny</para>
-        </item>
-        <item id="UUID3f7a7bb6-1adc-4dbe-415c-bc818700f1ce">
-          <para id="UUIDd884a1f9-87d9-4e7a-76c7-ee79851ff362">Wytłumaczyć, dlaczego ekonomiści nie zgadzają się w kwestii obniżek podatków</para>
+        <item id="UUIDd244531c-5b17-4ab8-56f0-5bfcba710fbe">
+          <para id="UUID568b90c0-3496-4d60-784e-d9e715cafc7b">Objaśnić, jaki jest związek pomiędzy zmianami cen czynników wytwórczych i krzywą podaży globalnej</para>
         </item>
       </list>
     </note>
-    <para id="ch24mod04_p01">Dzięki wcześniejszym analizom wiemy, że na popyt globalny składają się wydatki konsumpcyjne (C), wydatki inwestycyjne (I), wydatki państwa na dobra i usługi (G) oraz eksport netto (NX). (Przeczytaj poniższą <link target-id="ch24mod04_clear01" cmlnle:case="accusative" id="UUID3e0ce828-86d5-4a4f-7ad4-f78d1570678e" />, aby zrozumieć, dlaczego składową popytu globalnego jest eksport netto, a nie sam eksport). Przesunięcie krzywej AD w prawo (w górę) oznacza, że przynajmniej jeden z tych składników wzrósł i w efekcie całkowite wydatki są większe przy każdym poziomie cen. Natomiast przesunięcie krzywej AD w lewo (w dół) oznacza, że co najmniej jeden ze składników popytu globalnego zmniejszył się i w rezultacie całkowite wydatki spadły przy każdym poziomie cen. Dokładne omówienie poszczególnych składników popytu globalnego i czynników, które determinują ich wielkość, znajdzie się w <link document="m00037" cmlnle:case="locative" id="UUIDd530b4cc-2ded-4b29-4065-f88261c89c00" />. Tutaj naszkicujemy tylko związek między dwiema dość ogólnie zdefiniowanymi determinantami – zmianą nastrojów konsumentów i przedsiębiorstw oraz zmianami wysokości podatków i wydatków państwa – a położeniem krzywej AD.</para>
-    <note type="note" id="ch24mod04_clear01" class="clearup economics">
-      <title id="UUID963a1fa2-a699-4c9b-663b-b25560df33f2">Czy import zmniejsza popyt globalny?</title>
-      <para id="UUID205739c9-5212-4d2e-43f5-e7e682e0aa7a">Wzór na popyt globalny jest następujący: AD = C + I + G + X - Z, przy czym Z reprezentuje całkowitą wartość importowanych dóbr i usług. Dlaczego import wprowadzamy do popytu globalnego ze znakiem minus? Czy to oznacza, że większy import obniża popyt globalny? Krótka odpowiedź brzmi: tak, ponieważ popyt globalny definiujemy jako całkowity popyt na dobra i usługi wytwarzane na terenie danego kraju.</para>
-      <para id="UUID8f501ebd-7228-40d9-475a-e825e7622b37">Na przykład kiedy Polak kupuje towar wyprodukowany za granicą, wydatek ten jest uwzględniony w całkowitej konsumpcji. Jednak wygenerowany w związku z produkcją tego dobra dochód nie trafia do polskich producentów (pracowników i właścicieli firmy), ale do producentów w innym kraju. Błędem byłoby więc zaliczenie tego wydatku do popytu krajowego. Dlatego wartość importu jest odejmowana od popytu globalnego.</para>
-      <para id="UUIDb341cab2-fc8f-4653-7c86-2dc06a5f0611">Ze względu na sposób zapisu równania popytu globalnego łatwo jest popełnić błąd, uznając, że import jest dla gospodarki niekorzystny. Pamiętajmy wszakże, że każdy element zawarty w składniku Z i wchodzący do równania ze znakiem ujemnym ma swój odpowiednik w postaci dodatniej wartości zawartej w składniku C, I lub G, co powoduje, że oba strumienie wzajemnie się znoszą.</para>
-    </note>
-    <section id="ch24mod04_01">
-      <title id="UUIDba548e1d-d080-47ea-774f-180066c6297a">Jak zmiany nastrojów konsumentów i przedsiębiorstw wpływają na położenie krzywej popytu globalnego</title>
-      <para id="ch24mod04_p04">Kiedy przewidywania konsumentów dotyczące kondycji gospodarki w przyszłości, określane również jako ich nastrój lub sentyment, poprawiają się, konsumpcja rośnie. Jeśli nie boisz się utraty pracy, a raczej spodziewasz podwyżki swojego wynagrodzenia i awansu, możesz sobie przecież pozwolić na zakup nowego samochodu lub nawet większego domu. Podobnie jeśli analogiczne przewidywania formułowane w sektorze przedsiębiorstw są optymistyczne, firmy zwykle wydają więcej na inwestycje, wierząc, że przyszłe zyski z nich będą wysokie. Przekonanie o wzroście popytu w przyszłości może je skłonić do inwestowania w nowe maszyny, urządzenia lub nawet budowy nowej fabryki. I odwrotnie, jeśli pogarszają się nastroje konsumentów lub przedsiębiorstw, konsumpcja i wydatki inwestycyjne spadają.</para>
-      <para id="UUID03ded844-df5c-4a1d-5e7d-fea3e845d351">Uniwersytet w Michigan co miesiąc przeprowadza badanie nastrojów (zaufania) konsumentów, tworząc na ich podstawie stosowny wskaźnik. Wyniki badania są publikowane na <link url="http://www.sca.isr.umich.edu" id="UUID3fa58f0a-ab14-4ea4-7444-66705000c924">tej stronie internetowej</link>, przedstawiającej m.in. szczegółowe dane dotyczące zmian nastrojów konsumentów w podziale na różne grupy dochodowe. Analogiczne dane dla polskiej gospodarki gromadzi i publikuje na swojej witrynie internetowej GUS (<link url="https://stat.gov.pl/obszary-tematyczne/koniunktura/koniunktura/koniunktura-konsumencka-marzec-2023-roku,1,121.html" id="UUIDba22bc51-5501-4fbd-4936-e1f8bc01da23">zobacz np. tutaj</link>). Z kolei Organizacja Współpracy Gospodarczej i Rozwoju (OECD) prowadzi badania nastrojów gospodarczych (ang. <foreign xml:lang="en" id="UUIDe994adb1-af47-485d-5c38-c795dceb5e1f">business tendency surveys</foreign>), które odzwierciedlają sentyment (nastawienie) w sektorze przedsiębiorstw. OECD gromadzi dane z badań ankietowych prowadzonych w sektorze przedsiębiorstw w 21 krajach, dotyczące m.in. prognoz cen sprzedawanych towarów i zatrudnienia, a także innych elementów szeroko rozumianego klimatu gospodarczego. Oczywiście żaden ze wskaźników opartych na wynikach badań ankietowych nie jest precyzyjny. Są one jednak użyteczne jako narzędzie umożliwiające ocenę tego, czy nastroje wśród konsumentów i przedsiębiorstw poprawiają się, czy pogarszają, a także czy są one lepsze, czy gorsze w porównaniu z poprzednimi okresami.</para>
-      <para id="UUID594af603-85c2-417a-795c-f7455d80515e">Ponieważ ekonomiści wiążą polepszenie nastrojów gospodarczych z wyższym popytem konsumpcyjnym i inwestycyjnym, wraz z ich poprawą krzywa AD przesuwa się w prawo. Pokazuje to Panel (a) <link target-id="CNX_Econ_C24_014" cmlnle:case="genitive" id="UUID464792b8-416a-871w-5242-aeaeaeca47ef" />. W konsekwencji punkt równowagi przemieszcza się z położenia E<sub>0</sub> do E<sub>1</sub>, co oznacza wzrost poziomu produkcji i cen.</para>
-      <para id="ch24mod04_p08">Nastroje konsumentów i producentów często odzwierciedlają nie tyle przewidywania co do przyszłości, ile bieżącą kondycję makroekonomiczną gospodarki. Na przykład nastroje są zwykle dobre, gdy gospodarka wykazuje szybki wzrost, i kiepskie podczas recesji. Ponadto mogą się one zmieniać także z powodów niemających bezpośredniego związku z gospodarką, takich jak ryzyko wojny, wyniki wyborów, wydarzenia związane z polityką zagraniczną lub pesymistyczne prognozy formułowane przez osoby zajmujące kluczowe stanowiska polityczne, popularnych przedsiębiorców lub nawet osoby aktywne w mediach społecznościowych i mające bardzo dużą grupę obserwujących. Na przykład prezydenci i premierzy muszą być niezwykle ostrożni w swoich publicznych wypowiedziach na temat stanu gospodarki. Jeśli dadzą wyraz swojemu pesymizmowi, ryzykują wykreowanie mechanizmu swoistej samospełniającej się przepowiedni, ponieważ tego typu komentarze mogą wywołać faktyczny spadek konsumpcji i inwestycji oraz przesunięcie w dół krzywej AD i recesję, a więc zdarzenia, przed którymi sami ostrzegali. Panel (b) <link target-id="CNX_Econ_C24_014" cmlnle:case="genitive" id="UUID464792b8-416a-429d-5242-aeaeaeca47ef" /> ilustruje właśnie takie przesunięcie krzywej AD w lewo i korespondującą z tym zmianę punktu równowagi z E<sub>0</sub> do E<sub>1</sub>. W nowej równowadze zarówno produkcja, jak i poziom cen są niższe.</para>
-      <note type="note" id="eip-514" class="economics linkup">
-        <para id="eip-idm399460224">Odwiedź <link url="http://openstax.org/l/consumerconfid" id="UUIDd9921fe8-70b3-4031-403f-9ea41fb82244">tę stronę internetową</link>, aby uzyskać dane dotyczące nastrojów konsumentów.</para>
-      </note>
-      <note type="note" id="eip-651" class="economics linkup">
-        <para id="eip-idm221588976">Na <link url="http://openstax.org/l/businessconfid" id="UUID1f8f4d4e-41a9-4b45-6d9e-d39a5ed48507">tej stronie internetowej</link> znajdziesz dane dotyczące nastrojów przedsiębiorstw.</para>
-      </note>
-      <figure id="CNX_Econ_C24_014">
-        <title id="UUID23183e6d-80d2-4e27-61ea-79dfeff01836">Przesunięcia krzywej popytu globalnego</title>
-        <media alt="Dwa panele na wykresie pokazują, jakie mogą być konsekwencje przesunięcia krzywej popytu globalnego. Panel (a) wskazuje, że przesunięcie krzywej popytu globalnego w prawo, w kierunku linii wyznaczającej poziom potencjalnego PKB (linii LAS), prowadzi do wzrostu produkcji i poziomu cen w warunkach równowagi. Z kolei panel (b), ilustrujący skutki przesunięcia krzywej popytu globalnego w lewo, w stronę początku układu współrzędnych, wskazuje na spadek poziomu produkcji i cen jako konsekwencje takiego przemieszczenia krzywej AD." id="mCNX_Econ_C24_014">
-          <image src="../../media//CNX_Econ_C24_014.svg" mime-type="image/svg+xml" id="UUID13c6b97f-0d0a-457d-7405-f72a08fd6db0" />
+    <para id="ch24mod03_p01">Jeśli krzywe AS lub AD przesuwają się, punkt równowagi w modelu AD-AS zmienia swoje położenie (zmienia się stan równowagi). Gdy krzywa podaży globalnej przesuwa się w dół (w prawo), producenci wytwarzają i sprzedają więcej przy każdym poziomie cen. Gdy krzywa AS przesuwa się w lewo (w górę), producenci wytwarzają mniej przy każdym poziomie cen. W tym podrozdziale zostaną omówione dwa najważniejsze czynniki, które mogą prowadzić do przesunięć krzywej AS: wzrost wydajności pracy i zmiany cen czynników wytwórczych.</para>
+    <section id="ch24mod03_01">
+      <title id="UUID22437807-96e5-47f0-7d51-0c0a5ef1a32d">W jaki sposób wzrost wydajności pracy zmienia położenie krzywej AS</title>
+      <para id="ch24mod03_p02">W długim okresie najważniejszym czynnikiem, który wpływa na położenie krzywej AS (przesuwa ją) obok zmian typowo ilościowych, takich jak wzrost liczby ludności, jest wzrost wydajności (produkcyjności) pracy. Parametr ten określa rozmiary produkcji, która może być wytworzona przy danych zasobach pracy. Jedną z miar wydajności pracy jest produkcja na pracownika lub PKB per capita. Znajomość historii gospodarczej krajów uprzemysłowionych pozwala zauważyć, że wydajność pracy cały czas rośnie, co oznacza, że przy niezmienionym zasobie pracy wolumen produkcji nieustannie się zwiększa. Analizując zmiany wydajność pracy np. w Stanach Zjednoczonych, można stwierdzić, że w drugiej połowie XX w. dynamika wzrostu realnego PKB per capita w tym kraju wynosiła średnio ok. 2–3% rocznie, przy czym w latach 60. i w drugiej połowie lat 90. ub. stulecia była nawet większa. Z kolei w latach 70. tempo wzrostu wydajności pracy spadło poniżej 2% rocznie. Wzrost wydajności pracy przesuwa krzywą AS w prawo (w dół), ponieważ przy zwiększonej produktywności przedsiębiorstwa mogą wyprodukować więcej przy każdym poziomie cen. Panel (a) na <link target-id="CNX_Econ_C24_013" cmlnle:case="genitive" id="UUID0a0542fa-7ecd-493d-714d-8409d29676de" /> przedstawia konsekwencje dwukrotnego skokowego wzrostu wydajności pracy. Krzywa podaży globalnej przesuwa się w prawo, początkowo z położenia SAS<sub>0</sub> do SAS<sub>1</sub>, a następnie do położenia SAS<sub>2</sub>, co oznacza, że równowaga przesuwa się z punktu E<sub>0</sub> do E<sub>1</sub> i potem do punktu E<sub>2</sub>. Zauważ, że w wyniku wzrostu wydajności pracy pracownicy mogą wyprodukować więcej towarów lub tę samą ich ilość szybciej. Tym samym rośnie także poziom potencjalnego PKB, czyli produktu globalnego, który byłby możliwy do wytworzenia przy pełnym zatrudnieniu, co jest zilustrowane jako przesunięcie w prawo krzywej LAS, z położenia LAS<sub>0</sub> do LAS<sub>1</sub>, a następnie LAS<sub>2</sub>.</para>
+      <figure id="CNX_Econ_C24_013">
+        <title id="UUID56c25c71-783f-416a-7e97-5bf237f4b636">Przesunięcia krzywej podaży globalnej</title>
+        <media alt="Oba panele wykresu ilustrują przesunięcie krzywych podaży globalnej i konsekwencje takiego przesunięcia dla punktu równowagi rynkowej. Panel (a) wykresu przedstawia przesunięcie w prawo krzywej krótkookresowej podaży globalnej (SAS) na skutek wzrostu wydajności pracy. Panel (b) ilustruje zmianę położenia krzywej SAS (jej przesunięcie w lewo), co jest konsekwencją wzrostu cen kluczowych czynników wytwórczych." id="mCNX_Econ_C24_013">
+          <image src="../../media//CNX_Econ_C24_013.svg" mime-type="image/svg+xml" id="UUID509015af-ec2c-4032-767b-b6e115f3087f" />
         </media>
-        <caption id="UUIDcbc5b22a-ddb1-41ed-4582-4159c35ef717">Panel (a) Poprawa nastrojów konsumentów i/lub producentów przesuwa krzywą AD w prawo, z położenia AD<sub>o</sub> do AD<sub>1</sub>. Kiedy krzywa AD przesuwa się w prawo, w nowym punkcie równowagi (E<sub>1</sub>) produkcja oraz poziom cen będą wyższe niż w stanie początkowej równowagi (E<sub>0</sub>). W tym przykładzie nowa równowaga (E<sub>1</sub>) znajduje się również bliżej poziomu potencjalnego PKB, można zatem domniemywać, że w wyniku przemieszczenia krzywej AD bezrobocie spadło. Wzrost wydatków państwa i/lub obniżka podatków prowadzące do zwiększenia wydatków konsumpcyjnych także przesuwają krzywą AD w prawo. Panel (b) Pogorszenie nastrojów konsumentów i/lub przedsiębiorstw przesuwa krzywą AD w lewo, z położenia AD<sub>0</sub> do AD<sub>1</sub>. Kiedy krzywa AD przesuwa się w lewo, w nowym punkcie równowagi (E<sub>1</sub>) produkcja oraz poziom cen będą mniejsze niż w stanie początkowej równowagi (E0). W tym przypadku nowa równowaga (E<sub>1</sub>) ukształtuje się również znacznie poniżej poziomu potencjalnego PKB, co może oznaczać wzrost bezrobocia przymusowego. Zmniejszenie wydatków państwa i/lub podwyżka podatków prowadzące do spadku wydatków konsumpcyjnych także przesuwają krzywą AD w lewo.</caption>
+        <caption id="UUID3b25c993-9387-4859-4b86-6fe889f812c0">Panel (a) Wzrost wydajności pracy powoduje przesunięcie krzywej SAS w prawo (w dół). Początkowy punkt równowagi E<sub>0</sub> znajduje się na przecięciu krzywych AD i SAS<sub>0</sub>. Gdy krzywa SAS przesuwa się w prawo, nowa równowaga występuje najpierw w punkcie E<sub>1</sub>, tj. Na przecięciu krzywych AD i SAS<sub>1</sub>, a następnie w punkcie E<sub>2</sub>, czyli w miejscu przecięcia się krzywych AD i SAS<sub>2</sub>. Przesunięcia krzywej SAS w dół prowadzą do wzrostu produkcji i obniżają poziom cen w gospodarce. Panel (b) Wyższe ceny czynników wytwórczych (np. surowców) oznaczają, że przy każdym poziomie cen produktów finalnych wytworzony zostanie niższy realny PKB, w związku z czym krzywa podaży globalnej przesunie się w lewo, z położenia SAS<sub>0</sub> do położenia SAS<sub>1</sub>. W nowym punkcie równowagi (E<sub>1</sub>) produkcja będzie mniejsza, a poziom cen wyższy niż w stanie pierwotnej równowagi (E<sub>0</sub>).</caption>
       </figure>
+      <para id="UUIDfaa08ace-559f-491e-5f39-162137b2cfad">Przesunięcie krzywej SAS w prawo przy stałym poziomie zagregowanego popytu spowoduje wzrost realnego PKB i presję na spadek cen. Jeśli jednak zmiana położenia krzywej SAS wynika ze wzrostu wydajności pracy wynoszącego zwykle kilka punktów procentowych rocznie, efekt będzie stosunkowo niewielki w ciągu kilku miesięcy lub nawet kilku lat. Na zajęciach z mikroekonomii została wprowadzona koncepcja krzywej możliwości produkcyjnych, która jest względnie stała w krótkim okresie, ale przesuwa się na zewnątrz układu współrzędnych (w prawo) w długim okresie, wraz ze wzrostem zasobu czynników produkcji lub ich wydajności. Tutaj analizujemy to samo zjawisko, tyle że przy użyciu innego modelu.</para>
     </section>
-    <section id="ch24mod04_02">
-      <title id="UUIDe3694334-0fb0-4304-59d1-d9e8907bf367">Jak polityka państwa wpływa na zmiany położenia krzywej popytu globalnego?</title>
-      <para id="ch24mod04_p10">Wydatki państwa na dobra i usługi są jednym ze składników popytu globalnego. A zatem wyższe wydatki państwa powodują przesunięcie krzywej AD w prawo (tak jak na panelu (a) <link target-id="CNX_Econ_C24_014" cmlnle:case="genitive" id="UUID84915a9e-ebe5-4bd9-59fe-c28179769bcc" />), natomiast mniejsze wydatki państwa przesuwają krzywą AD w lewo (panel (b).</para>
-      <para id="ch24mod04_p11">Decyzje dotyczące wysokości podatków również mogą wpływać na poziom wydatków konsumpcyjnych i inwestycyjnych. Obniżki podatków dla osób fizycznych będą prowadziły do zwiększenia popytu konsumpcyjnego, zaś podwyżki podatków będą go zmniejszać, gdyż wysokość podatku PIT (używając polskiego przykładu) bezpośrednio przekłada się na wartość dochodu, który gospodarstwa domowe mogą wydać na konsumpcję. Polityka podatkowa może również zwiększyć popyt inwestycyjny, wprowadzając np. niższe stawki podatku CIT dla przedsiębiorstw lub ulgi podatkowe dla określonych rodzajów inwestycji. Zmiany konsumpcji (C) lub inwestycji (I) przesuwają całą krzywą popytu globalnego (AD).</para>
-      <para id="UUID37187079-ef8b-4fbf-6121-737946460f43">W trakcie recesji, kiedy bezrobocie jest wysokie, a wiele przedsiębiorstw osiąga niskie zyski lub nawet notuje straty, państwo często obniża podatki lub zwiększa swoje wydatki (to pierwsze podejście dominuje w USA, zaś drugie jest typowe dla krajów europejskich, w tym również w Polsce). Politycy uzasadniają takie działania chęcią zmniejszenia obciążeń podatkowych nałożonych na podmioty gospodarcze w ciężkich czasach. Model AD-AS pozwala na określenie dokładnych skutków obniżki podatków, co przedstawia <link target-id="CNX_Econ_C24_008" id="UUID3587aebe-453c-4496-4e77-e62c07e0f2b9" />. Początkowa równowaga podczas recesji znajduje się w punkcie E<sub>0</sub>, stosunkowo daleko od poziomu produkcji zapewniającej pełne zatrudnienie. Obniżka podatków, zwiększając konsumpcję, przesuwa krzywą AD w prawo. W nowym punkcie równowagi (E<sub>1</sub>) realny PKB jest większy, a bezrobocie mniejsze. Jednocześnie w gospodarce występuje wzrost poziomu cen, przy czym skala tego wzrostu zależy od tego, jak daleko faktyczna produkcja znajduje się od poziomu potencjalnego (w miarę zbliżania się do potencjalnego PKB wzrost cen jest coraz szybszy). Przeczytaj <link target-id="ch24mod04_clear02" cmlnle:case="accusative" id="UUIDbe5f5c46-0f41-4183-5457-075b4fbc548f" />, aby się dowiedzieć, jakimi argumentami ekonomiści uzasadniają tezę o konieczności obniżania podatków, a jakich używają, by przekonywać do ich pozostawienia na niezmienionym poziomie.</para>
-      <figure id="CNX_Econ_C24_008">
-        <title id="UUID8bbb8a72-7b6b-4628-67aa-c37b65754c96">Recesja i pełne zatrudnienie w modelu AD-AS</title>
-        <media alt="Wykres przedstawia wzrost popytu globalnego zilustrowany przesunięciem krzywej AD w prawo. W wyniku takiego przesunięcia rośnie produkcja i poziom cen. Jednocześnie zmniejsza się różnica pomiędzy produkcją faktyczną a potencjalnym poziomem PKB, co może oznaczać spadek bezrobocia przymusowego." id="mCNX_Econ_C24_008">
-          <image src="../../media//CNX_Econ_C24_008.svg" mime-type="image/svg+xml" id="UUIDc4122281-07d3-42e0-6b25-d53885291899" />
-        </media>
-        <caption id="UUID4a0cf340-7718-4bf7-794f-d3433fd5c1dd">To, czy gospodarka znajduje się w recesji, jest ilustrowane w modelu AD-AS przez odległość punktu równowagi od poziomu potencjalnego PKB wyznaczonego przez pionową linię LAS. W podanym przykładzie wielkość produkcji Y<sub>0</sub> w stanie równowagi E<sub>0</sub> leży stosunkowo daleko od linii wyznaczającej potencjalny PKB, więc stan ten oznacza recesję i niepełne zatrudnienie (bezrobocie przymusowe). Natomiast produkcja Y<sub>1</sub> w stanie równowagi E<sub>1</sub> jest relatywnie bliska potencjalnego PKB, co oznacza znacznie niższą stopę bezrobocia w gospodarce.</caption>
-      </figure>
-      <note type="note" id="ch24mod04_clear02" class="clearup economics">
-        <title id="UUID4c01c0d8-626d-4399-659a-f9798c28d507">Czy ekonomiści opowiadają się za obniżkami podatków, czy są im przeciwni?</title>
-        <para id="ch24mod04_p14">Jedną z absolutnie fundamentalnych kwestii, wywołujących spory nie tylko wśród polityków w USA i nie tylko w ciągu ostatnich kilkudziesięciu lat, jest obniżanie podatków. Ronald Reagan objął amerykańską prezydenturę w 1980 r. z pewnością również dlatego, że w czasie swojej kampanii zapowiedział obniżkę podatków. Co więcej, to, że obietnicę spełnił, pozwoliło mu rządzić przez dwie kadencje. Z kolei jego następca, George Bush senior, przegrał walkę o swoją reelekcję z Billem Clintonem w 1992 r. m.in. (a może przede wszystkim) dlatego, że złamał obietnicę z 1988 r., która brzmiała: „Żadnych nowych podatków!”. W wyborach prezydenckich w 2000 r. zarówno George W. Bush, jak i Al Gore opowiadali się za znacznymi obniżkami podatków, a Bushowi (który ostatecznie został wówczas prezydentem) udało się przeforsować w Kongresie pakiet redukcji podatków na początku 2001 r. W 2017 i 2018 r. Donald Trump zainicjował kolejną obniżkę podatków w celu pobudzenia gospodarki. Podobny pakiet zapowiedział również Joe Biden w czasie swojej kampanii wyborczej. Również w Polsce w ostatnich latach doszło do obniżenia podatków dochodowych, jakie płaci większość społeczeństwa. Pomimo licznych kontrowersji, jakie wzbudza Polski Ład, oznacza on zmniejszenie podatków dla przeważającej grupy gospodarstw domowych.</para>
-        <para id="UUID65707b77-91d2-4283-6e70-a79dd704a1c9">Po której stronie tego sporu opowiadają się ekonomiści? Czy popierają obniżki podatków, czy też raczej są im przeciwni? Odpowiedź, która nie jest satysfakcjonująca dla zaprzysięgłych zwolenników obu rozwiązań, brzmi: to zależy. Dla większości ekonomistów istotna jest bowiem nie tylko skala obniżek podatków, ale również to, czy takim cięciom towarzyszą analogiczne redukcje wydatków państwa. Ekonomiści różnią się także, podobnie jak całe społeczeństwo, w swoich opiniach dotyczących tego, jaka powinny być skala wydatków państwa i które z rządowych programów mogą zostać zredukowane lub nawet całkowicie wyeliminowane. Druga kwestia, bardziej istotna dla rozważań w niniejszym rozdziale, dotyczy tego, jak daleko od poziomu pełnego zatrudnienia znajduje się gospodarka. W czasie recesji, gdy krzywe AD i AS przecinają się znacznie poniżej produkcji potencjalnej, obniżki podatków może uzasadniać chęć przesunięcia krzywej AD w prawo. Jednak gdy gospodarka produkuje niemal przy pełnym wykorzystaniu zdolności wytwórczych, obniżki podatków mogą przesunąć krzywą AD tak daleko w prawo, że wygenerują presję inflacyjną przy relatywnie bardzo niewielkim wzroście PKB, skutkując w konsekwencji niemal całkowitym brakiem skuteczności popytowego pobudzania gospodarki..</para>
-        <para id="UUID8367c43b-f2a8-44fc-5309-0f7ee00900db">W kontekście modelu AD-AS wielu ekonomistów może uważać, że obniżki podatków wprowadzone przez Reagana w 1981 r., które weszły w życie tuż po dwóch poważnych recesjach, były korzystne dla gospodarki. Obniżki podatków za prezydentury Busha w 2001 r. i Obamy w 2009 r. też nastąpiły w okresie pogorszenia koniunktury. Jednak wielu ekonomistów popierających redukcję podatków podczas recesji będzie miało znacznie większe wątpliwości co do identycznych obniżek wprowadzanych w okresach szybkiego wzrostu gospodarczego, gdy bezrobocie przymusowe jest relatywnie niskie.</para>
-      </note>
-      <para id="ch24mod04_p16">Wydatki państwa i podatki (czyli, zgodnie z terminologią używaną przez ekonomistów, narzędzia polityki fiskalnej) to powszechnie stosowane przez państwo zmienne oddziałujące na popyt globalny. Omówimy je bardziej szczegółowo w <link document="m00061" cmlnle:case="locative" id="UUID2b21bf9b-a3ba-4b1c-72c3-c9ba99047769" /> oraz <link document="m00068" cmlnle:case="locative" id="UUIDa2870f69-6f76-40a8-4c90-e79bc1b9755d" />. Jednak państwo dysponuje także innymi narzędziami wpływającymi na popyt globalny. Na przykład za pomocą polityki pieniężnej państwo (w tym wypadku reprezentowane przez bank centralny) może wpływać na wysokość stóp procentowych i dostępność kredytów, co zostanie omówione w Podrozdziale „Wprowadzenie do polityki pieniężnej i regulacji sektora bankowego”. Wyższe stopy procentowe zwykle zniechęcają do zaciągania pożyczek, a tym samym zmniejszają zarówno wydatki gospodarstw domowych na dobra trwałego użytku, takie jak domy i samochody, jak również wydatki inwestycyjne przedsiębiorstw. I odwrotnie, niższe stopy procentowe będą stymulować popyt konsumpcyjny i inwestycyjny. Stopy procentowe mogą również oddziaływać na kursy walutowe, co z kolei będzie miało wpływ na eksport i import i w efekcie na popyt globalny.</para>
-      <para id="UUID10fb125d-32fa-487d-7b48-59de43437a52">Szczegóły dotyczące wpływu polityki państwa na poszczególne składniki popytu globalnego zostaną omówione w <link document="m00037" cmlnle:case="locative" id="UUID4417adf6-ed1e-415a-7195-4d6c5646012b" />. Natomiast najważniejszym wnioskiem z niniejszego podrozdziału jest konstatacja, zgodnie z którą przesunięcie krzywej zagregowanego popytu w prawo prowadzi do wzrostu realnego PKB i presji inflacyjnej. I odwrotnie, przesunięcie krzywej popytu globalnego w lewo oznacza niższy realny PKB i niższy poziom cen. To, czy zmiany poziomu produkcji i cen są stosunkowo duże, czy małe, oraz jak zmiana punktu równowagi kształtuje się na tle potencjalnego PKB, zależy od tego, czy przesunięcie krzywej AD zachodzi na stosunkowo płaskiej, czy stosunkowo stromej części krzywej AS.</para>
+    <section id="ch24mod_02">
+      <title id="UUIDd19914fd-d520-469f-669c-2c7e75069c51">W jaki sposób zmiany cen czynników produkcji wpływają na położenie krzywej AS</title>
+      <para id="ch24mod03_p04">Wyższe ceny czynników wytwórczych wykorzystywanych w całej gospodarce mogą mieć wpływ na podaż globalną. Przykładem są koszty pracy, ceny surowców (np. ropy naftowej) oraz ceny energii elektrycznej. Wzrost kosztów pozyskania takich nakładów skutkuje przesunięciem krzywej SAS w lewo (w górę), co oznacza, że przy każdym poziomie cen produktów finalnych przedsiębiorstwa będą produkować mniej. Panel (b) <link target-id="CNX_Econ_C24_013" cmlnle:case="genitive" id="UUIDeba44fc6-9063-4ac7-49f4-16ed3ecd84e4" /> przedstawia przesunięcie krzywej podaży globalnej w lewo, z położenia SAS<sub>0</sub> do SAS<sub>1</sub>, co powoduje zmianę punktu równowagi z E<sub>0</sub> do E<sub>1</sub>. Przejście z początkowej równowagi E<sub>0</sub> do nowej równowagi E<sub>1</sub> prowadzi do szeregu negatywnych skutków: PKB spadnie i gospodarka może znaleźć się w recesji, bezrobocie wzrośnie, ponieważ wolumen produkcji zmniejszy się w stosunku do poziomu potencjalnego, wzrosną także ceny i w gospodarce pojawi się inflacja. Z taką właśnie sytuacją mieliśmy do czynienia w ciągu ostatnich 50 lat w Stanach Zjednoczonych, które doświadczyły recesji w latach 1974–1975, 1980–1982, 1990–1991, 2001 i 2007–2009. Każdy z tych okresów był poprzedzony lub charakteryzował się wzrostem cen ropy naftowej. W latach 70. ub. stulecia takie przesunięcie w lewo krzywej SAS, prowadzące do spadku poziomu produkcji lub gwałtownego zmniejszenia tempa jej wzrostu niemal do zera, co w konsekwencji prowadziło do wzrostu bezrobocia i jednocześnie przyspieszenia inflacji, zostało określone jako <term cmlnle:reference="stagflacja" id="UUIDe4740d83-80cc-4073-4bf2-e0ca9fc35b73">stagflacja</term> (ang. <foreign xml:lang="en" id="UUID155295c6-454b-416a-7fa4-7d782a0226e6"><term id="UUIDb5f3fd45-0269-43bb-7ae8-9141d21555c5">stagflation</term></foreign>).</para>
+      <para id="ch24mod03_p05">Spadek cen kluczowych czynników wytwórczych, np. ropy naftowej, przesuwa krzywą SAS w prawo, co zachęca przedsiębiorstwa do zwiększenia produkcji przy każdym poziomie cen dóbr i usług finalnych. Na przykład między rokiem 1985 i 1986 średnia cena ropy naftowej zmniejszyła się o połowę, z 24 dol. do 12 dol. za baryłkę. Podobnie w latach 1997–1998 cena baryłki ropy naftowej spadła z 17 dol. do 11 dol. W obu przypadkach gwałtowny spadek cen ropy doprowadził do sytuacji przedstawionej na panelu (a) <link target-id="CNX_Econ_C24_013" cmlnle:case="genitive" id="UUID9e6e73d6-e1ed-4456-70a9-51e76a814aab" />, czyli przesunięcia krzywej SAS w prawo, co prowadzi do wzrostu produkcji, spadku bezrobocia i obniżenia tempa inflacji.</para>
+      <para id="UUIDfe49ef5b-b78a-45db-4899-0f71697c4f8f">Obok zmian cen surowców i energii również zmiany kosztów pracy (czyli płac) oraz kosztów pozyskiwania towarów importowanych wykorzystywanych jako nakłady w procesie produkcji innych dóbr mogą prowadzić do przesunięcia krzywej SAS. Niższe ceny czynników wytwórczych powodują przesunięcie krzywej SAS w prawo, zaś wyższe ceny – jej przesunięcie w lewo. Należy zauważyć, że w przeciwieństwie do zmian produktywności czynników wytwórczych zmiany ich cen generalnie nie powodują przesunięcia krzywej LAS, a jedynie SAS.</para>
     </section>
-    <section id="ch24mod04_summ" class="summary">
-      <title id="UUID4c6f346b-e81a-4803-75b9-46c9a19c7d03">Podsumowanie</title>
-      <para id="UUID547a0b7f-daf3-430c-5c9f-7e9184058c05">Krzywa popytu globalnego (AD) przesuwa się w prawo, gdy składniki popytu globalnego – konsumpcja (C), inwestycje (I), wydatki państwa na dobra i usługi (G) lub eksport netto (X - Z) – rosną. Z kolei ich spadek powoduje przesunięcie krzywej AD w lewo. Na wartość tych składników wpływ mają nastroje konsumentów i producentów, a także polityka państwa dotycząca np. wydatków budżetowych i podatków. Jeśli krzywa popytu globalnego przesuwa się w prawo, produkcja i poziom cen w równowadze rosną. Jeśli krzywa AD przesuwa się w lewo, produkcja i poziom cen w równowadze maleją. To, czy zmiana wielkości produkcji jest relatywnie silniejsza, czy słabsza od zmiany poziomu cen, zależy od położenia punktu przecięcia krzywych AD i AS.</para>
-      <para id="UUID0e64eda1-0c22-4dc6-5263-385f33d74e2e">Na pierwszy rzut oka model AD-AS przypomina mikroekonomiczny model popytu i podaży. W rzeczywistości jednak zmienne odłożone na osi poziomej i pionowej oraz czynniki determinujące kształt poszczególnych krzywych są w obu modelach odmienne. Długookresowy wzrost gospodarczy w modelu AD-AS możemy zilustrować stopniowym przesuwaniem się krzywej podaży globalnej w prawo. Jeśli pojawi się recesja, punkt przecięcia krzywych AD i AS znajdzie się znacznie poniżej poziomu potencjalnego PKB. Natomiast gdy gospodarka jest w fazie ekspansji, przecięcie krzywych AD i AS następuje w pobliżu poziomu potencjalnego PKB wyznaczonego linią LAS.</para>
+    <section id="ch24mod03_03">
+      <title id="UUID624de27f-f838-433b-6834-c4ba1375ce90">Inne szoki podażowe</title>
+      <para id="UUID1a40dcb1-13d4-4b31-4bbf-4f1190fc8f34">Krzywa podaży globalnej może się również przesunąć ze względu na gwałtowne zmiany na rynku czynników produkcji, w tym na rynku pracy. Na przykład kilkudniowe przymrozki w maju na terenie całego kraju mogą się negatywnie odbić na produkcji owoców w Polsce, wywołując szok, który przesunie krzywą AS w lewo, ponieważ ilość dostępnych truskawek, jabłek, czereśni itd. gwałtownie spadnie.</para>
+      <para id="UUID5cebd7dd-1af4-47c9-7504-3b9c6ca3f141">Również wstrząsy na rynku pracy wpływają na podaż globalną. Ekstremalnym przykładem może być wojna, która powoduje, że duża liczba pracowników przestaje pracować i idzie walczyć za swój kraj (tak jak to ma miejsce w Ukrainie od lutego 2022 r.). W takim przypadku zarówno krzywa SAS, jak i LAS przesuną się w lewo, bo mniej pracowników będzie mogło uczestniczyć w procesie produkcji.</para>
+      <para id="UUID2f538167-e475-43e2-66d9-c3008cf1b74a">Innym przykładem szoku podażowego może być epidemia o skali porównywalnej z pandemią Covid-19. Szybko rozprzestrzeniająca się i potencjalnie niebezpieczna choroba oznacza, że w relatywnie krótkim okresie bardzo wielu pracowników ze względu na trapiące ich dolegliwości nie jest zdolnych do pracy. Co więcej, część z nich nawet po odzyskaniu zdrowia może nie chcieć wrócić do pracy w obawie o bezpieczeństwo swoje i swoich bliskich. Choć tego typu ograniczenia rzadko mają długotrwały charakter, mogą przełożyć się na zmniejszenie podaży wielu dóbr i usług, co znajduje odzwierciedlenie w przesunięciu w górę krótkookresowej krzywej podaży globalnej (SAS). W latach 2020–2021, czyli w okresie pandemii koronawirusa, podaż produktów takich jak układy scalone wykorzystywane przy produkcji samochodów, mięso i generalnie usługi była znacznie niższa od zgłaszanego popytu ze względu na niedobór pracowników w różnych krajach świata (przede wszystkim w transporcie), co skutkowało powstawaniem tzw. wąskich gardeł uniemożliwiających dostarczanie wyprodukowanych już towarów na rynki zbytu (np. z Chin do Europy).</para>
     </section>
-    <section id="ch24mod04_sques" class="self-check-questions">
-      <title id="UUID7f431e9e-990c-44c6-64af-ebf3c45c08e0">Pytania sprawdzające</title>
-      <exercise id="ch24mod04_sques01">
-        <problem id="ch24mod04_squesp01">
-          <para id="ch24mod04_p20">W jaki sposób nagły i silny wzrost wartości akcji na giełdzie papierów wartościowych wpłynie na położenie krzywej AD? Jaki ma to wpływ na PKB i poziom cen w równowadze?</para>
+    <section id="ch24mod03_summ" class="summary">
+      <title id="UUID4d3320a1-f099-44f2-46d7-5c8413e43a32">Podsumowanie</title>
+      <para id="ch24mod03_p09">Wykres z naszkicowanymi krzywymi popytu globalnego AD i podaży globalnej AS wskazuje, w jaki sposób oba parametry wzajemnie na siebie oddziałują. Punkt przecięcia krzywych AD i AS wyznacza poziom produkcji i cen w gospodarce w stanie równowagi. Przesunięcia krzywych popytu globalnego lub podaży globalnej prowadzą do zmian wielkości produkcji i poziomu cen w punkcie równowagi. Krzywa podaży globalnej przesuwa się w prawo (w dół) w wyniku wzrostu produktywności (wydajności) czynników wytwórczych. Wzrost cen kluczowych czynników wytwórczych przesuwa krzywą podaży globalnej w lewo (w górę), a spadek cen – w prawo. Jeśli krzywa AS przesuwa się w lewo, produkcja spada, bezrobocie i inflacja rosną, a gospodarka wchodzi w okres stagflacji. Jeśli krzywa AS przesuwa się w prawo, produkcja rośnie, a inflacja i bezrobocie maleją.</para>
+    </section>
+    <section id="ch24mod03_sques" class="self-check-questions">
+      <title id="UUIDa6927252-a966-47e6-751a-1f32bb84d4d5">Pytania sprawdzające</title>
+      <exercise id="ch24mod03_sques01">
+        <problem id="ch24mod03_squesp01">
+          <para id="ch24mod03_p10">Załóżmy, że polski parlament uchwala znaczącą reformę imigracyjną, która utrudnia obcokrajowcom uzyskiwanie pozwoleń na pracę. Użyj modelu AD-AS, aby wyjaśnić, w jaki sposób wpłynie to na polski PKB i poziom cen w równowadze.</para>
         </problem>
-        <solution id="ch24mod04_sques01s">
-          <para id="ch24mod04_p21">Wzrost cen akcji sprawia, że ludzie czują się bogatsi, a tym samym – wraz z poprawą ich nastrojów – rośnie konsumpcja. To z kolei przesunie krzywą AD w prawo. Rezultatem jest wzrost wartości PKB i wzrost poziomu cen w stanie równowagi.</para>
+        <solution id="ch24mod03_sques01s">
+          <para id="ch24mod03_p11">W równowadze realny PKB się obniży, a poziom cen wzrośnie.</para>
         </solution>
       </exercise>
-      <exercise id="ch24mod04_sques02">
-        <problem id="ch24mod04_squesp02">
-          <para id="ch24mod04_p22">Załóżmy, że w Unii Europejskiej, która jest jednym z najważniejszych partnerów handlowych Polski i ważnym odbiorcą eksportu z naszego kraju, wybucha recesja. Użyj modelu AD-AS, aby określić prawdopodobny wpływ tej sytuacji na wielkość PKB i poziom cen w Polsce.</para>
+      <exercise id="ch24mod03_sques02">
+        <problem id="ch24mod03_squesp02">
+          <para id="ch24mod03_p12">Przyjmijmy, że obawy dotyczące rozmiarów deficytu budżetowego skłoniły rząd do obcięcia wszystkich funduszy na badania i rozwój na najbliższe dziesięć lat. Zakładając, że ma to wpływ na rozwój technologii, jak – zgodnie z modelem AD-AS – zmieni się PKB i poziom cen w równowadze?</para>
         </problem>
-        <solution id="ch24mod04_sques02s">
-          <para id="ch24mod04_p23">Ponieważ import zależy od PKB, to jeśli kraje UE wpadną w recesję, ich PKB i import spadną. W efekcie eksport Polski zmaleje, co można przedstawić jako przesunięcie krzywej AD w lewo prowadzące do zmniejszenia wartości PKB i poziomu cen w Polsce.</para>
-        </solution>
-      </exercise>
-      <exercise id="ch24mod04_sques03">
-        <problem id="ch24mod04_squesp03">
-          <para id="ch24mod04_p24">Pewien polityk twierdzi, że obniżki podatków wyprowadzą gospodarkę z recesji, w której rzeczywiście się ona znajduje. Czy możemy użyć modelu AD-AS, aby to potwierdzić?</para>
-        </problem>
-        <solution id="ch24mod04_aques03s">
-          <para id="ch24mod04_p25">Niższe podatki zwiększą konsumpcję lub inwestycje (w zależności od tego, które z nich zostaną obniżone). W efekcie krzywa AD przesuwa się w prawo. A zatem jeśli podatki są obniżane podczas recesji (gdy PKB znajduje się znacznie poniżej poziomu potencjalnego), produkcja rośnie i gospodarka może znaleźć się ponownie na ścieżce wzrostu.</para>
-        </solution>
-      </exercise>
-      <exercise id="ch24mod04_sques04">
-        <problem id="ch24mod04_squesp04">
-          <para id="ch24mod04_p26">Wielu analityków finansowych i ekonomistów z niecierpliwością czeka na komunikaty prasowe dotyczące cen nieruchomości i wskaźnika nastrojów konsumentów. Co się stanie po opublikowaniu informacji, że ceny mieszkań i domów oraz nastroje konsumentów spadają? A co by się stało, gdyby stosowny komunikat informował o wzroście cen nieruchomości i poprawie nastrojów konsumentów?</para>
-        </problem>
-        <solution id="ch24mod04_sques04s">
-          <para id="ch24mod04_p27">Po otrzymaniu negatywnego komunikatu na temat zmiany cen nieruchomości, stanowiących dla większości osób znaczną część majątku, konsumenci będą przewidywać, że wartość ich domów i mieszkań, a tym samym majątku, zmaleje. Pogorszenie nastrojów konsumentów spowoduje, że będą oni bardziej pesymistycznie patrzeć w przyszłość. W rezultacie wydatki konsumpcyjne się zmniejszą, przesuwając krzywą AD w lewo, co doprowadzi do spadku PKB i niższego poziomu cen. Pozytywny komunikat wywoła efekty odwrotne.</para>
+        <solution id="ch24mod03_sques02s">
+          <para id="ch24mod03_p13">Biorąc pod uwagę przyjęte tutaj założenia, cięcia w finansowaniu prac badawczo-rozwojowych powinny ograniczyć tempo wzrostu wydajności czynników wytwórczych. Zgodnie z modelem AD-AS krzywa SAS przesunie się w lewo, co doprowadzi do spadku PKB i wzrostu cen w równowadze oraz najpewniej ograniczy skalę redukcji deficytu.</para>
         </solution>
       </exercise>
     </section>
-    <section id="ch24mod04_rques" class="review-questions">
-      <title id="UUID8e039ea8-2396-4ad8-76a0-ce3fb913db50">Sprawdź wiedzę</title>
-      <exercise id="ch24mod04_rques01">
-        <problem id="ch24mod04_rquesp01">
-          <para id="ch24mod04_p28">Wymień kilka czynników, które mogą spowodować przesunięcie krzywej popytu globalnego. Określ, w którą stronę przesunie się krzywa AD.</para>
+    <section id="ch24mod03_rques" class="review-questions">
+      <title id="UUID8d1c7eed-0415-47bf-41cd-a960998b9bed">Sprawdź wiedzę</title>
+      <exercise id="ch24mod03_rques01">
+        <problem id="ch24mod03_rques01p">
+          <para id="ch24mod03_p14">Wymień kilka czynników, które powodują przesunięcie krzywej SAS. Wskaż, w którą stronę przesunie się ona pod wpływem działania każdego z nich.</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod04_rques02">
-        <problem id="ch24mod04_rquesp02">
-          <para id="ch24mod04_p29">Czy przesunięcie krzywej popytu globalnego w prawo spowoduje wzrost, czy spadek produkcji i poziomu cen w równowadze? A co się stanie, gdy krzywa AD przesunie się w lewo?</para>
+      <exercise id="ch24mod03_rques02">
+        <problem id="ch24mod03_rques02p">
+          <para id="ch24mod03_p15">Czy przesunięcie krzywej SAS w prawo (w dół) spowoduje, że poziomy produkcji i cen w równowadze będą wyższe, czy niższe? A co się stanie, gdy krzywa SAS przesunie się w lewo (w górę)?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod03_rques03">
+        <problem id="ch24mod03_rques03p">
+          <para id="ch24mod03_p16">Czym jest stagflacja?</para>
         </problem>
       </exercise>
     </section>
-    <section id="ch24mod04_ctques" class="critical-thinking">
-      <title id="UUIDda1f9942-33b8-4b54-4040-f9d63dccaf69">Ćwicz myślenie krytyczne</title>
-      <exercise id="ch24mod04_ctques01">
-        <problem id="ch24mod04_ctquesp01">
-          <para id="ch24mod04_p30">Jeśli gospodarstwa domowe zdecydują się przeznaczać większą część swoich dochodów na oszczędności, to jak się zmieni produkcja, zatrudnienie i poziom cen w krótkim okresie? A co się stanie w długim okresie?</para>
+    <section id="ch24mod03_ctques" class="critical-thinking">
+      <title id="UUID442a791a-e04e-41ad-57a0-9b37b5b1391d">Ćwicz myślenie krytyczne</title>
+      <exercise id="ch24mod03_ctques01">
+        <problem id="ch24mod03_ctques01p">
+          <para id="ch24mod03_p17">Ekonomiści spodziewali się, że wraz z dalszym usztywnianiem rynku pracy w USA w drugiej połowie 2015 r. pracownicy zaczną oczekiwać podwyżek płac w 2015 i 2016 r. Zakładając, że taka zmiana miała miejsce i że była to jedyna zmiana na rynku pracy w 2015 r., zastanów się, jak wpłynęło to na krzywą AS? Co by się stało, gdyby towarzyszył temu również wzrost wydajności pracowników?</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod04_ctques02">
-        <problem id="ch24mod04_ctquesp02">
-          <para id="ch24mod04_p31">Jeśli przedsiębiorcy bardziej optymistycznie patrzą w przyszłość, a jednocześnie innowacyjne drukarki 3D zwiększają produktywność większości pracowników, to jaki jest łączny wpływ tych zmian na produkcję, zatrudnienie i poziom cen?</para>
+      <exercise id="ch24mod03_ctques02">
+        <problem id="ch24mod03_ctques02p">
+          <para id="ch24mod03_p18">Jeśli nowe regulacje wymagają od przedsiębiorstw stosowania czystszej (generującej mniejsze zanieczyszczenie środowiska) technologii, która jest przy tym mniej efektywna niż dotychczasowa, jak zmieni się poziom produkcji, cen i zatrudnienie zgodnie z modelem AD-AS?</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod04_ctques03">
-        <problem id="ch24mod04_ctquesp03">
-          <para id="ch24mod04_p32">Jeśli państwo obniża podatki i jednocześnie wśród przedsiębiorców zaczynają dominować negatywne nastroje, to jaki jest łączny wpływ tych zmian na produkcję, poziom cen i zatrudnienie zgodnie z modelem AD-AS?</para>
+      <exercise id="ch24mod03_ctques03">
+        <problem id="ch24mod03_ctques03p">
+          <para id="ch24mod03_p19">Wiosną 2016 r. środkowo-zachodnie stany USA, które specjalizują się w produkcji rolnej, doświadczyły ponadprzeciętnych opadów deszczu. Korzystając z modelu AD-AS, określ, jaki jest wpływ tego zjawiska na wielkość produkcji, poziom cen i zatrudnienie.</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod03_ctques04">
+        <problem id="ch24mod03_ctques04p">
+          <para id="ch24mod03_p20">Szczelinowanie hydrauliczne (pozyskiwanie gazu łupkowego) jest metodą pozwalającą na znaczne zwiększenie wydobycia gazu ziemnego w USA. Jeśli spalanie tego surowca jest kluczowym źródłem energii dla większości amerykańskich fabryk i przedsiębiorstw, jaki będzie wpływ upowszechnienia tej technologii dla wielkości produkcji, poziomu cen i zatrudnienia w gospodarce USA?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod03_ctques05">
+        <problem id="ch24mod03_ctques05p">
+          <para id="ch24mod03_p21">Zdaniem niektórych polityków płaca minimalna powinna być indeksowana wskaźnikiem wzrostu cen towarów i usług konsumpcyjnych (CPI). Korzystając z modelu AD-AS, określ, jaki prawdopodobny wpływ miałaby taka sytuacja na wielkość produkcji, poziom cen i zatrudnienie.</para>
         </problem>
       </exercise>
     </section>
   </content>
+  <glossary id="UUIDb1b22330-998b-4750-50d4-cafe17963753">
+    <definition id="ch24mod03_gl01">
+      <term id="UUID1778c8fe-c576-49f1-40a7-e661d4f2846a">stagflacja (ang. <foreign xml:lang="en" id="UUID3d0ad7e1-b5ea-42f0-43d1-ca86b809684b">stagflation</foreign>)</term>
+      <meaning id="ch24mod03_gl01m">
+        <para id="UUID6ca2c27f-8ca1-45d5-5c86-4f2261d57b73">sytuacja, gdy w gospodarce występuje jednocześnie spadek produkcji związany ze wzrostem bezrobocia oraz wysoka inflacja; połączenie <emphasis effect="bold">stag</emphasis>nacji i in<emphasis effect="bold">flacji</emphasis></para>
+      </meaning>
+    </definition>
+  </glossary>
 </document>

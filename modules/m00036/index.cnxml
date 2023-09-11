@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U4ae20372-518e-486e-b71f-aa660530a96a" id="U4ae20372-518e-486e-b71f-aa660530a96a" xml:lang="en" cnxml-version="0.7">
-  <title>6.6 Keynes’ Law and Say’s Law in the AD/AS Model</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub3868635-5fcd-4432-814c-48345b4710ae" id="Ub3868635-5fcd-4432-814c-48345b4710ae" xml:lang="en" cnxml-version="0.7">
+  <title>6.5 How the AD/AS Model Incorporates Growth, Unemployment, and Inflation</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00036</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/4ae20372-518e-486e-b71f-aa660530a96a</md:content-url>
-    <md:title>6.6 Keynes’ Law and Say’s Law in the AD/AS Model</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/b3868635-5fcd-4432-814c-48345b4710ae</md:content-url>
+    <md:title>6.5 How the AD/AS Model Incorporates Growth, Unemployment, and Inflation</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:04.094853802+00:00</md:version>
-    <md:created>2023-08-30T08:02:04.094853802+00:00</md:created>
-    <md:revised>2023-08-30T08:02:04.094853802+00:00</md:revised>
+    <md:version>2023-09-11T10:25:06.980067733+00:00</md:version>
+    <md:created>2023-09-11T10:25:06.980067733+00:00</md:created>
+    <md:revised>2023-09-11T10:25:06.980067733+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,124 +20,154 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>4ae20372-518e-486e-b71f-aa660530a96a</md:uuid>
+    <md:uuid>b3868635-5fcd-4432-814c-48345b4710ae</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUID704d5026-5543-87ut-7c527b82d03b3911" class="learning-objectives">
-      <para id="ch24mod96_h2">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <note type="note" id="UUID704d5026-5543-8463-7c527b82d03b3911" class="learning-objectives">
+      <para id="ch14mod05_801">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUIDa2c08077-7877-440a-5bf8-36e25ae59ca3">
-          <para id="UUIDb8e4d128-b00e-4b09-589f-ca3d255dc0a6">Wskazać obszar neoklasyczny, pośredni i keynesowski w modelu popytu globalnego i podaży globalnej</para>
+        <item id="UUID1410b7c7-84a9-412a-7847-4e6382793f0b">
+          <para id="UUID8e6334da-b8c7-4084-66a8-37655240d520">Wykorzystać model AD-AS do zilustrowania okresów wzrostu gospodarczego i recesji</para>
         </item>
-        <item id="UUID4c43dc89-8267-4e95-469a-51ccac0567ed">
-          <para id="UUIDe8e5acd9-d1f6-4683-4ee1-8b6242e00203">Wykorzystać model AD-AS do diagnozy kondycji gospodarczej swojego kraju</para>
+        <item id="UUID9622e57b-e62c-42fb-6154-12035cd477b5">
+          <para id="UUIDb0756038-7181-49b8-7653-2b5a31bb1dfa">Wytłumaczyć, w jaki sposób model AD-AS pokazuje zjawiska bezrobocia i inflacji</para>
+        </item>
+        <item id="UUID62c8bd7c-b30c-448e-7fd2-4d1843190a33">
+          <para id="UUID7ea4257f-e8ca-4f28-670f-6e7434a41a1d">Ocenić znaczenie modelu AD-AS w ukazywaniu zależności makroekonomicznych</para>
         </item>
       </list>
     </note>
-    <para id="ch24mod06_p01">Możemy użyć modelu AD-AS do zilustrowania zarówno <term cmlnle:reference="prawo Saya" id="UUID7cf388e3-0f44-4551-451b-f567c7adf761">prawa rynków Saya</term> (<foreign xml:lang="en" id="UUIDa7a00479-79c5-452e-47c0-e6fb6fdc4239"><term id="UUIDa5c2338d-22f6-4541-4b69-50d390faba9d">Say's law</term></foreign>), zgodnie z którym to podaż kreuje swój popyt, jak i <term cmlnle:reference="prawo Keynesa" id="UUID669c6408-8fbe-4e56-54ff-96848ed5daa1">prawa rynków Keynesa</term> (<foreign xml:lang="en" id="UUID962f7201-cb50-412d-79ee-02f4493b76e6"><term id="UUID1a17bc35-acf4-4f4c-6f41-b44dda98690b">Keynes' law</term></foreign>), które kładzie nacisk na popyt jako czynnik przesądzający o wielkości podaży. W tym celu rozważmy trzy obszary na wykresie krzywej SAS, które przedstawiono na <link target-id="CNX_Econ_C24_011" cmlnle:case="locative" id="UUID9573ff96-d223-45aa-54df-c356929fe3e2" />.</para>
-    <figure id="CNX_Econ_C24_011">
-      <title id="UUID9d2d9f84-64c3-44d1-7814-e671c5f18481">Obszar keynesowski, neoklasyczny i pośredni na wykresie krzywej podaży globalnej</title>
-      <media alt="Wykres przedstawia trzy krzywe popytu globalnego, które oddzielają od siebie obszary: keynesowski, pośredni i neoklasyczny. Obszar keynesowski znajduje się po lewej stronie i jednocześnie najniżej, pośredni leży pośrodku, zaś neoklasyczny jest wysunięty najbardziej na prawo i położony najwyżej." id="mCNX_Econ_C24_011">
-        <image src="../../media//CNX_Econ_C24_011.svg" mime-type="image/svg+xml" id="UUID4396c6e0-737e-4ac0-62d8-e6e9168b86ee" />
-      </media>
-      <caption id="UUIDd0a36590-90ec-438f-427a-a94aaa8da40b">W pobliżu punktu równowagi E<sub>k</sub>, czyli w obszarze keynesowskim, położonym po lewej stronie wykresu krzywej SAS, niewielkie przesunięcia krzywej popytu globalnego w prawo lub w lewo oddziałują na wolumen produkcji Y<sub>k</sub>, ale nie wpływają znacząco na poziom cen. W obszarze keynesowskim popyt globalny AD w dużej mierze determinuje wielkość produkcji. W pobliżu punktu równowagi E<sub>n</sub>, czyli w obszarze neoklasycznym znajdującym się po prawej stronie krzywej SAS, niewielkie przesunięcia krzywej AD w prawo lub w lewo będą wywierały stosunkowo niewielki wpływ na wielkość produkcji Y<sub>n</sub>, ale będą miały silny wpływ na poziom cen. W obszarze neoklasycznym to prawie pionowa krzywa SAS, położona blisko poziomu potencjalnego PKB, określa w dużej mierze wielkość produkcji. W strefie pośredniej wokół punktu równowagi E<sub>p</sub> przesunięcie krzywej AD w prawo powoduje wzrost zarówno produkcji, jak i cen, podczas gdy ruch AD w lewo prowadzi do spadku produkcji i cen.</caption>
-    </figure>
-    <para id="UUIDab962af2-d0f2-4754-6b41-e66488bb6da3">Spójrzmy najpierw na <term cmlnle:reference="strefa keynesowska" id="UUID0307b128-ee00-4b96-6f01-eb78c22663ab">obszar keynesowski</term> (ang. <foreign xml:lang="en" id="UUIDb754fb01-06a0-4ef5-4b5b-831446e71169"><term id="UUID450093c6-c8f2-4cfb-51df-790680e852a5">Keynesian zone</term></foreign>), czyli tę część krzywej SAS, która leży po lewej stronie i jest stosunkowo płaska. Jeśli krzywa AD przecina krzywą SAS w punkcie równowagi E<sub>k</sub>, to co możemy powiedzieć o sytuacji gospodarczej w tym obszarze? Otóż wartość realnego PKB jest znacznie niższa od poziomu potencjalnego, gospodarka znajduje się w recesji, a bezrobocie przymusowe jest wysokie. Jeśli popyt globalny zwiększy się lub zmniejszy, nowe położenie krzywej popytu globalnego określi finalną wielkość produkcji (a tym samym poziom bezrobocia). Presja inflacyjna w obszarze keynesowskim nie jest istotnym powodem do niepokoju, ponieważ poziom cen jest w miarę stabilny – producenci reagują na zwiększony popyt głównie wzrostem produkcji, a nie wzrostem cen.</para>
-    <para id="ch24mod06_p02">Przeanalizujmy teraz <term cmlnle:reference="strefa neoklasyczna" id="UUIDe5ba767e-b2d4-4ab4-73e2-c1cbc58ee028">obszar neoklasyczny</term> (ang. <foreign xml:lang="en" id="UUIDc906c2d2-46bd-4cb0-7171-604a3ba1df23"><term id="UUIDd340749f-8180-4c3d-49b3-5d7da8c96c8b">neoclassical zone</term></foreign>) krzywej SAS, charakteryzujący się niemal pionowym kształtem tej krzywej i znajdujący się po jej prawej stronie. Jeśli popyt globalny AD przecina tę część krzywej SAS w punkcie równowagi, takim jak E<sub>n</sub>, gdzie produkcja jest równa lub zbliżona do poziomu potencjalnego, wówczas wielkość potencjalnego PKB w dużej mierze określa faktyczny poziom produkcji w gospodarce. Ponieważ równowaga jest bliska potencjalnemu PKB, bezrobocie przymusowe jest niskie, chociaż problemem może być bezrobocie strukturalne. W obszarze neoklasycznym wzrost lub spadek popytu globalnego ma niewielki wpływ na wolumen produkcji i zatrudnienie. Jedynym sposobem na zwiększenie realnego PKB jest przesunięcie krzywej AS w prawo. Zmiany popytu globalnego w obszarze neoklasycznym prowadzą do zmian poziomu cen.</para>
-    <para id="ch24mod06_p03">Na koniec przyjrzyjmy się <term cmlnle:reference="strefa pośrednia" id="UUID93ada518-9ec9-4add-4244-9598759a8602">obszarowi pośredniemu</term> (an. <foreign xml:lang="en" id="UUID8593f32d-79de-428a-62d6-4b3415176e94"><term id="UUIDd9e3eb63-00d5-4884-786e-e8c82fa6199c">intermediate zone</term></foreign>) krzywej SAS na <link target-id="CNX_Econ_C24_011" cmlnle:case="locative" id="UUID17d5d927-32d3-4e5f-614a-f50b309cf984" />. Jeśli popyt globalny przecina tę część krzywej SAS w punkcie równowagi takim jak E<sub>p</sub>, możemy się spodziewać, że przesunięcia krzywej popytu globalnego będą prowadzić do zmian bezrobocia i inflacji w przeciwnych kierunkach. Na przykład przesunięcie krzywej AD w prawo przybliży wolumen produkcji do poziomu potencjalnego, a tym samym zmniejszy bezrobocie, ale przyniesie też wyższy poziom cen (lub szybszą inflację). I odwrotnie, przesunięcie krzywej AD w lewo oddali produkcję od poziomu potencjalnego i zwiększy bezrobocie, ale spowoduje także obniżenie poziomu cen (lub spadek inflacji).</para>
-    <para id="ch24mod06_p04">Dzięki podzieleniu krzywej SAS na różne obszary możemy dokonać diagnozy stanu gospodarki, niczym lekarz badający pacjenta i określający jego kondycję na podstawie objawów. Najpierw należy określić, w jakim obszarze znajduje się analizowana gospodarka. Dzięki temu będziemy mogli stwierdzić, jakie będą konsekwencje zmian popytu globalnego i możliwości realizacji pożądanych, ale wykluczających się niekiedy celów polityki gospodarczej, w wyniku zastosowania przez państwo różnych jej kombinacji. Niektórzy ekonomiści uważają, że gospodarki w zasadzie nie przemieszczają się pomiędzy zdefiniowanymi powyżej obszarami. Na przykład ortodoksyjni keynesiści utrzymują, że gospodarki przez większość czasu znajdują się w obszarze keynesowskim, a obszar neoklasyczny postrzegają jako czysto teoretyczną abstrakcję. I odwrotnie, skrajni neoklasycy twierdzą, że gospodarki przez większość czasu znajdują się w obszarze neoklasycznym, a obszar keynesowski nie jest wart ich uwagi. <link document="m00037" id="UUID93acf947-ba19-4aef-5a7d-cc405ef323f0" /> i <link document="m00042" id="UUIDa4522dae-90d3-4975-5519-a257c239608f" /> powinny pomóc w wyjaśnieniu podstaw i konsekwencji tych przeciwstawnych poglądów na gospodarkę.</para>
-    <note type="note" id="ch24mod06_bring" class="bringhome economics">
-      <title id="UUIDaf467365-3fc3-41b3-40fe-71b585ffcd88">Recesja wywołana pandemią: kwestia popytu czy podaży?</title>
-      <para id="UUID16a70b98-554b-4a66-54b5-c9448e705f21">Wspomnieliśmy wcześniej, że globalna pandemia zagrażającej życiu ludzkiemu choroby, takiej jak Covid-19, może spowodować przesunięcie krzywej podaży globalnej w lewo, ze względu na tymczasowe zmniejszenie liczby pracowników chętnych do podjęcia zatrudnienia i wstrzymanie produkcji dóbr, zarówno z uwagi na brak rąk do pracy, jak i administracyjne ograniczenia w prowadzeniu działalności gospodarczej, przede wszystkim w sektorze usług (określane mianem lockdownów). Pandemie mogą jednak również wpływać na zagregowany popyt. Kiedy ludzie wahają się, czy wydawać pieniądze ze względu na wysokie prawdopodobieństwo utraty pracy lub po prostu z obawy przed pojawianiem się w miejscach publicznych, będzie to miało wpływ na zagregowane wydatki w gospodarce. Konsumenci wydają mniej m.in. w restauracjach, hotelach, przestają odwiedzać bary, kluby i dyskoteki, nie chodzą na siłownię itd., zaś firmy przestają inwestować z powodu braku popytu i niepewnej przyszłości. Oba czynniki prowadzą do przesunięcia krzywej zagregowanego popytu w lewo.</para>
-      <para id="UUIDb13ed779-6362-4435-485b-6402f982d459">Choć trwają dyskusje, czy wywołana pandemią globalna recesja, której polska gospodarka doświadczyła w 2020 r., była napędzana przede wszystkim przez malejącą podaż, czy kurczący się popyt, najbardziej prawdopodobna odpowiedź będzie brzmiała: zarówno przez jedno, jak i drugie. W marcu i kwietniu 2020 r. pracownicy masowo opuszczali rynek pracy, a później w ciągu roku wahali się, czy powrócić ze względu na obawy dotyczące zdrowia i bezpieczeństwa. Wiele osób było również zmuszonych do odwołania planowanych podróży lub zrezygnowało z nich dobrowolnie z obawy o swoje bezpieczeństwo, co dodatkowo zmniejszyło zagregowany popyt. Doprowadziło to do głębokiego ograniczenia wolumenu produkcji w gospodarce światowej (przede wszystkim w Chinach, z ich niezwykle restrykcyjną polityką lockdownów), które było odczuwalne jeszcze w drugiej połowie 2022 r.</para>
-    </note>
-    <section id="ch24mod06_summ" class="summary">
-      <title id="UUIDcd4d1a3f-f86e-4b08-71fc-ed410baade1a">Podsumowanie</title>
-      <para id="ch24mod06_p09">Krzywą SAS możemy podzielić na trzy obszary. Zgodnie z prawem rynków Keynesa popyt kreuje podaż, więc przesunięcie krzywej popytu globalnego spowoduje zmiany realnego PKB i poziomu zatrudnienia. Działanie prawa Keynesa możemy pokazać na poziomej części krzywej podaży globalnej, w tzw. obszarze keynesowskim. Znajduje się on po lewej stronie krzywej SAS, czyli w jej płaskiej części, więc zmiany popytu globalnego będą miały silny wpływ na wolumen produkcji, ale niewielki na poziom cen. Prawo rynków Say'a opiera się na założeniu, iż to podaż kreuje popyt na samą siebie. W takiej sytuacji zmiany popytu globalnego nie oddziałują na realny PKB i zatrudnienie, a jedynie na poziom cen. Działanie prawa Say'a możemy pokazać na pionowej części krzywej podaży globalnej, czyli w tzw. obszarze neoklasycznym. Leży on po prawej stronie krzywej SAS, w jej stromej – prawie pionowej – części, więc zmiany popytu globalnego będą miały silny wpływ na poziom cen, ale niewielki na wolumen produkcji. Obszar pośredni znajduje się pośrodku krzywej SAS, w jej rosnącej części, co oznacza, że wzrost popytu globalnego spowoduje zwiększenie produkcji i cen, podczas gdy spadek AD doprowadzi do zmniejszenia obu parametrów.</para>
+    <para id="ch24mod05_p01">Model AD-AS przedstawia szereg wzajemnych powiązań pomiędzy trzema parametrami makroekonomicznymi: wzrostem gospodarczym, bezrobociem i inflacją. Utrzymywanie pierwszego z nich na możliwie wysokim i stabilnym poziomie, zaś dwóch pozostałych na jak najniższym jest jednym z najważniejszych zadań realizowanej przez państwo polityki gospodarczej. Co więcej, ramy modelu AD-AS są wystarczająco elastyczne, aby uwzględnić zarówno podejście oparte na prawie rynków Keynesa, które koncentruje się na zagregowanym popycie i krótkim okresie, jak i alternatywny sposób postrzegania relacji makroekonomicznych, wykorzystujący prawo rynków Saya, w centrum rozważań stawiające zagregowaną podaż i długi okres. Są to niezwykle istotne zalety tego modelu, ale należy pamiętać, że każdy model jest uproszczeniem rzeczywistości. W niniejszym podrozdziale skupimy się na tym, w jaki sposób w modelu AD-AS można zilustrować szybki wzrost gospodarczy, niskie bezrobocie i niską inflację.</para>
+    <section id="ch24mod05_01">
+      <title id="UUID8483ee21-7c59-4230-6b69-f205507f7ab5">Wzrost gospodarczy i recesja w modelu AD-AS</title>
+      <para id="ch24mod05_p02">W modelu AD-AS długookresowy wzrost gospodarczy wynikający ze wzrostu produktywności jest reprezentowany przez stopniowe przesuwanie się krzywej podaży globalnej w prawo. Pionowa linia przedstawiająca potencjalny PKB (czyli PKB przy pełnym zatrudnieniu) w miarę upływu czasu również będzie się stopniowo przemieszczać w prawo. Panel (a) <link target-id="CNX_Econ_C24_015" cmlnle:case="genitive" id="UUID92a2d4bb-f489-47b8-797f-089c3563179b" /> pokazuje wzrost gospodarczy w ciągu trzech lat, z krzywą AS przesuwającą się nieznacznie w prawo w każdym roku. Jednak czynniki, które decydują o szybkości długookresowego tempa wzrostu gospodarczego – takie jak inwestycje w kapitał rzeczowy i ludzki oraz technologia – nie są bezpośrednio uwzględnione na wykresie przedstawiającym model AD-AS.</para>
+      <para id="UUID8c5b2c64-49cc-4c90-4dd9-035e76026562">W krótkim okresie PKB może zarówno rosnąć, jak i maleć, co odpowiada fazom ożywienia gospodarczego i recesji. W modelu AD-AS recesja występuje wtedy, gdy realny PKB w równowadze jest dużo niższy od potencjalnego, co widać w punkcie równowagi E<sub>0</sub> na <link target-id="CNX_Econ_C24_008" document="m00035" cmlnle:case="locative" id="UUID172b020b-1691-40e6-5297-2b58d2e42108" />. W okresach korzystnej koniunktury, kiedy wzrost gospodarczy przyspiesza, równowaga będzie zazwyczaj występować w punkcie położonym blisko poziomu potencjalnego PKB, co pokazuje punkt E<sub>1</sub>.</para>
     </section>
-    <section id="ch24mod06_sques" class="self-check-questions">
-      <title id="UUIDc72fc320-7ebc-47e6-4a2b-aa7038656d0c">Pytania sprawdzające</title>
-      <exercise id="ch24mod06_sques01">
-        <problem id="ch24mod06_squesp01">
-          <para id="ch24mod06_p10">Jeśli kondycja gospodarki sytuuje ją w neoklasycznym obszarze krzywej SAS, a popyt globalny spada, co najprawdopodobniej stanie się z poziomem realnego PKB?</para>
+    <section id="ch24mod05_02">
+      <title id="UUID8315c01f-d01e-45a4-5ee2-4be535d6ba17">Bezrobocie w modelu AD-AS</title>
+      <para id="ch24mod05_p04">W <link document="m00013" cmlnle:case="locative" id="UUID970327a8-cbc8-4b25-6607-a741c81be5b0" /> opisaliśmy dwa rodzaje bezrobocia. Krótkookresowe wahania bezrobocia, czyli <term id="UUIDdbc764e2-1fbf-4c2b-5638-98897a96cc56">bezrobocie cykliczne</term> (ang. <foreign xml:lang="en" id="UUID3f3deddb-92d9-4e4a-42cf-18c5ee34a16d"><term id="UUIDd2e74673-06f0-4f3a-7fb3-120ba9bd9863">cyclical unemployment</term></foreign>) jest konsekwencją cykli koniunkturalnych – występujących naprzemiennie okresów ekspansji i recesji. W długim okresie (mierzonym dekadami) w Stanach Zjednoczonych, jeśli sytuacja gospodarcza jest relatywnie dobra, stopa bezrobocia zwykle oscyluje wokół 5% +/- 1 punkt procentowy. Z kolei w wielu krajach europejskich w ostatnich dziesięcioleciach nawet w okresach dobrej koniunktury stopa bezrobocia kształtowała się na poziomie ok. 10% lub niewiele niższym. Ten bazowy poziom bezrobocia, który występuje przeciętnie w długim okresie, nazywamy <term cmlnle:reference="naturalna stopa bezrobocia" id="UUIDcf9bb164-6d99-4bbf-40ec-7e90b53ffb28">naturalną stopą bezrobocia</term> (<foreign xml:lang="en" id="UUID1e3314f6-37ad-4756-5a3b-17a9579af030"><term id="UUID41aa8653-7f48-4d39-57ad-f5fcdc0efc8d">natural rate of unemployment</term></foreign>). Mamy z nią do czynienia nawet wtedy, gdy rynek pracy pozostaje w równowadze, czyli wszyscy chętni mogą znaleźć zatrudnienie. Poziom naturalnej stopy bezrobocia jest efektem tego, jak dobrze struktury rynku oraz instytucje w gospodarce dopasowują pracowników i pracodawców na rynku pracy, a także czynników demograficznych (liczby pracowników schodzących z rynku pracy i tych, którzy nań wchodzą). To właśnie demografia w dużej mierze zadecydowała o dość szybkim spadku bezrobocia w Polsce na przełomie drugiej i trzeciej dekady XXI w. Naturalna stopa bezrobocia odpowiada potencjalnemu PKB. W różnych krajach wysokości naturalnych stóp bezrobocia mogą się od siebie dość znacznie różnić.</para>
+      <para id="UUIDa89bee25-919b-4938-4405-9deb689a2a53">Z wykresu przedstawiającego model AD-AS można odczytać wielkość bezrobocia cyklicznego na podstawie odległości między faktycznym poziomem PKB a poziomem potencjalnym (tj. PKB przy pełnym zatrudnieniu). Wracając do <link target-id="CNX_Econ_C24_008" document="m00035" cmlnle:case="genitive" id="UUID1c045371-65b3-4681-4d90-b08239fa7817" />, względnie niskie bezrobocie cykliczne występuje wtedy, gdy produkcja jest bliska potencjalnemu PKB, co ma miejsce w punkcie równowagi E<sub>1</sub>. I odwrotnie, wysokie bezrobocie cykliczne pojawia się, gdy produkcja jest znacznie poniżej potencjalnego PKB, np. w punkcie równowagi E<sub>0</sub>. Chociaż w modelu AD-AS nie pokazujemy osobno czynników determinujących naturalną stopę bezrobocia, są one pośrednio uwzględnione w modelu, gdyż określają poziom potencjalnego PKB.</para>
+    </section>
+    <section id="ch24mod05_03">
+      <title id="UUIDd8247b4d-d118-4581-4621-2634b90a72a9">Inflacja w modelu AD-AS</title>
+      <para id="ch24mod05_p07">Wysokość inflacji zmienia się w krótkim okresie. Wyższa inflacja występuje zwykle w trakcie ożywienia gospodarczego lub tuż po nim. Najwyższe tempo wzrostu wartości wskaźnika cen towarów i usług konsumpcyjnych (CPI) w gospodarce amerykańskiej w XX w. wystąpiło w czasie gwałtownej poprawy koniunktury po dwu wojnach światowych. I odwrotnie, stopa inflacji na ogół spada podczas recesji. Skrajnym przykładem jest okres Wielkiego Kryzysu, kiedy inflacja przekształciła się w deflację, czyli spadek ogólnego poziomu cen w gospodarce. Również podczas stosunkowo krótkiej recesji w USA w latach 1991-1992 stopa inflacji obniżyła się z 5,4% w 1990 r. do 3,0% w 1992 r. W Polsce, w konsekwencji kryzysu finansowego z lat 2008-2014, również pojawiła się deflacja, jakkolwiek tempo wzrostu gospodarczego w naszym kraju było w ciągu całego tego okresu dodatnie. W niektórych krajach wysoka inflacja utrzymywała się na przestrzeni dekad. Z kolei w Stanach Zjednoczonych od połowy lat 80. XX w. inflacja pozostawała na relatywnie umiarkowanym poziomie 1–5% rocznie. Pytanie o to, jak długo będzie w Polsce trwał okres podwyższonej (sięgającej w szczytowym momencie blisko 20% rocznie) inflacji, zapoczątkowany w 2022 r., pozostaje w kwietniu 2023 r. bez jednoznacznej odpowiedzi.</para>
+      <para id="UUID3eef80de-d175-4717-7e90-284b328e490c">Model AD-AS wskazuje na dwie przyczyny inflacji. Pierwszym z możliwych czynników przyspieszających tempo wzrostu cen jest przesuwanie się krzywej popytu globalnego w prawo (wzrost AD) w momencie, gdy gospodarka już osiągnęła lub zbliżyła się do poziomu potencjalnego PKB i pełnego zatrudnienia. W efekcie następuje przesunięcie równowagi makroekonomicznej na stromą część krzywej AS. Panel (a) <link target-id="CNX_Econ_C24_015" cmlnle:case="genitive" id="UUIDd439959e-583f-4bfe-5c06-be4e58e82ff8" /> przedstawia przesunięcie krzywej popytu globalnego w prawo. Nowej równowadze E<sub>1</sub> towarzyszy znacznie wyższy poziom cen w porównaniu z początkowym stanem równowagi w E<sub>0</sub>. Oznacza to, że popyt globalny w gospodarce wzrósł do tego stopnia, iż przedsiębiorstwa nie są w stanie w określonym czasie wyprodukować więcej dóbr i usług, ponieważ praca i kapitał rzeczowy są w pełni wykorzystywane. A zatem dodatkowy wzrost zagregowanego popytu przekłada się wyłącznie na wzrost cen.</para>
+      <figure id="CNX_Econ_C24_015">
+        <title id="UUID5ca70d24-3b53-4e6c-71a7-9634b4310ac3">Źródła presji inflacyjnej w modelu AD-AS</title>
+        <media alt="Oba panele pokazują, w jaki sposób przesunięcie popytu globalnego lub podaży globalnej przekłada się na wzrost poziomu cen (inflację). Panel (a) przedstawia przesunięcie krzywej popytu globalnego w prawo. Panel (b) ilustruje przesunięcie krzywej podaży globalnej w lewo." id="mCNX_Econ_C24_015">
+          <image src="../../media//CNX_Econ_C24_015.svg" mime-type="image/svg+xml" id="UUID2a3c5d83-e2ae-4d2d-4678-715872aa8208" />
+        </media>
+        <caption id="UUID16f05198-9a70-43a4-4443-c20850472aa9">Panel (a) Jeśli przesunięcie krzywej popytu globalnego z położenia AD<sub>0</sub> do AD<sub>1</sub> ma miejsce na odcinku krzywej SAS leżącym blisko poziomu potencjalnego PKB, konsekwencją tego ruchu jest wzrost produkcji oraz inflacji (wyższy poziomu cen). Nowa równowaga (E<sub>1</sub>) znajduje się przy wyższym poziomie cen (P<sub>1</sub>) niż początkowa równowaga. Panel (b) Przesunięcie krzywej podaży globalnej z położenia SAS<sub>0</sub> do SAS<sub>1</sub> powoduje spadek realnego PKB i wzrost poziomu cen (inflację). Nowa równowaga (E<sub>1</sub>) ukształtuje się przy wyższym poziomie cen (P<sub>1</sub>) niż stan początkowy (E<sub>0</sub>), któremu odpowiada niższy poziom cen (P<sub>0</sub>).</caption>
+      </figure>
+      <para id="UUID68c595eb-6858-40fd-72a0-21b09f492134">Drugą przyczyną inflacji jest negatywna zmiana po stronie podażowej (przesunięcie krzywej SAS w lewo), wywołana np. wzrostem cen kluczowych czynników wytwórczych wykorzystywanych przez wszystkie lub większość przedsiębiorstw w gospodarce, np. wzrostem cen ropy naftowej lub wzrostem kosztów pracy związanym z wyższymi narzutami na pracę. W efekcie krzywa podaży globalnej przesuwa się w lewo. Na panelu (b) <link target-id="CNX_Econ_C24_015" cmlnle:case="genitive" id="UUID151662e1-70ca-4b3b-441d-d791f672d941" /> można dostrzec, że przesunięcie krzywej SAS w lewo zwiększa poziom cen z P<sub>0</sub> w początkowej równowadze (E<sub>0</sub>) do P<sub>1</sub> w nowym stanie równowagi (E<sub>1</sub>). W rezultacie wzrost cen nakładów przekłada się na wzrost cen produktów finalnych.</para>
+      <para id="UUID15be6353-0a71-4178-5701-770b554ba5ea">Model AD-AS ilustruje jednorazową zmianę poziomu cen. Nie wyjaśnia, dlaczego inflacja czasem zanika po roku, a innym razem utrzymuje się przez kilka lat. Istnieją dwie przyczyny występowania trwałej inflacji. Pierwszą są ciągłe próby stymulowania przez państwo zagregowanego popytu, co prowadzi do nieustannego przesuwania się krzywej AD w prawo i wywołuje trwałą inflację, szczególnie wtedy, gdy punkt przecięcia krzywych AD i AS znajduje się na stromej części krzywej podaży globalnej. Po drugie, jeśli inflacja występuje od kilku lat, zarówno wśród ludzi, jak i przedsiębiorstw utrwalają się oczekiwania inflacyjne (wszyscy po prostu spodziewają się, że inflacja będzie trwałym elementem życia gospodarczego i negocjując podwyżkę lub wyznaczając przyszłe ceny, dostosowują swoje zachowanie do inflacji). Jeśli tak się stanie, to ceny, płace i stopy procentowe co roku będą rosły o wartość oczekiwanej inflacji. Dwa wskazane wyżej czynniki determinujące utrzymywanie się trwałej inflacji są ze sobą powiązane, ponieważ jeśli państwo prowadzi politykę polegającą na nieustannym stymulowaniu popytu globalnego niezależnie od rezerwy niewykorzystanych czynników produkcji (możemy ją nazwać polityką proinflacyjną), ludzie zaczynają się do niej przyzwyczajać i traktować jako nieodłączny element swojego postępowania. Wykres AD-AS nie pokazuje jednak w sposób bezpośredni czynników wywołujących trwałą inflację ani też przyczyn pojawienia się oczekiwań inflacyjnych.</para>
+    </section>
+    <section id="ch24mod05_04">
+      <title id="UUID7a3d9e37-b794-4ea1-626e-7ad0cc9bd841">Znaczenie modelu AD-AS</title>
+      <para id="UUID8cb4594a-64aa-4fb3-5223-2417cd6a6bb9">Makroekonomia analizuje gospodarkę jako całość, co oznacza, że musi wykorzystywać wiele różnych pojęć i koncepcji. Na przykład trzy główne cele gospodarowania w perspektywie makroekonomicznej to: trwały wzrost gospodarczy, niska inflacja i niskie bezrobocie. Z kolei popyt globalny składa się z czterech elementów: konsumpcji, inwestycji, wydatków państwa na dobra i usługi oraz eksportu pomniejszonego o import. Podaż globalna ilustruje dodatnią zależność pomiędzy wyższymi cenami dóbr finalnych i wolumenem produkcji oferowanym przez przedsiębiorstwa. Popyt i podaż globalna mogą się zmienić (ich wykresy mogą się przesuwać) w konsekwencji różnych szoków (zdarzeń i decyzji politycznych), takich jak: zmiany podatków i wydatków, odwrócenie nastrojów konsumenckich, wzrost lub spadek cen kluczowych czynników produkcji (układy scalone, surowce energetyczne takie jak gaz ziemny i ropa naftowa, metale ziem rzadkich!) lub zmiana technologii przekładająca się na poziom produktywności.</para>
+      <para id="UUID688b8778-d894-42f7-407b-d98506e638fc">Model AD-AS, czyli model popytu globalnego i podaży globalnej, jest jednym z podstawowych modeli makroekonomicznych (podobnie jak w mikroekonomii model wyboru konsumenta omówiony w <link document="83006461-c1ab-496b-a819-f04adda88354" cmlnle:case="locative" id="UUID29eeec8c-ebe3-41fa-6a63-512a44e72ef3" /> lub model popytu i podaży opisany w <link document="acd6bf8d-72b4-47b5-9f19-9595a844d6ec" cmlnle:case="locative" id="UUIDd3485b63-c1bd-45f8-55cf-0b113e2c666f" />, ponieważ tworzy ogólne ramy do analizy bardzo różnych parametrów składających się na całość gospodarki. Różne wersje modelu AD-AS będą w związku z tym wykorzystywane w kolejnych rozdziałach podręcznika.</para>
+    </section>
+    <section id="ch24mod05_summ" class="summary">
+      <title id="UUID61f06557-4218-4e60-45f2-9792f0612e53">Podsumowanie</title>
+      <para id="UUID622d5507-335f-4f6b-5355-0afd06cbdfe3">Bezrobocie przymusowe jest wysokie, jeśli równowaga w modelu AD-AS występuje przy produkcji znacznie niższej od poziomu potencjalnego. Niskie zaś jest wtedy, gdy stan równowagi w modelu AD-AS znajduje się blisko linii wyznaczającej potencjalne PKB. Naturalna stopa bezrobocia, określona przez sposób funkcjonowania (instytucje) rynku pracy, to wartość tego parametru odpowiadająca potencjalnemu PKB. Zmiany stanu równowagi w modelu AD-AS można wykorzystać do wskazania czynników determinujących wahania stopy inflacji (zmiany poziomu cen). Handel zagraniczny wpływa na równowagę w modelu AD-AS na kilka sposobów. Wzrost eksportu lub spadek importu przesuwa krzywą popytu globalnego (AD) w prawo. Zmiany cen kluczowych czynników produkcji pochodzących z importu, takich jak ropa naftowa, powodują zmiany w podaży globalnej (AS). Model AD-AS jest podstawowym narzędziem używanym w niniejszym podręczniku do wyjaśniania zagadnień z obszaru makroekonomii.</para>
+    </section>
+    <section id="ch24mod05_sques" class="self-check-questions">
+      <title id="UUIDee4b0fca-5497-48e3-5014-a2e65b0679e9">Pytania sprawdzające</title>
+      <exercise id="ch24mod05_sques01">
+        <problem id="ch24mod05_squesp01">
+          <para id="ch24mod05_p15">Jaki jest – zgodnie z modelem AD-AS – wpływ spadku liczebności siły roboczej na PKB i poziom cen?</para>
         </problem>
-        <solution id="ch24mod06_sques01s">
-          <para id="ch24mod06_p11">Ponieważ krzywa SAS jest pionowa w obszarze neoklasycznym, spadek popytu globalnego spowoduje obniżenie poziomu cen, ale realny PKB i poziom zatrudnienia nie zmienią się (z wyjątkiem sytuacji, gdy początkowa równowaga była bardzo blisko obszaru pośredniego i właśnie tam gospodarka znajdzie się po spadku popytu globalnego).</para>
+        <solution id="ch24mod05_sques01s">
+          <para id="ch24mod05_p16">Malejący zasób siły roboczej powoduje przesunięcie krzywej AS w lewo, co prowadzi do niższego PKB i wyższego poziomu cen w równowadze.</para>
         </solution>
       </exercise>
-      <exercise id="ch24mod06_sques02">
-        <problem id="ch24mod06_squesp02">
-          <para id="ch24mod06_p12">Jeśli gospodarka działa w keynesowskim obszarze krzywej SAS, a popyt globalny spada, co najprawdopodobniej stanie się z poziomem realnego PKB?</para>
+      <exercise id="ch24mod05_sques02">
+        <problem id="ch24mod05_squesp02">
+          <para id="ch24mod05_p17">Załóżmy, że po pięciu latach stagnacji gospodarka Unii Europejskiej wchodzi na ścieżkę szybkiego wzrostu gospodarczego. Jakie będą tego skutki dla bilansu handlowego, PKB i zatrudnienia w USA?</para>
         </problem>
-        <solution id="ch24mod06_sques02s">
-          <para id="ch24mod06_p13">Ponieważ krzywa SAS jest pozioma w obszarze keynesowskim, spadek AD powinien doprowadzić do obniżenia się realnego PKB przy stałym poziomie cen.</para>
+        <solution id="ch24mod05_sques02s">
+          <para id="ch24mod05_p18">Szybszy wzrost gospodarczy w UE zwiększa popyt na amerykański eksport, zmniejszając deficyt handlowy Stanów Zjednoczonych. Zwiększony popyt na amerykański eksport powoduje przesunięcie krzywej AD w prawo, prowadząc do wzrostu PKB (i wyższego poziomu cen). Wyprodukowanie większej liczby dóbr i usług składających się na PKB wymaga większej liczby pracowników, więc zatrudnienie w USA również wzrośnie.</para>
+        </solution>
+      </exercise>
+      <exercise id="ch24mod05_sques03">
+        <problem id="ch24mod05_squesp03">
+          <para id="ch24mod05_p19">Załóżmy, że bank centralny (np. NBP) zaczyna zwiększać podaż pieniądza w coraz szybszym tempie. Jak wpłynie to na wartość PKB, bezrobocie i inflację?</para>
+        </problem>
+        <solution id="ch24mod05_sques03s">
+          <para id="ch24mod05_p20">Ekspansywna polityka pieniężna przesuwa krzywą AD w prawo. Im dłuższy jest okres jej wdrażania, tym większa będzie skala tego przesunięcia. W rezultacie PKB, podobnie jak zatrudnienie, rośnie (bezrobocie maleje), analogicznie do poziomu cen. Po osiągnięciu wolumenu produkcji równej potencjalnemu poziomowi PKB dalsza ekspansja monetarna przekładać się będzie wyłącznie na wzrost cen (inflację).</para>
         </solution>
       </exercise>
     </section>
-    <section id="ch24mod06_rques" class="review-questions">
-      <title id="UUID79c143be-9c67-4b42-6d5a-19326425861b">Sprawdź wiedzę</title>
-      <exercise id="ch24mod06_rques01">
-        <problem id="ch24mod06_rquesp01">
-          <para id="ch24mod06_p14">Czym jest keynesowski obszar krzywej SAS? Jak zmienia się w nim poziom cen?</para>
+    <section id="ch24mod05_rques" class="review-questions">
+      <title id="UUID63bc41a0-2c02-4c6a-6431-91fac9312057">Sprawdź wiedzę</title>
+      <exercise id="ch24mod05_rques01">
+        <problem id="ch24mod05_rquesp01">
+          <para id="ch24mod05_p21">W jaki sposób w modelu AD-AS można zilustrować długookresowy wzrost gospodarczy?</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod06_rques02">
-        <problem id="ch24mod06_rquesp02">
-          <para id="ch24mod06_p15">Czym jest neoklasyczny obszar krzywej SAS? Jak zmienia się w nim wielkość produkcji?</para>
+      <exercise id="ch24mod05_rques02">
+        <problem id="ch24mod05_rquesp02">
+          <para id="ch24mod05_p22">W jaki sposób w modelu AD-AS można zilustrować recesję?</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod06_rques03">
-        <problem id="ch24mod06_rquesp03">
-          <para id="ch24mod06_p16">Czym jest pośredni obszar krzywej SAS? Czy w tym obszarze powiększaniu produkcji towarzyszy wzrost, czy spadek poziomu cen?</para>
+      <exercise id="ch24mod05_rques03">
+        <problem id="ch24mod05_rquesp03">
+          <para id="ch24mod05_p23">W jaki sposób w modelu AD-AS można zilustrować bezrobocie przymusowe?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod05_rques04">
+        <problem id="ch24mod05_rquesp04">
+          <para id="ch24mod05_p24">W jaki sposób w modelu AD-AS można zilustrować naturalną stopę bezrobocia?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod05_rques05">
+        <problem id="ch24mod05_rquesp05">
+          <para id="ch24mod05_p25">W jaki sposób w modelu AD-AS można zilustrować inflację?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod05_rques06">
+        <problem id="ch24mod05_rquesp06">
+          <para id="ch24mod05_p26">W jaki sposób eksport i import mogą określać położenie krzywych popytu i podaży globalnej oraz wzajemne interakcje między tymi parametrami w modelu AD-AS?</para>
         </problem>
       </exercise>
     </section>
-    <section id="ch24mod06_ctques" class="critical-thinking">
-      <title id="UUID756989da-ba2e-4c1a-665f-e706b55288f4">Ćwicz myślenie krytyczne</title>
-      <exercise id="ch24mod06_ctques01">
-        <problem id="ch24mod06_ctquesp01">
-          <para id="ch24mod06_p17">Wyjaśnij, dlaczego krótkookresowa krzywa podaży globalnej (SAS) jest dość płaska w swoim obszarze keynesowskim. W jaki sposób możemy potwierdzić, że dana gospodarka znajduje się w tym właśnie obszarze?</para>
+    <section id="ch24mod05_ctques" class="critical-thinking">
+      <title id="UUID111b1177-dd0c-4c39-64a7-3a4b4c392718">Ćwicz myślenie krytyczne</title>
+      <exercise id="ch24mod05_ctques01">
+        <problem id="ch24mod05_ctquesp01">
+          <para id="ch24mod05_p27">Załóżmy, że bezrobocie strukturalne wzrasta. Jak wzrost tego rodzaju bezrobocia można przedstawić za pomocą modelu AD-AS? Wskazówka<emphasis effect="italics">:</emphasis> Zastanów się, jak bezrobocie strukturalne wpływa na poziom potencjalnego PKB.</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod06_ctques02">
-        <problem id="ch24mod06_ctquesp02">
-          <para id="ch24mod06_p18">Wyjaśnij, dlaczego krótkookresowa krzywa podaży globalnej (SAS) jest pionowa w swoim obszarze neoklasycznym. W jaki sposób możemy potwierdzić, że dana gospodarka znajduje się w tym właśnie obszarze?</para>
+      <exercise id="ch24mod05_ctques02">
+        <problem id="ch24mod05_ctquesp02">
+          <para id="ch24mod05_p28">Jeśli zagraniczni właściciele majątku zdecydują, że Polska, choćby ze względu na wojnę w Ukrainie, nie jest najbezpieczniejszym miejscem do inwestowania ich oszczędności, jaki będzie to miało wpływ na polską gospodarkę? Odpowiedź zilustruj za pomocą modelu AD-AS.</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod06_ctques03">
-        <problem id="ch24mod06_ctquesp03">
-          <para id="ch24mod06_p19">Dlaczego dla polityków gospodarczych kluczową kwestią pozostaje umiejscowienie gospodarki na konkretnym obszarze krzywej SAS?</para>
+      <exercise id="ch24mod05_ctques03">
+        <problem id="ch24mod05_ctquesp03">
+          <para id="ch24mod05_p29">Model AD-AS jest statyczny i pokazuje gospodarkę w danym punkcie w czasie. Tymczasem zarówno wzrost gospodarczy, jak i inflacja są zjawiskami dynamicznymi. Załóżmy, że wzrost gospodarczy wynosi 3% rocznie, a zagregowany popyt rośnie w tym samym tempie. Jaka powinna być stopa inflacji zgodnie z założeniami modelu AD-AS?</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod06_ctques04">
-        <problem id="ch24mod06_ctquesp04">
-          <para id="ch24mod06_p20">Czy twoim zdaniem polska gospodarka znajduje się obecnie na keynesowskim, pośrednim czy neoklasycznym obszarze krzywej podaży globalnej (SAS)?</para>
-        </problem>
-      </exercise>
-      <exercise id="ch24mod06_ctques05">
-        <problem id="ch24mod06_ctquesp05">
-          <para id="ch24mod06_p21">Czy prawo rynków Saya i prawo rynków Keynesa wzajemnie się wykluczają?</para>
-        </problem>
-      </exercise>
+    </section>
+    <section id="ch24mod05_ref" class="references">
+      <title id="UUIDdc0374b7-c59d-4dd3-402d-a01b5a4435ac">Bibliografia</title>
+      <para id="ch24mod05_ref01">Library of Economics and Liberty. “The Concise Encyclopedia of Economics: Jean-Baptiste Say.” http://www.econlib.org/library/Enc/bios/Say.html.</para>
+      <para id="ch24mod05_ref02">Library of Economics and Liberty. “The Concise Encyclopedia of Economics: John Maynard Keynes.” http://www.econlib.org/library/Enc/bios/Keynes.html.</para>
+      <para id="eip-634">Organization for Economic Cooperation and Development. 2015. "Business Tendency Surveys: Construction." Accessed March 4, 2015. http://stats.oecd.org/mei/default.asp?lang=e&amp;subject=6.</para>
+      <para id="eip-846">University of Michigan. 2015. "Surveys of Consumers." Accessed March 4, 2015. http://www.sca.isr.umich.edu/tables.html.</para>
     </section>
   </content>
-  <glossary id="UUID78fc14d9-3bc1-4332-6072-e8b5acfaee42">
-    <definition id="ch24mod06_gl01">
-      <term id="UUID1b95d159-c85e-4938-4282-dd133997acf8">obszar pośredni (ang. <foreign xml:lang="en" id="UUIDa540f552-2e28-45c7-7eb3-febc75f9653c">intermediate zone</foreign>)</term>
-      <meaning id="ch24mod06_gl01m">
-        <para id="UUIDf688ca83-a0b0-4091-684f-5dad9f4d906c">część krzywej SAS, na której PKB znajduje się poniżej poziomu potencjalnego, ale nie tak daleko, jak w obszarze keynesowskim; krzywa SAS ma nachylenie dodatnie</para>
+  <glossary id="UUID6fbfb358-264f-4df1-7d41-66da655c71ec">
+    <definition id="UUID66c7db9e-b748-4fbb-4047-ab412694e097">
+      <term id="UUIDbb2021ea-69b4-4295-6a66-bbf1df54e94a"><term id="UUIDdbc764e2-1fbf-4c2b-5638-98897a96cc56">bezrobocie cykliczne</term> (ang. <foreign xml:lang="en" id="UUIDcee5bc30-4fcf-4861-69c0-25c9eeb23d41"><term id="UUID186bc5b0-4936-49a2-7f43-2df4039f2a81">cyclical unemployment</term></foreign>)</term>
+      <meaning id="UUID797402b0-fa54-4b4c-4aac-e2b5cecf059e">
+        <para id="UUIDefdd4d54-2c8e-4abe-5448-667bf54cf93c">?</para>
       </meaning>
     </definition>
-    <definition id="ch24mod06_gl02">
-      <term id="UUIDfe586bd7-51c0-48b9-50f0-130e8d59745e">obszar keynesowski (ang. <foreign xml:lang="en" id="UUID6873313b-ae1e-48d9-5ba3-fa481b5cd300">Keynesian zone</foreign>)</term>
-      <meaning id="ch24mod06_gl02m">
-        <para id="UUID2bc93e7a-8b97-4371-69fc-f3c89b589a98">część krzywej SAS, na której PKB sytuuje się znacznie poniżej poziomu potencjalnego, a sama krzywa SAS jest płaska</para>
-      </meaning>
-    </definition>
-    <definition id="ch24mod06_gl03">
-      <term id="UUID54818b4e-0515-4e05-779b-7548359654e3">obszar neoklasyczny (ang. <foreign xml:lang="en" id="UUID5bc5b088-d98f-4a34-6616-0e8592dc5c4f">neoclassical zone</foreign>)</term>
-      <meaning id="ch24mod06_gl03m">
-        <para id="UUID5fcd4790-9c14-4912-7dda-b22087421159">część krzywej SAS, na której PKB jest równy lub zbliżony do poziomu potencjalnego, a sama krzywa SAS jest stroma</para>
+    <definition id="UUID763dd998-04e8-4ab9-4fc3-5d6be37f8862">
+      <term id="UUID3385fa36-8c59-4cb9-7b04-b66d0a318661"><term cmlnle:reference="naturalna stopa bezrobocia" id="UUIDcf9bb164-6d99-4bbf-40ec-7e90b53ffb28">naturalna stopa bezrobocia</term> (ang. <foreign xml:lang="en" id="UUID1e3314f6-37ad-4756-5a3b-17a9579af030"><term id="UUID41aa8653-7f48-4d39-57ad-f5fcdc0efc8d">natural rate of unemployment</term></foreign>)</term>
+      <meaning id="UUID03173465-cf32-44d2-7234-e2a6b1c0d4a7">
+        <para id="UUID6690c3e7-5646-49f9-6ec5-c7b45c4d5b76" />
       </meaning>
     </definition>
   </glossary>

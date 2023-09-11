@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U06aa39c2-9994-4476-9dd2-0fff1ba392d0" id="U06aa39c2-9994-4476-9dd2-0fff1ba392d0" xml:lang="en" cnxml-version="0.7">
-  <title>14.4 Przyczyny inflacji w różnych krajach i regionach</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub517b43e-f7bf-4a71-b2f6-e393031432c1" id="Ub517b43e-f7bf-4a71-b2f6-e393031432c1" xml:lang="en" cnxml-version="0.7">
+  <title>14.3  Przyczyny bezrobocia na świecie</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00077</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/06aa39c2-9994-4476-9dd2-0fff1ba392d0</md:content-url>
-    <md:title>14.4 Przyczyny inflacji w różnych krajach i regionach</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/b517b43e-f7bf-4a71-b2f6-e393031432c1</md:content-url>
+    <md:title>14.3  Przyczyny bezrobocia na świecie</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:06.113725933+00:00</md:version>
-    <md:created>2023-08-30T08:02:06.113725933+00:00</md:created>
-    <md:revised>2023-08-30T08:02:06.113725933+00:00</md:revised>
+    <md:version>2023-09-11T10:25:15.749709592+00:00</md:version>
+    <md:created>2023-09-11T10:25:15.749709592+00:00</md:created>
+    <md:revised>2023-09-11T10:25:15.749709592+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,91 +20,100 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>06aa39c2-9994-4476-9dd2-0fff1ba392d0</md:uuid>
+    <md:uuid>b517b43e-f7bf-4a71-b2f6-e393031432c1</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUIDa1c7c5f8-c45a-4941-6527-b07e0c0388d3" class="learning-objectives">
+    <note type="note" id="UUIDa30c766a-f79d-4d41-7df2-938a2d01f172" class="learning-objectives">
       <para id="Ch32Mod00P00">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUIDaf3e24fd-e808-4bb0-5443-892cb0bde321">
-          <para id="UUIDfd3749e5-c2bc-43fb-4bf1-d41ba553de39">Zidentyfikować przyczyny i skutki inflacji w różnych państwach</para>
+        <item id="UUID695c9034-1749-4497-76e6-4efd213886a7">
+          <para id="UUID633ce56b-2e10-4c30-7497-e118b47514c9">Wskazać i przeanalizować naturę i przyczyny bezrobocia</para>
         </item>
-        <item id="UUID0f15765b-521b-4e6c-42ff-40d4f7225deb">
-          <para id="UUIDefda15f4-7803-46f2-668c-e3c1c7f1f54b">Wyjaśnić, dlaczego w krajach rozwijających się inflacja może mieć poziom nieco wyższy i mniej stabilny niż w krajach wysoko uprzemysłowionych</para>
+        <item id="UUIDfe156643-7720-4ec2-71b1-add0f76b99ad">
+          <para id="UUID65ed0850-1afc-4b29-6a11-13980a2f647a">Wyjaśnić pojęcie naturalnej stopy bezrobocia i zidentyfikować czynniki, które na nią wpływają</para>
+        </item>
+        <item id="UUIDda0a0607-384e-4eff-4cbc-3d2f834cba26">
+          <para id="UUIDbbffd48f-97f5-4016-58df-34858b0001dd">Wytłumaczyć, w jaki sposób nieefektywne rynki pracy mogą prowadzić do takich samych problemów, jakie wywołuje bezrobocie</para>
         </item>
       </list>
     </note>
-    <para id="UUID9744f07b-b104-426c-614b-0a0945a09782">Wydaje się, że decydenci z krajów o wysokich dochodach wyciągnęli wnioski z dotychczasowych zmagań z inflacją. Po pierwsze, cokolwiek stałoby się ze zagregowaną podażą i zagregowanym popytem w krótkim okresie, kraje te mogą zastosować politykę pieniężną, aby zapobiec utrwaleniu się inflacji w gospodarce w okresie średnim i długim. Po drugie, istnieje powszechnie akceptowany konsensus, zgodnie z którym utrwalenie się inflacji nie przynosi długoterminowych korzyści. Dopuszczenie do tego, aby inflacja stała się trwała i uporczywa, stanowi niepożądane ryzyko i konieczność wyboru typu „coś za coś” w momencie, w którym bank centralny rozpocznie działania mające przynieść obniżenie stopy inflacji. Gdy inflacja jest wysoka, firmy i osoby prywatne muszą poświęcać czas i wysiłek, aby znaleźć sposoby ochrony przed tym zjawiskiem, zamiast szukać lepszych rozwiązań dla swoich klientów. Krótko mówiąc, wydaje się, że gospodarki o wysokich dochodach osiągnęły zarówno konsensus polityczny, aby utrzymać inflację na niskim poziomie, jak też dysponują skutecznymi narzędziami ekonomicznymi, aby cel ten zrealizować.</para>
-    <para id="UUIDef238c57-330f-46f2-7836-e187d9027a4d">W wielu gospodarkach o średnich i niskich dochodach sytuacja w tym zakresie jest diametralnie różna. Na początku XXI w. w Turcji przez kilka lat występowała inflacja przekraczająca 50% rocznie. Białoruś miała inflację ok. 100% rocznie od 2000 do 2001 r. W latach 2008–2010 w Wenezueli i Mjanmie ceny rosły średnio od 20% do 30% rocznie. Indonezja, Iran, Nigeria, Federacja Rosyjska i Ukraina notowały inflację dwucyfrową przez niemal całą pierwszą dekadę XXI w. Zimbabwe natomiast doświadczyło hiperinflacji, z tempem wzrostu cen, które zwiększyło się z ponad 100% rocznie w połowie 2000 r. do kilku milionów procent w roku 2008.</para>
-    <para id="UUID845deaef-943e-4c92-7f04-273faa5bed46">W tych krajach problem bardzo wysokiej inflacji wynikał na ogół z ogromnych deficytów budżetowych, które rząd finansuje, dodrukowując walutę krajową. Jest to przypadek „zbyt dużej ilości pieniędzy na zbyt małą ilość towarów”. Rząd Zimbabwe pokrywał powiększające się deficyty, coraz szybciej drukując banknoty o coraz większych nominałach. Pod koniec 2008 r. pieniądz emitowany w Zimbabwe był prawie bezwartościowy i nikt go nie akceptował, co ostatecznie skłoniło władze tego kraju do przyjęcia jako swojej waluty dolara amerykańskiego. To posunięcie przyniosło bardzo szybki spadek dynamiki wzrostu cen. W niektórych krajach bank centralny udziela pożyczek politycznie faworyzowanym firmom, właściwie dodrukowując pieniądz, co również prowadzi do wyższej inflacji.</para>
-    <para id="UUIDf8632cbf-a6c4-4f08-6221-7a59aae65174">Wiele państw zdołało jednak utrzymać satysfakcjonujący poziom wzrostu gospodarczego przez dłuższy czas przy poziomie inflacji, który według najnowszych standardów krajów rozwiniętych wydawałby się bardzo wysoki, np. od 10% do 30% rocznie. W takich gospodarkach rządy indeksują stopą inflacji większość kontraktów, poziom płac i nominalne stopy procentowe. Indeksowanie umów płacowych i stóp procentowych oznacza, że będą one rosły wraz ze wzrostem inflacji, aby utrzymać siłę nabywczą wynagrodzeń i mniej więcej stały poziom realnych stóp procentowych. Gdy płace nie rosną wraz ze wzrostem cen, powoduje to spadek realnej stawki płac i obniżenie poziomu życia. Podobnie nominalne stopy procentowe, które nie są indeksowane, prowadzą do sytuacji, w której pożyczkodawcy otrzymają zwrot pożyczonego kapitału w zdewaluowanej walucie, która straciła znaczną część swojej siły nabywczej. Jest oczywiście możliwe – a czasami wręcz konieczne – aby w <term cxlxt:index="default" cmlnle:reference="gospodarka rozwijająca się " id="UUID4107e90a-e8fc-4f9c-4e30-b69b516c5713">gospodarkach rozwijających się</term> (<foreign xml:lang="en" id="UUIDf01bb5d0-9e96-4718-42b9-5693f7a829ca"><term cxlxt:index="foreign" id="UUID2d792057-404e-4901-778e-3802aa470b9f">converging economy</term></foreign>) (krajach wykazujących zdolność doganiania liderów technologicznych pod względem poziomu PKB per capita) stopa inflacji była podwyższona, co byłoby politycznie nie do przyjęcia w krajach o wysokim dochodzie. W końcu tylko wzrost cen np. usług może doprowadzić do wzrostu dochodu osób, które trudnią się ich świadczeniem, a bez wzrostu dochodu trudno wyobrazić sobie proces konwergencji dochodowej, czyli wyrównywania się poziomu PKB per capita w krajach o wysokich i średnich dochodach.</para>
-    <section id="Ch32Mod04_summ" class="summary">
-      <title id="UUIDf2557ecb-d063-44f1-6af2-52fc7f86596c">Concepts and Summary</title>
-      <para id="UUID444358a2-dd90-475f-57eb-f464c11f5e4b">Większość krajów o wysokim dochodzie zauważyło, że ich banki centralne mogą kontrolować inflację w średnim i długim okresie. Ponadto władze tych krajów zdają sobie sprawę z tego, że inflacja nie przynosi długoterminowych korzyści, a jedynie koszty, jeśli utrudnia przedsiębiorstwom koncentrowanie się na realnym wzroście wydajności. Jednak biedniejsze kraje mogą akceptować nieco wyższą i bardziej zmienną inflację, ponieważ międzynarodowe przepływy kapitału i towarów mogą destabilizować ich mniejsze gospodarki, które zwiększając poziom PKB per capita, muszą również zaakceptować wzrost cen dóbr i usług.</para>
+    <para id="UUIDe8ab3b30-2f89-4a2c-6fe3-66a2966380cf">Przyczyny bezrobocia w krajach o wysokich dochodach można kategoryzować, biorąc pod uwagę dwa różne jego rodzaje: bezrobocie cykliczne, pojawiające się w gospodarce w okresie recesji, oraz naturalną stopę bezrobocia powiązaną z charakterystyką rynku pracy, na którą składają się regulacje dotyczące zatrudniania oraz zakładania i prowadzenia działalności gospodarczej.</para>
+    <section id="Ch32Mod03_01">
+      <title id="UUIDe7268ebb-6802-426e-4866-51d28268fda9">Bezrobocie cykliczne</title>
+      <para id="UUIDa54947f1-0c77-471a-684b-45c628e200fa">Keynesowski model analizy makroekonomicznych zjawisk w gospodarce wskazuje, że z bezrobociem będącym konsekwencją recesji (cyklicznym) można sobie poradzić, stosując zarówno narzędzia polityki pieniężnej, jak i fiskalnej. Sposób prowadzenia polityki pieniężnej, który ma ograniczyć negatywne skutki recesji, w tym przede wszystkim bezrobocie, jest stosunkowo prosty: ekspansywna polityka pieniężna prowadząca do obniżki stóp procentowych i tym samym powiększająca wartość kredytu i ilość pieniądza w obiegu zwiększa zagregowany popyt. W czasie recesji ryzyko wzrostu inflacji jest zwykle stosunkowo niewielkie, więc nawet bank centralny, którego priorytetem jest walka z inflacją, może pozwolić sobie na obniżenie stóp procentowych.</para>
+      <para id="UUID7db3fde1-2b3e-4ee3-4642-35d8afba5546">Jeśli chodzi o politykę fiskalną, automatyczne stabilizatory koniunktury, o których mówiliśmy w <link document="m00062" cmlnle:case="locative" id="UUID6f4c0112-15bf-4369-73bf-6ba901a61ba1" />, powinny zadziałać samoczynnie, nawet jeśli doprowadzi to do zwiększenia deficytu budżetowego w czasie recesji. Wśród ekonomistów nie ma zgody co do tego, czy poza automatycznymi stabilizatorami koniunktury rządy w czasie recesji powinny stosować uznaniową politykę fiskalną polegającą na dodatkowych obniżkach podatków lub zwiększaniu wydatków. W przypadku szczególnie głębokich recesji (takich jak globalny kryzys finansowy lub recesja pandemiczna) argumenty przemawiające za wyjątkowo agresywnie ekspansywną polityką fiskalną są silniejsze, ale w przypadku relatywnie niewielkiej skali spadku wolumenu produkcji, biorąc pod uwagę opóźnienia w realizacji polityki fiskalnej, dyskrecjonalną politykę fiskalną kraje powinny stosować ostrożnie. Ekspansywna polityka fiskalna i monetarna nie potrafią bowiem zakończyć recesji tak, jak naciśnięcie przełącznika wyłącza lampę. Nawet po zakończeniu recesji i powrocie dodatniego tempa wzrostu gospodarczego może minąć kilka miesięcy, a nawet kilka lat, nim firmy z sektora prywatnego uznają, że klimat gospodarczy jest na tyle korzystny, że mogą ponownie zwiększać zatrudnienie.</para>
     </section>
-    <section id="Ch32Mod04_sques" class="self-check-questions">
-      <title id="UUIDba38c544-4b5c-4c43-59b9-881b5611373a">Self-Check Questions</title>
-      <exercise id="Ch32Mod04_sques01">
-        <problem id="Ch32Mod04_sques01p">
-          <para id="Ch32Mod04P06">W jaki sposób indeksacja umów płacowych stopą inflacji pomaga pracownikom?</para>
+    <section id="Ch32Mod03_02">
+      <title id="UUIDc729b6f8-4e4f-4d3d-4192-4e5743a1e67b">Naturalna stopa bezrobocia</title>
+      <para id="UUIDedff54f3-f164-455e-59a7-8381e14fcefb">Stopa bezrobocia w krajach europejskich jest zazwyczaj wyższa niż w Stanach Zjednoczonych. W 2006 r., przed rozpoczęciem globalnego kryzysu finansowego, w USA wynosiła ona 4,6%, w porównaniu z 9% we Francji, 10,4% w Niemczech czy 7,1% w Szwecji. Fenomen wyższych stóp bezrobocia w krajach europejskich, którego korzenie sięgają początku lat 70. ub. wieku, możemy powiązać z czynnikami instytucjonalnymi. Gospodarki europejskie mają zazwyczaj wyższą naturalną stopę bezrobocia, ponieważ występuje w nich większa liczba regulacji i ograniczeń, które zniechęcają firmy do zwiększenia zatrudnienia, a osoby bezrobotne do podjęcia pracy.</para>
+      <para id="UUID9034da9c-8acf-4f31-5e98-94a668de4eb3">Rozwiązanie problemu naturalnej stopy bezrobocia jest proste w teorii, ale trudne w praktyce. Rząd może odegrać aktywną rolę, tworząc sieć zabezpieczeń w postaci zasiłków dla bezrobotnych i świadczeń socjalnych, jak również ograniczając swobodę przedsiębiorstw w zwalnianiu pracowników. Jednak te regulacje wynikające z dobrych intencji w niektórych przypadkach mogą stać się tak uciążliwe, że firmy decydują się na ograniczenie zatrudniania.</para>
+      <para id="UUIDaa29c32a-18f4-4666-6bb6-d09f50e53bc9">Na przykład prawo, które nakłada wysokie koszty na firmę próbującą zredukować liczbę pracowników, sprawi, że przedsiębiorstwa będą się starały przede wszystkim unikać wzrostu zatrudnienia, jak ma to miejsce we Francji. Według „Business Week”: „Francja ma 2,4 razy więcej firm zatrudniających 49 pracowników niż 50”. Zgodnie bowiem z francuskim kodeksem pracy, gdy firma ma co najmniej 50 pracowników, kierownictwo musi utworzyć trzy rady pracownicze, wprowadzić uzgodniony z przedstawicielami załogi schemat podziału zysków i przedstawiać radom pracowniczym plany restrukturyzacji, jeśli firma zdecyduje się zwolnić pracowników ze względów ekonomicznych. To prawo pracy zasadniczo ogranicza zatrudnienie (lub podnosi naturalną stopę bezrobocia).</para>
+    </section>
+    <section id="Ch32Mod03_03">
+      <title id="UUIDfcfbcd52-bedb-474b-42d2-ad75b2fbac68">Nieefektywne rynki pracy w krajach o niskich i średnich dochodach</title>
+      <para id="UUIDbb5376e0-cbcc-40ea-679e-49b54d62d995">Kraje o niskich i średnich dochodach mają problemy związane z zatrudnieniem, które wykraczają poza kwestię bezrobocia w rozumieniu gospodarek o wysokich dochodach. Znaczna liczba pracowników w tych gospodarkach zaspokaja wiele własnych potrzeb poprzez uprawę roli, rybołówstwo lub polowanie. Wymieniają się towarami i handlują z innymi mieszkańcami oraz mogą podejmować szereg krótkoterminowych lub jednodniowych prac, czasami otrzymując zapłatę w postaci jedzenia lub schronienia, a czasami pieniędzy. Nie są oni „bezrobotni” w sensie, którego używamy w Stanach Zjednoczonych i UE, ale nie są też zatrudnieni w ramach regularnej płatnej pracy.</para>
+      <para id="UUID6b0eb239-5810-4dd6-6dfe-adb1b2002777">Punktem wyjścia dla działalności gospodarczej, o którym mówiliśmy w <link document="82984e72-1743-4b22-932e-3d2198694da2" cmlnle:case="locative" id="UUID584d9e83-7838-4e1f-6681-c8280e37d656" />, jest podział pracy, w ramach którego ludzie specjalizują się w pewnych zadaniach i wymieniają efekty swojej pracy z innymi. Pracownicy, którzy nie są związani z rynkiem pracy, często nie są w stanie specjalizować się w żadnym konkretnym działaniu, którego rezultaty można zaoferować na rynku. Ponieważ ci pracownicy oficjalnie nie są zatrudnieni, często nie są uprawnieni do świadczeń socjalnych, takich jak ubezpieczenie na wypadek utraty pracy lub świadczenia z tytułu osiągnięcia wieku emerytalnego, o ile takie świadczenia w ich kraju w ogóle pracownikom przysługują. Kluczową polityką w państwach o średnim i niskim poziomie dochodów będzie zatem próba włączenia takich pracowników w formalne instytucje rynku pracy (system emerytalny!), a nie zwalczanie, niewielkiego zazwyczaj, oficjalnego bezrobocia. Ostatnie badania przeprowadzone przez ekonomistów specjalizujących się w ekonomii rozwoju sugerują, że jednym z kluczowych czynników umożliwiających obywatelom krajów o niskich dochodach uniknięcie lub wyjście z obszarów ubóstwa jest to, czy mogą oni podjąć regularną, płatną pracę.</para>
+    </section>
+    <section id="Ch32Mod03_summ" class="summary">
+      <title id="UUID849c7835-ef14-4b10-6d19-fc533b5c34d4">Key Concepts and Summary</title>
+      <para id="UUID26ecab37-f1bd-4e4a-756e-2da6b5aaf446">Problem bezrobocia cyklicznego możemy rozwiązać poprzez ekspansywną politykę fiskalną lub monetarną. Naturalna stopa bezrobocia może być trudniejszym wyzwaniem, ponieważ wiąże się z wyborami typu „coś za coś” w kwestii maksymalizacji zatrudnienia i ochrony miejsc pracy. O ile bezrobocie pozostaje istotnym problemem w państwach o wysokich i po części średnich dochodach, to już w krajach najbiedniejszych nacisk powinien być położony na instytucje rynku pracy. Ludzie w tych krajach nie są „bezrobotni” w sensie, którego używamy w Stanach Zjednoczonych i UE, ale nie są też zatrudnieni w ramach regularnej, płatnej pracy. Podczas gdy niektórzy z nich mogą mieć zarówno umowy o pracę, jak i pewne elementy zabezpieczenia socjalnego (ochrona w przypadku zwolnienia, możliwość korzystania z publicznych systemów emerytalnych), inni są częścią gospodarki barterowej i ta forma zdobywania środków do życia wyłącza ich z regulowanego formalnym prawem rynku pracy.</para>
+    </section>
+    <section id="Ch32Mod03_sques" class="self-check-questions">
+      <title id="UUIDb0ce801e-e895-462b-6657-30ec5974f088">Self-Check Questions</title>
+      <exercise id="Ch32Mod03_sques01">
+        <problem id="Ch32Mod03_sques01p">
+          <para id="Ch32Mod03P11">Jakie narzędzia polityki makroekonomicznej umożliwiają ograniczenie lub nawet wyeliminowanie problemu bezrobocia cyklicznego?</para>
         </problem>
-        <solution id="Ch32Mod04_sques01s">
-          <para id="UUIDb2a7de77-1ca2-42d7-6658-3baa27860deb">Indeksowanie umów płacowych oznacza, że wynagrodzenie rośnie wraz ze wzrostem cen. Pracownicy, których wynagrodzenia są indeksowane, utrzymują więc poziom życia na stałym realnym poziomie (ich płace zachowują swoją siłę nabywczą). Kiedy zarobki nie są indeksowane lub nie rosną wraz z inflacją, standard życia zatrudnionych maleje.</para>
+        <solution id="Ch32Mod03_sques01s">
+          <para id="UUID6a38dd49-24dd-4835-7c65-baf3ef3c516d">W przypadku recesji i wzrostu bezrobocia możemy skorzystać z ekspansywnej polityki fiskalnej (obniżenie podatków lub zwiększenie wydatków rządowych) lub ekspansywnej polityki pieniężnej (zwiększenie podaży pieniądza i obniżenie stóp procentowych). Obie polityki stymulują popyt globalny i produkcję, zmniejszając tym samym bezrobocie.</para>
         </solution>
       </exercise>
-      <exercise id="Ch32Mod04_sques02">
-        <problem id="Ch32Mod04_sques02p">
-          <para id="UUID4138c2a1-76a6-447e-5553-ac5d4d4939d7">Użyj modelu AD/AS, aby pokazać, w jaki sposób wzrost wydatków rządowych może prowadzić do wzrostu inflacji.</para>
+      <exercise id="Ch32Mod03_sques02">
+        <problem id="Ch32Mod03_sques02p">
+          <para id="UUID800c03ba-089b-42ac-5480-f4416e30f973">Wyjaśnij, dlaczego naturalna stopa bezrobocia może być wyższa w krajach o niskich dochodach.</para>
         </problem>
-        <solution id="Ch32Mod04_sques02s">
-          <para id="UUID7149bc7c-d12c-4fcb-480f-f1911afa5355">Wzrost wydatków rządowych przesuwa krzywą AD w prawo, podnosząc zarówno poziom dochodu, jak i cen.</para>
-        </solution>
-      </exercise>
-      <exercise id="Ch32Mod04_sques03">
-        <problem id="Ch32Mod04_sques03p">
-          <para id="UUID5b7bda98-5657-4906-5469-4d8ad90fdc65">Pokaż za pomocą modelu AD/AS, w jaki sposób rządy mogą wykorzystać politykę pieniężną do obniżenia poziomu cen.</para>
-        </problem>
-        <solution id="Ch32Mod04_sques03s">
-          <para id="UUID920b0824-0032-4f6d-65e6-d0617db6eb22">Spadek podaży pieniądza przesunie krzywą AD w lewo i obniży poziom dochodu i cen. Banki będą miały mniej pieniędzy do pożyczania. Stopy procentowe będą rosły, wpływając na konsumpcję i inwestycje, które są kluczowymi składnikami zagregowanego popytu.</para>
+        <solution id="Ch32Mod03_sques02s">
+          <para id="UUID3ddfda70-42f4-428b-5ff4-19357a9c2ff5">Oprócz wysokiej naturalnej stopy bezrobocia wynikającej z regulacji rządowych za osoby bezrobotne można również uznać ludzi, którzy nie funkcjonują na rynku pracy (wytwarzają np. żywność wyłącznie na własne potrzeby lub są zatrudnieni w sposób całkowicie nienormowany), chociaż nie spełniają oni formalnej definicji naturalnej stopy bezrobocia.</para>
         </solution>
       </exercise>
     </section>
-    <section id="Ch32Mod04_rques" class="review-questions">
-      <title id="UUIDe129e873-b68f-4016-4393-60698f121c09">Review Questions</title>
-      <exercise id="Ch32Mod04_rques01">
-        <problem id="Ch32Mod04_rques01p">
-          <para id="UUID99b525e3-1ee2-471e-45e3-6b9563ac35b2">Czy w najbliższej przyszłości inflacja będzie poważnym problemem przynajmniej dla niektórych gospodarek o wysokich dochodach?</para>
+    <section id="Ch32Mod03_rques" class="review-questions">
+      <title id="UUID79af0f23-d1d5-41d5-7e73-947b4c986bb1">Review Questions</title>
+      <exercise id="Ch32Mod03_rques01">
+        <problem id="Ch32Mod03_rques01p">
+          <para id="Ch32Mod03P15">Jakie problemy i wyzwania są związane z bezrobociem cyklicznym oraz bezrobociem naturalnym?</para>
         </problem>
       </exercise>
-      <exercise id="Ch32Mod04_rques02">
-        <problem id="Ch32Mod04_rques02p">
-          <para id="UUIDe7a3ce1e-7be6-4544-6d2f-033bcd5367b0">Czy w najbliższej przyszłości inflacja może stanowić problem przynajmniej dla niektórych gospodarek o niskich i średnich dochodach?</para>
-        </problem>
-      </exercise>
-    </section>
-    <section id="Ch32Mod04_ctques" class="critical-thinking">
-      <title id="UUIDbbee3527-2b73-41b0-7eed-3a377a9b50b3">Critical Thinking Questions</title>
-      <exercise id="Ch32Mod04_ctques01">
-        <problem id="Ch32Mod04_ctques01p">
-          <para id="Ch32Mod04P14">Dlaczego zagrożenia inflacyjne w gospodarkach o wysokich dochodach są mniejsze niż w gospodarkach o niskich i średnich dochodach?</para>
+      <exercise id="Ch32Mod03_rques02">
+        <problem id="Ch32Mod03_rques02p">
+          <para id="UUID76d25eee-8cc2-40c6-6ede-5f8c21faeee4">Czy twoim zdaniem twierdzenie, że w krajach o niskich dochodach ludzie bez stabilnej pracy regulowanej przepisami prawa są bezrobotni, ma sens?</para>
         </problem>
       </exercise>
     </section>
-    <section id="Ch32Mod04_prob" class="problems">
-      <title id="UUID73cf768b-f500-466c-42d9-d0b1eccf979e">Problems</title>
-      <exercise id="Ch32Mod04_prob01">
-        <problem id="Ch32Mod04_prob01p">
-          <para id="UUID9a3db692-1e50-4869-79b0-d8ab014a89d7">Pobierz najświeższe dane o inflacji z bazy danych Banku Światowego (http://databank.worldbank.org/data/home.aspx) dla Indii, Hiszpanii i RPA za okres pięciu lat. Na podstawie pozyskanych danych przygotuj wykres porównujący te kraje. Zaklasyfikuj je do grup krajów o wysokich, średnich bądź niskich dochodach i opisz kluczowe różnice między nimi. Wyjaśnij, co okazało się dla ciebie zaskakujące, a czego można się było spodziewać przed analizą pozyskanych danych.</para>
+    <section id="Ch32Mod03_ctques" class="critical-thinking">
+      <title id="UUIDc913b6d3-8cb6-4ed7-5280-00d2d1676407">Critical Thinking Question</title>
+      <exercise id="Ch32Mod03_ctques01">
+        <problem id="Ch32Mod03_ctques01p">
+          <para id="UUIDcc291711-952d-4582-465a-a6801f8dc0a5">Czy twoim zdaniem można ochronić pracowników przed utratą pracy bez wywoływania negatywnego wpływu na rynek pracy?</para>
         </problem>
       </exercise>
+      <exercise id="Ch32Mod03_ctques02">
+        <problem id="Ch32Mod03_ctques02p">
+          <para id="UUID58103684-e163-4b07-708a-84f350ef25de">Wyjaśnij, co się stanie w kraju, który próbuje rozwiązać problem bezrobocia naturalnego za pomocą ekspansywnej polityki monetarnej i fiskalnej. Narysuj jeden diagram wykorzystujący model AD/AS, oparty na modelu keynesowskim, przedstawiając pożądany przez polityków scenariusz zdarzeń. Następnie narysuj drugi diagram AD/AS, oparty na modelu neoklasycznym, aby pokazać, jaki jest bardziej prawdopodobny schemat rozwoju wydarzeń.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="Ch32Mod03_prob" class="problems">
+      <title id="UUID64467307-c603-4f12-61cd-f207761426a8">Problems</title>
+      <exercise id="Ch32Mod03_prob01">
+        <problem id="Ch32Mod03_prob01p">
+          <para id="UUID14c0e49d-1ce1-485b-6d38-4fc7ac048ee9">Pobierz najświeższe dane o bezrobociu z bazy danych Banku Światowego (http://databank.worldbank.org/data/home.aspx) dla Indii, Hiszpanii i RPA za okres pięciu lat. Przygotuj wykres porównujący sytuację w tych trzech krajach na podstawie zgromadzonych danych. Opisz kluczowe różnice pomiędzy nimi. Przyporządkuj te kraje do grupy o wysokich, średnich i niskich dochodach. Wyjaśnij, co cię zaskoczyło, a co można było przewidzieć jeszcze przed zapoznaniem się z wartościami liczbowymi. Jak globalny kryzys finansowy z 2008 r. wpłynął na sytuację w Indiach, Hiszpanii i RPA?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="Ch32Mod03_ref" class="references">
+      <title id="UUID435d8781-dc77-4ab1-5ebb-77599408ab4b">References</title>
+      <para id="Ch32Mod03_ref01">Viscusi, Gregory, and Mark Deen. “Why France Has So Many 49-Employee Companies.” <emphasis effect="italics">Business Week</emphasis>. Last modified May 3, 2012. http://www.businessweek.com/articles/2012-05-03/why-france-has-so-many-49-employee-companies.</para>
     </section>
   </content>
-  <glossary id="UUID3731bb43-a2b2-45e8-4ca6-07511543212f">
-    <definition id="Ch32Mod04GLO01">
-      <term id="UUID3e328cf0-1066-4e32-5671-23c142188859">gospodarka rozwijająca się / gospodarka konwergująca  <foreign xml:lang="en" id="UUID9c59a17f-8df5-4e39-7b6d-48b79c2672b2">converging economy</foreign></term>
-      <meaning id="Ch32Mod04GLO01m">
-        <para id="UUIDb8bc1579-7648-45a4-52c0-9852bd628264">gospodarka kraju, który wykazał się zdolnością doganiania liderów technologicznych pod względem poziomu PKB per capita, dzięki inwestycjom w kapitał rzeczowy i ludzki</para>
-      </meaning>
-    </definition>
-  </glossary>
 </document>

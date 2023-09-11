@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U2bd08e6b-7756-4a5a-8163-04df85f4ea68" id="U2bd08e6b-7756-4a5a-8163-04df85f4ea68" xml:lang="en" cnxml-version="0.7">
-  <title>5.5 Zalety i wady deficytu handlowego</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ucc1f3fc1-9d81-4969-b65e-ff59d96a877e" id="Ucc1f3fc1-9d81-4969-b65e-ff59d96a877e" xml:lang="en" cnxml-version="0.7">
+  <title>5.4 Tożsamość krajowych oszczędności i inwestycji</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00028</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/2bd08e6b-7756-4a5a-8163-04df85f4ea68</md:content-url>
-    <md:title>5.5 Zalety i wady deficytu handlowego</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/cc1f3fc1-9d81-4969-b65e-ff59d96a877e</md:content-url>
+    <md:title>5.4 Tożsamość krajowych oszczędności i inwestycji</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:03.857209282+00:00</md:version>
-    <md:created>2023-08-30T08:02:03.857209282+00:00</md:created>
-    <md:revised>2023-08-30T08:02:03.857209282+00:00</md:revised>
+    <md:version>2023-09-11T10:25:05.164977363+00:00</md:version>
+    <md:created>2023-09-11T10:25:05.164977363+00:00</md:created>
+    <md:revised>2023-09-11T10:25:05.164977363+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,125 +20,236 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>2bd08e6b-7756-4a5a-8163-04df85f4ea68</md:uuid>
+    <md:uuid>cc1f3fc1-9d81-4969-b65e-ff59d96a877e</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUID704d5026-5543-j665-7c527b82d03b3911" class="learning-objectives">
+    <note type="note" id="UUID704d5026-5543-8463-7c527b82d03b3911" class="learning-objectives">
       <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUIDa33f7f13-6829-481c-7713-e407bd1b0b4f">
-          <para id="UUID05ffbbc4-e1b4-47fe-6019-adb1ab2f3009">Wskazać trzy mechanizmy, które sprawiają, że utrzymywanie deficytu handlowego i pozycja pożyczkobiorcy międzynarodowego netto poprawia kondycję gospodarki</para>
+        <item id="UUID89889ee4-313a-410b-5075-e7c7628683ab">
+          <para id="UUID9d4f6c20-4cf0-4473-7326-6e75a6a67f34">Wskazać czynniki determinujące saldo bilansu handlowego i saldo na rachunku obrotów bieżących</para>
         </item>
-        <item id="UUIDa5c7b7bc-7322-4a10-6ebb-085371f50260">
-          <para id="UUID22d83b67-10b0-498e-6148-9ed85fda4eec">Wskazać trzy mechanizmy, które sprawiają, że utrzymywanie deficytu handlowego i pozycja pożyczkobiorcy międzynarodowego netto osłabia kondycję gospodarki</para>
+        <item id="UUID2786c8e7-4298-473a-5b7f-542c0cb7f18b">
+          <para id="UUID96ef8423-c40c-4a8f-7da7-fb3e22821d0a">Oszacować międzynarodową podaż i popyt na kapitał finansowy</para>
+        </item>
+        <item id="UUIDfb15274e-8c83-4dba-4d37-49efc7ff944d">
+          <para id="UUIDd0d4ce2d-b8a0-4562-7ac4-eb43f60b2cbe">Wyjaśnić, w jaki sposób poziom krajowych oszczędności i inwestycji określa saldo bilansu handlowego</para>
+        </item>
+        <item id="UUID1ec87d08-b0fc-4627-7cb3-e9c93feb2367">
+          <para id="UUID7b350aee-a223-42a7-727c-d972dcf16968">Przewidzieć zmiany salda na rachunku obrotów bieżących na podstawie tożsamości (równości) krajowych oszczędności i inwestycji</para>
         </item>
       </list>
     </note>
-    <para id="UUIDd04c59b0-c48f-433c-4734-5805ecb1fd33">Transakcje rynkowe zawsze obejmują ekwiwalentne wobec transferu dóbr i usług przepływy finansowe (w końcu jeśli kupujesz cokolwiek choćby w osiedlowym sklepie, to niemal jednocześnie ze zdjęciem konkretnego produktu z półki i włożeniem go do torby pieniądze z twojego portfela lub konta wędrują do właściciela sklepu). Podobnie dzieje się w ramach handlu zagranicznego, gdzie przepływom dóbr i usług pomiędzy krajami towarzyszą ekwiwalentne przepływy międzynarodowego kapitału finansowego (zakupom ropy naftowej przez Orlen w Arabii Saudyjskiej – czyli polskiemu importowi – odpowiada strumień kapitału, który jest zapłatą za ten surowiec). Pytanie o to, czy deficyty lub nadwyżki handlowe są dobre, czy złe dla gospodarki, jest z ekonomicznego punktu widzenia dokładnie tym samym, co rozstrzyganie, czy lepiej jest polegać na napływie netto kapitału finansowego z zagranicy, czy może jednak inwestować krajowy kapitał poza granicami, czyli stać się międzynarodowym pożyczkodawcą netto. Obiegowa mądrość głosi, że pożyczanie pieniędzy jest zazwyczaj nierozsądne, a kraj prowadzący rozsądną politykę, podobnie jak rozważna osoba, powinien zawsze polegać na własnych zasobach. Choć z pewnością można zapożyczyć się za bardzo (co może poświadczyć każdy, komu bank zablokował kartę kredytową), pożyczanie pieniędzy w specyficznych sytuacjach również da się ekonomicznie uzasadnić. Tym samym zarówno w wypadku jednostek, jak i państw polityka konsekwentnego powstrzymywania się od korzystania z pożyczek, w tym pożyczek udzielanych na międzynarodowym rynku finansowym, nie niesie ze sobą żadnych ekonomicznych korzyści.</para>
-    <para id="UUID4e8fa603-2fcb-4a2e-59b1-f23d39c0ed56">Pożyczanie ma sens wtedy, gdy kupuje się coś, co przynosi korzyści w długim okresie, a więc gdy pożyczka finansuje inwestycję. Zaciągnięcie kredytu, który pozwoli sfinansować studia, ma sens, ponieważ zdobycie tytułu magistra zwiększa, przeciętnie rzecz biorąc, zarobki osób z wyższym wykształceniem w stosunku do absolwentów szkół średnich. Wyższe wynagrodzenie po zakończeniu studiów umożliwi spłatę zaciągniętego kredytu. Z punktu widzenia przedsiębiorstw wzięcie pożyczki lub zaciągnięcie kredytu na zakup nowej maszyny również jest ekonomicznie uzasadnione, oczywiście jeśli maszyna pozwoli zwiększyć zyski firmy na tyle, by udało się zaciągnięte zobowiązania spłacić. Podobnie z punktu widzenia gospodarki konkretnego kraju pożyczanie pieniędzy na międzynarodowym rynku finansowym ma sens o tyle, o ile środki te zostaną wykorzystane w sposób przyspieszający tempo wzrostu gospodarczego. Wówczas taki kraj z czasem będzie w stanie spłacić zaciągnięte zobowiązania finansowe, zaś jego mieszkańcy dzięki napływowi kapitału uzyskają wyższy standard życia.</para>
-    <para id="UUIDd0437cd7-4df5-485b-5a87-40212e9dcae8">Dobrym przykładem państwa, które dużo pożyczało za granicą, mądrze inwestowało otrzymane środki i doskonale sobie dzięki nim radziło, są Stany Zjednoczone w XIX w. USA utrzymywały deficyty handlowe niemal przez cały okres między rokiem 1831 a 1875 (dokładniej – przez 40 z 45 lat), co automatycznie oznaczało pozycję pożyczkobiorcy netto. Kapitał finansowy napływający z zagranicy inwestowany był m.in. w rozwój sieci kolejowej, co przyspieszyło dynamikę wzrostu i rozwoju gospodarczego. Przeczytaj poniższą <link target-id="fs-idp67624720" cmlnle:case="accusative" id="UUID61bbfca8-9af9-4e85-4afd-d595aa06381e" />, aby uzyskać więcej informacji na ten temat.</para>
-    <para id="UUID2e2084a6-9942-44c3-79e8-68a94d6e6cbc">Bardziej współczesnym przykładem jest Korea Południowa i jej doświadczenia z lat 70. XX w. Niemal przez całą dekadę kraj ten utrzymywał deficyt handlowy i tym samym stał się importerem kapitału. Jednocześnie jednak dzięki napływowi międzynarodowego kapitału Korea Południowa miała bardzo wysoki wolumen inwestycji przedsiębiorstw, szczególnie w maszyny i urządzenia, pozwalający jej uzyskiwać wysokie tempo wzrostu gospodarczego. Począwszy od połowy lat 80. przez kolejne dziesięć lat Korea Południowa notowała z kolei nadwyżki handlowe, co oznaczało, że spłacała swoje wcześniejsze pożyczki, wysyłając kapitał za granicę.</para>
-    <para id="UUIDf93fa5cb-6448-42bf-413b-5d8729aaea7d">Z drugiej strony niektóre kraje, utrzymując wysokie deficyty handlowe, zaciągają znaczne pożyczki na światowych rynkach finansowych i popadają przez to w różnego rodzaju kłopoty. Powtórzmy zatem: deficyt sam w sobie nie jest ani dobry, ani zły. Kluczowe jest to, w jaki sposób napływające do kraju środki zostaną wykorzystane. Warto w tym kontekście przeanalizować dwa rodzaje problemów o charakterze wewnętrznym i zewnętrznym. Po pierwsze, państwo pożyczkobiorca może znaleźć się w trudnej sytuacji, jeśli nie zainwestuje napływających z zagranicy środków w sposób prowadzący do wzrostu produktywności. Kilka dużych gospodarek Ameryki Łacińskiej, w tym Meksyk i Brazylia, miało w latach 70. XX w. wysokie deficyty handlowe i tym samym dużo pożyczało za granicą. Napływ kapitału finansowego nie zwiększył jednak w wystarczającym stopniu produktywności i nie doprowadził do przyspieszenia tempa wzrostu gospodarczego, co oznaczało, że kraje te miały ogromne problemy ze spłatą pożyczonych pieniędzy, gdy w kolejnej dekadzie warunki gospodarcze się zmieniły. Podobny problem dotknął wiele państw afrykańskich, które w latach 70. i 80. XX w. chętnie zaciągały pożyczki na międzynarodowych rynkach finansowych, ale nie inwestowały ich w produktywny sposób. W rezultacie większość z nich musiało później spłacać wysokie odsetki, co było wyzwaniem dla ich gospodarek, które właściwie nie skorzystały z kapitału napływającego kilka lub kilkanaście lat wcześniej.</para>
-    <note type="note" id="fs-idp67624720" class="clearup economics">
-      <title id="UUIDc17ec69d-6170-4699-638e-0054b085a56a">Czy deficyty handlowe zawsze są szkodliwe?</title>
-      <para id="UUID21f896f4-5501-4029-679f-c2cd8d59767e">Przez większą część XIX w. import USA przewyższał eksport, a gospodarka notowała deficyty handlowe. Jednak sytuacja ta wcale nie wstrzymała tempa wzrostu i rozwoju amerykańskiej gospodarki. Przeciwnie, to właśnie owe deficyty przyczyniły się do imponującego tempa wzrostu gospodarczego, który dał USA najwyższy na świecie poziom PKB per capita około roku 1900.</para>
-      <para id="UUID8240364f-5e63-4e88-4904-e9c405ab3f33">Deficyty handlowe oznaczały, że Stany Zjednoczone były w tym samym okresie pożyczkobiorcą netto na rynkach światowych. Większość napływającego kapitału została zainwestowana w rozwój infrastruktury, przede wszystkim kolejowej, lecz również drogowej, wodociągowej czy oświatowej. Oba rodzaje inwestycji przełożyły się – jakkolwiek nie wprost – na wzrost dynamiki amerykańskiej gospodarki.</para>
-      <para id="UUID14a5b64c-2317-4e4c-78a2-bc24210a4d60">Nie powinniśmy oczywiście przeceniać wpływu zagranicznego kapitału inwestycyjnego na tempo wzrostu gospodarczego w USA. Dla większości lat zagraniczny kapitał finansowy stanowił nie więcej niż 6–10% środków, które wykorzystywano na inwestycje w gospodarce. Niemniej jednak deficyty handlowe i towarzyszący im napływ funduszy z zagranicy wyraźnie pomogły, a nie przeszkodziły w rozwoju Stanów Zjednoczonych w XIX w.</para>
-    </note>
-    <para id="fs-idm101260976">Drugim rodzajem problemów związanych z napływem kapitału międzynarodowego do danego kraju jest mobilność środków finansowych. Kapitał może wypłynąć z kraju równie szybko, jak wcześniej do niego wpłynął. Omówiliśmy ten scenariusz na początku niniejszego rozdziału. W połowie lat 90. ub. wieku wiele krajów wschodniej Azji – Tajlandia, Indonezja, Malezja i Korea Południowa – notowało wysokie deficyty handlowe i importowało kapitał z zagranicy. Jednak w roku 1997 i 1998 inwestorzy zagraniczni uznali, że kondycja tych gospodarek nie gwarantuje spłaty zaciągniętych wcześniej zobowiązań, i zaczęli wycofywać swoje kapitały (sprzedając akcje, obligacje, nieruchomości i likwidując depozyty w sektorze bankowym). Niezwykle szybki odpływ zagranicznego kapitału wstrząsnął systemami bankowymi i gospodarkami tych krajów, pogrążając je w głębokiej recesji. Związki pomiędzy międzynarodowymi przepływami kapitału, sektorem bankowym i kondycją gospodarki zostaną dokładnie omówione w <link document="m00068" cmlnle:case="locative" id="UUIDf017e2ef-0fd7-42dc-5708-3c311d5b593d" />.</para>
-    <para id="fs-idm44919456">Jak zatem widać, deficyt handlowy nie zawsze jest zjawiskiem niekorzystnym dla gospodarki. Analogicznie nie ma również gwarancji, że nadwyżka handlowa przełoży się na poprawę kondycji ekonomicznej danego kraju. Na przykład Niemcy i Japonia w ciągu ostatnich 30 lat notowały znaczne nadwyżki handlowe niemal nieprzerwanie. Niezależnie od utrzymującego się dodatniego salda w bilansie handlowym oba kraje od czasu do czasu doświadczały recesji i żaden z nich nie odnotował w tym okresie szczególnie wysokiego tempa wzrostu gospodarczego. Więcej o nadwyżce handlowej Japonii możesz przeczytać w <link target-id="fs-idp84358176" cmlnle:case="locative" id="UUID71bfe2a1-2a5d-49e7-5210-cdfae8ac6cc6" />.</para>
-    <note type="note" id="fs-idp242806608" class="economics linkup">
-      <para id="fs-idp117134944">Obejrzyj to <link url="http://openstax.org/l/tradedeficit" id="UUID07fe83e6-8483-4c1b-6260-ff9518e79f1b">wideo</link> aby się przekonać, czy deficyt handlowy jest korzystny, czy raczej szkodliwy dla gospodarki.</para>
-    </note>
-    <para id="UUID804962a9-aef2-4a66-6a8b-7339930ba6d9" />
-    <note type="note" id="fs-idp84358176" class="clearup economics">
-      <title id="UUIDf1558a51-cd91-487d-5ff9-e3859abc2d11">Czy nadwyżki handlowe zawsze są korzystne? Sytuacja Japonii pod koniec XX w.</title>
-      <para id="UUID25afe26f-5076-4350-7c00-794a60a260e1">Prawdopodobnie żadna gospodarka na świecie nie kojarzy się bardziej z nadwyżkami w bilansie obrotów handlowych niż Japonia. Wraz z rozpoczęciem ostatniej dekady XX w. wysokość tych nadwyżek sięgała często nawet 100 mld dol. rocznie. Gdy japońska gospodarka rozwijała się dynamicznie w latach 60. i 70. ub. stulecia, wiele osób, szczególnie nieposiadających wykształcenia ekonomicznego, wskazywało na wysokie nadwyżki handlowe Japonii zarówno jako na przyczynę, jak i skutek jej świetnej kondycji gospodarczej. Biorąc jednak pod uwagę tempo wzrostu gospodarczego, od początku lat 90. ub. wieku Japonia balansuje na krawędzi recesji. Dynamika realnego wzrostu PKB w skali roku nie przekracza 1%, a bezrobocie cały czas rośnie. Najwyraźniej ogromna nadwyżka handlowa nie jest gwarancją wysokiego tempa wzrostu.</para>
-      <para id="UUID707e80b6-a606-4642-4290-feb45c722d10">W istocie nadwyżka handlowa Japonii odzwierciedla fakt, że kraj ten ma bardzo wysoki wolumen oszczędności krajowych. Japońska gospodarka dysponuje większymi zasobami kapitału, niż jest w stanie zainwestować w kraju, a więc środki te muszą wypłynąć za granicę. W pogrążonej w stagnacji gospodarce Japonii konsumpcja towarów importowanych jest stosunkowo niska, podobnie zresztą jak globalne wydatki na zakupy dóbr i usług. W efekcie eksport Japonii stale przewyższa import, utrzymując nadwyżkę handlową na wysokim poziomie. Dopiero z początkiem drugiej dekady XXI w. nadwyżka handlowa Japonii zaczęła się zmniejszać, zaś w 2013 r. kraj ten odnotował deficyt ze względu na wysokie koszty importowanej ropy. Niemniej w 2015 r. Japonia ponownie zanotowała nadwyżkę w bilansie handlowym i dodatnie saldo tego bilansu utrzymuje się do początku trzeciej dekady obecnego stulecia.</para>
-    </note>
-    <section id="fs-idp87720448" class="summary">
-      <title id="UUIDd6df7a3b-76d6-409f-5288-aee4b0435872">Key Concepts and Summary</title>
-      <para id="UUID075944f8-2328-4108-60c9-6de9b9a04725">Nadwyżki handlowe nie są gwarancją utrzymywania korzystnej kondycji gospodarczej, zaś deficyty handlowe nie oznaczają automatycznie jej słabości. Deficyty, podobnie jak nadwyżki, same w sobie nie są ani dobre, ani złe. Kluczowe jest to, w jaki sposób napływające do kraju środki finansowe z międzynarodowych rynków zostaną wykorzystane – czy zasilą inwestycje zwiększające produktywność i przekładające się na przyspieszenie dynamiki wzrostu gospodarczego, czy też nie.</para>
+    <para id="fs-idm58123568">Ścisły związek między saldem na rachunku obrotów bieżących i bilansem płatniczym a międzynarodowymi przepływami oszczędności i inwestycji prowadzi nas do makroekonomicznej analizy całej gospodarki, zarówno jeśli chodzi o jej relacje ekonomiczne z zagranicą, jak i funkcjonowanie na poziomie krajowym. Zgodnie z takim podejściem saldo na rachunku obrotów bieżących i związane z nim przepływy kapitału finansowego są częścią zmian wpływających na globalny poziom oszczędności i inwestycji w gospodarce.</para>
+    <section id="fs-idp30191872">
+      <title id="UUID7c7f47d2-4526-47d5-5551-88508978b944">Czynniki determinujące salda bilansu handlowego i rachunku obrotów bieżących</title>
+      <para id="UUIDbcae815c-d363-42a8-4190-bfc209b59d59">Koncepcja <term id="UUIDff03b1e3-9c1a-4b24-572e-83333e5f12dc">tożsamości krajowych oszczędności i inwestycji</term> (ang. <foreign xml:lang="en" id="UUID23d271b3-5fe6-4578-4d8d-32d714132d0b"><term id="UUID8582ad04-f984-43c9-589c-4c4d0bcf25b7">national saving and investment identity</term></foreign>) jest użytecznym narzędziem umożliwiającym identyfikację czynników determinujących salda rachunku obrotów bieżących i bilansu handlowego. Na krajowym rynku finansowym ilość kapitału dostarczanego w każdym momencie (podaż) musi być równa ilości kapitału niezbędnego do sfinansowania inwestycji (popyt). Przeczytaj <link target-id="fs-idp169574000" cmlnle:case="accusative" id="UUID3f5f131b-386c-42bb-6c3b-379353ad90f1" />, aby poznać składniki krajowych oszczędności.</para>
+      <note type="note" id="fs-idp169574000" class="clearup economics">
+        <title id="UUID9b965a61-c612-4f4c-6a6b-5a313b659bc5">Co składa się na podaż i popyt na rynku finansowym?</title>
+        <para id="UUID45bb911d-dc1e-4465-7f0f-bd272a1055bd">Podaż na rynku finansowym jest w głównej mierze pochodną krajowych oszczędności, czyli sumy oszczędności gospodarstw domowych i przedsiębiorstw (oszczędności prywatne) oraz państwa (oszczędności sektora publicznego). Jeśli w danym kraju mamy do czynienia z deficytem na rachunku obrotów bieżących, oznacza to, że do tego kraju napływają środki z zagranicy, które powiększają podaż kapitału finansowego.</para>
+        <para id="UUIDc3081a07-94a6-443c-5d61-8fa681935ece">Popyt na kapitał finansowy (pieniądze) zgłaszają podmioty, które nie mogą sfinansować swoich wydatków za pomocą pozostających w ich dyspozycji zasobów, np. przedsiębiorstwa realizujące poważne inwestycje (zakup środków trwałych, finansowanie szkoleń dla pracowników, pozyskiwanie surowców do produkcji), gospodarstwa domowe kupujące dobra trwałego użytku (nieruchomości, samochody) i państwo, które wydaje więcej, niż zdołało zebrać w formie podatków (poprzez emisję obligacji i bonów skarbowych). Bez niezbędnej podaży kapitału finansowego działalność gospodarcza byłaby znacznie utrudniona, o ile w ogóle możliwa.</para>
+      </note>
+      <para id="UUID2ab5f32d-07c4-4057-474d-543c38700b71">Biorąc pod uwagę niemal chroniczny deficyt sektora publicznego, najważniejszymi źródłami podaży kapitału finansowego w polskiej gospodarce pozostają zatem oszczędności gospodarstw domowych i przedsiębiorstw, określane zazwyczaj symbolem S (ang. <foreign xml:lang="en" id="UUID3d78173f-d8ae-4b76-4c5a-b9611a874369">savings</foreign>), oraz napływ kapitału finansowego od podmiotów zagranicznych, który – jak już wiemy – jest równy deficytowi handlowemu (Z – X), czyli importowi (Z) pomniejszonemu o eksport (X). Natomiast głównym źródłem popytu na kapitał finansowy w polskiej gospodarce są inwestycje sektora prywatnego – I (ang. <foreign xml:lang="en" id="UUIDf9e78496-954a-4979-4480-02864518d832">investment</foreign>), a także potrzeby pożyczkowe sektora publicznego, które są równe deficytowi sektora finansów publicznych pojawiającemu się w sytuacji, gdy wydatki publiczne – G (ang. <foreign xml:lang="en" id="UUIDb76f6873-9cee-443f-5977-d99933237218">government</foreign>) są wyższe niż pobierane podatki – T (ang. <foreign xml:lang="en" id="UUIDcf918f97-cdc1-4743-54a4-ee8f94659054">taxes</foreign>). Pamiętając o tym, że podaż i popyt na rynku finansowym muszą być sobie równe, możemy wyrazić <term id="UUID13d788c8-11bc-4337-482f-03eebd393d4d">tożsamość krajowych oszczędności i inwestycji</term> za pomocą następującego równania:</para>
+      <equation id="fs-idm47593936" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>S + (Z − X)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I + (G − T)</mtext></mtd></mtr></mtable></math></equation>
+      <para id="UUID4ba758a3-7c2c-451c-561d-e335961e0c9f">Powyższe równanie jest zawsze prawdziwe (dlatego właśnie mówimy o <term id="UUID587cfca9-6ce7-4113-523b-2f2de25e0c2d">tożsamości krajowych oszczędności i inwestycji</term>), ponieważ w skali całej gospodarki ilość dostarczanego kapitału finansowego zawsze musi być równa wielkości zapotrzebowania na ten kapitał.</para>
+      <para id="UUIDa2e468b8-4cd2-4214-4ce9-3b25d40161cb">Niektóre elementy tego równania mogą się jednak przemieszczać pomiędzy jego prawą i lewą stroną (mogą tworzyć zarówno podaż, jak i popyt na kapitał). W Polsce po 1992 r. mamy do czynienia z permanentnym deficytem w sektorze finansów publicznych, co oznacza, że państwo wydaje więcej, niż pobiera w formie podatków i parapodatków (opłat, składek itd.), a więc musi pożyczać fundusze. W takim przypadku wyrażenie (G − T) jest mniejsze od zera. Aby sfinansować swoje wydatki, państwo zgłasza popyt na kapitał finansowy po lewej stronie równania (czyli jest pożyczkobiorcą). Jeśli jednak w sektorze finansów publicznych pojawiłaby się nadwyżka (czy to jest w ogóle możliwe w Polsce?), czyli podatki byłyby wyższe niż wydatki państwa, to nadwyżka ta, opisana nierównością (T − G > 0), pojawiłaby się po oszczędnościowej (lewej) stronie analizowanego równania.</para>
+      <para id="UUIDcb72c18f-6d6e-4868-5a8f-d551f8ee338e">Podobnie jeśli gospodarka narodowa wykazuje nadwyżkę handlową (czyli różnica pomiędzy eksportem − X i importem − Z jest większa od zera), będzie się to wiązało z odpływem kapitału finansowego do innych krajów. Nadwyżka handlowa oznacza, że występuje nadwyżka krajowego kapitału finansowego i można go inwestować za granicą.</para>
+      <para id="UUID7b90a508-f164-480b-6b92-4dc480dea920">Fundamentalne założenie, że w konkretnej gospodarce ilość <term id="UUID1a2fea89-ae87-41c0-563c-33ce437ae85d">kapitału finansowego</term> (ang. <foreign xml:lang="en" id="UUID431e0127-c7ce-4d5e-42d0-8f20cb0b2035"><term id="UUID2c26a827-7b54-4c5f-5adb-2e8be3d70ef5">financial capital</term></foreign>), na który jest zgłoszone zapotrzebowanie, jest równa całkowitej ilości dostarczonego kapitału, musi zawsze pozostać prawdziwe. Oszczędności krajowe zawsze będą pojawiać się jako część podaży kapitału finansowego, a inwestycje krajowe zawsze będą częścią popytu na kapitał finansowy. Jednak wydatki państwa i elementy bilansu handlowego występujące w równaniu mogą tworzyć zarówno stronę popytową, jak i podażową równania tożsamościowego. Działalność państwa i relacje ekonomiczne z krajami trzecimi mogą być zatem zarówno elementem podaży, jak i popytu na kapitał, w zależności od tego, czy bilans sektora finansów publicznych i bilans handlowy (a w szerszym kontekście bilans rachunku obrotów bieżących) wykazują nadwyżkę, czy deficyt.</para>
     </section>
-    <section id="fs-idp67673408" class="self-check-questions">
-      <title id="UUID026b14cb-aef6-424e-4437-aa38977ae8da">Self-Check Questions</title>
-      <exercise id="fs-idp23126016">
-        <problem id="fs-idp109193712">
-          <para id="fs-idp20720896">Dla każdego z poniższych punktów wskaż, czy ten rodzaj wydatku uzasadnia – z punktu widzenia produktywności – powstanie deficytu budżetowego.</para>
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm2917232">
-            <item id="UUID3afd2ec1-f1a8-43cb-6983-c344cee78a27">
-              <para id="UUIDe9b99088-1ebf-4f6f-50bc-7aa0f03f3216">Wzrost strumienia środków zasilających NFZ</para>
+    <section id="fs-idm7902880">
+      <title id="UUID1e66c450-4712-4369-7941-8f755390a58e">W jaki sposób krajowe oszczędności i inwestycje określają bilans handlowy</title>
+      <para id="fs-idp60300064">Jednym z wniosków płynących z równania <term id="UUID74704616-90bb-4f7e-7113-9ca4ba430c35">tożsamości krajowych oszczędności i inwestycji</term> jest to, że poziom oszczędności i inwestycji w danym kraju określa saldo bilansu handlowego. Aby zrozumieć tę zależność, przekształćmy nasze równanie w taki sposób, aby bilans handlowy znalazł się po jego lewej stronie. Rozważmy najpierw sytuację deficytu handlowego, a następnie nadwyżki.</para>
+      <para id="UUIDfb00d77d-29a3-4957-5817-205a151ee7d3">W przypadku deficytu bilansu handlowego równość krajowych oszczędności i inwestycji można zapisać w następujący sposób:</para>
+      <equation id="fs-idm49318352" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Deficyt bilansu handlowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Inwestycje krajowe − Prywatne oszczędności krajowe – Oszczędności sektora publicznego</mtext></mtd></mtr><mtr><mtd><mtext>(Z − X)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I − S − (T − G)</mtext></mtd></mtr></mtable></math></equation>
+      <para id="fs-idp49837968">Jeśli lewa strona równania jest większa od zera (import – Z przewyższa eksport – X), również prawa strona równania musi być od zera większa. W takim przypadku inwestycje krajowe muszą być wyższe niż suma prywatnych i publicznych oszczędności krajowych. Nadwyżka inwestycji nad oszczędnościami jest sfinansowana napływem kapitału z zagranicy. Ostatecznie ten dodatkowy kapitał finansowy na inwestycje musi skądś pochodzić, a w kraju go nie ma.</para>
+      <para id="UUIDb6952ba1-e115-4184-6339-15ce9123a14b">Przeanalizujmy teraz nadwyżkę handlową z punktu widzenia krajowych oszczędności i inwestycji:</para>
+      <equation id="fs-idp59279568" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Nadwyżka bilansu handlowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Prywatne oszczędności krajowe + Oszczędności sektora publicznego – Inwestycje krajowe</mtext></mtd></mtr><mtr><mtd><mtext>(X − Z)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (T − G) − I</mtext></mtd></mtr></mtable></math></equation>
+      <para id="UUIDf0ea78c9-25ee-442e-4961-f00222d807c0">W tym przypadku lewa strona równania ponownie jest większa od zera (ale tym razem to eksport – X przewyższa import – Z), więc strona prawa, w której od sumy prywatnych i publicznych oszczędności krajowych odejmujemy inwestycje, również musi być od zera większa. Nadwyżka krajowych oszczędności nad inwestycjami zostanie wydatkowana za granicą.</para>
+      <para id="fs-idp1159200">Ten ścisły związek krajowych oszczędności i inwestycji z saldem bilansu handlowego (powtórzmy, w szerszym kontekście również z saldem rachunku obrotów bieżących) wyjaśnia, dlaczego ekonomiści postrzegają bilans handlowy jako jedną z najważniejszych zmiennych ekonomicznych. <term id="UUIDf8b23161-f029-4bd8-6795-2b2e3c7de803">Tożsamość krajowych oszczędności i inwestycji</term> pokazuje, że wyniki osiągane przez niektóre sektory gospodarki, takie jak przemysł motoryzacyjny czy lekki, nie determinują w istocie bilansu handlowego. Co więcej, również to, czy krajowe przepisy i regulacje handlowe zachęcają do wolnego handlu, czy raczej protekcjonizmu, nie przesądza o stanie salda bilansu handlowego. Ten zależy wyłącznie od relacji pomiędzy krajowymi oszczędnościami i inwestycjami (zajrzyj do <link document="m00085" cmlnle:case="genitive" id="UUIDf7ca54a3-a4f7-4d91-7254-b0cb7ee54d2d" />).</para>
+    </section>
+    <section id="fs-idp415744">
+      <title id="UUID53ad0b95-976e-4f92-697a-6978c2bfea66">Analiza zmienności bilansu handlowego przy założeniu ceteris paribus</title>
+      <para id="fs-idm70617728">Równość krajowych oszczędności i inwestycji określa także sposób analizy wpływu poszczególnych czynników wpływających na wysokość deficytu w bilansie handlowym. Rozpocznijmy od formuły równania, w której oszczędności i inwestycje krajowe znajdują się po jego lewej stronie, a deficyt handlowy po prawej:</para>
+      <equation id="fs-idp19194624" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right"><mtr><mtd><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Inwestycje krajowe − Prywatne oszczędności krajowe − Oszczędności sektora publicznego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Deficyt bilansu handlowego</mtext></mtd></mtr><mtr><mtd><mtext>I − S − (T − G)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>(Z − X)</mtext></mtd></mtr></mtable></mtd></mtr></mtable></math></equation>
+      <para id="UUID10bb55fe-7241-4bc9-7fc5-bcc2a64a6a17">Rozważmy teraz po kolei wpływ, jaki na wysokość deficytu bilansu handlowego mają czynniki znajdujące się po lewej stronie równania, przyjmując założenie ceteris paribus, czyli przy stałym poziomie wszystkich pozostałych elementów równania tożsamości krajowych oszczędności i inwestycji.</para>
+      <para id="fs-idm72356656">Na początek załóżmy, że poziom inwestycji krajowych w danym kraju rośnie, podczas gdy wolumen oszczędności prywatnych i publicznych pozostaje niezmieniony. W pierwszym wierszu <link target-id="Table_23_06" cmlnle:case="genitive" id="UUIDec7bbf98-358f-4b32-6431-eec98a703f1d" /> podany jest efekt takiej zmiany. Ponieważ równość krajowych oszczędności i inwestycji musi być zachowana – w końcu jest to tożsamość, która z definicji musi być prawdziwa – wzrost inwestycji krajowych będzie oznaczał większy deficyt handlowy. Taka sytuacja miała miejsce w gospodarce USA pod koniec ostatniej dekady XX w. Ze względu na gwałtowny wzrost liczby nowych technologii teleinformatycznych inwestycje przedsiębiorstw poważnie wzrosły. Jednocześnie doszło do nieznacznego wzrostu oszczędności sektora publicznego i spadku oszczędności prywatnych, ale zmiany te niemal całkowicie się zrównoważyły. W rezultacie kapitał niezbędny do sfinansowania inwestycji sektora przedsiębiorstw musiał napłynąć z zagranicy, co było jedną z przyczyn bardzo wysokich deficytów handlowych Stanów Zjednoczonych na przełomie XX i XXI w. Oczywiście w przeciwnym przypadku – czyli w sytuacji, w której inwestycje uległyby zmniejszeniu – deficyt w bilansie handlowym zmniejszyłby swoje rozmiary.</para>
+      <table summary="This table has five rows and seven columns. The first row is a header row and it labels each column: “Domestic Investment”, “-”, “Private Domestic Savings”, “-”, “Public Domestic Savings”, “=”, and “Trade Deficit”. Under the column “Domestic Investment” are the words: “I”, “Up”, “No Change”, and “No Change”. Under the column “-” there is one hyphen and the rest of the column is blank. Under the column “Private Domestic Savings” are the words: “S”, “No change”, “Up” and “No change”. Under the column “-” there is one hyphen and the rest of the column is blank. Under the column “Public Domestic Savings” are the words “(T – G)”, “No change”, “No change”, and “Down”. Under the column “=” there is one equal sign and the rest of the column is blank. Under the column “Trade Deficit” are the words “(M – X)”, “Then M – X must rise”, “The M – X must fall”, and “The M – X must rise”." id="Table_23_06"><title id="UUID46cf6e52-c4db-4741-5c3f-91db5b16a424">Czynniki wpływające na zmiany wartości bilansu handlowego</title><tgroup cols="6" id="UUIDad5a1bd7-0d4e-4fb3-7e64-3becc710bf20"><colspec colnum="1" colname="col1" id="UUID9f17ebc1-d142-4f01-5975-101da52e1c16" /><colspec colnum="2" colname="col2" id="UUID7743f5a1-8dc3-4714-5164-b21298002866" /><colspec colnum="3" colname="col3" id="UUID9826610e-2299-4c7f-765a-e36652a8a473" /><colspec colnum="4" colname="col4" id="UUIDeaf562f5-0f27-41e9-7269-7e2dbd4f9256" /><colspec colnum="5" colname="col5" id="UUID31915cae-f2e8-4d03-6140-061c5d9a8318" /><colspec colnum="6" colname="col6" id="UUIDce942a33-e2de-4d14-40cf-e197b5e5496e" /><thead id="UUIDe765e60f-5b57-4eac-71e4-1967e63b01ea"><row id="UUID95e5d0f7-5211-414e-6d2a-9514aea8b974"><entry id="UUIDe1f66021-a129-47fe-67a9-a4837314261d">Inwestycje krajowe</entry><entry id="UUIDad0afbc8-479e-4dd7-4819-451b7e1256a1"> −</entry><entry id="UUID37c3bfc1-326a-4d9b-5a02-dc31423acc11">Prywatne oszczędności krajowe</entry><entry id="UUID6b2e5554-20e4-4251-52da-d41ff898675b"> −</entry><entry id="UUID8e876166-a2a3-4618-65f7-4fb18ab2a41a">Oszczędności sektora publicznego </entry><entry id="UUID2bbcb488-eaf1-4f9b-7747-837cda5fe52c"> =</entry><entry id="UUID3f164175-98e6-4a58-7c4e-f167edfe4695">Deficyt bilansu handlowego</entry></row></thead><tbody id="UUID3c1467a2-02f6-4923-6c3e-d778a2d62173"><row id="UUID60e34367-16f7-4358-75f2-508719b4b1ef"><entry id="UUIDde04a8b4-2d1a-466a-73bb-d46fba1baabe"><emphasis effect="bold">I</emphasis></entry><entry id="UUID2ba8a238-4efa-4785-71f1-c8456782786c"><emphasis effect="bold">−</emphasis></entry><entry id="UUID997190f2-a1d0-4eb5-4168-1a61e581bddd"><emphasis effect="bold">S</emphasis></entry><entry id="UUID88d84946-f5db-4e89-66f5-f36d96d3a6ab"><emphasis effect="bold">−</emphasis></entry><entry id="UUIDbb4e97ff-deb3-4631-4d56-beae9ddab7d2"><emphasis effect="bold">(T − G)</emphasis></entry><entry id="UUID6bfd67b2-29c4-4c87-51cf-da5562ffb4bd"><emphasis effect="bold">=</emphasis></entry><entry id="UUID64293cce-cc26-4b9d-43d8-386d8b913be5"><emphasis effect="bold">(Z − X)</emphasis></entry></row><row id="UUIDc93cd919-fa88-4fed-5aad-74a7d6714f1c"><entry id="UUID33b1e028-9352-478b-49a4-147c9122aafb">wzrost</entry><entry id="UUID7c9c3510-3e29-49e3-72c3-a72493dd35a9" /><entry id="UUID9dd23f17-2fa2-4b1b-5e2a-a669a68c9560">bez zmian</entry><entry id="UUIDd147593b-3874-4d67-5676-a0dbe38571c7" /><entry id="UUID154ab254-6891-46aa-56db-63eee20546bb">bez zmian</entry><entry id="UUID8d310743-d696-48a7-7ec3-0310e1e4b455" /><entry id="UUID9671e140-dcfe-46f9-57ca-c98065e20e34">wówczas Z − X musi wzrosnąć</entry></row><row id="UUID7dbd56fe-44f4-444c-6f53-81cd545de073"><entry id="UUIDf169c1b9-3409-4c95-59ba-87bc11c0c7f9">bez zmian</entry><entry id="UUID28f1f1ca-3b2b-4339-4934-db26dc7da1d4" /><entry id="UUID541130d7-8cb1-4c4e-4752-3a767d21dc24">wzrost</entry><entry id="UUIDa7888312-321d-46e9-734d-7f8886ef8daa" /><entry id="UUIDd4115bb0-c079-4b5d-59ac-fbea469b778d">bez zmian</entry><entry id="UUIDa944481c-77b4-42ce-6f46-cfe2402abd1c" /><entry id="UUIDbff716e1-b862-42d8-6fcc-0375bcffb771">wówczas Z − X musi spaść</entry></row><row id="UUID490788fa-72f3-4dfe-46f8-80d09d470060"><entry id="UUID9a9693ff-4dbf-48a8-63f1-4264bcef2942">bez zmian</entry><entry id="UUID58c8f05c-f96a-4b6f-5a12-60beb7ef74b3" /><entry id="UUID37ba91f0-d07c-4743-7800-f011e4a00797">bez zmian</entry><entry id="UUIDe80312bd-8c9a-47b0-45cd-d263a87da1c3" /><entry id="UUID00b9c887-7a2e-4d30-550d-72512ff34e72">spadek</entry><entry id="UUID3752d1b0-0e69-423c-4e27-469fc9b6fe73" /><entry id="UUID170cff8c-7750-4c78-4949-dc1fb9aa86aa">wówczas Z − X musi wzrosnąć</entry></row></tbody></tgroup><caption id="UUID854aaaca-a8c9-47de-6acc-55b6e3aa97dd" /></table>
+      <para id="UUID4d3d2494-079a-444a-6652-effc7eb73555">W drugim scenariuszu załóżmy, że rośnie poziom oszczędności krajowych, podczas gdy wolumen inwestycji krajowych i oszczędności sektora publicznego pozostaje niezmieniony. W takim przypadku deficyt handlowy się zmniejszy, bowiem wraz ze wzrostem krajowych oszczędności maleje zapotrzebowanie na zagraniczny kapitał, który miałby sfinansować inwestycje. Mechanizm ten jest podstawą formułowanych na forum publicznym w USA – kontrowersyjnych skądinąd – propozycji zwiększenia oszczędności gospodarstw domowych, co pozwoliłoby ograniczyć deficyt handlowy tego kraju. Ponownie: sytuacja odwrotna, czyli spadek prywatnych oszczędności krajowych, doprowadzi do wzrostu deficytu, wówczas bowiem popyt na kapitał zagraniczny, który mógłby sfinansować inwestycje, będzie rósł.</para>
+      <para id="UUID1f6238df-37d3-4116-68a7-d7261c3a4e68">W trzecim scenariuszu wyobraźmy sobie, że deficyt sektora finansów publicznych gwałtownie wzrósł (co jest tożsame ze spadkiem oszczędności publicznych), podczas gdy inwestycje krajowe i oszczędności prywatne pozostały niezmienione. Taka sekwencja zdarzeń miała miejsce w gospodarce USA w połowie lat 80. ub. wieku. Deficyt budżetu federalnego w wyniku reform podatkowych wprowadzonych przez administrację R. Reagana wzrósł z 79 mld dol. w 1981 r. do 221 mld dol. w 1986 r., co oznaczało wzrost zapotrzebowania na kapitał finansowy o 142 mld dol. Dodatnie saldo na rachunku obrotów bieżących w kwocie 5 mld dol. zamieniło się w tym samym okresie w deficyt na poziomie 147 mld dol. Gwałtowne zmniejszenie oszczędności sektora publicznego przy stałym poziomie inwestycji i oszczędności prywatnych wymusiło napływ kapitału z zagranicy, który doprowadził do zamiany niewielkiej nadwyżki na rachunku obrotów bieżących USA w pokaźnych rozmiarów deficyt. Gdyby doszło do sytuacji odwrotnej, czyli oszczędności sektora publicznego ceteris paribus by wzrosły, przyniosłoby to rzecz jasna zmniejszenie deficytu handlowego.</para>
+      <para id="UUID255c8a69-ee46-481e-6255-53706b0f2ca1">Następna <link target-id="fs-idp17740416" id="UUID639d5904-9eef-4a08-7c76-9269616304e5" /> poprowadzi cię przez scenariusz, w którym prywatne oszczędności krajowe muszą wzrosnąć o określoną kwotę, aby zmniejszyć rozmiary deficytu w bilansie handlowym.</para>
+      <note type="note" id="fs-idp17740416" class="economics workout">
+        <title id="UUID9b2a5299-5aa5-448a-7e54-c0b1af1d85bd">Rozwiązywanie problemów w oparciu o tożsamość oszczędności i inwestycji</title>
+        <para id="fs-idp65619536">Wykorzystaj równość oszczędności i inwestycji, aby odpowiedzieć na następujące pytanie: kraj A ma deficyt handlowy w wysokości 200 mld dol., prywatne oszczędności krajowe o wartości 500 mld dol., deficyt budżetowy na poziomie 200 mld dol., a wolumen prywatnych inwestycji krajowych wynosi 500 mld dol. O ile muszą wzrosnąć prywatne oszczędności krajowe, aby deficyt handlowy o wartości 200 mld dol. zmniejszył się o połowę (czyli o 100 mld dol.)?</para>
+        <para id="UUIDaca3d984-3d82-4c9f-52bd-f4d25fa50fe5">Krok 1. Zapisz formułę tożsamości oszczędności i inwestycji w taki sposób, aby wyrażenie opisujące deficyt handlowy znalazło się po lewej stronie:</para>
+        <equation id="fs-idm12623392" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>(X − Z)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + </mtext><mtext>(T − G)</mtext><mtext> − I</mtext></mtd></mtr></mtable></math></equation>
+        <para id="fs-idm81464288">Krok 2. Do wzoru podstaw ze znakiem ujemnym wskazaną w zadaniu kwotę deficytu handlowego:</para>
+        <equation id="fs-idp149592400" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext> −200</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (T − G) − I</mtext></mtd></mtr></mtable></math></equation>
+        <para id="fs-idm19011024">Krok 3. A teraz podstaw wartość oszczędności krajowych (S):</para>
+        <equation id="fs-idm74637248" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext> −200</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mn>500</mn><mtext> + (T − G) – I</mtext></mtd></mtr></mtable></math></equation>
+        <para id="fs-idm2672560">Krok 4. Wprowadź do wzoru wartość prywatnych inwestycji krajowych (I):</para>
+        <equation id="fs-idm186528" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext> −200</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mn>500</mn><mtext> + (T − G) − 500</mtext></mtd></mtr></mtable></math></equation>
+        <para id="fs-idp24713104">Krok 5. Saldo budżetu państwa to (T – G). Wstaw do wzoru ze znakiem ujemnym kwotę deficytu budżetowego:</para>
+        <equation id="fs-idp49067264" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext> −200</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mn>500</mn><mtext> + (−200) − 500</mtext></mtd></mtr></mtable></math></equation>
+        <para id="fs-idm13747024">Krok 6. Równanie wygląda teraz następująco:</para>
+        <equation id="fs-idp25419776" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right"><mtr><mtd><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>(X − Z)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (T − G) − I</mtext></mtd></mtr><mtr><mtd><mtext>−200</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>500 + (−200) − 500</mtext></mtd></mtr></mtable></mtd></mtr></mtable></math></equation>
+        <para id="fs-idp65803264">Pytanie brzmi: o ile muszą wzrosnąć prywatne oszczędności, aby zmniejszyć deficyt handlowy (X - Z) o połowę, czyli z poziomu (-200) do (-100)?</para>
+        <equation id="fs-idp69678208" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>(X – Z)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (T − G) − I</mtext></mtd></mtr><mtr><mtd><mtext>–100</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S + (−200)</mtext><mtext> − </mtext><mtext>500</mtext></mtd></mtr><mtr><mtd><mtext>600</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>S</mtext></mtd></mtr></mtable></math></equation>
+        <para id="fs-idm35895696">Krok 7. Podsumujmy: prywatne oszczędności krajowe muszą wzrosnąć o 100 mld dol., do łącznej kwoty 600 mld dol., aby deficyt w bilansie handlowym zmniejszył się do poziomu 100 mld dol., czyli aby obie strony równania pozostały w równowadze [(-100) = (-100)].</para>
+      </note>
+    </section>
+    <section id="fs-idm178263456">
+      <title id="UUID354e4196-12b4-4b1d-591e-301b99f8ad11">Krótkookresowe zmiany w cyklu koniunkturalnym i bilansie handlowym</title>
+      <para id="UUID3242b811-e41e-4313-4a05-9b49d87e3a4d">W krótkim okresie to, czy gospodarka znajduje się w recesji, czy w okresie ożywienia, może determinować ewentualny brak równowagi w bilansie handlowym. Recesja zazwyczaj powoduje zmniejszenie deficytu lub zwiększenie nadwyżki, zaś szybki wzrost gospodarczy zwykle zwiększa deficyt lub zmniejsza nadwyżkę.</para>
+      <para id="fs-idp13491456">Spójrz na <link target-id="CNX_Econ_C23_003" document="m00027" cmlnle:case="accusative" id="UUID9107ef3c-a30a-4bfa-7786-56c23ccc6d5e" />. Można zauważyć, że deficyt na rachunku obrotów bieżących Stanów Zjednoczonych w latach 2006–2009 zmniejszył się prawie o połowę. Jednym z głównych czynników wywołujących tę zmianę był fakt, że podczas recesji, która w największym stopniu dotknęła amerykańską gospodarkę, popyt na towary importowane do USA spadł znacznie bardziej niż zapotrzebowanie na towary amerykańskie zgłaszane przez globalną gospodarkę.</para>
+      <para id="UUID14d8ba17-44d1-4fe5-70cf-b9c3fe977461">I odwrotnie: w połowie pierwszej dekady XX w., kiedy deficyt na rachunku obrotów bieżących Stanów Zjednoczonych gwałtownie się powiększył, stało się tak dzięki wysokiej dynamice wzrostu amerykańskiej gospodarki. Wraz z powiększającym się wolumenem produkcji i dochodu rosło również zapotrzebowanie amerykańskich podmiotów na dobra i usługi, w tym również na towary importowane. A zatem wzrost deficytu lub zmniejszenie nadwyżki w bilansie handlowym i bilansie na rachunku obrotów bieżących jest zwykle konsekwencją szybkiego tempa wzrostu gospodarki, podczas gdy nadwyżka handlowa (lub spadek deficytu) towarzyszą okresom spowolnienia dynamiki wzrostu gospodarczego lub recesji.</para>
+      <para id="UUID4d503890-97be-40f3-703f-442033a9a6f4">Niezależnie od tego, czy deficyt handlowy spada, czy rośnie w czasie ekspansji lub spowolnienia, jego powiększenie oznacza – z konieczności – wzrost wartości netto strumienia zagranicznego kapitału finansowego. Równanie tożsamości krajowych oszczędności i inwestycji wskazuje, że gospodarka danego kraju może wchłonąć ten napływ na kilka różnych sposobów. Na przykład malejące oszczędności prywatne mógłby zrekompensować dodatkowy napływ kapitału finansowego z zagranicy, pozostawiając inwestycje krajowe i oszczędności sektora publicznego bez zmian. Alternatywnie napływ zagranicznego kapitału finansowego mógłby spowodować wzrost wolumenu inwestycji krajowych, pozostawiając oszczędności prywatne i publiczne bez zmian. Jeszcze innym wariantem jest wzrost deficytu sektora finansów publicznych, który umożliwiłby wchłonięcie napływu zagranicznego kapitału finansowego, pozostawiając krajowe oszczędności prywatne i inwestycje na dotychczasowym poziomie. Tożsamość krajowych oszczędności i inwestycji nie określa, który z tych scenariuszy zostanie ostatecznie zrealizowany (może być również tak, że wszystkie te zmiany wystąpią jednocześnie), niemniej co najmniej jedno ze zdefiniowanych wyżej zdarzeń na pewno się pojawi.</para>
+    </section>
+    <section id="fs-idp1845344" class="summary">
+      <title id="UUID43ac9791-af6e-401e-50ee-0cf72c6b6407">Key Concepts and Summary</title>
+      <para id="fs-idm93265948">Tożsamość krajowych oszczędności i inwestycji wynika z tego, że podaż kapitału finansowego dostarczanego z różnych źródeł na rynek musi się równać wielkości zapotrzebowania, jakie na kapitał zgłoszono. Jeśli S oznacza prywatne oszczędności, T reprezentuje podatki, G – wydatki państwa, Z – import, X – eksport, a I – inwestycje, to dla każdej gospodarki, w której istnieje deficyt na rachunku obrotów bieżących (Z - X > 0) i deficyt sektora finansów publicznych (G - T > 0), prawdziwe jest następujące równanie:</para>
+      <equation id="fs-idp26151280" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>S + (Z − X)</mtext></mtd><mtd><mtext>=</mtext></mtd><mtd><mtext>I + (G − T)</mtext><mo> </mo></mtd></mtr></mtable></math></equation>
+      <para id="UUIDd8932b27-df98-4588-4918-ba9895108872">W czasie recesji lub okresów spowolnienia dynamiki wzrostu gospodarczego dochodzi zazwyczaj do poprawy salda bilansu handlowego (co oznacza wyższą nadwyżkę lub niższy deficyt), podczas gdy boom gospodarczy będzie tworzył warunki do zmniejszania nadwyżki lub wzrostu wartości deficytu handlowego.</para>
+    </section>
+    <section id="fs-idm92026400" class="self-check-questions">
+      <title id="UUID6a0cc110-62fd-4df5-60d9-ea0a39b3b723">Self-Check Questions</title>
+      <exercise id="fs-idm109971344">
+        <problem id="fs-idm104670144">
+          <para id="fs-idm98952560">Wykorzystując tożsamość krajowych oszczędności i inwestycji, wyjaśnij, w jaki sposób każde z następujących zdarzeń (ceteris paribus) spowoduje zwiększenie lub zmniejszenie bilansu handlowego:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm92035792">
+            <item id="UUID046c47d0-8444-43c9-6e31-96628a38506b">
+              <para id="UUID1fb917ea-505d-4d5e-6632-eb56562049dd">Wolumen krajowych oszczędności zmniejsza się.</para>
             </item>
-            <item id="UUIDeb7a7a47-608a-45a4-4410-97c4f840971d">
-              <para id="UUID88f4400f-807f-449d-4ac2-b2aca4ff4da6">Zwiększone wydatki na edukację</para>
+            <item id="UUID5df9fbd8-e1af-4285-62db-5be455358586">
+              <para id="UUID362025e9-4025-4efd-448c-b897b2ab6582">Nadwyżka w sektorze finansów publicznych zamienia się w deficyt.</para>
             </item>
-            <item id="UUIDcb673a1e-43ec-46e2-6efe-690386027f7e">
-              <para id="UUID35d163c8-520b-424b-4601-c3c4577a0443">Zwiększone wydatki na program przezbrajania polskiej armii</para>
-            </item>
-            <item id="UUID9a485648-acee-4696-6174-95a88fa9ebab">
-              <para id="UUID1cb778db-72a5-436c-6b12-f87690c9b75d">Zwiększone wydatki na lotniska i kontrolę ruchu lotniczego</para>
+            <item id="UUID07ddfb99-49e0-4174-4b30-852fb2874851">
+              <para id="UUID6722684a-9421-4a5b-724e-7fc188923707">Wartość krajowych inwestycji gwałtownie rośnie.</para>
             </item>
           </list>
         </problem>
-        <solution id="fs-idm67360576">
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm170677648">
-            <item id="UUIDe3a67648-c528-4582-4774-bd14ce50a9ac">
-              <para id="UUIDdb7a9b35-fa25-46a0-4114-909b230c13ed">Wzrost strumienia środków zasilających NFZ nie przekłada się automatycznie na wzrost produktywności, więc deficyt budżetowy nie jest uzasadniony.</para>
+        <solution id="fs-idp15776304">
+          <para id="fs-idm18788623">Zapisz równanie tożsamości krajowych oszczędności i inwestycji w taki sposób, aby po lewej stronie znajdowała się podaż kapitału, a z prawej popyt na kapitał reprezentowany przez inwestycje:</para>
+          <equation id="fs-idm15142832" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Popyt na kapitał</mtext></mtd></mtr><mtr><mtd><mtext>S + (Z − X) + (T − G)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I</mtext><mo> </mo></mtd></mtr><mtr><mtd><mtext>Oszczędności + (Deficyt w bilansie handlowym) + (Nadwyżka sektora finansów publicznych)</mtext></mtd><mtd><mtext>=</mtext></mtd><mtd><mtext>Inwestycje</mtext></mtd></mtr></mtable></math></equation>
+          <para id="UUID2c93a3ba-c1bb-42fc-76d8-e4b76fa16846">Jeśli wartość wolumenu krajowych oszczędności spadnie i nic więcej się nie zmieni, to deficyt handlowy wzrośnie. W efekcie gospodarka w większym stopniu będzie wykorzystywać kapitał zagraniczny, a w mniejszym kapitał pochodzący ze źródeł krajowych. Jeśli rząd zacznie pożyczać, zamiast oszczędzać, i w ten sposób wygeneruje deficyt sektora finansów publicznych, to deficyt handlowy musi wzrosnąć. W rezultacie rząd nie będzie już miał oszczędności, więc – jeśli dodatkowo nic się nie zmieni – więcej środków na inwestycje musi napłynąć z zagranicy. Jeśli wartość inwestycji krajowych gwałtownie wzrośnie, wówczas, ceteris paribus, deficyt handlowy również musi wzrosnąć, aby zapewnić dodatkowy kapitał na sfinansowanie nakładów inwestycyjnych. Założenie ceteris paribus – czyli „przy wszystkich innych warunkach niezmienionych” – jest tutaj ważne. We wszystkich wskazanych w zadaniu sytuacjach nie ma powodu oczekiwać, że pierwotna zmiana wpłynie tylko lub przede wszystkim na deficyt handlowy. Niemniej niezależnie od tego, które zmienne ostatecznie dostosują swoją wartość do nowej sytuacji, tożsamość (równość) krajowych oszczędności i inwestycji będzie zachowana.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp83973936">
+        <problem id="fs-idm68287792">
+          <para id="fs-idm17670064">Jeśli kraj ma nadwyżkę w sektorze finansów publicznych, to dlaczego formalny zapis salda sektora finansów publicznych (T - G) znajduje się po lewej stronie równania oszczędności i inwestycji?</para>
+        </problem>
+        <solution id="fs-idm43574304">
+          <para id="fs-idm43574176">W sytuacji istnienia nadwyżki sektora finansów publicznych państwo raczej oszczędza, niż pożycza. Podaż oszczędności prywatnych i publicznych znajduje się po lewej stronie tego równania.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm58533440">
+        <problem id="fs-idm172805456">
+          <para id="fs-idm73518512">Co decyduje o rozmiarach deficytu w bilansie handlowym i na rachunku obrotów bieżących w danym kraju?</para>
+        </problem>
+        <solution id="fs-idm110922672">
+          <para id="fs-idm68028368">Oba rodzaje deficytu są określane przez relację poziomu prywatnych i publicznych oszczędności danego kraju oraz wolumenu inwestycji krajowych.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm35526640">
+        <problem id="fs-idm69718224">
+          <para id="fs-idm81851376">Jeśli wzrastają inwestycje krajowe, a wielkość oszczędności prywatnych i publicznych się nie zmienia, to co stanie się z deficytem handlowym?</para>
+        </problem>
+        <solution id="fs-idp18465056">
+          <para id="fs-idm41449696">Deficyt handlowy w takiej sytuacji musi wzrosnąć. Innymi słowy, wzrost inwestycji musi być finansowany napływem kapitału finansowego z zagranicy.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm61870640">
+        <problem id="fs-idm60162064">
+          <para id="fs-idm36435296">Dlaczego recesja powoduje spadek deficytu handlowego?</para>
+        </problem>
+        <solution id="fs-idm101861648">
+          <para id="fs-idm127618096">W czasie recesji dochody się zmniejszają, wskutek czego konsumenci kupują mniej towarów, w tym importowanych.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm114771104">
+        <problem id="fs-idp44825792">
+          <para id="fs-idp46659552">Zarówno polska gospodarka, jak i inne gospodarki UE przeżywają boom. Czy import i/lub eksport z Polski wzrośnie?</para>
+        </problem>
+        <solution id="fs-idm47096048">
+          <para id="fs-idm47095920">Boom gospodarczy zwiększa popyt na dobra i usługi, więc sprzedaż dóbr w UE wzrośnie. Kraje europejskie są głównymi partnerami handlowymi Polski, można zatem oczekiwać wzrostu zarówno polskiego importu, jak i eksportu.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp65588896" class="review-questions">
+      <title id="UUID9ddc2294-894a-4eb6-61b3-ee74792a9a88">Review Questions</title>
+      <exercise id="fs-idp165952624">
+        <problem id="fs-idp39819472">
+          <para id="fs-idp83277968">Jak można określić prawą i lewą stronę równania tożsamości krajowych oszczędności i inwestycji?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp43217600">
+        <problem id="fs-idp39370624">
+          <para id="fs-idp39370752">Jakie są główne elementy równania tożsamości krajowych oszczędności i inwestycji?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm45311120" class="critical-thinking">
+      <title id="UUIDccb0e27a-3f04-459d-4861-4fbc1355b9ae">Critical Thinking Questions</title>
+      <exercise id="fs-idm24249872">
+        <problem id="fs-idm24249616">
+          <para id="fs-idm20847584">Wiele osób uważa, że rozmiary deficytu handlowego wynikają z braku konkurencyjności krajowych przedsiębiorstw, np. tych działających w przemyśle motoryzacyjnym. Wyjaśnij, dlaczego jest to nieprawda.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp164916624">
+        <problem id="fs-idp128924720">
+          <para id="fs-idp128924976">Czy obserwując kraj z szybko rosnącą w krótkim okresie (na przestrzeni roku) nadwyżką handlową, uznasz, że gospodarka tego kraju znajduje się w recesji, czy raczej w okresie szybkiego wzrostu? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp19946544">
+        <problem id="fs-idp121668528">
+          <para id="fs-idp121668784">Czasami politycy przekonują, że ich kraj powinien jednocześnie dążyć do uzyskania nadwyżki handlowej i stymulować napływ kapitału z zagranicy. Czy to jest w ogóle możliwe?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp36476864" class="problems">
+      <title id="UUIDa8735b08-1a08-45fb-4896-094f7e9ec498">Problems</title>
+      <exercise id="fs-idp19991840">
+        <problem id="fs-idp127567056">
+          <para id="UUID750af482-7b33-46eb-4796-52f1180277f3">Wyobraźmy sobie, że gospodarka Stanów Zjednoczonych znajduje się w następującej sytuacji: deficyt sektora finansów publicznych wynosi 100 mld dol., całkowite prywatne oszczędności krajowe – 1500 mld dol., a całkowite krajowe inwestycje kapitałowe kształtują się na poziomie 1600 mld dol. Jakie będzie saldo rachunku obrotów bieżących zgodnie z równaniem tożsamości krajowych oszczędności i inwestycji? Jak zmieni się to saldo, jeśli inwestycje wzrosną o 50 mld dol., podczas gdy deficyt sektora finansów publicznych i poziom prywatnych oszczędności krajowych pozostaną takie same?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp19432880">
+        <problem id="fs-idp65184768">
+          <para id="fs-idp98589424"><link target-id="Table_23_07" id="UUIDb6df207b-3951-46ee-6d1d-7ebfa141c44a" /> zawiera hipotetyczne dane dotyczące zmiennych makroekonomicznych trzech krajów reprezentowanych przez litery A, B i C (dane w miliardach jednostek walutowych). SH oznacza oszczędności gospodarstw domowych, T – dochody podatkowe, G – wydatki państwa, zaś I to inwestycje.</para>
+          <table summary="This table has five rows and four columns. The first row is a header row and it labels each column. The first column is not labeled, the second is “A”, the third is “B” and the fourth is “C”. Under the first unlabeled column are the letters: “SH”, “T”, “G”, and “I”. Under the column “A” are the values: 700; 00; 600; and 800. Under the column “B” are the values: 500; 500; 350; and 400. Under the column “C” are the values: 600; 500; 650; and 450." id="Table_23_07"><title id="UUID85cf565a-c3e3-4158-4a37-e7a4126e21a2">Zmienne makroekonomiczne</title><tgroup cols="4" id="UUID86f25b7f-77ed-4f74-684f-110c71e6de5f"><colspec colnum="1" colname="col1" id="UUIDc9a89ce5-73cb-4a5f-7570-4329d22a02c7" /><colspec colnum="2" colname="col2" id="UUIDa0a1c1de-ae20-48b5-4dde-c7f77fa68611" /><colspec colnum="3" colname="col3" id="UUID928be10c-79c5-4281-4864-39a71257df8a" /><colspec colnum="4" colname="col4" id="UUIDf007f1ab-2636-4221-485b-67dea8156666" /><thead id="UUIDb7a6ef0b-90a4-4dd2-6bd9-8cd7bacda254"><row id="UUID39c7701b-846d-432c-6288-28f254e6a1d7"><entry id="UUID9e1ac923-e661-4260-47e4-edad3a0e2db7" /><entry id="UUID612d6b4f-0fc7-42ee-749c-fa85cddee71c">A</entry><entry id="UUID0504f49c-d40f-4c7f-5a64-be30ecc55a65">B</entry><entry id="UUIDbd8ada54-25cc-4055-5b80-184778587585">C</entry></row></thead><tbody id="UUID2a362276-2286-40ec-7395-c6b60af18cac"><row id="UUIDc3b42b29-11ef-4bd4-6a9a-d069731603d3"><entry id="UUID3bbd03ec-059f-4a6f-454d-dfa11289e86f">SH</entry><entry id="UUIDb2dfb057-968e-4ce3-5b1d-5314736ef82e">700</entry><entry id="UUID371f93bd-f8d6-4d8f-6e3c-1e81c5f8bf5e">500</entry><entry id="UUIDccdc00fb-74ca-4791-4964-735d09770d3d">600</entry></row><row id="UUID157fa8b2-f533-4c87-6439-4bdf44cac697"><entry id="UUID6ff2a439-982c-45cf-6157-37074a97c7ce">T</entry><entry id="UUID3522161a-8de8-436b-46dd-4b06f83c2c85">00</entry><entry id="UUID14f9d572-5334-41f5-4576-cf917c6f182c">500</entry><entry id="UUID43944fbc-037d-495f-437c-c6c6299a845e">500</entry></row><row id="UUID40c580f9-3718-4806-70fb-1ea5bb3702c5"><entry id="UUID71163167-35ca-4258-59cc-2eb6fa6245d3">G</entry><entry id="UUID03782699-4b72-4bfe-594e-2108c2e001d5">600</entry><entry id="UUID8e51031e-d795-4197-5083-514a022b7e4a">350</entry><entry id="UUIDc4883c0d-c94f-422a-6c25-5e52862aab25">650</entry></row><row id="UUID6df24704-90e3-4f69-45eb-e0f95537e558"><entry id="UUIDadd5468d-d4f9-463c-7c02-78caa81c09a0">I</entry><entry id="UUID7a0b2d36-8ed8-4410-4783-12732d1fb6f2">800</entry><entry id="UUID6fbc0ba5-c855-42fe-4799-4af7383416e2">400</entry><entry id="UUID9788e1ea-3c1f-4117-59c2-425de335c0e7">450</entry></row></tbody></tgroup><caption id="UUIDa79a1db7-77da-4629-4c76-3ea86a5d129b" /></table>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp54010112">
+            <item id="UUID2fe2f0a5-11a5-4602-7019-98dd347e950f">
+              <para id="UUID53b7ccf6-ed5d-4acc-7c30-cad1994a9885">Oblicz saldo bilansu handlowego i napływ netto oszczędności zagranicznych dla każdego kraju.</para>
             </item>
-            <item id="UUID84ec5373-565d-415d-6eef-3d05bcbbdfdf">
-              <para id="UUID8c93efcd-c748-4cec-5359-18b1a3c050ba">Zwiększone wydatki na edukację zwiększą produktywność i przyspieszą wzrost gospodarczy, więc deficyt budżetowy jest uzasadniony.</para>
+            <item id="UUIDbdb3caf0-1ee8-4039-78f9-ddb5964629c6">
+              <para id="UUIDbda0e097-c6cb-4499-7fee-d3da58c5a9d4">Który z krajów notuje nadwyżkę, który deficyt, a który zrównoważone saldo bilansu handlowego?</para>
             </item>
-            <item id="UUIDcc538b4c-a03c-4624-6eb7-8e462c31022e">
-              <para id="UUID1a740293-d27a-4728-4032-6a522d86794f">Zwiększone wydatki na program przezbrajania armii mogą nie zwiększyć produktywności, więc deficyt budżetowy nie jest uzasadniony.</para>
-            </item>
-            <item id="UUID254d10b9-48e2-4595-7ac5-fe0e98669c3b">
-              <para id="UUID5a4512c0-53ba-4f17-49c8-1970e0339b24">Zwiększone wydatki na lotniska i kontrolę ruchu lotniczego zwiększą produktywność i przyspieszą wzrost gospodarczy, więc deficyt budżetowy jest uzasadniony.</para>
+            <item id="UUID9490bb69-4d9c-4c0a-4dd8-d621999967ce">
+              <para id="UUIDd8bcdf0b-d921-4b1d-6098-6574bae2a5e3">Oceń, które kraje pozostają pożyczkodawcami netto, a które pożyczkobiorcami netto na arenie międzynarodowej. Uzasadnij swoją opinię.</para>
             </item>
           </list>
-        </solution>
-      </exercise>
-      <exercise id="fs-idp16261952">
-        <problem id="fs-idp148829280">
-          <para id="fs-idp45810624">W jaki sposób wysokie deficyty handlowe zaszkodziły krajom Azji Południowo-Wschodniej w połowie lat 80. XX w.? (Przypomnijmy, że deficyty handlowe są tożsame z napływem kapitału finansowego z zagranicy).</para>
-        </problem>
-        <solution id="fs-idp149816912">
-          <para id="fs-idm44735936">Zagraniczni inwestorzy zaczęli obawiać się o perspektywy odzyskania ulokowanych w tych krajach środków i zaczęli wycofywać kapitał z giełdy, rynków obligacji i nieruchomości oraz sektora bankowego.</para>
-        </solution>
-      </exercise>
-      <exercise id="fs-idp41124208">
-        <problem id="fs-idm32519312">
-          <para id="fs-idm51012480">Opisz scenariusz, w którym nadwyżka handlowa jest korzystna dla gospodarki, oraz taki, w którym nadwyżka handlowa charakteryzuje gospodarkę znajdującą się w kiepskiej kondycji. Jaki kluczowy czynnik lub czynniki determinują wpływ salda bilansu handlowego na sytuację gospodarczą danego kraju?</para>
-        </problem>
-        <solution id="fs-idm8502368">
-          <para id="fs-idp109185888">Szybko rosnąca nadwyżka handlowa może wynikać z wielu czynników, nie warto więc pochopnie zakładać jej konkretnej przyczyny. Jeśli jednak istnieją tylko dwie możliwości: albo gospodarka pogrążona jest w recesji, albo szybko się rozwija, to odpowiedzią będzie recesja. W czasie recesji popyt globalny na dobra i usługi, w tym oczywiście towary importowane, spada. Eksport zależy przede wszystkim od sytuacji w krajach, do których jest on kierowany, stąd wzrost nadwyżki handlowej.</para>
-        </solution>
-      </exercise>
-    </section>
-    <section id="fs-idp6393504" class="review-questions">
-      <title id="UUID904d3318-846a-4e3b-59d9-8fa255e43c57">Review Questions</title>
-      <exercise id="fs-idp2237328">
-        <problem id="fs-idm39191648">
-          <para id="fs-idm95164912">W jakich warunkach deficyt handlowy może mieć korzystny wpływ na gospodarkę? A w jakich może być niekorzystny?</para>
         </problem>
       </exercise>
-      <exercise id="fs-idm79938672">
-        <problem id="fs-idm94362608">
-          <para id="fs-idp7684464">Czy nadwyżka handlowa w automatyczny sposób przekłada się na wysokie tempo wzrostu gospodarczego?</para>
+      <exercise id="fs-idp70860288">
+        <problem id="fs-idp167104176">
+          <para id="fs-idm17562192">Załóżmy, że w gospodarce niemieckiej budżet sektora finansów publicznych ma nadwyżkę w wysokości 1% PKB, oszczędności prywatne to 20% PKB, a inwestycje stanowią 18% PKB.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp44789424">
+            <item id="UUID857c4e70-760d-4452-6adc-6eaa3d72413b">
+              <para id="UUID1ec35626-3704-497e-52a0-7cb54f46e395">Jakie jest saldo rachunku obrotów bieżących, biorąc pod uwagę równanie tożsamości krajowych oszczędności i inwestycji?</para>
+            </item>
+            <item id="UUID09b6f9da-db42-4f7d-7374-ad83a3f435c8">
+              <para id="UUID634e5d1d-7d23-4ef8-54fd-099ae581fbcb">Jak na saldo obrotów bieżących wpłynie obniżenie nadwyżki sektora finansów publicznych do zera?</para>
+            </item>
+          </list>
         </problem>
       </exercise>
-    </section>
-    <section id="fs-idm35709744" class="critical-thinking">
-      <title id="UUIDe5b2a690-2133-49ab-529e-232741f96795">Critical Thinking Question</title>
-      <exercise id="fs-idp68023184">
-        <problem id="fs-idp18614416">
-          <para id="fs-idp74815328">Co jest ważniejsze: saldo na rachunku obrotów bieżących danego kraju czy tempo wzrostu jego PKB? Odpowiedź uzasadnij.</para>
-        </problem>
-      </exercise>
-    </section>
-    <section id="fs-idm55210192" class="references">
-      <title id="UUID31fd20d9-537e-4a00-6814-aad715ad3c76">References</title>
-      <para id="fs-idp49820240">Tabuchi, Hiroko. “Japan Reports a $78 Billion Trade Deficit for 2012.” <emphasis effect="italics">The New York Times</emphasis>, January 23, 2013. http://www.nytimes.com/2013/01/24/business/global/japan-reports-a-78-billion-trade-deficit-for-2012.html?_r=0.</para>
-      <para id="eip-655">World Bank. 2014. "Exports of Goods and Services (% of GDP)." Accesed April 13, 2015. http://data.worldbank.org/indicator/NE.EXP.GNFS.ZS/countries.</para>
     </section>
   </content>
+  <glossary id="UUID88f71fae-9e15-450d-4d86-b2f913afe477">
+    <definition id="fs-idp30125840">
+      <term id="UUID99abac5b-ac2b-42d5-5514-55281d920309">równanie tożsamości krajowych oszczędności i inwestycji (ang. <foreign xml:lang="en" id="UUIDe761d13a-8f94-416a-5d0c-2abd27adf51f"><term id="UUIDd199907d-d8da-46ea-5e9e-88c0d126109e">national saving and investment identity</term></foreign>)</term>
+      <meaning id="fs-idp61692336">
+        <para id="UUIDe86555c1-c3e0-455f-5c32-b962338df21c">koncepcja, zgodnie z którą na krajowym rynku finansowym ilość kapitału dostarczanego w każdym momencie (podaż) musi być równa ilości kapitału niezbędnego do sfinansowania inwestycji (popyt), co oznacza, że suma oszczędności prywatnych i oszczędności publicznych (nadwyżka budżetu państwa) musi być równa wartości inwestycji krajowych skorygowanych o saldo na rachunku obrotów bieżących (saldo w bilansie handlowym)</para>
+      </meaning>
+    </definition>
+  </glossary>
 </document>

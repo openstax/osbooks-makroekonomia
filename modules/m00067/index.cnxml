@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U9e0683cc-7466-4156-8f37-b34d95b8829b" id="U9e0683cc-7466-4156-8f37-b34d95b8829b" xml:lang="en" cnxml-version="0.7">
-  <title>12.6 The Question of a Balanced Budget</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U62b38a1c-a3bd-46f8-ba2d-7fc9db50bfaf" id="U62b38a1c-a3bd-46f8-ba2d-7fc9db50bfaf" xml:lang="en" cnxml-version="0.7">
+  <title>12.5 Practical Problems with Discretionary Fiscal Policy</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00067</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/9e0683cc-7466-4156-8f37-b34d95b8829b</md:content-url>
-    <md:title>12.6 The Question of a Balanced Budget</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/62b38a1c-a3bd-46f8-ba2d-7fc9db50bfaf</md:content-url>
+    <md:title>12.5 Practical Problems with Discretionary Fiscal Policy</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:05.301547042+00:00</md:version>
-    <md:created>2023-08-30T08:02:05.301547042+00:00</md:created>
-    <md:revised>2023-08-30T08:02:05.301547042+00:00</md:revised>
+    <md:version>2023-09-11T10:25:15.215825864+00:00</md:version>
+    <md:created>2023-09-11T10:25:15.215825864+00:00</md:created>
+    <md:revised>2023-09-11T10:25:15.215825864+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,70 +20,156 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>9e0683cc-7466-4156-8f37-b34d95b8829b</md:uuid>
+    <md:uuid>62b38a1c-a3bd-46f8-ba2d-7fc9db50bfaf</md:uuid>
   </metadata>
   <content>
     <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
     <list id="list-00001">
-      <item id="UUID6ffb1214-c7c3-4df4-75d1-12b1fd09b342">
-        <para id="UUID293a64b5-f15d-4cba-54ec-923b0b9de321">Zrozumieć argumenty za i przeciw zrównoważonemu budżetowi</para>
+      <item id="UUIDb91ebc6a-e8b2-4e17-60f3-fbc17c690489">
+        <para id="UUIDae9b45db-3f4c-49d3-75e3-a79d3eecf6f1">Opisać, w jaki sposób polityka fiskalna i polityka pieniężna są ze sobą powiązane</para>
       </item>
-      <item id="UUIDd5556394-7135-4004-4458-02e2afd16d9c">
-        <para id="UUID9d110b3c-6f01-4c7d-43e6-f92680a58f64">Wskazać krótko- i długookresowe konsekwencje deficytu budżetowego</para>
+      <item id="UUID7ef99bdd-7dec-4a26-753b-bc47fa2d032d">
+        <para id="UUIDbc21e3f0-4b64-48fe-4af5-34ce3e4580db">Wskazać trzy przyczyny opóźnień, które często występują przy rozwiązywaniu problemów gospodarczych</para>
+      </item>
+      <item id="UUIDd6fc6f3c-4c8a-4668-477b-2caddc7fedd9">
+        <para id="UUID6b4032bb-e751-47af-736d-d397025646a8">Zrozumieć prawne i polityczne wyzwania dotyczące mierzenia się z problemami ekonomicznymi</para>
       </item>
     </list>
-    <para id="fs-idm13100464">Przez wiele dziesięcioleci, począwszy od lat 30. XX w., różni ustawodawcy przedstawiali propozycje wymagające od rządu USA corocznego równoważenia budżetu. W 1995 r. zaproponowano poprawkę do konstytucji nakazującą prowadzenie polityki zrównoważonego budżetu. Została ona przyjęta przez Izbę Reprezentantów USA z dużym zapasem głosów, ale przepadła w Senacie, gdzie zabrakło jej tylko jednego głosu. (Aby zrównoważony budżet stał się poprawką do konstytucji, musiałby uzyskać co najmniej 2/3 głosów w Kongresie i zostać przyjęty przez co najmniej 3/4 stanowych legislatur).</para>
-    <para id="UUIDb8bc031e-54a8-4a18-4f10-b9b7d35b0a28">Większość ekonomistów na propozycję permanentnie <term cmlnle:reference="zrównoważony budżet" id="UUIDaab97792-7ec5-4b7f-4dde-b5edf362b779">zrównoważonego budżetu</term> (<foreign xml:lang="en" id="UUID443bd254-dfd6-4236-7101-832a4af48e79"><term id="UUID5ffab2c1-fc47-4f16-786d-50e5c44cc690">balanced budget</term></foreign>) reaguje rozbawieniem. W końcu ekonomiści wiedzą, że w krótkim okresie saldo budżetu wykazuje wahania zarówno w górę, jak i w dół w zależności od stanu koniunktury i kierunku działań automatycznych stabilizatorów. Recesja gospodarcza automatycznie prowadzi do większych deficytów lub mniejszych nadwyżek budżetowych, podczas gdy ekspansja powoduje mniejsze deficyty lub większe nadwyżki budżetowe. Wymóg, aby budżet był co roku zrównoważony, uniemożliwiłby działanie automatycznych stabilizatorów i zwiększał koszty wahań koniunkturalnych.</para>
-    <para id="fs-idp24158128">Niektórzy zwolennicy poprawki dotyczącej zrównoważonego budżetu uważają, że skoro gospodarstwa domowe muszą równoważyć własne budżety, to rząd też powinien tak robić. Jednak analogia między zachowaniem rządu a zachowaniem gospodarstw domowych jest błędna. Większość gospodarstw domowych nie bilansuje przecież swoich budżetów co roku. W niektórych latach gospodarstwa domowe pożyczają pieniądze na zakup domów, samochodów, na opłacenie kosztów leczenia albo czesnego. W pozostałych latach spłacają kredyty i odkładają środki na kontach emerytalnych. Po przejściu na emeryturę wydają te oszczędności. Ponadto rządu nie można traktować tak jak gospodarstw domowych z wielu powodów, z których bodaj najważniejszym jest ten, że rząd ma obowiązek troszczyć się o stan gospodarki jako całego systemu. Zgodnie z <term cmlnle:reference="keynesowska polityka makroekonomiczna" id="UUID97a43706-cb7d-4fc7-7c49-531275d87884">keynesowską polityką makroekonomiczną</term> (<foreign xml:lang="en" id="UUID96c36abe-63ee-4fa6-7639-0459231dbeb0"><term id="UUID279252e8-47e3-4fca-58eb-7633beabb979">Keynesian macroeconomic policy</term></foreign>), dla dobra całej gospodarki rząd musi działać przeciwnie do stanu koniunktury – wydawać pieniądze w trudnych czasach i oszczędzać, gdy jest dobrze.</para>
-    <para id="fs-idp110738656">Nie ma też szczególnego powodu, by oczekiwać, że budżet państwa będzie zrównoważony w średnim okresie kilku lat. Na przykład utrzymując duże deficyty budżetowe, państwo może dokonać kluczowych długoterminowych inwestycji w <term id="UUIDde322dcf-d9e2-4b0b-5a61-b905587fd208">kapitał ludzki</term> (<foreign xml:lang="en" id="UUID80a66cef-5625-4e70-43f7-b6c43665672e"><term id="UUID1c59a683-a6f8-40f0-4605-175389a3ab00">human capital</term></foreign>) i <term cmlnle:reference="infrastruktura" id="UUIDb63a9b14-5610-4a1d-5d98-db7cc29042dd">infrastrukturę</term> (<foreign xml:lang="en" id="UUIDf563d4e3-7690-400a-55d2-8e1400bcf3bc"><term id="UUID9be8786f-ac6e-446f-4dc2-479a3f43aaa4">infrastructure</term></foreign>), co zwiększy produktywność gospodarki w długim okresie. Decyzje te mogą okazać się dobre lub złe, ale nie zawsze są one irracjonalne. Polityka ciągłego deficytu budżetowego może utrzymywać się przez dziesięciolecia. Jak pokazują doświadczenia USA od końca II wojny światowej do ok. 1980 r., utrzymywanie deficytu budżetowego prawie co roku przez dziesięciolecia jest jak najbardziej możliwe i dopóki procentowe przyrosty zadłużenia są mniejsze niż procentowy wzrost PKB, udział długu publicznego w PKB będzie malał.</para>
-    <para id="fs-idm68938576">Powyższa argumentacja absolutnie nie oznacza, że deficyty budżetowe są zawsze polityką rozsądną. W krótkim okresie rząd, który ma bardzo duży deficyt budżetowy, może doprowadzić do takiego wzrostu popytu globalnego, że w gospodarce pojawi się wysoka inflacja. Ponadto państwo może zaciągać pożyczki z niemądrych lub niepraktycznych powodów. W <link document="m00068" id="UUID9d4e63c5-64b7-44aa-5937-a2a2c3f06f3f" /> omawiamy, w jaki sposób duże deficyty budżetowe, poprzez zmniejszenie oszczędności krajowych, mogą w niektórych przypadkach ograniczyć wzrost gospodarczy, a nawet przyczynić się do międzynarodowych kryzysów finansowych. Wymóg równowagi budżetowej w każdym roku kalendarzowym jest jednak przesadną i błędną reakcją na obawę, że deficyty budżetowe mogą czasem stać się zbyt duże.</para>
-    <note type="note" id="fs-idp42122800" class="bringhome economics">
-      <title id="UUID758d475c-414d-4d17-545e-454d7e6a20f5">Bez Parku Narodowego Yellowstone?</title>
-      <para id="fs-idp51340144"><term cmlnle:reference="zamknięcie rządu" id="UUIDb6e00e45-082f-48ff-5dbb-ffdd4836f512">Zamknięcie rządu</term> (<foreign xml:lang="en" id="UUID4c069093-c945-4d0f-567b-ffc957a991eb"><emphasis effect="italics" /><term id="UUID994d2bb0-b622-4554-5aa8-5b35b4e0b597"><emphasis effect="italics">government shutdown</emphasis></term><emphasis effect="italics" /></foreign>) w 2013 r. w Stanach Zjednoczonych odsłoniło wiele aspektów związanych z polityką fiskalną na poziomie federalnym. W 2013 r. Republikanie i Demokraci nie mogli dojść do porozumienia co do tego, jaką politykę wydatków państwa należy prowadzić i jak duży powinien być dług publiczny. Ze względu na dotkliwość recesji lat 2008–2009 oraz wysoce ekspansywną politykę fiskalną prowadzoną w kolejnych latach deficyt budżetu federalnego i dług publiczny w Stanach Zjednoczonych były historycznie wysokie. Jednym ze sposobów ograniczenia wydatków federalnych i pożyczek zaciąganych przez rząd była odmowa podniesienia prawnego limitu zadłużenia federalnego lub uzależnienie tego kroku od odrzucenia ustawy o przystępnej cenie opieki zdrowotnej (Affordable Health Care Act). Ten spór doprowadził do dwutygodniowego zamknięcia rządu federalnego i przybliżył osiągnięcie terminu, w którym rząd nie byłby w stanie wykupić swoich obligacji skarbowych. W końcu jednak partie doszły do porozumienia i uniknięto bankructwa. Ten przykład wyraźnie pokazuje, jak ściśle budżet państwa jest powiązany z polityką.</para>
-    </note>
-    <section id="fs-idp50090320" class="summary">
-      <title id="UUID430f7eac-8627-4740-6779-3c30cf007671">Podsumowanie</title>
-      <para id="fs-idm60706688">Polityka zrównoważonego budżetu jest popularną ideą głoszoną przez różnych polityków, ale ekonomiczne zalety takiego rozwiązania są wątpliwe. Większość ekonomistów uważa, że polityka fiskalna musi być wystarczająco elastyczna, aby umożliwiła sfinansowanie nieprzewidzianych wydatków, związanych np. z prowadzeniem wojen czy zwalczeniem recesji. Chociaż utrzymujące się duże deficyty budżetowe rzeczywiście mogą stanowić problem, polityka zrównoważonego budżetu też nie jest dobrym rozwiązaniem, gdyż uniemożliwia pojawienie się nawet niewielkich, przejściowych deficytów, które w pewnych przypadkach mogą być konieczne do prowadzenia antycyklicznej polityki gospodarczej.</para>
+    <para id="fs-idm150117648">Na początku lat 60. XX w. wielu czołowych ekonomistów uważało, że problemy związane z cyklem koniunkturalnym, bezrobociem cyklicznym i inflacją należą już do przeszłości. 31 grudnia 1965 r. na okładce „Time’a”, najważniejszego wówczas magazynu informacyjnego w Stanach Zjednoczonych, znalazło się zdjęcie <term cmlnle:reference="John Maynard Keynes" id="UUID7f7259a6-2575-4324-4995-770132ba1539">Johna Maynarda Keynesa</term>, a z opublikowanego w gazecie artykułu wynikało, że teorie keynesowskie wywarły „decydujący wpływ na światowe gospodarki”. W tekście pojawiło się stwierdzenie, że politycy gospodarczy „wykorzystywali teorie keynesowskie nie tylko po to, by uniknąć gwałtownych cykli koniunkturalnych z czasów przedwojennych, ale także po to, by osiągnąć fenomenalny wzrost gospodarczy i niezwykle stabilne ceny”.</para>
+    <para id="UUIDeae362c4-0408-4e49-70ce-06e7f58ce781">Ten szczęśliwy konsensus nie trwał jednak długo. Gospodarka USA doświadczyła recesji od grudnia 1969 r. do listopada 1970 r., jeszcze głębszego załamania gospodarczego od listopada 1973 r. do marca 1975 r., a następnie podwójnej recesji od stycznia do czerwca 1980 r. i od lipca 1981 r. do listopada 1982 r. Oczywiście oznaczało to, że zarówno bezrobocie, jak i inflacja wciąż potrafiły bardzo szybko rosnąć. Najwyraźniej problemy polityki makroekonomicznej nie zostały rozwiązane ostatecznie. Kiedy ekonomiści zaczęli się zastanawiać, co poszło nie tak, zidentyfikowali szereg problemów, które sprawiają, że dyskrecjonalna polityka fiskalna jest trudniejsza, niż się wydawało w cechujących się optymizmem latach 60. XX w.</para>
+    <section id="fs-idp66049168">
+      <title id="UUID0d02c2c0-76ef-4bb7-72bd-f895994cc5ce">Polityka fiskalna i stopy procentowe</title>
+      <para id="fs-idp4154528">Ponieważ polityka fiskalna wpływa na wartość pożyczek rządowych zaciąganych na <term cmlnle:reference="rynki kapitału finansowego" id="UUIDdd6b6298-b678-4e8d-47f1-9f1d3e020d74">rynkach finansowych</term> (ang. <foreign xml:lang="en" id="UUID662423b7-8c50-43a8-642a-e10ad99875b3"><term id="UUID6d462f7c-fd54-4229-7934-5ee50777b21e">financial capital markets</term></foreign>), oddziałuje nie tylko na popyt globalny, ale może również wywierać wpływ na stopy procentowe. Na <link target-id="CNX_Econ_C30_013" cmlnle:case="locative" id="UUID4938255b-d468-43e6-7182-e4c64430e92c" /> początkowa równowaga (E<sub>0</sub>) na rynku finansowym występuje przy wartości zaciągniętych pożyczek równej 800 mld dol. i stopie procentowej na poziomie 6%. Jednak wzrost deficytu budżetowego przesuwa krzywą popytu na kapitał finansowy z D<sub>0</sub> do D<sub>1</sub>. Nowa równowaga (E<sub>1</sub>) występuje dla wartości pożyczek równej 900 mld dol. i stopie procentowej na poziomie 7%.</para>
+      <para id="UUID42b90db3-2e91-48cb-452f-c9ef3fbaa724">Na podstawie wielu badań empirycznych można dojść do uzasadnionego wniosku, że wzrost deficytu budżetowego (lub spadek nadwyżki budżetowej) o 1 punkt procentowy w stosunku do PKB spowoduje wzrost długoterminowej stopy procentowej o 0,5–1,0 punktu procentowego.</para>
+      <figure id="CNX_Econ_C30_013">
+        <title id="UUID2f303bfa-eeff-455b-7f67-0f9250ae1523">Polityka fiskalna i stopy procentowe</title>
+        <media alt="Wykres przedstawia dwie krzywe popytu, które przecinają się z krzywą podaży. Krzywa popytu D0 przecina się z krzywą podaży w punkcie E0 (przy stopie procentowej równej 6%), zaś krzywa popytu D1 przecina się z krzywą podaży w wyżej położonym punkcie E1 (przy stopie procentowej 7%)." id="fs-idm73864176">
+          <image src="../../media//CNX_Econ_C30_013.svg" mime-type="image/svg+xml" id="UUID7a673740-00ed-46b5-7f2b-d40fe2bb4c84" />
+        </media>
+        <caption id="UUID4fbff80b-da1b-4d81-6980-10575135422e">Kiedy państwo pożycza pieniądze na rynku finansowym, krzywa popytu na kapitał finansowy przesuwa się z położenia D<sub>0</sub> do D<sub>1</sub>. Gdy punkt równowagi przemieszcza się z E<sub>0</sub> do E<sub>1</sub>, stopa procentowa rośnie z 6% do 7%. W ten sposób ekspansywna polityka fiskalna ukierunkowana na wzrost popytu globalnego może również prowadzić do wyższej stopy procentowej, co skutkuje zmniejszeniem popytu globalnego.</caption>
+      </figure>
+      <para id="UUIDd8e6f046-4fa6-4eae-5ea2-19f912e49b2b">I tutaj pojawia się pewien problem. Ekspansywna polityka fiskalna, obejmująca obniżki podatków lub wzrost wydatków państwa, ma na celu zwiększenie popytu globalnego. Jeśli prowadzi również do wyższych stóp procentowych, wówczas przedsiębiorstwa i gospodarstwa domowe będą mniej chętnie zaciągać pożyczki i wydawać pieniądze (dokładnie tak samo, jak działoby się w przypadku restrykcyjnej polityki pieniężnej), zmniejszając w ten sposób popyt globalny. Nawet jeśli bezpośredni wpływ ekspansywnej polityki fiskalnej na wzrost popytu nie zostanie w pełni stłumiony spadkiem popytu wynikającym z wyższych stóp procentowych, impuls fiskalny może się okazać słabszy, niż początkowo oczekiwano. Nazywamy to <term cmlnle:reference="wypieranie" id="UUID1500fb0d-da07-4de4-645c-e25fb4d8ce99">wypieraniem</term> (ang. <foreign xml:lang="en" id="UUID5d802dec-2dbc-421f-4895-3ba90e5d7dcd"><term id="UUIDc13b890d-af8a-4476-759c-ccea6fea58cc">crowding out</term></foreign>). Efekt wypierania polega na tym, że pożyczki zaciągane przez państwo i jego wyższe wydatki skutkują wzrostem stóp procentowych, co zmniejsza poziom inwestycji przedsiębiorstw i konsumpcję gospodarstw domowych.</para>
+      <para id="fs-idp31335104">Szerszy wniosek jest taki, że państwo musi koordynować politykę fiskalną i pieniężną. Jeśli ekspansywna polityka fiskalna ma działać dobrze, to jednocześnie bank centralny powinien obniżyć lub utrzymywać na niskim poziomie krótkoterminowe stopy procentowe. I odwrotnie, polityka pieniężna może także zmniejszyć prawdopodobieństwo wystąpienia scenariusza zdarzeń, w którym restrykcyjna polityka fiskalna doprowadzi do recesji.</para>
     </section>
-    <section id="fs-idp66691488" class="self-check-questions">
-      <title id="UUIDa2955dd6-db09-4e11-4b3f-cbf4de722c4d">Pytania sprawdzające</title>
-      <exercise id="fs-idp72180224">
-        <problem id="fs-idp17958128">
-          <para id="fs-idm66747312">W jaki sposób wymóg utrzymywania zrównoważonego budżetu wpłynąłby na decyzję rządu o obniżce podatków podczas recesji?</para>
+    <section id="fs-idp113556512">
+      <title id="UUID939472fb-7781-4eac-4026-a1b7e192b5fe">Długie i zmienne opóźnienia czasowe</title>
+      <para id="fs-idp176635168">Państwo może relatywnie szybko i często zmieniać politykę pieniężną, ale zmiany polityki fiskalnej trwają znacznie dłużej. Wyobraź sobie, że gospodarka zaczyna zwalniać. Często potrzeba kilku miesięcy, zanim dane statystyczne wyraźnie zasygnalizują, że rozpoczęło się spowolnienie gospodarcze, i kilka kolejnych, aby potwierdzić, że to naprawdę recesja, a nie tylko jedno- czy dwumiesięczne zakłócenie w średnioterminowym trendzie wzrostowym. Czas potrzebny do stwierdzenia, że nastąpiła recesja, ekonomiści często nazywają <term cmlnle:reference="opóźnienie rozpoznania" id="UUIDcdd6f113-f327-47a0-74d7-632a3f20c9aa">opóźnieniem w rozpoznaniu</term> (ang. <foreign xml:lang="en" id="UUID5ed7a3ca-a1ca-4f65-6011-9bb7910a1c1f"><term id="UUID1ec9e3a0-4560-4d28-5fba-1f7880503137">recognition lag</term></foreign>).Po tym opóźnieniu politycy gospodarczy stają się świadomi problemu i proponują działania w zakresie polityki fiskalnej. Ustawy trafiają do różnych komisji parlamentarnych w celu przeprowadzenia rozmaitych analiz, negocjacji, głosowań, a następnie, jeśli zostaną przyjęte w komisjach i przez parlament, trafiają na biurko prezydenta i czekają na jego podpis. Wiele ustaw z zakresu polityki fiskalnej dotyczących wydatków państwa lub podatków wprowadza zmiany dopiero od następnego roku budżetowego lub stopniowo w czasie. Czas potrzebny na uchwalenie ustawy ekonomiści nazywają <term cmlnle:reference="opóźnienie w zastosowaniu" id="UUID3dc5b1a8-ee6d-4874-4b7b-9071cd59c025">opóźnieniem w zastosowaniu</term> (ang. <foreign xml:lang="en" id="UUIDc6e76b7b-541e-4863-52f6-b5337b6e462a"><term id="UUID69c008a0-51b7-4d9e-5c0b-04f0cf340702">legislative lag</term></foreign>). Wreszcie, gdy ustawa wejdzie w życie, zorganizowanie funduszy i ich transfer do odpowiednich agencji w celu wdrożenia programów również musi potrwać. Czas potrzebny na rozpoczęcie projektów nazywany jest <term cmlnle:reference="opóźnienie wdrożeniowe" id="UUID18aad17e-2a8d-49a8-668e-5bfc0103183b">opóźnieniem efektów</term> (ang. <foreign xml:lang="en" id="UUIDaa2367fa-6210-4f89-6fc7-3a5649d002f7"><term id="UUID63239d2f-2b4f-49e2-6610-2f6882bd92b5">implementation lag</term></foreign>).</para>
+      <para id="UUIDa405c3ed-9424-409a-50cb-b24b30a2c80f">Co więcej, dokładna skala zmian, które rząd powinien wdrożyć, nigdy nie jest do końca jasna. Czy deficyt budżetu powinien się zwiększyć o pół punktu procentowego w stosunku do PKB? A może o punkt procentowy lub nawet bardziej? Na wykresie z modelem AD-AS łatwo jest naszkicować krzywą popytu globalnego przesuwającą się do poziomu potencjalnego PKB. W realnym świecie poziom produkcji potencjalnej znamy jedynie w przybliżeniu, a rzeczywisty wpływ cięcia wydatków lub podwyżki podatków na popyt globalny pozostaje zawsze przedmiotem pewnych kontrowersji. Nieznany jest również stan gospodarki w dowolnym punkcie czasowym. Na przykład w pierwszych dniach urzędowania prezydenta Baracka Obamy nikt nie znał prawdziwej skali deficytu budżetowego gospodarki Stanów Zjednoczonych. W czasie kryzysu finansowego z lat 2008–2009 gwałtowne załamanie systemu bankowego i sektora motoryzacyjnego sprawiło, że trudno było ocenić, jak bardzo skurczyła się amerykańska gospodarka.</para>
+      <para id="fs-idm52854096">W związku z tym rozpoczęcie działań w ramach ekspansywnej polityki fiskalnej może nastąpić wiele miesięcy, a nawet ponad rok po początku recesji. I nawet wtedy pozostaje niepewność co do tego, o ile dokładnie należy zwiększyć lub zmniejszyć podatki i wydatki państwa. Kiedy politycy gospodarczy próbują wykorzystać antycykliczną politykę fiskalną do walki z recesją lub inflacją, ryzykują, że reagują na sytuację makroekonomiczną sprzed dwóch lub trzech lat za pomocą narzędzi, które mogą być niekorzystne dla gospodarki w danym momencie. George P. Schultz, profesor ekonomii, były sekretarz skarbu i dyrektor Biura Zarządzania i Budżetu, napisał kiedyś: „O ile ekonomista jest przyzwyczajony do opóźnień czasowych, polityk lubi natychmiastowe rezultaty. Napięcie bierze się stąd, że – jak wielokrotnie widziałem – zwłoka ekonomisty to zmora polityka”.</para>
+    </section>
+    <section id="fs-idm150064688">
+      <title id="UUID3bb59e69-625a-4bac-6140-e629a62907ef">Krótko- i długookresowe konsekwencje polityki fiskalnej</title>
+      <para id="fs-idm5194080">Tymczasowa obniżka podatków lub tymczasowe zwiększenie wydatków państwa będą wpływać na sytuację w gospodarce jedynie w krótkim okresie (1–2 lata), a potem nastąpi powrót do sytuacji wyjściowej. Natomiast w przypadku trwałej obniżki podatków lub trwałego zwiększenia wydatków państwa oczekujemy utrzymania tego stanu w dającej się przewidzieć przyszłości. Wpływ tymczasowej i trwałej polityki fiskalnej na popyt globalny może być bardzo różny. Zastanów się, jaka byłaby twoja reakcja na decyzję rządu o tymczasowej obniżce podatków mającej obowiązywać tylko przez rok, a jaka na obniżkę trwałą. Większość ludzi i przedsiębiorstw reaguje silniej na zmianę trwałą niż tymczasową.</para>
+      <para id="UUID5573cd5d-6397-42b3-524e-93c18df3444e">Fakt ten stwarza nieuniknioną trudność w prowadzeniu antycyklicznej polityki fiskalnej. Właściwym działaniem powinna być ekspansywna polityka fiskalna z wysokim deficytem budżetowym w czasie recesji, a następnie restrykcyjna polityka fiskalna z nadwyżką budżetową w okresie korzystnej koniunktury. Jeśli jednak takie podejście jest jednoznacznie krótkookresowe, będzie miało mniejszy wpływ na gospodarkę niż polityka, która ma charakter trwały.</para>
+    </section>
+    <section id="fs-idp82512800">
+      <title id="UUID5cf177f0-1c93-417c-4f86-9accefeafe24">Zmiana struktury gospodarki wymaga czasu</title>
+      <para id="fs-idm29016912">Kiedy gospodarka wychodzi z recesji, zwykle nie powraca do stanu identycznego z tym, w jakim znajdowała się w momencie przed załamaniem koniunktury. Wewnętrzna struktura gospodarki ewoluuje bowiem i ulega zmianom. Na przykład znaczna część wzrostu gospodarczego w połowie pierwszej dekady XXI w. wystąpiła w sektorze budowlanym (zwłaszcza budownictwie jednorodzinnym) i finansowym. Kiedy jednak w 2007 r. ceny mieszkań zaczęły spadać, a wynikający z tego kryzys finansowy doprowadził do recesji (co omówiliśmy w <link document="m00052" cmlnle:case="locative" id="UUID7cd83365-6c6c-4249-6a23-ca53522c8bda" />), obydwa sektory przeżyły kryzys. W ostatnich latach w Stanach Zjednoczonych z powodu presji zmian technologicznych i zagranicznej konkurencji także w przetwórstwie przemysłowym liczne miejsca pracy zostały zlikwidowane. Wiele osób, które straciły zatrudnienie podczas globalnego kryzysu finansowego z lat 2008–2009, już nigdy nie wróci na te same stanowiska w tych samych branżach. Gospodarka będzie się rozwijała w nowym kierunku, jak pokazuje poniższa <link target-id="fs-idp65176496" id="UUID39102b51-8d30-4ca8-6ea5-2e7cec813274" />. Polityka fiskalna może zwiększyć ogólny popyt, ale proces strukturalnych zmian gospodarczych – ekspansja nowych gałęzi przemysłu i przemieszczanie się pracowników do tych branż – wymaga czasu.</para>
+      <note type="note" id="fs-idp65176496" class="clearup economics">
+        <title id="UUID0a8ffe24-3824-44e2-5b30-1a01ce781842">Dlaczego znikają miejsca pracy?</title>
+        <para id="fs-idp11057632">Ludzie mogą stracić pracę z różnych powodów, np. ze względu na recesję, ale także wskutek długoterminowych zmian w gospodarce, takich jak nowe technologie. Na przykład poprawa wydajności w produkcji samochodów może zmniejszyć liczbę potrzebnych pracowników i wyeliminować niektóre miejsca pracy w długim okresie. Internet stworzył pewne miejsca pracy, ale doprowadził także do likwidacji innych, od biur podróży po sprzedawców w księgarniach. Wiele z tych stanowisk pracy może już nigdy nie być potrzebnych. Krótkookresowa polityka fiskalna mająca na celu zmniejszenie bezrobocia może tworzyć miejsca pracy, ale nie zdoła wygenerować trwałego zatrudnienia pracowników na stanowiskach pracy, które przestały być potrzebne. W końcu ilu woźniców było niezbędnych w polskiej gospodarce w roku 1920, 1950 i 2000.</para>
+      </note>
+    </section>
+    <section id="fs-idp107618304">
+      <title id="UUID926ec1bf-6bcf-473b-5061-6fa0206f1f7d">Ograniczenia polityki fiskalnej</title>
+      <para id="fs-idp33644112">Gospodarce, która produkuje poniżej poziomu potencjalnego PKB, polityka fiskalna może pomóc w zwiększeniu popytu globalnego, tak aby produkcja wzrosła do wolumenu bliższego pełnemu zatrudnieniu, obniżając w ten sposób bezrobocie. Jednak polityka fiskalna nie może sprawić, że produkcja przekroczy wielkość potencjalną bez wywołania inflacji. W takiej sytuacji bowiem bezrobocie staje się tak niskie, że brakuje pracowników i płace szybko rosną.</para>
+      <note type="note" id="fs-idm11856048" class="economics linkup">
+        <para id="fs-idm15103456">Odwiedź poniższą <link url="http://openstax.org/l/fiscalpolicy" id="UUIDe3ef75f5-850d-4e21-6a9b-67c3a2106db3">stronę internetową</link>, aby się dowiedzieć, jak polityka fiskalna wpływa na ożywienie gospodarcze.</para>
+      </note>
+    </section>
+    <section id="fs-idp95991104">
+      <title id="UUID66b15358-1164-42d8-4b9c-d6ca63c7321f">Realia polityczne i dyskrecjonalna polityka fiskalna</title>
+      <para id="UUID361f5718-e27f-4cae-79ff-d1dc0ac45f54">Ostatni problem dyskrecjonalnej polityki fiskalnej wynika z trudności w wyjaśnieniu politykom, na czym ona w istocie polega. Niektórzy politycy żywią instynktowne przekonanie, że kiedy gospodarka zwalnia i dochody podatkowe maleją, nadszedł czas, aby zacisnąć pasa, zacząć liczyć każdy grosz i ograniczać wydatki. Jednak zgodnie z zasadami polityki antycyklicznej, kiedy gospodarka zwalnia, rząd powinien gospodarkę pobudzić, czyli podnieść wydatki i obniżyć podatki. Rekompensuje to spadek koniunktury w innych sektorach. I odwrotnie, kiedy ma miejsce ożywienie gospodarcze i dochody z podatków rosną, politycy często czują, że nadszedł czas na obniżki podatków i wzrost wydatków (dzielenie owoców wzrostu gospodarczego). Tyle że zasady prowadzenia polityki antycyklicznej są jasne: boom gospodarczy powinien być czasem na utrzymanie wysokich podatków i ograniczenie wydatków.</para>
+      <para id="UUIDfedc2c52-f49b-4fd8-7f1b-9ba3bfa9bbf3">Politycy zwykle wolą realizować ekspansywną niż restrykcyjną politykę fiskalną, co w okresie recesji jest uzasadnione. Jednak ci sami politycy mniej chętnie formułują komunikat, że w czasach dobrej koniunktury podatki powinny wzrosnąć, a wydatki zmaleć. Na przykład w okresie ożywienia gospodarczego późnych lat 90. XX w. i początku XXI w. PKB Stanów Zjednoczonych szybko rósł. Szacunki wielu agencji rządowych, takich jak Biuro Budżetowe Kongresu oraz Biuro Zarządzania i Budżetu, wykazały, że PKB przekraczał poziom potencjalny, a stopy bezrobocia były niezwykle niskie. Jednak żaden polityk głównego nurtu nie mówił głośno, że okres boomu gospodarczego może być odpowiednim momentem na cięcia wydatków lub podwyżki podatków. W lutym 2017 r. prezydent Trump przedstawił plany wzrostu wydatków na obronę narodową o 10% (tj. 54 mld dol.), zwiększenia inwestycji w infrastrukturę o 1 bln dol. oraz obniżenia podatków dochodowych od osób fizycznych i prawnych, a wszystko to przy utrzymaniu dotychczasowych nakładów na ubezpieczenia społeczne i program Medicare. Jedynym sposobem na realizację tego planu był znaczny wzrost deficytu budżetu federalnego w USA.</para>
+    </section>
+    <section id="fs-idm125441840">
+      <title id="UUIDb6b6b84c-1e4e-4c9c-422a-1d40e731ff3b">Dyskrecjonalna polityka fiskalna: rekapitulacja</title>
+      <para id="fs-idm202684624">Ekspansywna polityka fiskalna pozwala wyjść z recesji, a restrykcyjna polityka fiskalna ułatwia obniżenie inflacji. Biorąc pod uwagę niepewność co do wpływu na stopy procentowe cięć podatkowych i wzrostu wydatków z budżetu, opóźnienia czasowe, różnice między tymczasową a trwałą polityką oraz nieprzewidywalne zachowania polityczne, wielu ekonomistów i polityków gospodarczych w połowie lat 90. XX w. uznało, że dyskrecjonalna polityka fiskalna jest nieskutecznym narzędziem stabilizowania koniunktury. Używanie jej w ekstremalnych okolicznościach, takich jak szczególnie głębokie lub długotrwałe załamanie gospodarcze (kryzys finansowy, recesja pandemiczna itp.), może mieć sens. W sytuacjach bardziej standardowych, kiedy skala recesji jest niewielka, lepszym rozwiązaniem jest realizacja polityki fiskalnej za pomocą automatycznych stabilizatorów koniunktury oraz wykorzystanie polityki pieniężnej jako narzędzia do wdrażania krótkookresowych działań antycyklicznych.</para>
+    </section>
+    <section id="fs-idp51560576" class="summary">
+      <title id="UUIDa94a3a61-2a54-4184-5e94-00313e8ef9d6">Podsumowanie</title>
+      <para id="fs-idm91069600">Ponieważ polityka fiskalna wpływa na ilość pieniędzy, jakie rząd pożycza na rynkach finansowych, oddziałuje nie tylko na popyt globalny, ale może także wywierać wpływ na stopy procentowe. Jeśli ekspansywna polityka fiskalna powoduje również wzrost stóp procentowych, to przedsiębiorstwa i gospodarstwa domowe mniej chętnie zaciągają pożyczki (kredyty) i wydają pieniądze na konsumpcję, co zmniejsza popyt globalny. Sytuację taką nazywamy wypieraniem. Biorąc pod uwagę niepewność co do zmian stóp procentowych, opóźnienia czasowe (opóźnienie w rozpoznaniu, zastosowaniu i opóźnienie efektów), różnice między krótko- i długookresowymi konsekwencjami polityki fiskalnej oraz nieprzewidywalne zachowania polityczne, wielu ekonomistów i polityków gospodarczych doszło do wniosku, że dyskrecjonalna polityka fiskalna jest nieskutecznym narzędziem stabilizowania koniunktury i lepiej stosować ją tylko w ekstremalnych sytuacjach.</para>
+    </section>
+    <section id="fs-idm14144496" class="self-check-questions">
+      <title id="UUID63e36a32-b061-4b16-4477-307213f312bb">Pytania sprawdzające</title>
+      <exercise id="fs-idm168582432">
+        <problem id="fs-idm358048">
+          <para id="fs-idm159021552">Co by się stało, gdyby ekspansywna polityka fiskalna została wdrożona w czasie recesji, ale z powodu opóźnienia zaczęła faktycznie działać dopiero po powrocie gospodarki do poziomu potencjalnego PKB?</para>
         </problem>
-        <solution id="fs-idp24764880">
-          <para id="fs-idm66010160">Rząd musiałby uzupełnić brakujące wpływy podatkowe, podnosząc podatki w innych obszarach lub tnąc wydatki.</para>
+        <solution id="fs-idm168972672">
+          <para id="fs-idm143567408">W wyniku zbyt dużych wydatków państwa wzrosłyby ceny.</para>
         </solution>
       </exercise>
-      <exercise id="fs-idm29246496">
-        <problem id="fs-idm84469760">
-          <para id="fs-idm81216048">W jaki sposób wymóg utrzymywania zrównoważonego budżetu zmieniłby działanie automatycznych stabilizatorów koniunktury?</para>
+      <exercise id="fs-idm137244928">
+        <problem id="fs-idm184584736">
+          <para id="fs-idm101308784">Co by się stało, gdyby restrykcyjna polityka fiskalna została wdrożona podczas boomu gospodarczego, ale z powodu opóźnienia zaczęła faktycznie działać dopiero wtedy, gdy gospodarka ponownie wpadła w recesję?</para>
         </problem>
-        <solution id="fs-idp29580960">
-          <para id="fs-idm69203680">Programy, w których kwota wydatków nie jest ustalona sztywno, ale określana przez warunki makroekonomiczne, np. przyznawanie bonów żywnościowych w USA, straciłyby wiele na elastyczności, gdyby wzrost wydatków państwa musiał zostać zrównoważony odpowiednimi podwyżkami podatków lub cięciami wydatków w innych obszarach.</para>
+        <solution id="fs-idm15970784">
+          <para id="fs-idm132890896">Bezrobocie wzrosłoby jeszcze bardziej, w wyniku zbyt niskich wydatków państwa.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm114572080">
+        <problem id="fs-idm206481312">
+          <para id="fs-idm142548128">Czy sądzisz, że typowe opóźnienia charakterystyczne dla polityki fiskalnej będą dłuższe, czy krótsze niż opóźnienia właściwe dla polityki pieniężnej? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+        <solution id="fs-idm140879632">
+          <para id="fs-idm140879504">Polityka pieniężna ma prawdopodobnie krótsze opóźnienia czasowe niż polityka fiskalna. Wyobraź sobie, że dane bezsprzecznie pokazują, iż gospodarka znajduje się w recesji lub jest jej bliska. Ekspansywna polityka pieniężna może być realizowana poprzez operacje otwartego rynku, które da się przeprowadzić dość szybko. Równie szybko można obniżyć stopy procentowe lub zwiększyć poziom rezerwy minimalnej. Natomiast polityka fiskalna jest realizowana poprzez akty prawne uchwalane przez parlamenty. Negocjowanie takich przepisów często trwa miesiącami, a nawet po ustaleniu ich ostatecznego kształtu potrzeba wielu miesięcy, aby programy większych wydatków lub niższych podatków zostały w pełni wdrożone i wywarły wpływ na gospodarkę.</para>
         </solution>
       </exercise>
     </section>
-    <section id="fs-idm165859840" class="review-questions">
-      <title id="UUIDe1860024-a7b1-4ed7-6b96-bfd01e94ebe2">Sprawdź wiedzę</title>
-      <exercise id="fs-idm82699200">
-        <problem id="fs-idm76136448">
-          <para id="fs-idm61820784">Jakie są argumenty za i przeciw polityce zrównoważonego budżetu?</para>
+    <section id="fs-idp6591296" class="review-questions">
+      <title id="UUID9406bfa7-3fa3-4f7a-58c2-f82a75268dec">Sprawdź wiedzę</title>
+      <exercise id="fs-idp211162016">
+        <problem id="fs-idp38293968">
+          <para id="fs-idp97284432">Jakie są praktyczne słabości dyskrecjonalnej polityki fiskalnej?</para>
         </problem>
       </exercise>
     </section>
-    <section id="fs-idp11124272" class="critical-thinking">
-      <title id="UUIDe2b0afa2-11d4-4795-552c-3ff31e05d4cb">Ćwicz myślenie krytyczne</title>
-      <exercise id="fs-idm205830848">
-        <problem id="fs-idm69527072">
-          <para id="fs-idp27329216">Czy zgadzasz się ze stwierdzeniem, jakoby „w najlepszym interesie każdej gospodarki było bezwzględne utrzymywanie zrównoważonego budżetu w każdym roku obrachunkowym”? Uzasadnij swoją odpowiedź.</para>
+    <section id="fs-idm75976400" class="critical-thinking">
+      <title id="UUIDe971045e-eb42-4b26-6b59-847761a5f362">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idm38928880">
+        <problem id="fs-idm90804592">
+          <para id="fs-idm83419424">Jaki problem może się pojawić w sytuacji, w której gospodarstwa domowe uznają, że obniżka podatków ma charakter tymczasowy i jej konsekwencje będą działać wyłącznie w krótkim okresie?</para>
         </problem>
       </exercise>
-      <exercise id="fs-idp22353904">
-        <problem id="fs-idm90693296">
-          <para id="fs-idm111988080">Jakich działań oczekiwano by od amerykańskiego parlamentu i prezydenta podczas globalnego kryzysu finansowego z lat 2008–2009, gdyby poprawka do konstytucji wymagająca prowadzenia polityki zrównoważonego budżetu została ratyfikowana? Jaki miałoby to wpływ na stopę bezrobocia?</para>
+      <exercise id="fs-idp58190320">
+        <problem id="fs-idp21689168">
+          <para id="fs-idm48263600">Wyjaśnij mechanizm powodujący wzrost stóp procentowych w sytuacji, gdy rząd wprowadzi ulgę podatkową równą 300 zł dla każdego obywatela Polski.</para>
         </problem>
       </exercise>
+    </section>
+    <section id="fs-idp122177040" class="references">
+      <title id="UUID7b0bb931-86bf-4856-7ea4-2db03fc5e286">Bibliografia</title>
+      <para id="fs-idp92833312">Leduc, Sylvain, and Daniel Wilson. Federal Reserve Bank of San Francisco: Working Paper Series. “Are State Governments Roadblocks to Federal Stimulus? Evidence from Highway Grants in the 2009 Recovery Act. (Working Paper 2013-16).” Last modified July 2013. http://www.frbsf.org/economic-research/files/wp2013-16.pdf.</para>
+      <para id="fs-idp135385456">Lucking, Brian, and Daniel Wilson. “FRBSF Economic Letter-Fiscal Headwinds: Is the Other Shoe About to Drop?” <emphasis effect="italics">Federal Reserve Bank of San Francisco</emphasis>. Last modified June 3, 2013. http://www.frbsf.org/economic-research/publications/economic-letter/2013/june/fiscal-headwinds-federal-budget-policy/.</para>
+      <para id="fs-idp107077312">Recovery.gov. “Track the Money.” http://www.recovery.gov/Pages/default.aspx.</para>
+      <para id="fs-idp40818832">Bastagli, Francesca, David Coady, and Sanjeev Gupta. International Monetary Fund. “IMF Staff Discussion Note: Income Inequality and Fiscal Policy.” Last modified June 28, 2012. http://www.imf.org/external/pubs/ft/sdn/2012/sdn1208.pdf.</para>
     </section>
   </content>
+  <glossary id="UUID52fab290-45a4-4f60-6342-cae727064aed">
+    <definition id="fs-idp71985728">
+      <term id="UUIDaaee689b-685a-4da8-7d7c-9ee293be816a">wypieranie (ang. <foreign xml:lang="en" id="UUIDb9043dcd-62c5-475f-551e-31e4bf63345d">crowding out</foreign>)</term>
+      <meaning id="fs-idp60309200">
+        <para id="UUID635bb9ae-5f42-4cba-7c7a-fed5b517c3d0">mechanizm, w ramach którego większe wydatki państwa i jego większe zapotrzebowanie na pożyczki powodują wzrost stóp procentowych i w konsekwencji spadek inwestycji prywatnych oraz konsumpcji gospodarstw domowych</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm21199040">
+      <term id="UUIDdf888f6f-1bae-4d1b-655f-4fbaaecc95bb">opóźnienie efektów (ang. <foreign xml:lang="en" id="UUIDf3e0b81e-3c78-4a7a-675e-6ab675aae4bd">implementation lag</foreign>)</term>
+      <meaning id="fs-idm52841792">
+        <para id="UUIDd990e5c3-8024-4bd4-45f4-1b9139618d6a">okres potrzebny na przekazanie funduszy na realizację polityki fiskalnej do odpowiednich agencji rządowych w celu wdrożenia programów wydatkowych państwa</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDb10540bd-fac9-4cd5-5f27-09d9e0bcd841">
+      <term id="UUID1c713c00-ce6c-4ac2-7d88-8a8f94ace671">opóźnienie w zastosowaniu (ang. <foreign xml:lang="en" id="UUID2bb98739-328a-43fe-7296-a70d7ccef637">legislative lag</foreign>)</term>
+      <meaning id="fs-idm94846160">
+        <para id="UUID39f9827e-68b8-41c8-7dcc-32d3faf8fac0">okres niezbędny na uchwalenie ustaw dotyczących danych programów fiskalnych</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm85125440">
+      <term id="UUID5015d1a5-6fd0-4079-5b59-88bd60dc8db2">opóźnienie w rozpoznaniu (ang. <foreign xml:lang="en" id="UUID366580a8-5be1-4913-4da2-d0d2cebec71a">recognition lag</foreign>)</term>
+      <meaning id="fs-idm116774976">
+        <para id="UUIDb812c281-6784-4c64-6d90-03aa75d3a48a">okres, jaki mija od momentu rozpoczęcia recesji do chwili, kiedy politycy gospodarczy i ekonomiści zdają sobie z tego sprawę</para>
+      </meaning>
+    </definition>
+  </glossary>
 </document>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U21f04faa-d245-4d8f-8bce-5b5e00e6e9e3" id="U21f04faa-d245-4d8f-8bce-5b5e00e6e9e3" xml:lang="en" cnxml-version="0.7">
-  <title>10.1 Zadania banku centralnego</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U71f1ebcd-07ce-45e3-8b66-6f5c592afb9b" id="U71f1ebcd-07ce-45e3-8b66-6f5c592afb9b" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie dopolityki pieniężnej i regulacyjnej banku centralnego</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00052</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/21f04faa-d245-4d8f-8bce-5b5e00e6e9e3</md:content-url>
-    <md:title>10.1 Zadania banku centralnego</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/71f1ebcd-07ce-45e3-8b66-6f5c592afb9b</md:content-url>
+    <md:title>Wprowadzenie dopolityki pieniężnej i regulacyjnej banku centralnego</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:04.748889956+00:00</md:version>
-    <md:created>2023-08-30T08:02:04.748889956+00:00</md:created>
-    <md:revised>2023-08-30T08:02:04.748889956+00:00</md:revised>
+    <md:version>2023-09-11T10:25:13.324542459+00:00</md:version>
+    <md:created>2023-09-11T10:25:13.324542459+00:00</md:created>
+    <md:revised>2023-09-11T10:25:13.324542459+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,176 +20,41 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>21f04faa-d245-4d8f-8bce-5b5e00e6e9e3</md:uuid>
+    <md:uuid>71f1ebcd-07ce-45e3-8b66-6f5c592afb9b</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
-    <list id="list-00001">
-      <item id="UUID9329198c-e47f-41ed-7d86-4c2c58dffdf2">
-        <para id="UUID76973ea3-32c4-4829-5204-6e67beeb4b17">Omówić zadania banku centralnego</para>
-      </item>
-      <item id="UUID416e8762-b1e1-4c86-5270-4616dd7ab46d">
-        <para id="UUID609189cb-7706-4d12-6919-c2007b59667d">Wskazać związki pomiędzy regulacjami bankowymi a polityką pieniężną</para>
-      </item>
-      <item id="UUID3b687196-0f84-4636-571c-8d5b3151df2e">
-        <para id="UUID34069fe9-311d-40ac-4b36-9960412e9e1d">Wyjaśnić sposób działania nadzoru bankowego</para>
-      </item>
-      <item id="UUID9465f2f1-1533-4b82-71d9-3c45cbcbd4cc">
-        <para id="UUIDc1619253-7fb2-4a9e-6223-78965d91c5e8">Wytłumaczyć, w jaki sposób ubezpieczenie depozytów i funkcja ostatniej instancji kredytowej pełniona przez bank centralny chronią system bankowy przed paniką na rynkach finansowych</para>
-      </item>
-    </list>
-    <para id="UUID58ff74ce-556a-4160-74e5-70fbf96d7c58">Podejmując decyzje o podaży pieniądza, bank centralny podnosi lub obniża <term cmlnle:reference="stopy procentowe" id="UUID6378c76b-615d-432c-4501-9dda335ba634">stopy procentowe</term> i w ten sposób kształtuje politykę pieniężną, która – wraz z polityką fiskalną będącą w gestii rządu centralnego i jednostek samorządu terytorialnego – składa się na politykę makroekonomiczną, ukierunkowaną na utrzymywanie jak najniższych stóp <term cmlnle:reference="bezrobocie" id="UUIDafa2963e-8784-4d6d-4cc1-c2d1d2078b10">bezrobocia</term> i <term cmlnle:reference="inflacja" id="UUIDfad08525-e958-4a00-692e-dbcf3611e539">inflacji</term>. Bank centralny może być również odpowiedzialny za działania regulacyjne i nadzorcze w stosunku do krajowego systemu bankowego mające służyć ochronie interesów deponentów bankowych i zapewnieniu dobrej kondycji banków. Taka właśnie sytuacja ma miejsce w USA. W Polsce z kolei za nadzór nad rynkiem finansowym odpowiada Komisja Nadzoru Finansowego (KNF), która jest niezależna do banku centralnego. W strefie euro sytuacja jest także specyficzna – Europejski Bank Centralny (EBC) prowadzi politykę pieniężną, ale nadzór nad systemem bankowym pełnią instytucji narodowe w poszczególnych krajach.</para>
-    <para id="UUIDc97162d5-c556-4cce-4958-d6847676373f">Podmiot odpowiedzialny za prowadzenie <term cmlnle:reference="polityka pieniężna" id="UUIDf2cf4102-c266-449b-497f-1d35ea9f2cce">polityki pieniężnej</term> (ang. <foreign xml:lang="en" id="UUID668af10b-b6c6-4151-5803-a886ef034f86"><term id="UUID2f5a3fa4-9772-4db4-4829-9de4a2f44697">monetary policy</term></foreign>) i zapewnienie sprawnego funkcjonowania systemu finansowego kraju nazywamy <term cmlnle:reference="banki centralny" id="UUID9a791ec8-85fa-4751-53db-cacffa3f4727">bankiem centralnym</term> (ang. <foreign xml:lang="en" id="UUID39e24587-8418-4ced-4e46-a966344830ce"><term id="UUID627f4d97-3207-4378-7791-ae290f1aad36">central bank</term></foreign>). Najbardziej znanymi światowymi bankami centralnymi są: Europejski Bank Centralny (ang. <foreign xml:lang="en" id="UUID925047ed-9841-4097-7712-bb17f96d4346">European Central Bank</foreign>), Bank Japonii (ang. <foreign xml:lang="en" id="UUID159fbd81-dc03-4df2-4f6c-f920909be33d">Bank of Japan</foreign>), Bank Anglii (ang. <foreign xml:lang="en" id="UUID1ab69175-e74c-424b-64d0-4417343d1917">Bank of England</foreign>) i oczywiście System Rezerwy Federalnej w Stanach Zjednoczonych (ang. <foreign xml:lang="en" id="UUID496f404c-fb90-45ce-5175-d67f94406075">Federal Reserve</foreign>) nazywany po prostu FED-em. W Polsce funkcję banku centralnego w obszarze polityki pieniężnej pełni Narodowy Bank Polski (NBP).</para>
-    <section id="UUIDf2c89cdc-a27d-4b01-7d58-e0e083585492">
-      <title id="UUID6e9c2a31-7a94-491d-6bc7-e45f3850b8e7">Jakie są zadania banku centralnego?</title>
-      <para id="fs-idp89554272">Banki centralne na świecie prowadzą zazwyczaj swoje działania w następujących obszarach:</para>
-      <list list-type="enumerated" id="fs-idm34114976">
-        <item id="UUID274625d9-a305-496c-5f54-3b74660c22b4">
-          <para id="UUIDc9b6df15-2955-47a0-68cf-13201ba28c76">polityka pieniężna,</para>
+    <figure id="CNX_Econ_C28_000" class="splash">
+      <title id="UUID4dfc9e8b-48cb-4e44-494e-44044a584089">Gmach Marrinera S. Ecclesa, główna siedziba Banku Rezerwy Federalnej w Waszyngtonie</title>
+      <media alt="Zdjęcie przedstawia wejście do budynku imienia Marrinera S. Ecclesa, głównej siedziby amerykańskiego banku centralnego, czyli Systemu Rezerwy Federalnej." id="fs-idp29671408">
+        <image src="../../media//CNX_Econ_C28_000.jpg" mime-type="image/jpeg" id="UUIDf9f7b3f1-e730-4cde-719e-a3c5dbe4dc8e" />
+      </media>
+      <caption id="UUID9a16747a-535c-4bf5-5e33-32a8355b3978">Za tymi drzwiami zapadają niektóre z najważniejszych decyzji dotyczących polityki pieniężnej w Stanach Zjednoczonych. (Źródło: modyfikacja pracy „squirrel83”/Flickr Creative Commons).</caption>
+    </figure>
+    <note type="note" id="fs-idm93457376" class="bringhome economics">
+      <title id="UUID9d185b7b-1284-4d12-5002-74b46205242f">Jak bardzo można obniżyć stopy procentowe?</title>
+      <para id="UUIDf1514d2e-e5e3-42f8-4621-a5c41447cbe3">Większość ekonomistów uważa, że polityka pieniężna (czyli decyzje banku centralnego, które przekładają się na wysokość stóp procentowych m.in. poprzez zasady i warunki udzielanych kredytów) ma ogromny wpływ na gospodarkę każdego kraju. Z ekspansywną polityką pieniężną (monetarną) mamy do czynienia wtedy, gdy bank centralny obniża stopy procentowe i zwiększa dostępność kredytu. W efekcie tych działań inwestycje przedsiębiorstw i wydatki gospodarstw domowych rosną, powodując wzrost PKB i zatrudnienia.</para>
+      <para id="UUIDc364c983-f55b-4402-410d-d9610260148b">Co się jednak stanie, jeśli stopy procentowe narzucone przez banki komercyjne jako koszt kredytu są już bliskie zeru? Nie można przecież obniżyć ich poniżej zera, prawda? Oznaczałoby to bowiem, że pożyczkodawcy płaciliby pożyczkobiorcom za pożyczanie od nich pieniędzy. Właśnie w takiej sytuacji znalazł się System Rezerwy Federalnej USA pod koniec globalnego kryzysu finansowego, czyli w roku 2009, a także w czasie recesji spowodowanej pandemią koronawirusa w roku 2020. Stopa funduszy federalnych, czyli stopa procentowa będąca punktem odniesienia dla banków komercyjnych w ich działalności kredytowej, którą amerykański bank centralny traktuje jako podstawowe narzędzie polityki pieniężnej, w roku 2007 wynosiła ok. 5%. W ciągu kolejnych dwóch lat obniżyła się do poziomu 0,16%. Po zakończeniu kryzysu ponownie wzrosła do ok. 2%, a po rozpoczęciu recesji pandemicznej spadła po raz kolejny, w marcu 2020 r. osiągając zaledwie 0,05%.</para>
+      <para id="UUID1175da48-75f1-447d-51c1-b4bf1098f01f">Politykę Banku Rezerwy Federalnej w latach 2008–2009 komplikowało również to, że polityka fiskalna, czyli drugi ze sposobów, w jaki państwo może wpływać na sytuację w gospodarce, nie mogła się opierać na obniżkach podatków i wzroście wydatków ze względu na sytuację budżetu federalnego w Stanach Zjednoczonych i powszechne obawy, że zarówno jego deficyt, jak i rozmiary długu publicznego są zbyt wysokie. Jakie było zatem pole manewru amerykańskiego banku centralnego? W jaki sposób System Rezerwy Federalnej mógł kształtować politykę pieniężną, aby stymulować gospodarkę? Dodatkowo, o ile polityka fiskalna w czasie recesji pandemicznej była bardziej agresywna, to sytuacja gospodarcza sektora przedsiębiorstw i gospodarstw domowych również była trudniejsza i konieczne okazało się dodatkowe wsparcie finansowe skierowane do obu tych grup podmiotów. Rozwiązaniem problemu dolnej granicy wysokości stóp procentowych w czasie tych kryzysów była – jak pokażemy w niniejszym rozdziale – zmiana reguł gry.</para>
+    </note>
+    <note type="note" id="fs-idm75858032" class="chapter-objectives economics">
+      <title id="UUIDa66573ae-de1d-4986-46b1-55604a1fed12">Wprowadzenie do polityki pieniężnej i regulacyjnej banku centralnego</title>
+      <para id="fs-idm100242240">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idm30198304">
+        <item id="UUIDbcc02194-71c3-4546-5348-30e20e8847a1">
+          <para id="UUIDd007f3c4-732f-4715-52ea-a16cb629dd16">W jaki sposób banki centralne wpływają na działalność banków komercyjnych</para>
         </item>
-        <item id="UUID2f00c1e8-23c5-4aa2-7426-559210b1921d">
-          <para id="UUID160ff4ca-5e8c-40a6-704b-4c200fc6da32">stabilność systemu finansowego,</para>
+        <item id="UUIDb4a5f4dd-860d-4c37-7974-702f1567722d">
+          <para id="UUIDd8b15473-3a04-45b8-4b69-6547f94e5b9b">Jakie są narzędzia polityki pieniężnej (monetarnej) wykorzystywane przez banki centralne</para>
         </item>
-        <item id="UUIDd3e1bd8b-0e99-4d93-4fa9-dfa5cf2182ca">
-          <para id="UUID2a7a5c1b-19e2-4fd5-53f8-bbb76d3bdcc2">usługi bankowe na rzecz banków komercyjnych i innych instytucji depozytowych oraz wybranych jednostek sektora finansów publicznych (przede wszystkim rządu centralnego).</para>
+        <item id="UUIDdbe29aea-14f2-4c9a-4d33-c24d55bfd46d">
+          <para id="UUIDd634010d-c19f-4c04-44d3-671d8635c86f">W jaki sposób polityka pieniężna przekłada się na sytuację w gospodarce</para>
+        </item>
+        <item id="UUID7eaf342b-c1f0-418c-5f8d-18ada7e54e01">
+          <para id="UUIDce1fc192-c655-4a92-6d42-7b46510c4f73">Jakie są pułapki polityki pieniężnej</para>
         </item>
       </list>
-      <para id="fs-idm16112992">Pierwszy obszar jest na tyle istotny, że poświęcimy mu osobny podrozdział, natomiast dwa kolejne zostaną omówione poniżej.</para>
-      <para id="UUIDbe844a03-9e70-4ff4-7378-811e1ae4daae">Banki centralne zapewniają bankom komercyjnym wiele usług analogicznych do tych, jakie banki komercyjne świadczą na rzecz swoich klientów (czyli przedsiębiorstw i gospodarstw domowych). Na przykład wszystkie polskie banki komercyjne mają konto w Narodowym Banku Polskim (NBP), na którym deponują rezerwy. Podobnie banki mogą uzyskiwać pożyczki z banku centralnego.</para>
-      <para id="UUIDa22d831a-c109-470d-6ca2-df08fd7a3a6c">Na bardziej operacyjnym poziomie NBP dba, by ilość gotówki krążąca w systemie finansowym pozwalała zaspokoić zapotrzebowanie społeczeństwa na pieniądz. Na przykład każdego roku polski bank centralny zwiększa ilość gotówki dostępnej w bankach w okresie przedświątecznych zakupów i ponownie zmniejsza ją w styczniu.</para>
-      <para id="UUID69598a0a-822b-411c-5a76-cbc250c5f5d8">Utrzymywanie bezpiecznego i stabilnego krajowego systemu finansowego jest jednym z dwóch najważniejszych zadań większości banków centralnych (NBP, jak to zostało wskazane powyżej, pozostaje w tym obszarze wyjątkiem). Celem jest nie tylko ochrona oszczędności osób fizycznych, ale także utrzymanie integralności samego systemu finansowego. Przeciętny obywatel zwykle nawet nie zdaje sobie sprawy z tego, że bank centralny wykonuje takie działania, ale stało się to widoczne np. w USA podczas kryzysu finansowego w latach 2008–2009. Na pewien czas krytyczne części systemu finansowego zawiodły, a firmy nie były w stanie uzyskać finansowania na podstawową działalność gospodarczą. Wyobraź sobie, że nagle nie możesz uzyskać dostępu do pieniędzy na swoich kontach bankowych, ponieważ transakcja, którą chciałeś zrealizować dzięki posiadanej karcie debetowej została odrzucona. Daje to wyobrażenie o skali awarii systemu płatniczego/finansowego, do jakiej doszło wówczas w Stanach Zjednoczonych. W Polsce jak dotychczas zarówno w początkowym okresie pandemii (tuż po rozpoczęciu lockdownu wiosną 2020 r.), jak i po napaści Rosji na Ukrainę w lutym 2022 r. udało się uniknąć takich perturbacji, jakkolwiek, co wiele osób doskonale pamięta, przez kilka dni utrzymywały się trudności z wypłatą środków z niektórych bankomatów (szczególnie tych pozostających poza bezpośrednią kontrolą banków).</para>
-      <para id="UUID715f7f45-3459-48ba-7701-c541dddc30bd">Celem regulacji bankowych jest utrzymanie wypłacalności całego systemu (nie bez kozery określanego często mianem „sektora zaufania publicznego”) poprzez unikanie nadmiernego ryzyka. Regulacje dzielą się na wiele kategorii. Mieszczą się w nich np. wymagania dotyczące rezerw, wymogi kapitałowe i ograniczenia rodzajów inwestycji, jakie mogą być dokonywane przez banki itd. W <link document="m00046" cmlnle:case="locative" id="UUIDbb6a0058-cf09-4c2a-7859-3a84aff74f1c" />, dowiedzieliśmy się, że banki są zobowiązane do utrzymywania minimalnego odsetka swoich depozytów w formie relatywnie szybko dostępnych rezerw, które pozwalają pokryć część wypłat, jakie mogliby zgłosić depozytariusze (choć banki zazwyczaj utrzymują rezerwy na poziomie wyższym od minimalnego). Określenie „relatywnie szybko dostępnych” bywa nieco mylące, o ile bowiem pewną część swoich rezerw bank przechowuje sam w formie gotówki, o tyle większa część jego zasobów jest utrzymywana na rachunku w banku centralnym. Innym obszarem regulacji bankowych są ograniczenia dotyczące rodzajów inwestycji, jakie mogą być dokonywane przez banki. Instytucje te mogą udzielać pożyczek przedsiębiorstwom, gospodarstwom domowym i innym bankom, a także kupować papiery skarbowe (bony i obligacje), ale nie mogą inwestować w aktywa postrzegane jako zbyt ryzykowne.</para>
-      <para id="UUID92ae8940-3353-4d16-4a3d-562ef5f9e23a">Zgodnie z amerykańską konwencją kapitał banku to różnica między jego aktywami a pasywami, natomiast w Polsce zgodnie z zasadami rachunkowości przyjmuje się, że aktywa są zawsze równe pasywom, w związku z czym kapitał banku klasyfikowany jest jako część pasywów. Innymi słowy,  kapitał banku stanowi jego  <term id="UUID8d1614f7-df00-4838-455b-0c053e813a83">wartość netto</term> (ang. <foreign xml:lang="en" id="UUID6ba00992-4a07-4e22-6258-f141b374f177"><term id="UUIDfa8a990e-53a7-41ed-71c4-2fc180c0f23d">net worth</term></foreign>) banku. Bank musi mieć dodatnią wartość netto; w przeciwnym razie jest niewypłacalny lub zbankrutował, co oznacza, że nie ma wystarczających aktywów, aby spłacić swoje zobowiązania. Przepisy prawne wymagają, aby banki utrzymywały minimalną dodatnią wartość netto, zwykle wyrażoną jako procent ich aktywów, w celu ochrony swoich depozytariuszy i innych wierzycieli. Zgodnie z polską nomenklaturą aktywa zawsze muszą równać się pasywom, w związku z czym kapitał banku stanowi część pasywów.</para>
-      <note type="note" id="fs-idm16476560" class="economics linkup">
-        <para id="fs-idm74540880">Odwiedź tę <link url="http://openstax.org/l/bankregulation" id="UUIDc3c9c47d-fb23-4240-443a-703305900ee6">stronę</link>, aby przeczytać krótki artykuł pt. <emphasis effect="italics">Przestań mylić politykę pieniężną i regulacje bankowe</emphasis>.</para>
-      </note>
-    </section>
-    <section id="fs-idm19235888">
-      <title id="UUID8ad9dd7d-bb80-4aa6-48e5-9b1e59664940">Nadzór bankowy</title>
-      <para id="UUID088e09de-b84e-401b-45a2-d8ce5e67a7fe">Gdy nadzór bankowy działa efektywnie, większość banków przez długi czas pozostaje w dobrej kondycji finansowej. Jeśli urzędnicy nadzoru bankowego stwierdzą, że jakiś bank ma niską lub ujemną wartość netto lub udziela zbyt dużo ryzykownych kredytów, mogą zażądać od niego zmiany postępowania, a w skrajnych przypadkach nawet zmusić właścicieli do wstrzymania działalności lub sprzedaży swoich aktywów innemu bankowi, pozostającemu w dobrej kondycji finansowej.</para>
-      <para id="fs-idp152393120">Nadzór bankowy może wiązać się z wyzwaniami zarówno w wymiarze praktycznym, jak i politycznym. Praktyczny wymiar oznacza, że pomiar wartości aktywów banku nie zawsze jest prosty. W <link document="m00046" cmlnle:case="locative" id="UUID612e4d06-27e3-4b94-5810-06b641ae96b5" /> mówiliśmy, że <term cmlnle:reference="aktywa" id="UUID9892bc0e-5515-418d-6857-14b7026e8396">aktywami</term> banku są udzielone kredyty, a wartość tych aktywów zależy od oszacowanego ryzyka ich niespłacenia. Może się to stać jeszcze bardziej złożone, gdy bank udziela pożyczek bankom lub firmom w innych krajach lub zawiera umowy finansowe, które są znacznie bardziej skomplikowane niż zwykła pożyczka.</para>
-      <para id="UUID4f9b7c2b-8bda-461e-51c7-16887221e7cc">Wymiar polityczny wynika z faktu, że decyzja nadzorcy bankowego o zamknięciu konkretnego podmiotu lub zmianie struktury jego inwestycji finansowych jest często kontrowersyjna, a nadzorca bankowy często znajduje się pod polityczną presją ze strony właścicieli banku i lokalnych polityków.</para>
-      <para id="UUID28aa5f4b-1b9a-4df2-590f-bc51557ce8e0">Na przykład wielu obserwatorów zwróciło uwagę na to, że japońskie banki przez niemal całą dekadę lat 90. XX w. przeżywały poważne kłopoty finansowe, jednak do początku XXI w. nie zrobiono w tej sprawie niczego istotnego. Podobna niechęć do stawienia czoła problemom banków znajdujących się w poważnych tarapatach jest widoczna na całym świecie – w Azji Wschodniej, Ameryce Łacińskiej, Europie, Rosji, a także w samych Stanach Zjednoczonych.</para>
-      <para id="UUID963977fc-21d6-4ce1-6d4c-a84b59649802">W USA pod koniec XX w. uchwalono przepisy wymagające od nadzorców bankowych ujawniania i upubliczniania ich ustaleń oraz podjęcia działań, gdy tylko zidentyfikują w jakimś banku lub grupie banków poważny problem. Krytycy przyjętych regulacji zadawali jednak zasadne pytanie, dlaczego organy nadzoru nie przewidziały chwiejności finansowej, zanim duże straty miały szansę się skumulować i doprowadzić do masowych bankructw, które zostały przywołane w poprzednim rozdziale.</para>
-    </section>
-    <section id="fs-idp52569424">
-      <title id="UUID264cc48c-cb6a-4517-43f5-8f4f8ae22a60">Panika na rynkach finansowych</title>
-      <para id="fs-idp106314272">W XIX w. i w ciągu kilku pierwszych dekad wieku XX (np. w czasie Wielkiego Kryzysu) lokowanie pieniędzy w banku mogło być niezwykle stresujące. Wyobraź sobie, że wartość netto twojego banku stała się ujemna, a więc jego aktywa nie wystarczały na pokrycie zobowiązań. W tej sytuacji klienci, którzy zjawiali się w banku jako pierwsi, odzyskiwali całe swoje depozyty, zaś ci, którzy się nieco spóźnili, tracili wszystkie zdeponowane tam pieniądze. Masowe decyzje depozytariuszy o wypłacie środków z banku lub banków (często niemające żadnego racjonalnego uzasadnienia i wynikające z niesprawdzonych pogłosek lub plotek) nazywamy <term cmlnle:reference="panika na rynkach finansowych" id="UUID2eb88acf-02e1-492d-6f8a-1edbc2fdc9d4">paniką na rynkach finansowych</term> (lub „runem”na banki) (ang. <foreign xml:lang="en" id="UUIDb049aab7-7508-4377-6d09-80c06aad9877"><term id="UUIDc4c45076-f292-47fc-6d49-89f51cf82108">bank run</term></foreign>). W filmie <emphasis effect="italics">To wspaniałe życie (</emphasis><foreign xml:lang="en" id="UUIDaafd24ad-fb65-4676-70c5-06ee8e816822">It’s a Wonderful Life</foreign><emphasis effect="italics">)</emphasis> z 1946 r. dyrektor banku grany przez Jamesa Stewarta staje twarzą w twarz z tłumem zaniepokojonych depozytariuszy, którzy chcą wypłacić swoje pieniądze, ale udaje mu się rozwiać ich obawy, pozwalając niektórym wycofać część depozytów dzięki prywatnym środkom, które miał przeznaczyć na swój miesiąc miodowy.</para>
-      <figure id="CNX_Econ_C28_013">
-        <title id="UUID8ce994e1-1c89-4708-478f-eb2cd7398937">Panika na rynkach finansowych</title>
-        <media alt="Zdjęcie przedstawia ludzi ustawiających się w kolejce przed bankiem w nadziei na wycofanie swoich depozytów podczas Wielkiego Kryzysu." id="fs-idp126864096">
-          <image src="../../media//CNX_Econ_C28_013.jpg" mime-type="image/jpeg" id="UUID887d4d56-5180-4591-6f93-69ac87d3adeb" />
-        </media>
-        <caption id="UUID53fc14ac-5bed-46f8-5d9c-d5dc1b4f6e29">Panika na rynku finansowym USA w okresie Wielkiego Kryzysu tylko pogorszyła sytuację gospodarczą kraju. (Źródło: National Archives and Records Administration)</caption>
-      </figure>
-      <para id="UUID0b829be2-a281-4b06-4362-7e67c39098bd">Ryzyko paniki na rynkach finansowych może spowodować niestabilność całego systemu bankowego. Nawet pogłoska, że bank może mieć ujemną wartość netto, potrafi wywołać paniczne reakcje jego depozytariuszy, a wtedy również podmioty będące w dobrej kondycji finansowej mogą zbankrutować. Ponieważ bank pożycza większość otrzymanych pieniędzy, a w kasie trzyma tylko ograniczone rezerwy, panika na rynkach finansowych o dowolnej wielkości szybko wyczerpałaby każdą ilość gotówki dostępną w banku. Ogłoszenie nawet czasowego wstrzymania wypłat depozytów tylko nasiliłoby obawy pozostałych depozytariuszy o bezpieczeństwo ich pieniędzy. Co więcej, panika w jednym banku często wywoływała reakcję łańcuchową, przenosząc się na inne podmioty. Pod koniec XIX i na początku XX w. panika na rynkach finansowych zazwyczaj nie była pierwotną przyczyną recesji, ale mogła znacznie zaostrzyć jej przebieg.</para>
-    </section>
-    <section id="fs-idm46677104">
-      <title id="UUID295fa4b2-be6e-4dc4-6ba6-5cc53583eb12">Ubezpieczenie depozytów i ostatnia instancja kredytowa</title>
-      <para id="UUID33f4f35a-d82f-40fb-46e0-b14eddc82026">Aby chronić się przed paniką na rynkach finansowych, banki centralne wykorzystują dwie strategie: <term id="UUID8ae8a8a7-b22a-42c6-6cc5-3caf0d3505c0">ubezpieczenie depozytów</term> (ang. <foreign xml:lang="en" id="UUID8d39ba7c-9093-4c01-6075-62d9b78370fb"><term id="UUID208d79da-1f35-43ae-6cda-c537a7f0ffa5">deposit insurance</term></foreign>) i tworzenie podmiotów będących <term cmlnle:reference=" kredytodawca ostatniej instancji" id="UUID12a8160d-59d6-4b02-7002-696b0620539f">kredytodawcą ostatniej instancji</term> (<term cmlnle:reference="ostatnia instancja kredytowa" id="UUID4bd4ee0e-e53a-4677-70a6-ab0cc70550ec">ostatnią instancją kredytową</term>) (ang.<foreign xml:lang="en" id="UUIDbdabbd2a-5d7d-480e-57ef-435bbc35f8b2"><term id="UUIDa7d83e0c-f549-40f9-7dc6-5c7f7ffbe7e2"> lender of last resort</term></foreign>). Instytucją gwarantującą depozyty banków w Polsce, a także pełniącą funkcję ostatniej instancji kredytowej, jest Bankowy Fundusz Gwarancyjny (BFG). Zgodnie z ustawą regulującą działalność tego podmiotu z 10 czerwca 2016 r. depozyty, których równowartość w złotych nie przekracza 100 tys. euro, są gwarantowane w pełnej wysokości (w pewnych specyficznych sytuacjach gwarancje obejmują depozyty o wartości nawet do 200 tys. euro). Podstawowymi źródłami finansowania BFG są obowiązkowe składki kwartalne wnoszone przez banki objęte systemem gwarantowania. W Polsce również NBP pełni rolę kredytodawcy ostatniej instancji poprzez udzielanie kredytu lombardowego bankom komercyjnym. W bankach objętych ubezpieczeniem depozytów paniki zdarzają się już niezwykle rzadko.</para>
-      <para id="UUID784f167d-0f83-430a-68cf-a9e0be3e192b">Problem z paniką na rynkach finansowych nie polega na tym, że niewypłacalne banki upadają; w końcu są bankrutami i trzeba je zamknąć. Kluczowe jest to, że panika na rynkach finansowych może spowodować upadek wypłacalnych banków i rozprzestrzenienie się problemu na pozostałą część systemu finansowego. Aby temu zapobiec, bank centralny jest gotów udzielać pożyczek bankom i innym instytucjom finansowym, jeśli nie mogą one uzyskać funduszy z innego źródła. Jest to funkcja nazywana <term cmlnle:reference="ostatnia instancja kredytowa" id="UUID44184c89-a315-4356-691a-fa57185ca5d3">ostatnią instancją kredytową</term> (ang. <foreign xml:lang="en" id="UUID174dc90c-6a82-4645-4048-ff3ec9371afe"><term id="UUID6fba79cf-c8a8-483f-73b5-7a91fbae5cb3">lender of last resort</term></foreign>).</para>
-      <para id="UUID561adfb5-65db-4ee0-7891-47b394b91f9a">Amerykański bank centralny uaktywnia się również w przypadku kryzysów finansowych innych niż ściśle bankowe. Podczas paniki na giełdzie w 1987 r. wartość akcji w USA w ciągu jednego dnia spadła o 25%. FED, dbając o stabilność systemu finansowego, w odpowiedzi na tę bezprecedensową sytuację udzielił szeregu krótkoterminowych pożyczek ratunkowych, aby system finansowy mógł dalej funkcjonować. Podczas recesji w latach 2008–2009 politykę „luzowania ilościowego” prowadzoną przez Bank Rezerwy Federalnej (omówioną poniżej) również można interpretować jako gotowość do udostępniania w razie potrzeby krótkoterminowych kredytów.</para>
-    </section>
-    <section id="fs-idp377200" class="summary">
-      <title id="UUIDc43786a3-aa96-45c4-7e8c-7dc8d52a17df">Key Concepts and Summary</title>
-      <para id="UUID57e3d571-ad18-439a-5b58-e0dc8ff1ea45">Najważniejszym zadaniem banku centralnego jest prowadzenie polityki pieniężnej, która wpływa na oprocentowanie kredytów i depozytów oraz warunki udzielania pożyczek, co – poprzez wartość kredytów zaciągniętych przez przedsiębiorstwa i gospodarstwa domowe – wpływa na globalny popyt w gospodarce. Nadzór bankowy polega na kontrolowaniu bilansów banków, aby upewnić się, że mają one dodatnią wartość netto, a ich aktywa nie są zbyt ryzykowne. Najbardziej znane banki centralne na świecie to: System Rezerwy Federalnej Stanów Zjednoczonych i Europejski Bank Centralny. Polskim bankiem centralnym jest Narodowy Bank Polski.</para>
-      <para id="UUID850c258a-f5ed-425d-4e29-78be562c40a0">Do paniki na rynkach finansowych dochodzi wówczas, gdy pojawiają się doniesienia lub plotki, że konkretny bank lub grupa banków jest narażona na ryzyko finansowe związane z ujemną wartością majątku netto. W tej sytuacji depozytariusze chcą jak najszybciej wypłacić ze swojego banku pieniądze, obawiając się o ich bezpieczeństwo. Nawet podmiot znajdujący się w doskonałej kondycji finansowej może upaść, jeśli fałszywe pogłoski spowodują wybuch paniki i doprowadzą do utraty depozytów, z których tylko bardzo mała część jest utrzymywana w formie gotówki dostępnej na żądanie. Sposobem na ograniczenie ryzyka wybuchu paniki na rynkach finansowych jest ubezpieczenie depozytów, które gwarantuje depozytariuszom wypłatę nawet wtedy, gdy bank będzie miał ujemną wartość majątku netto. W Polsce ubezpieczenie obejmuje z zasady depozyty o wartości do 100 tys. euro, a podmiotem odpowiedzialnym za tę sferę aktywności jest Bankowy Fundusz Gwarancyjny. Banki centralne działają również jako ostatnia instancja kredytowa, udzielając krótkoterminowych pożyczek podmiotom zagrożonym paniką na rynkach finansowych. Bankructwo jednego banku może być traktowane jak każda inna porażka biznesowa. Jednak jeśli wiele banków upadnie, wówczas zagregowany popyt może się zmniejszyć tak bardzo, że wywoła to lub pogłębi recesję. Połączenie ubezpieczenia depozytów, nadzoru bankowego i polityki kredytodawcy ostatniej instancji pomaga zapobiegać recesjom spowodowanym słabościami systemu bankowego.</para>
-    </section>
-    <section id="fs-idm58120736" class="self-check-questions">
-      <title id="UUID4e4e075d-c070-4e75-6be3-71e5722869d1">Self-Check Questions</title>
-      <exercise id="fs-idm47980448">
-        <problem id="fs-idm8715472">
-          <para id="fs-idm9824992">Dlaczego banki, biorąc pod uwagę niebezpieczeństwo paniki na rynkach finansowych, nie przechowują większości depozytów jako gotówki w kasie, aby w razie potrzeby udostępnić ją depozytariuszom?</para>
-        </problem>
-        <solution id="fs-idm45509840">
-          <para id="fs-idm55948144">Banki zarabiają na udzielaniu pożyczek i marży odsetkowej. Im więcej pieniędzy jest przechowywanych w formie gotówki w skarbcu banku, tym mniej można przeznaczyć na pożyczki i tym mniej pieniędzy bank może zarobić.</para>
-        </solution>
-      </exercise>
-      <exercise id="fs-idm50965680">
-        <problem id="fs-idm11462096">
-          <para id="fs-idm74959392">Paniki na rynkach finansowych są często opisywane jako „samospełniające się przepowiednie”. Dlaczego to wyrażenie dobrze opisuje wspomniane zjawisko?</para>
-        </problem>
-        <solution id="fs-idm24691136">
-          <para id="fs-idm34810416">Strach i niepewność wywołane sugestią, że bankowi grozi bankructwo, mogą skłonić depozytariuszy do wycofania swoich pieniędzy. Jeśli zbyt wiele osób zachowa się w ten sam sposób, bank nie będzie w stanie spełnić ich żądań i faktycznie upadnie.</para>
-        </solution>
-      </exercise>
-    </section>
-    <section id="fs-idm131106784" class="review-questions">
-      <title id="UUIDd867542b-4747-4eac-55f6-2279f9f8f058">Review Questions</title>
-      <exercise id="fs-idm139039488">
-        <problem id="fs-idm29781296">
-          <para id="fs-idm33309648">W jaki sposób regulacje bankowe są powiązane z prowadzeniem polityki pieniężnej?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idp30052416">
-        <problem id="fs-idp74223152">
-          <para id="fs-idm86856480">Czym jest panika na rynkach finansowych?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idm86350672">
-        <problem id="fs-idm66298288">
-          <para id="fs-idm32559776">Co jest objęte ubezpieczeniem w programie ubezpieczenia depozytów prowadzonym przez Bankowy Fundusz Gwarancyjny w Polsce? Kto finansuje ewentualne wypłaty z tego funduszu?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idm76526864">
-        <problem id="fs-idm25563344">
-          <para id="fs-idm1538960">Co podlega nadzorowi w publicznych programach nadzoru bankowego?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idm22870080">
-        <problem id="fs-idm125461136">
-          <para id="fs-idm131668080">Czym jest kredytodawca ostatniej instancji?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idm153139824">
-        <problem id="fs-idm95529680">
-          <para id="fs-idm27352656">Czym różni się bank centralny od typowego banku komercyjnego?</para>
-        </problem>
-      </exercise>
-      <exercise id="UUID72046d97-e2cc-4781-6fe9-c25be8080c55">
-        <problem id="UUID89800daf-1259-4a22-5909-c8013e558280">
-          <para id="fs-idp122621616">Wymień trzy tradycyjne narzędzia, za pomocą których bank centralny kontroluje podaż pieniądza.</para>
-        </problem>
-      </exercise>
-    </section>
-    <section id="fs-idm90424688" class="critical-thinking">
-      <title id="UUID0c2cd243-46a8-4bf7-41a4-1f0edf0cc2bd">Critical Thinking Question</title>
-      <exercise id="fs-idp13890736">
-        <problem id="fs-idm41261392">
-          <para id="fs-idm87704976">Termin „pokusa nadużycia” opisuje tendencję podmiotów ekonomicznych do bardziej ryzykownych zachowań, o ile ich konsekwencje są postrzegane jako mniej dokuczliwe lub groźne (badania wykazały, że np. obowiązek zapinania pasów bezpieczeństwa i instalacja poduszek powietrznych w samochodach zwiększające bezpieczeństwo w czasie ewentualnej kolizji lub wypadku wpłynęły na wzrost średniej prędkości, z jaką auta się przemieszczają). W jaki sposób koncepcja pokusy nadużycia odnosi się do ubezpieczenia depozytów i innych regulacji bankowych?</para>
-        </problem>
-      </exercise>
-    </section>
-    <section id="fs-idm45619056" class="references">
-      <title id="UUID19b303dc-1552-453e-4500-0ea99169d743">References</title>
-      <para id="fs-idp22420320">U.S. Department of the Treasury. “Office of the Comptroller of the Currency.” Accessed November 2013. http://www.occ.gov/.</para>
-      <para id="fs-idm6674304">National Credit Union Administration. “About NCUA.” Accessed November 2013. http://www.ncua.gov/about/Pages/default.aspx.</para>
-    </section>
+    </note>
+    <para id="UUIDe2e5b521-be76-4f1c-6f7c-9c3de1846676">Pieniądze, pożyczki (oraz kredyty) i banki pozostają ze sobą w nierozerwalnym związku. Pieniądze są deponowane na rachunkach bankowych, a następnie pożyczane przedsiębiorstwom, gospodarstwom domowym i innym bankom. Jeśli ten zazębiający się system pieniądza, pożyczek i banków działa efektywnie, transakcje gospodarcze na rynkach dóbr, usług i czynników produkcji zawierane są płynnie, a oszczędzający bez problemu wchodzą w interakcje z pożyczkobiorcami. Jednak jeśli system pieniężny i bankowy nie działa sprawnie, gospodarka może albo wpaść w recesję, albo cierpieć z powodu przedłużającej się inflacji.</para>
+    <para id="UUID1bb7bf83-46f4-493a-4c0d-e1a9d9b0b386">Państwo (jego wyspecjalizowane agendy) wspiera funkcjonowanie tego systemu. Jednak mechanizmy te nie zawsze działają bez turbulencji. W niniejszym rozdziale zostaną omówione zasady, zgodnie z którymi prowadzona jest polityka pieniężna, oraz czynniki mogące ograniczyć jej skuteczność i efektywność.</para>
   </content>
-  <glossary id="UUID4ecc8266-a980-479d-565b-afaaed7bbc47">
-    <definition id="UUIDf817b6b7-6f97-45da-4c37-320d35c7c390">
-      <term id="UUID84b575dd-b7b5-4a56-7b92-30027722f21b">bank centralny (ang. <foreign xml:lang="en" id="UUID614e367b-38b4-4bc9-644d-8f6552a00f5c">central bank</foreign>)</term>
-      <meaning id="fs-idp31501904">
-        <para id="UUIDcef0e09c-5d3a-4e0a-6da4-7adaeadf480e">podmiot prowadzący politykę pieniężną danego kraju i regulujący jego system bankowy</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idp165081664">
-      <term id="UUIDaf515488-a0c7-4bf3-7916-c43e23f5fc02">panika na rynkach finansowych (ang. <foreign xml:lang="en" id="UUID887a69ad-cd27-4ffd-662b-b3349dc41b62"><term id="UUID2b702562-572c-413e-7f4c-2c7bf9126954">bank run</term></foreign>)</term>
-      <meaning id="fs-idp124849264">
-        <para id="UUIDee8ba7ce-3a45-4a0a-5736-e902552590c2">masowe decyzje depozytariuszy o wypłacie ich środków z banku, często podejmowane w wyniku fałszywych pogłosek lub plotek, a więc niemające racjonalnego uzasadnienia, a wynikające z obawy, że pieniądze mogą zostać utracone</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idp174662512">
-      <term id="UUID84c403f1-a8ba-4637-5358-191012cb9843">ubezpieczenie depozytów (ang. <foreign xml:lang="en" id="UUID0570c7a3-d828-4ac6-5440-7f0afff4128f"><term id="UUID94dabefd-c704-4806-60a8-357509d26f69">deposit insurance</term></foreign>)</term>
-      <meaning id="fs-idp117634672">
-        <para id="UUID272c1278-2b0b-4ade-58aa-613a4159339d">system ubezpieczeniowy, który gwarantuje, że deponenci banku nie stracą swoich pieniędzy, nawet jeśli ten zbankrutuje</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idp231115040">
-      <term id="UUID5bd856dc-c48d-4d20-4397-726105b6dbcf">kredytodawca ostatniej instancji / ostatnia instancja kredytowa (ang.  <foreign xml:lang="en" id="UUIDbeaf5453-b552-40c1-53fa-250a81a4935e"><term id="UUID682490a2-0015-409f-4056-d7b49cf1e9a0">lender of last resort</term></foreign>)</term>
-      <meaning id="fs-idp171281328">
-        <para id="UUID47dbcfa1-3513-4f46-58b8-d387d7ab2575">podmiot zdolny do udzielenia pożyczek bankom i innym instytucjom finansowym w sytuacjach, kiedy panika na rynkach finansowych zagraża całemu systemowi finansowemu</para>
-      </meaning>
-    </definition>
-  </glossary>
 </document>

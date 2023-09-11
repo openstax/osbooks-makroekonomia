@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ubc26f2fd-30b0-492a-9b9a-7d03a4197ff4" id="Ubc26f2fd-30b0-492a-9b9a-7d03a4197ff4" xml:lang="en" cnxml-version="0.7">
-  <title>5.3 Trade Balances and Flows of Financial Capital</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ue6feef3a-528b-40c7-9806-c8608b0f1b4a" id="Ue6feef3a-528b-40c7-9806-c8608b0f1b4a" xml:lang="en" cnxml-version="0.7">
+  <title>5.2 Trade Balances in Historical and International Context</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00026</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/bc26f2fd-30b0-492a-9b9a-7d03a4197ff4</md:content-url>
-    <md:title>5.3 Trade Balances and Flows of Financial Capital</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/e6feef3a-528b-40c7-9806-c8608b0f1b4a</md:content-url>
+    <md:title>5.2 Trade Balances in Historical and International Context</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:03.791060876+00:00</md:version>
-    <md:created>2023-08-30T08:02:03.791060876+00:00</md:created>
-    <md:revised>2023-08-30T08:02:03.791060876+00:00</md:revised>
+    <md:version>2023-09-11T10:25:04.904733664+00:00</md:version>
+    <md:created>2023-09-11T10:25:04.904733664+00:00</md:created>
+    <md:revised>2023-09-11T10:25:04.904733664+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,144 +20,100 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>bc26f2fd-30b0-492a-9b9a-7d03a4197ff4</md:uuid>
+    <md:uuid>e6feef3a-528b-40c7-9806-c8608b0f1b4a</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUID704d5026-9900-7666-7c527b82d03b3911" class="learning-objectives">
+    <note type="note" id="UUID704d5026-y665-iu74-7c527b82d03b3911" class="learning-objectives">
       <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUID9be51e6e-8bc1-45dc-771e-763cdf463f88">
-          <para id="UUIDf1de0216-90c9-4bec-7f08-7ee69df486bc">Wyjaśnić związek pomiędzy saldem na rachunku obrotów bieżących i międzynarodowymi przepływami kapitału finansowego</para>
+        <item id="UUID29252892-64cf-4f15-71a4-3bb3315d1a08">
+          <para id="UUID29deb290-6129-4037-4640-91d5cdb7ea90">Analizować wykresy ilustrujące zmienność w czasie salda obrotów towarowych i salda na rachunku obrotów bieżących</para>
         </item>
-        <item id="UUIDd3540f19-8668-41dd-4621-6f47d374f09a">
-          <para id="UUID94ec0780-aae4-4d98-637c-5bbfd851ac80">Identyfikować przewagi komparatywne</para>
+        <item id="UUIDccfacdbf-7c41-4cf8-62fb-64f5f7b596d8">
+          <para id="UUID1ec751d9-f240-4119-58f8-c96e28cf7f5e">Identyfikować okresy, w których USA notowały nadwyżki i deficyty handlowe</para>
         </item>
-        <item id="UUID869f4953-8d9f-460c-45c7-6fe699ff622d">
-          <para id="UUIDe77bf841-ff05-4f10-7ec8-1a608004dd27">Wyjaśnić pojęcie równowagi bilansu handlowego i rachunku obrotów bieżących, wykorzystując kategorie inwestycji i przepływów kapitałowych</para>
+        <item id="UUID384a485a-d3d9-4284-4ac8-01d580412acd">
+          <para id="UUIDb3af49dd-cc39-4787-7363-bc5e81cf94fd">Porównać salda bilansu handlowego Stanów Zjednoczonych i wybranych gospodarek świata</para>
         </item>
       </list>
     </note>
-    <para id="UUID98255610-4204-4e0a-71e9-1e927aa25399">Zdaniem ekonomistów nie można jednoznacznie określić tego, czy nadwyżki w bilansie handlowym i na rachunku obrotów bieżących są zjawiskiem pozytywnym, czy negatywnym, podobnie jak nie można jednoznacznie ocenić zjawiska deficytu tych dwóch parametrów. Wyzwaniem w tym kontekście jest zrozumienie, w jaki sposób międzynarodowe przepływy dóbr i usług są powiązane z międzynarodowymi przepływami <term id="UUID316a051a-b16e-4709-6ab5-1288e7b5ddf7">kapitału finansowego</term> (ang. <emphasis effect="italics" /><foreign xml:lang="en" id="UUID5bc4d1a2-b849-42b5-4a70-0f1081bc8213"><emphasis effect="italics" /><term id="UUIDd2a866a6-ca99-4485-4811-977d671758d0"><emphasis effect="italics">financial capital</emphasis></term><emphasis effect="italics" /></foreign>). W niniejszym podrozdziale spróbujemy pokazać ścisły związek pomiędzy saldem na rachunku obrotów bieżących i saldem bilansu handlowego a przepływami kapitału finansowego. W tym celu najpierw stworzymy bardzo prosty model gospodarki składającej się z dwóch osób (Robinsona Crusoe i Piętaszka), a następnie przedstawimy i poddamy analizie okrężny schemat międzynarodowych przepływów dóbr i usług oraz środków finansowych.</para>
-    <section id="fs-idm68368816">
-      <title id="UUID752f9a88-19ee-4f59-7847-cb08cf04b337">Gospodarka dwuosobowa: Robinson Crusoe i Piętaszek</title>
-      <para id="UUID92b4ed6e-b769-4043-41bc-644be6d43ff1">Aby zrozumieć, jak ekonomiści postrzegają deficyty i nadwyżki bilansu handlowego oraz rachunku obrotów bieżących, rozważmy prosty model gospodarki oparty na historii Robinsona Crusoe. Crusoe, jeśli jeszcze pamiętacie klasyczną powieść Daniela Defoe opublikowaną po raz pierwszy w 1719 r., był żeglarzem, który trafił na bezludną wyspę jako rozbitek, jedyny ocalały z morskiej katastrofy. Po pewnym okresie samotnego życia uratował on przed śmiercią rdzennego mieszkańca tej części świata, któremu nadał imię Piętaszek. Pomyśl w związku z tym o bilansie handlowym w tej niezwykle prostej, dwuosobowej gospodarce stworzonej przez Robinsona i Piętaszka.</para>
-      <para id="UUID8590ba21-7a5b-46ef-7406-39252a478a56">Robinson i Piętaszek wymieniają się dobrami i usługami, czyli działają w ramach gospodarki barterowej. Być może Robinson łowi ryby i część z nich oddaje Piętaszkowi w zamian za zbierane przez niego orzechy kokosowe, albo też Piętaszek wymienia utkany przez siebie kapelusz z liści na pomoc Robinsona w noszeniu wody. Ponieważ nikt nie zmusza ani Robinsona, ani Piętaszka do zawierania takich transakcji, obaj muszą czuć, że otrzymują satysfakcjonującą ilość dóbr lub usług w zamian za to, co sami oferują na wymianę. W rezultacie „eksport” każdego z nich jest zawsze równy „importowi”, więc handel między Robinsonem a Piętaszkiem jest zrównoważony. Żaden z nich nie doświadcza deficytu handlowego, w związku z czym żaden nie notuje również nadwyżki handlowej.</para>
-      <para id="UUID413f4682-805e-4143-5380-0b3b26561ed2">Jednak pewnego dnia Robinson zwraca się do Piętaszka z propozycją. Otóż chce on nawodnić swój ogród, co wymaga poświęcenia kilku tygodni na wykopanie odpowiednich rowów irygacyjnych. Będzie to oznaczało, że nie wystarczy mu czasu ani sił na pozyskiwanie pożywienia – łowienie ryb i zbieranie kokosów. Prosi więc Piętaszka, aby ten w okresie prac zaopatrywał go w określoną ilość ryb i kokosów (powiedzmy, trzy ryby i pięć kokosów dziennie), a po ich zakończeniu obiecuje spłacić Piętaszka dodatkowymi warzywami i owocami z uprawy w swoim nawodnionym ogrodzie. Jeśli Piętaszek zaakceptuje tę ofertę, w ich gospodarce pojawi się „nierównowaga handlowa”. Przez kilka miesięcy Piętaszek będzie notował nadwyżkę handlową, przekaże (wyeksportuje) bowiem Robinsonowi więcej dóbr, niż od niego pozyska (zaimportuje). Mówiąc dokładniej, Piętaszek odda Robinsonowi swoje ryby i kokosy i przynajmniej na razie nie otrzyma nic w zamian. Z drugiej strony Robinson będzie miał „deficyt handlowy”, ponieważ otrzyma od Piętaszka konkretne dobra, nie oferując nic w zamian. Możemy zatem napisać, że Piętaszek będzie codziennie pożyczał Robinsonowi trzy ryby i pięć kokosów, za co ten drugi odda mu z czasem określoną ilość warzyw i owoców (spłaci pożyczkę).</para>
-      <para id="UUID4d5e2ea9-45d0-4c7c-7458-3d3622f0f89e">Ten prosty model funkcjonowania gospodarki pozwala zrozumieć kilka istotnych ekonomicznych kwestii. Po pierwsze, możemy dzięki niemu wyjaśnić, co tak naprawdę oznaczają kategorie nadwyżki i deficytu handlowego w sensie ekonomicznym. Analizując sytuację Robinsona i Piętaszka, łatwo dostrzec, że pytanie o to, czy lepiej mieć nadwyżkę handlową, czy deficyt, samo w sobie nie ma sensu. Podobnie bowiem jak w przypadku każdej niewymuszonej transakcji rynkowej (również takiej, którą zaklasyfikujemy jako część handlu zagranicznego) zgoda na wymianę oznacza, że obie strony odnoszą w jej wyniku pewne korzyści. Z biegiem czasu, jeśli nawadniany ogród Robinsona faktycznie przyniesie większe plony, zarówno on sam, jak i Piętaszek skorzystają na zawartym porozumieniu.</para>
-      <para id="UUIDd15fc870-efc1-47e8-4179-47d7e060dca3">Po drugie, opowieść o naszej mikrogospodarce zwraca uwagę na to, co w historii współpracy tworzących ją ludzi może pójść źle. Propozycja złożona przez Robinsona niesie ze sobą element ryzyka dla Piętaszka, który udziela mu pożyczki w postaci ryb i kokosów, a jego zadowolenie z zawartej umowy uzależnione będzie od tego, czy Robinson spłaci tę pożyczkę zgodnie z planem, w całości i na czas. Może się przecież zdarzyć i tak, że Robinsonowi nie będzie się chciało ciężko pracować i ostatecznie nic nie zbuduje. A nawet jeśli system irygacyjny powstanie, może się okazać, że jego wpływ na produktywność (ilość plonów) ogrodu został mocno przeszacowany. Po zakończeniu prac Robinson może również uznać, że z różnych względów przekaże Piętaszkowi znacznie mniej warzyw i owoców, niż początkowo uzgodnili. Piętaszek w momencie zawierania umowy nie jest w stanie przewidzieć, jaki będzie ostateczny scenariusz zdarzeń. Może jedynie ufać Robinsonowi, że ten wywiąże się z umowy i wszystko pójdzie zgodnie z planem. Jeśli jednak tak się nie stanie, wymusi to kolejną rundę negocjacji. Fakt, że spłata nie nastąpiła zgodnie z ustalonymi warunkami, prawdopodobnie wpłynie na stosunek Piętaszka do tych rozmów. Jeśli Robinson naprawdę ciężko pracował, ale nie jest w stanie zaoferować Piętaszkowi uzgodnionej ilości warzyw i owoców, ponieważ przeszacował korzyści z systemu nawadniającego, Piętaszek do propozycji zmniejszenia opłat może podejść ze zrozumieniem. Jeśli jednak Robinson po prostu się lenił i dlatego niczego nie zbudował, Piętaszek może być słusznie poirytowany i domagać się wywiązania z umowy w jej pierwotnym kształcie.</para>
-      <para id="UUIDeca4d33f-c0d7-42cd-5b4c-ada3fa07db1d">Po trzecie wreszcie, na przykładzie umowy pomiędzy Robinsonem i Piętaszkiem można łatwo dostrzec ścisły związek pomiędzy deficytem handlowym a koniecznością zaciągania pożyczek międzynarodowych oraz między nadwyżką handlową a udzielaniem takich pożyczek. Wielkość nadwyżki handlowej Piętaszka (trzy ryby i pięć kokosów dziennie) jest dokładnie równa pożyczce udzielonej Robinsonowi albo też – analizując sytuację z punktu widzenia tego drugiego – rozmiar deficytu Robinsona jest równy zaciągniętemu przez niego zobowiązaniu (pożyczce). Dla ekonomistów wartość nadwyżki handlowej jest równa kapitałowi wypływającemu poza granice kraju, zaś wartość deficytu pokrywa się w pełni z wartością kapitału napływającego do danego kraju z zagranicy. Kwestię tę omówimy dokładniej w dalszej części podręcznika.</para>
-      <para id="fs-idm78188384">Prosty model gospodarki składającej się z Robinsona i Piętaszka jest również dobrą okazją do wstępnej analizy zjawiska <term id="UUIDf801dafd-1ce8-46d0-5d57-f9cb7cb8346e">przewagi komparatywnej</term> (ang. <emphasis effect="italics" /><foreign xml:lang="en" id="UUID013f6b81-4a2c-470a-79d7-93a15fbd8529"><emphasis effect="italics" /><term id="UUID5121faa2-b0da-41ea-7df9-43c21f2f393f"><emphasis effect="italics">comparative advantage</emphasis></term><emphasis effect="italics" /></foreign>), które będzie przedmiotem dokładniejszych rozważań w <link document="m00079" cmlnle:case="locative" id="UUID95fbd79d-1aa7-4dd7-6827-42c85667c931" />. Poniższa <link target-id="fs-idm20203824" id="UUID2e0d983b-793b-47bf-582b-2cd10347e2d2" /> pozwoli ci oszacować rozmiary przewag komparatywnych w handlu pszenicą i suknem pomiędzy Stanami Zjednoczonymi i Wielką Brytanią w XIX w.</para>
-      <note type="note" id="fs-idm20203824" class="economics workout">
-        <title id="UUIDb19dcf3f-50ea-4638-58e2-3fa5c8c2e1d5">Rozmiary przewag komparatywnych</title>
-        <para id="fs-idm29876288">W XIX w. Stany Zjednoczone i Wielka Brytania handlowały pomiędzy sobą pszenicą i suknem. <link target-id="Table_23_05" id="UUID27cac63b-53fe-4f79-5dad-8ec3406462e4" /> pokazuje nakład pracy (w godzinach) niezbędny do wyprodukowania jednostki każdego z tych dóbr.</para>
-        <table summary="This table has three rows and five columns. The first row is a header row and it labels each column. The second column is labeled “Wheat (in bushels)”, the third is “Cloth (in yards)”, the fourth is “Relative labor cost of wheat (Pw/Pc)”, the fifth is “Relative labor cost of cloth (Pc/Pw)”. Under the first column are the countries: the United States and Britain. Under the column “Wheat (in bushels)” are the values 8 and 4. Under the column “Cloth (in yards)” are the values 9 and 3. Under the column “Relative labor cost of wheat (Pw/Pc)” are the values 8/9 and 4/3. Under the column “Relative labor cost of cloth (Pc/Pw)” are the values 9/8 and 3/4." id="Table_23_05"><tgroup cols="5" id="UUID9aa6c741-6e19-4990-71c5-523069b28ed6"><colspec colnum="1" colname="col1" id="UUID7f700d88-091e-48b9-4996-e1d4fa516832" /><colspec colnum="2" colname="col2" id="UUID7c95ba67-a1fc-4738-5212-1fea09975c5d" /><colspec colnum="3" colname="col3" id="UUIDa071d6ae-d1fb-48f2-4bbb-68a06703a5ff" /><colspec colnum="4" colname="col4" id="UUID51c32653-464a-4fcc-692a-615c16740649" /><colspec colnum="5" colname="col5" id="UUIDb7d56e78-986a-4753-7aa8-9254d0d303ca" /><thead id="UUIDd3cd07e3-cfcb-44ff-6982-d3634de4ad8a"><row id="UUID3119095e-0372-43c4-5ab4-cb8d78b0b4e4"><entry id="UUID184e202a-1c77-4119-40ce-0a9ace401531" /><entry id="UUID7c664d58-bd5f-4567-7155-6701f8afbffb">Pszenica (kwintal)</entry><entry id="UUID24c0d43c-1849-4f77-7453-9a93cba94f5f">Sukno (metr bieżący)</entry><entry id="UUID6f05ba28-349e-457d-43da-a709a1989716">Koszt alternatywny kwintala pszenicy wyrażony w metrach bieżących sukna</entry><entry id="UUID388682b0-7981-4a4c-6c9d-f1cf8f17356d">Koszt alternatywny metra bieżącego sukna wyrażony w kwintalach pszenicy</entry></row></thead><tbody id="UUIDe4e90cb3-961d-4931-52b6-b244d847d8e0"><row id="UUID2c8895e4-bfe2-45e0-5c13-cdb023af2a90"><entry id="UUID9a71d187-2504-4a41-4920-d839ad31f086">Stany Zjednoczone</entry><entry id="UUIDb9caf473-e4ff-4dc1-5273-5e915ebe2517">8</entry><entry id="UUIDb3a808fe-c575-4d6a-6dcf-69a1f543533e">9</entry><entry id="UUIDa5d4f367-ebe6-4f90-7a57-170294369e6f">8/9</entry><entry id="UUIDa64b918f-4c5e-45e3-7c6b-4508db9e8ddc">9/8</entry></row><row id="UUIDc809b31b-e51f-461d-4d57-8d02208f7799"><entry id="UUID3e7f2213-b2e3-4084-6a7d-99a7a750494e">Wielka Brytania</entry><entry id="UUID94fbc518-7ba6-4b92-5dd7-411372bd8d69">4</entry><entry id="UUID2a7edf04-1e5c-46ee-7561-80ce37c11eab">3</entry><entry id="UUID3938ae6d-6eb8-42b7-6dd2-d766122e16ac">4/3</entry><entry id="UUIDcb559df4-65ec-4c09-6f21-57609aac0b5f">3/4</entry></row></tbody></tgroup><caption id="UUID8d090aee-b116-426b-4bad-6a452ac7a2ec" /></table>
-        <para id="fs-idm25879024">Krok 1. Zgodnie z danymi zawartymi w <link target-id="Table_23_05" cmlnle:case="locative" id="UUID67e46179-665b-4f49-7dfe-fa20c2c1cc78" /> wyprodukowanie kwintala pszenicy w USA wymaga 8 godz. pracy (w Wielkiej Brytanii tylko 4 godz.), zaś wytworzenie metra bieżącego sukna 9 godz. pracy (w Wielkiej Brytanii jedynie 3 godz.).</para>
-        <para id="UUID90dc4caf-d85c-4f93-5d32-4be24eee4c13">Krok 2. Zwróć uwagę na różnicę między przewagą bezwzględną a przewagą komparatywną. Wielka Brytania ma przewagę bezwzględną nad USA w produkcji obu towarów, ponieważ ich wytworzenie wymaga mniejszego nakładu pracy w porównaniu z sytuacją w Stanach Zjednoczonych. Teoretycznie oznaczałoby to, że Wielka Brytania powinna produkować zarówno sukno, jak i pszenicę. Przyjrzyjmy się jednak przewadze komparatywnej. Wielka Brytania jest w stanie wyprodukować pszenicę dwa razy taniej w porównaniu ze Stanami Zjednoczonymi, zaś sukno aż trzy razy taniej, jeśli potraktujemy liczbę godzin pracy niezbędną do wytworzenia jednostki każdego z dóbr (odpowiednio: kwintala i metra bieżącego) jako swoistą cenę. Pamiętając o tym, że celem jest jak najtańsze wytworzenie każdego z dwóch dóbr, pszenica powinna być wyprodukowana w USA, zaś sukno w Wielkiej Brytanii.</para>
-        <para id="UUIDe1ab4407-aa97-4db8-6472-95de715aaf36">Krok 3. Problem możemy również przeanalizować, uwzględniając koszty alternatywne. Aby to zrobić, określ względną cenę każdego z dóbr wyrażoną w jednostkach drugiego dobra. Ceną kwintala pszenicy w naszym przykładzie będzie liczba metrów bieżących sukna, z których produkcji musisz zrezygnować. Aby znaleźć tę cenę, przelicz godziny potrzebne na wyprodukowanie kwintala pszenicy i metra bieżącego sukna na odpowiednie ilości pszenicy i sukna możliwe do wytworzenia w ciągu 1 godz. pracy. Zauważ, że w Stanach Zjednoczonych wyprodukowanie kwintala pszenicy zajmuje 8 godz. pracy, więc pracownicy mogą wytworzyć 1/8 kwintala w ciągu godziny. Z kolei wyprodukowanie metra bieżącego sukna w tym kraju zajmuje 9 godz., więc robotnicy mogą wytworzyć 1/9 m bieżącego sukna w ciągu godziny. Aby wyprodukować kwintal pszenicy potrzebujesz 8 godz., a zatem w Stanach Zjednoczonych oznacza to utratę 8/9 m bieżącego sukna, podczas gdy w Wielkiej Brytanii byłoby to aż 4/3 m bieżącego. Podobnie wytworzenie metra bieżącego sukna wymaga poświęcenia 9 godz. pracy w USA, co oznacza utratę 9/8 kwintala pszenicy, zaś w wielkiej Brytanii wyprodukowanie metra bieżącego sukna wiąże się z utratą jedynie 3/4 kwintala pszenicy.</para>
-        <para id="UUID8efc9dd7-ae46-4e4f-7297-7d369f1a3179">Krok 4. Możemy teraz wyrazić przewagę komparatywną dzięki porównaniu kosztów alternatywnych produkcji każdego z analizowanych dóbr w Stanach Zjednoczonych i Wielkiej Brytanii. Koszt alternatywny 1 kwintala pszenica w USA jest mniejszy (8/9 wobec 4/3) niż ten sam koszt w Wielkiej Brytanii, w związku z czym pszenicę należy produkować w Stanach Zjednoczonych. Natomiast koszt alternatywny sukna jest niższy w Wielkiej Brytanii niż w USA (3/4 wobec 9/8), co oznacza, że taniej jest produkować sukno właśnie w Wielkiej Brytanii.</para>
-      </note>
+    <para id="fs-idp115141712">Historyczne wartości salda na rachunku obrotów bieżących Stanów Zjednoczonych w ciągu ostatnich 60 lat można przedstawić na kilka sposobów. Panel (a) <link target-id="CNX_Econ_C23_004" cmlnle:case="genitive" id="UUID752f22c1-810d-488b-5187-cf5f8710e0ea" /> pokazuje saldo rachunku obrotów bieżących i saldo obrotów towarowych (które jest po prostu różnicą pomiędzy wartością dóbr sprzedanych za granicę i importowanych do kraju) w dolarach. Natomiast panel (b) przedstawia te same salda w relacji do amerykańskiego PKB (wartość sald w dolarach została podzielona przez wyrażoną w tej samej walucie wartość nominalnego – a więc uwzględniającego zarówno inflację, jak i tempo realnego wzrostu – PKB w tym samym roku).</para>
+    <figure id="CNX_Econ_C23_004">
+      <title id="UUIDe007ef66-40ec-4a5d-580f-26eee94e1c79">Saldo rachunku obrotów bieżących i saldo obrotów towarowych USA w latach 1960–2020</title>
+      <media alt="Panel (a) przedstawia dwa liniowe wykresy: saldo rachunku obrotów bieżących i saldo obrotów towarowych. Obie wartości wyrażone są w dolarach bieżących, czyli mają charakter nominalny. Wartość obu sald gwałtownie spadła w latach 1995–2008. Natomiast panel (b) przedstawia liniowe wykresy tych samych sald w ujęciu względnym, jako odsetek bieżącego PKB. Schemat zmian pozostał jednak taki sam." id="fs-idm51387392">
+        <image src="../../media//CNX_Econv1-2_C23_02.svg" mime-type="image/svg+xml" id="UUIDd98ff79a-173c-4c80-4775-1f97dd88bf5b" />
+      </media>
+      <caption id="UUID07ac5f4c-c972-4992-550d-ac0f67813fbc">Panel (a) Saldo na rachunku obrotów bieżących i saldo obrotów towarowych w miliardach dolarów bieżących w latach 1960–2020. Stany Zjednoczone notowały dodatnie saldo (nadwyżkę) obrotów towarowych i na rachunku obrotów bieżących w latach, dla których odpowiednie wykresy znajdują się powyżej zera. W okresach, w których linie wykresów znajdują się poniżej zera, USA notowały deficyt, odpowiednio salda obrotów towarowych i na rachunku obrotów bieżących. Panel (b) obrazuje te same parametry w relacji do rozmiarów gospodarki amerykańskiej, czyli do wartości bieżącego (nominalnego) PKB w latach 1960–2020.</caption>
+    </figure>
+    <para id="fs-idm48480336">Niezależnie od tego, który z parametrów – saldo obrotów towarowych czy saldo rachunku obrotów bieżących – potraktujemy jako miarę relacji USA z krajami trzecimi, schemat zmian jest niemal ten sam. W latach 60. i 70. XX w. gospodarka USA notowała nadwyżkę w handlu dobrami i dodatnie saldo na rachunku obrotów bieżących. Tym samym linie obu wykresów nakreślonych na <link target-id="CNX_Econ_C23_004" cmlnle:case="locative" id="UUID88935a21-a252-4ef6-40b0-b0bdd3f79492" /> znajdują się powyżej zera. Jednak począwszy od lat 80., deficyt salda obrotów towarowych, jak również ujemne saldo w bilansie obrotów bieżących gwałtownie wzrosły i tendencja ta utrzymywała się w zasadzie aż do roku 2009, z wyłączeniem roku 1991, kiedy na rachunku obrotów bieżących odnotowano niewielką nadwyżkę. Oba deficyty zmniejszyły się znacząco wraz z wybuchem kryzysu finansowego, a ich wartość pozostawała relatywnie stabilna aż do roku 2018, kiedy to nastąpiło ponowne pogorszenie tak salda obrotów towarowych, jak i rachunku obrotów bieżących.</para>
+    <para id="fs-idm80737600"><link target-id="Table_23_04" id="UUID6f677c28-f5e6-4a0a-4113-e3d96255ea11" /> prezentuje dane na temat relacji eksportu dóbr i usług, a także salda na rachunku obrotów bieżących w Stanach Zjednoczonych na tle wybranych gospodarek świata, w tym Polski. Tak jak USA w ostatnim okresie niezmiennie notują deficyty, tak Japonia i wiele krajów europejskich (Niemcy, Szwecja i Francja, dla której dane nie znalazły się w tabeli) konsekwentnie rejestrują nadwyżki na rachunku obrotów bieżących. Pierwsza kolumna tabeli ilustruje jedną z miar globalizacji gospodarki, jaką jest <term id="UUID86651da0-c01b-4736-4725-3324d372e0f3">relacja wartości eksportu do PKB</term> (ang. <foreign xml:lang="en" id="UUIDae58913f-deb8-44cb-4acc-5ecfa7d4ae5a"><emphasis effect="italics" /><term id="UUID9f9cb01c-ddd0-49b6-6a88-a8da1407232a"><emphasis effect="italics">exports of goods and services as a percentage of GDP</emphasis></term><emphasis effect="italics" /></foreign>). Druga kolumna przedstawia natomiast saldo na rachunku obrotów bieżących. Dla większości krajów (w tabeli wyjątkiem są Niemcy i Szwecja) wartość deficytu lub nadwyżki kształtuje się w granicach +/-5% PKB.</para>
+    <table summary="This table has three columns and thirteen rows. The first row is a header row and it labels the second and third columns, “Exports of Goods and Services,” and “Current Account Balance.” Under the first, unlabeled column are the values: United States; Japan; Germany; United Kingdom; Canada; Sweden; Korea; Mexico; Brazil; China; India; Nigeria; and World. Under the “Exports of Goods and Services“ column are the values: 13.5%; 16.2%; 45.6%; 29.8%; 30.1%; 43.8%; 53.9%; 31.7%; 12.6%; 26.4%; 24.8%; 18.0%; and −. Under the “Current Account Balance“ column are the values: −2.3%; 0.7%; 7.4%; −4.2%; −3.2%; 6.7%; 5.4%; −2.3%; −3.6%; 2.0%; −2.6%; 4.1%; and 0.0%." id="Table_23_04"><title id="UUIDc73995eb-961f-493b-4297-607ac12e5654">Syntetyczny obraz relacji ekonomicznych z zagranicą w wybranych gospodarkach świata w 2020 r. (w relacji do PKB) (Źródło: http://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS). W tabeli trzeba będzie uwzględnić też poniższe dane dla PolskiPolska (Eksport - 53%; Saldo na rachunku obrotów bieżących - 2,46%)nie działa backsóacpace i kasowanie po zaznaczeniu.</title><tgroup cols="3" id="UUID701deff4-8fd9-4029-54cd-4df31da730ba"><colspec colnum="1" colname="col1" id="UUID15332184-4b97-4d43-7eec-59cb43281e97" /><colspec colnum="2" colname="col2" id="UUID0b2cc62f-0e2e-47a2-77bf-743188309606" /><colspec colnum="3" colname="col3" id="UUID197e696a-5976-4fc8-58b6-58d829403b31" /><thead id="UUIDd63de8a8-adcc-4e2f-64f8-3763373d2af7"><row id="UUIDe3d62a7b-22b0-4f42-561e-06dcb6a0cdfc"><entry id="UUID18409167-35c0-4932-6e47-7b5339b6fe5a" /><entry id="UUIDcd75c0e5-05f2-4c0c-62a3-e8c144990140">Eksport </entry><entry id="UUIDb7226830-01f9-4e62-421a-e0c554fe8ce0">Saldo na rachunku obrotów bieżących</entry></row></thead><tbody id="UUID792a35f6-2cd4-4e90-5964-52cbaefa71f7"><row id="UUID26bb6d42-c5f1-45e9-6668-a0507a954ce3"><entry id="UUID104a4ff2-16da-4416-40dc-253cf6ee7d6f">Stany Zjednoczone</entry><entry id="UUIDc21030b7-a12b-4b69-4342-9281a16647b0">10,2%</entry><entry id="UUIDf156f8ac-4b81-499c-5004-e66021318797">−2,9%</entry></row><row id="UUID5f44f768-eb83-41e7-4a17-12fe358c0bbe"><entry id="UUID694a475a-d8a4-44d1-6bfe-c5f2528b6cb3">Japonia</entry><entry id="UUIDfd06ac17-49f1-4123-6135-1f8f5c7b2bd9">15,5%</entry><entry id="UUID0d40988b-c9eb-448e-6c94-74bb251f78a2">3,2%</entry></row><row id="UUID9972c660-a4ab-438b-7146-8cb616552fb6"><entry id="UUID08d7b505-72d4-4ac6-5398-317dafbfeb27">Niemcy</entry><entry id="UUID89b2f548-b294-4a4f-78de-29bb089fdc28">43,4%</entry><entry id="UUIDd8673e89-377d-4391-4858-a8fdbc1dea28">7,0%</entry></row><row id="UUID2068a7f5-ab4d-4b0e-5313-c4a99d2be703"><entry id="UUID197666d9-9b56-4597-70aa-356f33969190">Zjednoczone Królestwo</entry><entry id="UUID72d043c6-3ec2-447e-6aff-20877297fa61">27,9%</entry><entry id="UUIDbeed7563-1efd-4782-6fca-f55c42607339">–2,6%</entry></row><row id="UUID294b1eee-5dc8-4009-5359-233e6b929c08"><entry id="UUID215db405-d8b2-462f-68d5-bd86c79dcda3">Kanada</entry><entry id="UUID2ba3535f-3040-4085-4347-8288fdfe8fe2">29,0%</entry><entry id="UUIDee74fe4a-0756-4a35-5521-94661f95d001">−1,8%</entry></row><row id="UUID46b33474-ec6b-47c7-785b-33f50f705fc7"><entry id="UUID66d53cc9-55dc-4187-6cf4-bc8e071cbdc6">Szwecja</entry><entry id="UUID6bd6e508-541c-470b-7c2f-d7dba398e2b0">44,6%</entry><entry id="UUID02988377-619e-408d-48f0-f07fc92ae133">5,7%</entry></row><row id="UUID51214759-c3ac-45c2-7d20-c2671a97faf7"><entry id="UUID8e4132b5-d4df-43ba-50fc-bbef69ded6cd">Korea</entry><entry id="UUID53af2141-d6c0-45d0-7c03-7301d3905f50">36,4%</entry><entry id="UUID905b4bb7-ea15-4f13-75fe-e9a849c1de66">4,6%</entry></row><row id="UUIDfe548ca2-4818-4206-6230-38e44a227db5"><entry id="UUID414399ac-584b-483b-79a1-8b04e6bf9358">Meksyk</entry><entry id="UUID21893e0c-b192-4e4d-5d7c-7e7e68bb03ea">40,2%</entry><entry id="UUIDfaf49237-5390-4f9b-5c42-7718d5b6c2a1">2,4%</entry></row><row id="UUID155a6789-8bcc-4d41-4122-b2bc9cba7107"><entry id="UUIDda1aa165-b2dd-4e9f-4340-da841da13a67">Brazylia</entry><entry id="UUID6e700c68-e5ff-4f20-61df-56126c1747f1">16,9%</entry><entry id="UUID18471031-aee0-40fb-4939-37faf9494271">–1,8%</entry></row><row id="UUIDcd18094e-d7da-4087-54c5-be340722d151"><entry id="UUIDae66c117-a726-4df4-7837-d5871d98fbe8">Chiny</entry><entry id="UUID1202c05c-3b3d-4e2b-5ca4-68bea3997fc2">18,5%</entry><entry id="UUIDd59d00fe-baf7-4eb7-694d-85c9e651ceb8">1,9%</entry></row><row id="UUIDe8cdd6ae-3440-490f-5975-51795069e2af"><entry id="UUID68df2f59-320f-45ef-7bd1-d5c02dced430">Indie</entry><entry id="UUID3e503cb6-6d87-4f7c-5f00-6d0dffd4a12c">18,7%</entry><entry id="UUIDf62d65bd-7291-4dbb-7c37-421d15b21a0a">1,2%</entry></row><row id="UUIDaca0632d-cb02-4889-5852-a7036f2845e1"><entry id="UUID59c8c862-5047-44cb-5771-a2d8da032afe">Nigeria</entry><entry id="UUIDd000e3be-7e95-463a-6c1b-998595652945">8,8%</entry><entry id="UUID0d96ea86-9c2a-4230-6a42-325cb92ab41d">−3,9%</entry></row><row id="UUIDaca0632d-44ed-jut5-5852-a7036f2845e1"><entry id="UUID59c8c862-5047-44cb-erer-a2d8da032afe">Polska</entry><entry id="UUIDd000e3be-4433-463a-6c1b-998595652945">53%</entry><entry id="UUID0d96ea86-6tr4-4230-3422-325cb92ab41d">2,46%</entry></row><row id="UUID5bfcdebb-bb8d-4e7f-4e72-2fe92e2c1b7c"><entry id="UUID1e4a683a-a299-48e3-434e-b640a75b305a">Świat</entry><entry id="UUID1c5eb5f2-ddbe-4d21-6c31-7e800293d92b">−</entry><entry id="UUIDc6847a1f-86b9-4f57-7b1e-e92b19e78308">0,0%</entry></row></tbody></tgroup></table>
+    <section id="fs-idm173355856" class="summary">
+      <title id="UUID8882242d-5fe1-42ce-7c69-3b73fa57495e">Key Concepts and Summary</title>
+      <para id="UUID1d6a3b42-c51f-4306-7406-7c00c57c2c56">Stany Zjednoczone osiągały relatywnie duże nadwyżki w bilansie handlowym i na rachunku obrotów bieżących przez kolejne dwie dekady, aż do początku lat 80. XX w., a później w roku 1991. W pozostałych okresach ostatnich 60 lat zarówno saldo obrotów towarowych, jak i rachunek obrotów bieżących notowały – niekiedy nawet bardzo wysokie – deficyty. Jak wynika z treści całego rozdziału, deficyt handlowy i na rachunku obrotów bieżących oznacza napływ kapitału finansowego netto z zagranicy, podczas gdy nadwyżka tych samych parametrów przekłada się na odpływ netto kapitału finansowego z danej gospodarki do innych krajów.</para>
     </section>
-    <section id="fs-idm64180208">
-      <title id="UUID66e7a75c-59cd-4cf3-4398-db94eaad23be">Saldo na rachunku obrotów bieżących jako element bilansu płatniczego</title>
-      <para id="UUIDa68d03c0-5714-41a0-4995-0f4fa1778b6d">Związek między różnymi miarami określającymi saldo wymiany ekonomicznej z zagranicą a międzynarodowymi przepływami kapitału finansowego jest tak ścisły, że ekonomiści w oparciu o wartość sprzedawanych i kupowanych dóbr, usług i czynników produkcji tworzą bilans płatniczy. Każda kategoria, która wchodzi w skład salda na rachunku bieżącym, wiąże się bowiem pośrednio lub bezpośrednio z odpowiednim przepływem finansowym pomiędzy danym krajem a resztą gospodarki światowej.</para>
-      <para id="fs-idm50484064"><link target-id="CNX_Econ_C23_003" id="UUID94931131-d0a0-4a58-469e-494f1dccb511" /> przedstawia przepływ dóbr i usług oraz odpowiadających im płatności pomiędzy konkretnym krajem – niech to będzie Polska – a resztą świata. Analizując wykres z góry na dół, pierwsza linia oznacza polski eksport (towary przepływają z Polski poza jej granice), podczas gdy druga linia pokazuje płatności za te towary przepływające do Polski od podmiotów zagranicznych, które kupiły określone dobra i usługi. Trzeci wiersz opisuje import (dobra i usługi płyną z zagranicy do Polski), zaś czwarty – płatności, które uiszczają polskie podmioty przedsiębiorstwom zagranicznym. Wartość kupowanych i sprzedawanych w ramach handlu zagranicznego dóbr i usług, a co za tym idzie również płatności za te produkty, ujęte są na rachunku obrotów bieżących.</para>
-      <para id="UUIDbacedfa7-5e0e-4642-525a-0c7ed79db7ac">Cztery linie wykreślone w dolnej części <link target-id="CNX_Econ_C23_003" cmlnle:case="locative" id="UUID2789bb8f-fb70-47f9-717e-dec93d4e94b2" /> pokazują przepływy kapitału (traktujemy je jako inwestycje – bezpośrednie i portfelowe), dochodów osiągniętych dzięki tym inwestycjom oraz dodatkowo pracy wykonywanej przez Polaków poza granicami. Odpowiednio piąta linia reprezentuje inwestycje dokonane przez polskie podmioty za granicą (zakup przedsiębiorstw, wybudowanie nowej fabryki lub po prostu nabycie akcji i obligacji). Szósta linia z kolei to dochód uzyskany dzięki tym inwestycjom (wypłaty odsetek od obligacji, dywidenda związana z posiadaniem akcji lub zysk przedsiębiorstw) i wykonywanej za granicą pracy, który płynie z zagranicy do Polski. Podobnie jest w siódmym wierszu, który obrazuje inwestycje dokonywane przez podmioty z zagranicy w Polsce. W wierszu ósmym natomiast znajdują się dochody z tych zagranicznych inwestycji (i pracy) w Polsce, które wypływają z kraju i trafiają za granicę. Dochód z tytułu własności za granicą (linie szósta i ósma) znajdujemy na rachunku bieżącym, podczas gdy przepływy kapitału w postaci inwestycji zagranicznych (linie piąta i siódma) ujęte są na rachunku finansowym. Schemat pomija transfery jednostronne, które oczywiście również wiążą się z przepływem środków finansowych i które ujmuje bilans obrotów bieżących.</para>
-      <figure id="CNX_Econ_C23_003">
-        <title id="UUID32fb4631-7aa4-49fa-4cfa-5e155770d7e7">Przepływ dóbr, czynników produkcji, dochodów czynników produkcji i kapitału</title>
-        <media alt="Ilustracja przedstawia przepływy dóbr i usług (w tym czynników produkcji) oraz płatności za te dobra i usługi pomiędzy krajem macierzystym (ramka z lewej) a resztą świata (ramka z prawej). Kraj macierzysty przekazuje za granicę dobra i usługi w ramach eksportu, płatności za importowane produkty, inwestycje zagraniczne dokonywane na terenie reszty świata i dochody z inwestycji podmiotów zagranicznych dokonywanych w tym kraju. Reszta świata przekazuje z kolei do macierzystego kraju płatności za eksport, dobra i usługi w ramach importu, dochody z inwestycji podmiotów z kraju macierzystego dokonanych poza granicami oraz inwestycje dokonywane przez podmioty zagraniczne na terenie kraju macierzystego." id="fs-idp68345648">
-          <image src="../../media//CNX_Econ_C23_003.svg" mime-type="image/svg+xml" id="UUID4cc922d6-d1e1-4998-6796-10db5096b6c8" />
-        </media>
-        <caption id="UUID11850d84-849d-4c74-5bb5-eaa8238b8531">Każdy element salda na rachunku obrotów bieżących wiąże się z przepływem płatności finansowych między analizowanym krajem i zagranicą. W górnej części wykresu ujęte są przepływy dóbr i usług w ramach handlu zagranicznego oraz płatności za nie.</caption>
-      </figure>
-      <para id="UUID9b734e68-0c3a-4562-7099-7046ea67adce">Deficyt na rachunku obrotów bieżących oznacza, że kraj jest kredytobiorcą netto z zagranicy. I odwrotnie, dodatnie saldo na rachunku bieżącym oznacza, że kraj jest pożyczkodawcą netto dla reszty świata. Podobnie jak w modelu gospodarki Robinsona i Piętaszka można sformułować wniosek, że nadwyżka handlowa oznacza odpływ kapitału finansowego, ponieważ krajowe podmioty (inwestorzy) lokują swoje środki za granicą, podczas gdy deficyt na rachunku obrotów bieżących jest dokładnie równy wartości kapitału napływającego do danego kraju z zagranicy.</para>
-      <para id="UUID8e618753-ea0f-4869-6588-83d8ee1a95e8">Należy przy tym pamiętać, że międzynarodowe przepływy kapitałowe nie odnoszą się wyłącznie do długu publicznego zaciągniętego za granicą, choć oczywiście dług zaciągnięty przez sektor finansów publicznych jest częścią tego strumienia. Międzynarodowe przepływy kapitału finansowego odnoszą się do wszystkich sposobów, w jakie prywatni inwestorzy z jednego kraju mogą inwestować środki w innym kraju – kupując nieruchomości, firmy i instrumenty finansowe takie jak akcje i obligacje.</para>
-    </section>
-    <section id="fs-idp103860128" class="summary">
-      <title id="UUID040b3097-5791-46e6-7dbd-700c573a874e">Key Concepts and Summary</title>
-      <para id="fs-idp104723200">Międzynarodowe przepływy towarów i usług są ściśle powiązane z międzynarodowymi przepływami kapitału finansowego. Deficyt na rachunku obrotów bieżących oznacza, że kraj jest pożyczkobiorcą netto od reszty świata. Natomiast nadwyżka na rachunku bieżącym świadczy o tym, że kraj jest pożyczkodawcą netto dla reszty świata.</para>
-    </section>
-    <section id="fs-idm37839632" class="self-check-questions">
-      <title id="UUID08e998a7-607e-47df-5ab2-93d0fe573e73">Self-Check Questions</title>
-      <exercise id="fs-idp82984608">
-        <problem id="fs-idm2120688">
-          <para id="fs-idm53503008">Wskaż, które z poniższych zdarzeń wiąże się z przepływem środków finansowych do polskiej gospodarki, a które oznacza odpływ środki z Polski za granicę:</para>
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp29473712">
-            <item id="UUID4b34da1b-e1b8-477e-4195-f93781bdeab6">
-              <para id="UUIDd391b108-426d-4efe-5005-345157067234">eksport do Niemiec,</para>
-            </item>
-            <item id="UUID723ac9fd-65e6-4661-6c63-86b3a0a469fa">
-              <para id="UUIDdbdad9e3-bbd4-4517-7205-ef25a24607dc">dochody z dokonanych wcześniej polskich inwestycji na Słowacji,</para>
-            </item>
-            <item id="UUID45fcafd6-f55f-4f16-6c90-0de20f66e27c">
-              <para id="UUID4fd34353-f46b-4339-6059-87cf9ea82ff8">zagraniczna pomoc dla Turcji,</para>
-            </item>
-            <item id="UUID62ce2034-9ced-41ab-6683-ff8cadafef76">
-              <para id="UUID9b2a0a2c-5ebd-4c99-5e12-aafdcd1343c1">ropa naftowa importowana z Federacji Rosyjskiej,</para>
-            </item>
-            <item id="UUID2fc1e193-3750-4bdc-5b1f-726005e72a77">
-              <para id="UUIDb366473a-4840-4c04-7e66-64dfd4e7538c">francuscy inwestorzy kupujący nieruchomości w Polsce.</para>
-            </item>
-          </list>
+    <section id="fs-idp64535808" class="self-check-questions">
+      <title id="UUID8757277a-cb62-4b85-6963-0e600176a6b0">Self-Check Questions</title>
+      <exercise id="fs-idm28479744">
+        <problem id="fs-idp17739824">
+          <para id="fs-idp73789712">W jaki sposób relacja eksportu danego kraju do jego PKB odzwierciedla stopień globalizacji?</para>
         </problem>
-        <solution id="fs-idp20651216">
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm71248384">
-            <item id="UUIDd3974bb1-223e-4c5a-5c19-91d5b032bc54">
-              <para id="UUIDabaf1a47-47b7-4411-7607-0f31f232c3f3">Eksport do Niemiec wiąże się z przepływem finansowym z Niemiec do Polski.</para>
-            </item>
-            <item id="UUID7b61ced5-5f1a-48b1-7f77-d0b8f8743e57">
-              <para id="UUIDa7dc6b12-4cd2-457e-53a0-09df16f4003b">Chodzi nie o inwestycje Polski na Słowacji, ale dochody uzyskane dzięki tym inwestycjom, które wiążą się z przepływem finansowym z gospodarki słowackiej do Polski.</para>
-            </item>
-            <item id="UUID921cbd1e-cc45-4435-67bc-44537e596c02">
-              <para id="UUID331845e5-82a8-48c8-4eb3-9ee8d5fee47d">Pomoc zagraniczna z Polski do Turcji to przepływ finansowy w tym samym kierunku.</para>
-            </item>
-            <item id="UUIDb713a240-af20-4c92-4e73-31f4701b4846">
-              <para id="UUIDb0d28eec-4adf-463d-6b29-1edd173de886">Import ropy naftowej z Federacji Rosyjskiej oznacza przepływ płatności finansowych z polskiej gospodarki do Federacji Rosyjskiej.</para>
-            </item>
-            <item id="UUID01dc88a0-22c3-4ffa-7189-1aeb35ea536b">
-              <para id="UUID2ae67fb4-38d1-43ec-71f9-cfa7d1d784f0">Francuscy inwestorzy kupujący nieruchomości w Polsce to przepływ finansowy z Francji do Polski.</para>
-            </item>
-          </list>
+        <solution id="fs-idp133214800">
+          <para id="fs-idp133214928">PKB to wyrażona w jednostkach pieniężnych wartość całkowitej produkcji towarów i usług na terenie danego kraju. Eksport to dobra produkowane w kraju, ale wysyłane za granicę. Relacja eksportu do PKB daje nam wyobrażenie o tym, jak ważny jest eksport dla gospodarki narodowej, w relacji do wszystkich wyprodukowanych towarów i usług. W 2020 r. eksport stanowił tylko ok. 10% PKB USA, ale ponad 50% PKB Polski. Oznacza to, że dla Polski wymiana dóbr i usług z krajami trzecimi jest znacznie ważniejsza niż dla Stanów Zjednoczonych.</para>
         </solution>
       </exercise>
-      <exercise id="fs-idp79946512">
-        <problem id="fs-idm72610288">
-          <para id="fs-idp118711824">Czym różni się dolna część <link target-id="CNX_Econ_C23_003" cmlnle:case="genitive" id="UUIDc382db5b-e8f6-414a-70c2-4ba9c3ce30c1" />, pokazująca międzynarodowe przepływ inwestycji i kapitału, od części górnej?</para>
+      <exercise id="fs-idm28382112">
+        <problem id="fs-idp14500800">
+          <para id="fs-idp72284128">W pewnym momencie PKB Kanady wynosił 1800 mld dol., a eksport 542 mld dol. Jaka była wówczas relacja eksportu do globalnej produkcji Kanady?</para>
         </problem>
-        <solution id="fs-idp17967040">
-          <para id="UUIDcae1d381-224c-446a-5083-5c09c83407af">Górna część przedstawia eksport i import oraz odpowiadające im płatności. Dolna część dotyczy międzynarodowych inwestycji finansowych oraz odpływu i dopływu środków zarówno z tytułu tych inwestycji, jak i dochodów dzięki nim osiąganych. Inwestycje te mogą obejmować zakup akcji i obligacji lub nieruchomości za granicą, a także międzynarodowe pożyczki udzielane i otrzymywane.</para>
+        <solution id="fs-idm25332368">
+          <para id="fs-idp82739984">Podziel 542 mld dol. przez 1800 mld dol.</para>
         </solution>
       </exercise>
-      <exercise id="fs-idm17405200">
-        <problem id="fs-idm3573280">
-          <para id="fs-idp105771872">Wyjaśnij związek pomiędzy deficytem lub nadwyżką na rachunku obrotów bieżących a przepływem środków finansowych.</para>
+      <exercise id="fs-idp71363680">
+        <problem id="fs-idp62858000">
+          <para id="fs-idp17678928">PKB Polski w 2020 r. wynosił 2 338 996 mln zł, natomiast saldo na rachunku obrotów bieżących osiągnęło poziom 57 451 mln zł. Oblicz relację salda na rachunku obrotów bieżących do PKB Polski.</para>
         </problem>
-        <solution id="fs-idp46097120">
-          <para id="fs-idm24852272">Jeśli więcej pieniędzy wypływa z kraju (np. jako zapłata za import), saldo na rachunku bieżącym się pogorszy (np. zmniejszy się nadwyżka lub nadwyżka zamieni się w deficyt), a jeśli więcej pieniędzy wpłynie do kraju, saldo na rachunku bieżącym się poprawi (np. deficyt zamieni się w nadwyżkę lub kwota nadwyżki wzrośnie).</para>
+        <solution id="fs-idp23376800">
+          <para id="fs-idp23376928">Podziel 57 451 mln zł przez 2 338 996 mln zł.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm818928">
+        <problem id="fs-idm27902096">
+          <para id="fs-idp24247296">Dlaczego zmienność w czasie wartości salda bilansu handlowego i salda na rachunku obrotów bieżących jest tak zbliżona?</para>
+        </problem>
+        <solution id="fs-idp32214608">
+          <para id="fs-idm20141600">Bilans handlowy to różnica między eksportem a importem dóbr i usług. Saldo na rachunku obrotów bieżących w największym stopniu jest zdeterminowane właśnie przez tę wartość (niezależnie od tego, czy mamy do czynienia z deficytem handlowym, czy też nadwyżką), choć obejmuje również międzynarodowe przepływy pieniężne związane z dochodami czynników produkcji i transfery jednostronne.</para>
         </solution>
       </exercise>
     </section>
-    <section id="fs-idp75789088" class="review-questions">
-      <title id="UUID7aa0638e-36fc-4f9c-451f-cc305b248632">Review Question</title>
-      <exercise id="fs-idm53734080">
-        <problem id="fs-idp113880560">
-          <para id="fs-idm119842688">Czy nadwyżka handlowa oznacza napływ kapitału finansowego do gospodarki netto, czy analogiczny odpływ kapitału finansowego? A co z deficytem handlowym?</para>
+    <section id="fs-idp83821504" class="review-questions">
+      <title id="UUID1f70025d-2e70-4bd9-6544-2ff9c9a0cc67">Review Question</title>
+      <exercise id="fs-idp30541632">
+        <problem id="fs-idm95413664">
+          <para id="fs-idp73766896">Czy w ciągu ostatnich 40 lat bilans handlowy Stanów Zjednoczonych notował zazwyczaj nadwyżkę, deficyt, czy też był zrównoważony?</para>
         </problem>
       </exercise>
     </section>
-    <section id="fs-idp81651632" class="critical-thinking">
-      <title id="UUIDce744769-290d-4985-7513-82920da8784f">Critical Thinking Question</title>
-      <exercise id="fs-idp24166848">
-        <problem id="fs-idm5732128">
-          <para id="fs-idp150074992">Czy dla twojego kraju lepiej jest być międzynarodowym pożyczkodawcą, czy pożyczkobiorcą netto?</para>
+    <section id="fs-idm83857696" class="critical-thinking">
+      <title id="UUID2f726890-a6a8-49a6-5fab-f7134553cf48">Critical Thinking Questions</title>
+      <exercise id="fs-idp25909376">
+        <problem id="fs-idp15551472">
+          <para id="fs-idm2496400">Czy kraj, w którym relacja eksportu do PKB kształtuje się na poziomie zbliżonym do Polski (ok. 50%), jest twoim zdaniem bardziej narażony na globalne kryzysy finansowe w porównaniu z gospodarką, w której relacja eksportu do PKB jest bliska tej w USA (ok. 10%)?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm28598896">
+        <problem id="fs-idm5718096">
+          <para id="fs-idm23886160">Czy twoim zdaniem skala międzynarodowych przepływów finansowych zwiększałaby się wraz z usuwaniem barier ograniczających handel pomiędzy krajami?</para>
         </problem>
       </exercise>
     </section>
   </content>
-  <glossary id="UUIDe326a23a-f1aa-429e-47b7-77c3a7b99141">
-    <definition id="fs-idm82969984">
-      <term id="UUID280d0976-a384-4b81-70f2-4cb4e9942fbc">kapitał finansowy (ang. <foreign xml:lang="en" id="UUID975579c3-df0e-4af1-703d-d5635b2b8152"><term id="UUID10a4daac-f626-4a7d-4b75-56fd85a24e6b">financial capital</term></foreign>)</term>
-      <meaning id="fs-idm683776">
-        <para id="UUID4d18eb52-2f3f-4672-7116-ba69351dadac">środki pieniężne finansujące zakupy dóbr i usług oraz inwestycje </para>
+  <glossary id="UUID9160dd70-2ea1-4626-70ec-c50a3a8b3060">
+    <definition id="fs-idp111158832">
+      <term id="UUIDcf567f55-d565-4730-79dd-3be552f617a4">relacja wartości eksportu do PKB (ang. <foreign xml:lang="en" id="UUIDfa59f322-f427-43c5-7d09-82ad9d791290"><term id="UUID28a37423-27dd-4489-4c75-5a98f6f9a1f3">exports of goods and services as a percentage of GDP</term></foreign>)</term>
+      <meaning id="fs-idp148759376">
+        <para id="UUIDe5427145-9633-4bfd-669f-0f1ab76cb15d">wyrażona w jednostkach pieniężnych (złotych, dolarach) wartość eksportu podzielona przez wyrażoną w jednostkach pieniężnych wartość PKB danego kraju</para>
       </meaning>
     </definition>
   </glossary>

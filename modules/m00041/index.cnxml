@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U01a4f4ca-4866-41e8-a3b2-5ed5b9b1a94b" id="U01a4f4ca-4866-41e8-a3b2-5ed5b9b1a94b" xml:lang="en" cnxml-version="0.7">
-  <title>7.4 Rynek z perspektywy keynesowskiej UWAGA -SPRAWDZIĆ TYTUŁ</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ueb1eb015-b40e-478d-8ec0-8b739312bc30" id="Ueb1eb015-b40e-478d-8ec0-8b739312bc30" xml:lang="en" cnxml-version="0.7">
+  <title>7.3 Krzywa Phillipsa</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00041</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/01a4f4ca-4866-41e8-a3b2-5ed5b9b1a94b</md:content-url>
-    <md:title>7.4 Rynek z perspektywy keynesowskiej UWAGA -SPRAWDZIĆ TYTUŁ</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/eb1eb015-b40e-478d-8ec0-8b739312bc30</md:content-url>
+    <md:title>7.3 Krzywa Phillipsa</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:04.282936635+00:00</md:version>
-    <md:created>2023-08-30T08:02:04.282936635+00:00</md:created>
-    <md:revised>2023-08-30T08:02:04.282936635+00:00</md:revised>
+    <md:version>2023-09-11T10:25:08.827480923+00:00</md:version>
+    <md:created>2023-09-11T10:25:08.827480923+00:00</md:created>
+    <md:revised>2023-09-11T10:25:08.827480923+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,76 +20,161 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>01a4f4ca-4866-41e8-a3b2-5ed5b9b1a94b</md:uuid>
+    <md:uuid>eb1eb015-b40e-478d-8ec0-8b739312bc30</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUID7a9d77c9-hy56-4768-7033-08cffc2c4979" class="learning-objectives">
-      <para id="ch25tod04_p01">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <note type="note" id="UUID704d5026-9900-iu74-7c527b82d03b3911" class="learning-objectives">
+      <para id="ch25moj03_p01">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUID0e2c4124-a75f-4cf2-6652-1624f3f21f02">
-          <para id="UUID1e2f8a4c-778c-4a1b-7cd1-2a73593a13c3">Wyjaśnić, jak mechanizm rynkowy działa w ramach keynesowskiego modelu gospodarki</para>
+        <item id="UUIDd062b339-efc5-4567-6429-c63a4f47e2db">
+          <para id="UUID1bb0cc18-92de-4afa-4a54-a0d3a0640bc4">Wyjaśnić mechanizm krzywej Phillipsa i jej znaczenie dla ekonomii keynesowskiej</para>
         </item>
-        <item id="UUID83b54c25-faa4-4994-67d5-1753026751ab">
-          <para id="UUID67ff1ef9-6b88-4fc4-7229-82e9b4e971b6">Analizować rolę polityki makroekonomicznej państwa w gospodarce</para>
+        <item id="UUIDe3a0867a-2f8f-4446-5ad9-d5f17944af06">
+          <para id="UUID5669d319-1575-446a-58a7-c265ca296865">Narysować krzywą Phillipsa</para>
+        </item>
+        <item id="UUID05bf3395-2305-411c-5780-2c3f4f44fc52">
+          <para id="UUID04a6855b-eb49-4638-723d-a17b26ec5d20">Zidentyfikować czynniki, które przekładają się na brak stabilności krzywej Phillipsa</para>
+        </item>
+        <item id="UUIDd99cc142-3546-43dc-7645-5c7c447d8432">
+          <para id="UUID0399b403-c775-41dd-75c1-719f5b7eed28">Opisać metody ograniczania bezrobocia i inflacji zgodne z założeniami ekonomii keynesowskiej</para>
         </item>
       </list>
     </note>
-    <para id="UUID5a116d96-edbf-4be8-4d49-c6b8f0030366">Od narodzin ekonomii keynesowskiej w latach 30. XX w. narastały kontrowersje dotyczące zakresu interwencji państwa w gospodarce. Po Wielkim Kryzysie, który przyniósł bardzo wysoką stopę bezrobocia i wywołaną nim nędzę, wielu ludzi – w tym liczni ekonomiści – stało się bardziej świadomych słabości rynkowego mechanizmu koordynacji gospodarczej. Niektórzy zwolennicy ekonomii keynesowskiej opowiadali się w związku z tym za bardzo daleko idącą ingerencją państwa we wszystkie obszary gospodarki.</para>
-    <para id="UUID702bc71f-7d56-49ae-76ca-55e74cce0bbd">Sam Keynes uważał jednak, że należy oddzielić kwestię wpływu zagregowanego popytu na wielkość produkcji globalnej od wątpliwości dotyczących efektywności funkcjonowania konkretnych mikroekonomicznych rynków. Twierdził on, że poszczególne rynki dóbr i usług mogą z zasady funkcjonować w sposób efektywny, co nie zmienia tego, że czasem poziom popytu globalnego jest po prostu zbyt niski. Argumentował, że kiedy 10 mln ludzi chce i jest w stanie pracować, ale dla miliona z nich pracy nie ma, poszczególne rynki mogą sobie doskonale radzić z alokacją 9 mln pracowników. Problem polega jednak na tym, że istnieje niewystarczający popyt globalny, aby pracę znalazł ten dziesiąty milion. Dlatego Keynes uważał, że rząd powinien zapewnić taki poziom popytu globalnego, aby w gospodarce pojawiło się pełne zatrudnienie (które, jak wiemy, nie oznacza, że zjawisko bezrobocia nie występuje). Nie twierdził jednak, że rząd powinien ustalać ceny i płace w całej gospodarce czy też przejmować i bezpośrednio zarządzać dużymi korporacjami lub całymi branżami.</para>
-    <para id="ch25mod03_p02">Nawet jeśli zgadzamy się z ekonomią keynesowską, wiele pytań pozostaje bez odpowiedzi. Czy w prawdziwym świecie ekonomiści mogą dokładnie określić poziom potencjalnego PKB? Czy lepszą metodą osiągnięcia pożądanego wzrostu popytu globalnego jest obniżka podatków, czy zwiększenie wydatków państwa? Czy rozsądne jest oczekiwanie, że rząd będzie w stanie wdrożyć we właściwym momencie działania zalecane przez ekonomię keynesowską? Zwłaszcza że nieuniknione są niepewność i opóźnienia, związane choćby z czasem, jaki musi minąć pomiędzy pojawieniem się w gospodarce niekorzystnych zjawisk a momentem, w którym efekt przyniosą zastosowane przez rząd narzędzia. Czy zakończenie recesji naprawdę jest takie proste, jak opisują to zwolennicy keynesowskich rozwiązań? Kwestie te zostaną omówione w <link document="m00061" cmlnle:case="locative" id="UUIDd87ba4d2-7f8d-4703-7257-7290a33a6ae3" />. Podejście keynesowskie, skupiające się na popycie globalnym i lepkich cenach, okazało się przydatne w zrozumieniu wahań gospodarczych w krótkim okresie oraz przyczyn występowania recesji i bezrobocia cyklicznego. W kolejnym rozdziale przeanalizujemy niektóre ograniczenia keynesowskiego sposobu interpretacji modelu AD-AS i wyjaśnimy, dlaczego jest on nieodpowiedni do analizy zjawisk makroekonomicznych w długim okresie.</para>
-    <note type="note" id="ch25mod03_bring" class="bringhome economics">
-      <title id="UUID585af448-a893-4c56-77f3-318c7b3a7d23">Keynesowska perspektywa recesji wywołanej globalną pandemią</title>
-      <para id="UUID49c7da57-2409-4b91-649a-f95d015a2d10">Spowodowana przez globalną pandemię recesja z roku 2020 była niewątpliwie wyjątkowa. W przeciwieństwie do globalnego kryzysu finansowego z lat 2007–2009, wykorzystywanego jako empiryczne uzasadnienie teorii omawianej w niniejszym rozdziale, nie została ona zapoczątkowana przez pęknięcie bańki na rynku nieruchomości ani załamanie na giełdzie. Jej źródłem stał się wirus, który przyniósł śmierć milionom ludzi na całym świecie i wymagał wdrożenia absolutnie niestandardowych narzędzi polityki społecznej w celu kontroli i ograniczenia tempa rozprzestrzeniania się tego patogenu.</para>
-      <para id="UUID8d4ff4e0-4a40-4219-6469-85df5ceb9025">W pewnym sensie na ostatnią recesję miały wpływ wahania zagregowanego popytu. W momencie jej największego nasilenia, w kwietniu 2020 r., ponad 20 mln ludzi w USA było bezrobotnych, co spowodowało ogromny spadek konsumpcji i tym samym zagregowanego popytu. Ponieważ przedsiębiorstwa zostały zmuszone do wstrzymania działalności lub jej przeniesienia do przestrzeni wirtualnej, wiele podmiotów całkowicie wstrzymało inwestycje, gdyż jakiekolwiek przewidywania przyszłości wydawały się niemożliwe. Rząd federalny próbował ograniczyć gigantyczną skalę załamania zagregowanego popytu poprzez pożyczki dla małych i średnich przedsiębiorstw, bezpośrednią pomoc dla stanów i samorządów, rozszerzone ubezpieczenie od bezrobocia i czeki stymulacyjne. W wyniku tych wszystkich działań gospodarka była w stanie nieco się odbić w drugiej połowie roku. Jednak jeszcze na początku roku 2022 miliony ludzi pozostawało w USA bez pracy, gdyż w gospodarce utrzymywała się niepewność dotycząca możliwej kolejnej fali epidemii wskutek pojawienia się nowych wariantów koronawirusa.</para>
-      <para id="UUIDcce78a93-0495-4edd-643d-1a3861a80802">Wykorzystywane narzędzia były zgodne z keynesowskim podejściem do gospodarki. Państwo próbowało wspierać popyt globalny, odbudowując aktywność gospodarczą i stymulując wzrost zatrudnienia. Niestety, wzrost napięcia międzynarodowego i zbrojna napaść Rosji na Ukrainę w lutym 2022 r. postawiły przed gospodarką światową kolejne trudne wyzwania.</para>
-    </note>
+    <para id="ch25mod03_p01">Uproszczona wersja modelu AD-AS, którą wykorzystywaliśmy do tej pory, jest w pełni zgodna z oryginalnym podejściem Keynesa. Przeprowadzone w drugiej połowie XX w. badania wykazały jednak, że w rzeczywistości krzywa podaży globalnej nie łamie się pod kątem prostym, jak zostało to przedstawione w dotychczasowej części niniejszego rozdziału, lecz jest łagodnie zakrzywiona. W realnie istniejących gospodarkach krzywa AS jest faktycznie niemal płaska przy poziomach produkcji znacznie odbiegających in minus od poziomu potencjalnego („obszar keynesowski”), niemal pionowa przy wolumenie produkcji powyżej poziomu potencjalnego („obszar neoklasyczny”) i nachylona dodatnio (zakrzywiona) pomiędzy nimi („obszar pośredni”), spójrz na <link target-id="CNX_Econ_C25_034" cmlnle:case="accusative" id="UUID0d46f4cf-9a4c-49d3-73a3-31d37f68375c" />. Taki właśnie kształt (określany często jako typowy) krzywej podaży globalnej prowadzi nas do koncepcji krzywej Phillipsa.</para>
+    <figure id="CNX_Econ_C25_034">
+      <title id="UUIDfaebcf99-fe3c-4213-7f36-6e03641557d0">Obszary: keynesowski, neoklasyczny i pośredni na wykresie krzywej podaży globalnej</title>
+      <media alt="Wykres przedstawia trzy krzywe popytu globalnego przecinające krzywą podaży globalnej w trzech punktach, leżących na trzech różnych obszarach: keynesowskim (niemal całkowicie płaskim), pośrednim (łagodnie zakrzywionym w górę) i neoklasycznym (niemal pionowym)." id="mCNX_Econ_C25_034">
+        <image src="../../media//CNX_Econ_C25_034.svg" mime-type="image/svg+xml" id="UUID94e3ee0f-21ab-4832-616b-929df38ce76c" />
+      </media>
+      <caption id="UUID5787023d-2d65-4904-63b0-9bd5dec9f0da">Obszar keynesowski znajduje się najbliżej początku układu współrzędnych, obszar pośredni leży na środku wykresu, zaś obszar neoklasyczny jest położony po prawej stronie. W pobliżu punktu równowagi E<sub>k</sub>, tj. na obszarze keynesowskim znajdującym się po lewej stronie krzywej SAS, niewielkie przesunięcia krzywej AD w prawo lub w lewo doprowadzą do dużych zmian wielkości produkcji Y<sub>k</sub>, ale nie wpłyną znacząco na poziom cen. Na obszarze keynesowskim wielkość produkcji jest determinowana przede wszystkim przez popyt globalny. Z kolei w pobliżu punktu równowagi E<sub>n</sub>, tj. na obszarze neoklasycznym, występującym po prawej stronie krzywej SAS, niewielkie przesunięcia krzywej AD w prawo lub w lewo wywierają stosunkowo niewielki wpływ na wielkość produkcji Y<sub>n</sub>, ale silnie oddziałują na poziom cen. Na obszarze neoklasycznym prawie pionowa krzywa SAS, której przebieg niemal pokrywa się z poziomem potencjalnego PKB (reprezentowanego przez linię LAS), w dużej mierze determinuje wielkość produkcji. Wreszcie w strefie pośredniej, wokół punktu równowagi E<sub>i</sub>, przesunięcia krzywej AD w prawo powodują wzrost zarówno produkcji, jak i cen, zaś ruchy AD w lewo prowadzą do jednoczesnego spadku produkcji i cen.</caption>
+    </figure>
+    <section id="ch25mod03_01">
+      <title id="UUID2ec3edaa-076c-4947-4762-67090ba4c8a6">Odkrycie krzywej Phillipsa</title>
+      <para id="ch25mod03_p02">W latach 50. XX w. <term id="UUID8daa8b54-2d07-4bd0-698c-b982c658dfbc">A.W. Phillips</term>, ekonomista z London School of Economics, analizował keynesowski model funkcjonowania gospodarki. Wnioski wypływające z tego podejścia sugerowały, że podczas recesji presja inflacyjna jest niska, ale kiedy poziom produkcji jest równy lub nawet wyższy od potencjalnego, gospodarka staje się bardziej narażona na inflację. Phillips, wiedziony genialną intuicją, prześledził dane obrazujące stopy inflacji i bezrobocia w Wielkiej Brytanii z poprzednich 60 lat i odkrył relację wymienną pomiędzy tymi parametrami. To właśnie ta relacja wymienna (czasami nazywana wyborem typu „coś za coś”) jest znana jako <term id="UUID4d1bb786-714b-4d40-56b5-85cd99bc9c1a">krzywa Phillipsa</term> (ang. <foreign xml:lang="en" id="UUIDd9cb8ece-48f0-45cb-58ad-f0aca37b786d"><term id="UUIDd6d0e4d6-8941-4fb9-68dc-ba8f0544bb1a">Phillips curve</term></foreign>). Krzywą Phillipsa w teoretycznym ujęciu przedstawia <link target-id="CNX_Econ_C25_006" id="UUID49f0fc29-4a25-43c8-78ab-67dc632e6599" />. Poniższa ramka „Krok po kroku” pokazuje sposób wyznaczenia krzywej Phillipsa dla gospodarki Stanów Zjednoczonych.</para>
+      <figure id="CNX_Econ_C25_006">
+        <title id="UUIDb0505796-a683-4fe3-78d2-afed58047e68">Krzywa Phillipsa ukazująca keynesowską relację wymienną pomiędzy bezrobociem a inflacją</title>
+        <media alt="Wykres ilustruje krzywą Phillipsa, która jest nachyloną ujemnie, wypukłą hiperbolą." id="mCNX_Econ_C25_006">
+          <image src="../../media//CNX_Econ_C25_006.svg" mime-type="image/svg+xml" id="UUID0689c6ac-c1c2-47c9-78b4-940a4ea4aacb" />
+        </media>
+        <caption id="UUIDce017c61-5a07-435d-4a8d-db94a06a51c1">Krzywa Phillipsa pokazuje relację wymienną pomiędzy stopą bezrobocia a stopą inflacji. Oznacza ona, że jeśli jeden parametr rośnie, drugi maleje. Na przykład w punkcie A stopa inflacji wynosi 5%, a stopa bezrobocia 4%. Jeśli państwo spróbuje obniżyć inflację do 2%, nastąpi wzrost bezrobocia do 7%, co ilustruje punkt B.</caption>
+      </figure>
+      <note type="note" id="ch25mod03_workout01" class="economics workout">
+        <title id="UUID76426d20-6ed4-4c2c-7568-04bf1c7b32d0">Krzywa Phillipsa dla Stanów Zjednoczonych</title>
+        <para id="ch25mod03_p03">Krok 1. Odwiedź poniższą <link url="https://openstax.org/l/ERP2005" id="UUID584c74ee-d789-45b7-4186-274c9f5c9e27">tę stronę internetową</link>, aby zapoznać się z „Raportem ekonomicznym Prezydenta Stanów Zjednoczonych z 2005 r.”.</para>
+        <para id="ch25mod03_p04">Krok 2. Przewiń stronę w dół i znajdź Tabelę B-63 w Dodatku. Tabela nosi tytuł „Zmiany wskaźników cen konsumpcyjnych w latach 1960–2004” (Changes in special consumer price indexes, 1960–2004).</para>
+        <para id="ch25mod03_p10">Krok 3. Pobierz tabelę w formacie Excel, wybierając opcję XLS, a następnie wskazując na lokalizację, w której plik ma zostać zapisany.</para>
+        <para id="UUID60c3e024-cf41-4bf5-4882-090412794e15">Krok 4. Otwórz pobrany plik Excel.</para>
+        <para id="UUIDda68cb53-7354-44ac-5f13-28eef0784e64">Krok 5. Wyświetl trzecią kolumnę, zatytułowaną „Rok do roku” (Year to year). Jest w niej zawarta informacja o rocznych stopach inflacji mierzonych procentową zmianą wskaźnika cen towarów i usług konsumpcyjnych (CPI).</para>
+        <para id="UUID9c01c0cf-77c3-4976-62ad-e183d560a3c8">Krok 6. Wróć do strony głównej i przewiń ją w dół, aby znaleźć Tabelę B-42 „Stopa bezrobocia w latach 1959–2004” (Civilian unemployment rate, 1959–2004) w Dodatku.</para>
+        <para id="UUIDb504a5e4-cd01-4df4-62ca-4104ecc92823">Krok 7. Pobierz tabelę w formacie Excel.</para>
+        <para id="UUIDe3359fdc-eb19-431b-606c-1ee87d3989fc">Krok 8. Otwórz pobrany plik Excela i spójrz na drugą kolumnę. Zawiera ona informacje o stopie bezrobocia.</para>
+        <para id="UUID843681ed-b325-4417-6415-83fbc3a9e6b5">Krok 9. Na podstawie danych z tych dwóch tabel wykreśl krzywą Phillipsa dla lat 1960–1969, umieszczając stopę bezrobocia na osi poziomej (x), a stopę inflacji na osi pionowej (y). Twój wykres powinien wyglądać tak jak <link target-id="CNX_Econ_C25_032" id="UUID5d2732bd-6989-4116-7a25-d6ba0ad76874" />.</para>
+        <figure id="CNX_Econ_C25_032">
+          <title id="UUID7939dd2a-5968-49e0-70cf-941ffc0892f1">Krzywa Phillipsa w gospodarce amerykańskiej w latach 1960–1969</title>
+          <media alt="Krzywa Phillipsa dla Stanów Zjednoczonych pokazuje wyraźną ujemną korelację pomiędzy stopą bezrobocia a stopą inflacji w latach 1960–1969." id="mCNX_Econ_C25_032">
+            <image src="../../media//CNX_Econ_C25_032.svg" mime-type="image/svg+xml" id="UUIDc325a56c-3009-4cd4-6477-2ef04b93f243" />
+          </media>
+          <caption id="UUIDb3e5790c-896f-45b6-78fb-ae6c0fa5047d">Wykres pokazuje ujemną zależność pomiędzy bezrobociem a inflacją.</caption>
+        </figure>
+        <para id="ch25mod03_p12">Krok 10. Narysuj krzywą Phillipsa dla lat 1960–1979. Jak teraz wygląda wykres? Czy nadal widzisz relację wymienną pomiędzy inflacją a bezrobociem? Twój wykres powinien wyglądać tak jak <link target-id="CNX_Econ_C25_033" id="UUID7ba4c1db-41d2-49a1-42ea-1e0e00630a74" />.</para>
+        <para id="UUID60aefb27-4402-46e8-7eb7-d8747eff7dda" />
+        <figure id="CNX_Econ_C25_033">
+          <title id="UUIDf6a15abd-3930-4dee-61e6-1728a28f1327">Krzywa Phillipsa w USA w latach 1960–1979</title>
+          <media alt="Punkty odłożone na wykresie przestały przypominać typowy kształt krzywej Phillipsa. Oznacza to, że w latach 70. XX w. relacja wymienna pomiędzy bezrobociem a inflacją zanikła." id="mCNX_Econ_C25_033">
+            <image src="../../media//CNX_Econ_C25_033.svg" mime-type="image/svg+xml" id="UUIDffcf0f02-8093-4de5-534f-5346938400ee" />
+          </media>
+          <caption id="UUID4a254bdc-6846-414b-7bce-3a628331448a">Relacja wymienna pomiędzy inflacją a bezrobociem przestała istnieć, gdyż przy danym poziomie bezrobocia inflacja przyjmowała różne wartości, zaś krzywa Phillipsa przesunęła się w prawą stronę.</caption>
+        </figure>
+        <para id="ch25mod03_p13">Wydaje się, że w długim okresie krzywa Phillipsa się przesunęła. Relacja wymienna pomiędzy bezrobociem a inflacją zanikła.</para>
+      </note>
+    </section>
+    <section id="ch25mod02_02">
+      <title id="UUIDcca948b5-f652-440e-68bf-5ded27044205">Brak stabilności krzywej Phillipsa</title>
+      <para id="ch25mod03_p14">W latach 60. XX w. ekonomiści postrzegali krzywą Phillipsa jako element teorii uzasadniający wybór określonej kombinacji polityki gospodarczej (swoistą kartę menu w polityce gospodarczej). Społeczeństwo mogło wybierać między niską inflacją i wysokim bezrobociem, wysoką inflacją i niskim bezrobociem lub wariantami pośrednimi. Państwo mogło wykorzystywać politykę fiskalną i pieniężną, aby przesuwać się w górę lub w dół wzdłuż krzywej Phillipsa, zgodnie z preferencjami obywateli. Jednak na początku lat 70. zdarzyło się coś nieoczekiwanego. Pomimo zastosowania zestawu narzędzi polityki gospodarczej analogicznego do wykorzystywanych wcześniej doszło do zwiększenia zarówno stopy inflacji, jak i bezrobocia (zdarzyło się zatem coś, co było całkowicie sprzeczne z założeniami wbudowanymi w krzywą Phillipsa, czyli wyborem typu „coś za coś”). Jak to się stało? Otóż krzywa Phillipsa przesunęła się w prawo.</para>
+      <para id="UUID00c2648a-afa0-4fe7-67bd-900fd8a746ee">Gospodarka USA doświadczyła wzrostu inflacji i bezrobocia, gdy wpadła w głęboką recesję w latach 1973–1975 oraz ponownie w czasie wtórnych recesji w okresie 1980–1982. Wiele krajów na całym świecie odnotowało podobny wzrost bezrobocia i inflacji. Taki schemat określono mianem <term id="UUID29b738c6-fe44-4546-57e5-9d2043a2cc8b">stagflacji</term> (ang. <foreign xml:lang="en" id="UUIDb0d53f53-0b84-4267-6574-f3b22119ccee"><term id="UUID138f3877-b0fa-44bd-6076-e0319b6ac8d9">stagflation</term></foreign>). (Przypomnij sobie z rozdziału, w którym wprowadziliśmy model AD-AS (<link document="m00031" id="UUIDa6c7311b-50a8-4f1c-42e4-d97d65e677d5" />). że stagflacja jest groźną kombinacją wysokiego bezrobocia i wysokiej inflacji). Być może najważniejsze jest jednak to, że stagflacja okazała się zjawiskiem, którego tradycyjna ekonomia keynesowska nie potrafiła wyjaśnić.</para>
+      <para id="ch25mod03_p15">Ostatecznie ekonomiści doszli do wniosku, że przesunięcie krzywej Phillipsa jest konsekwencją działania dwóch czynników. Pierwszym z nich są szoki podażowe, takie jak kryzys naftowy z pierwszej połowy lat 70. XX w., który po raz pierwszy wprowadził do słownika ekonomicznego termin „stagflacja”. Drugim – zmiany w oczekiwaniach inflacyjnych społeczeństwa. Innymi słowy, relacja wymienna między <term cmlnle:reference="bezrobocie" id="UUID07e4acd1-2781-4d46-6906-5745666acd92">bezrobociem</term> (ang. <foreign xml:lang="en" id="UUID03e27c75-9441-41fc-55a0-843a5d894a6c"><term id="UUIDf89282f1-de28-4914-7955-5a94f0a32a9e">unemployment</term></foreign>) a <term cmlnle:reference="inflacja" id="UUID22dcda9e-17cf-4f0a-6df5-05a9d4e1298f">inflacją</term> (<foreign xml:lang="en" id="UUID0bfb39be-fb07-4430-75ec-fc7622c8faad"><term id="UUIDb691b4b9-8be5-4d10-7fad-ad790e7fec1e">inflation</term></foreign>) może się utrzymywać, dopóty społeczeństwo nie spodziewa się inflacji. Kiedy jednak ludzie zorientują się, że inflacja występuje, relacja wymienna zanika. Oba czynniki (szoki podażowe i zmiany oczekiwań inflacyjnych) powodują przesunięcie krzywej podaży globalnej, a tym samym krzywej Phillipsa.</para>
+      <para id="UUID5090e75b-286c-4b10-5596-8c3ce5f1d602">Krótko mówiąc, krzywa Phillipsa o klasycznym, ujemnym nachyleniu dobrze opisuje zachowanie gospodarki w krótkich, kilkuletnich okresach. W dłuższej perspektywie czasowej, gdy podaż globalna ulega istotnym wahaniom, opadająca krzywa Phillipsa może się przesunąć tak, że zarówno bezrobocie, jak i inflacja będą wyższe (np. w latach 70. i na początku lat 80. XX w.) lub niższe (jak na początku lat 90. ub. stulecia lub w pierwszej dekadzie XXI w.).</para>
+    </section>
+    <section id="ch25mod02_03">
+      <title id="UUID00fc02af-c2af-4a20-5755-66d44299ea6b">Keynesowskie sposoby ograniczania bezrobocia i inflacji</title>
+      <para id="ch25mod03_p18">Ekonomia keynesowska dowodzi, że receptą na wyjście z recesji jest <term id="UUID929fca96-237e-42c2-6668-7291549c61ae">ekspansywna polityka fiskalna</term> (ang. <foreign xml:lang="en" id="UUID57818d16-e5d8-40fe-78ff-46ef0a7167d1"><term id="UUIDc6ecfb95-0e51-432b-5807-a4ec38207b95">expansionary fiscal policy</term></foreign>), czyli obniżenie podatków w celu pobudzenia konsumpcji i inwestycji lub bezpośredni wzrost wydatków państwa, co przesunie krzywą popytu globalnego w prawo. Na przykład, jeśli początkową krzywą popytu globalnego jest AD<sub>r</sub> na <link target-id="CNX_Econ_C25_010" cmlnle:case="locative" id="UUID9dfc023c-a868-40a8-458f-70531cdb7b3c" />, to gospodarka znajduje się w recesji, a właściwą polityką państwa będzie przesunięcie krzywej popytu globalnego w prawo, z położenia AD<sub>r</sub> do AD<sub>f</sub>, co umożliwi gospodarce osiągnięcie poziomu potencjalnego PKB i pełne zatrudnienie.</para>
+      <para id="UUID64d0769c-ab71-4d58-72d9-c5783ff9c50b">Zdaniem Keynesa najlepiej byłoby wydawać dodatkowe środki na budowę mieszkań, dróg i inne ważne potrzeby społeczne. Jednocześnie twierdził jednak, że jeśli rząd nie może dojść do porozumienia w sprawie praktycznego sposobu wydawania pieniędzy, może je również przeznaczyć na niepotrzebne rzeczy. Keynes sugerował np. budowanie pomników, m.in. współczesnych odpowiedników egipskich piramid. Proponował także, aby rząd zakopał pieniądze pod ziemią i pozwolił przedsiębiorstwom górniczym je wydobywać. Te żartobliwe sugestie miały podkreślać, że Wielki Kryzys to nie czas na spieranie się o szczegóły rządowych programów wzrostu wydatków i obniżki podatków. Nadrzędnym celem w tym okresie powinno być zwiększenie popytu globalnego, aby gospodarka osiągnęła <term id="UUIDa0ac39cc-ffdb-4cab-5a8a-77280c16d48f">potencjalny PKB</term> (ang. <foreign xml:lang="en" id="UUIDd5308b49-9b6e-4791-59ae-cf8a383a26a3"><term id="UUIDf37f8bad-3e27-4185-78f0-490ede74e7ab">potential GDP</term></foreign>).</para>
+      <figure id="CNX_Econ_C25_010">
+        <title id="UUID02d1004a-e437-4d9d-4536-fa32e245634d">Ograniczanie skali recesji i inflacji za pomocą narzędzi polityki keynesowskiej</title>
+        <media alt="Wykres przedstawia trzy krzywe popytu globalnego o nachyleniu ujemnym, krzywą podaży globalnej o hiperbolicznym kształcie z wyraźnie oddzielonymi trzema obszarami (keynesowskim, pośrednim i neoklasycznym), a także wykreśloną na poziomie potencjalnego PKB krzywą długookresowej podaży globalnej LAS." id="mCNX_Econ_C25_010">
+          <image src="../../media//CNX_Econ_C25_010.svg" mime-type="image/svg+xml" id="UUID9029000c-7250-438d-7d0b-015544db45af" />
+        </media>
+      </figure>
+      <para id="UUIDfaf72349-e873-4db5-6067-7a75a92de98f"><link target-id="CNX_Econ_C25_010" id="UUID2a1b32e1-78be-4682-7ecb-eeefafc99576" /> Jeśli gospodarka pogrążona jest w recesji i równowaga występuje w punkcie E<sub>r</sub>, wówczas zgodnie z podejściem keynesowskim państwo powinno zastosować politykę skutkującą przesunięciem krzywej popytu globalnego w prawo, z położenia AD<sub>r</sub> do AD<sub>f</sub>. Jeśli gospodarka doświadcza inflacji z równowagą w punkcie E<sub>i</sub>, polityka zgodna z założeniami modelu keynesowskiego powinna objąć przesunięcie krzywej popytu globalnego w lewo, z położenia AD<sub>i</sub> do AD<sub>f</sub>.</para>
+      <para id="UUID61855805-d63d-408b-6a26-4ca5ec32ac17">W analogiczny sposób podejście keynesowskie można zastosować, gdy gospodarka znajduje się powyżej poziomu potencjalnego PKB. W takiej sytuacji bezrobocie jest niskie, a zagrożeniem jest inflacja. Zgodnie z założeniami modelu keynesowskiego państwo powinno wówczas prowadzić <term cmlnle:reference="restrykcyjna polityka fiskalna" id="UUIDa2bba43b-438e-469c-410c-9cd26aabe54f">restrykcyjną politykę fiskalną</term> (ang. <foreign xml:lang="en" id="UUID9979e4b8-f6dd-4dd1-65f5-03f0d586a49d"><term id="UUID6900fc7b-8f03-4f13-4153-c88dbc6016a8">contractionary fiscal policy</term></foreign>), polegającą na podwyższeniu podatków lub obniżeniu wydatków w celu przesunięcia krzywej popytu globalnego w lewo. Rezultatem będzie obniżenie poziomu cen przy nieznacznym spadku produkcji i niewielkim wzroście bezrobocia. Jeśli popyt globalny znajduje się początkowo w położeniu AD<sub>i</sub> na <link target-id="CNX_Econ_C25_010" cmlnle:case="locative" id="UUIDc9ad779e-11f4-43c9-66fa-5ce25d4c2c29" />, czyli gospodarka doświadcza inflacji, właściwą polityką państwa jest przesunięcie krzywej popytu globalnego w lewo, z położenia AD<sub>i</sub> do położenia AD<sub>f</sub>, co prowadzi do obniżenia cen przy utrzymaniu pełnego zatrudnienia.</para>
+      <para id="UUID737aee22-b61f-4ea6-6362-5c767413253e">W keynesowskim modelu gospodarki zbyt mały popyt globalny powoduje bezrobocie, a zbyt duży – inflację. Można więc myśleć o ekonomii keynesowskiej w kategoriach poszukiwania optymalnego poziomu popytu globalnego, który nie będzie ani za niski, ani za wysoki, pozwalając na osiągnięcie pożądanych wyników makroekonomicznych.</para>
+    </section>
     <section id="ch25mod03_summ" class="summary">
-      <title id="UUID7aa24b00-7419-492d-767b-1430a3d65a54">Podsumowanie</title>
-      <para id="ch25mod03_p04">Keynesowskie sposoby stabilizowania gospodarki wokół poziomu potencjalnego PKB zakładają aktywną interwencję państwa. Polega ona na zwiększaniu popytu globalnego (bezpośrednio, przez wyższe wydatki na zakup dóbr i usług, lub pośrednio, drogą stymulacji konsumpcji i inwestycji niższymi podatkami i wyższymi transferami), gdy maleją wydatki prywatne, i zmniejszaniu popytu globalnego, gdy wydatki prywatne rosną. Nie oznacza to, że rząd powinien regulować poziom cen i wielkość produkcji na poszczególnych rynkach.</para>
+      <title id="UUID5b981bea-895a-4827-577d-ee43dd5414b9">Podsumowanie</title>
+      <para id="UUIDefa90ce5-002c-4d3a-499d-6eb886c1b720">Krzywa Phillipsa ilustruje relację wymienną pomiędzy bezrobociem a inflacją. Założenia modelu keynesowskiego determinują ujemne nachylenie krzywej Phillipsa, tak aby wyższe bezrobocie oznaczało niższą inflację i odwrotnie. Jednak taki kształt krzywej Phillipsa, chociaż w krótkim okresie prawdziwy, w perspektywie długookresowej, kiedy krzywa Phillipsa przesuwa się w prawo i/lub w lewo, najczęściej nie występuje.</para>
+      <para id="UUIDa9f66d36-b719-4a91-5116-457d894693af">Zgodnie z modelem keynesowskim remedium na recesję jest ekspansywna polityka fiskalna, czyli obniżka podatków pobudzająca konsumpcję i inwestycje oraz/lub wzrost wydatków państwa. Taka polityka przesuwa krzywą popytu globalnego w prawo. Analogicznie jeśli gospodarka znajduje się powyżej poziomu potencjalnego PKB, czyli gdy bezrobocie jest niskie, a zagrożenie stanowi inflacja, również można zastosować rozwiązania wynikające z założeń modelu keynesowskiego. W takiej sytuacji państwo powinno prowadzić restrykcyjną politykę fiskalną polegającą na zwiększeniu podatków lub obniżeniu wydatków w celu przesunięcia krzywej AD w lewo.</para>
     </section>
     <section id="ch25mod03_sques" class="self-check-questions">
-      <title id="UUID08756bb4-f016-4715-6ec8-3c43fb5900ef">Pytania sprawdzające</title>
+      <title id="UUIDe7fc8424-6991-4265-5dd9-3e584e5326ba">Pytania sprawdzające</title>
       <exercise id="ch25mod03_sques01">
         <problem id="ch25mod03_squesp01">
-          <para id="ch25mod03_p05">Czy ekonomia keynesowska wymaga, aby państwo kontrolowało poziom cen, płac lub stóp procentowych?</para>
+          <para id="ch25mod03_p24">Jak na krzywą Phillipsa wpłynąłby spadek cen energii?</para>
         </problem>
         <solution id="ch25mod03_sques01s">
-          <para id="ch25mod03_p06">Ekonomia keynesowska nie wymaga żadnej kontroli cen. Zgodnie z ekonomią keynesowską państwo powinno jedynie wpływać na wielkość popytu globalnego w gospodarce poprzez politykę fiskalną – poziom swoich wydatków i wysokość podatków.</para>
-        </solution>
-      </exercise>
-      <exercise id="ch25mod03_sques02">
-        <problem id="ch25mod03_squesp02">
-          <para id="ch25mod03_p07">Wymień trzy praktyczne problemy związane z realizacją rekomendacji formułowanych przez zwolenników keynesowskiego podejścia do modelu AD-AS.</para>
-        </problem>
-        <solution id="ch25mod03_sques02s">
-          <para id="ch25mod03_p08">Problemy dotyczą np.: (a) zdolności państwa do oszacowania poziomu potencjalnego PKB, (b) ustalenia kanałów oddziaływania państwa na popyt globalny (czy lepiej jest zmieniać wysokość podatków, czy rozmiary wydatków państwa), (c) opóźnień związanych z tym, że efektywne wdrożenie narzędzi polityki gospodarczej stymulujących popyt globalny wymaga czasu.</para>
+          <para id="ch25mod03_p25">Spadek cen energii, czyli pozytywny szok podażowy, spowodowałby przesunięcie krzywej AS w prawo, co oznacza uzyskanie wyższego realnego PKB przy niższym poziomie cen. To przesunęłoby krzywą Phillipsa w dół, w kierunku początku układu współrzędnych. W efekcie w gospodarce zmniejszyłoby się zarówno bezrobocie, jak i inflacja.</para>
         </solution>
       </exercise>
     </section>
     <section id="ch25mod03_rques" class="review-questions">
-      <title id="UUIDe8cea736-9aae-439a-61c8-d777051d56d8">Sprawdź wiedzę</title>
+      <title id="UUID4a109979-8f7f-4eca-7dcb-2d8ba6dda369">Sprawdź wiedzę</title>
+      <exercise id="ch25mod03_rques01">
+        <problem id="ch25mod03_rquesp01">
+          <para id="ch25mod03_p26">Jaką relację wymienną ilustruje krzywa Phillipsa?</para>
+        </problem>
+      </exercise>
       <exercise id="ch25mod03_rques02">
         <problem id="ch25mod03_rquesp02">
-          <para id="ch25mod03_p11">W jaki sposób ekonomia keynesowska odnosiła się do zawodności rynku podczas Wielkiego Kryzysu?</para>
+          <para id="ch25mod03_p27">Czy spodziewasz się, że dane dotyczące długiego okresu potwierdzą istnienie trwałej, nachylonej ujemnie (w dół) krzywej Phillipsa?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch25mod03_rques03">
+        <problem id="ch25mod03_rquesp03">
+          <para id="ch25mod03_p28">Jaki jest keynesowski sposób na wyjście z recesji? A jaki na inflację?</para>
         </problem>
       </exercise>
     </section>
     <section id="ch25mod03_ctques" class="critical-thinking">
-      <title id="UUIDdfb5cc89-b2df-45c6-59ae-abd692d213f3">Ćwicz myślenie krytyczne</title>
+      <title id="UUIDde39d5cd-d202-4541-5bcb-0848c87ecb53">Ćwicz myślenie krytyczne</title>
       <exercise id="ch25mod03_ctques01">
         <problem id="ch25mod03_ctquesp01">
-          <para id="ch25mod03_p12">Zajrzyj jeszcze raz do Raportu ekonomicznego Prezydenta Stanów Zjednoczonych omówionego w Ramce „Krok po kroku” pt. „Krzywa Phillipsa dla Stanów Zjednoczonych” w poprzednim podrozdziale. Jak według ciebie w ciągu ostatnich kilkunastu lat zmieniły się wydatki publiczne w USA?</para>
-        </problem>
-      </exercise>
-      <exercise id="ch25mod03_ctques02">
-        <problem id="ch25mod03_ctquesp02">
-          <para id="ch25mod03_p13">Wyjaśnij, jakie działania może podjąć państwo w celu przywrócenia rozmiarów popytu globalnego do poziomu zapewniającego pełne zatrudnienie i jakie potencjalne przeszkody mogą napotkać politycy gospodarczy realizujący taką strategię.</para>
+          <para id="ch25mod03_p29">Czy uważasz, że krzywa Phillipsa również dziś jest użytecznym narzędziem analizy gospodarki? Uzasadnij swoją odpowiedź.</para>
         </problem>
       </exercise>
     </section>
     <section id="ch25mod03_ref" class="references">
-      <title id="UUID9cc143d8-d4ca-4529-5373-01dd22656df7">Bibliografia</title>
-      <para id="ch25mod03_ref01">Blinder, Alan S., and Mark Zandi. “How the Great Recession Was Brought to an End.” Last modified July 27, 2010. http://www.princeton.edu/~blinder/End-of-Great-Recession.pdf.</para>
+      <title id="UUIDbeb14e27-980d-4a5a-71a0-a9d8ce316240">Bibliografia</title>
+      <para id="ch25mod03_ref01">Hoover, Kevin. “Phillips Curve.” <emphasis effect="italics">The Concise Encyclopedia of Economics</emphasis>. http://www.econlib.org/library/Enc/PhillipsCurve.html.</para>
+      <para id="ch25mod03_ref02">U.S. Government Printing Office. “Economic Report of the President.” http://1.usa.gov/1c3psdL.</para>
     </section>
   </content>
+  <glossary id="UUID74931788-75c1-423b-5cea-18947e6451e0">
+    <definition id="ch25mod03_gl01">
+      <term id="UUID09ed0e5b-b297-4964-6284-474a80566f1b">restrykcyjna polityka fiskalna (ang. <foreign xml:lang="en" id="UUID18c6624e-eafd-4826-6e6c-55c0762576c3">contractionary fiscal policy</foreign>)</term>
+      <meaning id="ch25mod03_gl01m">
+        <para id="UUID815801b8-fed8-401e-7f2c-dc00c78f13f4">podwyżka podatków i/lub cięcia wydatków państwa mające na celu zmniejszenie popytu globalnego i spadek poziomu cen (obniżenie inflacji)</para>
+      </meaning>
+    </definition>
+    <definition id="ch25mod03_gl02">
+      <term id="UUID9dc9769f-db47-4d96-5c26-b42a376dd175">ekspansywna polityka fiskalna (ang. <foreign xml:lang="en" id="UUIDa46d2669-71ff-44ea-4280-4af449cdf081">expansionary fiscal policy</foreign>)</term>
+      <meaning id="ch25mod03_gl02m">
+        <para id="UUIDe41ba8ff-4a79-41c5-63a0-c34fac48c4a1">obniżka podatków i/lub wzrost wydatków państwa mające na celu pobudzenie popytu globalnego i wyprowadzenie gospodarki z recesji</para>
+      </meaning>
+    </definition>
+    <definition id="ch25mod03_gl03">
+      <term id="UUIDd7b3013b-53f3-4708-502b-49188ec0f774">krzywa Phillipsa (ang. <foreign xml:lang="en" id="UUID32372cd3-b8f4-422c-4831-1357ecd66848">Phillips curve</foreign>)</term>
+      <meaning id="ch25mod03_gl03m">
+        <para id="UUID34e9e650-adfa-421c-6b85-3d428854cb34">odwrotna zależność pomiędzy wielkością bezrobocia i inflacji</para>
+      </meaning>
+    </definition>
+  </glossary>
 </document>

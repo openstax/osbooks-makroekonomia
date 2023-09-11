@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ua08af72a-84a5-4643-8085-efbc6f5d8f12" id="Ua08af72a-84a5-4643-8085-efbc6f5d8f12" xml:lang="en" cnxml-version="0.7">
-  <title>9.4 Jak bank kreuje pieniądz</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uc0a93e12-e6f3-4314-be8b-d88a951fb972" id="Uc0a93e12-e6f3-4314-be8b-d88a951fb972" xml:lang="en" cnxml-version="0.7">
+  <title>9.3 Rola banków</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00050</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/a08af72a-84a5-4643-8085-efbc6f5d8f12</md:content-url>
-    <md:title>9.4 Jak bank kreuje pieniądz</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/c0a93e12-e6f3-4314-be8b-d88a951fb972</md:content-url>
+    <md:title>9.3 Rola banków</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:04.629716048+00:00</md:version>
-    <md:created>2023-08-30T08:02:04.629716048+00:00</md:created>
-    <md:revised>2023-08-30T08:02:04.629716048+00:00</md:revised>
+    <md:version>2023-09-11T10:25:11.745920385+00:00</md:version>
+    <md:created>2023-09-11T10:25:11.745920385+00:00</md:created>
+    <md:revised>2023-09-11T10:25:11.745920385+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,211 +20,224 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>a08af72a-84a5-4643-8085-efbc6f5d8f12</md:uuid>
+    <md:uuid>c0a93e12-e6f3-4314-be8b-d88a951fb972</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUID704d5026-y756-4432-2f8243826e62d49c" class="learning-objectives">
+    <note type="note" id="UUID704d5026-93c7-tr56-2f8243826e62d49c" class="learning-objectives">
       <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUID5e49d930-83b2-4670-45c8-fa69c89fc4ef">
-          <para id="UUID883e2bc4-a6a2-4ff8-4605-ab59a8d206e7">Wykorzystać wzór na mnożnik kreacji pieniądza, aby objaśnić, w jaki sposób banki kreują pieniądz bezgotówkowy</para>
+        <item id="UUID11b0c268-6c00-467a-71f9-8c7f41e1c584">
+          <para id="UUID8d87b463-6da3-4044-62b5-8257af2fa531">Wytłumaczyć, w jaki sposób banki działają jako pośrednicy pomiędzy oszczędzającymi a kredytobiorcami</para>
         </item>
-        <item id="UUID88bae964-0d3e-4bc4-5f4a-ced3a8a9f5c5">
-          <para id="UUIDae86053b-48dc-4550-6472-139c2bfa18c6">Analizować i samodzielnie układać proste bilanse zgodne ze schematem teowym</para>
-        </item>
-        <item id="UUIDfa65cb9c-6d9d-4b77-78db-8a43a7673c7e">
-          <para id="UUID39ca8a5c-8b22-40bd-6662-1b0ed3fc15f5">Wytłumaczyć ryzyko i korzyści dla gospodarki związane z istnieniem pieniędzy i sektora bankowego</para>
+        <item id="UUID684d5eda-adf5-40dd-656f-e88aa7e238fe">
+          <para id="UUID7ecd2304-b9c0-4314-5cdf-551ffa59cb7c">Analizować przyczyny bankructw banków i wyjaśnić, w jaki sposób sytuacja w sektorze bankowym przekłada się na występowanie recesji w gospodarce</para>
         </item>
       </list>
     </note>
-    <para id="fs-idm97044912">Banki i pieniądze pozostają ze sobą w nierozerwalnym związku. I nie chodzi tylko o to, że większa część podaży pieniądza ma formę zapisów na rachunkach bankowych. System bankowy może kreować pieniądz (tworzyć go dosłownie z niczego) poprzez proces udzielania pożyczek. W niniejszym podrozdziale dokładnie wytłumaczymy, w jaki sposób banki to robią.</para>
-    <section id="fs-idp41750032">
-      <title id="UUIDe7f6966a-7303-4885-6194-b1c6306731b8">Proces kreacji pieniądza przez jeden bank</title>
-      <para id="fs-idp71581536">Zacznijmy od hipotetycznego podmiotu o nazwie Bank Wyjątkowy, który ma depozyty o wartości 10 mln zł. Jego bilans w sytuacji, w której wszystkie depozyty są przechowywane w formie gotówki w skarbcu, jest przedstawiony na <link target-id="CNX_Econ_C27_005" document="" cmlnle:case="locative" id="UUIDee9ce4e6-97b1-428e-658a-2f2b8b7d2173" />. Na tym etapie Bank Wyjątkowy po prostu przechowuje pieniądze depozytariuszy i nie wykorzystuje ich do udzielania jakichkolwiek pożyczek czy kredytów (można powiedzieć, że jest nie tyle bankiem, co wielką skrytką depozytową). W tym uproszczonym przykładzie Bank Wyjątkowy nie uzyskuje żadnych dochodów z tytułu odsetek od udzielonych pożyczek i nie wypłaca depozytariuszom oprocentowania (aby pokryć koszty działalności, zapewne pobiera od nich opłatę za przechowywanie środków).</para>
-      <figure id="CNX_Econ_C27_005">
-        <title id="UUID4ee5c127-285f-47c3-4752-89a721263a6b">Bilans Banku Wyjątkowego: wpłata depozytów o wartości 10 mln zł</title>
-        <media alt="Po stronie aktywów (lewej) zapisane są rezerwy o wartości 10 mln zł, zaś po stronie pasywów (prawej) depozyty o takiej samej wartości." id="fs-idm101945056">
-          <image src="../../media//CNX_Econ_C27_005.svg" mime-type="image/svg+xml" id="UUID52b4d0c9-d04f-4fc1-547a-23bf09d8e131" />
+    <para id="UUID5f10c90d-444f-4cc9-48b3-d89de863b2f3">W czasie rozmowy bohaterów filmu „Vabank” w reż. Juliusza Machulskiego Henryk Kwinto (postać grana przez Jana Machulskiego) zapytany przez Moksa (Jacek Chmielnik), dlaczego „zrobił tyle banków”, odpowiada: „Tak naprawdę powód był zawsze ten sam – bo tam były pieniądze”. W dwudziestoleciu międzywojennym (w tym czasie rozgrywa się akcja filmu) była to zapewne prawda, jednak z perspektywy współczesnych ekonomistów Kwinto zarówno rację ma, jak i jej nie ma. Myli się, ponieważ przytłaczająca większość pieniędzy we współczesnej gospodarce nie ma postaci banknotów (i bilonu) zalegających w skarbcach banków i czekających na pojawienie się rabusia. Są to po prostu informacje o środkach przechowywanych na rachunkach bankowych, które istnieją wyłącznie w formie elektronicznych zapisów księgowych. Jednak patrząc z szerszej perspektywy, „pierwszemu kasiarzowi Rzeczypospolitej” nie można odmówić racji. Banki są ściśle powiązane z pieniędzmi, a co za tym idzie – z szeroko rozumianą gospodarką.</para>
+    <para id="UUID445a2dd1-1d74-4e6a-4d59-3bc60dc3e8ae">Banki znacznie ułatwiają przeprowadzanie bardzo wielu transakcji na rynkach dóbr i usług oraz czynników produkcji we współczesnej niezwykle złożonej gospodarce. Wyobraź sobie przez chwilę, jak wyglądałaby gospodarka, gdyby każdy musiał dokonywać wszystkich płatności gotówką. Robiąc duże zakupy (samochodu, nieruchomości czy innych dóbr trwałego użytku) lub wyjeżdżając na wakacje, musiałbyś nosić nawet dziesiątki tysięcy złotych w kieszeni lub portfelu (o ile w jakimkolwiek portfelu taką ilość gotówki dałoby się zmieścić). Nawet małe firmy potrzebowałyby pokaźnych zapasów gotówki, aby zapłacić pracownikom i kupić surowce do produkcji. Banki umożliwiają gospodarstwom domowym i przedsiębiorstwom przechowywanie pieniędzy na rachunkach bieżących, a następnie wypłacanie tych środków w stosownym momencie za pomocą przelewu lub karty debetowej.</para>
+    <para id="UUID9532df19-089a-4e1f-5cc6-0fe50600798b">Banki są ważnym pośrednikiem w tzw. <term id="UUID391922c0-d8a6-4bbb-7159-01cc507a6bbc">systemie płatniczym</term> (ang. <foreign xml:lang="en" id="UUIDe6c99799-4ed3-43f4-58f7-65d013455c61"><term id="UUID6f01f9d2-77d5-404f-6a24-81856d92bb2a">payment system</term></foreign>), który ułatwia wymianę towarów i usług na pieniądze lub inne aktywa finansowe. Ci, którzy mają dochody wyższe od bieżących wydatków (czyli oszczędzają), mogą przechowywać je w banku, zamiast szukać osoby, która byłaby skłonna je od nich pożyczyć, by następnie spłacić w późniejszym terminie wraz z uzgodnionym procentem. Ci, którzy chcą wziąć pożyczkę lub kredyt, mogą udać się bezpośrednio do banku, zamiast szukać źródła funduszy wśród rodziny i znajomych. Czas niezbędny na znalezienie posiadacza kapitału, który byłby skłonny go pożyczyć, wchodzi w skład <term id="UUID1ca5e721-6fa9-424d-67b7-713f5ee688fe">kosztów transakcyjnych</term> (ang. <foreign xml:lang="en" id="UUID01e18c1e-ea8b-45be-6a8d-3125c482600a"><term id="UUID67a00603-27ab-473b-7a2a-4c0677acd054">transaction costs</term></foreign>). Banki obniżają koszty transakcyjne i działają jako pośrednicy finansowi, kontaktując oszczędzających i kredytobiorców. Dzięki bankom tego typu transakcje są po prostu znacznie bezpieczniejsze i łatwiejsze. Nie można jednak zapominać, że sektor bankowy odgrywa również kluczową rolę w procesie tworzenia pieniądza.</para>
+    <section id="fs-idp53871648">
+      <title id="UUID49f175da-b37e-4983-5544-eb8a2dc6ba0a">Banki jako pośrednicy finansowi</title>
+      <para id="fs-idm18311520">Pośrednik to podmiot, który stoi między dwiema stronami jakiegoś procesu (w naszym przypadku będą to najczęściej dwie strony transakcji). Banki są <term id="UUIDf57fb838-11ca-4759-7345-5c838d60debc">pośrednikami finansowymi</term> (ang. <foreign xml:lang="en" id="UUIDbab2438f-14c9-45c5-7985-b0e013c9cefa"><term id="UUIDcd77094f-7d46-424a-50ef-84db2757bd05">financial intermediary</term></foreign>), czyli podmiotami działającymi między oszczędzającymi, którzy deponują w nich pieniądze, a kredytobiorcami, którzy potrzebują kapitału i w związku z tym zaciągają kredyt lub pożyczkę (różnica pomiędzy kredytem i pożyczką została wyłożona w czasie kursu mikroekonomii, na potrzeby niniejszego rozdziału będziemy te produkty – nieco rzeczywistość upraszczając – traktować jako idealne substytuty). Pośrednikami finansowymi są również inne podmioty działające na rynku finansowym, np. firmy ubezpieczeniowe i fundusze emerytalne. Nie będziemy ich jednak uwzględniać w naszej analizie, ponieważ nie są one <term id="UUID7c4e1653-8818-45c7-6861-c013df95dd5b">instytucjami depozytowymi</term> (ang. <foreign xml:lang="en" id="UUID5b90b9b9-f776-45fa-6b07-35e5308909e9"><term id="UUID61780407-505e-435f-4a62-46c10f223bf9">depository institutions</term></foreign>), czyli nie przyjmują depozytów pieniężnych, które mogłyby zostać wykorzystane do udzielania pożyczek. Wszystkie zdeponowane środki pieniężne łączą się w jedną wielką pulę, którą banki wykorzystują do pożyczania kapitału. <link target-id="CNX_Econ_C27_002" document="" id="UUID3722c6a6-8be1-498d-4a38-55e38f7d5a3f" /> przedstawia pozycję banków jako pośredników finansowych, do których napływają depozyty, zaś wypływają kredyty. Udzielając przedsiębiorstwom pożyczek, banki będą starały się kierować kapitał finansowy do firm w dobrej kondycji, dających większe gwarancje spłaty kapitału, a nie do przedsiębiorstw, które ponoszą straty bądź balansują na krawędzi rentowności i mogą zbankrutować, nie regulując wszystkich swoich zobowiązań.</para>
+      <figure id="CNX_Econ_C27_002">
+        <title id="UUIDd905a5d9-0e92-4d6d-7b46-76e745f9fbc3">Banki jako pośrednicy finansowi</title>
+        <media alt="Ilustracja przedstawia transakcje w ruchu okrężnym pomiędzy oszczędzającymi i kredytobiorcami, w których banki odgrywają rolę pośrednika. Oszczędzający składają depozyty w bankach, a te wypłacają im ich kapitał wraz z odsetkami. Dzięki tym środkom banki udzielają pożyczek i kredytów, które są spłacane przez pożyczkobiorców wraz z odsetkami." id="fs-idm15660896">
+          <image src="../../media//CNX_Econ_C27_002.svg" mime-type="image/svg+xml" id="UUIDbe5234f9-efb2-4532-400a-6d4328f61ce2" />
+        </media>
+        <caption id="UUID5bc38b7e-95ef-413a-731a-00f93376d601">Banki działają jako pośrednicy finansowi, ponieważ umożliwiają zawarcie transakcji oszczędzającym i kredytobiorcom. Oszczędzający lokują depozyty w bankach, za co są wynagradzani odsetkami. Odsetki te płacą kredytobiorcy, którzy pożyczyli pieniądze z banków, a następnie je spłacili. W istocie stronami transakcji są pożyczający kapitał i ci, którzy go udostępniają, zaś banki tylko pomiędzy nimi pośredniczą, za co pobierają wynagrodzenie (odsetki od kredytów są wyższe niż oprocentowanie depozytów).</caption>
+      </figure>
+    </section>
+    <section id="fs-idp37902256">
+      <title id="UUID6423d920-c0ad-4d55-5c9a-f2b048e0d840">Bilans banku</title>
+      <para id="UUID78620819-93e1-4118-50d3-1412d1d312bb"><term id="UUIDad2d8de0-321f-4e1b-589e-2343fa09ad93">Bilans</term> (ang. <foreign xml:lang="en" id="UUIDdacbd71d-5fbb-4098-6f9a-beebaf585083"><term id="UUIDe385a84a-5edc-4d20-4c6c-aa7c46df55e9">balance sheet</term></foreign>) jest dokumentem księgowym zawierającym zestawienie aktywów i pasywów w pewnym punkcie w czasie (w Polsce najczęściej na koniec roku kalendarzowego). <term id="UUIDb528411e-016a-4904-6e9c-514e964660ea">Aktywa</term> (ang. <foreign xml:lang="en" id="UUID77c4449c-9094-49e3-6832-fb0ea70f016d"><term id="UUID7008a5cc-00f7-4ead-4443-97e8596be7c0">asset</term></foreign>) to coś, co przedsiębiorstwo posiada, co ma swoją wartość i może służyć do wytworzenia lub sprzedaży dóbr i usług, będących przecież głównym celem każdej firmy. Na przykład dzięki flocie aut ciężarowych można transportować towary na zlecenie i w ten sposób zarabiać pieniądze. <term id="UUIDb9c2bb9b-f987-4f7a-68b2-5817f71a66dd">Pasywa</term> (ang. <foreign xml:lang="en" id="UUID5042cde4-4171-4c4a-7856-f246ca5213ef"><term id="UUIDba83eabd-798d-4ef4-573a-3eaa02cfc7c4">liability</term></foreign>), czyli zobowiązania, to dług lub to, co firma jest komuś winna. Jeśli część lub wszystkie samochody ciężarowe posiadane przez konkretne przedsiębiorstwo transportowe zostały zakupione na kredyt, to ciężarówki są składnikiem aktywów, zaś wartość zaciągniętego kredytu zapiszemy po stronie zobowiązań firmy, czyli pasywów. <term id="UUIDbbca0a26-26af-468f-4885-cca3991a2dcd">Wartość netto</term> (ang. <foreign xml:lang="en" id="UUID1621feb0-d77c-49c2-76cd-07b4be9f18dc"><term id="UUIDb2f99615-00bc-4b56-5ea2-d2470ac2be27">net worth</term></foreign>) to wartość aktywów pomniejszona o kwotę zadłużenia (zobowiązania). Bilans banku tworzony jest na podobnych zasadach. Wartość netto banku to <term id="UUID8bc149f2-cd41-4f9d-5fdf-d37d786fc768">kapitał banku</term> (ang. <foreign xml:lang="en" id="UUID18269656-9a1e-4f0f-516c-13e75d6ccdd5"><term id="UUID1ca7ea07-6278-494b-560a-edb05bfe84c5">bank capital</term></foreign>). Aktywami banku są: gotówka przechowywana we własnych skarbcach, środki utrzymywane w Narodowym Banku Polskim (zwane rezerwami), pożyczki i kredyty udzielane klientom oraz zakupione papiery wartościowe emitowane przez inne podmioty.</para>
+      <para id="fs-idp58024400"><link target-id="CNX_Econ_C27_004" document="" id="UUID2898d45d-ee8b-4023-6985-71e26a0f4cf2" /> przedstawia uproszczony bilans hipotetycznego banku (Bezpiecznego Banku). Bilans ma dwukolumnowy format, a dzielące go linie – jak łatwo zauważyć – tworzą kształt podobny do litery T, dlatego czasem nazywamy go <term cmlnle:reference="„teowy” schemat konta" id="UUID4b4996e8-e301-4e5e-47e6-d457227b69d0">„teowym” schematem konta</term> (ang. <foreign xml:lang="en" id="UUID9312ec8e-6991-43be-6792-e88616b6f63f"><term id="UUID11d0581f-3036-40e9-6b61-eca9446b2408">T-account</term></foreign>).</para>
+      <figure id="CNX_Econ_C27_004">
+        <title id="UUIDf6ed995f-7806-44cf-7d57-6e9106d4e336">Bilans Bezpiecznego Banku</title>
+        <media alt="Aktywa, zapisane w kolumnie po lewej stronie teowego schematu konta, to: udzielone pożyczki (5 mln zł), zakupione rządowe papiery wartościowe (4 mln zł) i utworzone rezerwy (2 mln zł). W kolumnie po prawej stronie wpisane zostały zobowiązania, czyli pasywa banku, wraz z jego wartością netto. Są to odpowiednio: przyjęte depozyty (10 mln zł) i wartość netto (1 mln zł)." id="fs-idp88978256">
+          <image src="../../media//CNX_Econ_C27_004.svg" mime-type="image/svg+xml" id="UUIDd4baa7f8-ab1d-40fe-4e74-d430e99219ed" />
         </media>
       </figure>
-      <para id="UUIDc7081b5c-edd4-46b2-7ecf-2c73b003d092">Bank centralny wymaga, aby analizowany podmiot utrzymywał 10% wartości depozytów jako rezerwę (co stanowi 1 mln zł). Pozostałe 9 mln zł Bank Wyjątkowy może wykorzystać, aby udzielać kredytów i pożyczek. Jeśli uda mu się znaleźć chętnych na całą tę kwotę, naliczy odsetki od pożyczonego kapitału, dzięki czemu będzie dysponował środkami, które umożliwią mu zapłatę odsetek depozytariuszom i uzyskanie dochodów odsetkowych pokrywających koszty funkcjonowania i wypłatę zysku jego właścicielom (różnica pomiędzy oprocentowaniem kredytów i depozytów nazywana jest marżą odsetkową i stanowi, oprócz różnego rodzaju opłat i prowizji, podstawowe źródło przychodów każdego banku). Aby utrzymać przejrzystość analizowanego przykładu, na razie nie umieszczamy przychodów z odsetek w bilansie banku. Zwróć uwagę, że wraz z decyzją o udzielaniu kredytów i pożyczek Bank Wyjątkowy przestał być wyłącznie skrytką depozytową, a stał się w pełnym tego słowa znaczeniu bankiem, czyli pośrednikiem finansowym pomiędzy oszczędzającymi a kredytobiorcami.</para>
-      <para id="fs-idm26667440">Opisane wyżej posunięcie oznacza zmiany w bilansie Banku Wyjątkowego, co zostało przedstawione na <link target-id="CNX_Econ_C27_006" document="" cmlnle:case="locative" id="UUIDd93feaf9-03ee-40bb-6d90-6f4145b29515" />. Teraz ma on 1 mln zł w rezerwach i pożyczkę o wartości 9 mln zł udzieloną firmie Janek Autonaprawy. Po stronie pasywów w dalszym ciągu widnieją depozyty o wartości 10 mln zł.</para>
-      <para id="UUID0357974a-8d76-4a51-6703-62a18151ae33" />
-      <figure id="CNX_Econ_C27_006">
-        <title id="UUID5b867dcc-c9df-413d-6d53-793efc83cdd4">Bilans Banku Wyjątkowego: rezerwy w wysokości 10% depozytów, pierwsza runda pożyczek</title>
-        <media alt="Po stronie aktywów (lewej) zapisane są rezerwy o wartości 1 mln zł i pożyczka w wysokości 9 mln zł, zaś po stronie pasywów (prawej) depozyty o wartości 10 mln zł." id="fs-idm68693616">
-          <image src="../../media//CNX_Econ_C27_006.svg" mime-type="image/svg+xml" id="UUIDd7f536a7-d953-40b3-47c8-8dbe03f770fa" />
-        </media>
-      </figure>
-      <para id="UUID7a046d9a-7861-4c4e-507e-b38616fc1cef">Bank Wyjątkowy pożycza 9 mln zł firmie Janek Autonaprawy. Bank rejestruje tę pożyczkę, dokonując odpowiedniej adnotacji w swoim bilansie. Pożyczka jest zapisana po stronie aktywów, ponieważ będzie generować dochód odsetkowy dla banku. Oczywiście, pan Janek, właściciel firmy, nie wyjdzie z banku, niosąc 9 mln w gotówce. Byłoby to nie tylko niebezpieczne, ale również nielegalne (w UE istnieją ograniczenia dotyczące wartości transakcji gotówkowych, jakich mogą dokonywać przedsiębiorstwa). Zgodnie z dyspozycją pana Janka Bank Wyjątkowy dokona przelewu tej kwoty na jego rachunek firmowy (dostępny na żądanie) utrzymywany w Pierwszym Banku Krajowym. Dzięki temu wartość depozytów w Pierwszym Banku Krajowym wzrośnie o 9 mln zł, o podobną kwotę powiększą się również jego rezerwy, tak jak to pokazano na <link target-id="CNX_Econ_C27_007" document="" cmlnle:case="locative" id="UUID29016037-9290-447c-481e-c7abf2357e5f" />. Podmiot ten, podobnie jak wszystkie inne banki komercyjne, musi utrzymywać 10% wartości depozytów w formie rezerw gotówkowych, ale resztę może pożyczyć.</para>
-      <para id="UUID7fa7164c-4382-4104-64d8-10da1a5bd511" />
-      <figure id="CNX_Econ_C27_007">
-        <title id="UUIDc30efea2-598d-4dae-686e-495170f8e709">Zmiana w bilansie Pierwszego Banku Krajowego</title>
-        <media alt="Po stronie aktywów (lewej) dopisane zostały rezerwy o wartości 9 mln zł, zaś po stronie pasywów (prawej) depozyty o takiej samej wartości." id="fs-idm64938768">
-          <image src="../../media//CNX_Econ_C27_007.svg" mime-type="image/svg+xml" id="UUIDc8910089-9425-4e00-4e17-8117ae3242c0" />
-        </media>
-      </figure>
-      <para id="fs-idp101495136">Udzielanie pożyczek dzięki środkom zdeponowanych na rachunkach depozytowych zwiększa podaż pieniądza M1. Pamiętaj, że definicja agregatu pieniężnego M1 obejmuje depozyty na żądanie, które można łatwo wykorzystać do zakupu dóbr i usług (wystarczy posłużyć się kartą debetową lub wypłacić pieniądze z bankomatu). Zauważ, że podaż pieniądza wynosi teraz 19 mln zł: 10 mln zł w depozytach Banku Wyjątkowego i 9 mln zł w depozytach Pierwszego Banku Krajowego (początkowa podaż pieniądza wynosiła tylko 10 mln zł). Oczywiście, ponieważ właściciel firmy Janek Autonaprawy opłaca drobne rachunki i zakup części za pomocą firmowej karty debetowej, wartość depozytów będzie się zmniejszać. Niemniej jeśli regulacje bankowe określają minimalną wysokość rezerw na 10% wartości wkładów, nadwyżkę można przeznaczyć na kredyty i pożyczki. W naszym przykładzie pożyczka zwiększyła podaż pieniądza o 9 mln zł.</para>
-      <para id="UUID41150e22-a424-40d0-7c03-5c0ba71c1436">Pierwszy Bank Krajowy, posiadając depozyty o wartości 9 mln zł, musi utrzymywać rezerwy w wysokości jedynie 10% wartości depozytów (900 tys. zł), w związku z czym może pożyczyć pozostałe 90% wartości depozytów (8,1 mln zł) firmie Jacek Uczciwy Autohandel, co pokazuje <link target-id="CNX_Econ_C27_008" document="" id="UUIDbf7cb863-905c-4351-4b94-21131bf7bcee" />.</para>
-      <figure id="CNX_Econ_C27_008">
-        <title id="UUIDb9e26839-2574-47fe-7b64-85ef62a42fa5">Kolejna zmiana w bilansie Pierwszego Banku Krajowego</title>
-        <media alt="Po stronie aktywów (lewej) zapisane są rezerwy o wartości 900 tys. zł i pożyczki w wysokości 8,1 mln zł, zaś po stronie pasywów (prawej) depozyty o wartości 9 mln zł." id="fs-idp809728">
-          <image src="../../media//CNX_Econ_C27_008.svg" mime-type="image/svg+xml" id="UUIDd1c0c5f9-67f8-4660-51d8-6ecf0b7463e6" />
-        </media>
-      </figure>
-      <para id="UUIDae253c88-3503-4ee0-45ca-5851582e7cc8">Jeśli właściciel firmy Jacek Uczciwy Autohandel zdeponuje tę pożyczkę na rachunku bieżącym w Drugim Banku Krajowym, podaż pieniądza wzrośnie o dodatkowe 8,1 mln zł, co łatwo dostrzec na <link target-id="CNX_Econ_C27_009" document="" cmlnle:case="locative" id="UUID1bb9fe45-0bf7-4301-5f9b-686dca1ce391" />.</para>
-      <figure id="CNX_Econ_C27_009">
-        <title id="UUID098bbd7a-2215-473b-6f54-38932b40f5fb">Zmiana w bilansie Drugiego Banku Krajowego</title>
-        <media alt="Po stronie aktywów (lewej) dopisane zostały rezerwy w wysokości 8,1 mln zł, zaś po stronie pasywów (prawej) depozyty o takiej samej wartości." id="fs-idp136276000">
-          <image src="../../media//CNX_Econ_C27_009.svg" mime-type="image/svg+xml" id="UUID32cc03ef-b6b1-4cef-5cb1-b5ab7b56bcdf" />
-        </media>
-      </figure>
-      <para id="UUIDb2acddde-ab94-472a-6fa5-749a8c6645fe">Jak takie kreowanie pieniądza (czyli tworzenie go z niczego) jest możliwe? Otóż wynika to z faktu, że w systemie bankowym istnieje wiele podmiotów, które są zobowiązane do przechowywania jedynie niewielkiej części depozytów w formie gotówkowych rezerw (w naszym przykładzie jest to 10%). Resztę mogą zamienić na kredyt, który zostanie zdeponowany w innym banku i już jako depozyt na żądanie powiększy wartość agregatu pieniężnego M1, a tym samym podaż pieniądza.</para>
-      <note type="note" id="fs-idm43170752" class="economics linkup">
-        <para id="fs-idp49860960">Obejrzyj to <link url="http://openstax.org/l/createmoney" id="UUID5ba42e28-baed-44eb-6b44-37c25790fcd0">wideo</link>, aby dowiedzieć się więcej o tym, w jaki sposób banki kreują pieniądz bezgotówkowy.</para>
+      <para id="UUID3c5663a2-6cc7-491e-7d69-b02a756c08ce">Linie układające się w kształt litery T na teowym schemacie konta oddzielają aktywa firmy po lewej stronie od jej pasywów po stronie prawej. Wszystkie firmy korzystają z takiej formy zapisu, chociaż oczywiście w realnym świecie liczba pozycji zarówno po stronie aktywów, jak i pasywów jest znacznie większa niż w naszym przykładzie. W przypadku banku aktywa to zasoby, które bank posiada (jego rezerwy) lub instrumenty, które potwierdzają należności banku u podmiotów trzecich, takie jak pożyczki i kredyty udzielone przez bank, jak również rządowe papiery wartościowe, np. obligacje i bony skarbowe. Pasywa z kolei to wszystkie zobowiązania banku wobec podmiotów zewnętrznych. W szczególności bank jest zobowiązany do spłaty wszystkich depozytów złożonych w nim przez gospodarstwa domowe i przedsiębiorstwa. Wartość netto banku to kwota aktywów pomniejszona o sumę pasywów. Wartość netto jest uwzględniana po stronie pasywów, aby saldo na teowym koncie było równe zero (aktywa równały się pasywom). Dla przedsiębiorstw znajdujących się w dobrej kondycji wartość netto będzie zazwyczaj dodatnia, z kolei te, które bankrutują, będą miały ujemną wartość netto. Niemniej w obu przypadkach aktywa banku będą zawsze równe jego pasywom powiększonym o wartość netto.</para>
+      <para id="fs-idp49211072">Gdy klienci banku wpłacają pieniądze na rachunek oszczędnościowo-rozliczeniowy lub lokatę, bank traktuje te depozyty jako własne zobowiązania. W końcu bank jest zobowiązany do spłaty środków znajdujących się na kontach klientów, gdy będą oni chcieli wypłacić swoje pieniądze. W przykładzie na <link target-id="CNX_Econ_C27_004" document="" cmlnle:case="locative" id="UUIDf7d3c627-bc1d-4c49-5251-92aa81050591" />, bank ma 10 mln złotych w depozytach.</para>
+      <para id="fs-idp22092592">Udzielone pożyczki i kredyty to pierwsza z kategorii aktywów bankowych na <link target-id="CNX_Econ_C27_004" document="" cmlnle:case="locative" id="UUIDa9f2c718-5777-410f-6897-c2c497ebf86d" />. Przyjmijmy, że gdy gospodarstwo domowe zaciąga 30-letni kredyt hipoteczny na zakup domu, będzie spłacać ten kredyt przez trzy dekady. Kredyt jest elementem aktywów banku, ponieważ kredytobiorca ma prawny obowiązek jego spłaty. Jak w praktyce możemy zmierzyć dzisiejszą wartość kredytu hipotecznego, który kredytobiorca będzie spłacał przez kolejnych 30 lat? Jednym z uniwersalnych sposobów mierzenia wartości – pożyczki czy czegokolwiek innego – jest oszacowanie, ile taki instrument jest wart na rynku. Wiele banków udziela kredytów mieszkaniowych i pobiera za to różnego rodzaju opłaty manipulacyjne, a następnie sprzedaje kredyty innym bankom lub instytucjom finansowym, którym ostatecznie są one spłacane. Rynek, na którym instytucje finansowe udzielają kredytów i pożyczek, jest pierwotnym rynkiem kredytowym, natomiast ten, na którym instytucje finansowe kupują i sprzedają te kredyty, nazywamy wtórnym rynkiem kredytowym.</para>
+      <para id="UUIDcb32b2fc-9a11-43b3-76b2-a0e3f491e990">Jednym z kluczowych czynników wpływających na cenę, jaką instytucje finansowe są skłonne zapłacić za pożyczkę lub kredyt kupowane na rynku wtórnym, jest ryzyko związane z tym instrumentem finansowym, szacowane np. w oparciu o cechy pożyczkobiorcy: jego dotychczasową historię kredytową, poziom dochodów, a także kondycję gospodarki. Im większe ryzyko, że pożyczkobiorca nie spłaci pożyczki, tym jej cena jest niższa. Innym kluczowym czynnikiem wpływającym na atrakcyjność danego kredytu lub pożyczki na rynku wtórnym jest porównanie stopy procentowej obciążającej pierwotną pożyczkę z aktualną stopą procentową w gospodarce. Jeśli pierwotna pożyczka została udzielona po niskiej stopie procentowej, a obecne stopy procentowe są stosunkowo wysokie, wówczas cena takiej pożyczki będzie niska (po co kupować coś, co przynosi miesięcznie 1% zwrotu z kapitału, skoro ten sam kapitał można pożyczyć, uzyskując 2% miesięcznie). Z drugiej strony, jeśli pierwotna pożyczka została udzielona na wysoki procent, a aktualne stopy procentowe są stosunkowo niskie, wówczas jej cena będzie wysoka (trudno bowiem ulokować kapitał na tak atrakcyjnych warunkach). Dla Bezpiecznego Banku w naszym przykładzie całkowita wartość jego pożyczek, gdyby sprzedał je innym instytucjom finansowym na rynku wtórnym, wynosi 5 mln zł.</para>
+      <para id="UUID8b0172fd-2593-4da1-4aa4-06f1c4e38b08">Drugą kategorią aktywów bankowych są obligacje, będące powszechnym sposobem zaciągania pożyczek, wykorzystywanym przede wszystkich przez instytucje publiczne (rządy i jednostki samorządu terytorialnego), a także duże przedsiębiorstwa i organizacje non profit. Bank wykorzystuje część pieniędzy otrzymanych w formie depozytów na zakup obligacji – zazwyczaj bezpiecznych papierów emitowanych przez rządy. Obligacje rządowe są obarczone niskim ryzykiem, ponieważ istnieje niemalże pewność, że rząd je wykupi. Swoistym kosztem niskiego ryzyka związanego z takimi papierami wartościowymi jest ich niskie oprocentowanie. Obligacje są składnikiem bankowych aktywów w taki sam sposób, w jaki aktywami są udzielone pożyczki i kredyty: dzięki tym instrumentom bank zapewnia sobie strumień przychodów w przyszłości. W naszym przykładzie Bezpieczny Bank posiada rządowe papiery wartościowe o łącznej wartości 4 mln zł.</para>
+      <para id="fs-idm47113248">Ostatnią pozycją po stronie aktywów są <term id="UUID60e77182-0794-4686-7788-f8023056b148">rezerwy</term> (ang. <foreign xml:lang="en" id="UUIDdb95f572-d552-4cd1-79ff-c4fb2aad5e5b"><term id="UUID5987c57a-b4fd-4555-5d32-8418d8816fb0">reserves</term></foreign>), czyli pieniądze, które bank trzyma w skarbcu i których nie pożycza ani nie inwestuje w obligacje – a zatem nie uzyskuje z nich odsetek. Bank centralny (w naszym kraju NBP) wymaga, aby banki utrzymywały pewną część pieniędzy wpłaconych przez deponentów w rezerwie, a więc w swoich skarbcach albo w dyspozycji banku centralnego. Nazywamy to rezerwą obowiązkową. <link document="m00052" id="UUIDea6017b1-3c45-436f-47eb-b34019cd91b6" /> wyjaśni, dlaczego poziom rezerw obowiązkowych jest jednym z narzędzi polityki monetarnej, za pomocą którego państwo może wpływać na sektor bankowy. Banki mogą z własnej woli utrzymywać pewne rezerwy, nawet w wysokości przekraczającej minimalny wymagany poziom. Bezpieczny Bank posiada rezerwy w wysokości 2 mln zł.</para>
+      <para id="fs-idp103674656">Wartość netto banku definiujemy jako sumę aktywów pomniejszoną o kwotę pasywów. W Bezpiecznym Banku na <link target-id="CNX_Econ_C27_004" document="" cmlnle:case="locative" id="UUIDb7a49c4d-2535-4015-5799-418ec046cdc7" /> wartość netto jest równa 1 mln zł (11 mln zł aktywów pomniejszonych o 10 mln zł pasywów). W przypadku banku w dobrej kondycji finansowej wartość netto będzie dodatnia. Jeśli bank ma ujemną wartość netto, a deponenci spróbują wypłacić swoje pieniądze, bank może nie być w stanie zaspokoić wszystkich ich roszczeń.</para>
+      <note type="note" id="fs-idp26710336" class="economics linkup">
+        <para id="UUIDa344de45-6477-46e6-442e-2c94d5652d4f">Aby zapoznać się z konkretnymi przykładami strategii wdrażanych przez banki, obejrzyj to <link url="http://openstax.org/l/makingsense" id="UUID5046b2c7-f150-40a7-5ea0-524c10bccf8a">wideo</link> z „Making Sense of Financial News” Paula Solmana.</para>
       </note>
     </section>
-    <section id="fs-idm88707968">
-      <title id="UUID8e6571c2-a86e-430b-4856-77c130f13fd4">Mnożnik kreacji pieniądza i system bankowy z wieloma podmiotami</title>
-      <para id="UUIDd070acf9-493b-4475-5c48-f41ef9c64014">W systemie bankowym, w ramach którego funkcjonuje wiele podmiotów, Bank Wyjątkowy zamienił swoją nadwyżkę rezerwy (stanowiła ona bowiem 100% wartości złożonych depozytów, zaś bank centralny wymaga od banków komercyjnych rezerwy w wysokości 10% depozytów) na pożyczkę dla firmy Janek Autonaprawy, która została przetransferowana do Pierwszego Banku Krajowego. Również ten bank miał nadwyżkę rezerwy gotówkowej w stosunku do wartości depozytów, w związku z czym zamienia ją na pożyczkę udzieloną firmie Jacek Uczciwy Autohandel, która z kolei została przelana na konto w Drugim Banku Krajowym. Ten również będzie miał nadwyżkę rezerwy w stosunku do wartości depozytów, więc zapewne także będzie starał się udzielić kredytu lub pożyczki przedsiębiorstwom lub gospodarstwom domowym. Jeśli wszystkie banki będą się sukcesywnie i konsekwentnie pozbywać swojej nadwyżki rezerw gotówkowych, podaż pieniądza znacznie wzrośnie. W systemie z wieloma bankami całkowitą zdolność systemu bankowego do kreacji pieniądza określa mnożnik kreacji pieniądza. Jest to formuła matematyczna pozwalająca na obliczenie tego, ile pieniądza da się wykreować dzięki jednostce monetarnej powiększającej depozyty przy danym poziomie rezerw gotówkowych.</para>
-      <para id="UUID45131898-354d-48b7-6e15-fac63c160441">A oto formuła <term id="UUIDd1d5d650-507c-4b26-6f29-bec61ec41040">mnożnika kreacji pieniądza</term> (ang. <foreign xml:lang="en" id="UUIDc0af0288-4f32-4d1d-7170-f09be0833f61"><term id="UUID61469b98-23f5-414b-4e34-bd6ee3a0880e">money multiplier formula</term></foreign>):</para>
-      <equation id="eip-779" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mtext>Rezerwa obowiązkowa</mtext></mfrac></math></equation>
-      <para id="UUID28c443f7-85a5-4362-72c9-600319e1d85d">Aby określić całkowitą wielkość podaży pieniądza M1, która może zostać wytworzona w systemie bankowym, mnożnik kreacji pieniądza musimy pomnożyć przez nadwyżkę kwotową rezerw obowiązkowych w stosunku do ich minimalnej wysokości. Zapoznaj się z <link target-id="fs-idp23765232" cmlnle:case="instrumental" id="UUID827b26c1-056f-4d71-4170-aac189439781" /> i prześledź przedstawione tam obliczenia.</para>
-      <note type="note" id="fs-idp23765232" class="economics workout">
-        <title id="UUID86ba7dca-d4b3-4ca7-5cb6-13fb83c51d38">Wykorzystanie formuły matematycznej mnożnika kreacji pieniądza</title>
-        <para id="fs-idm45440944">Wykorzystajmy mnożnik kreacji pieniądza do opisanego powyżej przykładu.</para>
-        <para id="UUIDd1f3c4a7-9c0a-4590-6717-88018e3c36f6">Krok 1. W przypadku Banku Wyjątkowego, dla którego wymagana rezerwa wynosi 10% (lub 0,10), mnożnik kreacji pieniądza wynosi 1 podzielone przez 0,10, co daje 10.</para>
-        <para id="UUIDd311be73-eb71-4a50-71c5-d348b14c7c47">Ustaliliśmy, że nadwyżka kwotowa rezerwy gotówkowej w stosunku do wartości depozytów złożonych w Banku Wyjątkowym wynosi 9 mln zł, korzystając zatem ze wzoru, możemy określić całkowitą zmianę podaży pieniądza M1:</para>
-        <equation id="eip-795" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Całkowita zmiana podaży pieniądza M1</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mn>1</mn><mtext>Rezerwa obowiązkowa</mtext></mfrac><mo> × </mo><mtext>Nadwyżka kwotowa rezerwy w stosunku do wartości depozytów</mtext></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mfrac><mn>1</mn><mrow><mn>0,10</mn></mrow></mfrac><mo> × </mo><mo>9</mo><mtext> mln zł</mtext></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>10</mn><mo> × </mo><mo>9</mo><mtext> mln zł</mtext></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mo>90</mo><mtext> mln zł</mtext></mtd></mtr></mtable></math></equation>
-        <para id="UUID899a1e84-c9de-485d-7c89-00212823a14a">Krok 3. Możemy zatem stwierdzić, że w naszym przykładzie całkowita ilość pieniędzy wygenerowanych w tej hipotetycznej gospodarce po zakończeniu wszystkich rund pożyczkowych wyniesie 90 mln zł.</para>
+    <section id="fs-idm21691232">
+      <title id="UUID856ffb12-1655-44dd-5c3e-abf4b68e79a1">Jak banki bankrutują</title>
+      <para id="fs-idp32291504">Dobrze zarządzany bank zawsze uwzględnia ryzyko, że pewien niewielki odsetek pożyczkobiorców nie spłaci swoich pożyczek na czas lub nie spłaci ich wcale. I uwzględnia to ryzyko w swojej strategii. Pamiętaj, że planując koszty działalności banku, zawsze należy zakładać pewien odsetek niespłacanych kredytów. Wartość kredytów i pożyczek uwzględniona w bilansie banku bierze pod uwagę to ryzyko, ponieważ nawet pomimo najstaranniej prowadzonej procedury selekcyjnej zawsze pewien odsetek klientów – również nie ze swojej winy – nie będzie w stanie spłacić zaciągniętych zobowiązań. Jednak nawet gdy bank spodziewa się określonej liczby niespłacanych kredytów w swoim portfelu, może stanąć w obliczu problemów, jeśli pomyli się w swoich szacunkach, a odsetek niespłaconych kredytów będzie znacznie większy, niż oczekiwano, co może się zdarzyć np. w czasie niespodziewanej recesji wywołanej pandemią. Jeśli takie zagrożenie się ziści, Bezpieczny Bank z <link target-id="CNX_Econ_C27_004" document="" cmlnle:case="genitive" id="UUIDd2bf1f47-b7e2-4698-63d7-7e8f96a55b29" /> będzie musiał się zmierzyć z gwałtownym wzrostem odsetka niespłacanych kredytów, co doprowadzi do spadku wartości tej pozycji aktywów z 5 mln do 3 mln zł i tym samym ujemnej wartości netto Bezpiecznego Banku.</para>
+      <note type="note" id="fs-idm55573248" class="clearup economics">
+        <title id="UUID84aa6e89-dc22-4cd3-6069-c659797d4b0a">Jakie czynniki odpowiadają za kryzys finansowy w latach 2008–2009?</title>
+        <para id="UUIDa397f7e1-7c60-4a6b-509f-238cfce74187">Wiele amerykańskich banków udzielało kredytów hipotecznych, aby ludzie mogli kupić swój wymarzony dom, ale nie zatrzymywało tych kredytów w swoich aktywach, tylko je sprzedawało. Kredyty te były „sekurytyzowane”, co oznacza, że łączono je w pakiety i sprzedawano inwestorom na rynku wtórnym. Ci nabywali takie pakiety i traktowali je jako inwestycje o niskim poziomie ryzyka, ponieważ były one zabezpieczone hipotekami nieruchomości, na zakup których udzielono kredytu. Stopa zwrotu z takiej inwestycji była równa oprocentowaniu kredytów hipotecznych, które wchodziły w skład sekurytyzowanego pakietu.</para>
+        <para id="UUID943e6616-93b7-4364-7d9c-c576c7473fc6"><term id="UUIDed2e3b5b-6169-4a84-5ac4-3e38059159a9">Sekurytyzacja</term> (ang. <foreign xml:lang="en" id="UUIDd017b0dd-f77e-400e-6617-7acc9c3d2e37"><term id="UUID9f443ae8-7fba-4971-6dc6-b66dceef5517">securitization</term></foreign>) przynosi pewne korzyści. Jeśli bank udziela większości pożyczek podmiotom lokalnym (np. działającym na terenie określonego stanu lub nawet hrabstwa), wówczas ryzykuje, że znajdzie się w trudnej sytuacji finansowej, jeśli lokalna gospodarka podupadnie, a wiele osób nie będzie w stanie spłacić kredytu. Kiedy jednak bank swoje kredyty udzielone lokalnym podmiotom sprzedaje, a następnie kupuje papiery wartościowe zabezpieczone hipoteką kredytów mieszkaniowych udzielonych w wielu innych stanach, może uniknąć lub znacząco zmniejszyć ryzyko związane z kondycją lokalnej gospodarki (która mogłaby zostać narażona na straty choćby w wyniku klęski żywiołowej – tornada, powodzi lub suszy). We wcześniejszym prostym przykładzie zakładaliśmy, że banki posiadają „rządowe papiery wartościowe”. W rzeczywistości mogą posiadać inne instrumenty finansowe, o ile są one wystarczająco bezpieczne, aby spełnić standardy instytucji nadzorujących sektor bankowy. Z punktu widzenia lokalnego nabywcy domu sekurytyzacja daje korzyść wynikającą z tego, że lokalny bank nie musi mieć znacznych dodatkowych środków na udzielenie mu kredytu. Bank może zatrzymać ten kredyt jako pozycję swoich aktywów tylko w krótkim okresie, a potem sprzedać ją jako sekurytyzowany instrument finansowy.</para>
+        <para id="UUIDd530ef70-b682-42f4-739f-1b2aa5acafe4">Jednak sekurytyzacja niesie ze sobą również potencjalne zagrożenie. Jeśli bank planuje zatrzymać kredyt hipoteczny jako pozycję swoich aktywów, ma silną motywację, aby dokładnie prześwietlić sytuację finansową kredytobiorcy i upewnić się, że będzie on w stanie zobowiązanie spłacić. Jednak jeśli bank od razu planuje sprzedać kredyt na rynku wtórnym, może być mniej ostrożny przy jego przyznawaniu. Będzie też bardziej skłonny udzielić osobie o niskich lub zerowych dochodach tzw. kredytu substandardowego (ang. <foreign xml:lang="en" id="UUID36610e44-4126-4a18-730f-2495deccdd9b">subprime loans</foreign>), cechującego się niskim lub zerowym wkładem własnym. Takie kredyty charakteryzują się stosunkowo umiarkowanym oprocentowaniem w ciągu pierwszych dwóch lat po ich udzielaniu, ale z czasem odsetki i rata kapitałowa dość szybko rosną. Ekonomiści określili niektóre z takich substandardowych kredytów udzielonych przez instytucje finansowe w latach 2005–2008 skrótem NINJA (<term id="UUID65f1dfa9-8692-460e-4513-1aabb79f3917"><emphasis effect="italics"><emphasis effect="bold">N</emphasis>o</emphasis> <emphasis effect="italics"><emphasis effect="bold">I</emphasis>ncome,</emphasis> <emphasis effect="italics"><emphasis effect="bold">N</emphasis>o</emphasis> <emphasis effect="italics"><emphasis effect="bold">J</emphasis>ob or</emphasis> <emphasis effect="italics"><emphasis effect="bold">A</emphasis>ssets</emphasis></term>): pożyczki dla osób bez stałego dochodu, bez pracy i nie dysponujących żadnym zabezpieczeniem.</para>
+        <para id="UUIDe9e5a05a-4894-4493-54d2-dae260b97f54">Instytucje finansowe zazwyczaj sprzedawały takie substandardowe kredyty i zamieniały je w sekurytyzowane papiery wartościowe – ale z niespodzianką. Pomysł polegał na tym, że gdyby na tych papierach wartościowych zabezpieczonych hipoteką wystąpiły straty (czyli kredyty hipoteczne stanowiące ich podstawę nie zostałby spłacone), niektórzy inwestorzy zgodziliby się zaakceptować, powiedzmy, 5% takich strat. Inni inwestorzy zgodziliby się wziąć na siebie, powiedzmy, kolejne 5% strat. Przy takim podejściu jeszcze inni inwestorzy nie musieliby akceptować żadnych strat, chyba że aż 25 lub 30% kredytów stanowiących zabezpieczenie sekurytyzowanych papierów wartościowych nie zostałoby spłaconych. Rozwój rynku tych skomplikowanych w swojej konstrukcji papierów wartościowych wraz z innymi czynnikami ekonomicznymi, przede wszystkim polityką państwa, które realizowało strategię umożliwiającą prawie każdemu Amerykaninowi zakup własnej nieruchomości, przyczynił się do znacznej ekspansji substandardowych kredytów hipotecznych po 2005 r.</para>
+        <para id="UUID5bbad042-e689-433d-7b4b-7eb80debe467">Podobnie jak w dramatach Czechowa, „ekonomiczna strzelba” została zawieszona na ścianie i było pewne, że prędzej czy później wypali (czyli kryzys bankowy się zmaterializuje). Banki były przekonane, że kupują tylko ultrabezpieczne papiery wartościowe. Bo chociaż ostatecznie ich zabezpieczenie stanowiły ryzykowne substandardowe kredyty hipoteczne, banki inwestowały tylko w tę część tych papierów wartościowych, która była chroniona przed niewielkimi lub umiarkowanymi stratami. Jednak po roku 2007 ceny mieszkań zaczęły szybko spadać, a pogłębiająca się recesja utrudniła wielu ludziom spłatę hipotecznych zobowiązań. Okazało się, że straty znacznie przekraczają niewyobrażalne jeszcze rok czy dwa lata wcześniej 30% (czyli taki właśnie był odsetek niespłaconych kredytów hipotecznych będących podstawą tych instrumentów finansowych). Wiele banków stwierdziło, że ich aktywa finansowe zabezpieczone hipoteką mogą być warte znacznie mniej, niż się spodziewały. Dla wielu podmiotów oznaczało to bankructwo. W latach 2008–2011 w Stanach Zjednoczonych upadło 318 banków.</para>
       </note>
+      <para id="UUID8a85246e-7747-4574-64a7-3b5b8ff0f4c5">Ryzyko nieoczekiwanie wysokiego poziomu niespłaconych kredytów może być szczególnie dotkliwe dla banków ze względu na ich pasywa, czyli depozyty klientów. Klienci mogą szybko (najczęściej na żądanie) wypłacić swoje środki, ale wiele aktywów banku, takich jak pożyczki, kredyty i obligacje, będzie spłaconych dopiero po latach, a nawet dziesięcioleciach. To <term id="UUID9f1d4f36-5486-4c03-572f-062aea41141c">niedopasowanie czasowe aktywów i pasywów</term> (ang. <foreign xml:lang="en" id="UUID7ba49076-c255-4292-6baa-168ebf900d5e"><term id="UUID7e80796f-425e-42d1-4d0c-1657bee0d4f7">asset-liability time mismatch</term></foreign>) – możliwość wycofywania pasywów banku w relatywnie krótkim okresie, a z drugiej strony spłata aktywów w długim okresie – może skutkować poważnymi problemami banków. Jeśli dany podmiot udzielił kredytu na znaczną kwotę z określoną, stałą stopą procentową (a tak działo się i dzieje w przypadku kredytów hipotecznych w USA), a ich poziom w gospodarce znacznie wzrósł (do czego doszło w roku 2022), taki bank może się znaleźć w bardzo trudnej sytuacji. Jeśli nie podniesie oprocentowania depozytów, zostaną one wypłacone i przepłyną do innych instytucji oferujących wyższe oprocentowanie. Jeśli natomiast bank podniesie stopy procentowe dla depozytariuszy, może się okazać, że za pożyczony kapitał płaci więcej, niż otrzymuje od udzielonych kredytów i pożyczek. Bank, który wypłaca depozytariuszom odsetki wyższe od tych, które otrzymuje od swoich pożyczkobiorców, nie przetrwa na rynku zbyt długo.</para>
+      <para id="UUIDca575323-20b5-4061-4f42-a9353d1cb8c6">W jaki sposób banki mogą zabezpieczyć się przed nieoczekiwanie wysokim odsetkiem niespłacanych kredytów oraz przed ryzykiem niedopasowania czasowego aktywów i zobowiązań? Jedną ze strategii jest <term id="UUID4834dae9-7a0e-4d1c-5aec-e1a64a265eab">dywersyfikacja</term> (ang. <foreign xml:lang="en" id="UUIDc8d9906f-aca9-4a78-49a5-53a8d1dae939"><term id="UUID639cdf25-058d-4d96-682f-7c1802169996">diversify</term></foreign>) kredytów, co oznacza ich udzielanie różnym klientom. Załóżmy np., że bank specjalizuje się w udzielaniu pożyczek na niszowych rynkach. Powiedzmy – firmom budowlanym wznoszącym biurowce w centrach miast średniej wielkości. Jeśli na tym jednym rynku nastąpi nieoczekiwane pogorszenie koniunktury gospodarczej (związane np. z upowszechnieniem się pracy zdalnej), bank poniesie duże straty. Jeśli jednak bank pożycza środki zarówno gospodarstwom domowym, które kupują domy i samochody, jak i wielu przedsiębiorstwom z różnych branż i obszarów geograficznych, jest mniej narażony na ryzyko. Gdy bank dywersyfikuje swoje kredyty, te kategorie kredytobiorców, w których znalazło się nieoczekiwanie dużo niespłacanych zobowiązań, będą zazwyczaj równoważone, na zasadach losowych, przez innych kredytobiorców, którzy mają nieoczekiwanie niską liczbę niespłacanych zobowiązań. W ten sposób dywersyfikacja kredytów może pomóc bankom w utrzymaniu dodatniej wartości netto. Jeśli jednak recesja dotknie wszystkie lub prawie wszystkie gałęzie gospodarki, ryzyka nie da się zdywersyfikować.</para>
+      <para id="UUID9f1784d6-6d12-4a80-5c3e-1027db713274">Oprócz dywersyfikacji portfela kredytów banki mają kilka innych strategii ograniczania ryzyka nieoczekiwanego wzrostu odsetka niespłaconych kredytów. Mogą np. sprzedawać część udzielanych pożyczek na rynku wtórnym i utrzymywać aktywa w postaci papierów wartościowych lub rezerw gotówkowych. Mimo wszystko w przypadku długotrwałej recesji większość banków odnotuje spadek wartości netto, ponieważ większa część ich klientów nie będzie spłacać kredytów w trudnych ekonomicznie czasach.</para>
     </section>
-    <section id="fs-idp9084608">
-      <title id="UUID5ddc4a12-21c0-47a2-57ad-414f11efad43">Ograniczenia skuteczności mnożnika kreacji pieniądza</title>
-      <para id="fs-idp47413856">Wartość mnożnika kreacji pieniądza będzie zależała od minimalnej wysokości rezerw, które narzuca bank centralny. Oczywiście każdy bank może utrzymywać rezerwy gotówkowe, które są wyższe od minimalnego poziomu. Banki mogą zdecydować się na zróżnicowanie wielkości i struktury posiadanych rezerw z dwóch powodów: warunków makroekonomicznych i regulacji rządowych. Gdy gospodarka znajduje się w recesji, banki prawdopodobnie będą utrzymywać wyższe rezerwy, ponieważ obawiają się, że klienci częściej nie będą w stanie spłacać swoich zobowiązań wobec nich. Bank centralny może również podnieść lub obniżyć minimalny poziom rezerw utrzymywanych przez banki, co wpływa na podaż pieniądza w gospodarce. Zostanie to dokładniej omówione w <link document="m00051" cmlnle:case="locative" id="UUIDb0bf809e-2f1c-489d-484a-170de8db898e" />.</para>
-      <para id="UUIDb6c008b8-e9e3-408b-73d7-8e9a828def10">Proces kreowania pieniądza przez banki w jednoznaczny sposób wskazuje, że wzrost podaży pieniądza w gospodarce jest ściśle powiązany z liczbą i wartością udzielanych pożyczek lub kredytów. Wszystkie pieniądze w gospodarce, z wyjątkiem wyemitowanej przez bank centralny gotówki, są konsekwencją pożyczek bankowych, które następnie trafiają jako depozyty na konta w innych bankach.</para>
-      <para id="UUIDacc052a0-f8b6-4dba-5ef7-6ed4dd6dc97b">Wreszcie mnożnik kreacji pieniądza zależy od tego, jak wiele pieniędzy osiada w systemie bankowym. Jeśli zamiast wpłacać gotówkę na konta bankowe, gospodarstwa domowe i przedsiębiorstwa zdecydują się na jej przechowywanie w skrytkach depozytowych i pudełkach po butach ukrytych w szafach, banki nie będą mogły wykorzystać tych środków, aby udzielać pożyczek. Banki centralne mają silną motywację do zapewnienia bezpieczeństwa depozytów bankowych, ponieważ jeśli ludzie obawiają się, że mogą stracić swoje pieniądze po wpłaceniu ich do banku, to po prostu tego nie zrobią, co doprowadzi do spadku liczby i wartości udzielanych kredytów i pożyczek. Stąd zresztą przepisy o minimalnym poziomie rezerw gotówkowych, który ma zabezpieczać środki umożliwiające wypłatę pieniędzy na żądanie depozytariuszy. Kraje o niskich dochodach doświadczają zjawiska określanego przez ekonomistów jako „oszczędności w materacach”, czyli pieniądze przechowywane w domach, z uwagi na niski poziom zaufania do systemu bankowego. W sytuacji, w której „oszczędności w materacach” osiągają znaczący poziom w skali gospodarki, banki nie mogą pożyczyć tych środków potencjalnym kredytobiorcom, a mnożnik kreacji pieniądza nie działa skutecznie. W takiej gospodarce zarówno podaż pieniądza, jak i wartość udzielonych kredytów maleją.</para>
-      <note type="note" id="fs-idp23562816" class="economics linkup">
-        <para id="fs-idm26144464">Obejrzyj to <link url="http://openstax.org/l/moneymyth" id="UUIDd5e2f92d-ca27-47a6-53ff-f75fa57ff8fa">wideo</link>, w którym Jem Bendell omawia „mit pieniądza”.</para>
-      </note>
+    <section id="fs-idm5895600" class="summary">
+      <title id="UUID106162a6-8c27-4505-6d8e-3dfbc0f279d1">Key Concepts and Summary</title>
+      <para id="UUIDb8f34516-45b6-40da-5d43-0e6e94b0860a">Banki usprawniają proces zawierania transakcji rynkowych, ponieważ gospodarstwa domowe i przedsiębiorstwa mogą korzystać z rachunków bankowych przy sprzedaży lub kupnie dóbr i usług, opłacaniu pracowników, a także lokowaniu oszczędności i zaciąganiu pożyczek. Na rynku finansowym banki są pośrednikami ułatwiającymi zawarcie umów pomiędzy oszczędzającymi, którzy dostarczają kapitał finansowy, a kredytobiorcami, którzy kapitału potrzebują. Bilans (tworzony za pomocą schematu teowego) jest dokumentem księgowym, który zestawia aktywa i pasywa danego przedsiębiorstwa. Pasywami banku są depozyty wpłacone przez klientów. Aktywa banku obejmują udzielone pożyczki i kredyty, zakupione papiery wartościowe o niskim poziomie ryzyka i rezerwy (czyli gotówkę, której bank nie pożycza, tylko utrzymuje w swoim skarbcu). Wartość netto banku obliczamy, odejmując wartość jego pasywów od aktywów. Bank ryzykuje, że będzie miał ujemną wartość netto, jeśli wartość jego aktywów spadnie. Wartość aktywów może się zmniejszyć z powodu niespodziewanego wzrostu odsetka niespłaconych kredytów lub w przypadku wzrostu stóp procentowych i niedopasowania w czasie terminów zapadalności aktywów i pasywów. Mowa tu o sytuacji, gdy bank otrzymuje niskie oprocentowanie od udzielonych kredytów długoterminowych, ale płaci odsetki od depozytów według wyższej, rynkowej stopy procentowej, aby przyciągnąć depozytariuszy. Banki mogą zabezpieczyć się przed tym ryzykiem, dywersyfikując pulę kredytów lub utrzymując większą część aktywów w formie papierów wartościowych i rezerw gotówkowych. Jeśli banki utrzymują tylko ułamek swoich depozytów w formie rezerw gotówkowych, to proces pożyczania pieniędzy przez banki, ponownego deponowania tych pożyczek w bankach oraz udzielania przez banki kolejnych pożyczek przekłada się na kreację pieniądza bezgotówkowego w gospodarce.</para>
     </section>
-    <section id="fs-idm97459088">
-      <title id="UUID119ad3a5-57c1-4eb4-58ce-011910ff74c4">Pieniądze i banki – korzyści i zagrożenia</title>
-      <para id="UUID5fb91ac8-9fb8-46ad-6c8c-55c962008b33">Pieniądz i banki to wynalazki społeczne, które pomagają funkcjonować nowoczesnej gospodarce. W porównaniu z alternatywą, jaką jest barter, pieniądze znacznie ułatwiają wymianę towarów, pozyskiwanie czynników produkcji i działanie rynków finansowych. Sektor bankowy sprawia, że pieniądz jest jeszcze bardziej efektywnym narzędziem usprawniającym funkcjonowanie rynków. Co więcej, proces udzielania przez banki pożyczek na rynkach finansowych jest ściśle powiązany z kreacją pieniądza.</para>
-      <para id="UUIDb195d34f-2a72-4ed9-53bb-baae455819ed">Jednak nadzwyczajne korzyści ekonomiczne, które pojawiają się dzięki pieniądzom i bankom, generują również pewne niebezpieczeństwa. Jeśli banki nie działają w sposób efektywny, oznacza to niższe bezpieczeństwo transakcji i wyższe koszty w całej gospodarce. Gdy banki znajdują się w trudnej sytuacji finansowej z powodu powszechnego spadku wartości ich aktywów, dostępność kredytów znacznie się zmniejsza, co może być poważnym zagrożeniem dla branż, w których kredyt jest niezbędnym elementem działalności (rynek nieruchomości, produkcja samochodów, duże projekty infrastrukturalne itd.). Globalny kryzys finansowy z lat 2008–2009 boleśnie uwidocznił te prawidłowości.</para>
-      <note type="note" id="fs-idm44902736" class="bringhome economics">
-        <title id="UUID225e8fd8-b282-4972-7176-88c227940bd1">Różne kostiumy dla pieniędzy: od muszli kauri do kryptowalut</title>
-        <para id="UUIDd2479943-045f-41ae-67ae-ab16c6b85268">Światowa gospodarka przeszła długą drogę od czasów, gdy jako waluty używano muszli kauri. Odeszliśmy od pieniądza towarowego i papierowych pieniędzy zabezpieczonych surowcami na rzecz pieniądza symbolicznego (banknotów i bilonu). Wraz z rozwojem technologii i postępem globalnej integracji zmniejsza się również zapotrzebowanie na walutę papierową. Skala wykorzystania kart kredytowych i debetowych cały czas rośnie.</para>
-        <para id="UUIDa9ca501b-c6b9-45d6-49d1-83da8f9b5a1c">Ostatnim krzykiem mody, jeśli chodzi o formy pieniądza, stały się kryptowaluty. Są to cyfrowe waluty, których nie kontroluje żaden pojedynczy podmiot. Nie jest to pieniądz symboliczny, nie wspiera go bowiem żaden kraj i jego system prawny. Kryptowaluty nie są również emitowane przez banki centralne. Ich wartość (np. w stosunku do amerykańskiego dolara) jest określana przede wszystkim przez siły rynkowe, tj. podaż i popyt. Rządy mogą wpływać na wartość kryptowaluty, regulując jej użycie w granicach swojego kraju, ale ostatecznie cena i tak sprowadza się do podaży i zgłaszanego na nią popytu. Kryptowaluty przeszły długą drogę od 2009 r., kiedy to pojawił się bitcoin, a w ostatnich dwóch–trzech latach nastąpiła prawdziwa eksplozja różnych kryptowalut używanych na całym świecie.</para>
-        <para id="UUIDd3d398e8-ccd5-41d6-6273-fd247a422404">Należy zauważyć, że aby kryptowaluta mogła być uznana za pieniądz, nadal musi spełniać trzy podstawowe kryteria: musi być traktowana jako środek przechowywania wartości, jednostka rozrachunkowa i środek wymiany. O ile pierwsze dwa kryteria kryptowaluty spełniają stosunkowo łatwo, o tyle ich użycie jako środka wymiany, czyli wykorzystanie w celu kupna i sprzedaży dóbr i usług, jest bardziej skomplikowane. Podczas gdy kryptowaluty są używane w wielu nielegalnych transakcjach, rzadziej, o ile w ogóle, można je zobaczyć jako sposób płatności za dobra takie jak odzież, żywność czy czynsz za mieszkanie.</para>
-        <para id="UUID9721e59e-1b02-4ac9-6852-cab4af22097e">Najpopularniejszą kryptowalutą jest bitcoin, a tym samym najbardziej prawdopodobne jest, że właśnie on zostanie uznany za nowy rodzaj pieniądza. Nieco mniej popularne, biorąc pod uwagę wolumen handlu, są ethereum i binance coin. Istnieje jeszcze wiele innych kryptowalut, ale ich bardziej powszechne wykorzystanie jako środka wymiany jest wciąż jeszcze przed nami.</para>
-      </note>
-      <para id="UUIDfde8a3bc-602c-434a-4d54-5ad545b9ab2a" />
-    </section>
-    <section id="fs-idp113385408" class="summary">
-      <title id="UUIDccea228a-83d9-4f72-7576-7613e59ec26f">Key Concepts and Summary</title>
-      <para id="UUIDebb10417-c0e0-4a9c-6b59-45d95d6d2b58">Mnożnik kreacji pieniądza definiujemy jako ilość pieniędzy, które system bankowy może wygenerować z każdej jednostki pieniężnej zaksięgowanej jako depozyt, powyżej kwoty obowiązkowych rezerw. Wzór na obliczenie mnożnika to iloraz jedności i stopy rezerw obowiązkowych lub rzeczywistej stopy rezerw utrzymywanych w sektorze bankowym. Ilość pieniądza w gospodarce i wartość kredytów są ze sobą nierozerwalnie związane. Większość pieniądza w gospodarce to kredyty udzielane przez sektor bankowy, które są następnie lokowane jako depozyty.</para>
-      <para id="fs-idp32822320">Biorąc pod uwagę zagrożenia makroekonomiczne związane z nieprawidłowo działającym systemem bankowym, w <link document="m00051" cmlnle:case="locative" id="UUIDdb5652df-cf4d-4e6c-768f-3ad157956029" /> zostanie omówiona polityka państwa w zakresie kontrolowania podaży pieniądza i utrzymywania bezpieczeństwa systemu bankowego.</para>
-    </section>
-    <section id="fs-idp104652992" class="self-check-questions">
-      <title id="UUID0fc9a738-1d33-44fc-707d-d2827d2916ee">Self-Check Questions</title>
-      <exercise id="fs-idp96820176">
-        <problem id="fs-idp22171632">
-          <para id="fs-idm4213936">Wyobraź sobie, że kupujesz kredyty na rynku wtórnym (czyli kupujesz prawo do pobierania odsetek od tych kredytów) dla banku lub innej firmy świadczącej usługi finansowe. Wyjaśnij, dlaczego możesz zapłacić więcej lub mniej za dany kredyt, jeśli:</para>
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp35465872">
-            <item id="UUID438a4287-4a16-49b0-44e3-d69f261d8695">
-              <para id="UUID21723f9c-d4f4-47cf-634a-f012df3a4f23">Kredytobiorca przestał go terminowo spłacać.</para>
-            </item>
-            <item id="UUID6ca86b63-e922-4016-71a9-0b3e8b6ec099">
-              <para id="UUID438f7fce-eed2-4f57-7923-ba02125888af">Stopy procentowe w całej gospodarce wzrosły od czasu, gdy bank udzielił kredytu.</para>
-            </item>
-            <item id="UUID3e3f0fc1-82ed-437d-5793-26e15a89a1d5">
-              <para id="UUID9eaceca4-6312-4b67-5bcc-de4b1bcfa382">Kredytobiorcą jest firma, która właśnie zadeklarowała wysoki poziom zysków.</para>
-            </item>
-            <item id="UUID4b2ffcd1-b8bf-4a23-4841-82ab4a354787">
-              <para id="UUID994d86a2-f10a-4594-6675-044e1783f467">Stopy procentowe w całej gospodarce spadły od czasu, gdy bank udzielił kredytu.</para>
-            </item>
-          </list>
+    <section id="fs-idm33507920" class="self-check-questions">
+      <title id="UUID44221cf9-a161-40f3-4b2d-0650511887c8">Self-Check Questions</title>
+      <exercise id="fs-idm39015152">
+        <problem id="fs-idm60168800">
+          <para id="fs-idp19521776">Wyjaśnij, dlaczego środki wykazane po stronie aktywów w bilansie banku mogą w rzeczywistości pozostawać poza tym konkretnym podmiotem.</para>
         </problem>
-        <solution id="fs-idp45367872">
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm141887040">
-            <item id="UUIDdf7092eb-2ee6-4da2-4243-209bfb287ca4">
-              <para id="UUID2ba3c445-c9de-4e60-595e-ea25f537a0c9">Kredytobiorca, który przestał terminowo spłacać kredyt, ma najprawdopodobniej mniejsze szanse na jego całkowitą spłatę, w związku z czym cena tego instrumentu będzie maleć.</para>
-            </item>
-            <item id="UUID49a94fd5-de56-4c29-75a8-c07518218594">
-              <para id="UUIDd38ee6c5-8d42-44bd-55d0-2169e43ce341">Jeśli stopy procentowe wzrosły, to kredyt zaciągnięty w czasie relatywnie niższych stóp procentowych wygląda mniej atrakcyjnie, więc zapłacisz za niego mniej.</para>
-            </item>
-            <item id="UUID7fedf0ff-6ece-48a6-463b-da83eb4f3bb3">
-              <para id="UUIDfa95db6d-d0e0-419c-4b91-a818328f7372">Jeśli kredytobiorcą jest firma w bardzo dobrej kondycji finansowej, prawdopodobnie będzie w stanie bez problemu spłacić swoje zobowiązanie, stąd cena tego instrumentu finansowego może być wyższa.</para>
-            </item>
-            <item id="UUID55cdddad-706f-4a53-4b41-b316a06c29e3">
-              <para id="UUID671a89c3-025b-4902-53f7-3c5ab378e892">Jeśli stopy procentowe w gospodarce spadły, to kredyt jest wart więcej.</para>
-            </item>
-          </list>
+        <solution id="fs-idp61937072">
+          <para id="fs-idm51564272">Aktywa banku obejmują gotówkę przechowywaną w ich skarbcach, ale także środki pieniężne, które bank utrzymuje na rachunkach w banku centralnym (zwane rezerwami), pożyczki udzielane klientom oraz obligacje.</para>
         </solution>
       </exercise>
     </section>
-    <section id="fs-idp32883680" class="review-questions">
-      <title id="UUIDa3a2b2fe-b49b-4be4-465f-279b4bc5c147">Review Questions</title>
-      <exercise id="fs-idm39149296">
-        <problem id="fs-idp106486096">
-          <para id="fs-idm33621056">W jaki sposób banki kreują pieniądz?</para>
+    <section id="fs-idm58068544" class="review-questions">
+      <title id="UUID33205e69-1d7d-48ce-6637-b2849c6f2016">Review Questions</title>
+      <exercise id="fs-idm127567504">
+        <problem id="fs-idm4411920">
+          <para id="fs-idm111894832">Dlaczego banki nazywamy pośrednikami finansowymi?</para>
         </problem>
       </exercise>
-      <exercise id="fs-idp62494096">
-        <problem id="fs-idp99400768">
-          <para id="fs-idm15749952">Jaki jest wzór na mnożnik kreacji pieniądza?</para>
+      <exercise id="fs-idm74597600">
+        <problem id="fs-idm71940080">
+          <para id="fs-idm93077760">O czym informuje bilans?</para>
         </problem>
       </exercise>
-    </section>
-    <section id="fs-idm67285936" class="critical-thinking">
-      <title id="UUIDe1f0f94f-e558-496e-5a42-0738485be6a3">Critical Thinking Questions</title>
-      <exercise id="fs-idm1401040">
-        <problem id="fs-idm165672336">
-          <para id="fs-idp10360496">Czy banki powinny utrzymywać 100% swoich depozytów jako rezerwy? Uzasadnij swoją odpowiedź.</para>
+      <exercise id="fs-idm29677264">
+        <problem id="fs-idm49176080">
+          <para id="fs-idm144710864">Czym są aktywa banku, a czym jego pasywa?</para>
         </problem>
       </exercise>
-      <exercise id="fs-idp22629040">
-        <problem id="fs-idm112235120">
-          <para id="fs-idp37518352">Wyjaśnij, jak wzrost stopy rezerw obowiązkowych wpłynie na proces kreacji pieniądza w systemie bankowym.</para>
+      <exercise id="fs-idm133595168">
+        <problem id="fs-idp12542448">
+          <para id="fs-idp8675200">W jaki sposób można obliczyć wartość netto banku?</para>
         </problem>
       </exercise>
-      <exercise id="fs-idm76712576">
-        <problem id="fs-idp10177904">
-          <para id="fs-idm29337920">Jak myślisz, jakie decyzje amerykański Bank Rezerwy Federalnej (bank centralny) podjął w kwestii stopy rezerw obowiązkowych w okresie globalnego kryzysu finansowego w latach 2008–2009?</para>
+      <exercise id="fs-idm100862384">
+        <problem id="fs-idm37216">
+          <para id="fs-idm166013840">Dlaczego bank może mieć ujemną wartość netto?</para>
         </problem>
       </exercise>
-    </section>
-    <section id="fs-idp16181248" class="problems">
-      <title id="UUIDe3e77221-d236-4f82-47ef-b1f2ba4ce811">Problems</title>
-      <exercise id="fs-idp123037088">
-        <problem id="fs-idp5028032">
-          <para id="fs-idp109253248">Bank Gargantuiczny jest jedynym bankiem w pewnej gospodarce. Podmioty ekonomiczne dysponują gotówką o wartości 20 mln zł, którą w całości deponują w Banku Gargantuicznym.</para>
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp59960320">
-            <item id="UUID34b8e416-b1ce-4619-6f92-d50654fef528">
-              <para id="UUIDa40b37bf-dd15-4156-674a-2f32ca688112">Bank Gargantuiczny decyduje się na politykę utrzymywania 100% rezerw. Stwórz bilans tego podmiotu.</para>
-            </item>
-            <item id="UUID6e56ec6b-16fe-4b2b-54ca-f04f8f517087">
-              <para id="UUID6d37ce38-4f14-4b06-6872-7ede1414adfd">Bank Gargantuiczny jest zobowiązany do utrzymywania 5% swoich depozytów w kwocie 20 mln zł w charakterze rezerw, a resztę może zaoferować pożyczkobiorcom. Jak zmieni się bilans tego podmiotu po pierwszej rundzie pożyczek?</para>
-            </item>
-            <item id="UUID0c43f1b3-cc04-4e46-6068-b353ff6c5b67">
-              <para id="UUID380d84eb-6a7a-45ae-4eb0-43f7e1571a95">Załóżmy, że Bank Gargantuiczny jednak ma konkurentów, którzy wraz z nim tworzą system bankowy. O ile wzrośnie podaż pieniądza w rozpatrywanej gospodarce po pierwotnej wpłacie dokonanej przez podmioty gospodarcze do Banku Gargantuicznego?</para>
-            </item>
-          </list>
+      <exercise id="fs-idp7469488">
+        <problem id="fs-idm70570624">
+          <para id="fs-idm51594480">Czym jest niedopasowanie terminów zapadalności aktywów i pasywów, z którym borykają się wszystkie banki?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp11724240">
+        <problem id="fs-idm92922704">
+          <para id="fs-idm41033440">Jakie ryzyko może się zmaterializować, jeśli bank nie dywersyfikuje portfela swoich kredytów?</para>
         </problem>
       </exercise>
     </section>
-    <section id="fs-idp2797488" class="references">
-      <title id="UUID256d40f1-6561-42d2-51cc-e573bb638cc6">References</title>
-      <para id="fs-idm108406000">Bitcoin. 2013. www.bitcoin.org.</para>
-      <para id="fs-idm124107040">National Public Radio. <emphasis effect="italics">Lawmakers and Regulators Take Closer Look at Bitcoin</emphasis>. November 19, 2013. http://thedianerehmshow.org/shows/2013-11-19/lawmakers-and-regulators-take-closer-look-bitcoin.</para>
+    <section id="fs-idm99087680" class="critical-thinking">
+      <title id="UUID5a207a3a-deb7-45e6-4f9c-c14516b29943">Critical Thinking Questions</title>
+      <exercise id="fs-idm3362144">
+        <problem id="fs-idm44505744">
+          <para id="fs-idm16270704">Wyjaśnij różnicę pomiędzy sposobem, w jaki osoba fizyczna (np. ty) porządkuje swoje depozyty bankowe, kredyty i pożyczki, czyli prywatne aktywa i pasywa (zobowiązania), a podejściem stosowanym w bilansach banków.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp83030688" class="problems">
+      <title id="UUIDe54f02ea-5512-4f4b-52b9-82a9d726d860">Problems</title>
+      <exercise id="fs-idp119274720">
+        <problem id="fs-idp90457488">
+          <para id="fs-idm12787792">Bank ma depozyty w wysokości 400 zł, jego rezerwy wynoszą 50 zł, zakupił obligacje rządowe o wartości 70 zł i udzielił pożyczek na kwotę 500 zł. Stwórz bilans tego banku i oblicz jego wartość netto.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm106476432" class="references">
+      <title id="UUIDf6c65a9e-e860-4404-5be1-e8e95ac19238">References</title>
+      <para id="eip-406">Credit Union National Association. 2014. "Monthly Credit Union Estimates." Last accessed March 4, 2015. http://www.cuna.org/Research-And-Strategy/Credit-Union-Data-And-Statistics/.</para>
+      <para id="eip-807">Dallas Federal Reserve. 2013. "Ending `Too Big To Fail': A Proposal for Reform Before It's Too Late". Accessed March 4, 2015. http://www.dallasfed.org/news/speeches/fisher/2013/fs130116.cfm.</para>
+      <para id="fs-idm2951056">Richard W. Fisher. “Ending 'Too Big to Fail': A Proposal for Reform Before It's Too Late (With Reference to Patrick Henry, Complexity and Reality) Remarks before the Committee for the Republic, Washington, D.C. Dallas Federal Reserve. January 16, 2013.</para>
+      <para id="fs-idp55207136">“Commercial Banks in the U.S.” Federal Reserve Bank of St. Louis. Accessed November 2013. http://research.stlouisfed.org/fred2/series/USNUM.</para>
     </section>
   </content>
-  <glossary id="UUID3ae55f32-f975-4fe9-7761-1ddb9f72f4f6">
-    <definition id="fs-idm60057472">
-      <term id="UUID410f8bdc-f326-43af-70fd-a3986741877d">mnożnik kreacji pieniądza (ang. <foreign xml:lang="en" id="UUID812a347c-4612-4b81-4dc7-2950c60f6c9d">money multiplier formula</foreign>)</term>
-      <meaning id="fs-idm4982256">
-        <para id="UUID4ed44d0d-014c-4260-4f68-f8b1c4393ac3">odwrotność stopy rezerw obowiązkowych lub stopy rezerw utrzymywanej w dobrowolny sposób w sektorze bankowym</para>
+  <glossary id="UUIDf955c5d5-66f9-4cc7-5d91-7bed14b00dac">
+    <definition id="fs-idm82006608">
+      <term id="UUIDef10e66a-d447-485a-7bd5-af36adea1ff4">aktywa (ang. <foreign xml:lang="en" id="UUID67ff92cb-6190-4ce0-5cad-9ef278ac5dcc"><term id="UUID40fada2b-0c10-4d5e-5bd8-44c7a3054d8a">asset</term></foreign>)</term>
+      <meaning id="fs-idp18795872">
+        <para id="UUIDdb7ca3e0-3290-40ee-4ce2-f3bfae3652e1">w najszerszym znaczeniu są to wszystkie zasoby majątkowe będące własnością przedsiębiorstwa lub osoby fizycznej</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm55625952">
+      <term id="UUIDc2ce6528-05ba-426b-7462-ed759bdfe0df">niedopasowanie terminów zapadalności aktywów i pasywów (ang. <foreign xml:lang="en" id="UUID439e2714-00f1-4c49-5b8e-c26e457247d5"><term id="UUID0fa441ec-df82-4723-715c-e73a8702d30e">asset-liability time mismatch</term></foreign>)</term>
+      <meaning id="fs-idm12923760">
+        <para id="UUID799549b9-1842-4d1a-6d2a-d268f63f19f8">sytuacja, w której klienci mogą wycofywać swoje depozyty (będące pasywami z punktu widzenia banku) w krótkim okresie, podczas gdy aktywa banku (takie jak pożyczki, kredyty i papiery wartościowe) przynoszą przychód w długim okresie</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm49210928">
+      <term id="UUID3b6c1351-ac17-48a6-5a47-5ba783f92816">bilans (ang. <foreign xml:lang="en" id="UUID801e14d7-0d90-483e-48ed-3e6b94998bdc"><term id="UUIDd30e661e-bf98-4915-5524-4c8be7955fb8">balance sheet</term></foreign>)</term>
+      <meaning id="fs-idm20154416">
+        <para id="UUIDbcb9c467-46dd-49ca-7b03-15626b22129c">dokument księgowy, który stanowi zestawienie aktywów i pasywów</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp50054624">
+      <term id="UUID8fd26f0e-28cc-49f8-5354-6a990e1eb002">kapitał banku (ang. <foreign xml:lang="en" id="UUID6f72c1aa-3dfc-401c-7a5f-c817239b1fd9"><term id="UUID0413300c-986d-4754-6f53-9f5a1f5a53df">bank capital</term></foreign>)</term>
+      <meaning id="fs-idm52832080">
+        <para id="UUIDd08091ac-f8b0-4449-5a91-756e4708b3f5">wartość netto banku</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm90150144">
+      <term id="UUID98a0d374-e6a0-43ec-4a10-6ad3452dc752">instytucja depozytowa (ang. <foreign xml:lang="en" id="UUIDe04bd57c-3f65-431b-4e9d-a5271a0f9816"><term id="UUID5410be34-d2f0-4050-515d-ea1de41d7a8c">depository institutions</term></foreign>)</term>
+      <meaning id="fs-idm54712848">
+        <para id="UUIDccb39401-e0de-4ed3-4c8e-16f408f1eb39">instytucja, która przyjmuje depozyty pieniężne, a następnie wykorzystuje je do udzielania pożyczek</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp63259328">
+      <term id="UUIDa2e8dd79-2254-4247-6944-e46bbb867a8c">dywersyfikacja (ang. <foreign xml:lang="en" id="UUIDd25e43bc-f5ef-4612-55df-8fb4991c72ca"><term id="UUIDfccf2424-674a-44e2-43fd-589014701f6e">diversify</term></foreign>)</term>
+      <meaning id="fs-idm52699696">
+        <para id="UUID863e1acd-7c1d-447e-605c-e0388f2d08aa">udzielanie pożyczek lub kredytów podmiotom (gospodarstwom domowym i przedsiębiorstwom) działającym w różnych branżach i na różnych obszarach geograficznych, tak aby zmniejszyć ryzyko negatywnego wpływu wydarzeń w jednej lub kilku branżach na sytuację finansową banku</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm64233280">
+      <term id="UUID16fb3d27-fca3-4d06-6eca-0fb0ced38116">pośrednik finansowy (ang. <foreign xml:lang="en" id="UUID886a26fa-4eca-45c5-75c6-1c8250cdf6be"><term id="UUIDca820b8a-46a0-40ac-5850-fa0c0f723b3b">financial intermediary</term></foreign>)</term>
+      <meaning id="fs-idp41988768">
+        <para id="UUIDbdd30f3b-4fa5-4141-5c7d-8ac80d4fa0c4">instytucja, która działa pomiędzy oszczędzającym, posiadającym aktywa finansowe możliwe do zainwestowania, a podmiotem, który pożycza te aktywa i płaci za nie cenę równą stopie procentowej</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp20756768">
+      <term id="UUID2cfafe65-788f-47be-4dc0-2b36e839ae1a">pasywa (ang. <foreign xml:lang="en" id="UUID04d70049-5692-4445-76b6-84c651669a78"><term id="UUIDc50a3bbc-6703-49a9-409d-bfdceeab33fd">liability</term></foreign>)</term>
+      <meaning id="fs-idm23910864">
+        <para id="UUIDba1a3839-b8f1-4ea7-48b7-e705e27f6527">źródła pochodzenia majątku przedsiębiorstwa</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idp50077664">
+      <term id="UUID31280494-2384-41c1-4d59-6289374258ad">wartość netto (ang. <foreign xml:lang="en" id="UUIDe09fa3f8-30c0-48d0-7310-71dca43f8cff"><term id="UUID9a3a4f95-b73c-40f7-65c1-f228e1a294f2">net worth</term></foreign>)</term>
+      <meaning id="fs-idm12261360">
+        <para id="UUIDcb4fef5c-0f89-4286-4fe5-307bbcea7932">nadwyżka wartości aktywów nad kwotą pasywów</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm54729440">
+      <term id="UUID4274a273-b254-4407-7819-872bac2b4b22">system płatniczy (ang. <foreign xml:lang="en" id="UUIDcd03fb6d-fb89-4a61-56ee-95967d4a78a8"><term id="UUIDe60e8ccc-42cf-4ce6-7f5b-efb1eeafb189">payment system</term></foreign>)</term>
+      <meaning id="fs-idp3028240">
+        <para id="UUID7428d223-3168-43ef-6547-ccc8fe66d245">mechanizm ułatwiający wymianę dóbr i usług na pieniądze lub inne aktywa finansowe w gospodarce</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm22677680">
+      <term id="UUID3f556a5f-1b7a-42ce-49bd-5a421253bab3">rezerwy (ang. <foreign xml:lang="en" id="UUID890739e1-25d5-4d12-7aee-406a746a631c"><term id="UUID1919fcf2-6ce2-420a-5dd7-ab52a6cad6ec">reserves</term></foreign>)</term>
+      <meaning id="fs-idp41993840">
+        <para id="UUID5719cfd7-1020-4486-69ff-06edf4e73b6c">środki pieniężne, które bank trzyma w swoich skarbcach i których nie pożycza ani nie inwestuje w papiery wartościowe</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm20129568">
+      <term id="UUID32b4219c-3982-4caa-53e5-f680804bd078">„teowy” schemat konta (ang. <foreign xml:lang="en" id="UUID43fdc00f-e06f-4391-56f2-a373fcb8f0e7"><term id="UUID1a9924ea-afb7-483c-67c6-726222230029">T-account</term></foreign>)</term>
+      <meaning id="fs-idm12765072">
+        <para id="UUIDce0487db-9926-4f57-4263-c9f68381e288">bilans w formacie dwukolumnowym, w kształcie litery T, utworzony przez pionową linię biegnącą przez środek i poziomą linię pod nagłówkami kolumn „Aktywa” i „Pasywa”</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm52487984">
+      <term id="UUID8ef62896-d02d-4eee-458c-f7182307a9e6">koszty transakcyjne (ang. <foreign xml:lang="en" id="UUID03862830-2e2a-4167-4b92-34dfd052cb31"><term id="UUIDe3ff52d9-6f6b-4fe9-5df2-16152ae28f66">transaction costs</term></foreign>)</term>
+      <meaning id="fs-idm27906512">
+        <para id="UUID2a53e790-af94-4e20-706d-11ed1f06b3fc">koszty związane z dopasowaniem i zawarciem transakcji pomiędzy pożyczkodawcami i pożyczkobiorcami</para>
       </meaning>
     </definition>
   </glossary>

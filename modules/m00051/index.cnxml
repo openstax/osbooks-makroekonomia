@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U71f1ebcd-07ce-45e3-8b66-6f5c592afb9b" id="U71f1ebcd-07ce-45e3-8b66-6f5c592afb9b" xml:lang="en" cnxml-version="0.7" class="introduction">
-  <title>Wprowadzenie dopolityki pieniężnej i regulacyjnej banku centralnego</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ua08af72a-84a5-4643-8085-efbc6f5d8f12" id="Ua08af72a-84a5-4643-8085-efbc6f5d8f12" xml:lang="en" cnxml-version="0.7">
+  <title>9.4 Jak bank kreuje pieniądz</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00051</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/71f1ebcd-07ce-45e3-8b66-6f5c592afb9b</md:content-url>
-    <md:title>Wprowadzenie dopolityki pieniężnej i regulacyjnej banku centralnego</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/a08af72a-84a5-4643-8085-efbc6f5d8f12</md:content-url>
+    <md:title>9.4 Jak bank kreuje pieniądz</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:04.739642462+00:00</md:version>
-    <md:created>2023-08-30T08:02:04.739642462+00:00</md:created>
-    <md:revised>2023-08-30T08:02:04.739642462+00:00</md:revised>
+    <md:version>2023-09-11T10:25:11.989677319+00:00</md:version>
+    <md:created>2023-09-11T10:25:11.989677319+00:00</md:created>
+    <md:revised>2023-09-11T10:25:11.989677319+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,41 +20,212 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>71f1ebcd-07ce-45e3-8b66-6f5c592afb9b</md:uuid>
+    <md:uuid>a08af72a-84a5-4643-8085-efbc6f5d8f12</md:uuid>
   </metadata>
   <content>
-    <figure id="CNX_Econ_C28_000" class="splash">
-      <title id="UUID4dfc9e8b-48cb-4e44-494e-44044a584089">Gmach Marrinera S. Ecclesa, główna siedziba Banku Rezerwy Federalnej w Waszyngtonie</title>
-      <media alt="Zdjęcie przedstawia wejście do budynku imienia Marrinera S. Ecclesa, głównej siedziby amerykańskiego banku centralnego, czyli Systemu Rezerwy Federalnej." id="fs-idp29671408">
-        <image src="../../media//CNX_Econ_C28_000.jpg" mime-type="image/jpeg" id="UUIDf9f7b3f1-e730-4cde-719e-a3c5dbe4dc8e" />
-      </media>
-      <caption id="UUID9a16747a-535c-4bf5-5e33-32a8355b3978">Za tymi drzwiami zapadają niektóre z najważniejszych decyzji dotyczących polityki pieniężnej w Stanach Zjednoczonych. (Źródło: modyfikacja pracy „squirrel83”/Flickr Creative Commons)</caption>
-    </figure>
-    <note type="note" id="fs-idm93457376" class="bringhome economics">
-      <title id="UUID9d185b7b-1284-4d12-5002-74b46205242f">Jak bardzo można obniżyć stopy procentowe?</title>
-      <para id="UUIDf1514d2e-e5e3-42f8-4621-a5c41447cbe3">Większość ekonomistów uważa, że polityka pieniężna (czyli decyzje banku centralnego, które przekładają się na wysokość stóp procentowych m.in. poprzez zasady i warunki udzielanych kredytów) ma ogromny wpływ na gospodarkę każdego kraju. Z ekspansywną polityką pieniężną (monetarną) mamy do czynienia wtedy, gdy bank centralny obniża stopy procentowe i zwiększa dostępność kredytu. W efekcie tych działań inwestycje przedsiębiorstw i wydatki gospodarstw domowych rosną, powodując wzrost PKB i zatrudnienia.</para>
-      <para id="UUIDc364c983-f55b-4402-410d-d9610260148b">Co się jednak stanie, jeśli stopy procentowe narzucone przez banki komercyjne jako koszt kredytu są już bliskie zeru? Nie można przecież obniżyć ich poniżej zera, prawda? Oznaczałoby to bowiem, że pożyczkodawcy płaciliby pożyczkobiorcom za pożyczanie od nich pieniędzy. Właśnie w takiej sytuacji znalazł się System Rezerwy Federalnej USA pod koniec globalnego kryzysu finansowego, czyli w roku 2009, a także w czasie recesji spowodowanej pandemią koronawirusa w roku 2020. Stopa funduszy federalnych, czyli stopa procentowa będąca punktem odniesienia dla banków komercyjnych w ich działalności kredytowej, którą amerykański bank centralny traktuje jako podstawowe narzędzie polityki pieniężnej, w roku 2007 wynosiła ok. 5%. W ciągu kolejnych dwóch lat obniżyła się do poziomu 0,16%. Po zakończeniu kryzysu ponownie wzrosła do ok. 2%, a po rozpoczęciu recesji pandemicznej spadła po raz kolejny, w marcu 2020 r. osiągając zaledwie 0,05%.</para>
-      <para id="UUID1175da48-75f1-447d-51c1-b4bf1098f01f">Politykę Banku Rezerwy Federalnej w latach 2008–2009 komplikowało również to, że polityka fiskalna, czyli drugi ze sposobów, w jaki państwo może wpływać na sytuację w gospodarce, nie mogła się opierać na obniżkach podatków i wzroście wydatków ze względu na sytuację budżetu federalnego w Stanach Zjednoczonych i powszechne obawy, że zarówno jego deficyt, jak i rozmiary długu publicznego są zbyt wysokie. Jakie było zatem pole manewru amerykańskiego banku centralnego? W jaki sposób System Rezerwy Federalnej mógł kształtować politykę pieniężną, aby stymulować gospodarkę? Dodatkowo o ile polityka fiskalna w czasie recesji pandemicznej była bardziej agresywna, to sytuacja gospodarcza sektora przedsiębiorstw i gospodarstw domowych również była trudniejsza i konieczne okazało się dodatkowe wsparcie finansowe skierowane do obu grup podmiotów. Rozwiązaniem problemu dolnej granicy wysokości stóp procentowych w czasie tych kryzysów była – jak zostanie to przedstawione w niniejszym rozdziale – zmiana reguł gry.</para>
-    </note>
-    <note type="note" id="fs-idm75858032" class="chapter-objectives economics">
-      <title id="UUIDa66573ae-de1d-4986-46b1-55604a1fed12">Wprowadzenie do polityki pieniężnej i regulacyjnej banku centralnego</title>
-      <para id="fs-idm100242240">Dzięki lekturze tego rozdziału dowiesz się:</para>
-      <list id="fs-idm30198304">
-        <item id="UUIDbcc02194-71c3-4546-5348-30e20e8847a1">
-          <para id="UUIDd007f3c4-732f-4715-52ea-a16cb629dd16">W jaki sposób banki centralne wpływają na działalność banków komercyjnych</para>
+    <note type="note" id="UUID704d5026-y756-4432-2f8243826e62d49c" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID5e49d930-83b2-4670-45c8-fa69c89fc4ef">
+          <para id="UUID883e2bc4-a6a2-4ff8-4605-ab59a8d206e7">Wykorzystać wzór na mnożnik kreacji pieniądza, aby objaśnić, w jaki sposób banki kreują pieniądz bezgotówkowy</para>
         </item>
-        <item id="UUIDb4a5f4dd-860d-4c37-7974-702f1567722d">
-          <para id="UUIDd8b15473-3a04-45b8-4b69-6547f94e5b9b">Jakie są narzędzia polityki pieniężnej (monetarnej) wykorzystywane przez banki centralne</para>
+        <item id="UUID88bae964-0d3e-4bc4-5f4a-ced3a8a9f5c5">
+          <para id="UUIDae86053b-48dc-4550-6472-139c2bfa18c6">Analizować i samodzielnie układać proste bilanse zgodne ze schematem teowym</para>
         </item>
-        <item id="UUIDdbe29aea-14f2-4c9a-4d33-c24d55bfd46d">
-          <para id="UUIDd634010d-c19f-4c04-44d3-671d8635c86f">W jaki sposób polityka pieniężna przekłada się na sytuację w gospodarce</para>
-        </item>
-        <item id="UUID7eaf342b-c1f0-418c-5f8d-18ada7e54e01">
-          <para id="UUIDce1fc192-c655-4a92-6d42-7b46510c4f73">Jakie są pułapki polityki pieniężnej</para>
+        <item id="UUIDfa65cb9c-6d9d-4b77-78db-8a43a7673c7e">
+          <para id="UUID39ca8a5c-8b22-40bd-6662-1b0ed3fc15f5">Wytłumaczyć ryzyko i korzyści dla gospodarki związane z istnieniem pieniędzy i sektora bankowego</para>
         </item>
       </list>
     </note>
-    <para id="UUIDe2e5b521-be76-4f1c-6f7c-9c3de1846676">Pieniądze, pożyczki (oraz kredyty) i banki pozostają ze sobą w nierozerwalnym związku. Pieniądze są deponowane na rachunkach bankowych, a następnie pożyczane przedsiębiorstwom, gospodarstwom domowym i innym bankom. Jeśli ten zazębiający się system pieniądza, pożyczek i banków działa efektywnie, transakcje gospodarcze na rynkach dóbr, usług i czynników produkcji zawierane są płynnie, a oszczędzający bez problemu wchodzą w interakcje z pożyczkobiorcami. Jednak jeśli system pieniężny i bankowy nie działa sprawnie, gospodarka może albo wpaść w recesję, albo cierpieć z powodu przedłużającej się inflacji.</para>
-    <para id="UUID1bb7bf83-46f4-493a-4c0d-e1a9d9b0b386">Państwo (jego wyspecjalizowane agendy) wspiera funkcjonowanie tego systemu. Jednak mechanizmy te nie zawsze działają bez turbulencji. W niniejszym rozdziale zostaną omówione zasady, zgodnie z którymi prowadzona jest polityka pieniężna, oraz czynniki mogące ograniczyć jej skuteczność i efektywność.</para>
+    <para id="fs-idm97044912">Banki i pieniądze pozostają ze sobą w nierozerwalnym związku. I nie chodzi tylko o to, że większa część podaży pieniądza ma formę zapisów na rachunkach bankowych. System bankowy może kreować pieniądz (tworzyć go dosłownie z niczego) poprzez proces udzielania pożyczek. W niniejszym podrozdziale dokładnie wytłumaczymy, w jaki sposób banki to robią.</para>
+    <section id="fs-idp41750032">
+      <title id="UUIDe7f6966a-7303-4885-6194-b1c6306731b8">Proces kreacji pieniądza przez jeden bank</title>
+      <para id="fs-idp71581536">Zacznijmy od hipotetycznego podmiotu o nazwie Bank Wyjątkowy, który ma depozyty o wartości 10 mln zł. Jego bilans w sytuacji, w której wszystkie depozyty są przechowywane w formie gotówki w skarbcu, jest przedstawiony na <link target-id="CNX_Econ_C27_005" document="" cmlnle:case="locative" id="UUIDee9ce4e6-97b1-428e-658a-2f2b8b7d2173" />. Na tym etapie Bank Wyjątkowy po prostu przechowuje pieniądze depozytariuszy i nie wykorzystuje ich do udzielania jakichkolwiek pożyczek czy kredytów (można powiedzieć, że jest nie tyle bankiem, co wielką skrytką depozytową). W tym uproszczonym przykładzie Bank Wyjątkowy nie uzyskuje żadnych dochodów z tytułu odsetek od udzielonych pożyczek i nie wypłaca depozytariuszom oprocentowania (aby pokryć koszty działalności, zapewne pobiera od nich opłatę za przechowywanie środków).</para>
+      <figure id="CNX_Econ_C27_005">
+        <title id="UUID4ee5c127-285f-47c3-4752-89a721263a6b">Bilans Banku Wyjątkowego: wpłata depozytów o wartości 10 mln zł</title>
+        <media alt="Po stronie aktywów (lewej) zapisane są rezerwy o wartości 10 mln zł, zaś po stronie pasywów (prawej) depozyty o takiej samej wartości." id="fs-idm101945056">
+          <image src="../../media//CNX_Econ_C27_005.svg" mime-type="image/svg+xml" id="UUID52b4d0c9-d04f-4fc1-547a-23bf09d8e131" />
+        </media>
+      </figure>
+      <para id="UUIDc7081b5c-edd4-46b2-7ecf-2c73b003d092">Bank centralny wymaga, aby analizowany podmiot utrzymywał 10% wartości depozytów jako rezerwę (co stanowi 1 mln zł). Pozostałe 9 mln zł Bank Wyjątkowy może wykorzystać, aby udzielać kredytów i pożyczek. Jeśli uda mu się znaleźć chętnych na całą tę kwotę, naliczy odsetki od pożyczonego kapitału, dzięki czemu będzie dysponował środkami, które umożliwią mu zapłatę odsetek depozytariuszom i uzyskanie dochodów odsetkowych pokrywających koszty funkcjonowania i wypłatę zysku jego właścicielom (różnica pomiędzy oprocentowaniem kredytów i depozytów nazywana jest marżą odsetkową i stanowi, oprócz różnego rodzaju opłat i prowizji, podstawowe źródło przychodów każdego banku). Aby utrzymać przejrzystość analizowanego przykładu, na razie nie umieszczamy przychodów z odsetek w bilansie banku. Zwróć uwagę, że wraz z decyzją o udzielaniu kredytów i pożyczek Bank Wyjątkowy przestał być wyłącznie skrytką depozytową, a stał się w pełnym tego słowa znaczeniu bankiem, czyli pośrednikiem finansowym pomiędzy oszczędzającymi a kredytobiorcami.</para>
+      <para id="fs-idm26667440">Opisane wyżej posunięcie oznacza zmiany w bilansie Banku Wyjątkowego, co zostało przedstawione na <link target-id="CNX_Econ_C27_006" document="" cmlnle:case="locative" id="UUIDd93feaf9-03ee-40bb-6d90-6f4145b29515" />. Teraz ma on 1 mln zł w rezerwach i pożyczkę o wartości 9 mln zł udzieloną firmie Janek Autonaprawy. Po stronie pasywów w dalszym ciągu widnieją depozyty o wartości 10 mln zł.</para>
+      <para id="UUID0357974a-8d76-4a51-6703-62a18151ae33" />
+      <figure id="CNX_Econ_C27_006">
+        <title id="UUID5b867dcc-c9df-413d-6d53-793efc83cdd4">Bilans Banku Wyjątkowego: rezerwy w wysokości 10% depozytów, pierwsza runda pożyczek</title>
+        <media alt="Po stronie aktywów (lewej) zapisane są rezerwy o wartości 1 mln zł i pożyczka w wysokości 9 mln zł, zaś po stronie pasywów (prawej) depozyty o wartości 10 mln zł." id="fs-idm68693616">
+          <image src="../../media//CNX_Econ_C27_006.svg" mime-type="image/svg+xml" id="UUIDd7f536a7-d953-40b3-47c8-8dbe03f770fa" />
+        </media>
+      </figure>
+      <para id="UUID7a046d9a-7861-4c4e-507e-b38616fc1cef">Bank Wyjątkowy pożycza 9 mln zł firmie Janek Autonaprawy. Bank rejestruje tę pożyczkę, dokonując odpowiedniej adnotacji w swoim bilansie. Pożyczka jest zapisana po stronie aktywów, ponieważ będzie generować dochód odsetkowy dla banku. Oczywiście, pan Janek, właściciel firmy, nie wyjdzie z banku, niosąc 9 mln w gotówce. Byłoby to nie tylko niebezpieczne, ale również nielegalne (w UE istnieją ograniczenia dotyczące wartości transakcji gotówkowych, jakich mogą dokonywać przedsiębiorstwa). Zgodnie z dyspozycją pana Janka Bank Wyjątkowy dokona przelewu tej kwoty na jego rachunek firmowy (dostępny na żądanie) utrzymywany w Pierwszym Banku Krajowym. Dzięki temu wartość depozytów w Pierwszym Banku Krajowym wzrośnie o 9 mln zł, o podobną kwotę powiększą się również jego rezerwy, tak jak to pokazano na <link target-id="CNX_Econ_C27_007" document="" cmlnle:case="locative" id="UUID29016037-9290-447c-481e-c7abf2357e5f" />. Podmiot ten, podobnie jak wszystkie inne banki komercyjne, musi utrzymywać 10% wartości depozytów w formie rezerw gotówkowych, ale resztę może pożyczyć.</para>
+      <para id="UUID7fa7164c-4382-4104-64d8-10da1a5bd511" />
+      <figure id="CNX_Econ_C27_007">
+        <title id="UUIDc30efea2-598d-4dae-686e-495170f8e709">Zmiana w bilansie Pierwszego Banku Krajowego</title>
+        <media alt="Po stronie aktywów (lewej) dopisane zostały rezerwy o wartości 9 mln zł, zaś po stronie pasywów (prawej) depozyty o takiej samej wartości." id="fs-idm64938768">
+          <image src="../../media//CNX_Econ_C27_007.svg" mime-type="image/svg+xml" id="UUIDc8910089-9425-4e00-4e17-8117ae3242c0" />
+        </media>
+      </figure>
+      <para id="fs-idp101495136">Udzielanie pożyczek dzięki środkom zdeponowanych na rachunkach depozytowych zwiększa podaż pieniądza M1. Pamiętaj, że definicja agregatu pieniężnego M1 obejmuje depozyty na żądanie, które można łatwo wykorzystać do zakupu dóbr i usług (wystarczy posłużyć się kartą debetową lub wypłacić pieniądze z bankomatu). Zauważ, że podaż pieniądza wynosi teraz 19 mln zł: 10 mln zł w depozytach Banku Wyjątkowego i 9 mln zł w depozytach Pierwszego Banku Krajowego (początkowa podaż pieniądza wynosiła tylko 10 mln zł). Oczywiście, ponieważ właściciel firmy Janek Autonaprawy opłaca drobne rachunki i zakup części za pomocą firmowej karty debetowej, wartość depozytów będzie się zmniejszać. Niemniej jeśli regulacje bankowe określają minimalną wysokość rezerw na 10% wartości wkładów, nadwyżkę można przeznaczyć na kredyty i pożyczki. W naszym przykładzie pożyczka zwiększyła podaż pieniądza o 9 mln zł.</para>
+      <para id="UUID41150e22-a424-40d0-7c03-5c0ba71c1436">Pierwszy Bank Krajowy, posiadając depozyty o wartości 9 mln zł, musi utrzymywać rezerwy w wysokości jedynie 10% wartości depozytów (900 tys. zł), w związku z czym może pożyczyć pozostałe 90% wartości depozytów (8,1 mln zł) firmie Jacek Uczciwy Autohandel, co pokazuje <link target-id="CNX_Econ_C27_008" document="" id="UUIDbf7cb863-905c-4351-4b94-21131bf7bcee" />.</para>
+      <figure id="CNX_Econ_C27_008">
+        <title id="UUIDb9e26839-2574-47fe-7b64-85ef62a42fa5">Kolejna zmiana w bilansie Pierwszego Banku Krajowego</title>
+        <media alt="Po stronie aktywów (lewej) zapisane są rezerwy o wartości 900 tys. zł i pożyczki w wysokości 8,1 mln zł, zaś po stronie pasywów (prawej) depozyty o wartości 9 mln zł." id="fs-idp809728">
+          <image src="../../media//CNX_Econ_C27_008.svg" mime-type="image/svg+xml" id="UUIDd1c0c5f9-67f8-4660-51d8-6ecf0b7463e6" />
+        </media>
+      </figure>
+      <para id="UUIDae253c88-3503-4ee0-45ca-5851582e7cc8">Jeśli właściciel firmy Jacek Uczciwy Autohandel zdeponuje tę pożyczkę na rachunku bieżącym w Drugim Banku Krajowym, podaż pieniądza wzrośnie o dodatkowe 8,1 mln zł, co łatwo dostrzec na <link target-id="CNX_Econ_C27_009" document="" cmlnle:case="locative" id="UUID1bb9fe45-0bf7-4301-5f9b-686dca1ce391" />.</para>
+      <figure id="CNX_Econ_C27_009">
+        <title id="UUID098bbd7a-2215-473b-6f54-38932b40f5fb">Zmiana w bilansie Drugiego Banku Krajowego</title>
+        <media alt="Po stronie aktywów (lewej) dopisane zostały rezerwy w wysokości 8,1 mln zł, zaś po stronie pasywów (prawej) depozyty o takiej samej wartości." id="fs-idp136276000">
+          <image src="../../media//CNX_Econ_C27_009.svg" mime-type="image/svg+xml" id="UUID32cc03ef-b6b1-4cef-5cb1-b5ab7b56bcdf" />
+        </media>
+      </figure>
+      <para id="UUIDb2acddde-ab94-472a-6fa5-749a8c6645fe">Jak takie kreowanie pieniądza (czyli tworzenie go z niczego) jest możliwe? Otóż wynika to z faktu, że w systemie bankowym istnieje wiele podmiotów, które są zobowiązane do przechowywania jedynie niewielkiej części depozytów w formie gotówkowych rezerw (w naszym przykładzie jest to 10%). Resztę mogą zamienić na kredyt, który zostanie zdeponowany w innym banku i już jako depozyt na żądanie powiększy wartość agregatu pieniężnego M1, a tym samym podaż pieniądza.</para>
+      <note type="note" id="fs-idm43170752" class="economics linkup">
+        <para id="fs-idp49860960">Obejrzyj to <link url="http://openstax.org/l/createmoney" id="UUID5ba42e28-baed-44eb-6b44-37c25790fcd0">wideo</link>, aby dowiedzieć się więcej o tym, w jaki sposób banki kreują pieniądz bezgotówkowy.</para>
+      </note>
+    </section>
+    <section id="fs-idm88707968">
+      <title id="UUID8e6571c2-a86e-430b-4856-77c130f13fd4">Mnożnik kreacji pieniądza i system bankowy z wieloma podmiotami</title>
+      <para id="UUIDd070acf9-493b-4475-5c48-f41ef9c64014">W systemie bankowym, w ramach którego funkcjonuje wiele podmiotów, Bank Wyjątkowy zamienił swoją nadwyżkę rezerwy (stanowiła ona bowiem 100% wartości złożonych depozytów, zaś bank centralny wymaga od banków komercyjnych rezerwy w wysokości 10% depozytów) na pożyczkę dla firmy Janek Autonaprawy, która została przetransferowana do Pierwszego Banku Krajowego. Również ten bank miał nadwyżkę rezerwy gotówkowej w stosunku do wartości depozytów, w związku z czym zamienia ją na pożyczkę udzieloną firmie Jacek Uczciwy Autohandel, która z kolei została przelana na konto w Drugim Banku Krajowym. Ten również będzie miał nadwyżkę rezerwy w stosunku do wartości depozytów, więc zapewne także będzie starał się udzielić kredytu lub pożyczki przedsiębiorstwom lub gospodarstwom domowym. Jeśli wszystkie banki będą się sukcesywnie i konsekwentnie pozbywać swojej nadwyżki rezerw gotówkowych, podaż pieniądza znacznie wzrośnie. W systemie z wieloma bankami całkowitą zdolność systemu bankowego do kreacji pieniądza określa mnożnik kreacji pieniądza. Jest to formuła matematyczna pozwalająca na obliczenie tego, ile pieniądza da się wykreować dzięki jednostce monetarnej powiększającej depozyty przy danym poziomie rezerw gotówkowych.</para>
+      <para id="UUID45131898-354d-48b7-6e15-fac63c160441">A oto formuła <term id="UUIDd1d5d650-507c-4b26-6f29-bec61ec41040">mnożnika kreacji pieniądza</term> (ang. <foreign xml:lang="en" id="UUIDc0af0288-4f32-4d1d-7170-f09be0833f61"><term id="UUID61469b98-23f5-414b-4e34-bd6ee3a0880e">money multiplier formula</term></foreign>):</para>
+      <equation id="eip-779" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mtext>Rezerwa obowiązkowa</mtext></mfrac></math></equation>
+      <para id="UUID28c443f7-85a5-4362-72c9-600319e1d85d">Aby określić całkowitą wielkość podaży pieniądza M1, która może zostać wytworzona w systemie bankowym, mnożnik kreacji pieniądza musimy pomnożyć przez nadwyżkę kwotową rezerw obowiązkowych w stosunku do ich minimalnej wysokości. Zapoznaj się z <link target-id="fs-idp23765232" cmlnle:case="instrumental" id="UUID827b26c1-056f-4d71-4170-aac189439781" /> i prześledź przedstawione tam obliczenia.</para>
+      <note type="note" id="fs-idp23765232" class="economics workout">
+        <title id="UUID86ba7dca-d4b3-4ca7-5cb6-13fb83c51d38">Wykorzystanie formuły matematycznej mnożnika kreacji pieniądza</title>
+        <para id="fs-idm45440944">Wykorzystajmy mnożnik kreacji pieniądza do opisanego powyżej przykładu.</para>
+        <para id="UUIDd1f3c4a7-9c0a-4590-6717-88018e3c36f6">Krok 1. W przypadku Banku Wyjątkowego, dla którego wymagana rezerwa wynosi 10% (lub 0,10), mnożnik kreacji pieniądza wynosi 1 podzielone przez 0,10, co daje 10.</para>
+        <para id="UUIDd311be73-eb71-4a50-71c5-d348b14c7c47">Ustaliliśmy, że nadwyżka kwotowa rezerwy gotówkowej w stosunku do wartości depozytów złożonych w Banku Wyjątkowym wynosi 9 mln zł, korzystając zatem ze wzoru, możemy określić całkowitą zmianę podaży pieniądza M1:</para>
+        <equation id="eip-795" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Całkowita zmiana podaży pieniądza M1</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mn>1</mn><mtext>Rezerwa obowiązkowa</mtext></mfrac><mo> × </mo><mtext>Nadwyżka kwotowa rezerwy w stosunku do wartości depozytów</mtext></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mfrac><mn>1</mn><mrow><mn>0,10</mn></mrow></mfrac><mo> × </mo><mo>9</mo><mtext> mln zł</mtext></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>10</mn><mo> × </mo><mo>9</mo><mtext> mln zł</mtext></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mo>90</mo><mtext> mln zł</mtext></mtd></mtr></mtable></math></equation>
+        <para id="UUID899a1e84-c9de-485d-7c89-00212823a14a">Krok 3. Możemy zatem stwierdzić, że w naszym przykładzie całkowita ilość pieniędzy wygenerowanych w tej hipotetycznej gospodarce po zakończeniu wszystkich rund pożyczkowych wyniesie 90 mln zł.</para>
+      </note>
+    </section>
+    <section id="fs-idp9084608">
+      <title id="UUID5ddc4a12-21c0-47a2-57ad-414f11efad43">Ograniczenia skuteczności mnożnika kreacji pieniądza</title>
+      <para id="fs-idp47413856">Wartość mnożnika kreacji pieniądza będzie zależała od minimalnej wysokości rezerw, które narzuca bank centralny. Oczywiście każdy bank może utrzymywać rezerwy gotówkowe, które są wyższe od minimalnego poziomu. Banki mogą zdecydować się na zróżnicowanie wielkości i struktury posiadanych rezerw z dwóch powodów: warunków makroekonomicznych i regulacji rządowych. Gdy gospodarka znajduje się w recesji, banki prawdopodobnie będą utrzymywać wyższe rezerwy, ponieważ obawiają się, że klienci częściej nie będą w stanie spłacać swoich zobowiązań wobec nich. Bank centralny może również podnieść lub obniżyć minimalny poziom rezerw utrzymywanych przez banki, co wpływa na podaż pieniądza w gospodarce. Zostanie to dokładniej omówione w <link document="m00052" cmlnle:case="locative" id="UUIDb0bf809e-2f1c-489d-484a-170de8db898e" />.</para>
+      <para id="UUIDb6c008b8-e9e3-408b-73d7-8e9a828def10">Proces kreowania pieniądza przez banki w jednoznaczny sposób wskazuje, że wzrost podaży pieniądza w gospodarce jest ściśle powiązany z liczbą i wartością udzielanych pożyczek lub kredytów. Wszystkie pieniądze w gospodarce, z wyjątkiem wyemitowanej przez bank centralny gotówki, są konsekwencją pożyczek bankowych, które następnie trafiają jako depozyty na konta w innych bankach.</para>
+      <para id="UUIDacc052a0-f8b6-4dba-5ef7-6ed4dd6dc97b">Wreszcie mnożnik kreacji pieniądza zależy od tego, jak wiele pieniędzy osiada w systemie bankowym. Jeśli zamiast wpłacać gotówkę na konta bankowe, gospodarstwa domowe i przedsiębiorstwa zdecydują się na jej przechowywanie w skrytkach depozytowych i pudełkach po butach ukrytych w szafach, banki nie będą mogły wykorzystać tych środków, aby udzielać pożyczek. Banki centralne mają silną motywację do zapewnienia bezpieczeństwa depozytów bankowych, ponieważ jeśli ludzie obawiają się, że mogą stracić swoje pieniądze po wpłaceniu ich do banku, to po prostu tego nie zrobią, co doprowadzi do spadku liczby i wartości udzielanych kredytów i pożyczek. Stąd zresztą przepisy o minimalnym poziomie rezerw gotówkowych, który ma zabezpieczać środki umożliwiające wypłatę pieniędzy na żądanie depozytariuszy. Kraje o niskich dochodach doświadczają zjawiska określanego przez ekonomistów jako „oszczędności w materacach”, czyli pieniądze przechowywane w domach, z uwagi na niski poziom zaufania do systemu bankowego. W sytuacji, w której „oszczędności w materacach” osiągają znaczący poziom w skali gospodarki, banki nie mogą pożyczyć tych środków potencjalnym kredytobiorcom, a mnożnik kreacji pieniądza nie działa skutecznie. W takiej gospodarce zarówno podaż pieniądza, jak i wartość udzielonych kredytów maleją.</para>
+      <note type="note" id="fs-idp23562816" class="economics linkup">
+        <para id="fs-idm26144464">Obejrzyj to <link url="http://openstax.org/l/moneymyth" id="UUIDd5e2f92d-ca27-47a6-53ff-f75fa57ff8fa">wideo</link>, w którym Jem Bendell omawia „mit pieniądza”.</para>
+      </note>
+    </section>
+    <section id="fs-idm97459088">
+      <title id="UUID119ad3a5-57c1-4eb4-58ce-011910ff74c4">Pieniądze i banki – korzyści i zagrożenia</title>
+      <para id="UUID5fb91ac8-9fb8-46ad-6c8c-55c962008b33">Pieniądz i banki to wynalazki społeczne, które pomagają funkcjonować nowoczesnej gospodarce. W porównaniu z alternatywą, jaką jest barter, pieniądze znacznie ułatwiają wymianę towarów, pozyskiwanie czynników produkcji i działanie rynków finansowych. Sektor bankowy sprawia, że pieniądz jest jeszcze bardziej efektywnym narzędziem usprawniającym funkcjonowanie rynków. Co więcej, proces udzielania przez banki pożyczek na rynkach finansowych jest ściśle powiązany z kreacją pieniądza.</para>
+      <para id="UUIDb195d34f-2a72-4ed9-53bb-baae455819ed">Jednak nadzwyczajne korzyści ekonomiczne, które pojawiają się dzięki pieniądzom i bankom, generują również pewne niebezpieczeństwa. Jeśli banki nie działają w sposób efektywny, oznacza to niższe bezpieczeństwo transakcji i wyższe koszty w całej gospodarce. Gdy banki znajdują się w trudnej sytuacji finansowej z powodu powszechnego spadku wartości ich aktywów, dostępność kredytów znacznie się zmniejsza, co może być poważnym zagrożeniem dla branż, w których kredyt jest niezbędnym elementem działalności (rynek nieruchomości, produkcja samochodów, duże projekty infrastrukturalne itd.). Globalny kryzys finansowy z lat 2008–2009 boleśnie uwidocznił te prawidłowości.</para>
+      <note type="note" id="fs-idm44902736" class="bringhome economics">
+        <title id="UUID225e8fd8-b282-4972-7176-88c227940bd1">Różne kostiumy dla pieniędzy: od muszli kauri do kryptowalut</title>
+        <para id="UUIDd2479943-045f-41ae-67ae-ab16c6b85268">Światowa gospodarka przeszła długą drogę od czasów, gdy jako waluty używano muszli kauri. Odeszliśmy od pieniądza towarowego i papierowych pieniędzy zabezpieczonych surowcami na rzecz pieniądza symbolicznego (banknotów i bilonu). Wraz z rozwojem technologii i postępem globalnej integracji zmniejsza się również zapotrzebowanie na walutę papierową. Skala wykorzystania kart kredytowych i debetowych cały czas rośnie.</para>
+        <para id="UUIDa9ca501b-c6b9-45d6-49d1-83da8f9b5a1c">Ostatnim krzykiem mody, jeśli chodzi o formy pieniądza, stały się kryptowaluty. Są to cyfrowe waluty, których nie kontroluje żaden pojedynczy podmiot. Nie jest to pieniądz symboliczny, nie wspiera go bowiem żaden kraj i jego system prawny. Kryptowaluty nie są również emitowane przez banki centralne. Ich wartość (np. w stosunku do amerykańskiego dolara) jest określana przede wszystkim przez siły rynkowe, tj. podaż i popyt. Rządy mogą wpływać na wartość kryptowaluty, regulując jej użycie w granicach swojego kraju, ale ostatecznie cena i tak sprowadza się do podaży i zgłaszanego na nią popytu. Kryptowaluty przeszły długą drogę od 2009 r., kiedy to pojawił się bitcoin, a w ostatnich dwóch–trzech latach nastąpiła prawdziwa eksplozja różnych kryptowalut używanych na całym świecie.</para>
+        <para id="UUIDd3d398e8-ccd5-41d6-6273-fd247a422404">Należy zauważyć, że aby kryptowaluta mogła być uznana za pieniądz, nadal musi spełniać trzy podstawowe kryteria: musi być traktowana jako środek przechowywania wartości, jednostka rozrachunkowa i środek wymiany. O ile pierwsze dwa kryteria kryptowaluty spełniają stosunkowo łatwo, o tyle ich użycie jako środka wymiany, czyli wykorzystanie w celu kupna i sprzedaży dóbr i usług, jest bardziej skomplikowane. Podczas gdy kryptowaluty są używane w wielu nielegalnych transakcjach, rzadziej, o ile w ogóle, można je zobaczyć jako sposób płatności za dobra takie jak odzież, żywność czy czynsz za mieszkanie.</para>
+        <para id="UUID9721e59e-1b02-4ac9-6852-cab4af22097e">Najpopularniejszą kryptowalutą jest bitcoin, a tym samym najbardziej prawdopodobne jest, że właśnie on zostanie uznany za nowy rodzaj pieniądza. Nieco mniej popularne, biorąc pod uwagę wolumen handlu, są ethereum i binance coin. Istnieje jeszcze wiele innych kryptowalut, ale ich bardziej powszechne wykorzystanie jako środka wymiany jest wciąż jeszcze przed nami.</para>
+      </note>
+      <para id="UUIDfde8a3bc-602c-434a-4d54-5ad545b9ab2a" />
+    </section>
+    <section id="fs-idp113385408" class="summary">
+      <title id="UUIDccea228a-83d9-4f72-7576-7613e59ec26f">Key Concepts and Summary</title>
+      <para id="UUIDebb10417-c0e0-4a9c-6b59-45d95d6d2b58">Mnożnik kreacji pieniądza definiujemy jako ilość pieniędzy, które system bankowy może wygenerować z każdej jednostki pieniężnej zaksięgowanej jako depozyt, powyżej kwoty obowiązkowych rezerw. Wzór na obliczenie mnożnika to iloraz jedności i stopy rezerw obowiązkowych lub rzeczywistej stopy rezerw utrzymywanych w sektorze bankowym. Ilość pieniądza w gospodarce i wartość kredytów są ze sobą nierozerwalnie związane. Większość pieniądza w gospodarce to kredyty udzielane przez sektor bankowy, które są następnie lokowane jako depozyty.</para>
+      <para id="fs-idp32822320">Biorąc pod uwagę zagrożenia makroekonomiczne związane z nieprawidłowo działającym systemem bankowym, w <link document="m00052" cmlnle:case="locative" id="UUIDdb5652df-cf4d-4e6c-768f-3ad157956029" /> zostanie omówiona polityka państwa w zakresie kontrolowania podaży pieniądza i utrzymywania bezpieczeństwa systemu bankowego.</para>
+    </section>
+    <section id="fs-idp104652992" class="self-check-questions">
+      <title id="UUID0fc9a738-1d33-44fc-707d-d2827d2916ee">Self-Check Questions</title>
+      <exercise id="fs-idp96820176">
+        <problem id="fs-idp22171632">
+          <para id="fs-idm4213936">Wyobraź sobie, że kupujesz kredyty na rynku wtórnym (czyli kupujesz prawo do pobierania odsetek od tych kredytów) dla banku lub innej firmy świadczącej usługi finansowe. Wyjaśnij, dlaczego możesz zapłacić więcej lub mniej za dany kredyt, jeśli:</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp35465872">
+            <item id="UUID438a4287-4a16-49b0-44e3-d69f261d8695">
+              <para id="UUID21723f9c-d4f4-47cf-634a-f012df3a4f23">Kredytobiorca przestał go terminowo spłacać.</para>
+            </item>
+            <item id="UUID6ca86b63-e922-4016-71a9-0b3e8b6ec099">
+              <para id="UUID438f7fce-eed2-4f57-7923-ba02125888af">Stopy procentowe w całej gospodarce wzrosły od czasu, gdy bank udzielił kredytu.</para>
+            </item>
+            <item id="UUID3e3f0fc1-82ed-437d-5793-26e15a89a1d5">
+              <para id="UUID9eaceca4-6312-4b67-5bcc-de4b1bcfa382">Kredytobiorcą jest firma, która właśnie zadeklarowała wysoki poziom zysków.</para>
+            </item>
+            <item id="UUID4b2ffcd1-b8bf-4a23-4841-82ab4a354787">
+              <para id="UUID994d86a2-f10a-4594-6675-044e1783f467">Stopy procentowe w całej gospodarce spadły od czasu, gdy bank udzielił kredytu.</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idp45367872">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm141887040">
+            <item id="UUIDdf7092eb-2ee6-4da2-4243-209bfb287ca4">
+              <para id="UUID2ba3c445-c9de-4e60-595e-ea25f537a0c9">Kredytobiorca, który przestał terminowo spłacać kredyt, ma najprawdopodobniej mniejsze szanse na jego całkowitą spłatę, w związku z czym cena tego instrumentu będzie maleć.</para>
+            </item>
+            <item id="UUID49a94fd5-de56-4c29-75a8-c07518218594">
+              <para id="UUIDd38ee6c5-8d42-44bd-55d0-2169e43ce341">Jeśli stopy procentowe wzrosły, to kredyt zaciągnięty w czasie relatywnie niższych stóp procentowych wygląda mniej atrakcyjnie, więc zapłacisz za niego mniej.</para>
+            </item>
+            <item id="UUID7fedf0ff-6ece-48a6-463b-da83eb4f3bb3">
+              <para id="UUIDfa95db6d-d0e0-419c-4b91-a818328f7372">Jeśli kredytobiorcą jest firma w bardzo dobrej kondycji finansowej, prawdopodobnie będzie w stanie bez problemu spłacić swoje zobowiązanie, stąd cena tego instrumentu finansowego może być wyższa.</para>
+            </item>
+            <item id="UUID55cdddad-706f-4a53-4b41-b316a06c29e3">
+              <para id="UUID671a89c3-025b-4902-53f7-3c5ab378e892">Jeśli stopy procentowe w gospodarce spadły, to kredyt jest wart więcej.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp32883680" class="review-questions">
+      <title id="UUIDa3a2b2fe-b49b-4be4-465f-279b4bc5c147">Review Questions</title>
+      <exercise id="fs-idm39149296">
+        <problem id="fs-idp106486096">
+          <para id="fs-idm33621056">W jaki sposób banki kreują pieniądz?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp62494096">
+        <problem id="fs-idp99400768">
+          <para id="fs-idm15749952">Jaki jest wzór na mnożnik kreacji pieniądza?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm67285936" class="critical-thinking">
+      <title id="UUIDe1f0f94f-e558-496e-5a42-0738485be6a3">Critical Thinking Questions</title>
+      <exercise id="fs-idm1401040">
+        <problem id="fs-idm165672336">
+          <para id="fs-idp10360496">Czy banki powinny utrzymywać 100% swoich depozytów jako rezerwy? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp22629040">
+        <problem id="fs-idm112235120">
+          <para id="fs-idp37518352">Wyjaśnij, jak wzrost stopy rezerw obowiązkowych wpłynie na proces kreacji pieniądza w systemie bankowym.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm76712576">
+        <problem id="fs-idp10177904">
+          <para id="fs-idm29337920">Jak myślisz, jakie decyzje amerykański Bank Rezerwy Federalnej (bank centralny) podjął w kwestii stopy rezerw obowiązkowych w okresie globalnego kryzysu finansowego w latach 2008–2009?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp16181248" class="problems">
+      <title id="UUIDe3e77221-d236-4f82-47ef-b1f2ba4ce811">Problems</title>
+      <exercise id="fs-idp123037088">
+        <problem id="fs-idp5028032">
+          <para id="fs-idp109253248">Bank Gargantuiczny jest jedynym bankiem w pewnej gospodarce. Podmioty ekonomiczne dysponują gotówką o wartości 20 mln zł, którą w całości deponują w Banku Gargantuicznym.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp59960320">
+            <item id="UUID34b8e416-b1ce-4619-6f92-d50654fef528">
+              <para id="UUIDa40b37bf-dd15-4156-674a-2f32ca688112">Bank Gargantuiczny decyduje się na politykę utrzymywania 100% rezerw. Stwórz bilans tego podmiotu.</para>
+            </item>
+            <item id="UUID6e56ec6b-16fe-4b2b-54ca-f04f8f517087">
+              <para id="UUID6d37ce38-4f14-4b06-6872-7ede1414adfd">Bank Gargantuiczny jest zobowiązany do utrzymywania 5% swoich depozytów w kwocie 20 mln zł w charakterze rezerw, a resztę może zaoferować pożyczkobiorcom. Jak zmieni się bilans tego podmiotu po pierwszej rundzie pożyczek?</para>
+            </item>
+            <item id="UUID0c43f1b3-cc04-4e46-6068-b353ff6c5b67">
+              <para id="UUID380d84eb-6a7a-45ae-4eb0-43f7e1571a95">Załóżmy, że Bank Gargantuiczny jednak ma konkurentów, którzy wraz z nim tworzą system bankowy. O ile wzrośnie podaż pieniądza w rozpatrywanej gospodarce po pierwotnej wpłacie dokonanej przez podmioty gospodarcze do Banku Gargantuicznego?</para>
+            </item>
+          </list>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp2797488" class="references">
+      <title id="UUID256d40f1-6561-42d2-51cc-e573bb638cc6">References</title>
+      <para id="fs-idm108406000">Bitcoin. 2013. www.bitcoin.org.</para>
+      <para id="fs-idm124107040">National Public Radio. <emphasis effect="italics">Lawmakers and Regulators Take Closer Look at Bitcoin</emphasis>. November 19, 2013. http://thedianerehmshow.org/shows/2013-11-19/lawmakers-and-regulators-take-closer-look-bitcoin.</para>
+    </section>
   </content>
+  <glossary id="UUID3ae55f32-f975-4fe9-7761-1ddb9f72f4f6">
+    <definition id="fs-idm60057472">
+      <term id="UUID410f8bdc-f326-43af-70fd-a3986741877d">mnożnik kreacji pieniądza (ang. <foreign xml:lang="en" id="UUID812a347c-4612-4b81-4dc7-2950c60f6c9d">money multiplier formula</foreign>)</term>
+      <meaning id="fs-idm4982256">
+        <para id="UUID4ed44d0d-014c-4260-4f68-f8b1c4393ac3">odwrotność stopy rezerw obowiązkowych lub stopy rezerw utrzymywanej w dobrowolny sposób w sektorze bankowym</para>
+      </meaning>
+    </definition>
+  </glossary>
 </document>

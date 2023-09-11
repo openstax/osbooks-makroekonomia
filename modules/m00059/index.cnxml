@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U6590063d-192b-4868-bd60-4b16293b5d3d" id="U6590063d-192b-4868-bd60-4b16293b5d3d" xml:lang="en" cnxml-version="0.7">
-  <title>11.3 Macroeconomic Effects of Exchange Rates</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U592f39d1-6b1f-42ca-9a3f-3faf952fb458" id="U592f39d1-6b1f-42ca-9a3f-3faf952fb458" xml:lang="en" cnxml-version="0.7">
+  <title>11.2 Demand and Supply Shifts in Foreign Exchange Markets</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00059</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/6590063d-192b-4868-bd60-4b16293b5d3d</md:content-url>
-    <md:title>11.3 Macroeconomic Effects of Exchange Rates</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/592f39d1-6b1f-42ca-9a3f-3faf952fb458</md:content-url>
+    <md:title>11.2 Demand and Supply Shifts in Foreign Exchange Markets</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:04.915710633+00:00</md:version>
-    <md:created>2023-08-30T08:02:04.915710633+00:00</md:created>
-    <md:revised>2023-08-30T08:02:04.915710633+00:00</md:revised>
+    <md:version>2023-09-11T10:25:14.459000839+00:00</md:version>
+    <md:created>2023-09-11T10:25:14.459000839+00:00</md:created>
+    <md:revised>2023-09-11T10:25:14.459000839+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,97 +20,159 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>6590063d-192b-4868-bd60-4b16293b5d3d</md:uuid>
+    <md:uuid>592f39d1-6b1f-42ca-9a3f-3faf952fb458</md:uuid>
   </metadata>
   <content>
     <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
     <list id="list-00001">
-      <item id="UUIDa64e0f22-5e0b-4da7-6d37-70e4928552af">
-        <para id="UUID5a86f92d-1eb8-430e-734b-14b848184cb0">Wyjaśnić, w jaki sposób zmiana kursu walutowego oddziałuje na globalny popyt i globalną podaż</para>
+      <item id="UUIDfa2f7a50-6d4b-4a2b-7c77-b91f5c799335">
+        <para id="UUID4e1bb54f-da60-403c-6a42-572c381dcb1b">Objaśnić sposób funkcjonowania rynku walutowego</para>
       </item>
-      <item id="UUID929b1707-70bb-4829-7a7a-a59a795de126">
-        <para id="UUIDd61e425c-d880-4eec-7f93-fa31b4590adb">Wskazać, w jaki sposób zmiana kursu walutowego może wpływać na sektor bankowy oraz wartość udzielanych kredytów</para>
+      <item id="UUID640a7a12-9b0b-49aa-6813-063e65664b30">
+        <para id="UUID55043ab1-2071-4889-71de-8ca5f245439e">Zdefiniować i wskazać przykłady arbitrażu</para>
+      </item>
+      <item id="UUIDa26727bc-6af5-4259-4df0-d2170987647f">
+        <para id="UUIDe29a174a-441d-4b38-55df-3d35c81c23e1">Zrozumieć znaczenie parytetu siły nabywczej przy porównaniach międzynarodowych</para>
       </item>
     </list>
-    <para id="fs-idm11209376">Dla banku centralnego kurs walutowy jest istotny z wielu powodów. Po pierwsze, zmiany kursu walutowego wpływają na wielkość popytu globalnego w gospodarce. Po drugie, częste i silne wahania kursu mogą zakłócać handel międzynarodowy i powodować niestabilność systemu bankowego. Jeśli kurs lokalnej waluty będzie się silnie wahał w krótkim okresie, może to doprowadzić do powstania wysokiego deficytu w bilansie obrotów bieżących i generować napływ międzynarodowego kapitału finansowego, który jest niezbędny, aby pokryć ujemne saldo na rachunku obrotów bieżących. W efekcie jeśli międzynarodowi inwestorzy zdecydują się nagle wycofać kapitał i przenieść go do innego kraju, gospodarka może wpaść w głęboką recesję. Omówmy teraz oba te scenariusze.</para>
-    <section id="fs-idm14382592">
-      <title id="UUID15a054b9-bd2d-4ef6-6174-4a63bbc09613">Kursy walutowe, popyt globalny i podaż globalna</title>
-      <para id="fs-idm10120576">Handel zagraniczny wiąże się zazwyczaj z ponoszeniem kosztów produkcji w jednej walucie przy jednoczesnym uzyskiwaniu przychodów ze sprzedaży w innej. W rezultacie zmiany kursów walutowych mogą mieć ogromny wpływ na eksport i import, a tym samym na <term id="UUID1f38adfc-1ee8-4109-6e0b-73b537758a5f">popyt globalny</term> (<foreign xml:lang="en" id="UUID6a3a46ed-e8bc-4ee3-54f5-103be8fd4b3b"><term id="UUID7cad4a9c-0867-4e1d-7330-7e2b8ed06c6f">aggregate demand</term></foreign>) w całej gospodarce.</para>
-      <para id="UUID24c2f7d1-a2fc-4666-55d6-1d7b2765c333">Na przykład w 1999 r., kiedy wprowadzono euro, jego wartość mierzona w dolarach amerykańskich wynosiła 1,06 dol. za jednostkę wspólnej waluty. Do końca 2013 r. kurs walutowy euro wzrósł do 1,37 USD/EUR (co oznacza jednoczesne osłabienie się dolara amerykańskiego). Pod koniec lutego 2017 r. kurs walutowy ponownie spadł do 1,06 USD/EUR. Zastanówmy się, jak te zmiany mogły wpłynąć na francuskie przedsiębiorstwo, które każdego roku ponosi koszty w wysokości 10 mln euro i sprzedaje swoje produkty w Stanach Zjednoczonych za 11 mln dol. W 1999 r., kiedy przedsiębiorstwo zamieniało 11 mln dol. na euro po kursie 1,06 USD/EUR (czyli 11 mln USD × [1 EUR/1,06 USD]), otrzymywało 10,4 mln euro i notowało zyski. W 2013 r., gdy to samo przedsiębiorstwo zamieniało 11 mln dol. na euro po kursie 1,37 USD/EUR (czyli 11 mln USD × [1 EUR/1,37 USD]), otrzymywało ok. 8 mln euro, czyli ponosiło stratę. Na początku 2017 r., przy kursie walutowym na poziomie 1,06 USD/EUR, przedsiębiorstwo znów osiągało zysk, taki sam jak w 1999 r. Przykład ten pokazuje, że mocniejsze euro zniechęca francuską firmę do eksportu, ponieważ koszty produkcji w walucie krajowej rosną w stosunku do przychodów ze sprzedaży uzyskiwanych w innym kraju. Natomiast z punktu widzenia gospodarki USA słabszy dolar sprzyja amerykańskiemu <term cmlnle:reference="eksport" id="UUIDec987af7-4d87-4c09-546f-c4e678e0f4ec">eksportowi</term> (<foreign xml:lang="en" id="UUID5016f8ea-4150-4845-6463-a34a70debe72"><term id="UUID3e9c8c79-c899-4da8-47b8-58d4946d8e55">exports</term></foreign>).</para>
-      <para id="fs-idm50471328">Ponieważ wzrost eksportu skutkuje większym napływem dolarów do amerykańskiej gospodarki, a wzrost importu oznacza większy odpływ dolarów, łatwo jest stwierdzić, że dla gospodarki USA eksport jest „korzystny”, a import „niekorzystny”. Podejście takie pomija jednak rolę kursów walutowych. Jeśli amerykański konsument kupuje japoński samochód za 20 000 dol. zamiast amerykańskiego za 30 000 dol., kuszące może być twierdzenie, że nie jest to dobre dla amerykańskiej gospodarki. Jednak japońska firma będzie musiała zarobione dolary wymienić na jeny, aby pokryć koszty produkcji poniesione w Japonii. Ktokolwiek kupi te dolary, będzie musiał użyć ich do zakupu amerykańskich dóbr i usług, więc pieniądze wrócą z powrotem do amerykańskiej gospodarki. Jednocześnie konsumenci oszczędzą pieniądze, kupując tańsze towary importowane, a wygospodarowane dzięki kupnie tańszych aut środki mogą przeznaczyć na inne cele (np. wyprodukowaną w USA żywność lub zakup nieruchomości).</para>
-    </section>
-    <section id="fs-idp8164416">
-      <title id="UUIDab369c7e-f489-486f-5645-2d639abaf096">Wahania kursów walutowych</title>
-      <para id="fs-idp8165056">Kursy walutowe mogą ulegać dużym wahaniom w krótkim okresie. Przykładem jest rupia indyjska, której wartość zmieniła się z 39 rupii za dolara w lutym 2008 r. do 51 rupii za dolara w marcu 2009 r., co oznacza spadek rynkowej wartości tej waluty o ponad jedną czwartą. Analizowane przez nas wcześniej przykłady wskazywały na to, że nawet rozwinięte gospodarczo i sąsiadujące ze sobą kraje, takie jak Stany Zjednoczone i Kanada, mogą odnotowywać znaczne zmiany kursów walutowych na przestrzeni kilku lat, czyli relatywnie krótkiego okresu. W przypadku przedsiębiorstw produkujących przede wszystkim towary na eksport lub firm importujących czynniki wytwórcze, a nawet przedsiębiorstw, które same nie są zaangażowane w handel zagraniczny, ale muszą konkurować z firmami prowadzącymi działalność tego typu, gwałtowne wahania kursów walutowych mogą prowadzić do ogromnych zmian wyników finansowych. Bank centralny może spróbować ograniczać gwałtowne wahania kursowe i w ten sposób ułatwiać przedsiębiorstwom ich codzienną działalność, w ramach której nacisk kładziony byłby na zwiększanie produktywności i innowacje, a nie na ciągłe myślenie o sposobie reakcji na wahania kursów walut.</para>
-      <para id="UUID6ceaa13d-8d33-4ea3-727c-1c6ae4ec1bdc">Jedna z najbardziej dotkliwych ekonomicznie konsekwencji wahań kursów walutowych może pojawić się w wyniku działań sektora bankowego. Instytucje finansowe denominują większość międzynarodowych pożyczek w kilku ważnych walutach, takich jak dolary amerykańskie, euro czy też jeny japońskie. W krajach, które nie używają tych walut, banki często pożyczają na rynkach międzynarodowych środki w walutach innych państw, np. w dolarach amerykańskich, a następnie oferują lokalnym przedsiębiorstwom i gospodarstwom domowym kredyty w walucie krajowej. Lewa część <link target-id="CNX_Econ_C29_014" cmlnle:case="genitive" id="UUID514bb660-4922-4fab-759f-63e0f5bb5f70" /> pokazuje, jak funkcjonuje ten mechanizm. Bank w Tajlandii pożycza milion dolarów amerykańskich. Następnie przelicza dolary na walutę krajową (w przypadku Tajlandii jest to bat) po kursie 40 batów za dolara, po czym udziela tajskiemu przedsiębiorstwu kredytu w batach. Przedsiębiorstwo spłaca kredyt w batach, a bank przelicza je z powrotem na dolary amerykańskie, aby spłacić pierwotną dolarową pożyczkę.</para>
-      <figure id="CNX_Econ_C29_014">
-        <title id="UUID82dbe12f-f8ae-4536-5e16-853720d4351d">Pożyczki międzynarodowe</title>
-        <media alt="Wykres przedstawia dwa scenariusze związane z zachowaniem podmiotów funkcjonujących w ramach sektora bankowego, które zaciągają na rynkach międzynarodowych kredyty w walutach obcych, zaś pozyskane środki przeliczają na walutę krajową, którą w formie kredytów i pożyczek udostępniają lokalnym podmiotom." id="fs-idp5483008">
-          <image src="../../media//CNX_Econ_C29_014.svg" mime-type="image/svg+xml" id="UUID4eee092b-f122-4234-66b0-fb2d67bd617e" />
+    <para id="fs-idp1308160">Uczestnikami rynku walutowego są przedsiębiorstwa, gospodarstwa domowe i inwestorzy, którzy kupują i oferują do sprzedaży walutę za pośrednictwem swoich banków i innych dealerów walutowych. Panel (a) <link target-id="CNX_Econv1-2_C29_05" cmlnle:case="genitive" id="UUID4f9f6c12-64df-4544-4458-6dc88c44cb56" /> przedstawia ten rynek z perspektywy dolara. Oś pionowa pokazuje kurs walutowy dolara amerykańskiego, który wyrażony jest w peso. Oś pozioma wskazuje na liczbę dolarów amerykańskich wymienianych na peso. Krzywa popytu (D) na dolary przecina się z krzywą ich podaży (S) w punkcie równowagi (E), czyli przy kursie wymiany 10 peso za dolara i całkowitym wolumenie obrotu równym 8,5 mld dol.</para>
+    <figure id="CNX_Econv1-2_C29_05">
+      <title id="UUIDfb6afad4-4f6b-4102-726f-386710782a8d">Popyt i podaż na rynku walutowym, na którym kształtuje się kurs dolara amerykańskiego i meksykańskiego peso</title>
+      <media alt="Lewy panel przedstawia podaż dolarów i popyt na dolary na rynku walutowym, na którym kształtuje się kurs wymiany dolara w stosunku do meksykańskiego peso. Prawy panel przedstawia podaż peso i popyt na peso na tym samym rynku walutowym." id="fs-idm4886768">
+        <image src="../../media//CNX_Econv1-2_C29_05.svg" mime-type="image/svg+xml" id="UUIDab441506-dfd6-4bca-4629-d2ddc8fd5164" />
+      </media>
+      <caption id="UUIDfa6b6a64-9d14-433b-71c4-f69425d2464c">Panel (a) Na osi poziomej odłożona została liczba dolarów podlegających wymianie rynkowej, zaś na osi pionowej kurs wymiany mierzony liczbą peso, którą trzeba zaoferować za 1 dol. Panel (b) Na osi poziomej odłożona została liczba peso podlegających wymianie rynkowej, zaś na osi pionowej kurs wymiany mierzony liczbą dolarów, które trzeba zaoferować za 1 peso. Na obu panelach kurs równowagi występuje w punkcie E, na przecięciu krzywej popytu (D) i krzywej podaży (S).</caption>
+    </figure>
+    <para id="fs-idm44049536">Panel (b) <link target-id="CNX_Econv1-2_C29_05" cmlnle:case="genitive" id="UUIDb22b3ade-5c53-47e3-7d45-afa7e8837317" /> przedstawia te same informacje o popycie na walutę i jej podaży co panel (a), ale z perspektywy meksykańskiego peso. Oś pionowa pokazuje kurs walutowy meksykańskiego peso mierzony w dolarach amerykańskich, natomiast oś pozioma wskazuje na liczbę peso będących przedmiotem transakcji rynkowych. Krzywa popytu (D) na peso przecina się z krzywą podaży (S) peso w punkcie równowagi (E). Równowadze odpowiada kurs walutowy równy 10 centów amerykańskich (tj. 0,1 dol.) za 1 meksykańskie peso i całkowity wolumen obrotu w wysokości 85 mld peso. Zwróć uwagę, że jeden kurs wymiany jest odwrotnością drugiego: 10 peso za dolara jest tym samym, co 10 centów za peso. Na rzeczywistym rynku walutowym prawie cały handel meksykańskimi peso odbywa się w dolarach amerykańskich (a nie np. w euro czy w polskim złotym). Jakie czynniki powodują przesunięcie krzywych popytu i podaży, prowadząc w ten sposób do zmiany kursu walutowego w równowadze? Odpowiedź na to pytanie znajduje się w następnej sekcji.</para>
+    <section id="fs-idm87470224">
+      <title id="UUIDf0c6786a-ca90-4226-5a66-fa034397939d">Oczekiwania dotyczące przyszłych kursów walutowych</title>
+      <para id="fs-idm35308736">Do z najważniejszych czynników zwiększających popyt na daną walutę na rynku walutowym należy przekonanie, że jej wartość wkrótce wzrośnie. Jednym z głównych powodów wzrostu podaży danej waluty jest oczekiwanie, że jej wartość wkrótce spadnie. Wyobraź sobie, że wiodąca gazeta biznesowa, taka jak „Wall Street Journal” lub „Financial Times”, publikuje artykuł przewidujący aprecjację meksykańskiego peso. <link target-id="CNX_Econ_C29_008" id="UUID417604e0-2684-402d-6dbe-f3a045922d18" /> przedstawia prawdopodobne skutki takiego artykułu. Krzywa popytu na meksykańskie peso przesuwa się w prawo, z położenia D<sub>0</sub> do D<sub>1</sub>, ponieważ inwestorzy są bardziej zainteresowani zakupem peso. Jednocześnie krzywa podaży peso przesuwa się w lewo, z położenia S<sub>0</sub> do S<sub>1</sub>, ponieważ inwestorzy są mniej skłonni do sprzedawania posiadanych peso. W rezultacie punkt równowagi przesuwa się z E<sub>0</sub> do E<sub>1</sub>, a kurs równowagi rośnie tym samym z 12 centów/peso do 14 centów/peso.</para>
+      <figure id="CNX_Econ_C29_008">
+        <title id="UUID95794722-6f2e-4384-5f3f-26f5d1b4a229">Reakcja rynku walutowego na zmianę oczekiwań dotyczących kształtowania się kursu w przyszłości</title>
+        <media alt="Rysunek pokazuje, jak zmieni się popyt i podaż meksykańskiego peso w sytuacji, gdy uczestnicy rynku podzielają przekonanie, że kurs peso w stosunku do dolara amerykańskiego w przyszłości ulegnie zmianie (wzrośnie lub spadnie)." id="fs-idm55874368">
+          <image src="../../media//CNX_Econv1-2_C29_06.svg" mime-type="image/svg+xml" id="UUID2bfca330-3c1f-4cba-63a1-acb2b2c739b2" />
         </media>
-        <caption id="UUID538cf7cb-6ef5-4094-6320-3c488282927f">Scenariusz, w ramach którego pozyskuje się środki w walucie obcej i udziela kredytu w walucie lokalnej, widoczny po lewej stronie wykresu, kończy się dla banku sukcesem. Analogiczny scenariusz po prawej stronie – porażką.</caption>
+        <caption id="UUIDfea0fd70-3b89-4f08-4177-99a45c7c5b9d">Ogłoszenie, że kurs peso prawdopodobnie się umocni, prowadzi do wzrostu obecnego popytu na peso ze strony inwestorów, którzy chcą skorzystać na aprecjacji. Podobnie inwestorzy będą mniej skłonni dostarczać peso na rynek walutowy, co zmniejszy podaż. Jednoczesne przesunięcia krzywej popytu w prawo, zaś krzywej podaży w lewo powodują natychmiastową aprecjację kursu walutowego.</caption>
       </figure>
-      <para id="UUID1410388e-48fb-4eb9-74b0-ac5a55a528ad">Proces zaciągania pożyczek w walucie obcej i udzielania kredytów w walucie krajowej może działać dobrze, o ile kurs walutowy się nie zmienia. Jeśli jednak dolar się umocni, a bat osłabi, pojawi się problem. Prawa strona scenariusza wydarzeń na <link target-id="CNX_Econ_C29_014" cmlnle:case="genitive" id="UUID08ec3b55-e451-47bc-7940-c8c92ee16bfe" /> pokazuje, co się dzieje, gdy bat nieoczekiwanie się osłabi. Tajskie przedsiębiorstwo nadal spłaca kredyt w całości (wraz z odsetkami). Jednak ze względu na zmianę kursu walutowego tajski bank nie może spłacić całej pożyczki (wraz z odsetkami) w dolarach amerykańskich. (Oczywiście gdyby kurs walutowy zmienił się w przeciwnym kierunku, wzmacniając tajską walutę, bank mógłby osiągnąć nieoczekiwanie duży zysk).</para>
-      <para id="UUID39f92768-ca1e-4ea3-70d0-a3b3e1937e32">W latach 1997–1998 kraje Azji Południowo-Wschodniej, m.in. Tajlandia, Korea Płd., Malezja i Indonezja, zanotowały gwałtowną deprecjację swoich walut, w niektórych przypadkach o 50% lub więcej. Państwa te doświadczały wcześniej znacznego napływu <term cmlnle:reference="zagraniczny kapitał inwestycyjny" id="UUID9e8c82f8-0038-409b-47af-26a16fcbe44a">zagranicznego kapitału inwestycyjnego</term> (<foreign xml:lang="en" id="UUIDd1ae8f12-1eec-45ce-511b-3bd037359cf9"><term id="UUIDbee14213-7699-4bdc-4707-5511051a95e4">foreign investment capital</term></foreign>), a w połowie lat 90. XX w. wartość kredytów bankowych zwiększała się od 20% do 30% rocznie. Kiedy kursy walutowe w tych krajach uległy deprecjacji, banki nie były w stanie spłacić zaciągniętych wcześniej pożyczek i doszło do bankructwa sektora bankowego. Podobny łańcuch wydarzeń wystąpił w 2002 r. w Argentynie. Kiedy argentyńskie peso straciło na wartości, tamtejsze banki nie były w stanie spłacić kapitału, który wcześniej pożyczyły w dolarach amerykańskich.</para>
-      <para id="fs-idp8154912">Banki odgrywają kluczową rolę w każdej gospodarce, ułatwiając transakcje i udzielając pożyczek przedsiębiorstwom i konsumentom. Kiedy większość największych banków danego kraju jednocześnie <term cmlnle:reference="bankrutować" id="UUID36bfd5c1-5bd0-4741-4461-18126ec6d3af">zbankrutuje</term> (<foreign xml:lang="en" id="UUID14af22e3-b662-4b8d-53d4-8a6d05551ad1"><term cmlnle:reference="go bankrupt" id="UUID5361bfd3-7d0e-46d6-71e6-20c97e2577d7">bankrupt</term></foreign>), pojawia się tam gwałtowny spadek popytu i głęboka recesja. Ponieważ głównym obowiązkiem banku centralnego jest kontrolowanie podaży pieniądza i zapewnienie stabilności systemu finansowego, musi on uważać, aby duża i nieoczekiwana deprecjacja kursu walutowego nie doprowadziła większości banków do bankructwa. Aby uzyskać więcej informacji na ten temat, wróć do rozdziału pt. „Wprowadzenie do handlu międzynarodowego i przepływów kapitałowych” (<link document="m00023" id="UUID8f0509ae-991d-41bc-7a47-89ce2bf8eea5" />).</para>
+      <para id="fs-idm14938320"><link target-id="CNX_Econ_C29_008" id="UUID8b0c3a50-1867-4645-7c9d-9a426fc71668" /> przedstawia również pewne szczególne cechy krzywych popytu i podaży na rynku walutowym. W przeciwieństwie do wszystkich innych przypadków popytu i podaży, na <term cmlnle:reference="rynek walutowy" id="UUID69e66d7e-29bd-4372-7773-4c4f474040d4">rynku walutowym</term> (ang. <foreign xml:lang="en" id="UUID711aa991-2760-4097-7617-b56a282dd32c"><term id="UUID3c4ff795-b7d2-41e8-7958-cd440b9bc691">foreign exchange market</term></foreign>) popyt i podaż zazwyczaj zmieniają się w tym samym czasie. Grupy uczestników rynku walutowego, takie jak przedsiębiorstwa i inwestorzy, składają się zarówno z kupujących, jak i sprzedających. Oczekiwania dotyczące kształtowania się kursu walutowego konkretnej waluty w przyszłości wpływają zarówno na kupujących, jak i sprzedających, czyli oddziałują jednocześnie na popyt i podaż waluty.</para>
+      <para id="fs-idm57532992">Wywołane wpływem jednego czynnika przesunięcia krzywych popytu i podaży odbywają się w przeciwnych kierunkach (wzrostowi popytu odpowiada spadek podaży i odwrotnie). A zatem powodują one zmianę kursu walutowego w tym samym kierunku. W powyższym przykładzie oba przesunięcia krzywych prowadzą do umocnienia się peso. Natomiast działają one przeciwnie, jeśli chodzi o kierunek zmian wolumenu obrotów. Rosnący popyt na peso wywołuje wzrost obrotów, podczas gdy malejąca podaż peso powoduje jego spadek. W tym konkretnym przykładzie obie zmiany się znoszą i wolumen obrotów pozostaje niezmieniony, jednak w innych przypadkach rezultatem może być spadek lub wzrost wolumenu obrotów.</para>
+      <para id="UUID344521eb-1895-42c8-6e2f-66632e4e5c3f">Przykład ten pomaga również wyjaśnić, dlaczego kursy walut często zmieniają się dość znacząco w krótkim okresie, np. w ciągu kilku tygodni lub nawet dni. Kiedy inwestorzy spodziewają się umocnienia danej waluty w przyszłości, kupują ją, wywołując natychmiastową aprecjację. Zwyżka ceny waluty może wywołać w innych inwestorach przeświadczenie, że będzie się ona dalej umacniać, a to z kolei rzeczywiście doprowadzi do jeszcze większej aprecjacji. Podobnie obawa, że waluta może się szybko osłabić, prowadzi do jej natychmiastowego osłabienia, co często wzmacnia pogląd, że waluta będzie ulegać dalszej deprecjacji. Zatem przekonania na temat przyszłej ścieżki zmian kursów walutowych mogą się wzmacniać, przynajmniej przez pewien czas, a duża część obrotów na rynkach walutowych wynika z działań dealerów, którzy próbują przechytrzyć się nawzajem i lepiej odczytać nastroje podmiotów rynkowych w zakresie tego, w jakim kierunku kursy walutowe będą się dalej zmieniać.</para>
     </section>
-    <section id="fs-idp14664048">
-      <title id="UUIDd0c75913-9668-419a-7e0c-163dff656a79">Kursy walutowe a polityka państwa</title>
-      <para id="fs-idm98754096">Każde państwo w perspektywie długookresowej preferuje stabilny kurs walutowy, aby zwiększyć skalę <term cmlnle:reference="handel międzynarodowy" id="UUID448d90f6-e4dd-4a30-4e98-1008b7479295">handlu międzynarodowego</term> (<foreign xml:lang="en" id="UUID8c59f22a-37a2-4590-45bf-65101c17bce5"><term id="UUID498642c1-fe67-436c-478d-e16095382dc9">international trade</term></foreign>) oraz zmniejszyć stopień ryzyka i niepewności w gospodarce. Jednak w krótkim okresie korzystne może okazać się osłabienie kursu walutowego (deprecjacja), aby stymulować popyt globalny i ograniczyć recesję, lub jego umocnienie (aprecjacja), aby zmniejszyć stopę inflacji. Trzeba również pamiętać, że gwałtowne umocnienie się kursu walutowego może znacząco ograniczyć eksport, zaś gwałtowne osłabienie się waluty doprowadzić sektor bankowy na skraj bankructwa. Krótko mówiąc, każdy wybór związany z kursami walutowymi (płynny lub stały kurs walutowy; umocnienie się lub osłabienie waluty) wiąże się z różnymi korzyściami i kosztami dla gospodarki.</para>
+    <section id="fs-idp40354544">
+      <title id="UUIDcf2ffd39-1fb0-404e-5f81-615868cac4ff">Stopa zwrotu z inwestycji walutowych a stopa procentowa w gospodarce</title>
+      <para id="fs-idp28571696">Motywacją do inwestycji, zarówno tych krajowych, jak i zagranicznych, jest zysk. Jeśli stopy procentowe, a tym samym stopa zwrotu z inwestycji finansowych, w danym kraju wydają się relatywnie wysokie, będą one przyciągały kapitał z zagranicy. I odwrotnie, jeśli stopy zwrotu w danym kraju wydają się stosunkowo niskie, wówczas kapitał będzie odpływał do innych państw. Zmiany oczekiwanej stopy zwrotu prowadzą do przesunięć krzywych popytu i podaży na rynku walutowym. Załóżmy, że stopy procentowe w USA rosną. Tym samym oczekiwana stopa zwrotu z inwestycji finansowych w Stanach Zjednoczonych również rośnie. W rezultacie więcej inwestorów będzie zgłaszało chęć zakupu dolarów, aby móc nabyć wyżej oprocentowane amerykańskie aktywa, a mniej inwestorów będzie skłonnych sprzedawać dolary na rynku walutowym. Krzywa popytu na dolary przesunie się w prawo, z położenia D<sub>0</sub> do D<sub>1</sub>, a krzywa podaży dolara w lewo – z S<sub>0</sub> do S<sub>1</sub>. Przedstawia to <link target-id="CNX_Econ_C29_009" id="UUID24855d9c-8c21-403c-5b12-fcdfd878ea18" />. Nowa równowaga (E<sub>1</sub>) wystąpi przy kursie wymiany 9 peso za dolara i tej samej liczbie dolarów będących przedmiotem transakcji (8,5 mld dol.). A zatem rosnąca stopa procentowa prowadzi do aprecjacji lub umocnienia się waluty danego kraju, a niższa stopa procentowa w stosunku do innych krajów prowadzi do deprecjacji lub osłabienia waluty. Ponieważ bank centralny może wykorzystywać politykę pieniężną do kształtowania poziomu stóp procentowych, jest on również w stanie wpływać na kursy walutowe. Związek ten omówimy dokładniej w dalszej części niniejszego rozdziału.</para>
+      <figure id="CNX_Econ_C29_009">
+        <title id="UUIDa9f4f515-345e-472c-615d-bc41be8d01d3">Reakcja rynku walutowego na wzrost stóp procentowych w USA</title>
+        <media alt="Wykres pokazuje, jak zmieni się kurs walutowy dolara w relacji do meksykańskiego peso w wyniku przesunięcia krzywych popytu i podaży dolarów, które są konsekwencją wzrostu stóp procentowych w USA." id="fs-idp9878720">
+          <image src="../../media//CNX_Econv1-2_C29_07.svg" mime-type="image/svg+xml" id="UUIDd56aea77-1bc8-4806-6029-4dc454c319cb" />
+        </media>
+        <caption id="UUIDd7d335d0-0c48-4cfe-7d8d-1e5af89e3820">Wyższa stopa zwrotu z inwestycji w USA sprawia, że posiadanie dolarów jest bardziej atrakcyjne. A zatem krzywa popytu na dolary na rynku walutowym przesuwa się w prawo, z położenia D<sub>0</sub> do D<sub>1</sub>, a krzywa podaży dolara w lewo, z położenia S<sub>0</sub> do S<sub>1</sub>. W nowym punkcie równowagi (E<sub>1</sub>) dolar jest silniejszy (trzeba za niego zapłacić więcej peso) niż w początkowym stanie równowagi (E<sub>0</sub>). Liczba dolarów, które są przedmiotem transakcji, pozostaje bez zmian.</caption>
+      </figure>
     </section>
-    <section id="fs-idp17422192" class="summary">
-      <title id="UUID8efa201a-5f7b-4fff-62b7-b307dc481975">Podsumowanie</title>
-      <para id="fs-idp18159424">Bank centralny musi zwracać uwagę na kursy walutowe z kilku powodów. Kursy walutowe wpływają na import i eksport, a tym samym na popyt globalny w gospodarce. Wahania kursów walutowych mogą sprawiać trudności wielu przedsiębiorstwom, w szczególności bankom. Zmianom kursu walutowego może towarzyszyć niezrównoważony przepływ międzynarodowego kapitału finansowego.</para>
+    <section id="fs-idm75436704">
+      <title id="UUIDcba74022-9705-44f2-621c-cc6b459be1b4">Zróżnicowanie stóp inflacji</title>
+      <para id="fs-idm57778288">Jeśli kraj doświadcza stosunkowo wysokiej inflacji w porównaniu z innymi państwami, wówczas siła nabywcza jego waluty maleje, co zwykle zniechęca podmioty aktywne na rynku walutowym do zgłaszania na nią popytu. <link target-id="CNX_Econ_C29_010" id="UUIDeb6d12f1-6a2f-4ab9-5032-fddeed285757" /> pokazuje przykład oparty na rzeczywistych danych. W latach 1986–1987 roczna stopa inflacji w Meksyku przekraczała 200%. Inflacja dramatycznie zmniejszyła siłę nabywczą peso. W efekcie kurs peso również spadł. <link target-id="CNX_Econ_C29_010" id="UUID9232681b-b09e-4ccc-4391-d7f14bfe2aad" /> pokazuje, że popyt na peso na rynku walutowym przesunął się z położenia D<sub>0</sub> do D<sub>1</sub>, zaś podaż peso w tym samym okresie przesunęła się z położenia S<sub>0</sub> do S<sub>1</sub>. Kurs walutowy równoważący rynek spadł z poziomu 2,5 centa za peso w początkowym stanie równowagi (E<sub>0</sub>) do 0,5 centa za peso w nowym stanie równowagi (E<sub>1</sub>). Liczba peso, które są przedmiotem transakcji, pozostaje dzięki temu na niezmienionym poziomie.</para>
+      <figure id="CNX_Econ_C29_010">
+        <title id="UUIDbbd3f9fa-751b-40cc-741b-6fccd0f0baac">Reakcja rynku walutowego na wzrost inflacji w Meksyku</title>
+        <media alt="Wykres pokazuje, jak zmieni się kurs walutowy peso w relacji do amerykańskiego dolara w wyniku przesunięcia krzywych popytu i podaży peso, które są konsekwencją wzrostu inflacji w Meksyku." id="fs-idm72888640">
+          <image src="../../media//CNX_Econ_C29_010.svg" mime-type="image/svg+xml" id="UUID2a188ebd-927a-411f-73d2-d329a34d024d" />
+        </media>
+        <caption id="UUIDeafbf5f1-f854-4061-439d-c310af627049">Jeśli kraj doświadcza stosunkowo wysokiej inflacji, siła nabywcza jego waluty maleje, a międzynarodowi inwestorzy są mniej chętni do jej utrzymywania. A zatem wzrost inflacji w Meksyku prowadzi do przesunięcia krzywej popytu na peso z położenia D<sub>0</sub> do D<sub>1</sub>, zaś krzywej podaży peso z S<sub>0</sub> do S<sub>1</sub>. Oba ruchy popytu i podaży powodują silną deprecjację peso. Liczba peso, które są przedmiotem transakcji, pozostaje w tym przykładzie bez zmian, ale w rzeczywistości również ona może wzrosnąć lub zmniejszyć się, w zależności od skali przesunięć obu krzywych.</caption>
+      </figure>
+      <note type="note" id="fs-idm9296784" class="economics linkup">
+        <para id="fs-idm19158640">Odwiedź poniższą <link url="http://openstax.org/l/bigmac" id="UUIDcac13f38-3335-4a16-7041-3f7d6957d4f3">stronę internetową</link>, aby dowiedzieć się więcej o indeksie Big Mac.</para>
+      </note>
     </section>
-    <section id="fs-idm46503904" class="self-check-questions">
-      <title id="UUID902a9717-5de6-4fef-7199-8eb3852b85d7">Pytania sprawdzające</title>
-      <exercise id="fs-idm47927504">
-        <problem id="fs-idm2498224">
-          <para id="fs-idm33161360">W niniejszym rozdziale wyjaśniono, że „jeden z najbardziej destrukcyjnych ekonomicznie skutków wahań kursów walutowych może wystąpić w sektorze bankowym”, jeśli banki zaciągają pożyczki za granicą, aby udzielać pożyczek w kraju. Dlaczego jest mniej prawdopodobne, że będzie to problem dla amerykańskiego systemu bankowego?</para>
+    <section id="fs-idm5139904">
+      <title id="UUIDdd3e41c2-29b5-4fa8-7839-b0ddaee64474">Parytet Siły Nabywczej (PSN)</title>
+      <para id="fs-idm23713664">W dłuższym horyzoncie czasowym kursy walutowe muszą mieć pewien związek z siłą nabywczą waluty w odniesieniu do towarów będących przedmiotem handlu międzynarodowego. Gdyby przy danym poziomie kursu walutowego kupno np. surowców będących przedmiotem handlu międzynarodowego – takich jak ropa, ruda uranu czy gaz ziemny – było znacznie tańsze w jednym kraju niż w innych, przedsiębiorstwa zaczęłyby kupować je taniej w tym właśnie kraju i sprzedawać na wszystkich innych rynkach lokalnych, realizując zysk w zasadzie bez żadnego ryzyka.</para>
+      <para id="UUID8869e68f-9858-4cd6-7001-1e670ef4d477">Na przykład jeśli dolar amerykański jest wart 1,30 dolara kanadyjskiego, to uncja srebra, której cena wynosi 20 USD w Stanach Zjednoczonych, powinna być sprzedawana za 26 CAD w Kanadzie. Gdyby cena tego surowca w Kanadzie była znacznie niższa niż 26 CAD za uncję, to przynajmniej niektórzy amerykańscy przedsiębiorcy wymieniliby swoje dolary amerykańskie na dolary kanadyjskie i kupowali srebro w Kanadzie. Gdyby cena metalu w Kanadzie była znacznie wyższa niż 26 CAD, to przynajmniej niektórzy nabywcy z Kanady wymieniliby swoje dolary kanadyjskie na dolary amerykańskie i udali się do Stanów Zjednoczonych, aby kupić tam srebro. Jest to zachowanie, które określa się mianem <term id="UUIDfdcbabe4-a528-4091-4c5f-92c30da84e98">arbitrażu</term> (<foreign xml:lang="en" id="UUID6b383ffa-3fc4-4ac3-7e82-f35ea3f87d6c"><term id="UUID7b3b9457-2284-4d6d-68ef-5ef5c55b02e8">arbitrage</term></foreign>), czyli wykorzystywania różnic w cenach dóbr w poszczególnych krajach w taki sposób, aby kupować je tam, gdzie są tańsze, i sprzedawać tam, gdzie ich cena jest wyższa. Dzięki arbitrażowi ceny surowców i innych podlegających standaryzacji towarów z czasem się wyrównują i są takie same we wszystkich krajach (oczywiście przy uwzględnieniu kursów walutowych i różnic w kosztach transportu). Mechanizm ten nosi również nazwę prawa jednej ceny.</para>
+      <para id="fs-idm2176432">Kurs walutowy, który zrównuje ceny towarów będących przedmiotem obrotu międzynarodowego w różnych krajach, nazywamy kursem według <term cmlnle:reference="parytet siły nabywczej (PSN)" id="UUID218adb20-96e8-43dd-7741-687966719312">parytetu siły nabywczej (PSN)</term> (ang. <foreign xml:lang="en" id="UUIDb58a0c34-3a99-41bb-7c9d-965e56cca3e5"><term id="term-00006">purchasing power parity (PPP)</term></foreign>). Grupa ekonomistów z <term cmlnle:reference="Międzynarodowy Programy Porównawczy" id="UUIDa0f7ddc2-0a9a-48c2-6a0d-1104213e237f">Międzynarodowego Programu Porównawczego</term> (ang. <foreign xml:lang="en" id="UUIDc8b8eef4-82cb-4df8-4241-e11562365110"><term id="UUID8311a07c-a8d9-4eb0-698a-5bc0310510ac">International Comparison Program</term></foreign>) prowadzonego przez Bank Światowy oblicza kurs wymiany wg PSN dla wszystkich krajów świata na podstawie szczegółowych badań cen i ilości towarów będących przedmiotem handlu międzynarodowego.</para>
+      <para id="fs-idm47567200">Kurs liczony wg parytetu siły nabywczej ma dwie istotne zalety. Po pierwsze, ekonomiści często używają kursów wg PSN do międzynarodowych porównań PKB i innych zmiennych ekonomicznych. Wyobraź sobie, że przygotowujesz tabelę przedstawiającą wartość produktu krajowego brutto w wielu krajach w ciągu ostatniej dekady i dla ułatwienia przeliczasz wszystkie wartości na dolary amerykańskie. Obliczając wartość PKB dla Japonii, należy użyć kursu walutowego jen/dolar. Czy jednak lepiej jest stosować kurs rynkowy, czy kurs wg PSN? Rynkowe kursy walut wykazują ciągłe wahania. W 2014 r. kurs wymiany wynosił 105 jenów za dolara, ale pod koniec 2015 r. za dolara amerykańskiego trzeba było zapłacić 121 jenów. Dla uproszczenia załóżmy, że PKB Japonii wyniósł 500 bln jenów zarówno w 2014, jak i 2015 r. Jeśli użyjesz rynkowych kursów walutowych, PKB Japonii wyniesie 4,8 bln dol. w 2014 r. (czyli 500 bln jenów/105 jenów za dolara) i 4,1 bln dol. w 2015 r. (czyli 500 bln jenów/121 jenów za dolara).</para>
+      <para id="UUID65f86aaa-15a0-4261-6576-696dc85dcb05">Na pierwszy rzut oka może się wydawać, że wielkość japońskiej gospodarki uległa dużej zmianie. Taki wniosek jest jednak mylący, gdyż wykorzystaliśmy rynkowy kurs walutowy, który często podlega silnym krótkookresowym wahaniom. Natomiast kursy wg PSN pozostają dość stałe i z roku na rok zmieniają się nieznacznie lub utrzymują na niezmienionym poziomie.</para>
+      <para id="UUID7cd52dad-8a87-4d3f-59ae-17e667cace92">Drugą zaletą parytetu siły nabywczej jest to, że kursy walutowe często zbliżają się do niego w miarę upływu czasu. W krótkim i średnim okresie, gdy rynkowe kursy walutowe dostosowują się do względnych zmian stóp inflacji i stóp procentowych, jak również oczekiwań dotyczących przyszłości, mogą się one nawet dość znacznie różnić od kursu wg PSN. Jednak znajomość PSN pozwoli ci nie tylko śledzić odchylenia rynkowych kursów walutowych od pewnych długookresowych trendów, ale też przewidywać ich wysokość w przyszłości.</para>
+    </section>
+    <section id="fs-idm83855968" class="summary">
+      <title id="UUIDdeb2307b-b360-4ec3-75b9-18e6d64831ed">Podsumowanie</title>
+      <para id="UUIDd63fd859-561d-45fe-48c9-62d2bf8144db">W skrajnie krótkim okresie, od kilku minut do kilku tygodni, spekulanci próbujący kupować waluty, które ich zdaniem będą się umacniać, i sprzedawać te, o których sądzą, że będą się osłabiać, wpływają na kursy walutowe. Takie spekulacje mogą zaowocować samospełniającą się przepowiednią, gdyż powszechny pogląd podmiotów rynkowych na aprecjację lub deprecjację kursu konkretnej waluty rzeczywiście do takiego zjawiska doprowadzi. W stosunkowo krótkim okresie różnice w stopach procentowych określających rentowność inwestycji pomiędzy krajami również wpływają na kursy walutowe. Kraje o względnie wysokich realnych stopach zwrotu (np. wysokich stopach procentowych) będą doświadczały aprecjacji swoich walut, ponieważ przyciągają kapitał z zagranicy. Natomiast państwa ze względnie niskimi stopami zwrotu odczują deprecjację swoich walut, ponieważ kapitał będzie z nich odpływał do innych państw.</para>
+      <para id="UUIDcfb6f256-61f0-4507-6d99-d0e3fa5a814d">W średnim okresie, od kilku miesięcy do kilku lat, na kursy walutowe wpływają też stopy inflacji. Kraje o stosunkowo wysokiej inflacji będą doświadczały mniejszego popytu na swoją walutę niż te o niższej inflacji, a tym samym ich waluta będzie się osłabiać (podlegać deprecjacji). W długim okresie obejmującym wiele lat kursy walutowe zbliżają się do poziomu zgodnego z parytetem siły nabywczej (PSN), czyli kursu wymiany powodującego, że ceny towarów będących przedmiotem handlu międzynarodowego wyrażone w różnych walutach, po przeliczeniu wg kursu zgodnego z PSN, są zbliżone we wszystkich krajach.</para>
+    </section>
+    <section id="fs-idp1009376" class="self-check-questions">
+      <title id="UUID2952f0f9-6c78-41eb-7a8a-640d0c8eb267">Pytania sprawdzające</title>
+      <exercise id="fs-idm66661904">
+        <problem id="fs-idm114669808">
+          <para id="fs-idm10924752">Załóżmy, że niepokoje polityczne w Egipcie powodują, iż spodziewana jest deprecjacja funta egipskiego. Jak wpłynie to na popyt na funta, jego podaż i kurs walutowy w porównaniu np. z dolarem amerykańskim?</para>
         </problem>
-        <solution id="fs-idm92722368">
-          <para id="fs-idp14849168">Problem pojawia się, gdy banki pożyczają walutę obcą, ale udzielają kredytów w walucie krajowej. Ponieważ aktywa banków (udzielone kredyty) są denominowane w walucie krajowej, a ich długi (pożyczki) w obcej, to kiedy waluta krajowa się osłabia, długi banków wyrażone w walucie krajowej rosną. Jeśli krajowa waluta znacznie straci na wartości, jak to miało miejsce podczas azjatyckiego kryzysu finansowego, system bankowy może upaść. Jest mało prawdopodobne, aby ten problem wystąpił w przypadku banków amerykańskich, ponieważ nawet jeśli pożyczają pieniądze z zagranicy, zwykle i tak są to dolary. Pamiętaj, że w światowej gospodarce krążą biliony dolarów. Ponieważ denominowane są w nich zarówno aktywa, jak i długi, zmiana wartości dolara nie spowoduje upadku systemu bankowego, co może nastąpić, gdy banki zaciągają większość pożyczek w walucie obcej.</para>
+        <solution id="fs-idm35216880">
+          <para id="fs-idm30238704">Spodziewana deprecjacja waluty powoduje, że ludzie się jej pozbywają. Należy zatem oczekiwać wzrostu podaży funtów i spadku popytu na funty. Rezultatem powinien być spadek wartości funta egipskiego w stosunku do dolara.</para>
         </solution>
       </exercise>
-      <exercise id="fs-idp9389936">
-        <problem id="fs-idm44942064">
-          <para id="fs-idm41587856">Dynamicznie rozwijająca się gospodarka może przyciągać kapitał finansowy, który sprzyja dalszemu wzrostowi gospodarczemu. Jednak kapitał może równie łatwo odpłynąć z kraju, co doprowadzi do recesji. Czy kraj, którego gospodarka kwitnie, ponieważ państwo zdecydowało się stymulować konsumpcję, jest bardziej lub mniej narażony na ucieczkę kapitału niż ten, którego boom jest spowodowany wzrostem inwestycji?</para>
+      <exercise id="fs-idm63810624">
+        <problem id="fs-idp1070768">
+          <para id="fs-idp5487312">Załóżmy, że stopy procentowe w USA spadają w porównaniu z resztą świata. Jak ta zmiana wpływa na popyt na dolary, ich podaż i kurs w porównaniu np. z euro?</para>
         </problem>
-        <solution id="fs-idp7920720">
-          <para id="fs-idm67446944">Ucieczka kapitału jest możliwa w obu przypadkach. Jeśli jednak kraj pożycza pieniądze, aby inwestować w kapitał rzeczowy, prawdopodobnie łatwiej wygeneruje dochód na spłatę swoich długów niż kraj, który pożyczkami finansuje konsumpcję. W rezultacie gospodarka stymulowana inwestycjami jest mniej podatna na odpływ kapitału i recesję gospodarczą.</para>
+        <solution id="fs-idm57263072">
+          <para id="fs-idm60868640">Niższe stopy procentowe w USA sprawiają, że amerykańskie aktywa są mniej pożądane w porównaniu z aktywami dostępnymi w Unii Europejskiej. Należy oczekiwać spadku popytu na dolary i wzrostu ich podaży na rynkach walutowych. W rezultacie trzeba spodziewać się osłabienia (deprecjacji) dolara w stosunku do euro.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm2736944">
+        <problem id="fs-idm32320736">
+          <para id="fs-idm31744576">Załóżmy, że stopa inflacji w Argentynie znacznie spadła w porównaniu do innych krajów. Co prawdopodobnie stanie się z popytem na peso argentyńskie, ich podażą i kursem walutowym peso w stosunku do dolara amerykańskiego?</para>
+        </problem>
+        <solution id="fs-idm66008416">
+          <para id="fs-idm14916880">Spadek inflacji w Argentynie w porównaniu z innymi krajami powinien spowodować wzrost popytu na peso, spadek jego podaży i aprecjację na rynkach walutowych.</para>
         </solution>
       </exercise>
     </section>
-    <section id="fs-idm6140448" class="review-questions">
-      <title id="UUIDf31d6e5b-c34a-4f87-536f-80fbfdb52d8f">Sprawdź wiedzę</title>
-      <exercise id="fs-idp13709488">
-        <problem id="fs-idm26119952">
-          <para id="fs-idp4134512">Jakie są powody, dla których bank centralny może troszczyć się, przynajmniej w pewnym stopniu, o kurs walutowy?</para>
+    <section id="fs-idm134208" class="review-questions">
+      <title id="UUIDad78911d-8788-4c52-67a0-6e7fde5d6fea">Sprawdź wiedzę</title>
+      <exercise id="fs-idm40177072">
+        <problem id="fs-idm13399936">
+          <para id="fs-idp3382672">Czy podzielane przez większość uczestników rynku walutowego oczekiwanie aprecjacji waluty wpływa na jej obecny kurs? Uzasadnij swoją odpowiedź.</para>
         </problem>
       </exercise>
-      <exercise id="fs-idm56651360">
-        <problem id="fs-idm23842976">
-          <para id="fs-idp17495200">W jaki sposób niespodziewana deprecjacja waluty lokalnej może zaszkodzić kondycji finansowej krjowych banków?</para>
+      <exercise id="fs-idm76627344">
+        <problem id="fs-idm32796144">
+          <para id="fs-idm62129568">Czy wyższa stopa procentowa w danym kraju, przy innych czynnikach niezmienionych, wpływa na kurs walutowy? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm148826704">
+        <problem id="fs-idm40002816">
+          <para id="fs-idm39896320">Czy wyższa stopa inflacji w gospodarce, przy innych czynnikach niezmienionych, wpływa na kurs walutowy? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm11884256">
+        <problem id="fs-idm54978608">
+          <para id="fs-idm56482000">Wyjaśnij, w jaki sposób obliczany jest kurs walutowy według parytetu siły nabywczej.</para>
         </problem>
       </exercise>
     </section>
-    <section id="fs-idm41515280" class="critical-thinking">
-      <title id="UUID345087e6-eb29-4def-4ed1-4569dc00ed74">Ćwicz myślenie krytyczne</title>
-      <exercise id="fs-idm45185744">
-        <problem id="fs-idp8300272">
-          <para id="fs-idm26448448">Załóżmy, że kraj ma zrównoważony bilans handlowy, czyli eksport dóbr i usług jest równy ich importowi. Czy oznacza to, że kraj ten ma zrównoważony bilans z każdym ze swoich partnerów handlowych?</para>
+    <section id="fs-idm40577776" class="critical-thinking">
+      <title id="UUIDf6bd1ac0-44c0-4257-52a0-70dd2018b22c">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idm34445792">
+        <problem id="fs-idm1876496">
+          <para id="fs-idp17328352">Jaki będzie wpływ oczekiwanej aprecjacji waluty na rentowność krajowych papierów wartościowych, np. oprocentowanie obligacji rządowych? Wskazówka: Zastanów się, jak zmiany oczekiwanego kursu walutowego i zmiany stóp procentowych wpływają na popyt na walutę i jej podaż.</para>
         </problem>
       </exercise>
-      <exercise id="fs-idm75234208">
-        <problem id="fs-idp14712672">
-          <para id="fs-idm45724144">Dowiedzieliśmy się, że zmiany kursów walutowych i odpowiadające im zmiany w bilansie handlowym wzmacniają rolę polityki pieniężnej. Czy z punktu widzenia banku centralnego jest to zjawisko korzystne, czy niekorzystne?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idm27256928">
-        <problem id="fs-idp14945376">
-          <para id="fs-idm58783296">Jeśli kraj rozwijający się potrzebuje kapitału zagranicznego, a także know-how w zakresie zarządzania i technologii, to w jaki sposób może zachęcać inwestorów zagranicznych do zaangażowania w jego gospodarkę, a jednocześnie chronić się przed ucieczką kapitału i upadkiem systemu bankowego, jak to miało miejsce podczas azjatyckiego kryzysu finansowego?</para>
+      <exercise id="fs-idm64494592">
+        <problem id="fs-idm59505504">
+          <para id="fs-idm32956304">Czy w kraju doświadczającym hiperinflacji jest bardziej, czy mniej prawdopodobne, że kurs walutowy będzie równy parytetowi siły nabywczej w porównaniu z krajem o niskiej stopie inflacji?</para>
         </problem>
       </exercise>
     </section>
   </content>
+  <glossary id="UUID45ba3672-c758-4fd7-5a7d-052f43a7474e">
+    <definition id="fs-idm58337840">
+      <term id="UUID3d2f2cc1-7cc8-444c-699a-53b29509a99c">arbitraż (ang. <foreign xml:lang="en" id="UUID17885205-db89-4f0d-5aa0-ab0198614f28">arbitrage</foreign>)</term>
+      <meaning id="fs-idm58302768">
+        <para id="UUID4bc30a90-d90a-46a9-5c6b-86e580598004">proces zakupu dóbr (głównie surowców) w kraju, w którym po uwzględnieniu kursów walutowych są one tanie, i ich sprzedaży w innym, gdzie ich cena jest wyższa</para>
+      </meaning>
+    </definition>
+    <definition id="fs-idm32629168">
+      <term id="UUIDdd34aae2-6aaa-4e89-4ad3-6cd986d240b3">parytet siły nabywczej (PSN) (<foreign xml:lang="en" id="UUID7f7b8a52-2fd9-4b23-7aed-641d5b83bb3f">purchasing power parity (PPP)</foreign>)</term>
+      <meaning id="fs-idm38641888">
+        <para id="UUID7cb6d329-3256-407b-52e3-5bd9383582c5">kurs wymiany, dzięki któremu ceny towarów będących przedmiotem handlu międzynarodowego są mniej więcej takie same we wszystkich krajach</para>
+      </meaning>
+    </definition>
+  </glossary>
 </document>

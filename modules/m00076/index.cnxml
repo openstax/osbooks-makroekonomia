@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub517b43e-f7bf-4a71-b2f6-e393031432c1" id="Ub517b43e-f7bf-4a71-b2f6-e393031432c1" xml:lang="en" cnxml-version="0.7">
-  <title>14.3  Przyczyny bezrobocia na świecie</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ude7a044c-cf57-4d1d-a699-f05cb61eabce" id="Ude7a044c-cf57-4d1d-a699-f05cb61eabce" xml:lang="en" cnxml-version="0.7">
+  <title>14.2 Podniesienie poziomu życia w krajach</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00076</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/b517b43e-f7bf-4a71-b2f6-e393031432c1</md:content-url>
-    <md:title>14.3  Przyczyny bezrobocia na świecie</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/de7a044c-cf57-4d1d-a699-f05cb61eabce</md:content-url>
+    <md:title>14.2 Podniesienie poziomu życia w krajach</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:06.019699721+00:00</md:version>
-    <md:created>2023-08-30T08:02:06.019699721+00:00</md:created>
-    <md:revised>2023-08-30T08:02:06.019699721+00:00</md:revised>
+    <md:version>2023-09-11T10:25:15.703331582+00:00</md:version>
+    <md:created>2023-09-11T10:25:15.703331582+00:00</md:created>
+    <md:revised>2023-09-11T10:25:15.703331582+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,100 +20,282 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>b517b43e-f7bf-4a71-b2f6-e393031432c1</md:uuid>
+    <md:uuid>de7a044c-cf57-4d1d-a699-f05cb61eabce</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUIDa30c766a-f79d-4d41-7df2-938a2d01f172" class="learning-objectives">
+    <note type="note" id="UUIDa334b20c-a9f7-4331-7b9b-baf7ada538e2" class="learning-objectives">
       <para id="Ch32Mod00P00">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUID695c9034-1749-4497-76e6-4efd213886a7">
-          <para id="UUID633ce56b-2e10-4c30-7497-e118b47514c9">Wskazać i przeanalizować naturę i przyczyny bezrobocia</para>
+        <item id="UUIDb650616b-3de2-4c5f-5d15-b8fbfe0e8c4b">
+          <para id="UUID26d3d013-282e-4ca6-6846-66dc29f5f483">Przeanalizować politykę ukierunkowaną na generowanie wysokiej stopy wzrostu gospodarczego w krajach o niskich dochodach dążących do podniesienia poziomu życia</para>
         </item>
-        <item id="UUIDfe156643-7720-4ec2-71b1-add0f76b99ad">
-          <para id="UUID65ed0850-1afc-4b29-6a11-13980a2f647a">Wyjaśnić pojęcie naturalnej stopy bezrobocia i zidentyfikować czynniki, które na nią wpływają</para>
+        <item id="UUIDc92c2919-72e9-4936-4548-6b9c12a25d77">
+          <para id="UUID8034635e-fe57-4410-41bc-771e2c6d698c">Dokonać oceny polityki ukierunkowanej na generowanie wysokiej stopy wzrostu gospodarczego w krajach o średnich dochodach, w szczególności tzw. azjatyckich tygrysach, wraz z ich naciskiem na rozwój technologii i rynków</para>
         </item>
-        <item id="UUIDda0a0607-384e-4eff-4cbc-3d2f834cba26">
-          <para id="UUIDbbffd48f-97f5-4016-58df-34858b0001dd">Wytłumaczyć, w jaki sposób nieefektywne rynki pracy mogą prowadzić do takich samych problemów, jakie wywołuje bezrobocie</para>
+        <item id="UUIDa6e6268b-c9f5-4abe-470d-b0ecb9ad3670">
+          <para id="UUID4b4f50f0-3de6-4440-785c-89eee44c7cd6">Przeanalizować działania krajów borykających się z trudnościami gospodarczymi, które chcą wprowadzić politykę wysokich stóp wzrostu gospodarczego</para>
+        </item>
+        <item id="UUIDedca2ead-3671-46ba-6cc5-a284c5025e25">
+          <para id="UUIDba323c58-6e19-4aa1-6e57-feb1e8293c80">Ocenić zasadność udzielania pomocy gospodarczej krajom o niskich dochodach</para>
         </item>
       </list>
     </note>
-    <para id="UUIDe8ab3b30-2f89-4a2c-6fe3-66a2966380cf">Przyczyny bezrobocia w krajach o wysokich dochodach można kategoryzować, biorąc pod uwagę dwa różne jego rodzaje: bezrobocie cykliczne, pojawiające się w gospodarce w okresie recesji, oraz naturalną stopę bezrobocia powiązaną z charakterystyką rynku pracy, na którą składają się regulacje dotyczące zatrudniania oraz zakładania i prowadzenia działalności gospodarczej.</para>
-    <section id="Ch32Mod03_01">
-      <title id="UUIDe7268ebb-6802-426e-4866-51d28268fda9">Bezrobocie cykliczne</title>
-      <para id="UUIDa54947f1-0c77-471a-684b-45c628e200fa">Keynesowski model analizy makroekonomicznych zjawisk w gospodarce wskazuje, że z bezrobociem będącym konsekwencją recesji (cyklicznym) można sobie poradzić, stosując zarówno narzędzia polityki pieniężnej, jak i fiskalnej. Sposób prowadzenia polityki pieniężnej, który ma ograniczyć negatywne skutki recesji, w tym przede wszystkim bezrobocie, jest stosunkowo prosty: ekspansywna polityka pieniężna prowadząca do obniżki stóp procentowych i tym samym powiększająca wartość kredytu i ilość pieniądza w obiegu zwiększa zagregowany popyt. W czasie recesji ryzyko wzrostu inflacji jest zwykle stosunkowo niewielkie, więc nawet bank centralny, którego priorytetem jest walka z inflacją, może pozwolić sobie na obniżenie stóp procentowych.</para>
-      <para id="UUID7db3fde1-2b3e-4ee3-4642-35d8afba5546">Jeśli chodzi o politykę fiskalną, automatyczne stabilizatory koniunktury, o których mówiliśmy w <link document="m00061" id="UUID6f4c0112-15bf-4369-73bf-6ba901a61ba1" />, powinny zadziałać samoczynnie, nawet jeśli doprowadzi to do zwiększenia deficytu budżetowego w czasie recesji. Wśród ekonomistów nie ma zgody co do tego, czy poza automatycznymi stabilizatorami koniunktury rządy w czasie recesji powinny stosować uznaniową politykę fiskalną polegającą na dodatkowych obniżkach podatków lub zwiększaniu wydatków. W przypadku szczególnie głębokich recesji (takich jak globalny kryzys finansowy lub recesja pandemiczna) argumenty przemawiające za wyjątkowo agresywnie ekspansywną polityką fiskalną są silniejsze, ale w przypadku relatywnie niewielkiej skali spadku wolumenu produkcji, biorąc pod uwagę opóźnienia w realizacji polityki fiskalnej, dyskrecjonalną politykę fiskalną kraje powinny stosować ostrożnie. Ekspansywna polityka fiskalna i monetarna nie potrafią bowiem zakończyć recesji tak, jak naciśnięcie przełącznika wyłącza lampę. Nawet po zakończeniu recesji i powrocie dodatniego tempa wzrostu gospodarczego może minąć kilka miesięcy, a nawet kilka lat, nim firmy z sektora prywatnego uznają, że klimat gospodarczy jest na tyle korzystny, że mogą ponownie zwiększać zatrudnienie.</para>
+    <para id="UUIDbfd294e5-1ad4-463a-7f6d-786587038008">Miejsca pracy powstają w gospodarkach, które zwiększają wolumen produkcji. Jakie jest podstawowe źródło wzrostu gospodarczego? Według większości ekonomistów, którzy zgadzają się z <term cxlxt:index="default" cmlnle:reference="teoria wzrostu gospodarczego" id="UUID6728cfc0-4f77-46fe-42d3-fa00c74feeab">teorią wzrostu gospodarczego</term> (ang. <foreign xml:lang="en" id="UUID2718019d-34c8-4110-745d-28c087a3f02e"><term cxlxt:index="foreign" id="UUID6c746041-cfd0-43ed-415d-c47c03b0695c">growth consensus</term></foreign>), fundamentem wzrostu gospodarczego czy też, inaczej rzecz ujmując, stałego przyrostu wolumenu produkcji dóbr i usług w gospodarce (o czym pisaliśmy w <link document="m00008" cmlnle:case="locative" id="UUIDd6633fd1-89cb-4bd4-5eea-a3b0ea9ca78a" />) jest wzrost produktywności. Ten zaś wynika z powiększenia kapitału ludzkiego i rzeczowego oraz poprawy technologii, które współdziałają ze sobą w gospodarce rynkowej. W pogoni za wzrostem gospodarczym kraje i regiony startują jednak z różnych poziomów, co ilustrują przedstawione wcześniej w <link target-id="Ch32Mod01Tab02" document="m00075" cmlnle:case="locative" id="UUID670b4342-1e72-4012-5cb4-cd38959cfb14" /> różnice w PKB per capita.</para>
+    <section id="Ch32Mod02_01">
+      <title id="UUID5c1a3a1e-09b7-448b-6234-b15019d3cfcd">Polityka wzrostu w krajach wysoko rozwiniętych</title>
+      <para id="UUIDa131fc0b-1ea4-4d59-7cc5-f524858bbda0">Dla krajów o wysokich dochodach wyzwaniem w kwestii wzrostu gospodarczego jest ciągłe dążenie do uzyskania coraz bardziej wykształconej siły roboczej, która może tworzyć nowe technologie, inwestować w ich powstawanie oraz wykorzystywać je w procesie produkcji. W efekcie celem ich polityki gospodarczej zorientowanej na wzrost jest przesunięcie krzywej zagregowanej podaży w prawo (zob. <link document="m00031" id="UUIDd8beeb70-8711-4800-757f-500f2eb279fb" />). Głównymi instrumentami polityki ukierunkowanej na osiągnięcie tego celu są: polityka fiskalna skoncentrowana na inwestycjach w kapitał ludzki, technologie oraz zakłady produkcyjne i ich wyposażenie. Kraje te uznają również, że wzrost gospodarczy osiągany jest najczęściej w stabilnym i zorientowanym na rynek otoczeniu gospodarczym. Z tego powodu stosują politykę pieniężną służącą utrzymaniu niskiej i stabilnej inflacji oraz minimalizowaniu ryzyka wahań kursów walutowych, jednocześnie zachęcając sektor przedsiębiorstw do konkurencji krajowej i międzynarodowej.</para>
+      <para id="UUID6e7e86e7-7890-41aa-6b23-90999a0cd9eb">Na początku drugiej dekady XXI w. wiele krajów o wysokich dochodach było jednak skupionych bardziej na perspektywie krótko- niż długoterminowej. Stany Zjednoczone, Unia Europejska i Japonia doświadczyły jednocześnie kryzysu finansowego i głębokiej recesji, a jej skutki – takie jak wysokie stopy bezrobocia – mogły się utrzymywać przez wiele lat. Większość rządów krajów rozwiniętych podjęła zdecydowane, a w niektórych przypadkach nawet kontrowersyjne kroki, aby pobudzić swoje gospodarki poprzez ekspansywną politykę fiskalną, kreując jednocześnie bardzo duże deficyty budżetowe. W konsekwencji w kolejnych latach państwa te musiały zaakceptować bardziej restrykcyjny wariant polityki fiskalnej, który połączył niższe wydatki rządowe z wyższymi podatkami.</para>
+      <para id="UUIDd1ba1dd8-17a8-44bb-47e6-779918dab07d">Podobnie wiele banków centralnych prowadziło wówczas silnie ekspansywną politykę pieniężną, obejmującą zarówno niemal zerowe stopy procentowe, jak i bezpośredni wzrost wartości kredytu przekładający się na szybko rosnącą podaż pieniądza gotówkowego. Na przykład w 2012 r. Shinzo Abe (zob. <link target-id="CNX_Econ_C32_007" id="UUID6b709443-4c06-4f46-5ae4-733c83258c66" />), ówczesny nowo wybrany premier Japonii, przedstawił plan wydobycia swojego kraju z trwającej od dwóch dekad stagnacji gospodarczej. Obejmował on zarówno bodziec fiskalny, jak i wzrost podaży pieniądza. Na krótką metę program był całkiem skuteczny. Jednak według czasopisma „The Economist” przy długu publicznym, który zbliżył się do 240% PKB, drukowanie pieniędzy i wydatki na roboty publiczne mogły być wyłącznie rozwiązaniami krótkoterminowymi.</para>
+      <figure id="CNX_Econ_C32_007">
+        <title id="UUIDec6760dc-84f4-416d-640f-a40bd4009b2c">Premier Japonii Shinzo Abe</title>
+        <media alt="Zdjęcie przedstawia premiera Japonii Shinzo Abe." id="mCNX_Econ_C32_007">
+          <image src="../../media//CNX_Econ_C32_007.jpg" mime-type="image/jpeg" id="UUID35757e54-96d2-4358-6068-8b4258e00e28" />
+        </media>
+        <caption id="UUIDb6f96660-f638-4b9d-55d1-d656a312b92e">Premier Japonii wykorzystał politykę fiskalną i pieniężną do stymulowania gospodarki swojego kraju, co jednak przyniosło jedynie krótkoterminowe korzyści. (Źródło: modyfikacja pracy Chatham House/Flickr Creative Commons).</caption>
+      </figure>
+      <para id="Ch32Mod02P05">Jak już zaznaczyliśmy w poprzednich rozdziałach, polityka ekonomiczna musi uwzględniać zarówno krótki, jak i długi okres. Wyzwaniem dla wielu krajów rozwiniętych w ciągu najbliższych kilku lat będzie wyjście z krótkoterminowej polityki, którą stosowały, aby zniwelować skutki recesji z lat 2008–2009 i ponownego załamania gospodarczego związanego z pandemią koronawirusa. Ponieważ powrót do stabilnych stóp wzrostu jest powolny, ponowna koncentracja wysiłków na nowych technologiach, edukacji i inwestycjach w kapitał fizyczny jest politycznie niezwykle trudna.</para>
     </section>
-    <section id="Ch32Mod03_02">
-      <title id="UUIDc729b6f8-4e4f-4d3d-4192-4e5743a1e67b">Naturalna stopa bezrobocia</title>
-      <para id="UUIDedff54f3-f164-455e-59a7-8381e14fcefb">Stopa bezrobocia w krajach europejskich jest zazwyczaj wyższa niż w Stanach Zjednoczonych. W 2006 r., przed rozpoczęciem globalnego kryzysu finansowego, w USA wynosiła ona 4,6%, w porównaniu z 9% we Francji, 10,4% w Niemczech czy 7,1% w Szwecji. Fenomen wyższych stóp bezrobocia w krajach europejskich, którego korzenie sięgają początku lat 70. ub. wieku, możemy powiązać z czynnikami instytucjonalnymi. Gospodarki europejskie mają zazwyczaj wyższą naturalną stopę bezrobocia, ponieważ występuje w nich większa liczba regulacji i ograniczeń, które zniechęcają firmy do zwiększenia zatrudnienia, a osoby bezrobotne do podjęcia pracy.</para>
-      <para id="UUID9034da9c-8acf-4f31-5e98-94a668de4eb3">Rozwiązanie problemu naturalnej stopy bezrobocia jest proste w teorii, ale trudne w praktyce. Rząd może odegrać aktywną rolę, tworząc sieć zabezpieczeń w postaci zasiłków dla bezrobotnych i świadczeń socjalnych, jak również ograniczając swobodę przedsiębiorstw w zwalnianiu pracowników. Jednak te regulacje wynikające z dobrych intencji w niektórych przypadkach mogą stać się tak uciążliwe, że firmy decydują się na ograniczenie zatrudniania.</para>
-      <para id="UUIDaa29c32a-18f4-4666-6bb6-d09f50e53bc9">Na przykład prawo, które nakłada wysokie koszty na firmę próbującą zredukować liczbę pracowników, sprawi, że przedsiębiorstwa będą się starały przede wszystkim unikać wzrostu zatrudnienia, jak ma to miejsce we Francji. Według „Business Week”: „Francja ma 2,4 razy więcej firm zatrudniających 49 pracowników niż 50”. Zgodnie bowiem z francuskim kodeksem pracy, gdy firma ma co najmniej 50 pracowników, kierownictwo musi utworzyć trzy rady pracownicze, wprowadzić uzgodniony z przedstawicielami załogi schemat podziału zysków i przedstawiać radom pracowniczym plany restrukturyzacji, jeśli firma zdecyduje się zwolnić pracowników ze względów ekonomicznych. To prawo pracy zasadniczo ogranicza zatrudnienie (lub podnosi naturalną stopę bezrobocia).</para>
+    <section id="Ch32Mod02_02">
+      <title id="UUID80d78fe1-b53b-4d13-6fc7-1edf268f3b0e">Polityka wzrostu w gospodarkach o średnich dochodach</title>
+      <para id="UUID4a88630a-cbf5-428c-4a0b-65efcb23129f">Imponujące sukcesy gospodarcze charakterystyczne dla gospodarki światowej w ciągu ostatnich kilkudziesięciu lat są nierozerwalnie związane z grupą krajów określanych mianem <term cxlxt:index="default" cmlnle:reference="azjatyckie tygrysy" id="UUIDd88b99f1-7533-450f-78c5-68c13e932a1e">„azjatyckich tygrysów”</term>( <foreign xml:lang="en" id="UUID7ff703c3-1d03-43a7-45d8-e088157a84d1"><term cxlxt:index="foreign" id="UUID7a512079-0c6e-44e7-4a8f-74443777c2aa">East Asian Tigers</term></foreign>): Koreą Południową, Tajlandią, Malezją, Indonezją i Singapurem. Lista ta czasami obejmuje również Hongkong i Tajwan, choć podmioty te – zgodnie z prawem międzynarodowym – są traktowane jako część Chin, a nie odrębne państwa. Wzrost gospodarczy tygrysów był fenomenalny, realny PKB per capita przez kilka dziesięcioleci zwiększał się średnio o 5,5% rocznie. W latach 80. ub. wieku także inne państwa zaczęły wykazywać oznaki konwergencji dochodowej (realnej). PKB w Chinach szybko rósł, często w tempie 8–10% rocznie. Podobnie w Indiach, których PKB w latach 90. zwiększał się mniej więcej o 5% rocznie, a w pierwszej dekadzie XXI w. jeszcze szybciej. Podobny proces był charakterystyczny dla krajów postsocjalistycznych, w tym Polski, wraz z rozpoczęciem procesu transformacji ustrojowej na początku ostatniej dekady XX w. Dodatkowo przyspieszył on wraz ze wstąpieniem tych krajów do UE.</para>
+      <para id="UUIDda89c651-426f-402a-7d7c-0f34aca6aaf2">Znamy podstawowe przyczyny tak szybkiego tempa wzrostu:</para>
+      <list id="Ch32Mod02L01">
+        <item id="UUIDb73d270a-e8b6-4746-7e64-ac2f04a67628">
+          <para id="UUIDe9e6fb16-0f81-4a9f-46fb-0a356d23ad47">Chiny i „azjatyckie tygrysy” są zamieszkiwane przez najbardziej oszczędnych ludzi na świecie, notują więc stopę oszczędności na poziomie jednej trzeciej PKB, w porównaniu z mniej więcej jedną piątą PKB w krajach Ameryki Łacińskiej i Afryki. Państwa te wykorzystały wyższe oszczędności na inwestycje krajowe w celu zgromadzenia kapitału rzeczowego.</para>
+        </item>
+        <item id="UUID091bef8d-9976-4c08-5b1b-a278a5911c52">
+          <para id="UUIDa785210e-820e-427e-74f3-fa948ccdb460">Państwa te prowadziły politykę, która wspierała wysokie inwestycje w kapitał ludzki, najpierw rozwijając edukację na poziomie podstawowym, a następnie rozszerzając ją na poziomie średnim. Wiele z nich kładło nacisk na nauki ścisłe, które są przydatne w inżynierii i biznesie.</para>
+        </item>
+        <item id="UUID8313eee3-38fb-4322-56d1-89cbcbd60a46">
+          <para id="UUIDecdbe42f-9516-4439-7825-31ecc47b91c2">Rządy tych krajów podjęły wysiłek poszukiwania nowych technologii, wysyłając studentów i komisje rządowe za granicę. W ten sposób dokonywały analizy najbardziej wydajnych przedsięwzięć przemysłowych w innych krajach. Stworzyły także politykę wspierania innowacyjnych firm, które chciały budować zakłady produkcyjne, aby wykorzystać dostępny i tani kapitał ludzki.</para>
+        </item>
+        <item id="UUID905c0e19-801b-48c0-68de-e9dba89b2a91">
+          <para id="UUID8fc6c515-81c7-42e7-6c2b-839a1ae30668">Szczególnie Chiny i Indie uwolniły rynki od nadmiernej regulacji, zarówno w ramach ich własnych gospodarek krajowych, jak i zachęcając rodzime przedsiębiorstwa do aktywnego zaangażowania w gospodarce światowej.</para>
+        </item>
+      </list>
+      <para id="UUIDceb49133-58fe-41f8-6a93-307435df5241">Ta kombinacja technologii, kapitału ludzkiego i kapitału rzeczowego w połączeniu z bodźcami wolnorynkowymi okazała się niezwykle silnym wsparciem dla szybkiego tempa wzrostu gospodarczego. Wyzwania, przed którymi stoją kraje o średnich dochodach, są dziedzictwem rządowej kontroli procesów gospodarczych, a tej z powodów politycznych w krótkim okresie nie można zlikwidować. W wielu z nich rząd mocno reguluje np. sektor bankowy i finansowy. Władze czasami faworyzowały także pewne branże, które otrzymywały nisko oprocentowane pożyczki lub dotacje rządowe. Gospodarki te odkryły, że nasilenie bodźców wolnorynkowych dla firm i pracowników jest kluczowym składnikiem przepisu na szybszy wzrost. Aby dowiedzieć się więcej o mierzeniu skumulowanego tempa wzrostu gospodarczego, przeczytaj poniższą ramkę.</para>
+      <note type="note" id="Ch32Mod01Eco01" class="clearup economics">
+        <title id="UUID5e47a788-f7f0-429e-7fc0-15701e6c64b1">Co to jest „zasada 72”?</title>
+        <para id="UUIDc1d1bcae-efa5-48f2-5dd1-d020c81ce259">Warto zatrzymać się na chwilę, aby przyjrzeć się tempu wzrostu „azjatyckich tygrysów”. Jeśli PKB na mieszkańca rośnie, powiedzmy, o 6% rocznie, to można zastosować wzór na procent składany, czyli (1 + 0,06)<sup>30</sup>, co oznacza, że poziom PKB na mieszkańca w danym kraju wzrośnie o wielokrotność 6% przez 30 lat. Inną strategią jest zastosowanie „zasady 72”. Reguła ta jest przybliżeniem pozwalającym obliczyć czas podwojenia PKB per capita. Dzielimy liczbę 72 przez roczną stopę wzrostu, aby otrzymać przybliżoną liczbę lat potrzebną do podwojenia dochodu. Jeśli mamy 6% rocznego tempa wzrostu, podwojenie dochodów zajmie 72/6, czyli 12 lat. Zastosowanie tej zasady sugeruje, że kraj, którego PKB rośnie w tempie 6% średniorocznie, podwaja swój PKB co 12 lat. Oznacza to, że lider technologiczny, mający tempo wzrostu per capita na poziomie ok. 2% rocznie, podwoiłby swój dochód w ciągu 36 lat.</para>
+      </note>
     </section>
-    <section id="Ch32Mod03_03">
-      <title id="UUIDfcfbcd52-bedb-474b-42d2-ad75b2fbac68">Nieefektywne rynki pracy w krajach o niskich i średnich dochodach</title>
-      <para id="UUIDbb5376e0-cbcc-40ea-679e-49b54d62d995">Kraje o niskich i średnich dochodach mają problemy związane z zatrudnieniem, które wykraczają poza kwestię bezrobocia w rozumieniu gospodarek o wysokich dochodach. Znaczna liczba pracowników w tych gospodarkach zaspokaja wiele własnych potrzeb poprzez uprawę roli, rybołówstwo lub polowanie. Wymieniają się towarami i handlują z innymi mieszkańcami oraz mogą podejmować szereg krótkoterminowych lub jednodniowych prac, czasami otrzymując zapłatę w postaci jedzenia lub schronienia, a czasami pieniędzy. Nie są oni „bezrobotni” w sensie, którego używamy w Stanach Zjednoczonych i UE, ale nie są też zatrudnieni w ramach regularnej płatnej pracy.</para>
-      <para id="UUID6b0eb239-5810-4dd6-6dfe-adb1b2002777">Punktem wyjścia dla działalności gospodarczej, o którym mówiliśmy w <link document="82984e72-1743-4b22-932e-3d2198694da2" id="UUID584d9e83-7838-4e1f-6681-c8280e37d656" />, jest podział pracy, w ramach którego ludzie specjalizują się w pewnych zadaniach i wymieniają efekty swojej pracy z innymi. Pracownicy, którzy nie są związani z rynkiem pracy, często nie są w stanie specjalizować się w żadnym konkretnym działaniu, którego rezultaty można zaoferować na rynku. Ponieważ ci pracownicy oficjalnie nie są zatrudnieni, często nie są uprawnieni do świadczeń socjalnych, takich jak ubezpieczenie na wypadek utraty pracy lub świadczenia z tytułu osiągnięcia wieku emerytalnego, o ile takie świadczenia w ich kraju w ogóle pracownikom przysługują. Kluczową polityką w państwach o średnim i niskim poziomie dochodów będzie zatem próba włączenia takich pracowników w formalne instytucje rynku pracy (system emerytalny!), a nie zwalczanie, niewielkiego zazwyczaj, oficjalnego bezrobocia. Ostatnie badania przeprowadzone przez ekonomistów specjalizujących się w ekonomii rozwoju sugerują, że jednym z kluczowych czynników umożliwiających obywatelom krajów o niskich dochodach uniknięcie lub wyjście z obszarów ubóstwa jest to, czy mogą oni podjąć regularną, płatną pracę.</para>
+    <section id="Ch32Mod02_03">
+      <title id="UUID390245bd-dce3-4606-57dc-90ff0c8531b2">Polityka wzrostu w krajach przeżywających trudności gospodarcze</title>
+      <para id="UUID9dae2124-c24d-4e4a-4b14-53690b84f262">W Afryce Subsaharyjskiej czy regionie Ameryki Łacińskiej i Karaibów znajduje się wiele krajów doświadczających trudności gospodarczych i notujących niskie dochody.</para>
+      <para id="UUID5ee11406-f4e6-4c3c-756f-5c7ffb083821">Istnieją polityki i recepty makroekonomiczne, które mogą złagodzić skrajne ubóstwo i niski poziom życia. Jednak wiele z tych krajów ma nieustabilizowaną sytuację ekonomiczną i prawną, nieefektywne rynki, a także cierpi na brak lub niedostateczny rozwój instytucji niezbędnych do uzyskania korzystnego klimatu dla szybkiego tempa wzrostu gospodarczego i przyciągnięcia inwestycji zagranicznych. Trudno tym samym postulować prowadzenie w tych krajach polityki analogicznej do tej, jaką realizują kraje wysoko rozwinięte. Bank Światowy swoim priorytetem uczynił walkę z ubóstwem i podniesienie ogólnego poziomu dochodów do 2030 r. Jedną z kluczowych przeszkód w osiągnięciu tego celu jest niestabilność polityczna, powszechna cecha krajów o niskich dochodach.</para>
+      <para id="UUID764cf267-52d2-4352-675a-8fd84798452e"><link target-id="CNX_Econ_C32_004" id="UUIDfdfbb368-5c1f-4ead-548b-1164c3ca2734" /> przedstawia wartość PKB per capita dziesięciu gospodarek o najniższej, zgodnie z rankingiem Banku Światowego. Kraje te mają pewne cechy wspólne, z których najważniejszą jest fiasko wysiłków podejmowanych przez władze w celu zapewnienia ram prawnych dla wzrostu gospodarczego. W Afganistanie niedawno zakończyła się długotrwała okupacja prowadzona przez wojska koalicji pod przywództwem USA. Wojny domowe i etniczne nękają takie państwa jak Burundi i Somalia. W krajach o niskich dochodach powszechne są też gospodarki planowe, korupcja, podziały polityczne i wewnętrzne konflikty. Demokratyczna Republika Konga, niezwykle bogata w zasoby naturalne, ze względu na niestabilną sytuację polityczną nie była w stanie podnieść poziomu życia swoich obywateli.</para>
+      <figure id="CNX_Econ_C32_004">
+        <title id="UUID8e5aa204-da58-4ecb-5295-333e1ba26338">Dziesięć krajów o najniższych dochodach per capita w roku 2020</title>
+        <media alt="Ilustracja prezentuje wartość PKB per capita w dziesięciu krajach o najniższej wartości tej zmiennej na świecie. Są to: Burundi, Somalia, Mozambik, Madagaskar, Republika Środkowoafrykańska, Sierra Leone, Afganistan, Kongo, Niger i Sudan." id="mCNX_Econ_C32_004">
+          <image src="../../media//CNX_Econv1-2_C32_05.svg" mime-type="image/svg+xml" id="UUID854393ff-8750-4e9f-5d65-a3254317e691" />
+        </media>
+        <caption id="UUID3d9ffc5b-f8a7-431f-7280-3d7846fedeb4">Wykres prezentuje wartość PKB per capita w dziesięciu krajach o najniższej wartości tego parametru na świecie. Są to odpowiednio: Burundi, Somalia, Mozambik, Madagaskar, Republika Środkowoafrykańska, Sierra Leone, Afganistan, Kongo, Niger i Sudan. (Źródło: http://databank.worldbank.org/data/views/reports/map.aspx#).</caption>
+      </figure>
+      <para id="UUID2dce6dc5-d88f-4cfa-4de9-393077bb0305">Kraje o niskich dochodach znajdują się w niekorzystnej sytuacji, ponieważ wynagrodzenie czynników produkcji (przede wszystkim pracy, czyli płace), które pozwala na utrzymanie gospodarstw domowych, jest natychmiast wydawane na artykuły pierwszej potrzeby, takie jak żywność. Mieszkańcy tych krajów żyją za mniej niż 1080 dol. rocznie, czyli mniej niż 100 dol. miesięcznie. Brak oszczędności oznacza brak akumulacji kapitału oraz brak środków na inwestycje w kapitał rzeczowy i ludzki. Ostatnie badania przeprowadzone przez dwóch ekonomistów z MIT, <term cxlxt:index="name" cmlnle:reference="Abhijit Bannerjee" cxlxt:name="Bannerjee, Abhijit" cxlxt:born="1961" id="UUID2b0d6c20-6c83-4d83-4f5d-cf3eda68a6d5">Abhijita Bannerjee</term> i <term cxlxt:index="name" cxlxt:name="Duflo, Esther" id="UUID7423ea89-79b0-4eca-406c-0abd3a14fae0">Esther Duflo</term>, potwierdziły, że gospodarstwa domowe w tych krajach są niejako „uwięzione” w strefie niskich dochodów, nie mogą bowiem zgromadzić wystarczającej ilości kapitału na inwestycje pozwalające wyrwać się z ubóstwa.</para>
+      <para id="UUID3ef5967c-9624-4eb0-72c4-6909a909f1b8">Na przykład przeciętny obywatel Burundi, kraju o najniższych dochodach, utrzymuje się za 150 dol. rocznie (w cenach 2005 r.). Według danych Centralnej Agencji Wywiadowczej (CIA) przedstawionych w CIA Factbook w 2013 r. 90% populacji Burundi stanowili rolnicy uprawiający kawę i herbatę, będące głównym źródłem ich dochodu. Tylko co drugie dziecko uczęszczało do szkoły i, jak pokazuje <link target-id="CNX_Econ_C32_005" id="UUID636376d0-327b-4524-6b44-5d5a66e4b824" />, wiele z nich nie uczyło się w szkołach porównywalnych z tymi, które znamy z krajów rozwiniętych. CIA Factbook szacuje również, że 15% populacji Burundi jest zarażone wirusem HIV lub choruje na AIDS. Niestabilność polityczna utrudniła krajowi osiągnięcie istotnych postępów w zwiększaniu tempa wzrostu gospodarczego, czego najlepszym dowodem jest fakt, że zaledwie 2% gospodarstw domowych w tym kraju ma dostęp do energii elektrycznej, a 42% dochodu narodowego pochodzi z pomocy międzynarodowej.</para>
+      <figure id="CNX_Econ_C32_005">
+        <title id="UUID56006803-1350-49c5-6aad-11310fc07fe3">Brak środków na inwestycje w kapitał ludzki</title>
+        <media alt="Zdjęcie prezentuje dzieci siedzące w zrujnowanym budynku pozbawionym zadaszenia, który jest wykorzystywany jako szkoła." id="mCNX_Econ_C32_005">
+          <image src="../../media//CNX_Econ_C32_005.jpg" mime-type="image/jpeg" id="UUID089f8545-ac25-47cd-745b-ddce3ca8e776" />
+        </media>
+        <caption id="UUIDcbebc598-cd69-4de3-4bf5-12713b22d9ba">W krajach o niskich dochodach ludzie często przeznaczają całe wynagrodzenie na środki niezbędne do życia, nie mogą ich więc inwestować w kapitał rzeczowy lub ludzki. Uczniowie na tym zdjęciu uczą się w niezadaszonej przestrzeni, bez nowoczesnych pomocy dydaktycznych, nie mają też biurek i wygodnych krzeseł. (Źródło: Rafaela Printes/Flickr Creative Commons).</caption>
+      </figure>
+      <note type="note" id="Ch32Mod02Link01" class="economics linkup">
+        <para id="Ch32Mod02P15"><link url="http://openstax.org/l/worldfactbook" id="UUID5eca613b-6971-4484-6ffd-d67d84c09ba1">Witryna</link> World Factbook stanowi świetne źródło informacji nie tylko o gospodarce niemal wszystkich krajów na całym świecie.</para>
+      </note>
+      <para id="UUIDa106b910-3d14-4018-5e5b-0ae07085deea">Inne kraje o niskich dochodach mają podobne historie. Państwa te przechodziły trudności z finansowaniem krajowymi oszczędnościami własnych inwestycji lub znalezieniem inwestorów zagranicznych gotowych wyłożyć pieniądze na niezbędny w ich gospodarkach kapitał fizyczny i infrastrukturę. Pomoc międzynarodowa i inwestycje zagraniczne stanowią znaczną część dochodów tych krajów, ale nie są wystarczające, aby możliwa była akumulacja środków niezbędnych do inwestowania w kapitał rzeczowy i ludzki. Czy jednak pomoc międzynarodowa zawsze przyczynia się do wzrostu gospodarczego? Kwestia ta bywa kontrowersyjna, jak pokazuje kolejna ramka.</para>
+      <note type="note" id="Ch32mod02CLEAR01" class="clearup economics">
+        <title id="UUIDc7b90139-90b8-4cb3-628b-fd6aec728228">Czy pomoc międzynarodowa dla krajów o niskich dochodach jest skuteczna?</title>
+        <para id="UUID372a483b-76ff-4468-7a25-c7694d97c93e">Według Organizacji Współpracy Gospodarczej i Rozwoju (OECD) z krajów wysoko uprzemysłowionych (o najwyższych dochodach) do krajów o niskich dochodach przepływa ok. 134 mld dol. rocznie w postaci pomocy międzynarodowej. W stosunku do wielkości ich populacji lub gospodarek nie jest to kwota duża zarówno dla darczyńców, jak i obdarowanych. W przypadku krajów o niskich dochodach pomoc ta wynosi średnio 1,3% ich PKB. Jednak nawet ta stosunkowo niewielka kwota była źródłem znacznych kontrowersji.</para>
+        <para id="UUID06817c9c-8e61-418c-44a1-525402254e5e">Zwolennicy dodatkowej pomocy międzynarodowej wskazują na niezwykłe cierpienie ludzi w krajach o niskich i średnich dochodach. W Afryce, Azji i na Karaibach dostrzegają niezaspokojone potrzeby i problemy, które można byłoby rozwiązać, budując szpitale, przychodnie i szkoły. Chcą pomóc w budowie infrastruktury umożliwiającej dostęp do czystej wody, kanalizacji, elektryczności i bitych dróg. Rzecznikami tej pomocy są formalne instytucje finansowane przez państwo, takie jak brytyjski Departament Rozwoju Międzynarodowego (DFID), lub niezależne organizacje pozarządowe (NGO), takie jak CARE International, które również otrzymują fundusze rządowe. Na przykład z powodu wybuchu epidemii zapalenia opon mózgowych w Etiopii w 2010 r. DFID przekazał znaczne fundusze etiopskiemu ministerstwu zdrowia na szkolenie pracowników służby zdrowia na wsi, a także na szczepionki. Pieniądze te pomogły ministerstwu uzupełnić braki w budżecie.</para>
+        <para id="UUID5b4b1586-f39c-4af9-6bc9-920de48c77b8">Przeciwnicy zwiększonej pomocy nie kwestionują tego, że gigantyczną skalę ludzkiego cierpienia w tych krajach należy zmniejszyć, ale sugerują, że pomoc zagraniczna często okazywała się kontrowersyjnym narzędziem do realizacji tego celu. Na przykład według artykułu w „Attaché Journal of International Affairs” kanadyjska organizacja pomocy zagranicznej (CIDA) przekazała Tanzanii 100 mln dol. na uprawę pszenicy. Projekt rzeczywiście doprowadził do wzrostu produkcji tego zboża. Tyle że aby zrobić miejsce dla wspomnianego przedsięwzięcia, z terenów o powierzchni 60 000 ha wypędzono pasterzy, koczowników i innych mieszkańców. Niektórzy z nich odmówili opuszczenia ziemi i zostali pobici ze skutkiem śmiertelnym. Jak widać, czasami niezamierzone efekty uboczne wynikające z pomocy zagranicznej mogą być bardzo niekorzystne. Tym samym trudno ocenić, czy po uwzględnieniu wszystkich kosztów społecznych projekt ten przełożył się na jakikolwiek wzrost standardu życia w Tanzanii.</para>
+        <para id="UUID9f48313a-4cad-4ebd-4e05-f3c2f1cd87be"><term cxlxt:index="name" cmlnle:reference="William Easterly" cxlxt:name="Easterly, William" cxlxt:born="1957" id="UUIDfb72e435-72ab-4fb5-5229-f24a700ccdfd">William Easterly</term>, profesor ekonomii na Uniwersytecie Nowego Jorku i autor książki „The White Man’s Burden”, twierdzi, że kraje często otrzymują pomoc z powodów politycznych i w końcu wyrządza ona więcej szkody niż pożytku. Jeśli rząd danego kraju stworzy w miarę stabilne i wolnorynkowe otoczenie makroekonomiczne, wówczas inwestorzy zagraniczni prawdopodobnie sami dostarczą środki finansowe na wiele dochodowych przedsięwzięć. Na przykład, jak donosi „The New York Times”, Facebook współpracuje z wieloma organizacjami w projekcie o nazwie Internet.org, aby zapewnić dostęp do internetu na odległych i ubogich obszarach świata, a Google rozpoczął własną inicjatywę o nazwie Project Loon. Pierwsze próby Facebooka zapewnienia dostępu do internetu za pośrednictwem telefonów komórkowych rozpoczęły się w stabilnych, wolnorynkowych krajach, takich jak: Indie, Brazylia, Indonezja, Turcja i Filipiny.</para>
+        <para id="UUID58629713-dae0-45b0-57be-66a15feb0450">Politycy są teraz rozsądniejsi w kwestii pomocy międzynarodowej niż jeszcze kilkadziesiąt lat temu. W szczególnych przypadkach, zwłaszcza jeśli pomoc międzynarodowa jest ukierunkowana na długoterminowe projekty inwestycyjne, pomoc zagraniczna może odegrać swoją skromną rolę w zmniejszaniu poziomu skrajnego ubóstwa, którego doświadczają setki milionów ludzi na całym świecie.</para>
+      </note>
+      <note type="note" id="Ch32Mod02Link02" class="economics linkup">
+        <para id="UUIDfd2630e4-8b90-4591-6971-5f863dae5cc8">Obejrzyj ten <link url="http://openstax.org/l/foodafrica" id="UUID84e34339-d36d-4b91-4207-86185b3bed71">film</link>, który prezentuje kwestię udzielania pomocy gospodarczej w Afryce w całej jej złożoności.</para>
+      </note>
     </section>
-    <section id="Ch32Mod03_summ" class="summary">
-      <title id="UUID849c7835-ef14-4b10-6d19-fc533b5c34d4">Key Concepts and Summary</title>
-      <para id="UUID26ecab37-f1bd-4e4a-756e-2da6b5aaf446">Problem bezrobocia cyklicznego możemy rozwiązać poprzez ekspansywną politykę fiskalną lub monetarną. Naturalna stopa bezrobocia może być trudniejszym wyzwaniem, ponieważ wiąże się z wyborami typu „coś za coś” w kwestii maksymalizacji zatrudnienia i ochrony miejsc pracy. O ile bezrobocie pozostaje istotnym problemem w państwach o wysokich i po części średnich dochodach, to już w krajach najbiedniejszych nacisk powinien być położony na instytucje rynku pracy. Ludzie w tych krajach nie są „bezrobotni” w sensie, którego używamy w Stanach Zjednoczonych i UE, ale nie są też zatrudnieni w ramach regularnej, płatnej pracy. Podczas gdy niektórzy z nich mogą mieć zarówno umowy o pracę, jak i pewne elementy zabezpieczenia socjalnego (ochrona w przypadku zwolnienia, możliwość korzystania z publicznych systemów emerytalnych), inni są częścią gospodarki barterowej i ta forma zdobywania środków do życia wyłącza ich z regulowanego formalnym prawem rynku pracy.</para>
+    <section id="Ch32Mod02_summ" class="summary">
+      <title id="UUID5cab554e-fed1-4fbf-5ab5-6f7d8ee379cd">Key Concepts and Summary</title>
+      <para id="UUID54dd7de4-3ebe-480d-6479-f4e6b3b7118b">Podstawy wzrostu gospodarczego w każdym kraju są takie same: wzrost wartości kapitału ludzkiego, kapitału rzeczowego i ciągły postęp technologiczny współdziałające w gospodarce wolnorynkowej. Kraje o wysokich dochodach zwykle koncentrują się na rozwoju i wykorzystaniu nowych technologii. Państwa o średnich dochodach skupiają wysiłki na akumulacji kapitału ludzkiego, korzystaniu w większym stopniu z importowanych technologii i rosnącym udziale w PKB wymiany handlowej z zagranicą. Niektóre z krajów rozwijających się w Azji Południowo-Wschodniej potrafiły umiejętnie połączyć swobodę rynkową z zaangażowaniem państwa w gospodarkę. Państwa o niskich dochodach, borykające się z wyzwaniami gospodarczymi, doświadczają poważnych problemów związanych z rozwojem społecznym i zdrowiem publicznym. Zmagają się również z brakiem inwestycji i pomocy międzynarodowej na rozbudowę infrastruktury, takiej jak drogi, szkoły i szpitale. Istnieje kilka pozytywnych przykładów, które można wskazać w kontekście rozwoju gospodarczego w krajach o niskich dochodach. Sugerują one, że kraje te mogą same z siebie stać się liderami technologicznymi. Jednak jest za wcześnie, aby twierdzić, czy projekty te zakończą się sukcesem. Kraje te muszą zrobić więcej, aby połączyć się z resztą światowej gospodarki i znaleźć technologie najkorzystniejsze dla wybranego przez nie modelu wzrostu.</para>
     </section>
-    <section id="Ch32Mod03_sques" class="self-check-questions">
-      <title id="UUIDb0ce801e-e895-462b-6657-30ec5974f088">Self-Check Questions</title>
-      <exercise id="Ch32Mod03_sques01">
-        <problem id="Ch32Mod03_sques01p">
-          <para id="Ch32Mod03P11">Jakie narzędzia polityki makroekonomicznej umożliwiają ograniczenie lub nawet wyeliminowanie problemu bezrobocia cyklicznego?</para>
+    <section id="Ch32Mod02_sques" class="self-check-questions">
+      <title id="UUIDb6ae2c6e-3cac-49e2-7133-0d45c85bb894">Self-Check Questions</title>
+      <exercise id="Ch32Mod02_sques01">
+        <problem id="Ch32Mod02_sques01p">
+          <para id="UUID51f3af83-be44-4c46-466b-884a62d850a5">Utwórz tabelę, która identyfikuje polityki publiczne najkorzystniejsze dla kraju o wysokich dochodach, kraju o średnich dochodach i kraju o niskich dochodach.</para>
         </problem>
-        <solution id="Ch32Mod03_sques01s">
-          <para id="UUID6a38dd49-24dd-4835-7c65-baf3ef3c516d">W przypadku recesji i wzrostu bezrobocia możemy skorzystać z ekspansywnej polityki fiskalnej (obniżenie podatków lub zwiększenie wydatków rządowych) lub ekspansywnej polityki pieniężnej (zwiększenie podaży pieniądza i obniżenie stóp procentowych). Obie polityki stymulują popyt globalny i produkcję, zmniejszając tym samym bezrobocie.</para>
+        <solution id="ch13mod01_sques01s">
+          <para id="UUID88c1eefb-4033-4fff-68c8-d0ae3070bf5a">Poniższa tabela zawiera podsumowanie możliwych odpowiedzi.</para>
+          <table summary="The table shows potential macroeconomic policies for a high-income country, a middle-income country, and a low-income country. Column 1 lists the potential policies of High-Income Countries. Column 2 lists the potential policies of Middle-Income Countries. Column 3 lists the potential policies of Low-Income Countries. The following information is listed in Column 1 High-Income Countries: Foster a more educated workforce; Create, invest in, and apply new technologies; Adopt fiscal policies focused on investment, including investment in human capital, in technology, and in physical plant and equipment; Create stable and market-oriented economic climate; Use monetary policy to keep inflation low and stable; Minimize the risk of exchange rate fluctuations, while also encouraging domestic and international competition. The following information is listed in Column 2 Middle-Income Countries: Invest in technology, human capital, and physical capital; Provide incentives of a market-oriented economic context; Work to reduce government economic controls on market activities; Deregulate the banking and financial sector; Reduce protectionist policies. The following information is listed in Column 3 Low-Income Countries: Eradicate poverty and extreme hunger; Achieve universal primary education; Promote gender equality; Reduce child mortality rates; Improve maternal health; Combat HIV/AIDS, malaria, and other diseases; Ensure environmental sustainability; Develop global partnerships for development." id="Ch32Mod02Tab01" class="unnumbered"><tgroup cols="3" id="UUIDc6b1843e-5e66-4811-6f7f-9469f2532082"><colspec colnum="1" colname="col1" id="UUID219e0c91-b058-4cec-535f-827735a6ca1f" /><colspec colnum="2" colname="col2" id="UUIDd0c8ae2d-5e61-4e71-48d2-0ea558160529" /><colspec colnum="3" colname="col3" id="UUID6ca0ad0e-1aae-4700-5801-55893d06f2ed" /><thead id="UUIDf7abe388-284c-4a89-5f60-5f90a13cab74"><row id="UUID3a6d9b9d-a829-4086-7311-69f9e5ea4868"><entry align="center" id="UUIDec1dae1a-feb7-4670-64c1-6242187f90a9">Kraje o wysokich dochodach</entry><entry align="center" id="UUID8aa16937-1a50-49d9-6b70-39b227d48b88">Kraje o średnich dochodach</entry><entry align="center" id="UUIDf21aa22d-66f8-44a1-7445-d7e47173b5e6">Kraje o niskich dochodach</entry></row></thead><tbody id="UUIDec1fb06b-1631-4bc5-51a3-1aa4604698fa"><row id="UUID650c17d1-2fcb-4b0f-67f8-a2eb63cec9e1"><entry valign="top" id="UUID3cac266d-bb84-4adb-4029-bd3f2fe3d630"><list id="Ch32Mod02L02">
+                      <item id="UUID4be08edc-8d01-413f-70f2-69bcb47777de">
+                        <para id="UUIDe4a94ca1-59fd-40ed-449b-9994ebdc8284">Wspieraj edukację siły roboczej</para>
+                      </item>
+                      <item id="UUID898ef2d2-787c-4a34-6cd8-d98b0f651bbc">
+                        <para id="UUIDbfddca31-d41c-445e-4a3d-f9bcad959571">Twórz, inwestuj i wykorzystuj nowe technologie</para>
+                      </item>
+                      <item id="UUIDfa9ae1db-aa5c-40d2-4e8e-1668e0d3188d">
+                        <para id="UUID5f00a90f-1139-447d-7b0f-d32279aa9477">Przyjmij wariant polityki fiskalnej skoncentrowany na inwestycjach, w tym inwestycjach w kapitał ludzki, technologię oraz zakłady produkcyjne i ich wyposażenie</para>
+                      </item>
+                      <item id="UUID9853a7b1-91a8-4f31-592c-a09666f6e57d">
+                        <para id="UUID458a5d84-5de0-4a4f-490a-a93b51537547">Stwórz stabilne i rynkowe otoczenie gospodarcze</para>
+                      </item>
+                      <item id="UUID978db621-803a-4b59-7c2f-40d395339823">
+                        <para id="UUIDe6db1251-2d1e-4015-4858-ccb55eb10fa1">Stosuj politykę pieniężną, która pozwoli utrzymać niską i stabilną inflację</para>
+                      </item>
+                      <item id="UUID61f82637-48bf-48c1-4aa3-bc9f2d732510">
+                        <para id="UUID20ba24a7-3d9b-4c62-69cd-8447edd18f3c">Zminimalizuj ryzyko wahań kursów walutowych, jednocześnie zachęcając do konkurencji krajowej i międzynarodowej</para>
+                      </item>
+                    </list></entry><entry valign="top" id="UUID17d43266-a45f-427b-78d8-ec198450fc48"><list id="Ch32Mod02L03">
+                      <item id="UUID08f436a7-9f99-4333-5005-58704dd0744f">
+                        <para id="UUID84d14dcf-d756-46b2-40cb-7a8bb1260758">Inwestuj w technologię, kapitał ludzki i kapitał rzeczowy</para>
+                      </item>
+                      <item id="UUID4662fc26-5f38-4212-631d-4f452d550411">
+                        <para id="UUID5fc07020-e595-4292-59f8-08ab02b7155d">Zapewnij zachęty dla podmiotów ekonomicznych wykorzystujące bodźce rynkowe</para>
+                      </item>
+                      <item id="UUID45441ffe-73a6-4c20-6161-ffbafd2ec2fa">
+                        <para id="UUID440fe5f5-b2ef-4357-61b9-6fb022a4104a">Pracuj nad ograniczeniem zakresu rządowej kontroli nad działalnością gospodarczą</para>
+                      </item>
+                      <item id="UUID8a34a86b-9dd8-4a99-576c-0234f511c900">
+                        <para id="UUIDe63248a0-4e7b-4b5d-6a26-4d1a443ba2a0">Staraj się deregulować sektor bankowo-finansowy</para>
+                      </item>
+                      <item id="UUID40e6a5e1-a0e6-48c4-45cf-859937f2791e">
+                        <para id="UUID8ea10d3a-6d8f-470f-59aa-e15eee8077df">Ograniczaj protekcjonistyczną politykę w handlu zagranicznym</para>
+                      </item>
+                    </list></entry><entry valign="top" id="UUIDc8b531ec-51ec-47bd-7f74-7d6a19f135a5"><list id="Ch32Mod02L04">
+                      <item id="UUIDbfc59543-dc1e-48c6-5483-9a018db49517">
+                        <para id="UUID5d3af69d-dcda-443a-4515-c26fef175dac">Wyeliminuj ubóstwo i skrajny głód</para>
+                      </item>
+                      <item id="UUIDa57ac26a-8749-4d8f-49b8-4b8f2e7ea400">
+                        <para id="UUIDfb577793-3670-4097-781e-8f7d2ef63f69">Wprowadź powszechną edukację podstawową</para>
+                      </item>
+                      <item id="UUIDc7d85007-dcb4-4908-7761-5a03733bd006">
+                        <para id="UUID35be613d-ffce-4459-4c1a-2bdf5a2f243f">Promuj równość płci</para>
+                      </item>
+                      <item id="UUIDad63d7a9-f161-4fe3-524b-d67defd53d9b">
+                        <para id="UUID3e665948-3381-48d0-65bf-29a5e54d3416">Zmniejsz wskaźniki śmiertelności niemowląt</para>
+                      </item>
+                      <item id="UUID152187ef-00c5-4ad4-647a-6e8d67b504c5">
+                        <para id="UUID81a62561-0995-4765-4fea-1b550d1f65d2">Wdróż politykę zdrowotną ukierunkowaną na poprawę zdrowia matek</para>
+                      </item>
+                      <item id="UUIDc205287e-d1c0-4059-6c6b-354295a40226">
+                        <para id="UUIDa61b22da-cf5e-4ca0-6b18-a60f0c7a440f">Zwalczaj HIV/AIDS, malarię i inne choroby</para>
+                      </item>
+                      <item id="UUIDb752133d-b8cd-4d37-4531-ef4da1941ea7">
+                        <para id="UUID0f0de768-78b6-48c3-448e-630bff8dcc0c">Zapewnij równowagę ekologiczną</para>
+                      </item>
+                      <item id="UUID2c2ff82e-c43e-48f9-707a-cd692b41f1c9">
+                        <para id="UUIDb943de27-4d0e-452f-7cc3-d695e0378c2d">Rozwijaj globalne partnerstwo na rzecz rozwoju</para>
+                      </item>
+                    </list></entry></row></tbody></tgroup></table>
         </solution>
       </exercise>
-      <exercise id="Ch32Mod03_sques02">
-        <problem id="Ch32Mod03_sques02p">
-          <para id="UUID800c03ba-089b-42ac-5480-f4416e30f973">Wyjaśnij, dlaczego naturalna stopa bezrobocia może być wyższa w krajach o niskich dochodach.</para>
+      <exercise id="Ch32Mod02_sques02">
+        <problem id="Ch32Mod02_sques02p">
+          <para id="Ch32Mod02P26">Użyj danych w tekście, aby porównać zalecenia dotyczące polityki ekonomicznej dla krajów o wysokim, średnim i niskim dochodzie.</para>
         </problem>
-        <solution id="Ch32Mod03_sques02s">
-          <para id="UUID3ddfda70-42f4-428b-5ff4-19357a9c2ff5">Oprócz wysokiej naturalnej stopy bezrobocia wynikającej z regulacji rządowych za osoby bezrobotne można również uznać ludzi, którzy nie funkcjonują na rynku pracy (wytwarzają np. żywność wyłącznie na własne potrzeby lub są zatrudnieni w sposób całkowicie nienormowany), chociaż nie spełniają oni formalnej definicji naturalnej stopy bezrobocia.</para>
+        <solution id="ch13mod01_sques02s">
+          <para id="UUIDec14830a-f7e3-4a72-59e0-bd1f90ce73e6">Kraje o niskich dochodach muszą przyjąć politykę rządową zorientowaną na rozwój rynków i mającą na celu edukację ludności. Po wykonaniu tego kroku kraje o niskich dochodach powinny skoncentrować się na wyeliminowaniu innych problemów społecznych hamujących wzrost. Kraje z problemami gospodarczymi, które utknęły w pułapce ubóstwa, muszą bardziej skupić się na zdrowiu i edukacji oraz stworzyć stabilne otoczenie rynkowe i polityczne. Będzie to stanowiło czynnik przyciągający pomoc międzynarodową i inwestycje zagraniczne. Kraje o średnich dochodach powinny dążyć do wzrostu kapitału rzeczowego i rozwoju innowacji, podczas gdy kraje wysoko uprzemysłowione muszą pracować nad utrzymaniem konkurencyjności swoich gospodarek poprzez innowacje i rozwój nowych technologii.</para>
         </solution>
       </exercise>
     </section>
-    <section id="Ch32Mod03_rques" class="review-questions">
-      <title id="UUID79af0f23-d1d5-41d5-7e73-947b4c986bb1">Review Questions</title>
-      <exercise id="Ch32Mod03_rques01">
-        <problem id="Ch32Mod03_rques01p">
-          <para id="Ch32Mod03P15">Jakie problemy i wyzwania są związane z bezrobociem cyklicznym oraz bezrobociem naturalnym?</para>
+    <section id="Ch32Mod02_rques" class="review-questions">
+      <title id="UUID4381ca4f-4281-4d5b-6d18-3eb098200038">Review Questions</title>
+      <exercise id="Ch32Mod02_rques01">
+        <problem id="Ch32Mod02_rques01p">
+          <para id="UUID2b9aa8c9-5d9a-4206-64c1-566d2d4698e7">Jakie inne czynniki, poza wydajnością pracy, inwestycjami kapitałowymi i technologią, wpływają na wzrost gospodarczy kraju? W jaki sposób?</para>
         </problem>
       </exercise>
-      <exercise id="Ch32Mod03_rques02">
-        <problem id="Ch32Mod03_rques02p">
-          <para id="UUID76d25eee-8cc2-40c6-6ede-5f8c21faeee4">Czy twoim zdaniem twierdzenie, że w krajach o niskich dochodach ludzie bez stabilnej pracy regulowanej przepisami prawa są bezrobotni, ma sens?</para>
-        </problem>
-      </exercise>
-    </section>
-    <section id="Ch32Mod03_ctques" class="critical-thinking">
-      <title id="UUIDc913b6d3-8cb6-4ed7-5280-00d2d1676407">Critical Thinking Question</title>
-      <exercise id="Ch32Mod03_ctques01">
-        <problem id="Ch32Mod03_ctques01p">
-          <para id="UUIDcc291711-952d-4582-465a-a6801f8dc0a5">Czy twoim zdaniem można ochronić pracowników przed utratą pracy bez wywoływania negatywnego wpływu na rynek pracy?</para>
-        </problem>
-      </exercise>
-      <exercise id="Ch32Mod03_ctques02">
-        <problem id="Ch32Mod03_ctques02p">
-          <para id="UUID58103684-e163-4b07-708a-84f350ef25de">Wyjaśnij, co się stanie w kraju, który próbuje rozwiązać problem bezrobocia naturalnego za pomocą ekspansywnej polityki monetarnej i fiskalnej. Narysuj jeden diagram wykorzystujący model AD/AS, oparty na modelu keynesowskim, przedstawiając pożądany przez polityków scenariusz zdarzeń. Następnie narysuj drugi diagram AD/AS, oparty na modelu neoklasycznym, aby pokazać, jaki jest bardziej prawdopodobny schemat rozwoju wydarzeń.</para>
+      <exercise id="Ch32Mod02_rques02">
+        <problem id="Ch32Mod02_rques02p">
+          <para id="UUIDf7a0ab7e-5db0-41a4-559c-9f17f22c5294">Jakie strategie zastosowały „azjatyckie tygrysy”, aby wspierać wzrost gospodarczy?</para>
         </problem>
       </exercise>
     </section>
-    <section id="Ch32Mod03_prob" class="problems">
-      <title id="UUID64467307-c603-4f12-61cd-f207761426a8">Problems</title>
-      <exercise id="Ch32Mod03_prob01">
-        <problem id="Ch32Mod03_prob01p">
-          <para id="UUID14c0e49d-1ce1-485b-6d38-4fc7ac048ee9">Pobierz najświeższe dane o bezrobociu z bazy danych Banku Światowego (http://databank.worldbank.org/data/home.aspx) dla Indii, Hiszpanii i RPA za okres pięciu lat. Przygotuj wykres porównujący sytuację w tych trzech krajach na podstawie zgromadzonych danych. Opisz kluczowe różnice pomiędzy nimi. Przyporządkuj te kraje do grupy o wysokich, średnich i niskich dochodach. Wyjaśnij, co cię zaskoczyło, a co można było przewidzieć jeszcze przed zapoznaniem się z wartościami liczbowymi. Jak globalny kryzys finansowy z 2008 r. wpłynął na sytuację w Indiach, Hiszpanii i RPA?</para>
+    <section id="Ch32Mod02_ctques" class="critical-thinking">
+      <title id="UUIDd7d20301-59e6-4603-46fb-09714eb2745c">Critical Thinking Question</title>
+      <exercise id="Ch32Mod02_ctques01">
+        <problem id="Ch32Mod02_ctques01p">
+          <para id="Ch32Mod02P29">Wyjaśnij, dlaczego trudno jest zebrać fundusze na inwestycje, gdy większość gospodarstw domowych w kraju pogrążonych jest w ubóstwie.</para>
+        </problem>
+      </exercise>
+      <exercise id="Ch32Mod02_ctques02">
+        <problem id="Ch32Mod02_ctques02p">
+          <para id="Ch32Mod02P30">Jak myślisz, dlaczego krajom o wysokich dochodach trudno jest osiągnąć wysokie stopy wzrostu?</para>
         </problem>
       </exercise>
     </section>
-    <section id="Ch32Mod03_ref" class="references">
-      <title id="UUID435d8781-dc77-4ab1-5ebb-77599408ab4b">References</title>
-      <para id="Ch32Mod03_ref01">Viscusi, Gregory, and Mark Deen. “Why France Has So Many 49-Employee Companies.” <emphasis effect="italics">Business Week</emphasis>. Last modified May 3, 2012. http://www.businessweek.com/articles/2012-05-03/why-france-has-so-many-49-employee-companies.</para>
+    <section id="Ch32Mod02_prob" class="problems">
+      <title id="UUID0a5520a9-687f-4c1f-4aed-13b3980f8120">Problems</title>
+      <exercise id="Ch32Mod02_prob01">
+        <problem id="Ch32Mod02_prob01p">
+          <para id="Ch32Mod02P31">Skorzystaj z „Reguły 72”, aby oszacować, ile czasu zajmie Indiom, Hiszpanii i RPA podwojenie dochodu per capita.</para>
+        </problem>
+      </exercise>
+      <exercise id="Ch32Mod02_prob02">
+        <problem id="Ch32Mod02_prob02p">
+          <para id="UUID1da8deef-9a01-4bc0-4563-363d23c9d737">Korzystając z nabytych umiejętności badawczych, pobierz następujące dane z bazy danych Banku Światowego (http://databank.worldbank.org/data/home.aspx) dla Indii, Hiszpanii i RPA za lata 2015–2022, jeśli są dostępne:</para>
+          <para id="UUIDe4fdf657-f6ae-4c9d-56b5-f01914fb9a93">a) liczba abonentów stacjonarnych telefonów,</para>
+          <para id="UUID65cd6fce-e683-485e-4c10-bda73b7af078">b) liczba abonamentów telefonii komórkowej,</para>
+          <para id="UUID037b29fa-7d27-4704-581f-3134181c6abf">c) bezpieczne serwery internetowe (na milion osób),</para>
+          <para id="UUID5724fceb-a851-4042-48de-f22c0054876c">d) produkcja energii elektrycznej (kWh).</para>
+          <para id="UUIDd196e7cf-3a93-4432-4c9a-0fa51fec5e8a">Przygotuj wykres porównujący te trzy kraje. Opisz kluczowe różnice między nimi.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="Ch32Mod02_ref" class="references">
+      <title id="UUIDda0194bf-b837-4282-6e3d-029134a7b476">References</title>
+      <para id="Ch32Mod02_ref01">“Shinzo Abe’s Government Looks Likely to Disappoint on Fiscal Consolidation.” <emphasis effect="italics">The Economist</emphasis>, May 4, 2013. http://www.economist.com/news/finance-and-economics/21577080-shinzo-abes-government-looks-likely-disappoint-fiscal-consolidation-dont.</para>
+      <para id="Ch32Mod02_ref02">Banerjee, Abhijit V., and Esther Duflo. <emphasis effect="italics">Poor Economics</emphasis>. “About the Book: Overview.” http://pooreconomics.com/about-book.</para>
+      <para id="Ch32Mod02_ref03">CARE International. “About Us.” Accessed January 14, 2014. http://www.care-international.org/about-us.aspx.</para>
+      <para id="Ch32Mod02_ref04">Central Intelligence Agency. “The World Factbook: Africa, Burundi.” Last modified November 12, 2013. https://www.cia.gov/library/publications/the-world-factbook/geos/by.html.</para>
+      <para id="Ch32Mod02_ref05">Central Intelligence Agency. “The World Factbook: Africa, Democratic Republic of the Congo.” Last modified November 12, 2013. https://www.cia.gov/library/publications/the-world-factbook/geos/cg.html.</para>
+      <para id="Ch32Mod02_ref06">Easterly, William. <emphasis effect="italics">The White Man’s Burden: Why the West’s Efforts to Aid the Rest Have Done So Much Ill and So Little Good</emphasis>. Penguin Group (USA), 2006.</para>
+      <para id="Ch32Mod02_ref07">Goel, Vindu. “Facebook Leads an Effort to Lower Barriers to Internet Access,” <emphasis effect="italics">The New York Times.</emphasis> Last modified August 20, 2013.</para>
+      <para id="Ch32Mod02_ref08">Google. “Project Loon.” http://www.google.com/loon/.</para>
+      <para id="Ch32Mod02_ref09">GOV.UK. “Department for International Development.” https://www.gov.uk/government/organisations/department-for-international-development.</para>
+      <para id="Ch32Mod02_ref10">The World Bank. “Millennium Development Goals.” http://www.worldbank.org/mdgs/.</para>
+      <para id="Ch32Mod02_ref11">Todaro, Michael P., and Stephen C Smith. <emphasis effect="italics">Economic Development (11<sup>th</sup></emphasis> <emphasis effect="italics">Edition)</emphasis>. Boston, MA: Addison-Wesley: Pearson, 2011, chap. 3.</para>
+      <para id="Ch32Mod02_ref12">Vercillo, Siera. “The Failures of Canadian Foreign Aid: Tied, Mismanaged and Uncoordinated.” <emphasis effect="italics">The Attaché Journal of International Affairs</emphasis>. (2010). http://theattachejia.files.wordpress.com/2013/10/the-attache-2010-issue.pdf.</para>
     </section>
   </content>
+  <glossary id="UUID8012926b-302a-40aa-54a4-4ea8a6815ad0">
+    <definition id="Ch32Mod02GLO01">
+      <term id="UUIDd553b64f-3086-490f-7a7f-3db83d7d5786">„azjatyckie tygrysy” (ang. <foreign xml:lang="en" id="UUID74f7d027-8752-46f7-6a13-d3934d8b7d39">East Asian Tigers</foreign>)</term>
+      <meaning id="Ch32Mod02GLO01m">
+        <para id="UUID1768b56f-423e-47d7-6e51-4c9e0bf5ad75">gospodarki Tajwanu, Singapuru, Hongkongu i Korei Południowej, które od wczesnych lat 60. do końca XX w. utrzymywały wysokie stopy wzrostu gospodarczego i napędzaną przez eksport szybką industrializację, co pozwoliło im zbliżyć się do liderów technologicznych z grupy krajów o wysokich dochodach</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDd2aa7679-6681-4ad3-7c55-0518d7db1803">
+      <term id="UUID2def6953-06eb-4df6-662d-3529179bea39">teoria wzrostu gospodarczego (ang. <foreign xml:lang="en" id="UUID1815d224-9f53-42e5-52e4-d7a4e02738fe">growth consensus</foreign>)</term>
+      <meaning id="Ch32Mod02GLO02m">
+        <para id="UUIDd96b8b56-dbf6-48d8-49ef-bf112a0afbd1">seria badań, które pokazują, że statystycznie 70% różnic w dochodach na osobę na świecie można wytłumaczyć różnicami w kapitale rzeczowym (relacji oszczędności i inwestycji)</para>
+      </meaning>
+    </definition>
+    <definition id="UUID19bcd4c1-96f7-4d63-556a-8c3b046e757d">
+      <term id="UUID71460f3a-01bb-4044-6c43-5d934c0f4642">konsensus wzrostu gospodarczego</term>
+      <seealso id="UUID6c926776-cb81-42d7-509f-f73a2a99fbb2">
+        <term id="UUID40bad64e-0abb-455a-6bc8-004db71b0075">teoria wzrostu gospodarczego</term>
+      </seealso>
+    </definition>
+    <definition id="Ch32Mod02GLO03">
+      <term id="UUID3a3e8b16-0d5c-42b5-6c24-7a5e0f322ba8">kraj o wysokich dochodach (ang. <foreign xml:lang="en" id="UUIDb99cdf50-c213-4e65-5e35-d5eba89c3d1a">high-income country</foreign>)</term>
+      <meaning id="Ch32Mod02GLO03m">
+        <para id="UUID4388f9df-fb9f-4397-6bfa-a275270b179e">kraj z dochodem na mieszkańca wynoszącym 13 250 dol. lub więcej; zazwyczaj posiadający wysoki poziom kapitału ludzkiego i rzeczowego</para>
+      </meaning>
+    </definition>
+    <definition id="Ch32Mod02GLO04">
+      <term id="UUID58ca08fd-0017-4052-5798-30c6fa33cc3e">kraj o niskich dochodach (ang. <foreign xml:lang="en" id="UUID866b854b-e796-4bd8-6c5f-c210b7722588">low-income country</foreign>)</term>
+      <meaning id="Ch32Mod02GLO04m">
+        <para id="UUIDfe5bdd24-6a45-4628-43f8-35349d292b3f">kraj, którego dochód na mieszkańca wynosi mniej niż 1080 dol.</para>
+      </meaning>
+    </definition>
+    <definition id="Ch32Mod02GLO05">
+      <term id="UUID1cd6061e-42a1-47f1-410e-80344e93538a">kraj o średnich dochodach (ang. <foreign xml:lang="en" id="UUID0d3f4a59-0c20-42b9-466c-af5efa3a71c5">middle-income country</foreign>)</term>
+      <meaning id="Ch32Mod02GLO05m">
+        <para id="UUIDcaa997dd-b244-4ff9-4948-5bd066bf2003">kraj z dochodem na mieszkańca pomiędzy 1080 a 13 205 dol., który wykazał pewną zdolność, nawet jeśli nie zawsze trwałą, doganiania liderów technologicznych o wysokim dochodzie</para>
+      </meaning>
+    </definition>
+  </glossary>
 </document>

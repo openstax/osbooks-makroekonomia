@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ucbb54587-6399-4c9c-beef-a2c81d201a9f" id="Ucbb54587-6399-4c9c-beef-a2c81d201a9f" xml:lang="en" cnxml-version="0.7">
-  <title>6.3 Shifts in Aggregate Supply</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ue128e23e-9ee0-4553-934a-09ee9e39c087" id="Ue128e23e-9ee0-4553-934a-09ee9e39c087" xml:lang="en" cnxml-version="0.7">
+  <title>6.2 Building a Model of Aggregate Demand and Aggregate Supply</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00033</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/cbb54587-6399-4c9c-beef-a2c81d201a9f</md:content-url>
-    <md:title>6.3 Shifts in Aggregate Supply</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/e128e23e-9ee0-4553-934a-09ee9e39c087</md:content-url>
+    <md:title>6.2 Building a Model of Aggregate Demand and Aggregate Supply</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:04.008329641+00:00</md:version>
-    <md:created>2023-08-30T08:02:04.008329641+00:00</md:created>
-    <md:revised>2023-08-30T08:02:04.008329641+00:00</md:revised>
+    <md:version>2023-09-11T10:25:05.590573618+00:00</md:version>
+    <md:created>2023-09-11T10:25:05.590573618+00:00</md:created>
+    <md:revised>2023-09-11T10:25:05.590573618+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,120 +20,323 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>cbb54587-6399-4c9c-beef-a2c81d201a9f</md:uuid>
+    <md:uuid>e128e23e-9ee0-4553-934a-09ee9e39c087</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUID704d5026-5543-h674-7c527b82d03b3911" class="learning-objectives">
-      <para id="ch24mod93_p34">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <note type="note" id="UUID704d5026-9900-8832-7c527b82d03b3911" class="learning-objectives">
+      <para id="ch24mod09_p56">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUIDc7b7ef02-edd2-4a74-4925-1d52b237c704">
-          <para id="UUIDd108d541-db22-49a8-55c1-5956d7212371">Zrozumieć, w jaki sposób wzrost wydajności pracy wpływa na krzywą podaży globalnej</para>
+        <item id="UUIDbe473d1c-9a54-4641-503a-0239bce50d8e">
+          <para id="UUID49cd6948-6b8e-41be-6cb9-0ed328593b86">Objaśnić kształt krzywej podaży globalnej oraz jej związek z poziomem faktycznego i potencjalnego PKB</para>
         </item>
-        <item id="UUIDd244531c-5b17-4ab8-56f0-5bfcba710fbe">
-          <para id="UUID568b90c0-3496-4d60-784e-d9e715cafc7b">Objaśnić, jaki jest związek pomiędzy zmianami cen czynników wytwórczych i krzywą podaży globalnej</para>
+        <item id="UUID61caf04d-5f7f-4e66-56fd-4cd864d82821">
+          <para id="UUID456c9969-3848-4b59-4679-643d8603e5de">Zinterpretować kształt krzywej popytu globalnego w kontekście poziomu cen</para>
+        </item>
+        <item id="UUID713f1aba-a1a9-48e5-4793-54d476d36ad1">
+          <para id="UUID37382a5f-1008-418e-411c-64ae22866bd6">Zrozumieć sposób interakcji popytu globalnego i podaży globalnej w ramach modelu opisującego zachowanie tych dwóch zmiennych (modelu AD-AS)</para>
+        </item>
+        <item id="UUIDd3ca6c35-263f-4960-74e7-3acd2fd1c423">
+          <para id="UUID6b9bc9ab-9496-4ad1-604a-eb9156134d8e">Określić i zinterpretować stan równowagi w modelu popytu globalnego i podaży globalnej</para>
+        </item>
+        <item id="UUID20a85a48-25b4-4696-5282-3fdffc7f7ec2">
+          <para id="UUIDbed4f8b9-eacf-4eb8-7903-4e7ca40822d3">Zrozumieć różnice pomiędzy krótkookresową i długookresową krzywą podaży globalnej</para>
         </item>
       </list>
     </note>
-    <para id="ch24mod03_p01">Jeśli krzywe AS lub AD przesuwają się, punkt równowagi w modelu AD-AS zmienia swoje położenie (zmienia się stan równowagi). Gdy krzywa podaży globalnej przesuwa się w dół (w prawo), producenci wytwarzają i sprzedają więcej przy każdym poziomie cen. Gdy krzywa AS przesuwa się w lewo (w górę), producenci wytwarzają mniej przy każdym poziomie cen. W tym podrozdziale zostaną omówione dwa najważniejsze czynniki, które mogą prowadzić do przesunięć krzywej AS: wzrost wydajności pracy i zmiany cen czynników wytwórczych.</para>
-    <section id="ch24mod03_01">
-      <title id="UUID22437807-96e5-47f0-7d51-0c0a5ef1a32d">W jaki sposób wzrost wydajności pracy zmienia położenie krzywej AS</title>
-      <para id="ch24mod03_p02">W długim okresie najważniejszym czynnikiem, który wpływa na położenie krzywej AS (przesuwa ją) obok zmian typowo ilościowych, takich jak wzrost liczby ludności, jest wzrost wydajności (produkcyjności) pracy. Parametr ten określa rozmiary produkcji, która może być wytworzona przy danych zasobach pracy. Jedną z miar wydajności pracy jest produkcja na pracownika lub PKB per capita. Znajomość historii gospodarczej krajów uprzemysłowionych pozwala zauważyć, że wydajność pracy cały czas rośnie, co oznacza, że przy niezmienionym zasobie pracy wolumen produkcji nieustannie się zwiększa. Analizując zmiany wydajność pracy np. w Stanach Zjednoczonych, można stwierdzić, że w drugiej połowie XX w. dynamika wzrostu realnego PKB per capita w tym kraju wynosiła średnio ok. 2–3% rocznie, przy czym w latach 60. i w drugiej połowie lat 90. ub. stulecia była nawet większa. Z kolei w latach 70. tempo wzrostu wydajności pracy spadło poniżej 2% rocznie. Wzrost wydajności pracy przesuwa krzywą AS w prawo (w dół), ponieważ przy zwiększonej produktywności przedsiębiorstwa mogą wyprodukować więcej przy każdym poziomie cen. Panel (a) na <link target-id="CNX_Econ_C24_013" cmlnle:case="genitive" id="UUID0a0542fa-7ecd-493d-714d-8409d29676de" /> przedstawia konsekwencje dwukrotnego skokowego wzrostu wydajności pracy. Krzywa podaży globalnej przesuwa się w prawo, początkowo z położenia SAS<sub>0</sub> do SAS<sub>1</sub>, a następnie do położenia SAS<sub>2</sub>, co oznacza, że równowaga przesuwa się z punktu E<sub>0</sub> do E<sub>1</sub> i potem do punktu E<sub>2</sub>. Zauważ, że w wyniku wzrostu wydajności pracy pracownicy mogą wyprodukować więcej towarów lub tę samą ich ilość szybciej. Tym samym rośnie także poziom potencjalnego PKB, czyli produktu globalnego, który byłby możliwy do wytworzenia przy pełnym zatrudnieniu, co jest zilustrowane jako przesunięcie w prawo krzywej LAS, z położenia LAS<sub>0</sub> do LAS<sub>1</sub>, a następnie LAS<sub>2</sub>.</para>
-      <figure id="CNX_Econ_C24_013">
-        <title id="UUID56c25c71-783f-416a-7e97-5bf237f4b636">Przesunięcia krzywej podaży globalnej</title>
-        <media alt="Oba panele wykresu ilustrują przesunięcie krzywych podaży globalnej i konsekwencje takiego przesunięcia dla punktu równowagi rynkowej. Panel (a) wykresu przedstawia przesunięcie w prawo krzywej krótkookresowej podaży globalnej (SAS) na skutek wzrostu wydajności pracy. Panel (b) ilustruje zmianę położenia krzywej SAS (jej przesunięcie w lewo), co jest konsekwencją wzrostu cen kluczowych czynników wytwórczych." id="mCNX_Econ_C24_013">
-          <image src="../../media//CNX_Econ_C24_013.svg" mime-type="image/svg+xml" id="UUID509015af-ec2c-4032-767b-b6e115f3087f" />
+    <para id="ch24mod02_p01">Aby zbudować użyteczny model makroekonomiczny, potrzebujemy listy zmiennych (czynników) determinujących rozmiary zagregowanego popytu i podaży globalnej w gospodarce oraz opisu mechanizmu, za pomocą którego globalny popyt i zagregowana podaż oddziałują na siebie na poziomie makroekonomicznym. Do tego celu wykorzystujemy <term cmlnle:reference="model popytu globalnego i podaży globalnej" id="UUID64930c0d-11cd-4f83-4ffb-c47007b0c073">model popytu globalnego i podaży globalnej</term>, nazywany także <term cmlnle:reference="model zagregowanego popytu i zagregowanej podaży" id="UUID455a7759-057c-4deb-6b88-b3b40c35b9d2">modelem zagregowanego popytu i zagregowanej podaży</term> lub po prostu od angielskich określeń obu parametrów <term cmlnle:reference="model AD-AS" id="UUID8e796020-e455-4307-61ec-90b293f05866">modelem AD-AS</term> (ang. <foreign xml:lang="en" id="UUID33766989-e3eb-4df8-530b-54575eefba26"><emphasis effect="bold">a</emphasis>ggregate <emphasis effect="bold">d</emphasis>emand - <emphasis effect="bold">a</emphasis>ggregate <emphasis effect="bold">s</emphasis>upply</foreign>) (<foreign xml:lang="en" id="UUID1125469e-e192-4123-41d5-779ddfabcebe"><term id="UUIDa7ddb862-144a-4ba6-43ac-b33da5b0d88c">aggregate demand/aggregate supply model</term></foreign>). Niniejszy podrozdział przedstawia sposób, w jaki ekonomiści wyobrażają sobie podaż globalną, popyt globalny i mechanizm ustalania równowagi pomiędzy tymi parametrami. W kolejnych podrozdziałach omówione zostaną czynniki, które mogą wpłynąć na zmianę wartości obu parametrów, a tym samym przesunięcie wykresów podaży i popytu globalnego.</para>
+    <section id="ch24mod02_01">
+      <title id="UUID094a5e27-c514-4299-4fa2-95e607ba41ae">Krzywa podaży globalnej i poziom potencjalnego PKB</title>
+      <para id="ch24mod02_p02">Przedsiębiorstwa podejmują decyzje o wielkości produkcji na podstawie oczekiwanych zysków. Zysk zaś zależy między innymi od ceny sprzedawanego produktu oraz kosztu zakupu czynników wytwórczych, takich jak praca, kapitał i surowce wykorzystywane do produkcji (różnicy pomiędzy utargiem i kosztem). <term cmlnle:reference="podaż globalna (podaż zagregowana, AS)" id="UUID8d59cdda-919b-4e65-72a6-2cf3a5d487dc">Podaż globalna (podaż zagregowana, AS)</term> (ang. <emphasis effect="bold" /><foreign xml:lang="en" id="UUID22cc5cf6-0bef-4ab4-62d0-e5aab1e4fded"><emphasis effect="bold" /><term id="UUID7dc4c248-1e05-4f0f-4a61-a43bd8f77390"><emphasis effect="bold">a</emphasis>ggregate <emphasis effect="bold">s</emphasis>upply (AS)</term></foreign>) przedstawia łączny wolumen produkcji i sprzedaży dóbr i usług w danej gospodarce (tj. poziom realnego PKB). <term id="UUID7c5d0569-0853-4478-74a7-8c62de341474">Krzywa podaży globalnej (AS)</term> (<emphasis effect="bold" /><foreign xml:lang="en" id="UUIDc6721c51-5a93-45fe-7f7b-c8c8941cd9e1"><emphasis effect="bold" /><term id="UUID10913098-5154-402c-515c-cdaab59db0c2"><emphasis effect="bold">a</emphasis>ggregate <emphasis effect="bold">s</emphasis>upply (AS) curve</term></foreign>) ilustruje łączną wielkość produkcji, jaką przedsiębiorstwa będą wytwarzać i sprzedawać przy każdym poziomie cen w gospodarce.</para>
+      <para id="UUIDe6aec23b-960b-4af6-5e78-505e8b267136"><link target-id="CNX_Econ_C24_001" id="UUID3ab7fd44-3353-4d32-4b63-c973524416ea" />. W dalszej części podrozdziału omówimy kolejno poszczególne elementy wykresu: wartości odłożone na osi poziomej i pionowej, samą krzywą podaży globalnej oraz pionową linię wyznaczającą poziom potencjalnego PKB.</para>
+      <figure id="CNX_Econ_C24_001">
+        <title id="UUID5cf9015f-c627-4156-4507-9da3b2a04222">Krzywa podaży globalnej (AS)</title>
+        <media alt="Wykres przedstawia rosnącą krzywą podaży globalnej, która ma hiperboliczny kształt. Krzywa jest względnie płaska dla wartości PKB między 6500 a 9000 mld zł, a następnie staje się bardziej stroma, zwłaszcza dla poziomu PKB przekraczającego 9000 mld zł." id="mCNX_Econ_C24_001">
+          <image src="../../media//CNX_Econ_C24_001.svg" mime-type="image/svg+xml" id="UUID6b6e9e22-4ec4-4dfa-4c9c-9246ab1d93a8" />
         </media>
-        <caption id="UUID3b25c993-9387-4859-4b86-6fe889f812c0">Panel (a) Wzrost wydajności pracy powoduje przesunięcie krzywej SAS w prawo (w dół). Początkowy punkt równowagi E<sub>0</sub> znajduje się na przecięciu krzywych AD i SAS<sub>0</sub>. Gdy krzywa SAS przesuwa się w prawo, nowa równowaga występuje najpierw w punkcie E<sub>1</sub>, tj. Na przecięciu krzywych AD i SAS<sub>1</sub>, a następnie w punkcie E<sub>2</sub>, czyli w miejscu przecięcia się krzywych AD i SAS<sub>2</sub>. Przesunięcia krzywej SAS w dół prowadzą do wzrostu produkcji i obniżają poziom cen w gospodarce. Panel (b) Wyższe ceny czynników wytwórczych (np. surowców) oznaczają, że przy każdym poziomie cen produktów finalnych wytworzony zostanie niższy realny PKB, w związku z czym krzywa podaży globalnej przesunie się w lewo, z położenia SAS<sub>0</sub> do położenia SAS<sub>1</sub>. W nowym punkcie równowagi (E<sub>1</sub>) produkcja będzie mniejsza, a poziom cen wyższy niż w stanie pierwotnej równowagi (E<sub>0</sub>).</caption>
+        <caption id="UUID65762e81-d86e-4139-4d37-d1078e1bc1bc">Krzywa podaży globalnej (AS) ma nachylenie dodatnie, ponieważ wraz ze wzrostem cen dóbr i usług, przy stałych cenach czynników wytwórczych, przedsiębiorstwa mają motywację do rozwijania produkcji i tym samym zwiększania wartości zysku. Linia wskazująca poziom potencjalnego PKB ilustruje maksymalną wielkość produkcji, jaką dana gospodarka może wytworzyć przy pełnym zatrudnieniu pracowników i kapitału rzeczowego (pełnym wykorzystaniu czynników produkcji) w określonych ramach czasowych, np. przez rok.</caption>
       </figure>
-      <para id="UUIDfaa08ace-559f-491e-5f39-162137b2cfad">Przesunięcie krzywej SAS w prawo przy stałym poziomie zagregowanego popytu spowoduje wzrost realnego PKB i presję na spadek cen. Jeśli jednak zmiana położenia krzywej SAS wynika ze wzrostu wydajności pracy wynoszącego zwykle kilka punktów procentowych rocznie, efekt będzie stosunkowo niewielki w ciągu kilku miesięcy lub nawet kilku lat. Na zajęciach z mikroekonomii została wprowadzona koncepcja krzywej możliwości produkcyjnych, która jest względnie stała w krótkim okresie, ale przesuwa się na zewnątrz układu współrzędnych (w prawo) w długim okresie, wraz ze wzrostem zasobu czynników produkcji lub ich wydajności. Tutaj analizujemy to samo zjawisko, tyle że przy użyciu innego modelu.</para>
+      <para id="UUID22d78b8d-f7a3-41ef-7d9f-100fc5ae1d4e">Na osi poziomej powyższego wykresu odłożona jest wartość realnego PKB, czyli poziom produktu globalnego skorygowany o inflację. Natomiast oś pionowa przedstawia poziom cen, który najlepiej interpretować jako wskaźnik cen towarów i usług konsumpcyjnych (CPI) lub deflator PKB, które przedstawiliśmy w <link document="m00018" cmlnle:case="locative" id="UUID44455a82-30c4-4ab4-78a0-89851236e116" />. Należy pamiętać, że poziom cen różni się od stopy inflacji. W naszym przypadku poziom cen jest wskaźnikiem średniej ceny dóbr i usług nabywanych w gospodarce (ważonej ich udziałem np. w konsumpcji), podczas gdy stopa inflacji to procentowa zmiana wartości tego wskaźnika (poziomu cen) w czasie.</para>
+      <para id="UUIDfa3869d9-a597-4526-5477-9ee0126e6836">Wraz ze wzrostem poziomu cen rośnie również realny PKB. Dlaczego? Na osi pionowej odłożone zostały ceny dóbr finalnych, a nie ceny dóbr pośrednich stanowiących nakłady w procesie produkcji. Zatem krzywa AS opisuje sposób, w jaki producenci reagują na wyższe ceny dóbr finalnych, w sytuacji gdy ceny nakładów, takich jak praca i energia, nie zmieniają się. Jeśli przedsiębiorstwa w całej gospodarce zauważą, że ceny produkowanych i sprzedawanych wyrobów rosną, ale koszty ich produkcji nie ulegają zmianie, wówczas pokusa wyższych zysków skłoni firmy do zwiększenia produkcji. Innymi słowy, krzywa podaży globalnej pokazuje, w jaki sposób producenci (jako grupa) reagują na wzrost popytu globalnego.</para>
+      <para id="ch24mod02_p06">Nachylenie krzywej AS na wykresie ulega zmianie: początkowo jest ona płaska, a wraz ze wzrostem wartości realnego PKB (przesuwając się w prawo) staje się bardziej stroma i w końcu prawie pionowa. Dzieje się tak dlatego, że przy stosunkowo niskim poziomie realnego PKB wolumen produkcji w gospodarce jest znacznie niższy od <term cmlnle:reference="potencjalny PKB" id="UUID202acb27-2a06-4d73-462f-0f51d5a8ff8e">poziomu potencjalnego PKB</term> (ang. <foreign xml:lang="en" id="UUID13102cf3-028e-49e2-5f35-c286e9ade630"><term id="UUID25202053-9b89-470d-49bd-d3f83cea5c71">potential GDP</term></foreign>), który jest określany jako wartość produkcji możliwa do wytworzenia przy pełnym wykorzystaniu istniejących czynników wytwórczych (pracy, kapitału rzeczowego i technologii) oraz określonym otoczeniu prawnym i instytucjonalnym. Warto dodać, że poziom potencjalnego PKB oznacza pełne wykorzystanie czynnika produkcji „praca”, a więc brak bezrobocia przymusowego. Przy stosunkowo niskich wolumenach produkcji (odległych od poziomu potencjalnego) bezrobocie przymusowe jest wysokie, a wiele fabryk działa w niepełnym wymiarze czasu lub jest zamkniętych. W takiej sytuacji stosunkowo niewielki wzrost cen produktów sprzedawanych przez przedsiębiorstwa – przy założeniu stałych cen czynników wytwórczych – może spowodować znaczny wzrost podaży globalnej, ponieważ rezerwa siły roboczej poszukującej pracy i niewykorzystany kapitał rzeczowy umożliwiają stosunkowo łatwe i szybkie zwiększenie produkcji.</para>
+      <para id="UUID2cc014cf-8b3d-4fe3-7663-5bbec708a919">Jednak wraz ze wzrostem wartości realnego PKB coraz więcej przedsiębiorstw i całych gałęzi gospodarki zaczyna osiągać maksymalny możliwy do osiągnięcia wolumen produkcji. Dzieje się tak dlatego, że w niektórych branżach wszyscy pracownicy wykwalifikowani mogą już mieć pracę, a fabryki będą funkcjonować przy pełnym wykorzystaniu maszyn, urządzeń i linii produkcyjnych. W środkowej części wykresu podaży globalnej wyższe ceny nadal zachęcają przedsiębiorstwa do zwiększania produkcji, ale – jak pokazuje coraz bardziej stromy kształt krzywej AS – wzrost realnego PKB w odpowiedzi na dany wzrost cen nie będzie już tak imponujący jak poprzednio. (Przeczytaj poniższą ramkę „Poznaj szczegóły”, aby się dowiedzieć, dlaczego krzywa AS może przeciąć linię wyznaczającą poziom potencjalnego PKB).</para>
+      <note type="note" id="ch24mod02_clear01" class="clearup economics">
+        <title id="UUIDea3126d4-fefb-4a9b-75e4-371c847d0568">Dlaczego krzywa AS przecina linię wyznaczającą poziom potencjalnego PKB?</title>
+        <para id="ch24mod02_p08">Ekonomiści zazwyczaj wykreślają krzywą podaży globalnej tak, by przecinała linię wyznaczającą poziom potencjalnego PKB. Ten kształt może wydawać się dziwny: jak gospodarka może produkować więcej, niż wynosi jej potencjał, tj. PKB przy pełnym wykorzystaniu czynników wytwórczych (w tym przy pełnym zatrudnieniu)? Ekonomiczna intuicja podpowiada jednak, że gdy ceny produktów są wystarczająco wysokie, przedsiębiorstwa zrobią wszystko, aby zwiększyć produkcję. Pracownicy będą wykorzystywać nadgodziny, pracować na trzecią zmianę i w czasie weekendów, co oznacza, że maszyny działają 24 godziny na dobę przez 7 dni w tygodniu. Taki sposób intensywnego wykorzystywania czynników produkcji wykracza poza standardy pełnego zatrudnienia zasobów pracy i kapitału rzeczowego i nie jest możliwy do utrzymania w długim okresie. W związku z tym wolumen produkcji wypracowany przez gospodarkę może przekroczyć poziom potencjalny, ale tylko w krótkim okresie.</para>
+      </note>
+      <para id="ch24mod02_p09">Przy relatywnie bardzo wysokim poziomie realnego PKB (na prawym krańcu swojego wykresu) krzywa podaży globalnej staje się niemal pionowa. Przy takim wolumenie produkcji wyższe ceny nie przekładają się na znaczący wzrost PKB. Nawet jeśli przedsiębiorstwa chciałyby zwiększyć produkcję, nakłady pracy i kapitału w gospodarce są w pełni wykorzystane. Pionowa linia na wykresie wskazuje, że poziom potencjalnego PKB w naszej hipotetycznej gospodarce występuje przy produkcji o wartości 9500 mld zł. Kiedy faktyczny PKB jest równy potencjalnemu, maszyny i fabryki pracują na pełnych obrotach (przy pełnym wykorzystaniu swojego standardowego potencjału), a stopa bezrobocia jest stosunkowo niska, na poziomie naturalnej stopy bezrobocia. Z tego powodu potencjalny PKB jest również nazywany <term id="UUID687f831f-003d-46b0-6413-bf1890f72d87">PKB przy pełnym zatrudnieniu</term> (ang. <foreign xml:lang="en" id="UUID83943931-af93-4ea6-478f-bce7193f2015"><term id="UUIDd5e3bdad-5cec-4ee5-696f-c7c723741f25">full-employment GDP</term></foreign>).</para>
     </section>
-    <section id="ch24mod_02">
-      <title id="UUIDd19914fd-d520-469f-669c-2c7e75069c51">W jaki sposób zmiany cen czynników produkcji wpływają na położenie krzywej AS</title>
-      <para id="ch24mod03_p04">Wyższe ceny czynników wytwórczych wykorzystywanych w całej gospodarce mogą mieć wpływ na podaż globalną. Przykładem są koszty pracy, ceny surowców (np. ropy naftowej) oraz ceny energii elektrycznej. Wzrost kosztów pozyskania takich nakładów skutkuje przesunięciem krzywej SAS w lewo (w górę), co oznacza, że przy każdym poziomie cen produktów finalnych przedsiębiorstwa będą produkować mniej. Panel (b) <link target-id="CNX_Econ_C24_013" cmlnle:case="genitive" id="UUIDeba44fc6-9063-4ac7-49f4-16ed3ecd84e4" /> przedstawia przesunięcie krzywej podaży globalnej w lewo, z położenia SAS<sub>0</sub> do SAS<sub>1</sub>, co powoduje zmianę punktu równowagi z E<sub>0</sub> do E<sub>1</sub>. Przejście z początkowej równowagi E<sub>0</sub> do nowej równowagi E<sub>1</sub> prowadzi do szeregu negatywnych skutków: PKB spadnie i gospodarka może znaleźć się w recesji, bezrobocie wzrośnie, ponieważ wolumen produkcji zmniejszy się w stosunku do poziomu potencjalnego, wzrosną także ceny i w gospodarce pojawi się inflacja. Z taką właśnie sytuacją mieliśmy do czynienia w ciągu ostatnich 50 lat w Stanach Zjednoczonych, które doświadczyły recesji w latach 1974–1975, 1980–1982, 1990–1991, 2001 i 2007–2009. Każdy z tych okresów był poprzedzony lub charakteryzował się wzrostem cen ropy naftowej. W latach 70. ub. stulecia takie przesunięcie w lewo krzywej SAS, prowadzące do spadku poziomu produkcji lub gwałtownego zmniejszenia tempa jej wzrostu niemal do zera, co w konsekwencji prowadziło do wzrostu bezrobocia i jednocześnie przyspieszenia inflacji, zostało określone jako <term cmlnle:reference="stagflacja" id="UUIDe4740d83-80cc-4073-4bf2-e0ca9fc35b73">stagflacja</term> (ang. <foreign xml:lang="en" id="UUID155295c6-454b-416a-7fa4-7d782a0226e6"><term id="UUIDb5f3fd45-0269-43bb-7ae8-9141d21555c5">stagflation</term></foreign>).</para>
-      <para id="ch24mod03_p05">Spadek cen kluczowych czynników wytwórczych, np. ropy naftowej, przesuwa krzywą SAS w prawo, co zachęca przedsiębiorstwa do zwiększenia produkcji przy każdym poziomie cen dóbr i usług finalnych. Na przykład między rokiem 1985 i 1986 średnia cena ropy naftowej zmniejszyła się o połowę, z 24 dol. do 12 dol. za baryłkę. Podobnie w latach 1997–1998 cena baryłki ropy naftowej spadła z 17 dol. do 11 dol. W obu przypadkach gwałtowny spadek cen ropy doprowadził do sytuacji przedstawionej na panelu (a) <link target-id="CNX_Econ_C24_013" cmlnle:case="genitive" id="UUID9e6e73d6-e1ed-4456-70a9-51e76a814aab" />, czyli przesunięcia krzywej SAS w prawo, co prowadzi do wzrostu produkcji, spadku bezrobocia i obniżenia tempa inflacji.</para>
-      <para id="UUIDfe49ef5b-b78a-45db-4899-0f71697c4f8f">Obok zmian cen surowców i energii również zmiany kosztów pracy (czyli płac) oraz kosztów pozyskiwania towarów importowanych wykorzystywanych jako nakłady w procesie produkcji innych dóbr mogą prowadzić do przesunięcia krzywej SAS. Niższe ceny czynników wytwórczych powodują przesunięcie krzywej SAS w prawo, zaś wyższe ceny – jej przesunięcie w lewo. Należy zauważyć, że w przeciwieństwie do zmian produktywności czynników wytwórczych zmiany ich cen generalnie nie powodują przesunięcia krzywej LAS, a jedynie SAS.</para>
+    <section id="ch24mod02_02">
+      <title id="UUID2c753dd6-13c8-40a9-48fa-eb31b4302724">Krzywa popytu globalnego</title>
+      <para id="ch24mod02_p10"><term id="UUID5537fa6c-902e-41a6-510e-7d241d5629a1">Popyt globalny (popyt zagregowany, AD)</term> (ang. <emphasis effect="bold" /><foreign xml:lang="en" id="UUID9406eba2-753a-4daa-7090-b2689d9cf933"><emphasis effect="bold" /><term id="UUID8087ed19-3ce7-49f6-4879-0cffbadd4eee"><emphasis effect="bold">a</emphasis>ggregate <emphasis effect="bold">d</emphasis>emand (AD)</term></foreign>) ilustruje poziom wydatków na krajowe dobra i usługi. (Mówiąc precyzyjniej, AD ekonomiści nazywają całkowitymi planowanymi wydatkami. Wyjaśnimy to dokładniej w Załączniku B (<link document="m00092" id="UUIDfb430fb3-2720-4214-79ca-249ed8420742" />). Na razie popyt globalny traktuj po prostu jako całkowite wydatki). Popyt globalny składa się z czterech składników: konsumpcji, inwestycji, wydatków państwa na dobra i usługi oraz eksportu netto (eksportu pomniejszonego o import). Popyt globalny zależy od wielu czynników. Jednym z nich jest poziom cen – pamiętaj tylko, że poziom cen jest wyrażony w postaci wskaźnika, np. deflatora PKB, mierzącego przeciętną cenę wszystkich kupowanych dóbr i usług. <term cmlnle:reference="krzywa popytu globalnego (AD)" id="UUID1f8785e6-d283-4f22-483c-1e36fbde53ef">Krzywa popytu globalnego (AD)</term> (ang. <foreign xml:lang="en" id="UUID74dbf2ee-6534-406c-6edd-faeb32a8fe0b"><term id="UUID62be30f0-a864-4048-5d1e-b871c5959ce8">aggregate demand (AD) curve</term></foreign>) ilustruje całkowite wydatki na dobra i usługi wytworzone na terenie danego kraju przy każdym poziomie cen.</para>
+      <para id="ch24mod02_p11"><link target-id="CNX_Econ_C24_002" id="UUIDcf2606d5-3031-47d9-6549-1b0c186e547f" /> Podobnie jak w przypadku krzywej podaży globalnej na osi poziomej odłożony jest realny PKB, a na osi pionowej – poziom cen. Krzywa AD ma nachylenie ujemne, ponieważ zapotrzebowanie na dobra i usługi maleje wraz ze wzrostem cen. Dokładny kształt krzywej popytu globalnego zależy od tego, jak zmiany cen wpływają na poszczególne składniki popytu globalnego: konsumpcję (C), inwestycje (I), wydatki państwa na dobra i usługi (G) oraz eksport (X) pomniejszony o import (Z): C + I + G + X − Z.</para>
+      <figure id="CNX_Econ_C24_002">
+        <title id="UUID95e7de03-0acd-4020-594d-a92673fc252f">Krzywa popytu globalnego (AD)</title>
+        <media alt="Rysunek przedstawia opadającą krzywą popytu globalnego." id="mCNX_Econ_C24_002">
+          <image src="../../media//CNX_Econ_C24_002.svg" mime-type="image/svg+xml" id="UUID237e78fe-4daa-4a03-6d34-a7a4cfdefee4" />
+        </media>
+        <caption id="UUID7b8a5e87-dac2-4293-7fb9-1652a390052a">Krzywa popytu globalnego (AD) ma nachylenie ujemne, ponieważ wraz ze wzrostem cen spada zapotrzebowanie na krajowe dobra i usługi.</caption>
+      </figure>
+      <para id="ch24mod02_p14">Ceny wpływają na poszczególne składowe popytu globalnego: konsumpcję, inwestycje, wydatki państwa i eksport netto poprzez trzy różne kanały transmisyjne. Pierwszym z nich jest efekt majątkowy. Polega on na tym, że wraz ze wzrostem cen siła nabywcza oszczędności zgromadzonych na rachunkach bankowych i w postaci innych aktywów finansowych maleje, gdyż jest zjadana przez inflację. Aby to lepiej zrozumieć, wyobraź sobie, że twoje oszczędności nie są wyrażone w jednostkach pieniężnych – złotych lub dolarach – tylko w bochenkach chleba, które możesz za te oszczędności nabyć. Im wyższa inflacja, tym liczba bochenków chleba zakupionych dzięki zaoszczędzonym przez ciebie środkom pieniężnym jest mniejsza. Ekonomiści uważają ponadto, że poziom konsumpcji jest skorelowany dodatnio (rośnie wraz) z wielkością majątku (pomyśl, kto wydaje na konsumpcję więcej – osoby zamożne, posiadające własną nieruchomość, jeden lub dwa samochody i działkę pod miastem, czy ktoś, kto ma tylko rower i mieszka w mieszkaniu wynajmowanym wspólnie ze znajomymi). A ponieważ wzrost cen zmniejsza wartość majątku, to realna wartość wydatków konsumpcyjnych będzie spadać wraz ze wzrostem poziomu cen.</para>
+      <para id="UUID0236005a-9c87-4438-5ab7-208c533c80b9">Z kolei efekt stopy procentowej polega na tym, że wraz ze wzrostem cen koszt zakupu danego koszyka dóbr będzie większy, wskutek czego zwiększy się również popyt na pieniądz i zapotrzebowanie na kredyty. Spowoduje to – <foreign xml:lang="la" id="UUID14ce5976-befc-4a7d-62ba-f7ce76f503e0">ceteris paribus</foreign>, czyli przy stałej podaży pieniądza – wzrost stóp procentowych. Wyższe stopy procentowe zmniejszą wolumen pożyczek dla przedsiębiorstw na cele inwestycyjne oraz dla gospodarstw domowych na zakup dóbr trwałego użytku (np. domów i samochodów). Skutkiem będzie spadek wartości inwestycji i konsumpcji.</para>
+      <para id="UUIDd7f3af5b-f81f-4da3-4d5a-1c5a9b07faa8">Wreszcie efekt cen w handlu zagranicznym oznacza, że jeśli ceny np. w Polsce wzrosną, a w innych krajach się nie zmienią, to dobra produkowane w Polsce będą relatywnie droższe niż gdzie indziej. A zatem polski eksport stanie się relatywnie droższy i jego wolumen spadnie. Z kolei import do Polski będzie względnie tańszy, więc jego wolumen wzrośnie. Tym samym wyższy poziom cen w kraju w stosunku do zagranicy zmniejszy eksport netto.</para>
+      <para id="UUIDc720012a-d793-4691-4800-db4534570c97">Ekonomiści formułują liczne zastrzeżenia dotyczące wszystkich trzech kanałów transmisji poziomu cen na wielkość popytu globalnego. Częściowo z uwagi na to, że ich wpływ na konsumpcję, inwestycje czy eksport netto nie wydaje się bardzo duży. Z tego względu krzywa popytu globalnego na <link target-id="CNX_Econ_C24_002" cmlnle:case="locative" id="UUID5813783d-bef4-4112-50c5-e651839b3be0" /> ma silne ujemne nachylenie (jest bardzo stroma). Taki kształt krzywej AD wskazuje, że wyższe ceny zmniejszają popyt globalny w niewielkim stopniu, biorąc pod uwagę działanie opisanych wyżej efektów.</para>
+      <para id="UUID83a46b33-c48a-422d-5219-de6095e2fe0c">Przeczytaj poniższą <link target-id="ch14mod02_workout01" cmlnle:case="accusative" id="UUIDb638562b-6a16-4efc-49a5-91b28d430198" />, aby zapoznać się z interpretacją modelu AD-AS. W podanym przykładzie podaż globalna, popyt globalny i poziom cen odnoszą się do fikcyjnej gospodarki Xurbii (załóżmy, że walutą tego kraju jest złoty).</para>
+      <note type="note" id="ch14mod02_workout01" class="economics workout">
+        <title id="UUID24746db4-3e7c-4cb3-7bc4-33b96599ba95">Interpretacja modelu AD-AS</title>
+        <para id="ch24mod02_p17"><link target-id="ch24mod02_tab01" id="UUID9b12c331-d230-499f-6624-8b2dd2a0d470" /> pokazuje dane na temat podaży globalnej, popytu globalnego i poziomu cen w Xurbii. Co możesz powiedzieć o stanie gospodarki tego hipotetycznego kraju na podstawie informacji zawartych w <link target-id="ch24mod02_tab01" cmlnle:case="locative" id="UUIDd9aa4f57-d7e7-44db-70ea-cd7a5ab03aec" />? Czy Xurbia notuje wysokie bezrobocie, czy też raczej grozi jej presja inflacyjna?</para>
+        <table summary="This table has three columns and eight rows. The first row is a header row, and it labels each column “Price Level”, “Aggregate Demand”, and “Aggregate Supply”. Under the column “Price Level” are the following values: 110, 120, 130, 140, 150, 160, 170. Under the column “Aggregate Demand” are the following values: $700, $690, $680, $670, $660, $650, $640. Under the column “Aggregate Supply” are the following values: $600, $640, $680, $720, $740, $760, $770." id="ch24mod02_tab01"><title id="UUID5ed1254d-8a58-4924-54cc-217b5f25875f">Poziom cen, popyt globalny i podaż globalna (kwoty w zł)</title><tgroup cols="3" id="UUID75c33c12-0f59-46fa-76d5-0a1c5fb3dcab"><thead id="UUID1ab62262-8de3-4788-668f-1c9130a39844"><row id="UUID799f6fe6-777c-4d69-5441-8465762c20a0"><entry align="center" id="UUID9824483a-b0a5-4126-7bbb-d4953490d21e">Poziom cen</entry><entry align="center" id="UUID8f321b80-707d-461b-4533-0c206314ff70">Popyt globalny</entry><entry align="center" id="UUID8537f98e-84d4-4f6c-5550-67ab06da034f">Podaż globalna</entry></row></thead><tbody id="UUIDaf51a01f-14c6-4e0d-460e-9a29c86ca3c3"><row id="UUIDbeca1bba-aa90-4607-4a94-9a9c1c2b17b2"><entry align="center" id="UUIDd5c09016-f064-4918-7cd0-7a8a5926f851">110</entry><entry align="center" id="UUID435642c7-c5ae-4fe9-5286-f8b3f33655c5">700</entry><entry align="center" id="UUID82d2acea-4ca3-4330-583f-78e6d41560be">600</entry></row><row id="UUID078ef51e-353e-4f3a-44a7-ef30ffbf0fa3"><entry align="center" id="UUID70f356a5-49f5-4646-4003-44ba455ffd44">120</entry><entry align="center" id="UUIDb5da594d-5fcf-4153-4810-507ef2598a08">690</entry><entry align="center" id="UUID760a307f-b456-4f5c-5b7b-3305eabf7a98">640</entry></row><row id="UUID0ba4c2c7-9e71-486b-6b93-0a73f7f4d4aa"><entry align="center" id="UUID1c625750-033a-4367-7c76-4853df20eed9">130</entry><entry align="center" id="UUID6d27a2ee-4bc4-4331-67be-704ae8bc3308">680</entry><entry align="center" id="UUID8ecc5927-0d22-4983-47ae-4fc07595b9ac">680</entry></row><row id="UUIDc6cccfca-79e7-42b9-5077-8b9e48df94db"><entry align="center" id="UUIDad402099-8b5f-494a-6f26-c62e1acc7064">140</entry><entry align="center" id="UUID7a9de673-9a68-44a1-6e75-aa063891f509">670</entry><entry align="center" id="UUID1264a0de-0f1b-464d-77a3-2376afdbc05d">720</entry></row><row id="UUID84cdb6f3-45c9-477d-46cd-9078ae817b3c"><entry align="center" id="UUID0d39e93d-eb4e-4d3b-7fd7-86f813cdfc55">150</entry><entry align="center" id="UUIDc28d6c39-e90e-42cc-6cbb-7097b93332da">660</entry><entry align="center" id="UUIDc08f183d-b4c2-46c6-6b43-06e9020da252">740</entry></row><row id="UUID59f893d1-2989-479e-57aa-4c977951b46b"><entry align="center" id="UUID89409570-fff1-46d2-51bc-6caef1a4b108">160</entry><entry align="center" id="UUID1187b023-83c4-4ebe-4c5e-57f786912102">650</entry><entry align="center" id="UUIDf3c8c495-f799-4cf0-7f7a-a5cc5e2838ee">760</entry></row><row id="UUIDdf0eafb3-96d9-4784-6267-5743a017f1b1"><entry align="center" id="UUID0d4eb3d9-8b05-4ea2-59b3-81c7cc77e013">170</entry><entry align="center" id="UUID2e1ae7e4-2645-4980-74c9-d7da72f68edf">640</entry><entry align="center" id="UUID374d5427-4cb3-46fa-4ab4-cd03c79d32b8">770</entry></row></tbody></tgroup></table>
+        <para id="UUIDbc33bdc4-e4c8-44ab-66d7-f55d071a188a">Aby znaleźć równowagę, warto na początku wykreślić krzywe AD i AS na podstawie danych zawartych w tabeli.</para>
+        <para id="UUIDe9cf9788-7ba9-4b71-6b8e-d9109ba2d325">Krok 1. Narysuj układ współrzędnych. Na osi poziomej (odciętych) odznacz realny PKB, a na osi pionowej (rzędnych) – poziom cen.</para>
+        <para id="UUID3b488ac5-1bdb-42b9-4986-9637b0fad7e2">Krok 2. Na wykresie narysuj krzywą popytu globalnego (AD).</para>
+        <para id="UUIDcd01db18-a6a2-4ba7-67e4-16b0e419d7e5">Krok 3. Naszkicuj następnie krzywą podaży globalnej (AS).</para>
+        <para id="UUID23738886-056a-4ed2-69a5-68ee79db3a0e">Krok 4. Przeanalizuj poniższy wykres, żeby lepiej zrozumieć kroki 1-3.</para>
+        <figure id="CNX_Econ_C24_016">
+          <title id="UUID631ce08d-dc77-41da-5b62-7bb426cba632">Krzywe AD i AS</title>
+          <media alt="Rysunek przedstawia opadającą krzywą popytu globalnego przecinającą się z rosnącą krzywą podaży globalnej w punkcie, któremu odpowiada realna produkcja na poziomie 680 i poziom cen równy 130." id="mCNX_Econ_C24_016">
+            <image src="../../media//CNX_Econ_C24_016.svg" mime-type="image/svg+xml" id="UUID1226d08f-851b-48e9-65c3-bce4c171b9da" />
+          </media>
+          <caption id="UUID7ba02057-258b-4f2f-79ac-c79c4796455b">Krzywe AD i AS utworzone na podstawie danych z <link target-id="ch24mod02_tab01" cmlnle:case="genitive" id="UUID1737f001-f004-4f6f-672d-cb3256b1114e" />.</caption>
+        </figure>
+        <para id="UUID7306707f-830a-412d-78e3-043f2f514c40">Krok 5. Znajdź punkt przecięcia krzywych AD i AS. Jest to stan równowagi z poziomem cen wynoszącym 130 i realnym PKB równym 680 zł.</para>
+        <para id="UUIDfec41978-bf12-4d78-53be-d5d671dfc61f">Krok 6. Zaznacz punkt równowagi na wykresie. Łatwo zauważyć, że równowaga znajduje się dość daleko od poziomów produkcji, dla których krzywa AS staje się prawie pionowa (lub przynajmniej dość stroma), co ma miejsce przy wolumenie wyższym od 750 zł. Oznacza to, że faktyczny PKB jest daleki od potencjalnego. Bezrobocie będzie więc stosunkowo wysokie. Na relatywnie płaskim fragmencie wykresu krzywej AS, gdzie położony jest punkt równowagi, zmiany cen nie będą stanowić większego problemu dla gospodarki Xurbii, ponieważ prawdopodobnie będą one niewielkie.</para>
+        <para id="UUIDc0ad29cd-da0b-4450-6563-d95afec6cef8">Krok 7. Zastanów się, jaka jest interpretacja stromego fragmentu krzywej AS. Gdy wykres krzywej AS jest stromy, produkcja osiągnęła poziom równy lub zbliżony do potencjalnego.</para>
+        <para id="UUIDdc35ff09-a83e-4c41-4ace-ede66c7190bc">Krok 8. Wyciągnij wnioski z podanych informacji:</para>
+        <list id="ch24mod02_list02">
+          <item id="UUID827afec0-23f3-4254-4492-588ddcabfe3a">
+            <para id="UUID679e691f-af94-484e-690f-4a28ed86ed2a">Jeśli punkt równowagi znajduje się na płaskiej części krzywej AS, wolumen produkcji odbiega znacznie in minus od poziomu potencjalnego. W gospodarce występuje bezrobocie, ale poziom cen jest stabilny.</para>
+          </item>
+          <item id="UUID82221a5c-3018-4087-7ca0-0197a786dd7b">
+            <para id="UUID3b4fb518-2110-4fcc-56e5-220c715e3cea">Jeśli punkt równowagi znajduje się na stromej części krzywej AS, wolumen produkcji jest bliski lub równy potencjalnemu PKB. W gospodarce pojawia się inflacja, ale stopa bezrobocia jest niska lub występuje pełne zatrudnienie.</para>
+          </item>
+        </list>
+      </note>
     </section>
-    <section id="ch24mod03_03">
-      <title id="UUID624de27f-f838-433b-6834-c4ba1375ce90">Inne szoki podażowe</title>
-      <para id="UUID1a40dcb1-13d4-4b31-4bbf-4f1190fc8f34">Krzywa podaży globalnej może się również przesunąć ze względu na gwałtowne zmiany na rynku czynników produkcji, w tym na rynku pracy. Na przykład kilkudniowe przymrozki w maju na terenie całego kraju mogą się negatywnie odbić na produkcji owoców w Polsce, wywołując szok, który przesunie krzywą AS w lewo, ponieważ ilość dostępnych truskawek, jabłek, czereśni itd. gwałtownie spadnie.</para>
-      <para id="UUID5cebd7dd-1af4-47c9-7504-3b9c6ca3f141">Również wstrząsy na rynku pracy wpływają na podaż globalną. Ekstremalnym przykładem może być wojna, która powoduje, że duża liczba pracowników przestaje pracować i idzie walczyć za swój kraj (tak jak to ma miejsce w Ukrainie od lutego 2022 r.). W takim przypadku zarówno krzywa SAS, jak i LAS przesuną się w lewo, bo mniej pracowników będzie mogło uczestniczyć w procesie produkcji.</para>
-      <para id="UUID2f538167-e475-43e2-66d9-c3008cf1b74a">Innym przykładem szoku podażowego może być epidemia o skali porównywalnej z pandemią Covid-19. Szybko rozprzestrzeniająca się i potencjalnie niebezpieczna choroba oznacza, że w relatywnie krótkim okresie bardzo wielu pracowników ze względu na trapiące ich dolegliwości nie jest zdolnych do pracy. Co więcej, część z nich nawet po odzyskaniu zdrowia może nie chcieć wrócić do pracy w obawie o bezpieczeństwo swoje i swoich bliskich. Choć tego typu ograniczenia rzadko mają długotrwały charakter, mogą przełożyć się na zmniejszenie podaży wielu dóbr i usług, co znajduje odzwierciedlenie w przesunięciu w górę krótkookresowej krzywej podaży globalnej (SAS). W latach 2020–2021, czyli w okresie pandemii koronawirusa, podaż produktów takich jak układy scalone wykorzystywane przy produkcji samochodów, mięso i generalnie usługi była znacznie niższa od zgłaszanego popytu ze względu na niedobór pracowników w różnych krajach świata (przede wszystkim w transporcie), co skutkowało powstawaniem tzw. wąskich gardeł uniemożliwiających dostarczanie wyprodukowanych już towarów na rynki zbytu (np. z Chin do Europy).</para>
+    <section id="ch24mod02_03">
+      <title id="UUID74ff69ee-b489-4265-4928-adb530178e79">Równowaga w modelu AD-AS</title>
+      <para id="ch24mod02_p19">Punkt przecięcia krzywych popytu globalnego i podaży globalnej wyznacza wielkość realnego PKB i poziom cen w stanie równowagi makroekonomicznej. Przy stosunkowo niskich cenach przedsiębiorstwa mają niewielką motywację do zwiększania wolumenu produkcji, chociaż konsumenci byliby skłonni do zakupu większej ilości dóbr i usług. Wraz ze wzrostem cen podaż globalna rośnie, a globalny popyt maleje, aż do osiągnięcia punktu równowagi.</para>
+      <para id="ch24mod02_p20"><link target-id="CNX_Econ_C24_003" id="UUIDb9dac776-dc33-40db-57c1-8249548cf457" /> przedstawia naszkicowane na jednym wykresie krzywą podaży globalnej (AS) z <link target-id="CNX_Econ_C24_001" cmlnle:case="genitive" id="UUID2e12ab49-ad62-41c2-75b2-04058e5629f2" /> oraz krzywą popytu globalnego (AD) z <link target-id="CNX_Econ_C24_002" cmlnle:case="genitive" id="UUID8c0f647a-b763-4cde-530a-2fbbc473c839" />. Równowaga występuje w punkcie E przy poziomie cen równym 90 i produkcji o wartości 8800 mld zł.</para>
+      <figure id="CNX_Econ_C24_003">
+        <title id="UUIDa64f10a8-3408-4121-6861-0e96108fc3ec">Popyt globalny (AD) i podaż globalna (AS)</title>
+        <media alt="Wykres przedstawia opadającą krzywą popytu globalnego, która przecina się z rosnącą krzywą podaży globalnej o hiperbolicznym kształcie w punkcie E, czyli przy poziomie cen równym 90 i wolumenie produkcji 8800 mld zł." id="mCNX_Econ_C24_003">
+          <image src="../../media//CNX_Econ_C24_003.svg" mime-type="image/svg+xml" id="UUID1c052a40-fb57-4073-69e0-33c569629516" />
+        </media>
+        <caption id="UUID3d46c619-06a8-4fd3-5e7e-6611c2fde95a">Równowaga podaży globalnej (AS) i popytu globalnego (AD) występuje przy poziomie cen wynoszącym 90 i wielkości produkcji równej 8800 mld zł.</caption>
+      </figure>
+      <para id="ch24mod02_p21">Czasami interpretacja wniosków wypływających z modelu popytu globalnego i podaży globalnej może być mylona z podejściem wykorzystywanym do analizy mikroekonomicznego modelu rynku konkretnego produktu (dobra, usługi, pracy lub kapitału), z jego popytem i podażą. Przeczytaj poniższą ramkę „Poznaj szczegóły”, aby zrozumieć, czy krzywe AD i AS reprezentują ujęcie makro-, czy mikroekonomiczne.</para>
+      <note type="note" id="ch24mod02_clear02" class="clearup economics">
+        <title id="UUID6a3a90b4-f6ac-4df7-5857-839c946bf7e6">Czy krzywe AD i AS reprezentują ujęcie makro-, czy mikroekonomiczne?</title>
+        <para id="ch24mod02_p25">Model popytu globalnego i podaży globalnej wykazuje pewne podobieństwo do modeli popytu i podaży na pojedynczych rynkach dóbr, usług, pracy i kapitału w mikroekonomii, ale należy pamiętać, że istnieją między nimi zasadnicze różnice.</para>
+        <para id="UUIDf18374de-9f8f-4b84-6110-167826e92ccc">Na przykład wartości odłożone na obu osiach układu współrzędnych mają odmienną interpretację na wykresach ilustrujących ujęcie makro- i mikroekonomiczne. W mikroekonomii oś pionowa przedstawia cenę (stawkę płacy albo koszt wynajmu jednostki kapitału) pojedynczego dobra lub usługi. Cena ta musi być porównywalna z cenami innych produktów (np. cena pizzy w stosunku do ceny kurczaka). Z kolei oś pionowa modelu AD-AS ukazuje przeciętny poziom cen w gospodarce mierzony wskaźnikiem cen towarów i usług konsumpcyjnych (CPI) lub deflatorem PKB, uwzględniającym ceny bardzo wielu dóbr i usług produkowanych w gospodarce. Wyrażony w taki sposób poziom cen nie jest porównywalny z żadnymi innymi cenami, ponieważ przedstawia średnią cenę wszystkich lub niemal wszystkich produktów będących przedmiotem obrotu. Oś pozioma wykresu ilustrującego mikroekonomiczny rynek przedstawia ilość określonego dobra lub usługi. Natomiast oś pozioma w modelu AD-AS reprezentuje PKB, który jest sumą wszystkich finalnych dóbr i usług wyprodukowanych w gospodarce, a nie ilością towarów oferowanych na pojedynczym rynku.</para>
+        <para id="UUID51ae0cd4-9bed-4d13-5526-5ce8a5b10afa">Dodatkowo czynniki determinujące kształt mikroekonomicznych krzywych popytu i podaży różnią się od czynników wpływających na kształt krzywych w modelu AD-AS. Mikroekonomiczna krzywa popytu na dane dobro lub usługę ma nachylenie ujemne głównie z powodu istnienia dóbr substytucyjnych, natomiast ujemne nachylenie krzywej popytu globalnego wynika z istnienia efektu majątkowego, efektu stopy procentowej i efektu cen w handlu zagranicznym. Krzywe podaży i popytu na poszczególnych rynkach mogą mieć różne nachylenia w zależności od rodzaju dobra oraz stopnia reakcji popytu i podaży na zmiany jego ceny. Natomiast wygląd krzywych AD i AS w zasadzie niemal zawsze jest taki sam (z zastrzeżeniem, że krzywa AS może mieć różne nachylenie w krótkim i długim okresie, co zostanie omówione w kolejnych rozdziałach).</para>
+        <para id="UUID87186bdd-7b9c-419d-75ae-2e73533db422">Krótko mówiąc, to, że wykres z modelem AD-AS zawiera dwie przecinające się linie, nie oznacza, iż jego interpretacja jest taka sama jak każdego innego prezentującego dwie krzywe, które się przecinają. Modele przedstawiające popyt i podaż w ujęciu mikro- i makroekonomicznym są oparte na odmiennych teoriach, reprezentując dwa różne segmenty wiedzy składającej się na dorobek nauk ekonomicznych.</para>
+      </note>
     </section>
-    <section id="ch24mod03_summ" class="summary">
-      <title id="UUID4d3320a1-f099-44f2-46d7-5c8413e43a32">Podsumowanie</title>
-      <para id="ch24mod03_p09">Wykres z naszkicowanymi krzywymi popytu globalnego AD i podaży globalnej AS wskazuje, w jaki sposób oba parametry wzajemnie na siebie oddziałują. Punkt przecięcia krzywych AD i AS wyznacza poziom produkcji i cen w gospodarce w stanie równowagi. Przesunięcia krzywych popytu globalnego lub podaży globalnej prowadzą do zmian wielkości produkcji i poziomu cen w punkcie równowagi. Krzywa podaży globalnej przesuwa się w prawo (w dół) w wyniku wzrostu produktywności (wydajności) czynników wytwórczych. Wzrost cen kluczowych czynników wytwórczych przesuwa krzywą podaży globalnej w lewo (w górę), a spadek cen – w prawo. Jeśli krzywa AS przesuwa się w lewo, produkcja spada, bezrobocie i inflacja rosną, a gospodarka wchodzi w okres stagflacji. Jeśli krzywa AS przesuwa się w prawo, produkcja rośnie, a inflacja i bezrobocie maleją.</para>
+    <section id="eip-631">
+      <title id="UUIDfed7b03d-e9fc-406a-519a-237312c791ea">Krótko- i długookresowe krzywe podaży globalnej (SAS i LAS)</title>
+      <para id="UUID85a2b512-0b8f-4466-436f-620e136b7a8e">W ramce „Poznaj szczegóły” zatytułowanej „Dlaczego krzywa AS przecina linię wyznaczającą poziom potencjalnego PKB?” wprowadziliśmy rozróżnienie pomiędzy krótkookresowymi zmianami podaży globalnej, które można zilustrować przesuwaniem się wzdłuż wykresu krzywej AS, a długookresowym poziomem zagregowanej podaży, reprezentowanym przez pionową linię wyznaczającą wartość potencjalnego PKB (która oczywiście również może się przesuwać w prawo lub w lewo, wraz ze zmianami potencjału danej gospodarki, np. wzrostem liczby ludności w wyniku migracji). W krótkim okresie jeśli popyt jest zbyt niski (lub zbyt wysoki), przedsiębiorstwa mogą wytwarzać mniej (lub więcej), niż wynosi produkcja potencjalna. Jednak w długim okresie firmy nie mogą w trwały sposób przekroczyć poziomu produkcji potencjalnej (jak długo bylibyśmy w stanie pracować w każdy weekend i na trzecią zmianę, o ile nie uzasadniałyby tego absolutnie ekstraordynaryjne okoliczności, np. konflikt zbrojny?). Właśnie z tego powodu krzywą AS o dodatnim nachyleniu możemy traktować jako <term cmlnle:reference="krótkookresowa krzywa podaży globalnej (SRAS)" id="UUIDc37ecde8-ea39-4cdb-4d1a-9ddd576d69b1">krótkookresową krzywą podaży globalnej (SAS)</term> (ang. <emphasis effect="bold" /><foreign xml:lang="en" id="UUIDfb0694f2-11f7-420d-7803-02f75c189fd5"><emphasis effect="bold" /><term id="UUIDbe7ae584-50e1-4552-4a90-574ad76ec10d"><emphasis effect="bold">s</emphasis>hort run <emphasis effect="bold">a</emphasis>ggregate <emphasis effect="bold">s</emphasis>upply (SAS) curve</term></foreign>). Z kolei pionową linię wyznaczającą poziom potencjalnego PKB możemy traktować jako <term cmlnle:reference="długookresowa krzywa podaży globalnej (LRAS)" id="UUID84764894-dfb9-48ce-4bd3-6d6396ce6837">długookresową krzywą podaży globalnej (LAS)</term> (ang. <emphasis effect="bold" /><foreign xml:lang="en" id="UUID3f06e0a5-ac8d-453e-7cdc-60290b18ec8a"><emphasis effect="bold" /><term id="UUIDea489eb8-1806-4b7e-72e4-b2b2e686be8a"><emphasis effect="bold">l</emphasis>ong run <emphasis effect="bold">a</emphasis>ggregate <emphasis effect="bold">s</emphasis>upply (LAS) curve</term></foreign>).</para>
     </section>
-    <section id="ch24mod03_sques" class="self-check-questions">
-      <title id="UUIDa6927252-a966-47e6-751a-1f32bb84d4d5">Pytania sprawdzające</title>
-      <exercise id="ch24mod03_sques01">
-        <problem id="ch24mod03_squesp01">
-          <para id="ch24mod03_p10">Załóżmy, że polski parlament uchwala znaczącą reformę imigracyjną, która utrudnia obcokrajowcom uzyskiwanie pozwoleń na pracę. Użyj modelu AD-AS, aby wyjaśnić, w jaki sposób wpłynie to na polski PKB i poziom cen w równowadze.</para>
+    <section id="ch24mod02_summ" class="summary">
+      <title id="UUIDe925594f-b453-4283-539a-1de90c3802e1">Podsumowanie</title>
+      <para id="UUIDe7d29657-616a-4e99-7ff7-c8901e4c1029">Krótkookresowa krzywa podaży globalnej (SAS) pokazuje dodatnią zależność między poziomem cen a realnym PKB w krótkim okresie. Krzywa podaży ma nachylenie dodatnie, ponieważ gdy ceny produktów finalnych rosną, a ceny czynników wytwórczych się nie zmieniają, możliwość osiągania dodatkowych zysków zachęca przedsiębiorstwa do zwiększania produkcji. Krzywa podaży globalnej jest niemal całkowicie płaska dla stosunkowo niskich poziomów produkcji i prawie pionowa dla wysokiego realnego poziomu PKB. W długim okresie krzywa podaży globalnej (długookresowa krzywa podaży globalnej – LAS) jest linią pionową wykreślaną na poziomie produkcji potencjalnej, czyli wartości PKB, jaką gospodarka może wytworzyć przy pełnym wykorzystaniu czynników wytwórczych (pracy, kapitału rzeczowego, technologii) i danym otoczeniu instytucjonalnym.</para>
+      <para id="UUID9ac222e9-eac4-4e0e-6074-a4aa40c306b2">Krzywa popytu globalnego (AD) pokazuje ujemną zależność pomiędzy poziomem cen w gospodarce i wielkością całkowitych wydatków, na które składają się konsumpcja, inwestycje, wydatki państwa na zakup dóbr i usług oraz eksport netto. Krzywa ma nachylenie ujemne ze względu na działanie trzech mechanizmów: (a) efektu majątkowego oznaczającego, że wyższy poziom cen prowadzi do zmniejszenia realnej wartości majątku, co obniża wielkość konsumpcji; (b) efektu stopy procentowej, z którego wynika, że wyższe ceny prowadzą do wzrostu popytu na pieniądz, co skutkuje wzrostem stóp procentowych i spadkiem wydatków inwestycyjnych oraz konsumpcji dóbr trwałego użytku; oraz (c) efektu cen w handlu zagranicznym polegającego na tym, że w wyniku wzrostu cen produkty wytwarzane w danym kraju stają się relatywnie droższe, co utrudnia eksport i ułatwia import.</para>
+    </section>
+    <section id="ch24mod02_sques" class="self-check-questions">
+      <title id="UUIDe3a43cd5-1caa-42f2-4b17-8ee8419fbc11">Pytania sprawdzające</title>
+      <exercise id="ch24mod02_sques01">
+        <problem id="ch24mod02_squesp01">
+          <para id="ch24mod02_p28">Krótkookresowa krzywa podaży globalnej (SAS) opiera się na założeniu, że wraz ze wzrostem cen produktów finalnych ceny czynników wytwórczych pozostają stałe. W jaki sposób wzrost cen nakładów, np. energii, wpłynie na podaż globalną?</para>
         </problem>
-        <solution id="ch24mod03_sques01s">
-          <para id="ch24mod03_p11">W równowadze realny PKB się obniży, a poziom cen wzrośnie.</para>
+        <solution id="ch24mod02_sques01s">
+          <para id="ch24mod02_p29">Wyższe ceny nakładów powodują, że produkcja staje się mniej opłacalna, co zmniejsza podaż. W rezultacie krzywa SAS przesuwa się w górę (inaczej mówiąc: w lewo lub w stronę początku układu współrzędnych).</para>
         </solution>
       </exercise>
-      <exercise id="ch24mod03_sques02">
-        <problem id="ch24mod03_squesp02">
-          <para id="ch24mod03_p12">Przyjmijmy, że obawy dotyczące rozmiarów deficytu budżetowego skłoniły rząd do obcięcia wszystkich funduszy na badania i rozwój na najbliższe dziesięć lat. Zakładając, że ma to wpływ na rozwój technologii, jak – zgodnie z modelem AD-AS – zmieni się PKB i poziom cen w równowadze?</para>
+      <exercise id="ch24mod02_sques02">
+        <problem id="ch24mod02_squesp02">
+          <para id="ch24mod02_p30">Jakie czynniki utrudniają ustalenie w modelu AD-AS równowagi przy wielkości produkcji równej poziomowi potencjalnemu?</para>
         </problem>
-        <solution id="ch24mod03_sques02s">
-          <para id="ch24mod03_p13">Biorąc pod uwagę przyjęte tutaj założenia, cięcia w finansowaniu prac badawczo-rozwojowych powinny ograniczyć tempo wzrostu wydajności czynników wytwórczych. Zgodnie z modelem AD-AS krzywa SAS przesunie się w lewo, co doprowadzi do spadku PKB i wzrostu cen w równowadze oraz najpewniej ograniczy skalę redukcji deficytu.</para>
+        <solution id="ch24mod02_sques02s">
+          <para id="ch24mod02_p31">Równowaga występuje przy takiej wielkości PKB, dla której jest spełniony warunek AD = AS. Niewystarczający popyt globalny jest jednym z czynników powodujących, że równowaga występuje na poziomie PKB niższym od potencjalnego. Innym powodem może być spadek (tj. przesunięcie w górę) podaży globalnej.</para>
         </solution>
       </exercise>
     </section>
-    <section id="ch24mod03_rques" class="review-questions">
-      <title id="UUID8d1c7eed-0415-47bf-41cd-a960998b9bed">Sprawdź wiedzę</title>
-      <exercise id="ch24mod03_rques01">
-        <problem id="ch24mod03_rques01p">
-          <para id="ch24mod03_p14">Wymień kilka czynników, które powodują przesunięcie krzywej SAS. Wskaż, w którą stronę przesunie się ona pod wpływem działania każdego z nich.</para>
+    <section id="ch24mod02_rques" class="review-questions">
+      <title id="UUIDaf6d85ae-a65f-4c41-5a4f-c4800d284af4">Sprawdź wiedzę</title>
+      <exercise id="ch24mod02_rques01">
+        <problem id="ch24mod02_rques01p">
+          <para id="ch24mod02_p32">Jakie wartości odłożone są na poziomej osi układu współrzędnych w modelu AD-AS? A jakie na osi pionowej?</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod03_rques02">
-        <problem id="ch24mod03_rques02p">
-          <para id="ch24mod03_p15">Czy przesunięcie krzywej SAS w prawo (w dół) spowoduje, że poziomy produkcji i cen w równowadze będą wyższe, czy niższe? A co się stanie, gdy krzywa SAS przesunie się w lewo (w górę)?</para>
+      <exercise id="ch24mod02_rques02">
+        <problem id="ch24mod02_rques02p">
+          <para id="ch24mod02_p33">Dlaczego krzywa SAS ma nachylenie dodatnie?</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod03_rques03">
-        <problem id="ch24mod03_rques03p">
-          <para id="ch24mod03_p16">Czym jest stagflacja?</para>
+      <exercise id="ch24mod02_rques03">
+        <problem id="ch24mod02_rques03p">
+          <para id="ch24mod02_p34">Jakie są elementy składające się na popyt globalny (AD)?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod02_rques04">
+        <problem id="ch24mod02_rques04p">
+          <para id="ch24mod02_p35">Dlaczego krzywa AD ma nachylenie ujemne?</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod02_rques05">
+        <problem id="ch24mod02_rques05p">
+          <para id="ch24mod02_p36">Krótko wyjaśnij przyczynę, dla której krzywa SAS jest niemal płaska dla relatywnie niskich poziomów produkcji.</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod02_rques06">
+        <problem id="ch24mod02_rques06p">
+          <para id="ch24mod02_p37">Krótko wyjaśnij przyczynę, dla której krzywa SAS jest niemal pionowa dla relatywnie wysokich poziomów produkcji.</para>
+        </problem>
+      </exercise>
+      <exercise id="ch24mod02_rques07">
+        <problem id="ch24mod02_rques07p">
+          <para id="ch24mod02_p38">Zinterpretuj stwierdzenie, że PKB osiągnął swój potencjalny poziom.</para>
         </problem>
       </exercise>
     </section>
-    <section id="ch24mod03_ctques" class="critical-thinking">
-      <title id="UUID442a791a-e04e-41ad-57a0-9b37b5b1391d">Ćwicz myślenie krytyczne</title>
-      <exercise id="ch24mod03_ctques01">
-        <problem id="ch24mod03_ctques01p">
-          <para id="ch24mod03_p17">Ekonomiści spodziewali się, że wraz z dalszym usztywnianiem rynku pracy w USA w drugiej połowie 2015 r. pracownicy zaczną oczekiwać podwyżek płac w 2015 i 2016 r. Zakładając, że taka zmiana miała miejsce i że była to jedyna zmiana na rynku pracy w 2015 r., zastanów się, jak wpłynęło to na krzywą AS? Co by się stało, gdyby towarzyszył temu również wzrost wydajności pracowników?</para>
+    <section id="ch24mod02_ctques" class="critical-thinking">
+      <title id="UUID6f88c8d8-1751-4a1a-5b8c-d20c47e86368">Ćwicz myślenie krytyczne</title>
+      <exercise id="ch24mod02_ctques01">
+        <problem id="ch24mod01_ctques01p">
+          <para id="ch24mod02_p39">Zgodnie z mikroekonomiczną krzywą popytu spadek ceny powoduje wzrost wielkości zapotrzebowania, ponieważ dany produkt staje się relatywnie tańszy w porównaniu z dobrami substytucyjnymi. Wyjaśnij, dlaczego popyt globalny nie wzrasta z tego samego powodu w przypadku spadku ogólnego poziomu cen w gospodarce. Innymi słowy, dlaczego całkowite wydatki rosną, skoro wszystkie dobra i usługi w gospodarce tanieją (nie ma efektu substytucyjnego)?</para>
         </problem>
       </exercise>
-      <exercise id="ch24mod03_ctques02">
-        <problem id="ch24mod03_ctques02p">
-          <para id="ch24mod03_p18">Jeśli nowe regulacje wymagają od przedsiębiorstw stosowania czystszej (generującej mniejsze zanieczyszczenie środowiska) technologii, która jest przy tym mniej efektywna niż dotychczasowa, jak zmieni się poziom produkcji, cen i zatrudnienie zgodnie z modelem AD-AS?</para>
+    </section>
+    <section id="ch24mod02_prob" class="problems">
+      <title id="UUID5d1968a4-bec0-4a35-52b1-b03db4f8bfe9">Problemy</title>
+      <exercise id="ch24mod02_prob01">
+        <problem id="ch24mod02_prob01p">
+          <para id="ch24mod02_p40">Wróćmy do problemu opisanego w <link target-id="ch14mod02_workout01" cmlnle:case="locative" id="UUIDa8c7f969-e48c-4f95-74cf-495a96140e77" />. <link target-id="ch24mod02_tab02" id="UUID708bf025-1e0a-4343-5930-025cd5f45e49" /> przedstawia dane na temat popytu globalnego, podaży globalnej i poziomu cen w Xurbii.</para>
+          <table summary="This table has three column and eight rows. The first row is a header row, and it labels each column “Price Level”, “AD”, and “AS”. Under the column “Price Level” are the following values: 110, 120, 130, 140, 150, 160, 170. Under the column “AD” are the following values: 700, 690, 680, 670, 660, 650, 640. Under the column “AS” are the following values: 600, 640, 680, 720, 740, 760, 770." id="ch24mod02_tab02"><title id="UUID87a4abfd-22fe-491e-6a62-0c6309af5e3d">Poziom cen, popyt globalny (AD) i podaż globalna (AS) (kwoty w zł)</title><tgroup cols="3" id="UUIDe79f478a-2932-4fbe-47c0-cd8a794f6926"><thead id="UUIDd088536a-1d7f-4f0f-684d-f41957d44f60"><row id="UUID407ec4b1-ea62-495a-4a07-3673eb9975be"><entry align="center" id="UUIDf10405b3-7b7d-495c-635c-5e15aed55cc2">Poziom cen</entry><entry align="center" id="UUIDc17ce87e-dc68-4b99-6466-c234ee203730">AD</entry><entry align="center" id="UUIDc97d3d48-62fc-429a-4e39-abd67a3581a4">AS</entry></row></thead><tbody id="UUIDdf312030-9967-4d0a-41c2-07c63e615613"><row id="UUID4b069e08-914b-4702-5c3c-bfd5bcfdd700"><entry align="center" id="UUID52f48ad0-5d45-443b-5aa6-f47b50236b0f">110</entry><entry align="center" id="UUIDfc5aa677-5a44-42c0-7acd-f56e9d0b0ab5">700</entry><entry align="center" id="UUIDc78e0490-0f2f-4de6-5c86-7122be908e6d">600</entry></row><row id="UUIDb0796e7b-cddf-43d9-72eb-eb611a28d0ed"><entry align="center" id="UUID4a883c77-0eb2-471b-5628-edc785cc083e">120</entry><entry align="center" id="UUIDbf64f39a-30c7-4e5f-7e29-1ff194febc5e">690</entry><entry align="center" id="UUIDf6d9da31-a404-4823-7455-9b1a73d0c93f">640</entry></row><row id="UUID5ddce89f-31f9-4360-70c3-d31c1a1655c9"><entry align="center" id="UUIDc70d9547-ca1a-4a95-415b-f55521ccd9c1">130</entry><entry align="center" id="UUIDfc0b41df-afee-4e59-4717-ad8ebe780e18">680</entry><entry align="center" id="UUIDcf67d78e-126f-475d-5f05-493f93dcd126">680</entry></row><row id="UUID016c64ea-dcbb-4294-4f89-3466560e1459"><entry align="center" id="UUIDb036ee2e-b014-46ba-72f7-c1a3f2edad46">140</entry><entry align="center" id="UUIDecd98d5d-bfef-4d9e-6713-52bfd9261c16">670</entry><entry align="center" id="UUIDe9b29ec7-94d1-477d-7da7-96f4ab3fbfa3">720</entry></row><row id="UUID7b8d428d-d9e8-41ed-59d1-6cf124c745d6"><entry align="center" id="UUID55afeb85-47ad-47c9-7809-3848a1adb344">150</entry><entry align="center" id="UUIDac381046-8780-4eec-4830-7ed107e51c19">660</entry><entry align="center" id="UUID92fd7c15-5141-4183-4301-65ab22f27e34">740</entry></row><row id="UUIDca41386e-3861-4bba-49f5-ee8b683605ce"><entry align="center" id="UUID768ff23d-511c-4598-70a0-8b75c3061c74">160</entry><entry align="center" id="UUID09f868c2-cbdd-42fa-612f-5ae80a50e056">650</entry><entry align="center" id="UUID43c9f74f-fd05-4169-7856-e16ed0f67c55">760</entry></row><row id="UUID70394f71-a577-4dc4-7f7c-789edb2b052a"><entry align="center" id="UUID941b66c6-94bb-4061-5183-8f8954e3577b">170</entry><entry align="center" id="UUIDb4f0a0f3-b2ae-469d-47df-1b0ce749ed15">640</entry><entry align="center" id="UUIDbc24a286-99fd-4e48-67bc-804339e9f777">770</entry></row></tbody></tgroup></table>
+          <list list-type="enumerated" number-style="lower-alpha" id="ch24mod02_list03">
+            <item id="UUID941d0920-d75c-4681-6313-b19e427ded15">
+              <para id="UUID39e3aed7-ecc3-45d4-4773-29560edcb1b5">Narysuj wykresy krzywych AD i AS. Wyznacz punkt równowagi.</para>
+            </item>
+            <item id="UUIDb315bbac-abd5-4cb6-492b-bf0f366ad5a2">
+              <para id="UUID9ad2c4be-24a4-42cc-55b5-6297999b34c0">Załóżmy, że w wyniku obniżki podatków popyt globalny wzrasta o 50 jednostek przy każdym poziomie cen. Wyznacz nowy stan równowagi.</para>
+            </item>
+            <item id="UUID00f8d1f0-57a6-446f-6923-0f453113d00d">
+              <para id="UUID4535d64a-a4af-4146-5f9d-71490d130a4d">Jak zmieni się wielkość produkcji? Jak zmieni się poziom cen? Co stanie się z wielkością zatrudnienia?</para>
+            </item>
+          </list>
         </problem>
       </exercise>
-      <exercise id="ch24mod03_ctques03">
-        <problem id="ch24mod03_ctques03p">
-          <para id="ch24mod03_p19">Wiosną 2016 r. środkowo-zachodnie stany USA, które specjalizują się w produkcji rolnej, doświadczyły ponadprzeciętnych opadów deszczu. Korzystając z modelu AD-AS, określ, jaki jest wpływ tego zjawiska na wielkość produkcji, poziom cen i zatrudnienie.</para>
+      <exercise id="ch24mod02_prob02">
+        <problem id="ch24mod02_prob02p">
+          <para id="ch24mod02_p41"><link target-id="ch24mod02_tab03" id="UUID62626808-c287-4839-4c08-cacd8b6e9114" /> przedstawia krzywe popytu globalnego i podaży globalnej w pewnym kraju.</para>
+          <table summary="This table has three columns and six rows. The first row is a header row and it labels the columns “Price Level”, “AD”, and “AS”. Under the column “Price Level” are the following values: 100, 120, 140, 160, 180. Under the column “AD” are the following values: 700, 600, 500, 400, 300. Under the column “AS” are the following values: 200, 325, 500, 570, 620." id="ch24mod02_tab03"><title id="UUID679172fb-6b00-482b-6946-fc70589b7d77">Poziom cen, popyt globalny (AD) i podaż globalna (AS) (wartości w umownych jednostkach pieniężnych)</title><tgroup cols="3" id="UUIDcfaba155-cca1-4322-5517-60d3e6035e87"><thead id="UUID682cac88-6b86-482a-6b0d-74cf4aec20a1"><row id="UUID5778ec28-aff7-450f-4e21-3d6c84a524c6"><entry align="center" id="UUIDf019a6fa-2dd6-4593-58e7-b6ac732bca5d">Poziom cen</entry><entry align="center" id="UUID4a8929f8-fec9-4bdf-79d9-f1c193ddd555">AD</entry><entry align="center" id="UUID4687d533-88d0-41e2-4125-48764f4adf1a">AS</entry></row></thead><tbody id="UUIDd474eb43-07d2-4318-5b43-ebc2ddfc1d57"><row id="UUID4c8a93e7-bb4c-41d0-44c0-22c6c6741f85"><entry align="center" id="UUID2ad7c729-9763-489b-475b-049b8dca8714">100</entry><entry align="center" id="UUIDe7f031f5-ad5a-48b1-58a9-9e79fb1d9645">700</entry><entry align="center" id="UUID014754d4-350e-4c61-7221-75588dfa3c3c">200</entry></row><row id="UUIDdd491c7c-1c03-4f1e-76cd-459f0c44a095"><entry align="center" id="UUIDbfd9f120-4982-4b5b-44f7-4a864222c867">120</entry><entry align="center" id="UUIDa11cd46c-deb1-46b9-472f-65f38859bf27">600</entry><entry align="center" id="UUIDa231ffc8-865e-4c69-4954-d4c231b74530">325</entry></row><row id="UUID8d49b921-5ba5-4310-6284-c4c7215b20dc"><entry align="center" id="UUIDc2bd8d12-8b88-4560-54a2-2e409ae47fa9">140</entry><entry align="center" id="UUIDb07b44de-7608-422d-5e53-1955da7ce3fa">500</entry><entry align="center" id="UUID145c670e-a9f0-4577-4bc5-8205bd20492c">500</entry></row><row id="UUIDa94501e2-06ad-475c-7ee2-105f6e58be0b"><entry align="center" id="UUIDe70855bc-3c23-4e6e-7489-308bb706ab52">160</entry><entry align="center" id="UUID41ae1caf-1061-4374-4ed5-40f6c7390e7f">400</entry><entry align="center" id="UUIDe150b10f-e7a9-4f92-4843-463d5541eb53">570</entry></row><row id="UUID4762a066-9495-4dab-5de3-60f25e878bab"><entry align="center" id="UUID3e44adec-fb79-4c0a-7389-7f21f13cc6b3">180</entry><entry align="center" id="UUIDade6d486-ada7-4ac4-40fa-7205dd28fe3d">300</entry><entry align="center" id="UUID56b96876-3cfd-4dc5-7a27-fada9c03d89e">620</entry></row></tbody></tgroup></table>
+          <list list-type="enumerated" number-style="lower-alpha" id="ch24mod02_list04">
+            <item id="UUID8640912b-8906-4523-5063-aacd1d92d75b">
+              <para id="UUID8832a33b-a719-4bae-4162-39e84eeff44d">Narysuj wykresy krzywych AD i AS. Wyznacz punkt równowagi.</para>
+            </item>
+            <item id="UUID7a3d1514-262e-456a-5d64-e314b75bd2be">
+              <para id="UUIDf80f7b07-7303-4720-7b66-defc70af1b99">Czy bezrobocie w tej gospodarce będzie relatywnie wysokie, czy niskie?</para>
+            </item>
+            <item id="UUID579278f6-aee4-495b-79aa-1ca2a3430618">
+              <para id="UUID552e56fb-b938-48a3-514a-9cb53cfd5ad5">Czy ludzie będą oczekiwać relatywnie wysokiej, czy niskiej inflacji?</para>
+            </item>
+            <item id="UUID34442899-6b5a-4022-6a20-66db16a1e0da">
+              <para id="UUIDfca14241-4649-8821-6d28-ab4a75fc9a42">Załóżmy, że konsumenci zaczynają tracić zaufanie do stanu gospodarki i popyt globalny maleje o 275 jednostek przy każdym poziomie cen. Wyznacz nowy stan równowagi.</para>
+            </item>
+            <item id="UUIDf654b842-30fc-4535-7633-375575540bd5">
+              <para id="UUID19ac2a8f-9bed-4f81-5430-53014d6b1c09">W jaki sposób zmiana popytu globalnego wpłynie na wielkość produkcji, poziom cen i wielkość zatrudnienia?</para>
+            </item>
+          </list>
         </problem>
       </exercise>
-      <exercise id="ch24mod03_ctques04">
-        <problem id="ch24mod03_ctques04p">
-          <para id="ch24mod03_p20">Szczelinowanie hydrauliczne (pozyskiwanie gazu łupkowego) jest metodą pozwalającą na znaczne zwiększenie wydobycia gazu ziemnego w USA. Jeśli spalanie tego surowca jest kluczowym źródłem energii dla większości amerykańskich fabryk i przedsiębiorstw, jaki będzie wpływ upowszechnienia tej technologii dla wielkości produkcji, poziomu cen i zatrudnienia w gospodarce USA?</para>
-        </problem>
-      </exercise>
-      <exercise id="ch24mod03_ctques05">
-        <problem id="ch24mod03_ctques05p">
-          <para id="ch24mod03_p21">Zdaniem niektórych polityków płaca minimalna powinna być indeksowana wskaźnikiem wzrostu cen towarów i usług konsumpcyjnych (CPI). Korzystając z modelu AD-AS, określ, jaki prawdopodobny wpływ miałaby taka sytuacja na wielkość produkcji, poziom cen i zatrudnienie.</para>
+      <exercise id="ch24mod02_prob03">
+        <problem id="ch24mod02_prob03p">
+          <para id="UUIDf93f85ee-1fc9-4e61-400e-1177a7c90d72"><link target-id="ch24mod02_tab04" id="UUIDd17f1dce-406c-4bc2-585b-bc762f35ff11" /> opisuje gospodarkę pewnego kraju.</para>
+          <table summary="This table has three columns and six rows. The first row is a header row and it labels the columns “Price Level”, “AD”, and “AS”. Under the column “Price Level” are the following values: 50, 60, 70, 80, 90. Under the column “AD” are the following values: 1000, 950, 900, 850, and 800. Under the column “AS” are the following values: 250, 580, 750, 850, 900." id="ch24mod02_tab04"><title id="UUID3a5ded6b-76a7-4bdf-4192-970ba36a605e">Poziom cen, popyt globalny (AD) i podaż globalna (AS) (wartości w umownych jednostkach pieniężnych)</title><tgroup cols="3" id="UUIDc412be44-839e-4ea2-542e-3315f4b5d552"><thead id="UUIDb0927369-6ee5-4c5a-4d7b-1590b67b1203"><row id="UUIDaab91231-b3b2-46d8-7d17-47b0011493e1"><entry id="UUID8d7cab7d-ddf3-402d-6ac8-f7b460b50130">Poziom cen</entry><entry id="UUID9e6d6eaa-9758-406a-66ed-ee31f8a0b6c7">AD</entry><entry id="UUID0a4e155a-b1a6-4243-5e0e-1291c7779aed">AS</entry></row></thead><tbody id="UUID9126e78d-7fe3-48cc-6a66-84668b5bbf5b"><row id="UUID33f39979-2ce5-4c1b-64a4-bdba2de51516"><entry id="UUID391c6127-d81f-41a1-4916-ce4ca52cd313">50</entry><entry id="UUIDe291ea47-04aa-47a4-482d-36b57dd2776f">1000</entry><entry id="UUID0c6d35d8-efb0-4db0-4eb1-9e1566d90596">250</entry></row><row id="UUIDc36fd518-1003-42ef-7156-1acb9e804be9"><entry id="UUIDa6a6b580-c5e4-4bf1-64fa-3012b0c66e07">60</entry><entry id="UUID02c4ab2e-dec7-496b-40a4-bef662de262f">950</entry><entry id="UUIDfa6962ed-9a21-4c53-7cb9-05283be26769">580</entry></row><row id="UUID1a49b66d-75bd-49ff-5291-99ec79b77544"><entry id="UUIDf0b1e38f-58eb-4661-4dcf-d1af6583dba3">70</entry><entry id="UUID8cb37852-8c64-498d-7a29-bab1b8e876cf">900</entry><entry id="UUID3561be9d-723f-4b26-407c-8a5d0cefa907">750</entry></row><row id="UUIDf8ad71b8-4d41-48b2-7003-365a7f59e489"><entry id="UUID1ca9f3d8-bd1b-4d19-79a3-ad5e21eef5bc">80</entry><entry id="UUID06621286-64a1-4278-64c6-e7befb2e8993">850</entry><entry id="UUIDbc1caf96-4782-4254-4d29-a3e32b7f9593">850</entry></row><row id="UUIDfd1255fe-ffd5-4684-4f94-66f388fdca7f"><entry id="UUIDc56affc1-9eb2-474d-72f1-34508573828d">90</entry><entry id="UUID0c636a9e-9e91-4d06-4199-66d8c2c547ee">800</entry><entry id="UUID5dca4a33-c71b-43c6-7561-7958b62a7d8b">900</entry></row></tbody></tgroup></table>
+          <list list-type="enumerated" number-style="lower-alpha" id="ch24mod02_list05">
+            <item id="UUIDa53418a2-8d97-45f3-780e-d49c7fb16863">
+              <para id="UUID94105f22-7ce8-427f-716b-6eb72eababe0">Narysuj wykresy krzywych AD i AS. Wyznacz punkt równowagi.</para>
+            </item>
+            <item id="UUIDa5c5be61-67a4-469f-6fc5-31ba08419e77">
+              <para id="UUID9bf4f940-1330-4f14-68cd-c6cca13be9a6">Czy bezrobocie w tym kraju będzie relatywnie wysokie, czy niskie?</para>
+            </item>
+            <item id="UUID49511f78-2f31-4622-414e-6b4a4f8009e2">
+              <para id="UUIDf9b51401-ed30-448f-75bb-d354682c1666">Czy ludzie będą oczekiwać relatywnie wysokiej, czy niskiej inflacji?</para>
+            </item>
+            <item id="UUID8be60b7a-43c1-4616-43f7-fc7e0632a53e">
+              <para id="UUIDfca14241-4649-4503-6d28-ab4a75fc9a42">Załóżmy, że ceny czynników wytwórczych maleją i krzywa AS przesuwa się w prawo o 150 jednostek przy każdym poziomie cen. Wyznacz nowy stan równowagi.</para>
+            </item>
+            <item id="UUIDd5f50fda-19f4-465d-70d2-49939b32f2f0">
+              <para id="UUIDb505d0c8-2f6a-4275-73b6-cbc6adf002f1">W jaki sposób zmiana podaży globalnej wpłynie na wielkość produkcji, poziom cen i wielkość zatrudnienia?</para>
+            </item>
+          </list>
         </problem>
       </exercise>
     </section>
   </content>
-  <glossary id="UUIDb1b22330-998b-4750-50d4-cafe17963753">
-    <definition id="ch24mod03_gl01">
-      <term id="UUID1778c8fe-c576-49f1-40a7-e661d4f2846a">stagflacja (ang. <foreign xml:lang="en" id="UUID3d0ad7e1-b5ea-42f0-43d1-ca86b809684b">stagflation</foreign>)</term>
-      <meaning id="ch24mod03_gl01m">
-        <para id="UUID6ca2c27f-8ca1-45d5-5c86-4f2261d57b73">sytuacja, gdy w gospodarce występuje jednocześnie spadek produkcji związany ze wzrostem bezrobocia oraz wysoka inflacja; połączenie <emphasis effect="bold">stag</emphasis>nacji i in<emphasis effect="bold">flacji</emphasis></para>
+  <glossary id="UUID4e7b5567-080a-4b6f-55f2-91c2556006d9">
+    <definition id="ch24mod02_gl01">
+      <term id="UUID4b7783fb-5e5e-4103-5fab-d4d9106ff969">popyt globalny (popyt zagregowany, AD) (ang. <foreign xml:lang="en" id="UUIDcceddabd-0fbc-401d-7c9e-d3c888f7de32">aggregate demand (AD)</foreign>)</term>
+      <meaning id="ch24mod02_gl01m">
+        <para id="UUIDd8315e70-90df-4b54-580b-c73cee7176e7">suma wydatków na dobra i usługi wyprodukowane w danym kraju</para>
+      </meaning>
+    </definition>
+    <definition id="ch24mod02_gl02">
+      <term id="UUID46549662-8cea-4854-6531-688aca1483ce">podaż globalna (podaż zagregowana, AS) (ang. <foreign xml:lang="en" id="UUID42e713d1-ee41-4366-7c75-02ff0a10c73d">aggregate supply (AS)</foreign>)</term>
+      <meaning id="ch24mod02_gl02m">
+        <para id="UUID06b41782-1908-4715-7445-2e7f57243ad7">całkowita produkcja (tj. realny PKB), którą przedsiębiorstwa z danego kraju mogą wytworzyć i sprzedać</para>
+      </meaning>
+    </definition>
+    <definition id="ch24mod02_gl03">
+      <term id="UUID3356f1f9-f7ec-4ded-6ad4-fbaff6cb3d81">krzywa popytu globalnego (AD) (ang. <foreign xml:lang="en" id="UUID21ce12e7-d86d-4727-4396-1fe8ff772933">aggregate demand (AD) curve</foreign>)</term>
+      <meaning id="ch24mod02_gl03m">
+        <para id="UUIDe732af80-4801-4af1-714a-49377eaa2801">krzywa pokazująca wielkość całkowitych wydatków na dobra i usługi wyprodukowane w kraju przy każdym poziomie cen</para>
+      </meaning>
+    </definition>
+    <definition id="ch24mod02_gl04">
+      <term id="UUIDe62b8ee9-f41c-44fa-7216-ecb85d5cd019">krzywa podaży globalnej (AS) (ang. <foreign xml:lang="en" id="UUID5cdbfe2c-4932-4219-478e-96c8764650a9">aggregate supply (AS) curve</foreign>)</term>
+      <meaning id="ch24mod02_gl04m">
+        <para id="UUID79933ee4-612c-4ba7-6451-0c1b05a23b95">krzywa pokazująca całkowitą wielkość produkcji (realnego PKB), którą przedsiębiorstwa będą wytwarzać i sprzedawać przy każdym poziomie cen</para>
+      </meaning>
+    </definition>
+    <definition id="ch24mod02_gl05">
+      <term id="UUID80e1a636-b15f-48f0-7db3-467631c38469">model popytu globalnego i podaży globalnej (ang. <foreign xml:lang="en" id="UUID63365139-6af3-45f2-67d5-0896b5446c61">aggregate demand/aggregate supply model</foreign>)</term>
+      <meaning id="ch24mod02_gl05m">
+        <para id="UUID2369ae1f-a98c-42c0-6f88-9d4a9b4cb4c6">model ilustrujący czynniki determinujące wolumen podaży globalnej i wartość popytu globalnego oraz sposób, w jaki popyt i podaż w gospodarce oddziałują na siebie na poziomie makroekonomicznym</para>
+      </meaning>
+    </definition>
+    <definition id="UUID47ff4828-376c-4e7c-5797-35f8d7ce6458">
+      <term id="UUID9049be95-8f6e-4299-4b32-aa8722395ac1">model zagregowanego popytu i zagregowanej podaży</term>
+      <meaning id="UUIDa780f658-a37f-4c09-75b9-6df60a7d4e83">
+        <para id="UUIDab7f9eec-2e61-46b4-50e3-f8ffcc66e71e">zob. model popytu globalnego i podaży globalnej</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDd3f0b82f-e2e4-4165-6564-e1bee3a7b9ff">
+      <term id="UUID53191b9b-0a90-418b-4da0-830585985b60">model AD-AS</term>
+      <meaning id="UUIDb8cb1059-44b1-498b-5b6b-b707194d72bb">
+        <para id="UUID0e0cd055-cc87-4d8b-50ee-d2d99f134fb3">zob. model popytu globalnego i podaży globalnej</para>
+      </meaning>
+    </definition>
+    <definition id="ch24mod02_gl06">
+      <term id="UUIDf1efed0a-d1cb-4d73-7330-b8d65cba2a32">PKB przy pełnym zatrudnieniu (ang. <foreign xml:lang="en" id="UUID74ddd7a1-9ce9-49bf-7712-d319973c90c9">full-employment GDP</foreign>)</term>
+      <meaning id="ch24mod02_gl06m">
+        <para id="UUIDcd3e5205-d3e6-4efa-4a9a-8a7df42739f1">inne określenie potencjalnego poziomu PKB, który występuje, gdy wielkość produkcji odpowiada możliwościom produkcyjnym gospodarki, a bezrobocie jest na poziomie swojej naturalnej stopy</para>
+      </meaning>
+    </definition>
+    <definition id="fs-id1163793157176">
+      <term id="UUID8da1468a-3bad-4ceb-643d-5fd464949895">długookresowa krzywa podaży globalnej (LAS) (ang. <foreign xml:lang="en" id="UUID257b4f7f-188b-4586-7787-f9c1096ac767">long run aggregate supply (LAS) curve</foreign>)</term>
+      <meaning id="fs-id1163777719640">
+        <para id="UUID4b755a55-afa8-442d-7fa8-d3f88c7fa63e">pionowa linia wykreślana na poziomie odpowiadającym potencjalnemu PKB; ilustruje brak związku pomiędzy poziomem cen a realnym PKB w długim okresie</para>
+      </meaning>
+    </definition>
+    <definition id="ch24mod02_gl07">
+      <term id="UUIDf5209e3e-2a8c-43ca-6ad9-7d57568baf81">poziom potencjalnego PKB (ang. <foreign xml:lang="en" id="UUID1f0f06f6-3c82-4cba-6712-7821bdc9941a">potential GDP</foreign>)</term>
+      <meaning id="ch24mod02_gl07m">
+        <para id="UUIDbace04d5-b1c3-4149-7f55-f2c49ed47034">maksymalna wielkość produkcji, jaką gospodarka może wytworzyć przy pełnym wykorzystaniu istniejących zasobów pracy, kapitału rzeczowego i technologii oraz danym otoczeniu instytucjonalnym</para>
+      </meaning>
+    </definition>
+    <definition id="fs-id1163949353929">
+      <term id="UUID52718caa-5fce-4290-5f88-db01fee3632c">krótkookresowa krzywa podaży globalnej (SAS) (ang. <foreign xml:lang="en" id="UUIDad678350-948c-487c-7b02-f0df212cc5c7">short run aggregate supply (SAS) curve</foreign>)</term>
+      <meaning id="fs-id1163949163677">
+        <para id="UUIDf16afb38-c1ff-449b-5ccc-2851b5e20645">krzywa ilustrująca dodatnią krótkookresową zależność pomiędzy poziomem cen produktów finalnych i realnym PKB przy stałych cenach czynników wytwórczych</para>
       </meaning>
     </definition>
   </glossary>

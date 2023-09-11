@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U871f1f71-396f-4c34-8cc8-d53a1b47b4b6" id="U871f1f71-396f-4c34-8cc8-d53a1b47b4b6" xml:lang="en" cnxml-version="0.7" class="appendix">
+  <title>APPENDIX B cz. 2</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
+    <md:content-id>m00094</md:content-id>
+    <md:repository>adaptarr.naukosfera.com</md:repository>
+    <md:title>APPENDIX B cz. 2</md:title>
+    <md:language>en</md:language>
+    <md:version>2023-09-11T10:25:17.896408033+00:00</md:version>
+    <md:created>2023-09-11T10:25:17.896408033+00:00</md:created>
+    <md:revised>2023-09-11T10:25:17.896408033+00:00</md:revised>
+    <md:actors>
+      <md:organization userid="adaptarr">
+        <md:fullname>Adaptarr!</md:fullname>
+        <md:homepage>adaptarr.naukosfera.com</md:homepage>
+        <md:shortname>Adaptarr</md:shortname>
+      </md:organization>
+    </md:actors>
+    <md:roles>
+      <md:role type="publishing-system">adaptarr</md:role>
+    </md:roles>
+    <md:uuid>871f1f71-396f-4c34-8cc8-d53a1b47b4b6</md:uuid>
+  </metadata>
+  <content>
+    <para id="fs-idp22717728"><emphasis effect="bold">Luka recesyjna i inflacyjna</emphasis></para>
+    <para id="UUID74c554fb-a5aa-481f-5787-a4fdfad508f3">Jeśli na krzyżu keynesowskim linia zagregowanych wydatków przecina linię 45 stopni na poziomie potencjalnego PKB, to gospodarka jest w dobrej kondycji. Nie ma recesji, a bezrobocie jest niskie. Ale nie ma żadnej gwarancji, że równowaga wystąpi na poziomie potencjalnego PKB. Równowaga może zachodzić przy PKB wyższym lub niższym od potencjalnego.</para>
+    <para id="UUID492ef50d-dac0-4d7d-6641-506995f16a37">Na panelu (a) <link target-id="CNX_Econ_C25_026" cmlnle:case="genitive" id="UUIDb2191e14-1eeb-40fd-5aba-c1c63e983c40" /> pokazano sytuację, w której krzywa zagregowanych wydatków przecina linię 45 stopni w punkcie E<sub>0</sub>. Punkt E<sub>0</sub> odpowiada realnemu PKB w wysokości 6000 dol. i jest niższy od potencjalnego PKB wynoszącego 7000 dol. W tej sytuacji poziom zagregowanych wydatków jest zbyt niski, aby PKB osiągnął poziom pełnego zatrudnienia i wystąpi bezrobocie. Różnica między produkcją wyznaczoną przez równowagę w punkcie E<sub>0</sub>, która jest niższa od potencjalnego PKB, a poziomem potencjalnego PKB, nazywana jest <term id="UUID2abe4373-97ae-406c-5863-df0491f05eba">luką recesyjną</term> (ang. <foreign xml:lang="en" id="UUID280e022e-8e4a-4caf-4df6-a05567b7b64e"><term id="UUIDb52fb970-1bce-4f26-708a-52ab8dd4a81e">recessionary gap</term></foreign>) Ponieważ poziom równowagi na poziomie realnego PKB jest tak niski, firmy nie będą chciały zatrudniać pełnej liczby pracowników gotowych do podjęcia pracy, a bezrobocie będzie wysokie.</para>
+    <figure id="CNX_Econ_C25_026">
+      <title id="UUIDa1c75580-01e7-4cc6-5a52-9b1f40b7b4ba">Eliminowanie luk recesyjnych i inflacyjnych</title>
+      <media alt="Wykres ma dwie części. Rysunek (a) przedstawia rozwiązania polityczne mające na celu eliminację luki spowodowanej recesją. Luka recesyjna pojawia się na lewo od linii ilustrującej potencjalne PKB. Rysunek (b) przedstawia rozwiązania polityczne, których celem jest eliminacja luki inflacyjnej. Luka inflacyjna pojawia się na prawo od linii wyznaczającej potencjalne PKB." id="fs-idp47724784">
+        <image src="../../media//CNX_Econ_C25_026.svg" mime-type="image/svg+xml" id="UUIDff7d50c7-1488-4040-4d05-c08521bf3a02" />
+      </media>
+      <caption id="UUIDfbc9482a-4c27-4a0a-72a1-dd789246ff93">(a) Jeśli równowaga występuje przy produkcji mniejszej niż potencjalne PKB, wówczas powstaje luka recesyjna. Rozwiązaniem politycznym przy istnieniu luki recesyjnej jest przesunięcie krzywej zagregowanych wydatków w górę, z AE<sub>0</sub> do AE<sub>1</sub>, przy zastosowaniu polityki obniżenia podatków lub zwiększenia wydatków rządowych. Nowa równowaga E<sub>1</sub> zachodzi na poziomie potencjalnego PKB. (b) Jeśli równowaga ma miejsce przy produkcji większej niż potencjalne PKB, to powstaje luka inflacyjna. Rozwiązaniem politycznym dla luki inflacyjnej jest przesunięcie krzywej zagregowanych wydatków w dół z AE<sub>0</sub> do AE<sub>1</sub>, przy stosowaniu takiej polityki, jak podwyżka podatków lub cięcia wydatków. Wówczas nowa równowaga E<sub>1</sub> zachodzi na poziomie równym potencjalnemu PKB.</caption>
+    </figure>
+    <para id="UUID150ed08a-7a37-4a27-5ce2-c3b2d53daf0a">Co może spowodować lukę recesyjną? Wszystko, co przesuwa krzywą zagregowanych wydatków w dół, jest potencjalną przyczyną recesji, np. spadek konsumpcji, wzrost oszczędności, spadek inwestycji, spadek wydatków rządowych lub wzrost podatków, spadek eksportu lub wzrost importu. Co więcej, gospodarka, która jest w równowadze z luką recesyjną, może w tej sytuacji pozostać i przez długi czas doświadczać wysokiego bezrobocia; pamiętajcie, równowaga polega na tym, że w gospodarce nie ma żadnego szczególnego powodu do dostosowywania cen lub ilości, które mogłyby zakończyć recesję.</para>
+    <para id="fs-idp12357952">Właściwą reakcją na lukę recesyjną jest obniżenie przez rząd podatków lub zwiększenie wydatków, tak aby krzywa zagregowanych wydatków przesunęła się w górę z AE<sub>0</sub> do AE<sub>1</sub>. Po takim przesunięciu nowa równowaga E<sub>1</sub> będzie zachodziła przy PKB na poziomie potencjalnym, co widać na <link target-id="CNX_Econ_C25_026" cmlnle:case="locative" id="UUID83c40488-7042-451a-6ef8-239c2aed6430" /> (a).</para>
+    <para id="fs-idp34698128">I na odwrót, <link target-id="CNX_Econ_C25_026" id="UUID7e48fc69-cc75-4f11-7725-d1ed635a1571" /> (b) pokazuje sytuację, w której krzywa zagregowanych wydatków (AE<sub>0</sub>) przecina linię 45 stopni powyżej potencjalnego PKB. Luka pomiędzy realnym PKB w stanie równowagi E<sub>0</sub> a potencjalnym PKB nazywana jest <term id="UUID13cda8e6-8df3-487f-5b45-b731c423b85f">luką inflacyjną</term> (ang. <foreign xml:lang="en" id="UUID7751e6dc-f743-434d-53ea-3bf2d4185747"><term id="UUID6180d198-e7a7-4002-661f-9ca51e24c2f8">inflationary gap</term></foreign>). Luka inflacyjna również wymaga pewnej interpretacji. Nadmiernie uproszczona interpretacja krzyża keynesowskiego mogłaby prowadzić do wniosku, że podniesiona wystarczająco wysoko funkcja zagregowanych wydatków spowoduje, że realny PKB będzie tak duży, jak tylko sobie tego życzymy — można nawet podwoić lub potroić potencjalny poziom PKB gospodarki. Ten wniosek jest wyraźnie błędny. Gospodarka napotyka pewne ograniczenia po stronie podaży dotyczące tego, ile może wyprodukować w danym czasie przy istniejących zasobach pracowników, kapitału fizycznego i ludzkiego, technologii i instytucji rynkowych.</para>
+    <para id="UUID43aa95cc-d94f-47c4-4e8e-189f1b18f2f9">Lukę inflacyjną należy interpretować nie jako dosłowną prognozę wielkości realnego PKB, ale jako wskazówkę, o ile zagregowane wydatki w gospodarce przewyższają wydatki potrzebne do osiągnięcia potencjalnego PKB. Luka inflacyjna pokazuje, że skoro gospodarka nie jest w stanie wyprodukować wystarczającej ilości towarów i usług, aby zaspokoić dany poziom zagregowanych wydatków, to te wydatki spowodują inflacyjny wzrost poziomu cen. W ten sposób, chociaż zmiany poziomu cen nie pojawiają się wyraźnie w krzyżu keynesowskim, pojęcie inflacji jest zawarte w koncepcji luki inflacyjnej.</para>
+    <para id="fs-idp170727680">Właściwą keynesowską odpowiedź na lukę inflacyjną przedstawia <link target-id="CNX_Econ_C25_026" id="UUIDd5c9fefa-c36f-48b9-7eae-25fbdcf50912" /> (b). Pierwotne przecięcie krzywej zagregowanych wydatków AE<sub>0</sub> i linii 45 stopni następuje przy 8000 dol., czyli powyżej poziomu potencjalnego PKB wynoszącego 7000 dol. Jeśli AE<sub>0</sub> przesunie się w dół do AE<sub>1</sub>, to nowa równowaga znajdzie się na poziomie E<sub>1</sub>, a gospodarka osiągnie poziom potencjalnego PKB, bez presji na inflacyjny wzrost cen. Rząd może doprowadzić do obniżenia zagregowanych wydatków podnosząc podatki nakładane na konsumentów lub firmy lub zmniejszając wydatki rządowe.</para>
+    <section id="fs-idm3201520">
+      <title id="UUID4519f001-5e92-4ee9-49a4-8e659144fd33">Efekt mnożnikowy</title>
+      <para id="UUIDa279e0f1-2e64-4def-5e86-e6e68cfb3e24">Keynesowska recepta na politykę ma jeszcze jeden aspekt. Załóżmy, że dla pewnej gospodarki przecięcie funkcji zagregowanych wydatków i linii 45 stopni znajduje się na poziomie PKB równym 700, podczas gdy poziom potencjalnego PKB dla tej gospodarki wynosi 800. O ile trzeba zwiększyć wydatki rządowe, aby gospodarka osiągnęła PKB zapewniające pełne zatrudnienie? Oczywistą może wydawać się odpowiedź: 800 – 700 = 100; a więc należy podnieść wydatki rządowe o 100. Ale ta odpowiedź jest błędna. Zmiana wydatków rządowych o na przykład 100 dolarów będzie miała większy niż 100 dolarów wpływ na poziom realnego PKB w równowadze. A to dlatego, że zmiana wartości zagregowanych wydatków krąży po gospodarce: gospodarstwa domowe kupują towary od firm, firmy płacą pracownikom i dostawcom, pracownicy i dostawcy kupują towary od innych firm, te firmy płacą swoim pracownikom i dostawcom, i tak dalej. W ten sposób pierwotna zmiana w zagregowanych wydatkach jest faktycznie wydatkowana więcej niż raz. Nazywa się to <term id="UUIDc9cb991e-2fcd-42ec-720e-c14c8bcf18c4">efektem mnożnikowym</term> (ang. <foreign xml:lang="en" id="UUID1ba1510e-9617-4d3b-68ea-3c9525298fce"><term id="UUID44df80ac-ed1d-4993-51e6-c8695fb3df63">multiplier effect</term></foreign>): początkowy wzrost wydatków cyklicznie powtarza się w gospodarce i ma większy wpływ niż początkowa wydana kwota.</para>
+      <para id="fs-idm140877600"><emphasis effect="bold">Jak działa mnożnik?</emphasis></para>
+      <para id="UUIDfdfae3d8-a52f-4781-64e0-0920c4ea19ad">Aby zrozumieć działanie mnożnika, wróć do przykładu, w którym równowaga na wykresie krzyża keynesowskiego występuje przy wielkości realnego PKB równej 700 dol. (czyli 100 dol. mniejszej niż 800 dol. potrzebnych do osiągnięcia pełnego zatrudnienia, czyli potencjalnego PKB). Jeśli rząd wyda 100 dol., aby zlikwidować tę lukę, ktoś w gospodarce otrzyma te wydatki i potraktuje je jako dochód. Załóżmy, że podmioty, które otrzymują ten dochód, płacą 30% podatków, oszczędzają 10% dochodu po opodatkowaniu, wydają 10% całkowitego dochodu na import, a resztę wydają na towary i usługi produkowane w kraju.</para>
+      <para id="fs-idm151342576">W obliczeniach przedstawionych na <link target-id="CNX_Econ_C25_022" cmlnle:case="locative" id="UUID67bf2566-9118-49f6-51b6-230848ce8cc5" /> i w <link target-id="Table_E_06" cmlnle:case="locative" id="UUIDf68114ed-f903-4699-7491-1335219a2fd1" />, z pierwotnych 100 dol. wydatków rządowych, 53 dol. pozostają do wydania na towary i usługi produkowane w kraju. Te 53 dol., gdy zostaną wydane, stają się dochodem dla kogoś, gdzieś w gospodarce. Ci, którzy otrzymują ten dochód, płacą również 30% podatków, oszczędzają 10% dochodu po opodatkowaniu i wydają 10% całkowitego dochodu na import, co pokazano na <link target-id="CNX_Econ_C25_022" cmlnle:case="locative" id="UUID27709835-9487-4571-6cbf-b534edfb75ec" />, gdzie w trzeciej rundzie wydano dodatkowe 28,09 dol. (czyli 0,53 × 53 dol.). Ludzie, którzy otrzymują ten dochód, płacą podatki, oszczędzają i kupują towary importowane, a kwota wydana w czwartej rundzie wynosi 14,89 dol. (czyli 0,53 × 28,09 dol.).</para>
+      <figure id="CNX_Econ_C25_022">
+        <title id="UUIDb13ded29-8e27-47a2-5bd7-8563b1c8c963">Efekt mnożnikowy</title>
+        <media alt="Wykres przedstawia efekt mnożnikowy jako szybko rosnącą krzywą, która po osiągnięciu w piątej rundzie wartości około 200 wypłaszcza się i asymptotycznie dąży do 213." id="fs-idm171205424">
+          <image src="../../media//CNX_Econ_C25_022.svg" mime-type="image/svg+xml" id="UUIDfc819593-e4bb-44bb-5b61-c041dd825aec" />
+        </media>
+        <caption id="UUID625dceb0-1554-40ed-74b7-4755792463b5">Pierwotny wzrost wydatków rządowych o 100 dol. powoduje wzrost łącznych wydatków o 100 dol. Ale te 100 dol. to dochód dla innych w gospodarce, a po tym, jak część zostanie zaoszczędzona, podatki zapłacone i kupione towary importowane, to w drugiej rundzie zostanie wydane 53 z tych 100 dol. Z kolei te 53 dol. to dochód dla innych. Tak więc początkowe wydatki rządowe w wysokości 100 dol. są pomnażane w kolejnych cyklach wydatków, ale wpływ każdego kolejnego cyklu staje się coraz mniejszy. Biorąc pod uwagę dane w tym przykładzie, pierwotny wzrost wydatków rządowych o 100 dol. powoduje wzrost łącznych wydatków o (w przybliżeniu) 213 dol.; dlatego mnożnik w tym przykładzie wynosi 213 dol./100 dol. = 2,13.</caption>
+      </figure>
+      <table summary="The table shows information needed to calculate the multiplier effect. Column 1 lists an explanation of the data. Column 2 lists the data. Row 1: Original increase in aggregate expenditure from government spending is 100. Row 2: Which is income to people throughout the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Second-round increase of… (70 – 7 – 10) = 53. Row 3: Which is $53 of income to people through the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Third-round increase of… (37.1 – 3.71 – 5.3) = 28.09. Row 4: Which is $28.09 of income to people through the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Fourth-round increase of… (19.663 – 1.96633 – 2.809) = 14.89." id="Table_E_06"><title id="UUIDf7e1a689-adbf-48c5-5a34-794371bdd1de" /><tgroup cols="2" id="UUID2adf3484-60f2-481d-6421-bae12460057b"><colspec colnum="1" colname="col1" id="UUIDd4610dbf-05e6-4b08-5ca7-f9e63cef1926" /><colspec colnum="2" colname="col2" id="UUID7f16ba32-4f0e-4f9a-560e-500863d2f075" /><tbody id="UUID7539e7bc-7e0d-4ff9-4278-abd98cef3d00"><row id="UUIDbac49004-f144-4d88-5215-86daf321b7c0"><entry id="UUID9b121c7b-ba67-441a-5dca-f24d68f8c2f0">Pierwotny wzrost zagregowanych wydatków w wyniku wzrostu wydatków rządowych </entry><entry id="UUID2d4bee2d-624d-4884-7a99-a55254a8fe39">100</entry></row><row id="UUID02fe5ee1-190b-4f86-74ee-b111598e3c5f"><entry id="UUID3e9f8677-c178-439f-4b13-601c66f108fd">To stanowi dochód ludzi w całej gospodarce: zapłać 30% podatku; oszczędź 10% dochodu po opodatkowaniu; wydaj 10% dochodu na import. Wzrost zagregowanych wydatków w drugiej rundzie wyniesie…</entry><entry id="UUID2bbaaa2f-987f-4968-62b3-456ea6434a26">70 – 7 – 10 = 53</entry></row><row id="UUID50246c8f-ef75-44e7-5014-c9a956ebf824"><entry id="UUIDd784c8b1-eac1-467c-609f-0d54ce08a3bf">To stanowi 53 dol. dochodu ludzi w gospodarce: zapłać 30% podatków; oszczędź 10% dochodu po opodatkowaniu; wydaj 10% dochodu na import. Wzrost zagregowanych wydatków w trzeciej rundzie wyniesie…</entry><entry id="UUIDa4edecc3-5edd-4d75-40a7-6858dc85b50d">37,1 – 3,71 – 5,3 = 28,09</entry></row><row id="UUID7a131868-90e7-4cb3-5c71-69deff675c18"><entry id="UUIDb86bfe0b-eb90-4c1d-63e2-d262179fa179">To daje 28,09 dol. dochodu ludzi w gospodarce: zapłać 30% podatków; oszczędź 10% dochodu po opodatkowaniu; wydaj 10% dochodu na import. Wzrost zagregowanych wydatków w czwartej rundzie wyniesie…</entry><entry id="UUID6a95d9a7-4dd6-4b60-4c69-65beb42afbf5">19,663 – 1,96633 – 2,809 = 14,89</entry></row></tbody></tgroup><caption id="UUID87c451f7-b514-4d25-53e8-f390dd73b406">Obliczanie efektu mnożnikowego</caption></table>
+      <para id="fs-idm130628256">Tak więc, w czasie pierwszych czterech rund obiegu zagregowanych wydatków pierwotny wzrost wydatków rządowych o 100 dolarów spowodował przyrost łącznych wydatków o 100 + 53 + 28,09 + 14,89 = 195,98 [dol.]. <link target-id="CNX_Econ_C25_022" id="UUID82d2c1a0-75c6-4e4b-6fec-742a7fafa7a4" /> pokazuje te łączne zagregowane wydatki po pierwszych czterech rundach, a następnie łączne zagregowane wydatki po 30 rundach. Dodatkowy impuls do wzrostu zagregowanych wydatków maleje w każdej kolejnej rundzie wydatków. Po około 10 rundach dodatkowe przyrosty są naprawdę bardzo małe - prawie niewidoczne gołym okiem. Po 30 rundach dodatkowe przyrosty w każdej rundzie są tak małe, że nie mają większego znaczenia. Po 30 rundach skumulowana wartość początkowego wzrostu łącznych wydatków wynosi ok. 213 dol. Tak więc wzrost wydatków rządowych o 100 dol. po wielu cyklach, ostatecznie spowodował wzrost łącznych wydatków i realnego PKB o ok. 213 dol. W tym przykładzie mnożnik wynosi 213 dol./100 dol = 2,13.</para>
+      <para id="fs-idp55736016"><emphasis effect="bold">Obliczanie mnożnika</emphasis></para>
+      <para id="fs-idm103389296">Na szczęście dla każdego, kto nie nosi ze sobą komputera z arkuszem kalkulacyjnym do prognozowania wpływu pierwotnego wzrostu wydatków przez 20, 50 lub 100 rund wydatków, istnieje wzór na obliczenie mnożnika.</para>
+      <equation id="fs-idp21228272" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Spending Multiplier = 1/1 – (0.7 x (1 – .1) + 0.10) = 1/.63 + .1 = 1/.73 = 1.369</mtext><mo> </mo></math></equation>
+      <para id="fs-idm42432576">Objaśnienia do ramki:</para>
+      <para id="UUIDb4f51031-8df1-412f-5d10-96caf4e55f29">Spending Multiplier - mnożnik wydatków</para>
+      <para id="UUID91a75354-19df-4893-5b28-7da2f1a4e06f">Dane z <link target-id="CNX_Econ_C25_022" cmlnle:case="locative" id="UUIDd9199475-2ce1-463f-789a-2269d3a67ad4" /> i <link target-id="Table_E_06" cmlnle:case="locative" id="UUID3e3e4d7f-b5e7-4ce7-528e-aa527924e259" /> to:</para>
+      <list id="fs-idp3537152">
+        <item id="UUIDcbf36e7f-6245-4544-76c5-476596654f85">
+          <para id="UUIDf4aced9e-1ec7-44eb-51e3-68fb85040fa6">Krańcowa skłonność do oszczędzania MPS = 30%</para>
+        </item>
+        <item id="UUIDa30bef63-33e8-4d73-7b0c-e1d2f0708bfc">
+          <para id="UUID09777370-921b-419c-5401-e26f776fb8f1">Stawka podatkowa = 10%</para>
+        </item>
+        <item id="UUIDbd5165ae-1916-46b6-5712-9469f1f56dbd">
+          <para id="UUID22fd601e-c49f-440a-4b55-5db4c7b21085">Krańcowa skłonność do importu MPI = 10%</para>
+        </item>
+      </list>
+      <para id="fs-idp8977824">MPC = 1 – MPS, czyli MPC = 0,7. Dlatego mnożnik wydatków jest równy:</para>
+      <equation id="fs-idp55695136" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Mnożnik wydatków</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>1</mtext><mtext>1 – (0,7 – (0,10)(0,7) – 0,10)</mtext></mfrac></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>1</mtext><mtext>0,47</mtext></mfrac></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>2,13</mtext></mtd></mtr></mtable></math></equation>
+      <para id="fs-idm30668480">Objaśnienia do ramki:</para>
+      <para id="UUID561f6e85-e0ce-48e4-49dc-f3834c3f66f6">Spending Multiplier - mnożnik wydatków</para>
+      <para id="UUIDe0cc1b5f-2d77-469f-5d7e-7b2440ca939e">Zmiana wydatków o 100 dol. pomnożona przez mnożnik wydatków wynoszący 2,13 przekłada się na zmianę PKB równą 213 dol. Nieprzypadkowo wynik ten jest dokładnie taki, jak obliczono w <link target-id="CNX_Econ_C25_022" cmlnle:case="locative" id="UUID34492570-8692-49b5-69e4-beade946e515" /> po wielu cyklach wydatków w gospodarce.</para>
+      <para id="UUIDb3015307-e92a-46ae-6dbf-8cb8f7bb7524">Wielkość mnożnika zależy od tego, jaka część krańcowego dolara dochodu jest przeznaczona na podatki, oszczędności i import. Te trzy czynniki są znane jako „wycieki”, ponieważ określają, ile popytu „wycieka” w każdej rundzie działania efektu mnożnikowego. Jeśli wycieki są stosunkowo małe, to każda kolejna runda działania efektu mnożnikowego będzie dawała większe przyrosty popytu, a sam mnożnik będzie wysoki. I odwrotnie, jeśli wycieki są stosunkowo duże, to każda początkowa zmiana popytu będzie skutkowała mniejszym efektem w drugiej, trzeciej i późniejszych rundach, a mnożnik będzie mały. Zmiany wielkości wycieków – zmiana krańcowej skłonności do oszczędzania, stawki podatkowej czy krańcowej skłonności do importu – zmienią wielkość mnożnika.</para>
+      <para id="fs-idm160140144"><emphasis effect="bold">Obliczanie skutków keynesowskich interwencji politycznych</emphasis></para>
+      <para id="fs-idp13998432">Wracając do pierwotnego pytania: o ile należy zwiększyć wydatki rządowe, aby całkowity wzrost realnego PKB wyniósł 100 dolarów? Jeśli celem jest zwiększenie zagregowanego popytu o 100 dolarów, a mnożnik wynosi 2,13, to wzrost wydatków rządowych w celu osiągnięcia tego celu powinien wynieść 100 dol./2,13 = 47 dol. Wydatki rządowe w wysokości ok. 47 dol., w połączeniu z mnożnikiem 2,13 (który jest, pamiętajmy, oparty na konkretnych założeniach dotyczących podatków, oszczędności i stóp importu), dają ogólny wzrost realnego PKB o 100 dol., przywracając gospodarkę do potencjalnego PKB równego 800 dol., jak pokazano na <link target-id="CNX_Econ_C25_023" cmlnle:case="locative" id="UUID45287b98-6fa0-409b-6583-0f4ab99c7c77" />.</para>
+      <para id="UUID153479e0-2f5c-4be9-5594-39ca7dc84153" />
+      <figure id="CNX_Econ_C25_023">
+        <title id="UUID2165c48c-8baa-4442-6e96-336e4b44b904">Efekt mnożnikowy w modelu wydatki-produkcja</title>
+        <media alt="Wykres przedstawia efekt mnożnikowy w modelu wydatki-produkcja: wzrost wydatków powoduje relatywnie większy wzrost produkcji w stanie równowagi." id="fs-idm64511728">
+          <image src="../../media//CNX_Econ_C25_023.svg" mime-type="image/svg+xml" id="UUID33625b03-a925-4b5a-7701-c865cde054c5" />
+        </media>
+        <caption id="UUID0057b486-a0b3-46d0-7e76-35111dfdb6d7">Potęga efektu mnożnikowego polega na tym, że wzrost wydatków powoduje relatywnie większy wzrost produkcji w stanie równowagi. Wzrost wydatków to przesunięcie AE<sub>0</sub> do położenia AE<sub>1</sub>. Jednak przyrost produkcji w stanie równowagi, pokazany na osi poziomej, jest wyraźnie większy.</caption>
+      </figure>
+      <para id="fs-idp29131040">Efekt mnożnikowy jest również widoczny na wykresie krzyża keynesowskiego. <link target-id="CNX_Econ_C25_023" id="UUID61f5dc34-8289-4d10-4b95-6407767cc8d9" /> pokazuje omawiany przez nas przykład: luka recesyjna z równowagą na poziomie 700 dol., potencjalnym PKB równym 800 dol., nachylenie funkcji zagregowanych wydatków (AE<sub>0</sub>) określone przy założeniu, że podatki stanowią 30% dochodu, a oszczędności wynoszą 0,1 dochodu do opodatkowania, a import stanowi 0,1 dochodu przed opodatkowaniem. Przy AE<sub>1</sub> krzywa zagregowanych wydatków przesuwa się w górę, aby osiągnąć potencjalny PKB.</para>
+      <para id="fs-idm45883424">Teraz porównajmy przesunięcie w górę krzywej zagregowanych wydatków o 47 dol., z przesunięciem w prawo realnego PKB, o 100 dol. (zgodnie z tym, co zostało obliczone wcześniej). Wzrost realnego PKB jest ponad dwukrotnie większy niż wzrost funkcji wydatków zagregowanych. (Podobnie, jeśli spojrzysz wstecz na <link target-id="CNX_Econ_C25_026" id="UUID5138eac3-5bd0-462d-648a-46bbdbcd96d3" />, zobaczysz, że pionowe przesunięcia krzywej zagregowanych wydatków są mniejsze niż zmiana produkcji w równowadze, która jest pokazana na osi poziomej. Ponownie jest to efekt mnożnikowy.) W ten sposób potęga działania mnożnika jest widoczna na wykresie modelu wydatki-produkcja, jak również w obliczeniach arytmetycznych.</para>
+      <para id="UUIDd4ab0580-cc4c-44e5-5c44-a80221a1b88d">Mnożnik nie tylko wpływa na wydatki rządowe, ale ma zastosowanie do wszelkich zmian w gospodarce. Powiedzmy, że spada zaufanie biznesowe i spadają inwestycje, lub że gospodarka wiodącego partnera handlowego zwalnia, co powoduje spadek eksportu. Zmiany te zmniejszą zagregowane wydatki, a następnie będą miały jeszcze większy wpływ na realny PKB ze względu na efekt mnożnikowy. Przeczytaj poniższą ramkę, aby dowiedzieć się, w jaki sposób można zastosować efekt mnożnikowy do analizy ekonomicznego wpływu sportu zawodowego.</para>
+      <note type="note" id="fs-idm26857904" class="clearup economics">
+        <title id="UUIDa3ef514f-0a28-402a-67e7-ccec9bad315c">W jaki sposób można wykorzystać mnożnik do analizy wpływu sportu zawodowego na gospodarkę?</title>
+        <para id="fs-idm41030640">Przyciąganie profesjonalnych drużyn sportowych i budowa stadionów sportowych w celu tworzenia miejsc pracy i stymulowania rozwoju biznesu to strategia rozwoju gospodarczego przyjęta przez wiele społeczności w całych Stanach Zjednoczonych. W artykule „Public Financing of Private Sports Stadiums” James Joyner z <emphasis effect="italics">Outside the Beltway</emphasis> przyjrzał się publicznemu finansowaniu drużyn NFL. Odkrycia Joynera potwierdzają wcześniejsze prace Johna Siegfrieda z Vanderbilt University i Andrew Zimbalista ze Smith College.</para>
+        <para id="UUIDb98da898-a8f6-489f-428c-59e80308b9ce">Siegfried i Zimbalist wykorzystali mnożnik do analizy tego problemu. Wzięli pod uwagę wysokość płaconych podatków i wydatków lokalnych, aby sprawdzić, czy wystąpił pozytywny efekt mnożnikowy. Większość zawodowych sportowców i właścicieli drużyn sportowych jest bogata i płaci dużo podatków – powiedzmy, że 40% ich krańcowego dochodu jest odprowadzane jako podatki. Ponieważ sportowcy często dobrze zarabiają a ich kariery są krótkie, to załóżmy, że oszczędzają jedną trzecią swojego dochodu po opodatkowaniu.</para>
+        <para id="UUID077046fc-3a5a-4ed5-691c-3816cff45beb">Wielu zawodowych sportowców nie mieszka przez cały rok w mieście, w którym gra, więc powiedzmy, że połowa pieniędzy, które wydają, jest wydawana poza tym obszarem. W tym przykładzie można uznać wydatki dokonane poza lokalną gospodarką jako ekwiwalent towarów importowanych dla gospodarki narodowej.</para>
+        <para id="UUID6118ba27-c5b7-4a1c-678f-5caa389e5505">Pomyśl teraz o pieniądzach wydawanych na lokalną rozrywkę inną niż sport zawodowy. Właściciele tych innych biznesów mają pewnie średnie dochody, niewielu z nich znajduje się w ekonomicznej stratosferze zawodowych sportowców. Ponieważ ich dochody są niższe, to płacą też niższe podatki – powiedzmy, że płacą tylko 35% swojego krańcowego dochodu w postaci podatków. Nie mają takiej samej zdolności ani potrzeby oszczędzania jak zawodowi sportowcy, więc załóżmy, że ich MPC wynosi 0,8. Wreszcie, ponieważ więcej z nich mieszka cały rok w jednym mieście, będą wydawać większą część swoich dochodów na towary lokalne — powiedzmy 65%.</para>
+        <para id="UUID1d20874b-20cc-4669-727a-7e4f00eb4e8b">Jeśli te ogólne założenia są prawdziwe, to pieniądze wydawane na sport zawodowy będą miały mniejszy wpływ na lokalną gospodarkę niż pieniądze wydawane na inne formy rozrywki. Dla zawodowych sportowców z każdego zarobionego dolara 40 centów idzie na podatki, więc pozostaje 60 centów. Z tych 60 centów jedna trzecia jest zaoszczędzona. Z pozostałych 40 centów połowa zostaje wydana poza obszarem. Tylko 20 centów z każdego dolara trafia do lokalnej gospodarki w pierwszej rundzie. W przypadku lokalnej rozrywki z zarobionego dolara 35 centów idzie na podatki, pozostawiając 65 centów. Z tego oszczędzone jest 20%, a z pozostałych 52 centów 65% wydawane jest na szczeblu lokalnym, tak więc 33,8 centa z każdego dolara dochodu jest ponownie wykorzystywane w lokalnej gospodarce.</para>
+        <para id="UUID04b80bc8-3783-4e69-5fae-8b5b104de8de">Siegfried i Zimbalist przekonująco argumentują, że w ramach domowego budżetu ludzie mają ustaloną kwotę do wydania na rozrywkę. Jeśli to założenie jest prawdziwe, to pieniądze wydane na profesjonalne imprezy sportowe są pieniędzmi, które nie zostały wydane na inne formy rozrywki w danej metropolii. Ponieważ mnożnik jest niższy w przypadku sportu zawodowego niż w przypadku innych lokalnych form rozrywki, pojawienie się sportu zawodowego w mieście spowodowałoby realokację wydatków na rozrywkę w sposób, który powoduje kurczenie się lokalnej gospodarki zamiast wzrostu. Tak więc, ich odkrycia wydają się potwierdzać to, co donosi Joyner i co donoszą gazety w całym kraju. Szybkie wyszukiwanie w Internecie hasła „wpływ sportu na gospodarkę” przyniesie liczne prace kwestionujące tę strategię rozwoju gospodarczego.</para>
+      </note>
+      <para id="fs-idm166600240"><emphasis effect="bold">Mnożnikowe kompromisy: stabilność a siła polityki ekonomicznej</emphasis></para>
+      <para id="UUIDb6ce272b-38df-4717-7669-6ff4e2ea312b">Czy gospodarka jest zdrowsza gdy mnożnik jest wysoki czy niski? Przy wysokim mnożniku każda zmiana zagregowanego popytu będzie oznaczała znaczne zwiększanie się dodatkowych wydatków, a więc gospodarka będzie bardziej niestabilna. Z kolei przy niskim mnożniku zmiany zagregowanego popytu nie będą znacznie pomnażane, więc gospodarka będzie bardziej stabilna.</para>
+      <para id="UUID430980cf-16d1-4887-6329-7ee57400df92">Jednak przy niskim mnożniku zmiany polityki rządu w zakresie podatków lub wydatków będą miały mniejszy wpływ na wysokość produkcji realnej w równowadze. Przy wyższym mnożniku polityka rządu mająca na celu zwiększenie lub zmniejszenie zagregowanych wydatków będzie bardziej skuteczna. Tak więc, niski mnożnik oznacza bardziej stabilną gospodarkę, ale także słabszą skuteczność polityki makroekonomicznej rządu, podczas gdy wysoki mnożnik oznacza bardziej niestabilną gospodarkę, ale także gospodarkę, w której polityka makroekonomiczna rządu jest silniejsza.</para>
+    </section>
+    <section id="fs-idm142495216">
+      <title id="UUID9130d95d-f978-4f60-6b46-c705fb18d177">Key Concepts and Summary</title>
+      <para id="UUID2f9afc5a-7057-4d1e-52ba-5aa0ffc47cfc">Model wydatki-produkcja oraz krzyż keynesowski pokazują, w jak sposób poziom zagregowanych wydatków (na osi pionowej) zmienia się wraz ze zmianami poziomu produkcji w gospodarce (pokazanym na osi poziomej). Ponieważ wartość produkcji w skali makro stanowi również dochód dla kogoś innego w gospodarce, oś pozioma może być również interpretowana jako dochód narodowy. Równowaga na wykresie wystąpi tam, gdzie krzywa zagregowanych wydatków przecina linię 45 stopni, która reprezentuje zbiór punktów, w których zagregowane wydatki w gospodarce są równe produkcji (lub dochodowi narodowemu). Równowaga w krzyżu keynesowskim może wystąpić przy PKB na poziomie potencjalnym, poniżej lub powyżej tego poziomu.</para>
+      <para id="UUIDa2e91b3e-9f27-4a12-5200-37a1dc783384">Funkcja konsumpcji pokazuje rosnącą zależność między dochodem narodowym a konsumpcją. Krańcowa skłonność do konsumpcji (KSK / MPC) to część dodatkowego dolara dochodu przeznaczona na konsumpcję. Wyższa krańcowa skłonność do konsumpcji oznacza bardziej stromą funkcję konsumpcji; niższa krańcowa skłonność do konsumpcji oznacza bardziej płaską funkcję konsumpcji. Krańcowa skłonność do oszczędzania (KSO / MPS) to zaoszczędzona część każdego dodatkowego dolara dochodu. Zawsze zachodzi prawidłowość mówiąca, że MPC + MPS = 1. Funkcja inwestycji jest linią płaska, pokazująca, że inwestycje w bieżącym roku nie zależą od bieżącego poziomu dochodu narodowego. Jednak funkcja inwestycji będzie się przesuwać (w górę i w dół) w zależności od stopy zwrotu oczekiwanej w przyszłości. Wydatki rządowe także są poziomą linią na wykresie krzyża keynesowskiego, ponieważ ich poziom jest determinowany względami politycznymi, a nie bieżącym poziomem dochodu w gospodarce. Podatki w krzyżu keynesowskim uwzględniane są poprzez odpowiednie dostosowanie funkcji konsumpcji. Funkcja eksportu jest poziomą linią na wykresie krzyża keynesowskiego, ponieważ eksport nie podąża za zmianami dochodu krajowego, ale przesuwa się w wyniku zmian dochodów za granicą, a także zmian kursów walutowych. Funkcja importu jest linią opadającą, ponieważ co prawda import rośnie wraz z dochodem narodowym, ale import jest odejmowany od zagregowanego popytu. Wyższy poziom importu oznacza zatem niższy poziom wydatków na dobra krajowe.</para>
+      <para id="UUIDc944f91f-e994-4b35-574e-d1b8f1f6759f">Na wykresie krzyża keynesowskiego równowaga może zachodzić na poziomie niższym niż potencjalne PKB, co nazywamy luką recesyjną, lub na poziomie wyższym od potencjalnego PKB, co określamy jako luka inflacyjna.</para>
+      <para id="UUID8740934a-e806-4275-6aff-2cacfb4c7776">Efekt mnożnikowy opisuje, w jaki sposób początkowa zmiana zagregowanego popytu generuje większy przyrost skumulowanego PKB. O wielkości mnożnika wydatków decydują trzy strumienie: wydatki na oszczędności, podatki i import. Wzór na mnożnik to:</para>
+      <equation id="fs-idm143587472" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Mnożnik</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>1</mtext><mtext>1 – (MPC × (1 – Stopa podatkowa) + MPI)</mtext></mfrac></mtd></mtr></mtable></math></equation>
+      <para id="fs-idm167192912">Objaśnienia do ramki:</para>
+      <para id="UUID34e3c714-df2a-4ec5-69cb-eeb22dae2c71">Multiplier - mnożnik</para>
+      <para id="UUID15c77a3d-d0d2-4505-6ef6-deaf81e5f06e">tax rate - stopa podatkowa</para>
+      <para id="UUID8f751c2c-b17b-4c82-7abc-63f7915544ce">Gospodarka z niższym mnożnikiem jest bardziej stabilna - w mniejszym stopniu wpływają na nią wydarzenia gospodarcze lub polityka rządu niż w przypadku gospodarki z wyższym mnożnikiem.</para>
+    </section>
+    <section id="fs-idp56097840">
+      <title id="UUIDdb0b1f38-40d3-4857-6f2c-f8d23cfdbc61">Self-Check Questions</title>
+      <exercise id="fs-idp124205712">
+        <problem id="fs-idm48854496">
+          <para id="fs-idm31461856">Narysuj wykres funkcji zagregowanych wydatków z luką recesyjną.</para>
+        </problem>
+        <solution id="eip-idm637285664">
+          <para id="eip-idm633428432">Poniższy rysunek przedstawia wykres krzywej zagregowanych wydatków z luką recesyjną.</para>
+          <figure id="CNX_Econ_C25_011a" class="unnumbered">
+            <media alt="Rysunek przedstawia krzywą zagregowanych wydatków z luką recesyjną." id="fs-idm34575792">
+              <image src="../../media//CNX_Econ_C25_011.svg" mime-type="image/svg+xml" id="UUIDb655a24e-4e0f-4769-6851-668a5425e080" />
+            </media>
+          </figure>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm4461168">
+        <problem id="fs-idm58708192">
+          <para id="fs-idm41386096">Naszkicuj model wydatki-produkcja z luką inflacyjną</para>
+        </problem>
+        <solution id="eip-idm1338303600">
+          <para id="UUID37c11b36-f4fd-4aa9-4e2c-aa9d394ab358">Ponizszy rysunek przedsytawia krzywą zagregowanych wydatkow z luką inflacyjną.</para>
+          <figure id="CNX_Econ_C25_030" class="unnumbered">
+            <media alt="Wykres przedstawia krzywą zagregowanych wydatków z luką inflacyjną. Linia potencjalnego PKB znajduje się na lewo od punktu równowagi." id="fs-idp106714128">
+              <image src="../../media//CNX_Econ_C25_030.svg" mime-type="image/svg+xml" id="UUID583e3217-e3f5-4679-451a-e7566fbcce1e" />
+            </media>
+          </figure>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp76551264">
+        <problem id="fs-idp113548880">
+          <para id="fs-idm47882192">W danej gospodarce:</para>
+          <para id="fs-idp116958848">Y = dochód narodowy</para>
+          <para id="fs-idm52971504">Podatki = T = 0,25Y</para>
+          <para id="fs-idp106589920">C = konsumpcja = 400 + 0,85(Y – T)</para>
+          <para id="fs-idm41279552">I = 300</para>
+          <para id="fs-idp9101472">G = 200</para>
+          <para id="fs-idp2048432">X = 500</para>
+          <para id="fs-idp7265712">M = 0,1(Y – T)</para>
+          <para id="fs-idp42959312">Znajdź równowagę dla tej gospodarki. Jeśli potencjalny PKB wynosi 3500, to jaka zmiana w wydatkach rządowych jest potrzebna, aby osiągnąć ten poziom? Rozwiąż to zadanie na dwa sposoby. Najpierw wstaw 3500 do równań i oblicz G. Potem rozwiąż to zadanie używając mnożnika.</para>
+        </problem>
+        <solution id="eip-idm398907312">
+          <para id="fs-idp118818032">Najpierw zapisz równania.</para>
+          <equation id="fs-idp85827200" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>AE</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(Y – T) + 300 + 200 + 500 – 0,1(Y – T)</mtext></mtd></mtr><mtr><mtd><mtext>AE</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Y</mtext></mtd></mtr></mtable></math></equation>
+          <para id="fs-idp85771344">Następnie wstaw Y w miejsce AE i 0,25Y w miejsce T</para>
+          <equation id="fs-idm67867824" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(Y – 0,25Y) + 300 + 200 + 500 – 0,1(Y – 0,25Y)</mtext></mtd></mtr><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>1400 + 0,6375Y – 0,075Y</mtext></mtd></mtr><mtr><mtd><mtext>0,4375Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>1400</mtext></mtd></mtr><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>3200</mtext></mtd></mtr></mtable></math></equation>
+          <para id="fs-idp58528416">Jeśli pełne zatrudnienie będzie osiągnięte dla Y=3500, to jednym ze sposobów rozwiązania jest podstawienie 3500 w miejsce Y w całym równaniu, ale pozostawienie G jako obliczanej zmiennej.</para>
+          <equation id="fs-idm30952448" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(Y – 0,25Y) + 300 + G + 500 + 0,1(Y – 0,25Y)</mtext></mtd></mtr><mtr><mtd><mtext>3500</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(3500 – 0,25(3500)) + 300 + G + 500 – 0,1(3500 – 0,25(3500))</mtext></mtd></mtr><mtr><mtd><mtext>G</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>3500 – 400 – 2231,25 – 1300 – 500 + 262,5</mtext></mtd></mtr><mtr><mtd><mtext>G</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>331,25</mtext></mtd></mtr></mtable></math></equation>
+          <para id="fs-idp60365888">Wartość G wynosząca 331,25 to przyrost o 131,25 z pierwotnego poziomu równego 200.</para>
+          <para id="fs-idp40916656">Alternatywnie można rozwiązać to zadanie wykorzystując informacje, że z każdego wydanego dolara 0,25 idzie na podatki, pozostawiając 0,75, a z dochodu po opodatkowaniu 0,15 idzie na oszczędności a 0,1 na import. Ponieważ (0,75)(0,15) = 0,1123 i (0,75)(0,1) = 0,075, to oznacza, że z każdego wydanego dolara: 1 –0,25 –0,1125 –0,075 = 0,5625.</para>
+          <para id="fs-idm20173088">Zatem, używając odpowiedniego wzoru, mnożnik wynosi:</para>
+          <equation id="fs-idm54700000" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mfrac><mtext>1</mtext><mtext>1 – 0,5625</mtext></mfrac></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>2,2837</mtext></mtd></mtr></mtable></math></equation>
+          <para id="fs-idm30138432">Aby zwiększyć PKB w stanie równowagi o 300, potrzebna jest podwyżka o 300/2,2837, co ponownie daje 131,25.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm9367632">
+        <problem id="fs-idm56378032">
+          <para id="fs-idp115163664"><link target-id="Table_E_07" id="UUIDed5a4520-e3fa-4d3b-6b4a-d7abdf96124e" /> represents the data behind a Keynesian cross diagram. Assume that the tax rate is 0.4 of national income; the MPC out of the after-tax income is 0.8; investment is $2,000; government spending is $1,000; exports are $2,000 and imports are 0.05 of after-tax income. What is the equilibrium level of output for this economy? przedstawia dane pochodzące z wykresu krzyża keynesowskiego. Załóżmy, że stawka podatkowa wynosi 0,4 dochodu narodowego; MPC z dochodu po opodatkowaniu wynosi 0,8; inwestycje równe są 2000 dolarów a wydatki rządowe 1000 dolarów; eksport wynosi 2000 dolarów, a import stanowi 0,05 dochodu po opodatkowaniu. Jaki jest poziom produkcji w stanie równowagi w tej gospodarce?</para>
+          <table summary="The table shows the data behind a Keynesian cross diagram, as well as space for filling in the final values. Column 1 lists National Income. Column 2 lists After-Tax Income. Column 3 lists Consumption. Column 4 lists I+G+X. Column 5 lists Minus Imports. Column 6 lists Aggregate Expenditures. Column 1 has the following amounts: $8,000; $9,000, $10,000, $11,000, $12,000, $13,000. Column 3 row 1 (consumption) shows $4,340. All other cells are blank." id="Table_E_07"><tgroup cols="6" id="UUID651e503a-84f9-4cfc-6b4c-b4d606b5bd4d"><colspec colnum="1" colname="col1" id="UUIDc8fbff7c-7a01-4d9f-7d52-aa077426e833" /><colspec colnum="2" colname="col2" id="UUIDe49ed83d-8101-4147-472c-bb72f82284f7" /><colspec colnum="3" colname="col3" id="UUIDae163a1a-4103-4bf5-4f66-5d49eb87cfb9" /><colspec colnum="4" colname="col4" id="UUID149ea81f-0a19-43b8-5814-da675d4e7155" /><colspec colnum="5" colname="col5" id="UUID476fac72-904e-4799-7c49-196f3c3ae3f0" /><colspec colnum="6" colname="col6" id="UUID7f519c75-3972-440f-7818-dd75e2012edd" /><thead id="UUID4af6f3e0-3ff7-456c-600b-350d78e3a6b5"><row id="UUID7c6ae6d7-d3a9-4487-47d6-36d0ebb65326"><entry id="UUIDe273e379-3e93-4963-6d8e-a86dcb99a62d">Dochód narodowy</entry><entry id="UUID0cd65434-b122-45a7-4914-68c29cd1ae3a">Dochód po opodatkowaniu</entry><entry id="UUIDf542bb1a-93ff-4510-434f-a835b7f6b7c7">Konsumpcja</entry><entry id="UUID69f86405-e53b-4dcd-70fa-f0b9ef2d5ee0">I + G + X</entry><entry id="UUID22be1531-d35a-4185-6783-3cb3c1983be0">Minus import</entry><entry id="UUID0088cb39-0e87-4701-604a-d56435f655ff">Wydatki zagregowane</entry></row></thead><tbody id="UUID99ae84c3-21c5-4547-7f4d-884890cd159b"><row id="UUID6f433885-772e-4576-4283-8df76c2bc764"><entry id="UUID33c5e14d-670a-4a99-49de-6b2b52d3d3d7">8000</entry><entry id="UUID8a944064-fce8-4376-4ef0-2960c55e4194" /><entry id="UUID20992eb4-88dc-47ba-7136-0c29fe1c5f96">4340</entry><entry id="UUID053249ce-68ff-459a-77e1-bcc32344b3bd" /><entry id="UUIDb51d4e0c-3641-498f-54ec-19712d3fac19" /><entry id="UUID0dd7f6d2-9927-440d-79f4-8bc2cf985846" /></row><row id="UUIDb49b7810-90ee-4e28-420e-6906c2145e7e"><entry id="UUIDf1da2e6a-03ff-49c4-7ecd-dba2f0545448">9000</entry><entry id="UUID6d787625-4436-4b96-77e4-aa6ff6f69410" /><entry id="UUIDecadff15-c066-4d29-62fd-3efcac985fcb" /><entry id="UUID91b1d960-e0a6-43cd-7fe7-927679ac178e" /><entry id="UUID7fd4a1f9-3ad5-4d6c-709b-04fbdc36f95b" /><entry id="UUID6e81b029-99a2-42da-7fa3-760d8ab6e921" /></row><row id="UUID455f0a83-ad1b-4233-7905-3396f41017b3"><entry id="UUIDef6c93e6-b7d8-41a5-65f8-a2b22aee2313">10.000</entry><entry id="UUID6ba74b6d-73cc-4034-400c-ee70c89fecf8" /><entry id="UUID0ef24029-7feb-4d92-6056-5d97decb9b20" /><entry id="UUIDf6641223-8b1f-41ad-55c1-58e9f2e6c796" /><entry id="UUIDec7b11d2-44dc-4ef5-495d-f964c22af5f9" /><entry id="UUIDd25e098a-c5b1-4677-4abf-a60406098f51" /></row><row id="UUID2d30a84f-1422-49a6-61e9-a0190b07aa1a"><entry id="UUID7c1470fb-9867-48aa-6e2c-3fc74426cbd2">11.000</entry><entry id="UUIDe9257a73-cb0e-4b6b-6441-59193f5a223d" /><entry id="UUID6aa1d5b2-1a5a-4cdc-5662-db90610eb8d4" /><entry id="UUIDfc76eb0f-1b00-472e-5da3-c105a71d3968" /><entry id="UUIDedef59aa-953e-47e2-7bd8-bbf6e2e3fe65" /><entry id="UUID90dcc178-6406-4883-4b41-4894fd256946" /></row><row id="UUID0c4d93ad-8ad5-48cf-7e16-65e8263f6349"><entry id="UUID5bf66250-fdc3-4230-5bbc-d3ac7f0a9e5f">12.000</entry><entry id="UUID1e59750a-95cc-43fb-4073-e7c43575d20b" /><entry id="UUIDe3983d9a-b218-42b9-72ba-7a4af5ff4d18" /><entry id="UUIDf115ad20-9985-449b-6532-452efc416dec" /><entry id="UUIDd6dc75da-f5d8-49cc-6cfa-c0d3348e5200" /><entry id="UUID5e52e351-41b2-48b7-7182-10d834b605c1" /></row><row id="UUID29ec9c0c-08ec-4983-683c-aee70277ea8c"><entry id="UUID93f435e2-102e-486d-622a-ea3bf44d9dfa">13.000</entry><entry id="UUID2bbe06d6-4eee-4226-4b03-24f25e338ed2" /><entry id="UUID7e2b56cd-7721-4821-440d-d49f9b381cd3" /><entry id="UUIDb04b9953-fb31-411a-47cc-9422a2df64ad" /><entry id="UUIDc9c0926b-0aa8-4fec-7bf6-0ec265b7f9bd" /><entry id="UUID702bd7af-d901-44f2-6807-a25b5f1a22df" /></row></tbody></tgroup></table>
+        </problem>
+        <solution id="eip-idm1095261552">
+          <para id="fs-idp54452256">Poniższa tabela jest już wypełniona. Wiersz odpowiadający równowadze jest wyróżniony kursywą.</para>
+          <table summary="The table shows the completed table of data for a Keynesian cross diagram. Column 1 lists National Income. Column 2 lists After-Tax Income. Column 3 lists Consumption. Column 4 lists I+G+X. Column 5 lists Minus Imports. Column 6 lists Aggregate Expenditures. Row 1: $8,000 (in national income); $4,800 (in after-tax income); $4,340 (in consumption); $5,000 (in I+G+X); $240 (in minus imports); $9,100 (in aggregate expenditures). Row 2: $9,000 (in national income); $5,400 (in after-tax income); $4,820 (in consumption); $5,000 (in I+G+X); $270 (in minus imports); $9,550 (in aggregate expenditures). Row 3 (this row is italicized): $10,000 (in national income); $6,000 (in after-tax income); $5,300 (in consumption); $5,000 (in I+G+X); $300 (in minus imports); $10,000 (in aggregate expenditures). Row 4: $11,000 (in national income); $6,600 (in after-tax income); $5,780 (in consumption); $5,000 (in I+G+X); $330 (in minus imports); $10,450 (in aggregate expenditures). Row 5: $12,000 (in national income); $7,200 (in after-tax income); $6,260 (in consumption); $5,000 (in I+G+X); $360 (in minus imports); $10,900 (in aggregate expenditures). Row 6: $13,000 (in national income); $7,800 (in after-tax income); $46,740 (in consumption); $5,000 (in I+G+X); $4,390 (in minus imports); $11,350 (in aggregate expenditures)." id="Table_E_08" class="unnumbered"><tgroup cols="6" id="UUID1a0b297c-6b84-4185-7422-80f06f1618d4"><colspec colnum="1" colname="col1" id="UUID74ee9b97-d151-4b88-6e12-fe70634e004f" /><colspec colnum="2" colname="col2" id="UUIDdd692ed0-27d6-4f84-5787-c220c674b75b" /><colspec colnum="3" colname="col3" id="UUIDc640eec0-4a1d-450e-67e8-f9f2e1f28d4f" /><colspec colnum="4" colname="col4" id="UUID2f1b44fd-3530-4719-6fd3-a2cb07f785b8" /><colspec colnum="5" colname="col5" id="UUID61746b0c-b524-4168-4dc1-9811c4163b61" /><colspec colnum="6" colname="col6" id="UUID5931bdfd-187f-42e4-682f-3a6b5c73edaa" /><thead id="UUID017ba06f-3eb7-4338-546c-ecf3887e66b8"><row id="UUID6c08085a-5b70-481a-5097-161dab562894"><entry id="UUIDd2c7def2-6e7f-4d19-4040-986c14fd1071">Dochód narodowy</entry><entry id="UUID4aa30413-cc3b-4c61-51e8-da05269b9f3a">Dochód po oopdatkowaniu</entry><entry id="UUID8f62d6e9-4fe6-4781-6898-de63b2e22237">Konsumpcja</entry><entry id="UUIDede3f70b-70bb-4d82-6b73-1d355d96b282">I + G + X</entry><entry id="UUID59ed32ac-9125-4a0b-7a8c-32dd5c8b11af">Minus import</entry><entry id="UUIDa374c384-43f0-407d-6636-bd45b4e8e1ac">Wydatki zagregowane</entry></row></thead><tbody id="UUID8ab74bdb-c658-468b-52ec-159e67b49910"><row id="UUIDd95421bd-92dc-439a-4b0d-edb0e267e8f5"><entry id="UUIDeb249562-97bb-4d7a-6321-d5ed8ae034c1">8000</entry><entry id="UUIDb7f42d0f-4e9c-4bb4-53ae-f39a861e064c">4800</entry><entry id="UUIDbc683d5d-bc25-4e53-632b-3b2e159d089d">4340</entry><entry id="UUID57dd1ab6-664c-4e20-7429-9e302d9b2dd1">5000</entry><entry id="UUID134893b5-799e-41a9-7f33-4b29ee7f7912">240</entry><entry id="UUID4bd7c56b-07c8-4381-64a0-79c1ca56466a">9100</entry></row><row id="UUID5ade98b3-c423-45cf-59d4-029d6312cc8f"><entry id="UUID7f51a37f-c4dd-4a1a-464a-c9047e01f5f8">9000</entry><entry id="UUID3db7e99f-f167-40ef-7901-cc9e2843952c">5400</entry><entry id="UUIDa3c5d483-1d99-47af-6287-a34de5d90bb4">4820</entry><entry id="UUIDed0324a8-9e2e-4ebf-7b37-89cb3b69774a">5000</entry><entry id="UUID1c445a94-4ec8-442b-43f7-9691a6f5a40a">270</entry><entry id="UUID335f6c44-d57f-44be-5f5e-ea9b1ac0139e">9550</entry></row><row id="UUID3ef8baae-5d7a-46be-5804-0bef042c6b23"><entry id="UUID09b7924f-8baf-4e98-735d-5378383d8b25"><emphasis effect="italics">10.000</emphasis></entry><entry id="UUID059b5511-cedb-4d76-7ef6-84a776851390"><emphasis effect="italics">6000</emphasis></entry><entry id="UUIDece15da1-f6a8-4eda-64e5-237eba6555a7"><emphasis effect="italics">5300</emphasis></entry><entry id="UUID7e5218f7-8310-4673-49e0-35cca0363089"><emphasis effect="italics">5000</emphasis></entry><entry id="UUIDf7d5f392-2121-464c-4d94-09d30c10448d"><emphasis effect="italics">300</emphasis></entry><entry id="UUIDd45fdb9f-7dd0-406b-6b71-0e6d34b4b32d"><emphasis effect="italics">10.000</emphasis></entry></row><row id="UUID8571814a-abef-4fb8-43c4-484a42b47139"><entry id="UUIDdba0d9bc-2088-4d30-675e-ed6c579e1dac">11.000</entry><entry id="UUID958c2b74-547a-4a13-583e-30836fdb8208">6600</entry><entry id="UUID07208992-08ce-4b11-7e10-a14c370a47e1">5780</entry><entry id="UUID4bbe635f-f130-4b41-47c1-a018e345420e">5000</entry><entry id="UUIDe89ab690-f496-475a-42e3-e0fc3708e09a">330</entry><entry id="UUIDda1de6a4-223d-428a-7826-f01bce59a84b">10.450</entry></row><row id="UUID82e1cc06-622a-4041-466e-b56d5449d2eb"><entry id="UUID060cf928-143a-41ef-4dd3-af7459577885">12.000</entry><entry id="UUID25928945-aa85-4dfd-77af-3a89b9221792">7200</entry><entry id="UUID97940a19-973a-4dbb-4862-9fa4351d5196">6260</entry><entry id="UUIDe2585465-67d8-4221-538c-0db06a3965a7">5000</entry><entry id="UUIDb0234ffb-85d6-4cf5-4364-0de111f26d2a">360</entry><entry id="UUID9bcd21dc-cbd4-4c54-78ec-0e17d5cda32d">10.900</entry></row><row id="UUIDcd94bf5a-dddd-43f9-5fc4-e6cdd0c1764c"><entry id="UUIDe987dbc5-418d-4211-6ba2-33f21e28c1e7">13.000</entry><entry id="UUIDa0345720-c61c-4b2f-7cfd-6814775a68d9">7800</entry><entry id="UUID4448b7b1-4b20-4073-67d8-ac2e1bfeeab6">6240</entry><entry id="UUID506cd783-5fdd-4b18-6ed6-c973550aa8e7">5000</entry><entry id="UUID39aeb29b-b6fd-405a-4ea6-db6a4646fadf">4390</entry><entry id="UUIDfb5724db-4ee8-48ef-65f9-6c6af49ad867">11.350</entry></row></tbody></tgroup></table>
+          <para id="fs-idp17850128">Alternatywnym sposobem wyznaczenia równowagi jest obliczenie Y (Y = dochód narodowy), przy wykorzystaniu równania: Y = AE = C + I + G + X – M</para>
+          <equation id="fs-idp8303616" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>Y = 500 dol. + 0,8(Y – T) + 2,000 dol. + 1,000 dol. + 2,000 dol. – 0,05(Y – T)</mtext></math></equation>
+          <para id="fs-idp120074224">Po obiczeniach widzimy, że równowaga zachodzi przy produkcji równej Y = 10.000.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idm51414432">
+        <problem id="fs-idp36269408">
+          <para id="fs-idm58740736">Wyjaśnij, jak działa mnożnik. W przykładzie wykorzystaj MPC równe 80%.</para>
+        </problem>
+        <solution id="eip-idm368923616">
+          <para id="fs-idm48927152">Mnożnik mówi o tym, ile razy ten sam dolar będzie się obracał w gospodarce. Wartość mnożnika opiera się na krańcowej skłonności do konsumpcji (MPC), która mówi, ile zostanie wydane z każdego otrzymanego dolara. Jeśli MPC wynosi 80%, to z każdego otrzymanego dolara zostanie wydane 0,80 dol. Te 0,80 dol. otrzymuje jakaś inna osoba. Następnie 80% z otrzymanych 0,80 dol., czyli 0,64 dol., zostanie wydane i tak dalej. Wpływ mnożnika jest osłabiony, gdy weźmie się pod uwagę wpływ podatków i wydatków na import. Aby wyprowadzić mnożnik, użyj wzoru 1/1 – F; gdzie F jest równy odsetkowi oszczędności, podatków i wydatków na import.</para>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp25359600">
+      <title id="UUID7df9e25a-a9b6-49bd-53a7-2c7fb02b2c54">Review Questions</title>
+      <exercise id="fs-idm79901872">
+        <problem id="fs-idp75090816">
+          <para id="fs-idm13787520">Co przedstawione jest na osiach wykresu wydatki-produkcja?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp25016784">
+        <problem id="fs-idp45604352">
+          <para id="fs-idm61271840">Co pokazuje linia 45 stopni?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm138457344">
+        <problem id="fs-idm26347136">
+          <para id="fs-idm152264768">Co określa nachylenie krzywej konsumpcji?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm74197392">
+        <problem id="fs-idm36794000">
+          <para id="fs-idm134375408">Czym jest krańcowa skłonność do konsumpcji i jaki jest jej związek z krańcową skłonnością do importu?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm127385424">
+        <problem id="fs-idm113965024">
+          <para id="fs-idm16119136">Dlaczego funkcja inwestycji, funkcja wydatków rządowych i funkcja eksportu mają postać funkcji stałych?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm64413616">
+        <problem id="fs-idm105485280">
+          <para id="fs-idm835392">Dlaczego funkcja importu jest malejąca? Czym jest krańcowa skłonność do importu?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm88940368">
+        <problem id="fs-idm92619280">
+          <para id="fs-idm21869904">Jakie są elementy składowe zagregowanej funkcji wydatków?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm45994336">
+        <problem id="fs-idm91519024">
+          <para id="fs-idm141607520">Czy zwykle oczekuje się, że równowaga na wykresie krzyża keynesowskiego będzie równa lub zbliżona do potencjalnego PKB?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm22321328">
+        <problem id="fs-idm74265904">
+          <para id="fs-idm73707968">Co to jest luka inflacyjna? A luka recesyjna?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm133612560">
+        <problem id="fs-idm113049072">
+          <para id="fs-idm112766048">Co to jest efekt mnożnikowy?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm80722880">
+        <problem id="fs-idm115802032">
+          <para id="fs-idp58003584">Dlaczego przy obliczaniu efektu mnożnikowego oszczędności, podatki i import są określane jako „wycieki" lub „odpływy”?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm149136112">
+        <problem id="fs-idm112577152">
+          <para id="fs-idm114992544">Czy gospodarka z wysokim mnożnikiem będzie bardziej czy mniej stabilna niż gospodarka z niskim mnożnikiem w odpowiedzi na zmiany w gospodarce lub polityce rządu?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm13833696">
+        <problem id="fs-idp43698608">
+          <para id="fs-idp15811184">W jaki sposób ekonomiści wykorzystują mnożnik?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idp42244400">
+      <title id="UUID29f739fc-613a-40cf-4c71-38bff0b23cb5">Critical Thinking Questions</title>
+      <exercise id="fs-idp80373680">
+        <problem id="fs-idm14166832">
+          <para id="fs-idp31116096">Co to oznacza, gdy zagregowana linia wydatków przecina linię 45 stopni? Innymi słowy, jak wytłumaczyłbyś to przecięcie słowami?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp114039152">
+        <problem id="fs-idp1960272">
+          <para id="fs-idp91711296">Który model, model AD/AS czy model AE, lepiej wyjaśnia związek między rosnącymi poziomami cen a PKB? Dlaczego?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm23999840">
+        <problem id="fs-idp166979088">
+          <para id="fs-idp110794320">Jakie są powody, dla których gospodarka może znaleźć się w recesji, i jakie są odpowiednie działania rządu w celu złagodzenia recesji?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp2089232">
+        <problem id="fs-idp61072352">
+          <para id="fs-idp89291088">Co powinien zrobić rząd, aby złagodzić presję inflacyjną, jeśli zagregowane wydatki są większe niż potencjalny PKB?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm106546784">
+        <problem id="fs-idm6490464">
+          <para id="fs-idp118466352">Dwa kraje są w recesji. Kraj A ma MPC na poziomie 0,8, zaś kraj B ma MPC na poziomie 0,6. W którym kraju wydatki rządowe będą miały większy wpływ?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp78566736">
+        <problem id="fs-idp185583440">
+          <para id="fs-idp53080464">Porównajmy dwie polityki: obniżkę podatku dochodowego lub zwiększenie wydatków rządowych na drogi i mosty. Jakie są krótko- i długoterminowe skutki takiej polityki dla gospodarki?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp54455776">
+        <problem id="fs-idp77543136">
+          <para id="fs-idp6093904">Jaką rolę odgrywa rząd w stabilizowaniu gospodarki i jakie kompromisy należy wziąć pod uwagę?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp54769648">
+        <problem id="fs-idp80173808">
+          <para id="fs-idm15621280">Jeśli istnieje luka recesyjna w wysokości 100 miliardów dolarów, czy rząd powinien zwiększyć wydatki o 100 miliardów dolarów, aby ją zlikwidować? Dlaczego?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idp205780976">
+        <problem id="fs-idp128186656">
+          <para id="fs-idp33090288">Jakie inne zmiany w gospodarce można ocenić za pomocą mnożnika?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm177373968">
+      <title id="UUID59b4873b-e2bb-45b6-78a1-ec62e6917171">References</title>
+      <para id="fs-idm86188144">Joyner, James. Outside the Beltway. “Public Financing of Private Sports Stadiums.” Last modified May 23, 2012. http://www.outsidethebeltway.com/public-financing-of-private-sports-stadiums/.</para>
+      <para id="fs-idm135677488">Siegfried, John J., and Andrew Zimbalist. “The Economics of Sports Facilities and Their Communities.” <emphasis effect="italics">Journal of Economic Perspectives</emphasis>. no. 3 (2000): 95-114. http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.14.3.95.</para>
+    </section>
+  </content>
+</document>

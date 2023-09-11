@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U6ba9a94b-5698-4d4f-b7dd-10e1419715fe" id="U6ba9a94b-5698-4d4f-b7dd-10e1419715fe" xml:lang="en" cnxml-version="0.7" class="introduction">
-  <title>Introduction to the Aggregate Supply–Aggregate Demand Model</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U6f15e72c-2804-482e-bee1-b9ff3e4be171" id="U6f15e72c-2804-482e-bee1-b9ff3e4be171" xml:lang="en" cnxml-version="0.7">
+  <title>5.6 Różnica między saldem bilansu a poziomem wymiany handlowej</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00030</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/6ba9a94b-5698-4d4f-b7dd-10e1419715fe</md:content-url>
-    <md:title>Introduction to the Aggregate Supply–Aggregate Demand Model</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/6f15e72c-2804-482e-bee1-b9ff3e4be171</md:content-url>
+    <md:title>5.6 Różnica między saldem bilansu a poziomem wymiany handlowej</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:03.874665613+00:00</md:version>
-    <md:created>2023-08-30T08:02:03.874665613+00:00</md:created>
-    <md:revised>2023-08-30T08:02:03.874665613+00:00</md:revised>
+    <md:version>2023-09-11T10:25:05.236551436+00:00</md:version>
+    <md:created>2023-09-11T10:25:05.236551436+00:00</md:created>
+    <md:revised>2023-09-11T10:25:05.236551436+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,56 +20,123 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>6ba9a94b-5698-4d4f-b7dd-10e1419715fe</md:uuid>
+    <md:uuid>6f15e72c-2804-482e-bee1-b9ff3e4be171</md:uuid>
   </metadata>
   <content>
-    <figure id="CNX_Econ_C24_000" class="splash">
-      <title id="UUIDa0d48fa6-f585-4c54-57eb-60c35ab03566">Budowa domu</title>
-      <media alt="Zdjęcie przedstawia budowę dużego domu." id="mCNX_Econ_C24_000">
-        <image src="../../media//CNX_Econ_C24_000.jpg" mime-type="image/jpeg" id="UUID9f905dd4-02ee-464a-7079-8872430d8cc3" />
-      </media>
-      <caption id="UUIDa63cdfda-0200-4c8b-4e17-0e01b6349da1">W szczycie bańki na rynku nieruchomości w Stanach Zjednoczonych bardzo wiele osób było w stanie uzyskać kredyt hipoteczny pozwalający na sfinansowanie zakupu nowego domu. (Źródło: modyfikacja pracy Tima Pierce’a/Flickr Creative Commons).</caption>
-    </figure>
-    <note type="note" id="ch24mod00_bring" class="bringhome economics">
-      <title id="UUIDdc194ccf-fcc2-43f0-6684-25458c0b1ebf">Od bańki do krachu na amerykańskim rynku nieruchomości</title>
-      <para id="ch24mod00_p02">Liczba mieszkańców Stanów Zjednoczonych posiadających domy na własność, począwszy od lat 90. XX w. systematycznie rosła, co rzecz jasna oznaczało rozwój rynku nieruchomości w tym kraju. Tylko w latach 2004–2005 odsetek właścicieli domów w amerykańskim społeczeństwie wzrósł o ponad 5 punktów procentowych, z mniej więcej 64% do ponad 69%. Wiele osób mogło sobie wtedy kupić swój pierwszy dom lub stać się właścicielami nieruchomości większych i droższych niż dotychczas. W tym samym okresie wartość kredytów hipotecznych się potroiła. Mieszkania, uznane za bezpieczną inwestycję finansową, stały się bardziej dostępne dla Amerykanów. <link target-id="CNX_Econ_C24_017" id="UUID7d86cdaf-8393-4d38-40c9-182d81a96da7" /> wskazuje, że w ciągu ostatnich 60 lat sprzedaż nowych domów jednorodzinnych osiągnęła szczytową wartość w roku 2005 (1279 tys.).</para>
-      <figure id="CNX_Econ_C24_017">
-        <title id="UUIDd36771fd-d4d1-4823-5052-6d4c0d53b1e4">Wolumen sprzedaży nowych domów jednorodzinnych w USA</title>
-        <media alt="Wykres pokazuje, że w ciągu ostatnich 60 lat (tj. od 1963 r.) wielkość sprzedaży nowych domów jednorodzinnych najwyższa była w roku 2005, osiągając poziom 1279 tys. Jednak już w kolejnym roku wielkość ta zaczęła drastycznie spadać, do minimalnego poziomu 306 tys. w roku 2011. Począwszy od 2012 r., sprzedaż nowych domów jednorodzinnych ponownie zaczęła rosnąć." id="mCNX_Econ_C24_017">
-          <image src="../../media//CNX_Econv1-2_C24_02.svg" mime-type="image/svg+xml" id="UUID50444fed-f8a3-4812-7199-16bf28d2c578" />
-        </media>
-        <caption id="UUID22d7dbb0-336c-41e5-7923-907a34b9f40f">Od początku lat 90. XX w. do 2005 r. liczba nowych domów jednorodzinnych sprzedawanych w USA systematycznie rosła. W 2006 r. sprzedaż się załamała i ten trend utrzymywał się aż do roku 2011. Począwszy od roku 2012, sprzedaż nowych domów jednorodzinnych ponownie zaczęła rosnąć i tendencji tej nie zahamowała nawet pandemia COVID-19. (Źródło: US Census Bureau).</caption>
-      </figure>
-      <para id="UUID0bbf1070-e5a3-439e-7c6a-5cdc5b99d067">Boom (nazywany potocznie bańką) na amerykańskim rynku nieruchomości zakończył się w roku 2005 (popularnie mówiąc, w tym właśnie roku bańka zaczęła pękać). Narastały zaległości i opóźnienia w spłatach kredytów hipotecznych, a na rynku pojawiła się nadwyżka podaży nowych domów nad popytem na to specyficzne dobro. Spadek wartości domów, będący konsekwencją nadwyżki ich podaży, przyczynił się do zmniejszenia majątku sektora gospodarstw domowych i doprowadził do obniżenia wydatków konsumpcyjnych ich właścicieli. Kilka instytucji udzielających kredytów hipotecznych zbankrutowało, bo właściciele domów przestali spłacać zaciągnięte wcześniej kredyty. Do 2008 r. negatywne skutki gwałtownego odwrócenia trendu na rynku nieruchomości rozlały się na cały rynek finansowy. Banki ograniczyły skalę działalności kredytowej i bańka nieruchomościowa ostatecznie pękła. Rynki finansowe znalazły się w kryzysie, a banki nie mogły lub nie chciały udzielać kredytów nawet klientom posiadającym zdolność kredytową.</para>
-      <para id="UUIDa09aa509-bf3d-4c13-5da2-27e875160cfd">Bańka na rynku nieruchomości i kryzys na rynkach finansowych były głównymi przyczynami globalnego kryzysu z lat 2008–2012, który doprowadził w USA do wzrostu stopy bezrobocia powyżej 10% i spadku nie tylko dynamiki wzrostu, ale wręcz poziomu PKB (przypomnijmy, że w tym samym okresie Polska pozostała jedynym krajem UE, któremu udało się zachować dodatnie tempo wzrostu gospodarczego – na przełomie pierwszej i drugiej dekady XXI w. byliśmy „zieloną wyspą”). Przezwyciężenie skutków tego kryzysu zajęło Stanom Zjednoczonym wiele lat, a przywrócenie stabilności rynków finansowych zostało osiągnięte m.in. dzięki aktywnej polityce fiskalnej i pieniężnej.</para>
-      <para id="UUID1718beda-e2ad-4b4f-633a-eff48fa6effc">Historia Stanów Zjednoczonych pokazuje, że wzrost gospodarczy tego kraju, podobnie zresztą jak większości gospodarek kapitalistycznych, odbywał się w sposób cykliczny, zaś okresy ekspansji i recesji przeplatały się ze sobą. Niektóre z tych recesji były niezwykle głębokie, tak jak kilkuletnie załamanie gospodarcze w latach 30. XX w. Dlaczego gospodarka wykazuje różne tempo wzrostu w różnych latach? Jakie są przyczyny cyklicznych wahań koniunktury? W tym rozdziale przedstawimy kluczowy dla zrozumienia zmienności kierunków i dynamiki zmian poziomu PKB model, tj. model popytu globalnego i podaży globalnej (model AD-AS).</para>
-    </note>
-    <para id="UUIDfdfc5c00-364c-4fcf-78cc-1999cbaa3ef5" />
-    <note type="note" id="ch24mod00_obj" class="chapter-objectives economics">
-      <title id="UUIDb633f4c2-5a1a-4a7d-6433-af6b94bb68ba">Wprowadzenie do modelu popytu globalnego i podaży globalnej (modelu AD-AS)</title>
-      <para id="ch24mod00_p01">Dzięki lekturze tego rozdziału dowiesz się:</para>
-      <list id="ch24mod00_list01">
-        <item id="UUID5c64b851-4bef-4f27-75c9-0907a7089ffb">
-          <para id="UUID0a41916c-d458-4e98-7329-86e30b3b1574">W jaki sposób makroekonomiści postrzegają popyt i podaż</para>
+    <note type="note" id="UUID704d5026-8945-iu74-7c527b82d03b3911" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID558766d7-a778-42e9-6921-c0c4baa98776">
+          <para id="UUIDf507a756-cec9-4098-4b65-94d741e852e7">Zidentyfikować trzy czynniki, które wpływają na rozmiary wymiany handlowej z zagranicą</para>
         </item>
-        <item id="UUID2c4acc65-c1e1-4fae-5d66-7d2c6b0ff9d7">
-          <para id="UUID2cb2bd53-26c1-4307-4a91-34202b12f8ae">Jak skonstruowany jest model wykorzystujący popyt i podaż globalną (model AD-AS)</para>
-        </item>
-        <item id="UUID1afb0420-c03a-4e48-47d3-390dca749846">
-          <para id="UUIDcb881a51-df75-4c61-7995-92d4eca20039">Jakie czynniki powodują przesunięcie funkcji podaży globalnej</para>
-        </item>
-        <item id="UUID5fa65a72-913c-4ffb-627a-e1020d6ab691">
-          <para id="UUID4dfdd286-be89-43b5-7674-3e5699d1d1b8">Jakie zmienne determinują położenie krzywej popytu globalnego</para>
-        </item>
-        <item id="UUID212e99d8-b033-4666-487a-1d8052216d7d">
-          <para id="UUID0fe809e3-54c9-437c-4ec9-44891542fd17">W jaki sposób włączyć do modelu AD-AS zjawiska wzrostu gospodarczego, bezrobocia i inflacji</para>
-        </item>
-        <item id="UUIDbae0cda3-13b2-4e7b-4b5b-5193e5fbd5c5">
-          <para id="UUIDe470368f-fb5e-408d-66f3-7afddda52a63">Czym są prawo rynków Keynesa i prawo rynków Saya</para>
+        <item id="UUID63271098-055e-4c59-5d23-335781611f68">
+          <para id="UUIDd8a745a0-2528-4540-716d-6c7d97541fb2">Rozróżniać saldo bilansu handlowego i rozmiary (poziom) wymiany handlowej</para>
         </item>
       </list>
     </note>
-    <para id="UUID2b27f966-265e-48c2-73b9-b01487ccf795">Podobnie jak to ma miejsce w mikroekonomii, również makroekonomiści do analizy interesujących ich problemów wykorzystują modele. Jaka jest zależność pomiędzy tempem wzrostu gospodarczego i stopą bezrobocia? Czy istnieje powód, dla którego między bezrobociem a inflacją może występować relacja wymienna (relacja typu „coś za coś”), co oznacza, że parametry te zmieniają się w przeciwnych kierunkach (np. w Stanach Zjednoczonych w latach 1997–2000 – spadek bezrobocia i wzrost inflacji; na początku XXI w. – wzrost bezrobocia i spadek inflacji; po roku 2009 – ponownie wzrost bezrobocia i spadek inflacji)? Dlaczego amerykański deficyt na rachunku obrotów bieżących na początku XXI w. osiągnął tak gigantyczne rozmiary, a następnie, w roku 2009, gwałtownie spadł?</para>
-    <para id="ch24mod00_p07">Aby znaleźć odpowiedź na tego typu pytania, musimy odejść od analizy konkretnych zdarzeń w gospodarce i skonstruować modele, które pomogą nam uchwycić charakter zależności i powiązań pomiędzy różnymi parametrami makroekonomicznymi. Konstrukcja i sposób funkcjonowania modeli makroekonomicznych będą przedmiotem rozważań kolejnych trzech rozdziałów podręcznika. Zaczniemy od przedstawienia makroekonomicznego modelu popytu globalnego i podaży globalnej, nazywanego również modelem AD-AS (od angielskich określeń <emphasis effect="italics"><emphasis effect="bold">a</emphasis>ggregate</emphasis> <emphasis effect="italics"><emphasis effect="bold">d</emphasis>emand i</emphasis> <emphasis effect="italics"><emphasis effect="bold">a</emphasis>ggregate</emphasis> <emphasis effect="italics"><emphasis effect="bold">s</emphasis>upply</emphasis>). W niniejszym rozdziale zostanie również omówione wzajemne oddziaływanie popytu globalnego i podaży globalnej, sposób ustalania równowagi makroekonomicznej oraz wpływ zmian popytu i podaży globalnej na równowagę w gospodarce. Przedstawiony model stanie się poręcznym narzędziem oceny prowadzonej przez państwa polityki gospodarczej w zakresie trzech obszarów (celów) – wzrostu gospodarczego, bezrobocia i inflacji. Spróbujemy również określić, na ile cele te pozostają ze sobą w relacji substytucyjnej (innymi słowy wymiennej: albo jeden, albo drugi), a na ile komplementarnej (inaczej mówiąc uzupełniającej się: jeśli jeden to i drugi). W kolejnym <link document="m00037" cmlnle:case="locative" id="UUID20824ae2-7bb0-46a1-4f01-befe85228b48" /> wprowadzony zostanie model opisujący sposób dostosowań gospodarki w krótkim okresie, czyli model keynesowski, w ramach którego kluczowe znacznie ma popyt globalny (stąd wykorzystywana niekiedy inna nazwa – model popytowy). W następnym zaś, <link document="m00042" cmlnle:case="locative" id="UUIDa904bba4-affe-4685-63cb-98597dbd57c2" />, przeanalizujemy model klasyczny, przedstawiający sposób funkcjonowania gospodarki w długim okresie, kiedy kluczową rolę odgrywa podaż globalna (stąd alternatywna nazwa tego modelu – ekonomia podażowa).</para>
+    <para id="UUIDe4026de2-a44c-4577-65e4-8ef63c67dff1">Rozmiary (lub poziom) wymiany handlowej danego kraju mogą na pierwszy rzut oka wydawać się parametrem bardzo podobnym do salda bilansu handlowego, ale logika szacowania obu wielkości jest w rzeczywistości odmienna. Rozmiary wymiany handlowej mierzymy, wykorzystując relację wartości eksportu dóbr i usług do PKB danego kraju. Oznacza to, że konkretna gospodarka może mieć bardzo wysoki poziom wymiany handlowej (nawet powyżej 50% PKB, jak w przypadku Polski) i jednocześnie zrównoważone saldo bilansu handlowego (eksport i import są sobie równe). Rozmiary wymiany handlowej wskazują na to, jak dużą część swojej produkcji konkretny kraj eksportuje. Możliwe jest zatem i to, że w przypadku danej gospodarki sprzedaż dóbr i usług za granicę ma stosunkowo niski udział w PKB w porównaniu ze średnimi światowymi, ale nierównowaga między jej eksportem a importem jest dość duża, co może oznaczać pokaźną nadwyżkę lub równie wysoki deficyt. Rozróżnienie to było przedmiotem naszych rozważań w <link document="m00025" cmlnle:case="locative" id="UUID877134a8-c343-43f5-4041-7a55a65da928" />, który zawierał zestawienie danych ilustrujących zarówno rozmiary wymiany handlowej, jak i saldo bilansu handlowego.</para>
+    <para id="UUIDe60b2e35-7c52-487a-762a-c62a7726843d">Jeśli poziom wymiany handlowej danego kraju informuje nas o tym, jaką część swojej produkcji wysyła on za granicę, to parametr ów możemy traktować jako swojego rodzaju przybliżenie skali globalizacji danej gospodarki. Państwa takie jak Niemcy i Polska mają bardzo wysokie rozmiary wymiany handlowej, eksportując ok. 50% swojej produkcji. Możemy powiedzieć, że gospodarki te są mocno zaangażowane w globalną wymianę handlową. Natomiast saldo bilansu handlowego niesie ze sobą informację o tym, czy dana gospodarka ma nadwyżkę handlową, czy deficyt. Konkretny kraj może cechować się relatywnie ograniczonym poziomem wymiany handlowej i jednocześnie bardzo wysokim deficytem. Na przykład Stany Zjednoczone eksportują dobra i usługi o wartości ok. 10% PKB, ale wykazują deficyt handlowy w wysokości ponad 600 mld dol.</para>
+    <para id="UUIDc7cedaed-42c0-466e-63c2-070d71627ea4">Spośród czynników, które determinują rozmiary wymiany handlowej, należy wskazać trzy najważniejsze: wielkość gospodarki, położenie geograficzne i historię wymiany handlowej. Duże gospodarki, takie jak Stany Zjednoczone, mogą w większej mierze wykorzystywać rynek wewnętrzny. Z kolei małe w skali globalnej gospodarki, takie jak Polska i Szwecja, muszą eksportować część produkcji, aby w pełni wykorzystać swój potencjał i korzyści skali. Relacja ich importu i eksportu do PKB będzie zatem większa. Sąsiadujące kraje zwykle mają większą wymianę handlową, ponieważ koszty transportu i komunikacji są relatywnie niższe (pomyśl w tym kontekście o Polsce i Niemczech). Niektóre gospodarki mają także silnie ugruntowane i wieloletnie doświadczenia w handlu zagranicznym (Szwajcaria, państwa Beneluksu).</para>
+    <para id="UUID6940f051-d310-412c-7aeb-f905f1158deb">W rezultacie relatywnie mała gospodarka, taka jak Polska, z wieloma partnerami handlowymi w całej Europie, ma bardzo wysoki poziom wymiany handlowej. Zwróć uwagę na fakt, że kontekst historyczny traci na znaczeniu wraz z przyłączeniem danego państwa do takiej organizacji jak UE, dzięki czemu możliwe jest włączenie przedsiębiorstw z danego kraju w globalne łańcuchy wartości. Polskie przedsiębiorstwa eksportują swoje dobra i usługi, które są nakładem w ramach procesów produkcyjnych globalnych koncernów, takich jak firmy lotnicze i motoryzacyjne. Z kolei Brazylia i Indie, a więc gospodarki dość duże, które często starały się ograniczać skalę wymiany handlowej w ciągu ostatnich kilkudziesięciu lat, mają niższy poziom wymiany handlowej. Stany Zjednoczone i Japonia to jedne z największych gospodarek w skali globalnej, mające bardzo ograniczoną liczbę partnerów handlowych w bezpośrednim sąsiedztwie. W konsekwencji oba kraje notują dość niski poziom wymiany handlowej w porównaniu z globalnymi standardami. Relacja ich eksportu do PKB jest na poziomie o połowę niższym niż średnia dla wszystkich gospodarek świata.</para>
+    <para id="UUID10848847-7244-4c1e-488e-84afa076a472">Saldo bilansu handlowego jest czymś innym niż rozmiary wymiany handlowej. Stany Zjednoczone mają niewielki poziom wymiany handlowej, ale przez większą część ostatnich 40 lat notowały gigantyczne deficyty bilansu handlowego. Z kolei Japonia, kraj o niskich, według światowych standardów, rozmiarach wymiany handlowej, w ostatnich dziesięcioleciach potrafiła wypracowywać nadwyżkę w bilansie handlowym. Niemcy i Wielka Brytania osiągają średnie lub wysokie rozmiary wymiany handlowej, ale w 2020 r. Niemcy zanotowały umiarkowaną nadwyżkę handlową, podczas gdy Wielka Brytania w tym samym roku importowała więcej, niż eksportowała. Jeszcze pod koniec XX w. ich saldo w bilansie handlowym było jednak bardzo zbliżone. Polska w 2020 r. miała pokaźne rozmiary wymiany handlowej i umiarkowaną nadwyżkę w bilansie handlowym, podczas gdy Kanada przy równie wysokim poziomie wymiany handlowej w tym samym okresie zanotowała umiarkowany deficyt.</para>
+    <para id="UUID91494fa3-8582-4be5-7c9d-caed0991163c">Krótko mówiąc, jest całkiem prawdopodobne, że kraje o stosunkowo niskiej relacji eksportu do PKB, czyli niewielkich rozmiarach wymiany handlowej, mają stosunkowo wysokie deficyty bilansu handlowego. Możliwe jest również i to, że kraje z niemalże zrównoważonym poziomem eksportu i importu będą się niepokoić konsekwencjami wysokich rozmiarów wymiany handlowej. Rozsądne wydaje się założenie, zgodnie z którym wysoki poziom wymiany handlowej jest potencjalnie korzystny dla gospodarki, gdyż umożliwia wykorzystanie przewag komparatywnych. Nie ma również nic dziwnego w obawach przed narastającym brakiem stabilności makroekonomicznej związanej z utrzymywaniem się w danym kraju wysokich deficytów bilansu handlowego w długim okresie. Poniższa <link target-id="fs-idm158149456" id="UUID7d300221-74ad-46c8-7786-e72fd7a57937" /> pokazuje, w jaki sposób tego rodzaju problemy dotykały kolonialne Indie w XIX i XX w.</para>
+    <note type="note" id="fs-idm158149456" class="clearup economics">
+      <title id="UUIDbfc51140-d3b9-49a9-5613-b5bb29f12913">Czy nadwyżki w bilansie handlowym są zawsze korzystne? Przykład kolonialnych Indii</title>
+      <para id="UUIDa98b385e-0df6-4a44-405a-41fae208649a">Indie znajdowały się pod formalną brytyjską zwierzchnością od roku 1858 do 1947. W tym czasie niezmiennie wykazywały nadwyżki w handlu z Wielką Brytanią. Każdy, kto uważa, że nadwyżki handlowe są oznaką siły i dominacji gospodarczej, a deficyty handlowe symptomem gospodarczej słabości, musi uznać tę prawidłowość za dziwną, ponieważ oznaczałoby to, że kolonialne Indie zdominowały i wykorzystywały Wielką Brytanię przez prawie 100 lat, co przecież byłoby tezą absurdalną.</para>
+      <para id="UUIDea1bcac8-bf01-45f0-7fa7-6271dbabe425">Zamiast tego nadwyżki w handlu Indii z Wielką Brytanią należy postrzegać jako przepływ kapitału finansowego z kolonii do metropolii. W Indiach wiele osób zaangażowanych w sprawy publiczne krytykowało to zjawisko, nazywając je drenażem finansowym, a wyeliminowanie tego odpływu uznawało za jedną z wielu korzyści, jakie przyniosłoby Indiom uzyskanie niepodległości.</para>
+    </note>
+    <section id="fs-idm136851296">
+      <title id="UUID1c50ca32-8977-487a-47eb-16ebe59a7a22">Końcowe refleksje na temat bilansów handlowych</title>
+      <para id="UUID36b09636-2357-4484-77bb-cbcbcf8a317f">Tak jak deficyty salda bilansu handlowego mogą być dla gospodarki zarówno korzystne, jak i niekorzystne, tak też nadwyżki bywają dla niej dobrym lub złym sygnałem. Co więcej, także zerowy bilans handlowy – co po prostu oznacza, że dany kraj nie jest ani pożyczkobiorcą, ani pożyczkodawcą netto w gospodarce międzynarodowej – może sprzyjać rozwojowi gospodarczemu albo oddziaływać nań negatywnie. Najważniejszą kwestią pozostaje bowiem nie to, czy kraj pożycza pieniądze z zagranicy (deficyt), czy też udziela pożyczek na rynku międzynarodowym (nadwyżka), ale pytanie o to, czy biorąc pod uwagę określoną kondycję danej gospodarki, należy pożyczki zaciągać, czy raczej ich udzielać.</para>
+      <para id="UUIDc7f7806e-c96f-42ef-6845-176c73f9bc1c">Warto się zastanowić, w jaki sposób zmieniłoby się społeczne nastawienie do deficytów i nadwyżek bilansu handlowego, gdybyśmy zmienili język opisu tego fragmentu rzeczywistości gospodarczej. Czy reakcja opinii publicznej nie byłaby znacznie bardziej przychylna, gdybyśmy nie pisali o deficycie, tylko o „zachęcaniu zagranicznego kapitału finansowego do inwestycji”, co oczywiście oznacza to samo? I odwrotnie, czy nadwyżki nie straciłyby co najmniej części ze swojej medialnej atrakcyjności, gdybyśmy – zgodnie z prawdą – opisywali je jako „wysyłanie kapitału finansowego poza granice kraju”? Tak czy inaczej, kluczem do zrozumienia przyczyn, korzyści i ryzyk wiążących się ze zróżnicowaniem salda bilansu handlowego (możliwością występowania nadwyżek i deficytów) jest świadomość, że międzynarodowe przepływy dóbr i usług zawsze związane są z przepływem kapitału finansowego w przeciwnym kierunku. Pierwszym krokiem w ramach tego procesu jest wyjście poza odruchowe reakcje na terminy, takie jak: „nadwyżka handlowa”, „bilans handlowy” i „deficyt handlowy”.</para>
+      <note type="note" id="fs-idm103286864" class="bringhome economics">
+        <title id="UUID90818141-a69c-4a93-7084-4ae288110b08">Więcej, niż widać na pierwszy rzut oka w Kongu</title>
+        <para id="UUIDf5d418df-9aab-439b-6999-61135f9ceaea">Teraz, gdy dysponujesz już znacznie szerszą perspektywą, bez wątpienia zdajesz sobie sprawę z tego, że wszystkie decyzje ekonomiczne, które podejmujesz, np. zakupu importowanych produktów, sposób lokowania oszczędności lub inwestowanie w międzynarodowym funduszu inwestycyjnym, mają wpływ zarówno na przepływy towarów i usług, jak i kapitału finansowego na całym świecie.</para>
+        <para id="UUID6ec8adfe-458e-4421-74de-1d61ab76aaae">Wiesz już, że sam fakt istnienia nadwyżki bilansu handlowego dostarcza niewielu informacji na temat kondycji danej gospodarki. Demokratyczna Republika Konga zanotowała w 2013 r. nadwyżkę handlową, o czym dowiedzieliśmy się na początku niniejszego rozdziału. Jednak saldo na rachunku obrotów bieżących było już ujemne i zamknęło się kwotą -2,8 mld dol. Normalizacja sytuacji politycznej i proces odbudowy kraju po wojnie domowej przełożyły się na napływ do Konga inwestycji i kapitału finansowego. W tym przypadku ujemne saldo na rachunku obrotów bieżących oznaczało przyspieszenie tempa odbudowy kraju, dlatego było zjawiskiem korzystnym.</para>
+      </note>
+    </section>
+    <section id="fs-idm119678800" class="summary">
+      <title id="UUID3cc7ff60-7981-4cf4-67aa-fa8e6ab90bea">Key Concepts and Summary</title>
+      <para id="UUID859738d2-6b66-47ba-53e7-48480871c1c5">Rozmiary wymiany handlowej i saldo bilansu handlowego to pojęcia, których interpretacje bardzo się od siebie różnią. Poziom wymiany handlowej gospodarki mierzony jest relacją eksportu do PKB. Małe w skali globalnej gospodarki, które w bezpośrednim sąsiedztwie mają licznych partnerów handlowych i długą historię handlu międzynarodowego, będą miały raczej wyższy poziom wymiany handlowej w porównaniu z największymi krajami, pozostającymi we względnej izolacji i z relatywnie krótką historią handlu zagranicznego. Saldo bilansu handlowego kraju to różnica między jego eksportem a importem wyrażona w jednostkach pieniężnych (złotych, dolarach).</para>
+      <para id="UUID43ad8ded-a900-4f8d-510b-348272a9ba34">Zarówno deficyt, jak i nadwyżka w bilansie handlowym mogą być dla gospodarki – zależnie od okoliczności – korzystne lub nieść ze sobą negatywne konsekwencje. Jeśli dany kraj notuje deficyt, ale dzięki temu zaciąga na międzynarodowym rynku finansowym pożyczki i inwestuje je w projekty zwiększające produktywność gospodarki, może w ten sposób zwiększyć dynamikę wzrostu i rozwoju w długim okresie.</para>
+    </section>
+    <section id="fs-idp43002800" class="self-check-questions">
+      <title id="UUID989a220d-4743-4812-5b37-bb0ea21d9408">Self-Check Questions</title>
+      <exercise id="fs-idp48233616">
+        <problem id="fs-idm3381792">
+          <para id="fs-idm33187936">Stany Zjednoczone eksportują ok. 10% PKB, podczas gdy Polska ok. 50% swojego PKB. Zinterpretuj te dane.</para>
+        </problem>
+        <solution id="fs-idm47375344">
+          <para id="fs-idp65414320">Polska ma wyższe rozmiary wymiany handlowej niż Stany Zjednoczone, które dysponują znacznie większym rynkiem wewnętrznym, co jest główną przyczyną tej różnicy.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp24767152">
+        <problem id="fs-idp81990720">
+          <para id="fs-idm24414288">Wyjaśnij krótko, czy przedstawione poniżej uwarunkowania z większym prawdopodobieństwem prowadzą do wzrostu rozmiarów wymiany handlowej w gospodarce, czy też narastania nierównowagi bilansu handlowego.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp80638992">
+            <item id="UUIDb2bdaf41-7e35-4541-7e6c-2619b69fa240">
+              <para id="UUID9c0b0e9f-85f1-4913-6c3a-508e79e23c26">Liczba ludności danego kraju</para>
+            </item>
+            <item id="UUID569f04e1-2861-46da-6d18-c16ad66ab17d">
+              <para id="UUID2df92d72-d4ca-4dd4-4252-9525f409968f">Znaczna dodatnia różnica pomiędzy krajową stopą oszczędności i inwestycji</para>
+            </item>
+            <item id="UUID8c83493c-5d21-4420-6184-835690f0dc14">
+              <para id="UUID10894510-bb7b-40e5-6412-e8ef4bb475bd">Liczni i zamożni sąsiedzi danego kraju</para>
+            </item>
+            <item id="UUIDab114166-4f42-44b2-538a-1949fc5b91af">
+              <para id="UUIDb6868dfa-87f0-432a-6ef3-bd81c4ec57bd">Wyjątkowo wysoki deficyt sektora finansów publicznych</para>
+            </item>
+            <item id="UUID8a082a60-deb4-4a66-417b-41f424757bdd">
+              <para id="UUIDfa1499e9-7ced-4328-462e-5362941ed5cf">Żywe tradycje protekcjonistycznego ustawodawstwa blokującego import</para>
+            </item>
+          </list>
+        </problem>
+        <solution id="fs-idm24791632">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm29241392">
+            <item id="UUID952afff7-f8b2-4a47-7f93-e767910e99e8">
+              <para id="UUIDc89bfefe-e670-4c87-68f8-99397f12361b">Duże gospodarki mają zwykle niższy poziom handlu międzynarodowego, ponieważ korzystają z szerokiego rynku wewnętrznego, ale rozmiary gospodarki nie przekładają się raczej na wynik salda bilansu handlowego.</para>
+            </item>
+            <item id="UUIDb82ff231-ae7c-4a34-6478-a599dc5c11a2">
+              <para id="UUID64d4f6fa-47ea-4dda-475f-707063ea3975">Brak równowagi pomiędzy krajowymi inwestycjami i oszczędnościami (w tym oszczędnościami sektora publicznego) zawsze prowadzi do nierównowagi handlowej, ale ma niewiele wspólnego z rozmiarami tej wymiany.</para>
+            </item>
+            <item id="UUID29407e55-abd0-410d-5ca8-536092c84969">
+              <para id="UUIDbc728b28-1e67-41ad-4d1c-1da2ce06f9e5">Wielu dużych partnerów handlowych w geograficznej bliskości zwiększa poziom wymiany handlowej, ale ma niewielki wpływ na rozmiary nierównowagi.</para>
+            </item>
+            <item id="UUID1ffe58c5-2367-4b5a-7bcb-2b892aa89035">
+              <para id="UUIDd204597d-cd2e-47cf-73e9-cbb63a802e2c">W tym przypadku odpowiedź nie jest oczywista. Wyjątkowo wysoki deficyt sektora finansów publicznych oznacza duże zapotrzebowanie na kapitał finansowy, co zgodnie z tożsamością krajowych oszczędności i inwestycji nieco zwiększa prawdopodobieństwo napływu kapitału zagranicznego, czyli deficytu handlowego.</para>
+            </item>
+            <item id="UUIDe803c683-beb9-4350-4224-1678c4043613">
+              <para id="UUID582040fe-2e7a-4aad-5de5-a76c2bac0738">Żywa tradycja zniechęcania do handlu zagranicznego („kupuj polskie”) z pewnością obniża jego rozmiary. Jednak niekoniecznie wpływa na bilans handlowy, ponieważ jest on określany zarówno przez import, jak i eksport oraz wolumeny krajowych inwestycji i oszczędności.</para>
+            </item>
+          </list>
+        </solution>
+      </exercise>
+    </section>
+    <section id="fs-idp16929568" class="review-questions">
+      <title id="UUID141b8715-6202-43ad-4d3f-c4f03ea92226">Review Questions</title>
+      <exercise id="fs-idp61029952">
+        <problem id="fs-idm51486784">
+          <para id="fs-idp5055568">Jakie trzy najważniejsze czynniki określają relację eksportu danego kraju do jego PKB?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm62533456">
+        <problem id="fs-idp64577280">
+          <para id="fs-idm50460752">Jaka jest różnica między deficytem w bilansie handlowym a rozmiarami wymiany handlowej?</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm39286624" class="critical-thinking">
+      <title id="UUID3625fdcd-0a75-4865-5074-95de88649aec">Critical Thinking Questions</title>
+      <exercise id="fs-idm101555760">
+        <problem id="fs-idm42259744">
+          <para id="fs-idm95615808">Czy kraje, które notują wyższe rozmiary wymiany handlowej, z większym prawdopodobieństwem zanotują deficyt, czy też nadwyżkę w bilansie handlowym.? A może czynnik ten nie ma żadnego znaczenia dla salda bilansu handlowego?</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm71700976">
+        <problem id="fs-idm188128096">
+          <para id="UUID5b40605d-1ccc-40e2-7e19-a0ef2d37c26f">Niektórzy ekonomiści ostrzegają, że deficyt salda bilansu handlowego i ujemne saldo na rachunku obrotów bieżących w Stanach Zjednoczonych są zjawiskiem niekorzystnym, jeśli występują w długim okresie. Czy zgadzasz się z takim poglądem? Uzasadnij swoją odpowiedź.</para>
+        </problem>
+      </exercise>
+    </section>
   </content>
 </document>

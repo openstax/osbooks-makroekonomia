@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U2ef7c970-3cfd-4051-ad28-23273f40144d" id="U2ef7c970-3cfd-4051-ad28-23273f40144d" xml:lang="en" cnxml-version="0.7">
-  <title>13.3 How Government Borrowing Affects Private Saving</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ued379a5c-6b64-4de5-8279-6f6dfe3fe453" id="Ued379a5c-6b64-4de5-8279-6f6dfe3fe453" xml:lang="en" cnxml-version="0.7">
+  <title>13.2 Fiscal Policy and the Trade Balance</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00071</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/2ef7c970-3cfd-4051-ad28-23273f40144d</md:content-url>
-    <md:title>13.3 How Government Borrowing Affects Private Saving</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/ed379a5c-6b64-4de5-8279-6f6dfe3fe453</md:content-url>
+    <md:title>13.2 Fiscal Policy and the Trade Balance</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:05.507951654+00:00</md:version>
-    <md:created>2023-08-30T08:02:05.507951654+00:00</md:created>
-    <md:revised>2023-08-30T08:02:05.507951654+00:00</md:revised>
+    <md:version>2023-09-11T10:25:15.409254363+00:00</md:version>
+    <md:created>2023-09-11T10:25:15.409254363+00:00</md:created>
+    <md:revised>2023-09-11T10:25:15.409254363+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,94 +20,140 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>2ef7c970-3cfd-4051-ad28-23273f40144d</md:uuid>
+    <md:uuid>ed379a5c-6b64-4de5-8279-6f6dfe3fe453</md:uuid>
   </metadata>
   <content>
     <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
     <list id="list-00001">
-      <item id="UUID40bd0e7d-39b3-4f9f-5cbf-c10c7ce7d35b">
-        <para id="UUID6d2795fa-c312-4506-5201-a85b44dc4dbc">Wykorzystać równoważność ricardiańską (teorię Ricardo) do oceny, w jaki sposób zadłużenie państwa wpływa na prywatne oszczędności</para>
+      <item id="UUIDfdb841a1-0bfe-496f-4f5a-1dd75ed30042">
+        <para id="UUID460c85fe-4ac7-46be-5390-390dea596850">Zrozumieć pojęcie deficytów bliźniaczych w odniesieniu do deficytu budżetowego i deficytu handlowego</para>
       </item>
-      <item id="UUIDe0dcea84-f33b-4dff-793a-03dba8c38bfa">
-        <para id="UUIDa4c35d6d-357b-4efb-4fd2-21c59a25f1f8">Zilustrować równoważność ricardiańską na wykresie</para>
+      <item id="UUID72175d12-54b4-4f62-57a4-f5d4267df077">
+        <para id="UUID57f8558c-3d73-4584-50cd-8ee38f36e6d6">Wyjaśnić związek pomiędzy deficytem budżetowym a kursami walutowymi</para>
+      </item>
+      <item id="UUID84958428-ea10-4e1e-797c-240ad74746c4">
+        <para id="UUID4fa56754-23d6-40b2-6e96-aa825f659f8b">Zrozumieć relację deficytu budżetowego i inflacji</para>
+      </item>
+      <item id="UUIDbf4e2872-aba5-4f61-6a66-3b17352ac641">
+        <para id="UUID3bd90d52-71c3-42b6-5a34-d85e206eb285">Wskazać możliwe przyczyny recesji</para>
       </item>
     </list>
-    <para id="fs-idp2522384">Zmiana salda budżetu państwa może wpłynąć na prywatne oszczędności. Wyobraź sobie, że ludzie obserwują stan finansów publicznych i odpowiednio dostosowują do niego swoje oszczędności. Na przykład ilekroć rząd ma deficyt budżetowy, ludzie mogą rozumować w ten sposób: „Cóż, wyższy deficyt budżetowy oznacza, że w przyszłości będę po prostu płacić większe podatki, aby spłacić zadłużenie państwa, więc zacznę oszczędzać już teraz”. Jeśli rząd osiąga nadwyżkę budżetową, ludzie mogą pomyśleć: „Przy nadwyżce budżetowej (lub niskim deficycie budżetowym) stopy procentowe spadają, więc oszczędzanie jest mniej atrakcyjne. Co więcej, kraj dysponujący nadwyżką budżetową będzie mógł w przyszłości pozwolić sobie na obniżkę podatków. Nie będę teraz zawracać sobie głowy oszczędzaniem”.</para>
-    <para id="UUIDf0140814-d944-4e25-571e-22434bafe1b2">Teoria, że racjonalnie działające gospodarstwa domowe mogą dostosowywać swoje oszczędności do sytuacji sektora publicznego (salda budżetu państwa), jest znana jako <term id="UUIDb0d33d21-48d4-4773-4c87-17ce2929523f">równoważność (ekwiwalencja) ricardiańska</term> (<foreign xml:lang="en" id="UUIDfbeda1ef-825a-4bfd-743f-ad2d28fbc03f"><term id="UUID257a78d8-4255-4d11-40e8-42a47b4f479c">Ricardian equivalence</term></foreign>). Idea ta ma naukowe korzenie w pracach słynnego ekonomisty <term cxlxt:index="name" cmlnle:reference="David Ricardo" cxlxt:name="Ricardo, David" cxlxt:born="1772" cxlxt:died="1823" id="UUID62825b92-864a-495c-42a1-2b230f042770">Davida Ricardo</term> (1772–1823). Jeśli równoważność ricardiańska jest całkowicie prawdziwa, to w równaniu przedstawiającym tożsamość oszczędności i inwestycji każda zmiana salda budżetu państwa będzie całkowicie zrekompensowana odpowiednią zmianą oszczędności prywatnych. W rezultacie zmiany zadłużenia państwa nie będą miały żadnego wpływu ani na inwestycje w kapitał rzeczowy, ani na bilans handlowy.</para>
-    <para id="fs-idm40538912">W rzeczywistości sektor prywatny tylko czasami i jedynie częściowo dostosowuje swoje oszczędności do salda budżetu państwa. <link target-id="CNX_Econ_C31_006" id="UUID8aa3a14a-7f40-43a7-4e88-e2f7b413cd6f" /> pokazuje saldo budżetu USA oraz stopę prywatnych oszczędności (obejmującą zarówno gospodarstwa domowe, jak i przedsiębiorstwa) po roku 1980. Związek między tymi wielkościami nie jest wcale oczywisty. Na przykład w połowie lat 80. XX w. deficyt budżetu państwa był dość duży, ale nie nastąpił odpowiadający mu wzrost prywatnych oszczędności. Kiedy jednak pod koniec lat 90. XX w. pojawiła się nadwyżka budżetowa, nastąpił równoczesny spadek prywatnych oszczędności. Gdy deficyty budżetowe w latach 2008–2009 stały się bardzo duże, można było dostrzec pewne oznaki wzrostu oszczędności. Badania empiryczne obejmujące gospodarkę Stanów Zjednoczonych sugerują, że wzrostowi zadłużenia państwa o 1 dolara towarzyszy wzrost prywatnych oszczędności o ok. 30 centów. Podobne wnioski wynikają z analizy przeprowadzonej przez Bank Światowy pod koniec lat 90. XX w. na danych obejmujących budżety państwa i prywatne oszczędności w wielu krajach na całym świecie.</para>
-    <figure id="CNX_Econ_C31_006">
-      <title id="UUIDcb2cf0d1-2866-4e8b-78ed-594bec9fe81c">Deficyt budżetu państwa i prywatne oszczędności w Stanach Zjednoczonych</title>
-      <media alt="Wykres pokazuje, że zadłużenie państwa i inwestycje prywatne czasami zmieniają się w tym samym kierunku, ale bywa i tak, że związek pomiędzy nimi nie odzwierciedla równoważności ricardiańskiej. Na przykład w latach 1980–1984 deficyt budżetu państwa w USA spadł z 5% PKB do 2% PKB, a oszczędności prywatne brutto zmniejszyły się w tym samym okresie z 22% PKB do 20% PKB. W 2014 r. oszczędności prywatne brutto stanowiły ok. 20% PKB, zaś deficyt budżetowy zbliżył się do 3% PKB." id="fs-idm8341280">
-        <image src="../../media//CNX_Econv1-2_C31_07.svg" mime-type="image/svg+xml" id="UUID04747afc-7171-4e50-4843-5026151a4ca4" />
-      </media>
-      <caption id="UUID57ff20a7-4740-41b8-6651-295fe217180d">Ekwiwalencja ricardiańska sugeruje, że dodatkowe oszczędności prywatne równoważą każdy wzrost zadłużenia państwa, a spadek oszczędności prywatnych kompensuje spadek zadłużenia państwa. Okazuje się, że teoria ta tylko czasami jest prawdziwa. (Źródło: Bureau of Economic Analysis and Federal Reserve Economic Data).</caption>
-    </figure>
-    <para id="UUIDe293173b-bccb-4ee1-49cf-5f2ca64b0190">TŁUMACZENIE RYSUNKU:</para>
-    <para id="UUID7d054921-49b4-45a0-6268-58b254769c76">Oś pionowa - W relacji do PKB (%)</para>
-    <para id="UUIDffb4c54c-b8cf-4ac8-4f41-7d8de6f712bb">Oś pozioma - Rok</para>
-    <para id="UUID85a85a65-526b-445e-73cc-fb93c690b25e">Gross private savings - Oszczędności prywatne brutto</para>
-    <para id="UUID190db627-cdfe-4778-58ee-cee6981161c1">Budget deficit/surplus - Saldo budżetu państwa</para>
-    <para id="UUID3cf0f8e2-01cd-4069-595a-8ed8bb89d3b1">Wykres należy podmienić</para>
-    <para id="fs-idm31588800">Oszczędności prywatne do pewnego stopnia rosną, gdy państwo boryka się z wysokimi deficytami budżetowymi, a zmniejszają się, gdy deficyt maleje lub pojawia się nadwyżka budżetowa. Jednak prywatne oszczędności nie kompensują w pełni negatywnych skutków zadłużenia państwa. Ponadto efekty kompensacji mogą znacznie się różnić w zależności od kraju i okresu analizy.</para>
-    <para id="UUID734f911e-fe8e-48f6-44cb-9ac24d2859f1">Jeśli wzrost deficytu budżetowego jest finansowany przez międzynarodowych inwestorów finansowych, wówczas deficytowi budżetowemu może towarzyszyć deficyt handlowy. W niektórych krajach takie <term id="UUIDc7e6b92a-f373-463b-6578-0b8dd3aae95c">deficyty bliźniacze</term> (<foreign xml:lang="en" id="UUID932a34df-11fe-4705-5b48-26b3e2a78d47"><term id="UUID70c7a6af-c8d3-4226-4158-72a6cbacab30">twin deficits</term></foreign>) doprowadziły do sytuacji, że międzynarodowi inwestorzy finansowi najpierw przekazywali pieniądze do innego kraju, powodując aprecjację jego waluty, a następnie wycofywali swoje fundusze, przyczyniając się do spadku jej wartości i kryzysu finansowego.</para>
-    <section id="fs-idm43579168" class="summary">
-      <title id="UUID7701f980-8843-42aa-6811-6b81d8e02f3c">Podsumowanie</title>
-      <para id="fs-idm26670336">Zgodnie z równoważnością (ekwiwalencją) ricardiańską zmiany prywatnych oszczędności równoważą zmiany zadłużenia państwa. A zatem większe oszczędności prywatne skompensują wyższe deficyty budżetowe, a nadwyżkom budżetowym będą towarzyszyć mniejsze oszczędności prywatne. Jeśli teoria ta jest prawdziwa, to zmiany w poziomie zadłużenia państwa nie powinny mieć wpływu na prywatne inwestycje w kapitał rzeczowy ani na bilans handlowy. Dowody empiryczne sugerują jednak, że ta teoretyczna koncepcja prawdziwa jest tylko częściowo.</para>
+    <para id="fs-idp26678432">Wynik budżetu państwa może wpływać na saldo bilansu handlowego. Jak wynika z <link document="m00038" cmlnle:case="genitive" id="UUIDb4e99e71-d2a8-43a5-7101-94d35b257014" />, deficytowi handlowemu towarzyszy napływ netto zagranicznych inwestycji finansowych, zaś w przypadku nadwyżki handlowej występuje odpływ netto inwestycji finansowych. Jeden z kanałów, za pomocą którego deficyt budżetowy przekłada się na deficyt handlowy, przedstawia się następująco. Gdy państwo osiąga (zwiększa) deficyt budżetowy za pomocą jakiejś kombinacji niższych podatków i wyższych wydatków, popyt globalny w gospodarce rośnie. Zwiększa się także dochód, a część tego dodatkowego dochodu jest przeznaczona na zakup towarów importowanych, w efekcie czego rośnie import. Wyższy poziom importu przy niezmienionym eksporcie powoduje większy deficyt handlowy. Oznacza to, że zasoby waluty krajowej (złotych) wśród obcokrajowców rosną, ponieważ Polacy kupują więcej importowanych towarów. Cudzoziemcy wykorzystują te złote do inwestowania w Polsce, co prowadzi do napływu inwestycji zagranicznych. Tym samym jednym z możliwych źródeł finansowania deficytu budżetowego w Polsce jest zakup przez cudzoziemców skarbowych papierów wartościowych emitowanych przez polski rząd, dlatego też deficyt handlowy często towarzyszy deficytowi budżetowemu.</para>
+    <section id="fs-idm24922304">
+      <title id="UUID8a37ac74-ae4b-42b1-5e6c-424082bd6c04">Deficyty bliźniacze</title>
+      <para id="fs-idm4558688">W połowie lat 80. XX w. ekonomiści oraz publicyści ekonomiczni często mówili o deficytach bliźniaczych, ponieważ zarówno deficyt budżetowy, jak i deficyt handlowy w USA znacznie wzrosły. Pokazuje to <link target-id="CNX_Econ_C31_007" id="UUID074556b5-bdaa-4444-7263-6f9fae46b0a7" />. Deficyt budżetu federalnego wzrósł z 2,6% PKB w 1981 r. do 5,1% PKB w roku 1985, co oznacza wzrost o 2,5 punktu procentowego (p.p.). W tym samym okresie deficyt handlowy zwiększył się z 0,5% PKB w 1981 r. do 2,9% PKB w roku 1985, co oznacza wzrost o 2,4 p.p. W połowie lat 80. XX w. napływ zagranicznego kapitału inwestycyjnego dorównywał znacznemu wzrostowi zadłużenia rządu, więc deficyt budżetu państwa i deficyt handlowy zmieniały się razem w tym samym kierunku.</para>
+      <figure id="CNX_Econ_C31_007">
+        <title id="UUID35c3a891-3c3b-4e6c-5732-0d9bf6bd96b1">Deficyty budżetowe i deficyty handlowe w USA w latach 1960–2020</title>
+        <media alt="Wykres ilustruje relatywnie słaby związek między deficytem budżetowym a deficytem handlowym w USA od lat 80. XX w." id="fs-idp16673808">
+          <image src="../../media//CNX_Econv1-2_C31_08.svg" mime-type="image/svg+xml" id="UUID8e29e8e6-bc1c-4bc2-51f1-918926f612dc" />
+        </media>
+        <caption id="UUID51b194cf-5534-4625-6240-bfeefa22cc7a">W pierwszej połowie lat 80. XX w. w Stanach Zjednoczonych nastąpił jednoczesny wzrost deficytów budżetowego i handlowego. Jednak od tego czasu przestały one zachowywać się w bliźniaczy sposób. Na początku lat 90. deficyt handlowy zmniejszył się przy jednoczesnym wzroście deficytu budżetowego. Następnie – pod koniec lat 90. – deficyt handlowy zwiększył się, podczas gdy budżetowy przekształcił się w nadwyżkę. W latach 2001–2005 oba deficyty wzrosły. Jednak w 2009 r. deficyt handlowy zmniejszył się, a deficyt budżetowy gwałtownie wzrósł.</caption>
+      </figure>
+      <para id="fs-idp181195648">Oczywiście nikt nie powinien oczekiwać, że oba deficyty (budżetowy i handlowy) będą zawsze zmieniały się w tym samym kierunku, ponieważ inne składniki występujące w równaniu przedstawiającym tożsamość oszczędności i inwestycji (inwestycje i oszczędności prywatne) również często się zmieniają. Na przykład w USA pod koniec lat 90. XX w. wynik budżetu państwa przekształcił się z deficytu w nadwyżkę, ale deficyt handlowy pozostał relatywnie wysoki i wciąż rósł. W tym czasie napływ zagranicznych inwestycji finansowych wspierał gwałtowny wzrost inwestycji w kapitał rzeczowy realizowany przez amerykańskie przedsiębiorstwa. W latach 2001–2005 oba deficyty ponownie wykazały jednoczesny wzrost, ale w 2009 r. jedynie deficyt budżetowy gwałtownie wzrósł, zaś deficyt handlowy się zmniejszył. Deficyty budżetowy i handlowy są ze sobą powiązane, ale bardziej przypominają kuzynów niż bliźniaków.</para>
     </section>
-    <section id="fs-idp47248784" class="self-check-questions">
-      <title id="UUID88247b22-13ab-4a7e-5d96-f6d1db45c720">Pytania sprawdzające</title>
-      <exercise id="fs-idp4519024">
-        <problem id="fs-idp163673424">
-          <para id="fs-idp74945680">Wyobraźmy sobie gospodarkę, w której obowiązuje równoważność ricardiańska. W gospodarce tej deficyt budżetowy wynosi 50, deficyt handlowy jest równy 20, prywatne oszczędności wynoszą 130, a inwestycje 100. Jeśli deficyt budżetowy zwiększy się do 70, jak wpłynie to na inne składniki występujące w równaniu przedstawiającym tożsamość oszczędności i inwestycji?</para>
+    <section id="fs-idp34877168">
+      <title id="UUID618336f3-25f2-40b8-67d8-9da06ca34f68">Deficyt budżetowy a kursy walutowe</title>
+      <para id="fs-idm13945024">Kursy walutowe mogą również pomóc w wyjaśnieniu, dlaczego deficyty budżetowe są powiązane z deficytami handlowymi. <link target-id="CNX_Econ_C31_008" id="UUID10188647-4cd2-43d5-73a1-0342e0cdb823" /> przedstawia analizę z wykorzystaniem kursu walutowego dolara względem euro. W początkowej równowadze (E<sub>0</sub>), gdzie na rynku walutowym popyt na dolary amerykańskie (D<sub>0</sub>) przecina się z podażą dolarów (S<sub>0</sub>), kurs wymiany wynosi 0,9 euro za dolara, a liczba dolarów w obrocie na rynku walutowym utrzymuje się na poziomie 100 mld dziennie (co w przybliżeniu odpowiadało obrotom dolara względem euro na rynkach walutowych w roku 2005). W takiej sytuacji deficyt budżetowy w USA wzrasta, a zagraniczne inwestycje finansowe stanowią ważne źródło jego finansowania.</para>
+      <para id="fs-idp83726112">Międzynarodowi inwestorzy finansowi jako grupa będą zgłaszać zapotrzebowanie na więcej dolarów amerykańskich na rynkach walutowych w celu zakupu amerykańskich obligacji skarbowych i będą oferować do sprzedaży mniej posiadanych już dolarów. Popyt na dolary na rynku walutowym przesuwa się z D<sub>0</sub> do D<sub>1</sub>, a ich podaż spada z S<sub>0</sub> do S<sub>1</sub>. W nowej równowadze (E<sub>1</sub>) kurs walutowy ulega aprecjacji do 1,05 euro za dolara, a liczba dolarów będących w obrocie na rynku walutowym – w tej konkretnej sytuacji opisanej na wykresie – nie zmienia się.</para>
+      <figure id="CNX_Econ_C31_008">
+        <title id="UUID4d709b75-d1fe-4996-6ba2-1285756ca0ed">Deficyt budżetowy a kursy walutowe</title>
+        <media alt="Wykres przedstawia popyt na walutę i podaż waluty. Oś y pokazuje kurs walutowy EUR/USD, a oś x reprezentuje liczbę dolarów w obrocie na rynku walutowym. Jak wyjaśniono w tekście podręcznika, deficyt budżetowy zwiększa popyt na dolary (i zmniejsza ich podaż), ponieważ zagraniczni inwestorzy chcą kupować amerykańskie obligacje skarbowe finansujące dług rządu USA. Rezultatem jest aprecjacja dolara." id="fs-idp97164336">
+          <image src="../../media//CNX_Econ_C31_008.svg" mime-type="image/svg+xml" id="UUIDf2bc0f3c-23ca-483b-549b-649f236067f8" />
+        </media>
+        <caption id="UUIDe02d243b-8d16-4e68-75c5-47c10bced2b2">Wyobraź sobie, że rząd USA zwiększa swoje zadłużenie, a środki pochodzą od europejskich inwestorów finansowych. Aby kupić amerykańskie obligacje skarbowe, europejscy inwestorzy muszą zgłosić zapotrzebowanie na więcej dolarów amerykańskich na rynkach walutowych, powodując przesunięcie krzywej popytu na dolary w prawo, z położenia D<sub>0</sub> do D<sub>1</sub>. Europejscy inwestorzy finansowi jako grupa będą również mniej skłonni dostarczać dolary amerykańskie na rynki walutowe, co spowoduje przesunięcie krzywej podaży dolarów z S<sub>0</sub> do S<sub>1</sub>. Kurs równowagi umacnia się z 0,9 euro za dolara w początkowym punkcie równowagi E<sub>0</sub> do 1,05 euro za dolara w nowym punkcie równowagi E<sub>1</sub>.</caption>
+      </figure>
+      <para id="UUIDc5fa0f31-96b6-44d3-4952-6548831e501f">Oczywiście silniejszy kurs walutowy utrudnia eksporterom sprzedaż swoich towarów za granicę, jednocześnie powodując, że import staje się tańszy. W rezultacie powstaje deficyt handlowy lub zmniejsza się nadwyżka handlowa. Zatem deficyt budżetowy może łatwo doprowadzić do napływu zagranicznego kapitału finansowego, umocnienia się kursu walutowego i pojawienia się deficytu handlowego.</para>
+      <para id="UUID8778ff83-3c46-47d7-74c2-251feffbe79b">Można również wyobrazić sobie sytuację, w której stopy procentowe napędzają aprecjację kursu walutowego. Jak wyjaśniliśmy wcześniej na <link target-id="CNX_Econ_C31_008" cmlnle:case="locative" id="UUIDd51fee76-f7f3-4a8e-5b60-dc3d2c39395a" />, deficyt budżetowy zwiększa popyt na krajowy kapitał finansowy, podnosząc krajowe stopy procentowe. Wyższe stopy procentowe przyciągają zagraniczny kapitał finansowy i powodują aprecjację kursu walutowego w odpowiedzi na wzrost popytu na dolary ze strony inwestorów zagranicznych i spadek podaży dolarów. Ze względu na wyższe stopy procentowe w Stanach Zjednoczonych Amerykanie uważają amerykańskie obligacje za bardziej atrakcyjne niż obligacje zagraniczne. Ponieważ Amerykanie kupują mniej obligacji zagranicznych, dostarczają na rynek walutowy mniej dolarów. Aprecjacja dolara amerykańskiego prowadzi do wzrostu deficytu handlowego (lub zmniejszenia nadwyżki handlowej). Powiązania między napływem kapitału zagranicznego, stopami procentowymi i kursami walutowymi to po prostu alternatywny sposób pokazania, że większy deficyt budżetowy może skutkować większym deficytem handlowym (nie należy jednak oczekiwać, że oba deficyty będą zmieniały się dokładnie o tę samą wielkość).</para>
+    </section>
+    <section id="fs-idm95499472">
+      <title id="UUID13a0426a-4c97-4a86-6c8c-3428f7ac94b5">Od deficytu budżetowego do międzynarodowego kryzysu gospodarczego</title>
+      <para id="fs-idm147291920">Mechanizm, za pomocą którego odpływ międzynarodowego kapitału finansowego może powodować głęboką recesję, jest przedstawiony krok po kroku w <link document="m00057" cmlnle:case="locative" id="UUIDf0f95550-4e05-46dd-4c13-57c3646ee353" />. Kiedy międzynarodowi inwestorzy finansowi decydują się na wycofanie kapitału z kraju takiego jak Turcja, zwiększają podaż liry tureckiej i zmniejszają popyt na lirę, co nieuchronnie prowadzi do deprecjacji tej waluty. Gdy przedsiębiorstwa i rząd w Turcji pożyczają pieniądze na międzynarodowych rynkach finansowych, zwykle robią to etapami. Najpierw tureckie banki pożyczają środki w powszechnie akceptowanej na rynkach światowych walucie, np. dolarach amerykańskich lub euro, następnie wymieniają dolary lub euro na liry, a potem pożyczają pieniądze tureckim pożyczkobiorcom w lirach. Jeśli kurs liry ulegnie deprecjacji, tureckie banki nie będą w stanie spłacić międzynarodowych pożyczek, które są denominowane w dolarach amerykańskich lub euro.</para>
+      <para id="UUIDa6412900-b980-4537-691d-0756698a59a1">Malejący napływ zagranicznego kapitału inwestycyjnego i upadłość banków mogą gwałtownie obniżyć popyt globalny, co powoduje głęboką recesję. W ostatnich latach wiele krajów na całym świecie doświadczyło tego rodzaju kryzysów: Turcja w 2002 r., Meksyk w 1995 r., Tajlandia i kraje Azji Wschodniej w latach 1997–1998, Rosja w 1998 r. i Argentyna w roku 2002. W części z tych krajów wysokie deficyty budżetowe były dodatkowym źródłem kryzysu finansowego. Umiarkowany wzrost deficytu budżetowego, który prowadzi do umiarkowanego wzrostu deficytu handlowego i umiarkowanej aprecjacji kursu walutowego, niekoniecznie jest powodem do niepokoju. Ale powyżej pewnej wartości krytycznej, którą jednak trudno jest z wyprzedzeniem określić, duże deficyty budżetowe mogą być niebezpieczne dla międzynarodowych inwestorów.</para>
+      <para id="fs-idm77012128">Jednym z powodów do niepokoju jest to, że pokaźne deficyty budżetowe mogą spowodować tak silny wzrost popytu globalnego, że w gospodarce pojawi się wysoka inflacja. Przykładem jest Turcja, w której bardzo wysokie ujemne salda budżetu spowodowały szybki wzrost stopy inflacji do dwucyfrowego poziomu. Ponadto ogromne deficyty budżetowe w pewnym momencie zaczynają budzić obawę, że rząd nie będzie w stanie spłacić zaciągniętych zobowiązań. W ciągu ostatnich 175 lat rząd Turcji sześciokrotnie nie był w stanie regulować swoich długów. Brazylia nie dokonała spłaty pożyczek siedem razy, Wenezuela – dziewięć razy, a Argentyna pięć razy. Ryzyko wysokiej inflacji lub niespłacania zagranicznych długów będzie niepokoić międzynarodowych inwestorów, ponieważ oba te czynniki oznaczają, że stopa zwrotu z inwestycji w danym kraju może okazać się niższa, niż oczekiwano. Jeśli międzynarodowi inwestorzy zaczną szybko wycofywać z danego kraju kapitał, może pojawić się scenariusz zawierający malejące gwałtownie inwestycje, deprecjację kursu walutowego, powszechne bankructwa banków i głęboką recesję. Poniższa <link target-id="fs-idm48144016" id="UUID2d1c6a9f-9e4b-4cb1-40b3-dd15fd24adf7" /> przedstawia inne skutki bardzo wysokich deficytów budżetowych.</para>
+      <note type="note" id="fs-idm48144016" class="clearup economics">
+        <title id="UUID5f2b944e-85be-45d9-4117-3004647d610f">Jakie są zagrożenia związane z trwale wysokimi deficytami budżetowymi w Stanach Zjednoczonych?</title>
+        <para id="fs-idm27824512">Co może pójść nie tak, jeśli państwo notuje wysokie deficyty budżetowe w długim okresie? Według niedawnego raportu Brookings Institution kluczowym ryzykiem związanym z dużym deficytem budżetowym jest zbyt wysoki wzrost długu publicznego w porównaniu ze wzrostem PKB. Wraz ze wzrostem zadłużenia państwa krajowa stopa oszczędności będzie spadać, pozostawiając mniej dostępnego kapitału finansowego na inwestycje prywatne. Wpływ trwale wysokich deficytów budżetowych na gospodarkę jest następujący:</para>
+        <list id="fs-idm26138288">
+          <item id="UUID41657ce3-51de-4144-4fa2-7bd410aee8f6">
+            <para id="UUIDc198174a-ee7f-41a5-62a8-796dffb1ef71">Wraz ze starzeniem się społeczeństwa będzie rosło zapotrzebowanie na usługi finansowane przez państwo, co może powodować wzrost deficytu budżetowego. Pożyczki zaciągane przez rząd i spłata odsetek od długu publicznego ograniczą zasoby dla krajowych inwestycji w kapitał ludzki i kapitał rzeczowy, co jest niezbędne dla utrzymania wysokiego tempa wzrostu gospodarczego w długim okresie.</para>
+          </item>
+          <item id="UUIDadebb213-0921-49c2-4ff8-b71e2d073f3b">
+            <para id="UUIDb5e29558-d6d3-4a75-74e3-ce0ea195fde8">Stopy procentowe mogą zacząć rosnąć, co zwiększy również koszty finansowania długu publicznego, wywierając presję na rząd, aby zredukował deficyt budżetowy poprzez cięcia wydatków lub podwyżki podatków. Kroki te, bolesne politycznie, będą miały negatywny wpływ na popyt globalny w gospodarce.</para>
+          </item>
+          <item id="UUIDf91d09fd-b723-4c05-4786-ce211fbef591">
+            <para id="UUID79da38c4-92d7-472b-43db-526a7b37dda7">Rosnąca relacja długu do PKB powoduje niepewność na rynkach finansowych (również tych o charakterze globalnym), co może skłonić kraj do zastosowania polityki proinflacyjnej w celu zmniejszenia realnej wartości niespłaconego długu. Zmniejszy to jednak realne bogactwo i podważy zaufanie do zdolności kraju zarządzania swoimi wydatkami. W końcu, jeśli rząd zaciągnął pożyczkę oprocentowaną według stałej stopy (np. 5%) i pozwolił inflacji przekroczyć poziom 5%, to będzie w stanie spłacić swój dług przy ujemnej realnej stopie procentowej.</para>
+          </item>
+        </list>
+        <para id="fs-idp87475776">Tradycyjne rozumowanie sugeruje, że istnieje ujemna zależność między utrzymującymi się deficytami budżetowymi, prowadzącymi do wysokiego poziomu długu publicznego, a długookresowym wzrostem gospodarczym. Mniej jasne jest to, jak ważna jest ta zależność, jak istotny jest to problem w porównaniu z innymi wyzwaniami makroekonomicznymi oraz jaki jest kierunek związku przyczynowo-skutkowego (czy to dług i deficyt prowadzą do zmniejszenia tempa wzrostu gospodarczego w długim okresie, czy odwrotnie – malejące tempo wzrostu gospodarczego prowadzi do pojawienia się deficytów i rosnącego zadłużenia publicznego; a może zarówno wzrost zadłużenia, jak i malejąca dynamika wzrostu gospodarczego są konsekwencją działania czynników trzecich).</para>
+        <para id="UUIDf64e9091-8e13-42f9-5d06-79e2e5ba94d6">Należy jednak pamiętać, że związek między zadłużeniem a wzrostem gospodarczym jest ujemny i że w niektórych krajach może on być silniejszy niż w innych. Relacja ta jest jednak złożona, zaś próba kompleksowej odpowiedzi na pytanie o to, jakie są wszystkie uwarunkowania relacji pomiędzy wzrostem a długiem publicznym, wykracza poza zakres tematyczny niniejszego podręcznika.</para>
+      </note>
+    </section>
+    <section id="fs-idp12423616">
+      <title id="UUID946d9d9c-08df-49ec-50bc-a38afe8e5e06">Wykorzystanie polityki fiskalnej do rozwiązania problemu nierównowagi handlowej</title>
+      <para id="fs-idm113881792">Jeśli kraj doświadcza napływu zagranicznego kapitału inwestycyjnego przy jednoczesnym deficycie handlowym, ale jest to konsekwencja przede wszystkim tego, że zagraniczni inwestorzy dokonują długookresowych bezpośrednich inwestycji w krajowe przedsiębiorstwa, nie ma poważnych powodów do niepokoju. W końcu wiele państw o niskich dochodach na całym świecie z zadowoleniem przyjęłoby bezpośrednie inwestycje korporacji międzynarodowych, dzięki którym wzmocnieniu ulegną więzy z globalnymi sieciami produkcji i dystrybucji towarów i usług. W takim przypadku napływ zagranicznego kapitału inwestycyjnego i deficyt handlowy są odzwierciedleniem możliwości uzyskania wysokiej stopy zwrotu z inwestycji sektora prywatnego w gospodarce.</para>
+      <para id="UUID499e58c7-054f-474d-48d6-454ae274ae8c">Rządy powinny jednak wystrzegać się wysokich deficytów budżetowych i handlowych utrzymujących się w długim okresie. Niebezpieczeństwo pojawia się szczególnie wtedy, gdy napływ zagranicznego kapitału inwestycyjnego nie jest związany z długookresowymi kapitałowymi inwestycjami przedsiębiorstw, lecz obejmuje krótkookresowe inwestycje portfelowe, przede wszystkim w obligacje skarbu państwa. Kiedy napływ zagranicznych inwestycji finansowych osiągnie wysoki poziom, inwestorzy będą mieć się na baczności, obawiając się, że kurs walutowy danego kraju może spaść lub że rząd może nie być w stanie spłacić na czas swoich zobowiązań. Tak jak kilka spadających kamieni może wywołać gigantyczną lawinę, tak stosunkowo niewielka ilość niekorzystnych wiadomości o gospodarce może w takich warunkach spowodować ogromny odpływ krótkoterminowego kapitału finansowego.</para>
+      <para id="fs-idm114840976">Zmniejszenie krajowego deficytu budżetowego nie zawsze będzie skuteczną metodą ograniczenia deficytu handlowego, ponieważ inne składniki wchodzące w skład równania przedstawiającego tożsamość oszczędności i inwestycji, np. prywatne oszczędności lub inwestycje, mogą też ulec zmianie. Jeśli główną przyczyną deficytu handlowego jest deficyt budżetowy, rządy powinny podjąć działania w celu zmniejszenia deficytów budżetowych, aby nie narazić swojej gospodarki na gwałtowny odpływ międzynarodowego kapitału finansowego, który mógłby doprowadzić do głębokiej recesji.</para>
+    </section>
+    <section id="fs-idm110626096" class="summary">
+      <title id="UUIDa1f9da68-6d44-436b-61a0-1b2fb7ccec1d">Podsumowanie</title>
+      <para id="fs-idm113615168">Rząd nie musi równoważyć budżetu co roku. Utrzymujący się przez długi czas wysoki deficyt budżetowy może jednak spowodować kilka negatywnych skutków makroekonomicznych. A będą to: przesunięcie w prawo krzywej popytu globalnego, co wywoła inflację; wypieranie prywatnych inwestycji spowalniające wzrost gospodarczy; uzależnienie się od napływu międzynarodowych inwestycji portfelowych, które tak łatwo i szybko, jak wpływają do danego kraju, mogą też z niego odpłynąć, wywołując kryzys gospodarczy o bardzo poważnych konsekwencjach.</para>
+    </section>
+    <section id="fs-idp131155232" class="self-check-questions">
+      <title id="UUIDe9f93db6-9b58-49a0-7410-b9a64be00c5a">Pytania sprawdzające</title>
+      <exercise id="fs-idm26709280">
+        <problem id="fs-idp129275888">
+          <para id="fs-idp98714816">Pod koniec lat 90. XX w. Stany Zjednoczone przeszły od deficytu budżetowego do nadwyżki budżetowej przy jednoczesnym znacznym wzroście deficytu handlowego. Wykorzystując tożsamość oszczędności i inwestycji, określ, jak taka sytuacja wpłynęła na zmianę wartości inwestycji i/lub oszczędności.</para>
         </problem>
-        <solution id="fs-idp78708720">
-          <para id="fs-idp10097952">Równoważność ricardiańska oznacza, że prywatne oszczędności zmieniają się dokładnie w taki sposób, aby skompensować wszelkie zmiany salda budżetu państwa. Jeśli zatem deficyt budżetowy rośnie o 20, oszczędności prywatne również rosną o 20, a deficyt handlowy się nie zmienia. Równanie przedstawiające tożsamość oszczędności i inwestycji w sytuacji początkowej (przed wzrostem deficytu budżetowego) jest zapisane poniżej. Zauważ, że jeśli jakakolwiek zmiana składnika (G - T) jest równoważona zmianą S, to pozostałe składniki tego równania nie ulegają zmianie. Jeśli zatem (G - T) wzrośnie o 20, to S również musi wzrosnąć o 20.</para>
-          <equation id="fs-idp47306352" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>S + (Z − X)</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I + (G − T)</mtext></mtd></mtr><mtr><mtd><mtext>130 + 20</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>100 + 50</mtext></mtd></mtr></mtable></math></equation>
+        <solution id="fs-idp87337824">
+          <para id="fs-idp25702208">W tym przypadku tożsamość oszczędności i inwestycji wygląda następująco:</para>
+          <equation id="fs-idp29834560" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>(T − G) + (Z − X) + S</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>I</mtext></mtd></mtr></mtable></math></equation>
+          <para id="fs-idp57389008">Zarówno wzrost nadwyżki budżetu państwa, jak i wzrost deficytu handlowego zwiększyły podaż kapitału finansowego. Jeśli inwestycje w kapitał rzeczowy pozostały niezmienione, prywatne oszczędności musiały spaść; natomiast jeśli oszczędności pozostały niezmienione, inwestycje musiały wzrosnąć. W rzeczywistości pojawiły się oba efekty: pod koniec lat 90. XX w. w gospodarce Stanów Zjednoczonych oszczędności spadły, a inwestycje wzrosły.</para>
         </solution>
       </exercise>
     </section>
-    <section id="fs-idp87321392" class="review-questions">
-      <title id="UUID7d51ea49-8b38-482e-7d18-b190ec06bede">Sprawdź wiedzę</title>
-      <exercise id="fs-idp50592">
-        <problem id="fs-idm54206576">
-          <para id="fs-idm49239936">Czym jest równoważność ricardiańska?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idp75346592">
-        <problem id="fs-idp86285440">
-          <para id="fs-idm22875136">Co wspólnego mają równoważność ricardiańska i koncepcja racjonalności podmiotów ekonomicznych?</para>
+    <section id="fs-idp148531872" class="review-questions">
+      <title id="UUIDf3e72eda-f5e2-4cdd-4375-1e62f7df814f">Sprawdź wiedzę</title>
+      <exercise id="fs-idp25571296">
+        <problem id="fs-idp9694736">
+          <para id="fs-idp13380976">W jakich warunkach większy deficyt budżetowy doprowadzi do deficytu handlowego?</para>
         </problem>
       </exercise>
     </section>
-    <section id="fs-idm23959600" class="critical-thinking">
-      <title id="UUID09cfb36b-c223-4289-6f19-814f99387aae">Ćwicz myślenie krytyczne</title>
-      <exercise id="fs-idm79837344">
-        <problem id="fs-idm19354656">
-          <para id="fs-idp23604080">Wyjaśnij, czy zgadzasz się z założeniem równoważności ricardiańskiej, zgodnie z którym racjonalni ludzie rozumują tak: „Cóż, wyższy deficyt budżetowy (nadwyżka budżetowa) oznacza, że w przyszłości będę po prostu płacił więcej (mniej) podatków na pokrycie zadłużenia państwa, więc już teraz zacznę oszczędzać (wydawać) pieniądze”. Uzasadnij swoją odpowiedź.</para>
+    <section id="fs-idm118509296" class="critical-thinking">
+      <title id="UUID9236105e-105a-4920-50b1-8d202243de49">Ćwicz myślenie krytyczne</title>
+      <exercise id="fs-idm116261856">
+        <problem id="fs-idm45044592">
+          <para id="fs-idp11714512">Wyjaśnij, w jaki sposób przejście od deficytu budżetowego do nadwyżki budżetowej może wpłynąć na kurs walutowy.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm53482992">
+        <problem id="fs-idm86119264">
+          <para id="fs-idm107291904">Opisz, jak plan zmniejszenia deficytu budżetowego może wpłynąć na studenta, młodego pracownika i rodzinę o średnich dochodach.</para>
         </problem>
       </exercise>
     </section>
-    <section id="fs-idp117718544" class="problems">
-      <title id="UUID8d593661-8a62-4366-7b88-27b618c1d640">Problemy</title>
-      <exercise id="fs-idp23698304">
-        <problem id="fs-idp35506432">
-          <para id="fs-idp17326352">Zilustruj koncepcję ekwiwalencji ricardiańskiej za pomocą wykresu przedstawiającego popyt na kapitał finansowy i podaż kapitału finansowego.</para>
+    <section id="fs-idm134668816" class="problems">
+      <title id="UUID80af2507-d922-4de2-52b3-48272d2a5666">Problemy</title>
+      <exercise id="fs-idm119429408">
+        <problem id="fs-idm172120304">
+          <para id="fs-idm25474800">Pokaż na wykresie, w jaki sposób deficyt budżetowy powoduje deficyt handlowy. (Wskazówka: Zacznij od analizy tego, co stanie się z kursem walutowym, gdy cudzoziemcy będą finansować większy dług publiczny).</para>
         </problem>
       </exercise>
+      <exercise id="fs-idm4883360">
+        <problem id="fs-idm122814576">
+          <para id="fs-idm189478208">Pokaż na wykresie, w jaki sposób utrzymujący się deficyt budżetowy spowalnia tempo wzrostu gospodarczego.</para>
+        </problem>
+      </exercise>
+      <exercise id="fs-idm143842752">
+        <problem id="fs-idm29822880">
+          <para id="fs-idp12662640">Załóżmy, że nowy rząd niepodległej już Tanzanii zatrudnił cię w 1964 r. Parlament Tanzanii, wolnej od rządów brytyjskich, zdecydował, że rocznie będzie wydawać 10 mln szylingów na szkoły, drogi i ochronę zdrowia. Szacujesz, że podatki netto wynoszą 8 mln szylingów rocznie. Rząd sfinansuje deficyt budżetowy, sprzedając 10-letnie obligacje skarbowe oprocentowane według stopy 12% rocznie. Parlament musi co roku dodawać odsetki od wyemitowanych obligacji do wydatków budżetowych. Załóżmy, że parlament nakłada dodatkowe podatki, aby sfinansować wzrost wydatków z tytułu odsetek, więc różnica między wydatkami państwa a dochodami podatkowymi wynosi zawsze 2 mln. Przyjmując, że budżet na szkoły, drogi i ochronę zdrowia nie ulegnie zmianie, oblicz wartość skumulowanego długu za 10 lat.</para>
+        </problem>
+      </exercise>
+    </section>
+    <section id="fs-idm138032" class="references">
+      <title id="UUIDd2ecdac8-5eec-47d9-63f1-5b6b3ce18eca">Bibliografia</title>
+      <para id="fs-idp150208">The White House. “This is why it's time to make college more affordable.” Last modified August 20, 2013. http://www.whitehouse.gov/share/college-affordability.</para>
+      <para id="fs-idp33075968">Rubin, Robert E., Peter R. Orszag, and Allen Sinai. “Sustained Budget Deficits: Longer-Run U.S. Economic Performance and the Risk of Financial and Fiscal Disarray.” Last modified January 4, 2004. http://www.brookings.edu/~/media/research/files/papers/2004/1/05budgetdeficit%20orszag/20040105.pdf.</para>
     </section>
   </content>
-  <glossary id="UUID24c5a4ed-2495-48a8-51d4-2062fcd1bce2">
-    <definition id="fs-idm140396576">
-      <term id="UUIDdfc6b539-b983-422a-7d1a-336fc058a687">równoważność ricardiańska (ekwiwalencja ricardiańska) (ang. Ricardian equivalence)</term>
-      <meaning id="fs-idm93873072">
-        <para id="UUID4c619fb0-9709-4446-53cb-353249ad3802">teoria, zgodnie z którą racjonalne gospodarstwa domowe dostosowują swoje oszczędności do zmian poziomu zadłużenia państwa</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm52983008">
-      <term id="UUID69f197f5-96d4-4607-76ac-2fc56d4fb1db">deficyty bliźniacze (ang. twin deficits)</term>
-      <meaning id="fs-idp26876432">
-        <para id="UUID6c3ff47e-0f55-4a26-7941-01692fed023b">jednoczesne występowanie deficytu handlowego i deficytu budżetowego</para>
-      </meaning>
-    </definition>
-  </glossary>
 </document>

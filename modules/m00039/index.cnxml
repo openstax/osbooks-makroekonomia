@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub1dfa8aa-57e1-405d-ad65-f4968eb34622" id="Ub1dfa8aa-57e1-405d-ad65-f4968eb34622" xml:lang="en" cnxml-version="0.7">
-  <title>7.2 The Building Blocks of Keynesian Analysis</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub599b3fa-b5ed-46f5-b1dd-e5bf9f3afda4" id="Ub599b3fa-b5ed-46f5-b1dd-e5bf9f3afda4" xml:lang="en" cnxml-version="0.7">
+  <title>7.1 Popyt globalny w podejściu keynensowskim</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00039</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/b1dfa8aa-57e1-405d-ad65-f4968eb34622</md:content-url>
-    <md:title>7.2 The Building Blocks of Keynesian Analysis</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/b599b3fa-b5ed-46f5-b1dd-e5bf9f3afda4</md:content-url>
+    <md:title>7.1 Popyt globalny w podejściu keynensowskim</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:04.183339271+00:00</md:version>
-    <md:created>2023-08-30T08:02:04.183339271+00:00</md:created>
-    <md:revised>2023-08-30T08:02:04.183339271+00:00</md:revised>
+    <md:version>2023-09-11T10:25:08.063455873+00:00</md:version>
+    <md:created>2023-09-11T10:25:08.063455873+00:00</md:created>
+    <md:revised>2023-09-11T10:25:08.063455873+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,177 +20,220 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>b1dfa8aa-57e1-405d-ad65-f4968eb34622</md:uuid>
+    <md:uuid>b599b3fa-b5ed-46f5-b1dd-e5bf9f3afda4</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUID7a9d77c9-hy56-4689-7033-08cffc2c4979" class="learning-objectives">
-      <para id="ch27mod93_p01">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+    <note type="note" id="UUID7a9d77c9-d6f2-4689-7033-08cffc2c4979" class="learning-objectives">
+      <para id="ch28mod01_p01">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUID5af2fc6e-925e-4fb8-4eb3-d263f0a6cc2a">
-          <para id="UUID320fd5bc-e0c8-4bd3-4cd7-4dd46ee9e34c">Wytłumaczyć, jak keynesiści postrzegają zjawisko recesji, zakładając sztywność (lepkość) cen i płac oraz kluczową rolę popytu globalnego</para>
+        <item id="UUID224761df-7240-4d51-7a6c-6d18b7d451bf">
+          <para id="UUIDdd49f095-874d-4406-5328-ad5a1f5280e8">Wyjaśnić pojęcia luki inflacyjnej i luki deflacyjnej (recesyjnej)</para>
         </item>
-        <item id="UUIDbbe7e2d5-5b50-4002-7a70-e07fc02fd0e7">
-          <para id="UUID7772549f-84c2-4e60-4c56-9c762ff47af4">Wyjaśnić znaczenie trzech zjawisk: problemu koordynacji związanej z obniżaniem płac, kosztów zmienianych jadłospisów oraz makroekonomicznych efektów zewnętrznych</para>
+        <item id="UUIDefc5842f-13e3-4809-789a-96a6005483bc">
+          <para id="UUIDc430826e-bd00-4f7a-421b-307b3bf9d573">W pełni zrozumieć, w jaki sposób ekonomiści podzielający keynesowskie poglądy na gospodarkę interpretują model AD-AS</para>
         </item>
-        <item id="UUIDc865624b-e389-4666-47f2-d3e5fac5c992">
-          <para id="UUIDeec95ea1-eb07-40e4-608d-173c6f1174cd">Zrozumieć działanie mnożnika wydatków autonomicznych</para>
+        <item id="UUID821a69bd-2385-4096-5563-a216ead12701">
+          <para id="UUIDea456421-362b-4884-4688-4d098af2e17d">Wskazać i wyjaśnić sposób działania najważniejszych czynników determinujących poziom konsumpcji, inwestycji, wydatków państwa na dobra i usługi oraz eksportu netto</para>
         </item>
       </list>
     </note>
-    <para id="ch25mod03_p01">Wiedząc, jakie są składniki popytu globalnego, wracamy do keynesowskiej analizy gospodarki z wykorzystaniem modelu popytu globalnego i podaży globalnej (AD-AS). Gospodarkę w ujęciu keynesowskim można także analizować za pomocą modelu wydatki-produkcja (ang. the expenditure-output model), czyli tzw. krzyża keynesowskiego (ang. <foreign xml:lang="en" id="UUIDdd6437be-7d4c-4755-4b56-5eaec5d74c2e">Keynesian cross</foreign>). W tym celu zobacz <link document="m00091" id="UUIDd7dbec69-735f-4f6b-49e5-111ea89cbbcf" />).</para>
-    <para id="UUID8b40da4c-fac6-423e-401d-1b1b09bc9d72">Keynesowska interpretacja modelu AD-AS identyfikuje czynniki, z powodu których w gospodarce pojawiają się kryzysy i recesje, a także wskazuje narzędzia z zakresu polityki gospodarczej pozwalające na minimalizację niekorzystnych następstw tych zjawisk. Keynesowskie spojrzenie na <term cmlnle:reference="recesja" id="UUID2dcc057e-0772-46d5-4256-fa58d1173b3f">recesję</term> (ang. <foreign xml:lang="en" id="UUID89a1ba9d-6a5d-49f2-45f2-8f0bbed8ad28"><term id="UUID3ce29a93-c92b-42b9-4a0b-d774a3aa980f">recession</term></foreign>) opiera się na dwóch kluczowych założeniach. Po pierwsze, popyt globalny nie zawsze w automatyczny sposób dostosowuje swoją wysokość w taki sposób, aby zachęcić przedsiębiorstwa do zwiększania zatrudniania aż do momentu, w którym bezrobocie przymusowe spadnie do zera. Po drugie, w konsekwencji wahań popytu globalnego gospodarka wraca do stanu równowagi długookresowej (tj. do stanu pełnego zatrudnienia osiąganego przy potencjalnym poziomie PKB) w relatywnie wolnym tempie, z uwagi na <term id="UUID4578100c-6db1-49f6-72fe-29ee94f22f14">sztywne (lepkie) płace i ceny</term> (ang. <foreign xml:lang="en" id="UUIDf40a5639-674f-4300-7625-aa6210617c64"><term id="UUIDab1f5a82-6be5-4792-428d-f8b0098b43f1">sticky wages and prices</term></foreign>). Sztywność (lepkość) płac i cen oznacza, że nie zmieniają się one pod wpływem zmian popytu globalnego. Przeanalizujemy po kolei te dwa założenia, a następnie zobaczymy, w jaki sposób są one uwzględnione w modelu AD-AS.</para>
-    <para id="ch25mod03_p04">Zgodnie z pierwszym założeniem szkoły keynesowskiej recesje występują wtedy, gdy popyt na dobra i usługi znajduje się poniżej poziomu odpowiadającemu pełnemu wykorzystaniu czynników wytwórczych. Innymi słowy, przecięcie krzywych popytu globalnego i podaży globalnej następuje przy poziomie PKB niższym niż w stanie pełnego zatrudnienia. Załóżmy, że mamy do czynienia z załamaniem się giełdy (jak w 1929 r.) lub rynku mieszkaniowego (jak w roku 2008). W obu przypadkach wartość majątku gospodarstw domowych zmniejsza się, a w ślad za tym maleją wydatki konsumpcyjne. Gdy przedsiębiorstwa dostrzegają spadek konsumpcji lub napotykają ograniczenia wynikające np. z pandemii, które redukują skalę działalności gospodarczej, pogarszają się ich oceny opłacalności inwestycji, co skutkuje spadkiem wydatków inwestycyjnych.</para>
-    <para id="UUIDd4efd9ca-7969-4f18-781a-fef40d339c87">Powyższa sytuacja wystąpiła podczas Wielkiego Kryzysu, gdy zdolności wytwórcze dotkniętych tym zjawiskiem gospodarek właściwie się nie zmieniły. W latach 1929–1930 nie było powodzi, trzęsienia ziemi czy innych klęsk żywiołowych rujnujących fabryki. Nie wybuchła epidemia, która zdziesiątkowałaby szeregi pracowników. Ceny kluczowych nakładów, np. ropy naftowej, nie wzrosły gwałtownie na rynkach światowych. Gospodarka Stanów Zjednoczonych w 1933 r. miała prawie taki sam stan fabryk, zasób pracowników i poziom technologii jak cztery lata wcześniej, w 1929 r. – a mimo to, biorąc pod uwagę wolumen produkcji, dramatycznie się skurczyła. Tak samo było w roku 2008.</para>
-    <para id="UUIDe15dbef8-923a-4433-7314-b340e3df6f84">Jak zauważył Keynes, scenariusz zdarzeń obserwowanych podczas Wielkiego Kryzysu był sprzeczny z prawem Saya, zgodnie z którym „podaż kreuje popyt na samą siebie”. Chociaż gospodarka posiadała odpowiedni zasób czynników produkcji, ta – ze względu na niedobór popytu – była dużo niższa od poziomu potencjalnego.</para>
-    <note type="note" id="ch25mod03_link01" class="economics linkup">
-      <para id="ch25mod03_p06">Odwiedź poniższą <link url="http://openstax.org/l/expenditures" id="UUID415ab2ed-c843-4e53-6a71-60998cf5bf65">stronę internetową</link>, aby zapoznać się z danymi umożliwiającymi samodzielne obliczenie wartości PKB.</para>
-    </note>
-    <section id="ch25mod03_01">
-      <title id="UUIDbdbc8894-5578-44a3-5de8-090a4caddc05">Sztywność (lepkość) cen i płac</title>
-      <para id="ch25mod03_p07">Zdaniem Keynesa ceny i płace nie reagują na wahania popytu globalnego natychmiast. Uważał on, że ceny i płace są „lepkie” (ang. sticky), co utrudnia powrót gospodarki do stanu pełnego zatrudnienia i potencjalnego PKB. Keynes podkreślał jeden szczególny powód, dla którego płace są lepkie: <term id="UUIDffa82dcb-84d2-4be5-4b88-f75c75d17fc6">problem koordynacji</term> (ang. <foreign xml:lang="en" id="UUID490426b3-2498-4db8-69a9-2accca412021"><term id="UUID1b7b1f3b-5eb3-4a4d-78b0-c4d480fcd4e4">coordination argument</term></foreign>). Problem koordynacji oznacza, że nawet jeśli większość ludzi byłaby skłonna – przynajmniej hipotetycznie – obniżyć swoje wynagrodzenia w czasach gorszej koniunktury, szczególnie gdyby wszyscy inni zatrudnieni również doświadczyli spadku wynagrodzeń, to jednak gospodarka rynkowa nie dysponuje metodą na wdrożenie planu skoordynowanych obniżek płac. W <link document="m00012" cmlnle:case="locative" id="UUID4fc4b93d-e08c-4b6d-7baa-7e8431147ff6" /> wskazany został szereg czynników ograniczających elastyczność płac przy próbie ich obniżenia. Większość z nich odnosi się do potencjalnego spadku zaangażowania pracowników i w konsekwencji ich produktywności, które miałyby być następstwem spadku wynagrodzeń.</para>
-      <para id="UUID810d8019-e76a-42cc-543f-aa20cd6ce8da">Niektórzy współcześni ekonomiści argumentują w duchu keynesowskim, że ceny produktów – podobnie jak płace – także mogą być lepkie. Wiele przedsiębiorstw, o ile nie wszystkie, nie zmienia cen codziennie ani nawet co miesiąc. Kiedy przedsiębiorstwo rozważa zmianę cen, musi wziąć pod uwagę dwa rodzaje kosztów. Po pierwsze, zmiana cen wymaga pewnych nakładów: menedżerowie muszą przeanalizować popyt rynkowy i zachowania konkurentów oraz odpowiednio ustalić nowe ceny, muszą zaktualizować broszury i ulotki reklamowe, zmienić zapisy w księgach rachunkowych oraz wymienić etykiety z cenami na półkach sklepowych i/lub produktach. Po drugie, częste zmiany cen mogą dezorientować i denerwować klientów, zwłaszcza jeśli odkryją oni, że produkt kosztuje teraz więcej, niż się spodziewali. Takie koszty zmiany cen nazywane są <term cmlnle:reference="koszty zmienianych jadłospisów" id="UUIDfe9976a9-c22c-49de-632c-58abf407a9aa">kosztami zmienianych jadłospisów</term> (ang. <foreign xml:lang="en" id="UUIDe95f561f-cec1-4952-70c7-97910fe21680"><term id="UUIDce4bab18-ea37-441a-60ed-79664205809d">menu costs</term></foreign>) (nazwa pochodzi od drukowania nowych kart dań z nowymi cenami w restauracjach). Ceny oczywiście reagują na wahania popytu i podaży, ale z perspektywy makroekonomicznej proces ich zmiany w całej gospodarce jest rozciągnięty w czasie.</para>
-      <para id="ch25mod02_p08">Aby zrozumieć wpływ sztywnych cen i płac na gospodarkę, przeanalizujmy <link target-id="CNX_Econ_C25_024" cmlnle:case="accusative" id="UUIDdd17c2e6-8fbb-4b96-4622-9c05f6a8aa06" />. Panel (a) wykresu przedstawia rynek pracy, zaś panel (b) – rynek produktów. Początkowa równowaga (E<sub>0</sub>) na każdym rynku występuje w punkcie przecięcia krzywej popytu (D<sub>0</sub>) i krzywej podaży (S<sub>0</sub>). Kiedy popyt globalny spada, krzywa popytu na pracę przesuwa się w lewo, do położenia D<sub>1</sub> na panelu (a), a krzywa popytu na produkt przesuwa się w lewo, do położenia D<sub>1</sub> na panelu (b). Jednak ze względu na lepkość płac i cen wynagrodzenia pozostają przez jakiś czas na swoim pierwotnym poziomie W<sub>0</sub>, a ceny – na poziomie P<sub>0</sub>.</para>
-      <para id="ch25mod02_p09">W rezultacie na rynku pracy oraz na rynku produktów pojawia się nadwyżka podaży, która oznacza, że oferowana ilość pracy lub produktów jest większa od zapotrzebowania przy danej płacy lub cenie. Ilość Q<sub>1</sub> jest mniejsza od Q<sub>0</sub> na panelach (a) i (b) <link target-id="CNX_Econ_C25_024" cmlnle:case="genitive" id="UUIDaa4ee722-770f-49b8-4cd9-f72daaaba57f" />. Jeśli sytuacja taka występuje na wielu rynkach, gospodarka znajduje się w recesji. Oznacza to, że przedsiębiorstwa nie mogą sprzedać takiej ilości, jaką chciałyby wyprodukować przy istniejącej cenie rynkowej, i nie chcą zatrudnić wszystkich pracowników, którzy chcieliby pracować przy istniejącej płacy. Ramka „Poznaj szczegóły” dokładniej omawia ten problem.</para>
-      <figure id="CNX_Econ_C25_024">
-        <title id="UUID015a8523-e26a-4d2a-4333-16d3eafff4f8">Spadek popytu na rynku pracy i rynku produktów przy lepkich płacach i cenach</title>
-        <media alt="Dwa wykresy pokazują skutki lepkości cen i płac (czyli nadwyżkę podaży) na rynku pracy i rynku produktów." id="CNX_Econ_C25_024m">
-          <image src="../../media//CNX_Econ_C25_024.svg" mime-type="image/svg+xml" id="UUIDb222b81e-1911-44ad-4aae-bfd9b12d8e0f" />
-        </media>
-        <caption id="UUIDda6951c3-1f7a-49d1-446b-d80856825782">Na panelach (a) i (b) wykresu krzywa popytu przesuwa się w lewo, z położenia D<sub>0</sub> do D<sub>1</sub>. Jednak płace na panelu (a) i ceny na panelu (b) nie spadają natychmiast. Na rynku pracy wielkość popytu na pracę przy początkowym poziomie wynagrodzenia (W<sub>0</sub>) wynosi Q<sub>0</sub>, ale dla nowej krzywej popytu na pracę (D<sub>1</sub>) jest to już tylko Q<sub>1</sub>. Na rynku produktów wielkość popytu przy początkowej cenie (P<sub>0</sub>) wynosi Q<sub>0</sub>, ale dla nowej krzywej popytu (D<sub>1</sub>) już tylko Q<sub>1</sub>. Na rynku pracy wystąpi nadwyżka podaży pracy, czyli bezrobocie. Na rynku produktów również pojawi się nadwyżka podaży, ponieważ wielkość zapotrzebowania jest znacznie mniejsza niż ilość oferowana. A zatem lepkie ceny i płace w połączeniu ze spadkiem popytu globalnego powodują bezrobocie i recesję.</caption>
-      </figure>
-      <note type="note" id="ch25mod02_clear01" class="clearup economics">
-        <title id="UUIDa806c06b-a5c1-4c67-4c1c-5051c4817d5e">Dlaczego dostosowanie płac następowało w USA tak powoli?</title>
-        <para id="ch25mod02_p11">W Stanach Zjednoczonych ożywienie po globalnym kryzysie finansowym było stosunkowo powolne. Wielu relatywnie nisko opłacanych pracowników sektora usług, w przedsiębiorstwach takich jak McDonalds, Dominos i Walmart, zagroziło strajkiem w celu uzyskania wyższych wynagrodzeń. Ich trudna sytuacja była częścią szerszego trendu charakteryzującego wzrost zatrudnienia i płac w okresie ożywienia gospodarczego po głębokiej recesji.</para>
-        <figure id="CNX_Econ_C25_028">
-          <title id="UUIDa6e27358-6bf7-4a53-7c56-7a758dd28576">Miejsca pracy utracone i utworzone w okresie recesji lub ożywienia</title>
-          <media alt="Wykres po lewej stronie wskazuje, że większość miejsc pracy utraconych podczas recesji dotyczyła pracowników o średnim poziomie wynagrodzeń (60%). Wykres po prawej stronie pokazuje z kolei, że większość miejsc pracy utworzonych podczas ożywienia dotyczyła nisko opłacanych stanowisk (58%)." id="CNX_Econ_C25_028m">
-            <image src="../../media//CNX_Econ_C25_028.svg" mime-type="image/svg+xml" id="UUID7dd6aabb-5916-43d3-7964-04bac9f0021c" />
-          </media>
-          <caption id="UUID1ff5c316-2c81-4e7d-742c-bc33ef2678d6">W wyniku globalnego kryzysu finansowego zlikwidowano przede wszystkim miejsca pracy osób o średnim poziomie wynagrodzeń, zaś w okresie następującym bezpośrednio po tej recesji utworzono głównie stanowiska niskopłatne.</caption>
-        </figure>
-        <para id="UUIDa59f4da1-e8f9-4aaf-6a13-4a5e6df42389">Dane dla Stanów Zjednoczonych wskazują, że podczas globalnego kryzysu finansowego 60% utraconych miejsc pracy dotyczyło stanowisk o średnim poziomie wynagrodzeń. Większość z nich została zastąpiona w okresie ożywienia gospodarczego niskopłatnymi miejscami pracy w usługach, handlu detalicznym oraz branży spożywczej.</para>
-        <para id="UUIDbafb6fd3-9aac-44af-4f00-4c8abc142861">Wynagrodzenia w tych sektorach są równe lub zbliżone do płacy minimalnej i „lepkie” zarówno przy próbach ich obniżki, jak i podwyżki. Płace są lepkie przy próbach obniżki ze względu na przepisy dotyczące płacy minimalnej (nie można ich już zgodnie z prawem zmniejszyć). Są także lepkie przy próbach podwyżki, ponieważ niewielka konkurencja na rynku pracy dla osób o niskich kwalifikacjach pozwala pracodawcom unikać podnoszenia wynagrodzeń, co czynią chętnie, maksymalizując swoje zyski. Jednocześnie wskaźnik cen towarów i usług konsumpcyjnych w latach 2007–2012 wzrósł o 11%, obniżając płace realne tych pracowników.</para>
+    <para id="ch25mod01_p01">Analizując gospodarkę z keynesowskiego punktu widzenia, koncentrujemy się przede wszystkim na popycie globalnym. Dlaczego? Ponieważ przedsiębiorstwa produkują tylko wtedy, gdy są przekonane, że ich towary znajdą nabywców. O ile więc zasób oraz produktywność czynników wytwórczych wpływają na wielkość <term cmlnle:reference="potencjalny PKB" id="UUID79601c01-d15d-45eb-66e6-314e677b6c31">potencjalnego PKB</term> (ang. <foreign xml:lang="en" id="UUID6197eb8f-4a27-4dae-6481-70b87bc834af"><term id="UUID9d55ea14-d62c-4902-524a-a2925790d870">potential GDP</term></foreign>), o tyle faktyczny wolumen produkcji, czyli <term id="UUID0e708139-fa6a-484a-55ad-90f9b0feab84">realny PKB</term> (ang. <foreign xml:lang="en" id="UUIDdd124f70-941a-4283-6b4b-740a07db79e4"><term id="UUID203a9ea2-8714-41e8-7c59-5b6ef58026be">real GDP</term></foreign>), zależy od tego, jakie są rozmiary zagregowanego (globalnego) popytu. Obrazuje to <link target-id="CNX_Econ_C25_031" id="UUID5eecc909-bdd2-45c4-46be-38e1e6facab3" />.</para>
+    <figure id="CNX_Econ_C25_031">
+      <title id="UUID8662d321-c0b4-49e3-7c3e-1621fa846a74">Keynesowska interpretacja modelu AD-AS</title>
+      <media alt="Zgodnie z keynesowskim ujęciem modelu AD-AS krzywa podaży globalnej jest pozioma, co oznacza, że spadek popytu prowadzi do spadku produkcji, ale nie do spadku cen." id="mCNX_Econ_C25_031">
+        <image src="../../media//CNX_Econ_C25_031.svg" mime-type="image/svg+xml" id="UUID2125d113-087b-49d5-53a4-3baa4f94583d" />
+      </media>
+      <caption id="UUIDc08ec81c-4bd8-4a5d-4eff-f64cc1798588">Keynesowski sposób interpretacji modelu AD-AS zakłada, że krzywa podaży globalnej (SAS) jest płaska (pozioma) przy produkcji poniżej poziomu potencjalnego i pionowa dla produkcji potencjalnej. Zatem gdy produkcja kształtuje się na dowolnym poziomie poniżej potencjalnego, dowolny spadek popytu globalnego (AD) prowadzi tylko do zmniejszenia produkcji, a poziom cen się nie zmienia. Z kolei wzrost popytu globalnego prowadzi do wzrostu produkcji przy stałym poziomie cen (do momentu, w którym gospodarka nie osiągnie potencjalnego PKB).</caption>
+    </figure>
+    <para id="ch25mod01_p02">Keynes argumentował, że – z powodów, które za chwilę wyjaśnimy – popyt globalny nie utrzymuje się na stałym poziomie, lecz wykazuje nieoczekiwane wahania. Załóżmy, że gospodarka znajduje się w punkcie, w którym krzywa AD przecina krzywą SAS przy poziomie cen P<sub>0</sub> i produkcji Y<sub>p</sub>. Skoro Y<sub>p</sub> jest produkcją potencjalną, w gospodarce występuje pełne zatrudnienie. Ponieważ popyt globalny nie jest stały w czasie, może łatwo spaść. Jeśli AD spadnie, to gospodarka – nawet gdy startuje z poziomu potencjalnego – znajdzie się w stanie określanym przez Keynesa jako <term id="UUIDb97ffc17-6aaa-4043-464b-d712ce0f457a">luka deflacyjna (luka recesyjna)</term> (ang. <foreign xml:lang="en" id="UUIDd2d0e989-8334-4467-6d0b-4cde69584d9b"><term id="UUID0aad56b3-66a8-4b27-7fcb-5943b1526638">recessionary gap</term></foreign>). Jest to nadal punkt równowagi, ale poniżej poziomu pełnego zatrudnienia, co odpowiada np. produkcji Y<sub>1</sub> na <link target-id="CNX_Econ_C25_031" cmlnle:case="locative" id="UUIDef4d602b-d4dd-4012-7177-ea0f38be5f9f" />. Keynes uważał, że nawet w średnim i długim okresie gospodarkę może charakteryzować luka deflacyjna, z towarzyszącym jej przymusowym bezrobociem.</para>
+    <para id="UUID8be46bd8-9b32-490f-798f-25cf473a6dec">W analogiczny sposób (chociaż nie zostało to zilustrowane na wykresie) gospodarka może wpaść w <term cmlnle:reference="luka inflacyjna" id="UUIDede0c290-7351-4bcb-66fa-c8a96fbe4801">lukę inflacyjną</term> (ang. <foreign xml:lang="en" id="UUIDffdcaff0-59ed-467d-6b8c-7a580596728b"><term id="UUID171b39d8-0082-4fd3-6653-4df344a72976">inflationary gap</term></foreign>), gdy AD wzrośnie do poziomu przekraczającego produkcję potencjalną. W konsekwencji pojawi się inflacja, ponieważ gospodarka nie może w trwały sposób przekroczyć poziomu potencjalnego tylko na skutek wzrostu popytu, bez powiększenia wolumenu czynników wytwórczych lub wzrostu ich produktywności. Niezależnie od tego, która ze wskazanych wyżej sytuacji wystąpi, polityka gospodarcza powinna być ukierunkowana na likwidację luki deflacyjnej lub inflacyjnej, w zależności od tego, która z nich pojawi się w gospodarce. Państwo winno zatem zwiększyć wydatki podczas recesji i zmniejszyć je w okresach przyspieszającej inflacji (ożywienia gospodarczego), tak aby popyt globalny powrócił do poziomu odpowiadającego produkcji potencjalnej.</para>
+    <para id="ch25mod02_p03">Zgodnie z informacjami przedstawionymi w poprzednich rozdziałach popyt globalny (zagregowany) to łączne wydatki na dobra i usługi wyprodukowane w danym kraju. Popyt globalny [AD] jest w rzeczywistości tym, co ekonomiści nazywają całkowitymi planowanymi wydatkami. Więcej informacji na ten temat można znaleźć w dodatku opisującym sposób interpretacji modelu wydatki-produkcja, w <link document="m00092" cmlnle:case="locative" id="UUIDaf98c591-f3f7-4643-6aa1-c08dd097959e" />. Wiemy jednocześnie, że popyt globalny jest sumą czterech składników: wydatków konsumpcyjnych, wydatków inwestycyjnych, wydatków państwa na dobra i usługi (zakupów państwa) oraz wydatków netto zagranicy (tj. eksportu netto, czyli eksportu pomniejszonego o import). W kolejnej części podrozdziału przeanalizujemy dokładnie poszczególne składniki popytu globalnego z perspektywy keynesowskiej.</para>
+    <section id="ch25mod02_01">
+      <title id="UUIDf957ff1c-79ba-4343-715d-38d0f1624dda">Czynniki determinujące konsumpcję</title>
+      <para id="ch25mod02_p05">Konsumpcja to wydatki gospodarstw domowych na dobra i usługi, w tym na dobra trwałego użytku. Te ostatnie to przedmioty, które służą nam w średnim i długim okresie (w perspektywie lat lub nawet dekad), utrzymując pewną wartość. Będą to więc samochody, artykuły RTV AGD, meble, biżuteria, dzieła sztuki itd. Wszystkie inne dobra, takie jak artykuły spożywcze, po skonsumowaniu przestają istnieć. Z kolei usługi to towary, które nie mają materialnej postaci – porada lekarska, wizyta w kinie lub płatne konto w banku itp.</para>
+      <para id="UUID88dbe16a-9df8-4b36-5905-030aa9eb7232">Keynes zidentyfikował trzy główne czynniki, które wpływają na poziom konsumpcji:</para>
+      <list id="ch25mod02_list01">
+        <item id="UUID5594e3b0-f5f5-4176-5370-3fef08e8fd9e">
+          <para id="UUID8877e36f-4b71-41dc-581d-71b1d6acc408">Dochód rozporządzalny. Konsumpcja większości z nas jest określana przez dochód uzyskiwany z pracy oraz wynajmu lub sprzedaży innych czynników produkcji (kapitału, ziemi), nazywany również <term id="UUID7a934d36-7c62-47fb-46c2-d0d5f976cad3">dochodem rozporządzalnym</term> (ang. <foreign xml:lang="en" id="UUIDaaa17d96-7bf1-4ee8-44c6-a7af58a327c0"><term id="UUID1724d9d6-208e-4353-4a0a-80b40758797a">disposable income</term></foreign>). Jest to więc dochód czynników produkcji po uwzględnieniu transferów (np. stypendium studenckiego, środków z programu „Rodzina 500 Plus” i innych zasiłków) i odliczeniu podatków.</para>
+        </item>
+        <item id="UUID427c8647-2397-46c8-4fc4-7f29104ab7b0">
+          <para id="UUIDaba59c61-ddb1-426a-46c1-f05d52424eea">Oczekiwany przyszły dochód. Przewidywania konsumentów dotyczące przyszłości są ważne przy określaniu wielkości konsumpcji. Jeśli z optymizmem patrzą oni w przyszłość, chętniej wydają pieniądze, zwiększając tym samym popyt globalny. Natomiast doniesienia medialne wieszczące nadchodzącą recesję i kłopoty gospodarcze będą ich raczej skłaniać do ograniczenia konsumpcji.</para>
+        </item>
+        <item id="UUID08189f2b-de04-4e01-5966-40bab2cbe8e6">
+          <para id="UUIDd4275e77-def2-4d0b-7e51-47ca3fd3e22c">Majątek. Gdy majątek gospodarstw domowych rośnie, są one skłonne konsumować większą część swoich dochodów i oszczędzać mniej. Na przykład kiedy pod koniec lat 90. XX w. amerykańska giełda zanotowała silne wzrosty, stopa oszczędności w USA zmalała. Prawdopodobnie stało się tak dlatego, że ludzie, widząc, iż ich majątek utrzymywany w akcjach się zwiększył, łatwiej decydowali się na wydatkowanie większej części swego bieżącego dochodu. W jaki sposób ludzie wydają na konsumpcję więcej, niż zarabiają? Poprzez zaciąganie kredytów i pożyczek. Z drugiej strony, kiedy giełda w USA od marca 2008 r. do marca 2009 r. zanotowała spadek o blisko 40%, majątek gospodarstw domowych utrzymywany w papierach wartościowych gwałtownie się zmniejszył, co doprowadziło do wzrostu stopy oszczędności i spadku konsumpcji.</para>
+        </item>
+      </list>
+      <para id="ch25mod02_p07">Zdaniem Keynesa istnieje także wiele innych, mniej istotnych czynników wpływających na to, jaką część rozporządzalnego dochodu gospodarstwa domowe konsumują, a jaką oszczędzają (wielkość oszczędności i konsumpcji). Jeśli preferencje gospodarstw domowych zmienią się tak, że zwiększą one swoją konsumpcję oraz zmniejszą oszczędności, krzywa popytu globalnego przesunie się w prawo.</para>
+      <note type="note" id="ch25mod02_link01" class="economics linkup">
+        <para id="ch25mod02_p08">Odwiedź poniższą <link url="http://openstax.org/l/Diane_Rehm" id="UUID7262b7c1-6233-4d3e-7e65-80c0ee0717c5">stronę internetową</link>, aby uzyskać więcej informacji o tym, jak recesja wpłynęła na różne grupy ludzi.</para>
       </note>
     </section>
     <section id="ch25mod02_02">
-      <title id="UUID357222ab-24c2-44b0-666c-528dcb44e9df">Dwa keynesowskie założenia w modelu AD-AS</title>
-      <para id="ch25mod02_p14"><link target-id="CNX_Econ_C25_035" id="UUIDec1ea568-390c-44a5-7206-95feb7b9ebd8" /> przedstawia sposób funkcjonowania modelu AD-AS, w który wbudowane zostały dwa fundamentalne keynesowskie założenia. Pierwszym z nich jest kluczowa rola popytu globalnego jako czynnika wywołującego recesję, drugim – sztywność cen i płac. Ze względu na lepkość cen i płac makroekonomiczna krzywa podaży globalnej jest bardziej płaska niż mikroekonomiczne krzywe podaży pracy lub konkretnego dobra. Gdy ceny i płace są na tyle lepkie, że w ogóle się nie zmieniają w odpowiedzi na przesunięcia krzywej popytu, krzywa podaży globalnej jest całkowicie płaska (pozioma) dla wszystkich rozmiarów produkcji niższych od potencjalnego poziomu PKB, jak pokazano to na <link target-id="CNX_Econ_C25_035" cmlnle:case="locative" id="UUID5158d553-1b29-4b39-6f17-60d725a4eba2" />. Konkluzja ta jest jednym z najważniejszych przykładów tzw. <term cmlnle:reference="makroekonomiczny efekt zewnętrzny" id="UUID7ec96e2a-9cd1-4977-5e32-267c7bcf16a1">makroekonomicznego efektu zewnętrznego</term> (ang. <foreign xml:lang="en" id="UUIDd4b0d8e4-abce-4eef-5674-a4681b0443fd"><term id="UUID1628bd84-d7b4-4c15-4404-17d915ddf4ad">macroeconomic externality</term></foreign>), Polega on na tym, że ścieżka dostosowań parametrów makroekonomicznych do różnego rodzaju szoków (zmian) jest nie tylko odmienna, ale z punktu widzenia gospodarki również mniej korzystna od dostosowań na poziomie mikroekonomicznym. Jeśli popyt na dobra lub usługi produkowane przez konkretne przedsiębiorstwo spada, zazwyczaj nie ma ono żadnych problemów, aby obniżyć ceny i tym samym zwiększyć sprzedaż. Jednak jeśli wszystkie przedsiębiorstwa doświadczają spadku popytu na swoje produkty (popyt globalny się zmniejsza), lepkie ceny w całej gospodarce uniemożliwiają dostosowanie się popytu globalnego (co pokazalibyśmy jako ruch wzdłuż krzywej AD w kierunku niższych cen).</para>
-      <para id="UUID189a4980-3144-40b1-6053-cda8b05d084a">Początkowa równowaga w gospodarce znajduje się w punkcie przecięcia krzywej popytu globalnego (AD<sub>0</sub>) i krzywej podaży globalnej (AS). Ponieważ punkt przecięcia znajduje się na poziomie potencjalnego PKB (Y<sub>p</sub>), w gospodarce występuje pełne zatrudnienie. Jednak kiedy popyt globalny przesuwa się w lewo, sztywne ceny i płace sprawiają, że realny PKB spada, zaś ceny w ogóle się nie zmieniają. Ponieważ nowa równowaga występuje przy produkcji równej Y<sub>1</sub>, pojawia się wysokie bezrobocie przymusowe.</para>
-      <figure id="CNX_Econ_C25_035">
-        <title id="UUID50b133fa-2c8e-41d9-7602-bcea4c3c3836">Keynesowski sposób postrzegania recesji</title>
-        <media alt="Wykres przedstawia krzywą popytu globalnego, która przesuwa się w lewo, co w konsekwencji prowadzi do głębokiego spadku poziomu produkcji i utrzymania niezmiennego poziomu cen." id="mCNX_Econ_C25_035">
-          <image src="../../media//CNX_Econ_C25_035.svg" mime-type="image/svg+xml" id="UUID58506f71-226b-414b-4c25-b4e39d24d955" />
-        </media>
-        <caption id="UUID1a36cd0b-f791-421f-4a70-517eebec34cc">Rysunek przedstawia sposób funkcjonowania modelu AD-AS, w który wbudowane zostały dwa kluczowe założenia ekonomii keynesowskiej. Recesja w gospodarce pojawia się, gdy popyt globalny spada z AD<sub>0</sub> do AD<sub>1</sub>. Spadek poziomu realnego PKB jest trwały, ze względu na założenie stałości cen i płac, co przekłada się na płaską krzywą SAS dla wszystkich rozmiarów produkcji poniżej poziomu potencjalnego. Uchylenie tego założenia umożliwiłoby obniżenie cen (i płac), czego skutkiem byłoby ograniczenie skali spadku PKB (recesji). Jeśli krzywa podaży globalnej jest pozioma, nowym punktem równowagi staje się E<sub>1</sub>, przy znacznie niższej od poziomu potencjalnego wartości PKB.</caption>
-      </figure>
+      <title id="UUIDc5449f52-d3fd-4ee4-6e00-b36ce51f6ce6">Czynniki determinujące inwestycje</title>
+      <para id="ch25mod02_p09">Wydatki na nowe dobra kapitałowe nazywamy <term cmlnle:reference="wydatki inwestycyjne" id="UUID57fd30fe-6d68-47ec-52b6-08554e059b80">wydatkami inwestycyjnymi</term> (ang. <foreign xml:lang="en" id="UUIDdc5cddd2-1793-4eb1-70ea-82a43bcd7841"><term id="UUID3922b561-4e74-4512-6394-2a8978caa7f2">investment expenditure</term></foreign>). Inwestycje dzielą się na cztery kategorie: środki trwałe przedsiębiorstw (w tym oprogramowanie), obiekty niemieszkalne (np. fabryki, biura i centra handlowe), zmiany stanu zapasów oraz obiekty mieszkalne (domy jednorodzinne, kamienice itp.). Przedsiębiorstwa dokonują pierwszych trzech rodzajów inwestycji, a gospodarstwa domowe – ostatniego.</para>
+      <para id="UUID795b5691-53b1-4a4a-6803-cff56a0bba6b">Keynesowskie podejście do inwestycji koncentruje się na kluczowej roli oczekiwań w kształtowaniu decyzji biznesowych. Kiedy przedsiębiorstwo decyduje się zakup środków trwałych, np. maszyn, całej linii produkcyjnej czy wręcz wybudowanie nowej fabryki, ale też dokonanie inwestycji w aktywa niematerialne, np. prowadzenie prac badawczo-rozwojowych lub szkolenia zwiększające kompetencje pracowników, bierze pod uwagę zarówno oczekiwane przyszłe korzyści z inwestycji (zyski), jak i jej spodziewane koszty (koszt alternatywny kapitału zaangażowanego w inwestycje mierzony stopą procentową).</para>
+      <list id="ch25mod02_list02">
+        <item id="UUID6b40aa7f-c022-4824-6ce9-18fdb6f3d076">
+          <para id="UUIDb3c70c9f-657c-4e0a-59b9-b2e1d7ebc9ff">Oczekiwania dotyczące przyszłych zysków są najważniejszym czynnikiem wpływającym na skłonność do inwestycji. W sytuacji, w której w gospodarce panuje konsensus dotyczący przewidywanego przyspieszenia tempa wzrostu gospodarczego, przedsiębiorstwa spodziewają się zwiększonego popytu na swoje produkty. Lepsze nastroje producentów zachęcają ich do nowych inwestycji. Na przykład w drugiej połowie lat 90. XX w. poziom inwestycji w USA wzrósł z 18% PKB w 1994 r. do 21% PKB w roku 2000. Jednak gdy w 2001 r. rozpoczęła się recesja, w roku 2002 inwestycje w USA ponownie spadły, do poziomu 18% PKB.</para>
+        </item>
+        <item id="UUID565988bb-84a4-4c9c-547c-54ab8bea76f1">
+          <para id="UUIDe43a01ee-e391-42e3-57ea-979a2902bf70">Wysokość stóp procentowych jest kolejnym ważnym czynnikiem wpływającym na rozmiary inwestycji przedsiębiorstw. Tak jak gospodarstwa domowe muszą zazwyczaj pożyczać pieniądze na zakup domów i mieszkań, tak firmy potrzebują finansowania, gdy dokonują dużych wydatków. Kosztem inwestycji jest stopa procentowa. Nawet jeśli przedsiębiorstwo posiada środki finansowe, stopa procentowa mierzy koszt alternatywny wykorzystywanego kapitału (przecież zamiast inwestować, można by wpłacić pieniądze do banku lub kupić za nie obligacje skarbowe i otrzymywać dochód w postaci odsetek). Niższe stopy procentowe stymulują wydatki inwestycyjne, a wyższe je ograniczają.</para>
+        </item>
+      </list>
+      <para id="ch25mod02_p11">Oczekiwana rentowność inwestycji zależy od wielu czynników. Jeśli ceny energii maleją, energochłonne inwestycje (np. związane z produkcją nawozów sztucznych) przyniosą większe zyski. Jeśli państwo oferuje specjalne zachęty do inwestowania (np. ulgi podatkowe), inwestycje będą bardziej atrakcyjne. I odwrotnie, jeśli państwo zlikwiduje ulgi podatkowe lub podniesie podatki dla przedsiębiorstw, atrakcyjność inwestycji spadnie. Zdaniem Keynesa inwestycje firm są najbardziej zmiennym składnikiem popytu globalnego.</para>
     </section>
     <section id="ch25mod02_03">
-      <title id="UUIDffe092b2-7251-4f13-4f9e-c8ef467a6e75">Mnożnik wydatków autonomicznych</title>
-      <para id="ch25mod02_p016">Kluczową koncepcją w ekonomii keynesowskiej jest <term id="UUID232f2887-4590-48e1-4897-041d7322af48">mnożnik wydatków autonomicznych (mnożnik wydatków)</term> (ang. <foreign xml:lang="en" id="UUID6a056e1c-dfcd-431a-79eb-0730ddcdc721"><term id="UUIDf7e371dd-806e-45b5-7cbe-dae96ea7ed79">expenditure multiplier</term></foreign>). Nie chodzi tu jednak o proste stwierdzenie, że poziom wydatków wpływa na wartość PKB. Mnożnik pokazuje, że zmiana wydatków powoduje większą niż proporcjonalna zmianę PKB (wzrost wydatków o jednostkę pieniężną – dolara lub złotego – zwiększa wartość PKB o więcej niż jednego dolara lub złotego). A zatem:</para>
-      <equation id="ch25mod02_eq1" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML">
- <mrow>
-  <mfrac>
-   <mrow>
-    <mtext>ΔY</mtext>
-   </mrow>
-   <mrow>
-    <mtext>ΔWydatki</mtext>
-   </mrow>
-  </mfrac>
-  <mo>></mo><mn>1</mn>
- </mrow>
-</math></equation>
-      <para id="UUID31c1e392-d7ac-410f-46a0-cf968f773b4a">Zgodnie z mechanizmem mnożnikowym wydatki jednej osoby stają się dochodem innych osób, co prowadzi do wzrostu wydatków tych osób, które przekładają się na kolejny wzrost dochodów, co przekłada się na kolejny wzrost wydatków itd. W konsekwencji skumulowany wpływ pierwotnego impulsu na PKB jest większy niż wartość tego impulsu. Dodatek dotyczący <term id="UUIDb79f3bac-25f9-49fb-4636-9210953aea81">modelu wydatki-produkcja</term> (<link document="m00091" id="UUIDdb76f92f-3aae-4909-5f59-681a3da29296" />) zawiera szczegółowe informacje na temat mechanizmu mnożnikowego, ale koncepcja ta jest na tyle ważna, że wspominamy o niej już teraz. Z mechanizmem mnożnikowym mamy do czynienia zawsze wtedy, gdy następuje zmiana wydatków autonomicznych, czyli takich, które są niezależne od bieżącego dochodu (przede wszystkich inwestycji i wydatków państwa). Dlatego też znajomość koncepcji mnożnika jest kluczowa dla zrozumienia skuteczności polityki fiskalnej. Mechanizm mnożnikowy działa oczywiście zarówno wtedy, gdy wydatki rosną (zwiększając ponadproporcjonalnie wartość PKB), jak i wtedy, gdy maleją (ponadproporcjonalnie zmniejszając wartość PKB). Na przykład załamanie wydatków inwestycyjnych podczas Wielkiego Kryzysu spowodowało spadek realnego PKB znacznie większy niż kwota, o którą te inwestycje się zmniejszyły. W analizie skutków polityki gospodarczej istotna jest wartość mnożnika. Była ona ważnym elementem dyskusji na temat skuteczności fiskalnego pakietu stymulacyjnego wprowadzonego w USA za prezydentury Baracka Obamy.</para>
+      <title id="UUIDd3007b52-15ed-41e8-6b71-e16925f6973c">Czynniki determinujące poziom wydatków państwa na dobra i usługi</title>
+      <para id="UUID7a69cf8e-43a6-49cd-6c2b-64d5b3272cec">Trzecim składnikiem popytu globalnego są wydatki państwa na dobra i usługi (obejmujące zarówno wydatki rządu centralnego, jak i jednostek samorządu terytorialnego). Chociaż zarówno Stany Zjednoczone, jak i Polskę zwykle postrzegamy (i słusznie!) jako gospodarki rynkowe, państwo nadal odgrywa znaczącą rolę w tworzeniu ich popytu globalnego. Na zajęciach z mikroekonomii omawiane było zaangażowanie państwa w zakupy dóbr publicznych i finansowanych ze środków publicznych dóbr prywatnych, takich jak odpowiednio: obrona narodowa, bezpieczeństwo publiczne i infrastruktura transportowa (drogi i linie kolejowe), a także edukacja i opieka zdrowotna.</para>
+      <para id="UUIDaa4d900b-faa4-42c6-6269-2879cfb3ca6d">Zdaniem Keynesa państwo za pomocą polityki fiskalnej (budżetowej) może z ogromną siłą wpływać na popyt globalny. Z jednej strony zwiększanie wydatków państwa stymuluje popyt globalny, a zmniejszanie wydatków go obniża. Z drugiej zaś obniżanie lub podnoszenie stawek podatkowych (zwiększanie lub zmniejszanie transferów) wpływa na konsumpcję i inwestycje (pomyśl w tym kontekście o wpływie wypłaty tzw. trzynastej emerytury na konsumpcję w Polsce). Keynes doszedł do wniosku, że w skrajnych sytuacjach, takich jak głęboka recesja, tylko państwo ma siłę i środki, aby podtrzymać poziom popytu globalnego. Na przykład podczas recesji wywołanej pandemią w 2020 r. zarówno rząd federalny w USA, jak i rząd Polski przekazały bardzo poważne środki przedsiębiorstwom i gospodarstwom domowym (w ramach tzw. tarcz antykryzysowych), aby wesprzeć gospodarkę, gdy wiele przedsiębiorstw musiało wstrzymać działalność lub doświadczyło dużego spadku dochodów i musiało zwolnić pracowników.</para>
+    </section>
+    <section id="ch25mod02_04">
+      <title id="UUID5e1e9cfa-35a1-458d-5691-bae83e34e669">Czynniki wpływające na eksport netto</title>
+      <para id="ch25mod02_p14">Przypomnijmy, że <term id="UUIDa6264e54-cb92-4e14-59f6-5ab6d1f1b375">eksport</term> (ang. <foreign xml:lang="en" id="UUID97a9335c-e2ff-4d94-4575-3d26576d1599"><term id="UUID848cc8df-6ed1-4c7b-77ed-fece8ae11319">exports</term></foreign>) o sprzedaż za granicę produktów wytworzonych w kraju, a <term id="UUIDa8ff1bca-3b76-47dc-7404-a87d84906071">import</term> (ang. <foreign xml:lang="en" id="UUID945d69ae-a564-416a-5069-778a1ad4bb35"><term id="UUID8a24d1d0-e9a8-4792-7ada-e7c7d2a24df1">imports</term></foreign>) to zakup produktów wytworzonych za granicą. Ponieważ popyt globalny definiujemy jako wielkość wydatków na dobra i usługi wyprodukowane w kraju, eksport zwiększa popyt globalny, zaś import należy od tego parametru odjąć.</para>
+      <para id="UUID1d201a0d-d5bc-4fad-690a-2769531fe179">Wahania eksportu i importu zależą przede wszystkim od dwóch grup czynników: zmian względnych stóp wzrostu gospodarczego oraz zmian względnych cen pomiędzy krajami prowadzącymi wymianę handlową. Sytuacja gospodarcza u partnerów handlowych silnie wpływa na wielkość eksportu danego kraju. Na przykład, jeśli główni importerzy polskich produktów, m.in. Niemcy, Czechy i pozostałe kraje UE, doświadczają recesji (tak jak to miało miejsce po roku 2008), eksport polskich produktów do tych państw najprawdopodobniej spadnie. Analogicznie poziom dochodu w danym kraju wpływa bezpośrednio na wielkość importu: wzrost dochodu powoduje wzrost importu, zaś spadek dochodu lub gwałtowne spowolnienie tempa wzrostu (co wystąpiło w Polsce w 2023 r.) będzie ograniczał wolumen importu.</para>
+      <para id="UUID791d8c00-7328-494d-6d53-c309edf5c808">Względne ceny towarów na rynkach międzynarodowych również wpływają na wartość eksportu i importu. Jeśli polskie towary są relatywnie tańsze niż produkty wytwarzane w innych państwach, np. w wyniku postępu technicznego powodującego wzrost wydajności pracy, polski eksport prawdopodobnie wzrośnie. Jeśli polskie towary staną się relatywnie droższe, np. z powodu wzrostu cen czynników wytwórczych (kosztów pracy) lub w wyniku niekorzystnej z punktu widzenia przedsiębiorstw zmiany kursu walutowego polskiego złotego (dokładniej – umocnienia kursu złotego w stosunku do dolara i/lub euro), eksport Polski najprawdopodobniej spadnie. <link target-id="ch25mod02_tbl01" id="UUIDa12450b9-3021-4545-72ae-f5de8ee0e3fe" /> przedstawia listę czynników wpływających na cztery składniki popytu globalnego.</para>
+      <table summary="The table shows summaries of common reasons for changes in aggregate demand. Column 1 lists the Reasons for a Decrease in Aggregate Demand. Column 2 lists the Reasons for an Increase in Aggregate Demand. Consumption (for decrease in aggregate demand): Rise in taxes; Fall in income; Rise in interest; Desire to save more; Decrease in wealth; Fall in future expected income. Consumption (for increase in aggregate demand): Decrease in taxes; Increase in income; Fall in interest; Desire to save less; Rise in wealth; Rise in future expected income. Investment (for decrease in aggregate demand): Fall in expected rate of return; Rise in interest rates; Drop in business confidence. Investment (for increase in aggregate demand): Rise in expected rate of return; Drop in interest rates; Rise in business confidence. Government (for decrease in aggregate demand): Reduction in government spending; Increase in taxes. Government (for increase in aggregate demand): Increase in government spending; Decrease in taxes. Net exports (for decrease in aggregate demand): Decrease in foreign demand; Relative price increase of U.S. goods. Net exports (for increase in aggregate demand): Increase in foreign demand; Relative price drop of U.S. goods." id="ch25mod02_tbl01"><title id="UUIDe008b6e4-6a24-4e9c-5f02-15fef011f424">Determinanty popytu globalnego</title><tgroup cols="2" id="UUIDe4f3505a-c338-4131-47f1-d1b4d19cad27"><thead id="UUID0755e356-4010-4b4e-6d7c-e32ce34ff4e2"><row id="UUID3023a258-fdef-4277-4ea3-55547dee0621"><entry id="UUIDd00bb79b-8cea-493d-419f-5b95102d85c6">Czynniki wpływające na spadek popytu globalnego</entry><entry id="UUIDfbc74c24-950b-45cf-7ee0-b249949a4517">Czynniki wpływające na wzrost popytu globalnego</entry></row></thead><tbody id="UUIDe5dc95d1-f630-4e5c-643d-661cfa152fc8"><row id="UUID84be054a-d713-4d98-6dc7-80506b85372c"><entry namest="col1" nameend="col2" align="center" id="UUIDec62a7b3-ed44-4143-60e3-b120a4ca5ab5"><emphasis effect="bold"><emphasis effect="italics">Konsumpcja</emphasis></emphasis></entry><entry id="UUID704d5026-ccds-aw32-8edaa032d9f60e60" /></row><row id="UUIDd4c00526-ff67-7grt-443a-9f9df8613ba6"><entry id="UUID1fa80912-kiu7-ewwe-5e8a-f3c0045f3902">Podwyżka podatków / zmniejszenie kwoty transferów</entry><entry id="UUID3d497298-da62-9dre-64ef-3b8419a9d965">Obniżka podatków / zwiększenie kwoty transferów</entry></row><row id="UUIDd4c00526-fdsw-7grt-hytr-9f9df8613ba6"><entry id="UUID1fa80912-nbnb-wewe-5e8a-f3c0045f3902">Spadek dochodu</entry><entry id="UUID3d497298-da62-cdse-64ef-3b8419a9d965">Wzrost dochodu</entry></row><row id="UUIDd4c00526-ff67-nhgt-443a-9f9df8613ba6"><entry id="UUID1fa80912-1660-ssde-5e8a-f3c0045f3902">Podwyżka stóp procentowych</entry><entry id="UUID3d497298-aasw-we35-64ef-3b8419a9d965">Obniżka stóp procentowych</entry></row><row id="UUIDd4c00526-ff67-mmjh-bgte-9f9df8613ba6"><entry id="UUID1fa80912-1660-wewe-5e8a-f3c0045f3902">Zwiększenie skłonności do oszczędzania</entry><entry id="UUID3d497298-sdxs-cdse-64ef-3b8419a9d965">Zmniejszenie skłonności do oszczędzania</entry></row><row id="UUIDd4c00526-mnjh-7grt-443a-9f9df8613ba6"><entry id="UUID1fa80912-1660-6556-5e8a-f3c0045f3902">Zmniejszenie wartości majątku</entry><entry id="UUID3d497298-nbhy-sdcx-64ef-3b8419a9d965">Zwiększenie wartości majątku</entry></row><row id="UUIDd4c00526-o465-7grt-hytr-9f9df8613ba6"><entry id="UUID1fa80912-1660-bvdr-5e8a-f3c0045f3902">Pogorszenie nastrojów dotyczących przyszłego dochodu</entry><entry id="UUID3d497298-xdfv-cdse-64ef-3b8419a9d965">Poprawa nastrojów dotyczących przyszłego dochodu</entry></row><row id="UUIDd4c00526-ff67-nt65-443a-9f9df8613ba6"><entry namest="col1" nameend="col2" align="center" id="UUID3d497298-45dd-mnbv-64ef-3b8419a9d965"><emphasis effect="bold"><emphasis effect="italics">Inwestycje</emphasis></emphasis></entry><entry id="UUID704d5026-eree-bgtr-8edaa032d9f60e60" /></row><row id="UUIDd4c00526-ff67-2543-bgte-9f9df8613ba6"><entry id="UUID1fa80912-erfd-tyde-5e8a-f3c0045f3902">Pesymistyczne przewidywania dotyczące popytu w przyszłości</entry><entry id="UUID3d497298-da62-64er-mkiy-3b8419a9d965">Optymistyczne przewidywania dotyczące popytu w przyszłości</entry></row><row id="UUIDd4c00526-ff67-fr46-443a-9f9df8613ba6"><entry id="UUID1fa80912-1660-4rew-5e8a-f3c0045f3902">Podwyżka stóp procentowych</entry><entry id="UUID3d497298-da62-yt54-64ef-3b8419a9d965">Obniżka stóp procentowych</entry></row><row id="UUIDd4c00526-ff67-7grt-hytr-9f9df8613ba6"><entry id="UUID1fa80912-we5y-wewe-5e8a-f3c0045f3902">Pogorszenie klimatu inwestycyjnego</entry><entry id="UUID3d497298-54e3-cdse-64ef-3b8419a9d965">Poprawa klimatu inwestycyjnego</entry></row><row id="UUIDd4c00526-sder-wwef-443a-9f9df8613ba6"><entry namest="col1" nameend="col2" align="center" id="UUID1fa80912-a234-ewwe-5e8a-f3c0045f3902"><emphasis effect="bold"><emphasis effect="italics">Państwo</emphasis></emphasis></entry><entry id="UUID704d5026-4343-7765-8edaa032d9f60e60" /></row><row id="UUIDd4c00526-ff67-7grt-bgte-9f9df8613ba6"><entry id="UUID1fa80912-1660-wewe-nbgh-f3c0045f3902">Spadek wydatków sektora publicznego</entry><entry id="UUID3d497298-rdse-cdse-64ef-3b8419a9d965">Wzrost wydatków sektora publicznego</entry></row><row id="UUIDd4c00526-ff67-nhfd-443a-9f9df8613ba6"><entry id="UUID1fa80912-1660-ssew-5e8a-f3c0045f3902">Wzrost wysokości podatków</entry><entry id="UUID3d497298-da62-sdcx-64ef-3b8419a9d965">Spadek wysokości podatków</entry></row><row id="UUIDd4c00526-ff67-43e0-443a-9f9df8613ba6"><entry namest="col1" nameend="col2" align="center" id="UUID1fa80912-1660-4e75-5e8a-f3c0045f3902"><emphasis effect="bold"><emphasis effect="italics">Eksport netto</emphasis></emphasis></entry><entry id="UUID704d5026-vcdf-ytyy-8edaa032d9f60e60" /></row><row id="UUID09ee3f0a-28fb-4ce0-4914-0d03094bd4a9"><entry id="UUID398a54ab-962d-46b9-7e64-d65ae85abf61">Spadek dochodu u głównych partnerów handlowych</entry><entry id="UUID945a5668-3fb8-4848-67d7-79648eaea30d">Wzrost dochodu u głównych partnerów handlowych</entry></row><row id="UUID474ace98-4c7b-4d78-5680-e1130244ce13"><entry id="UUID95ec10af-03e6-45a1-73c1-2b30da9fe6f4">Relatywny wzrost cen w danym kraju</entry><entry id="UUID52aea867-6945-4fd8-74dc-104dde7af13c">Relatywny spadek cen w danym kraju</entry></row></tbody></tgroup></table>
     </section>
     <section id="ch25mod02_summ" class="summary">
-      <title id="UUID4d6e166a-33e8-4a6f-7bc3-280861f84f8b">Podsumowanie</title>
-      <para id="ch25mod02_p18">Ekonomia keynesowska opiera się na dwóch głównych założeniach. Po pierwsze, krótkookresowe wahania produkcji są przede wszystkim konsekwencją zmian popytu globalnego, co oznacza, że główną przyczyną recesji jest właśnie spadek popytu. Po drugie, płace i ceny są lepkie (sztywne), co prowadzi do wzrostu bezrobocia w okresach spowolnienia gospodarczego. Ten wzrost bezrobocia jest przykładem makroekonomicznego efektu zewnętrznego. O ile nadwyżka podaży powoduje zwykle spadek cen na poziomie mikroekonomicznym, o tyle w skali makro efekt taki nie musi wystąpić. Zgodnie z założeniami modelu keynesowskiego rezultatem spadku popytu globalnego na poziomie makroekonomicznym jest zmniejszenie produkcji, a nie obniżenie poziomu cen. Jednym z powodów, dla których ceny mogą być lepkie, są koszty zmienianych jadłospisów. Obejmują one koszty wewnętrzne ponoszone przez przedsiębiorstwo w związku ze zmianą etykiet, nową dokumentacją księgową, a także koniecznością poinformowania (prawdopodobnie niezadowolonych) konsumentów o nowych cenach. Keynesiści są również przekonani, że w gospodarce działa mechanizm mnożnika wydatków, czyli koncepcja, zgodnie z którą zmiana wydatków autonomicznych powoduje ponadproporcjonalną zmianę wartości PKB.</para>
+      <title id="UUID75aaff44-4447-4142-5514-09bad8480fa8">Podsumowanie</title>
+      <para id="ch25mod02_p18">Popyt globalny jest sumą czterech składników: konsumpcji, inwestycji, wydatków państwa na dobra i usługi oraz eksportu netto. Konsumpcja zależy od wielu czynników, w tym dochodu rozporządzalnego gospodarstw domowych, podatków i transferów, oczekiwań dotyczących przyszłości oraz wartości majątku. Kluczową determinantą inwestycji jest opłacalność danego przedsięwzięcia, uzależniona od przewidywanej dynamiki wzrostu gospodarczego, tempa wdrażania nowych technologii, cen czynników wytwórczych i polityki podatkowej państwa. Inwestycje zmieniają się również wraz z wahaniami stóp procentowych. Czynniki polityczne wpływają z kolei na poziom wydatków państwa i wysokość obciążeń podatkowych. Eksport i import zależą od relacji względnych stóp wzrostu gospodarczego i względnych cen między krajami prowadzącymi wymianę handlową.</para>
     </section>
     <section id="ch25mod02_sques" class="self-check-questions">
-      <title id="UUIDd16fd144-4abd-4408-44ce-9813c0d3ff4c">Pytania sprawdzające</title>
+      <title id="UUID74f64a2f-03c3-4451-5ac5-294688fe64ab">Pytania sprawdzające</title>
       <exercise id="ch25mod02_sques01">
         <problem id="ch25mod02_squesp01">
-          <para id="ch25mod02_p19">Wykorzystując model AD-AS, wyjaśnij, jak powstaje luka inflacyjna, jeśli gospodarka w punkcie startu analizy znajduje się w równowadze takiej jak na <link target-id="CNX_Econ_C25_035" cmlnle:case="locative" id="UUIDabf54c08-9dce-48f3-783a-3a5c478d37a3" />.</para>
+          <para id="ch25mod02_p19">Które z poniższych zdarzeń mogą doprowadzić – zgodnie z założeniami modelu keynesowskiego – do recesji, a które do inflacji? W odpowiedzi wykorzystaj wykres modelu AD-AS.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="ch25mod02_list11">
+            <item id="UUID28f4a7ed-f430-46a2-6244-c1a92a441f89">
+              <para id="UUIDb259a9a9-238b-4dcc-7f5a-20938543198a">Znaczny wzrost wartości nieruchomości będących w posiadaniu gospodarstw domowych</para>
+            </item>
+            <item id="UUID1d2a05f5-cf3f-44ed-5e56-7bf9b984a33b">
+              <para id="UUID52a6ff32-a6f6-4f33-5efa-4672053eaa28">Przyspieszenie tempa wzrostu gospodarczego w kraju będącym kluczowym partnerem handlowym</para>
+            </item>
+            <item id="UUID9de828ab-2fed-4ac1-4797-02e580df0ed2">
+              <para id="UUIDa1312cf8-223a-42f4-62e3-27c539765798">Postęp techniczny powodujący wzrost opłacalności przedsięwzięć inwestycyjnych</para>
+            </item>
+            <item id="UUID8039918c-4fbf-4304-4daf-c2194cba587c">
+              <para id="UUID2c5af07c-1e68-48eb-7899-f0ede964c61f">Wzrost stóp procentowych</para>
+            </item>
+            <item id="UUID15a84838-cac5-4da3-7c4d-ab7d573ce1d6">
+              <para id="UUID155635ad-bd70-4076-5121-ba826fabb9b4">Znaczny spadek cen towarów importowanych do danego kraju</para>
+            </item>
+          </list>
         </problem>
         <solution id="ch25mod02_sques01s">
-          <para id="ch25mod02_p20">Luka inflacyjna jest wynikiem wzrostu popytu globalnego w sytuacji, gdy produkcja znajduje się na poziomie potencjalnym. Ponieważ krzywa podaży globalnej (AS) jest pionowa przy potencjalnym PKB, każdy wzrost AD doprowadzi do wyższego poziomu cen (tj. inflacji) przy niezmienionym poziomie realnego PKB. Łatwo to dostrzec, jeśli narysujesz nową krzywą AD<sub>1</sub> na prawo od AD<sub>0</sub>.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="ch25mod02_list12">
+            <item id="UUID59fc576a-58f7-4a07-75e3-46f521649b7b">
+              <para id="UUIDf5b8091a-fa18-4cc5-5ef0-d2efb5996e61">Wzrost wartości nieruchomości zwiększy konsumpcję ze względu na wzrost wartości majątku. Krzywa AD przesunie się w prawo i może pojawić się inflacja – jeśli produkcja będzie zbliżona do poziomu potencjalnego.</para>
+            </item>
+            <item id="UUIDc9af5848-a5d3-4df3-72f3-2794abbee8b3">
+              <para id="UUID45ab0e1a-c96d-4f88-508f-b22be419e3d8">Przyspieszenie tempa wzrostu gospodarczego w kraju, który jest kluczowym partnerem handlowym, zwiększy popyt na eksport. Krzywa AD przesunie się w prawo i może pojawić się inflacja – jeśli produkcja będzie zbliżona do poziomu potencjalnego.</para>
+            </item>
+            <item id="UUID7734664a-be41-4434-462b-666a5caf30d1">
+              <para id="UUIDa5c352bf-5bb4-4f36-6a1a-135df241ba5d">Wzrost opłacalności przedsięwzięć inwestycyjnych spowoduje wzrost wydatków inwestycyjnych przedsiębiorstw. Krzywa AD przesunie się w prawo i może pojawić się inflacja, jeśli produkcja będzie zbliżona do poziomu potencjalnego.</para>
+            </item>
+            <item id="UUID97890e42-c0b6-4cf2-6b6d-4b9dc6e24025">
+              <para id="UUID55bbac07-e6d6-473a-5d53-e0f88fa9aad5">Wyższe stopy procentowe zmniejszają wydatki inwestycyjne. Krzywa AD przesunie się w lewo i może pojawić się recesja – jeśli produkcja spadnie poniżej poziomu potencjalnego.</para>
+            </item>
+            <item id="UUIDad5dfb21-a4b9-44d5-5315-4d72ee9a507f">
+              <para id="UUID57be4e68-4694-412e-639a-dac174b0a9e6">Zwiększa się popyt na tańszy import, a popyt na produkty wyprodukowane w kraju maleje. Krzywa AD przesunie się w lewo i może pojawić się recesja.</para>
+            </item>
+          </list>
         </solution>
       </exercise>
       <exercise id="ch25mod02_sques02">
         <problem id="ch25mod02_squesp02">
-          <para id="ch25mod02_p21">Załóżmy, że państwo obniża wydatki, aby zlikwidować deficyt budżetowy. Użyj modelu AD-AS, aby pokazać prawdopodobne konsekwencje takiego posunięcia dla poziomu produkcji i zatrudnienia. Wskazówka: wykorzystaj <link target-id="CNX_Econ_C25_035" cmlnle:case="accusative" id="UUID864f6bb2-a749-4b68-4110-a80475a1a50d" />.</para>
+          <para id="ch25mod02_p20">Które z poniższych działań w ramach polityki gospodarczej są – zgodnie z modelem keynesowskim – remedium na wystąpienie recesji, a które właściwym narzędziem obniżania presji inflacyjnej? Wykorzystaj model AD-AS.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="ch25mod02_list13">
+            <item id="UUIDc5291bfc-c29d-4d96-6e5f-c24ea9662d8d">
+              <para id="UUID120451a5-9cf2-4943-71ef-3af1d61b5f61">Podwyżka podatku dochodowego od osób fizycznych</para>
+            </item>
+            <item id="UUIDf96b72e5-a3e8-4926-72e5-1b7b36c7b5e4">
+              <para id="UUID0b1c24ef-f183-4c6f-4a78-2c9b4c789deb">Gwałtowny wzrost wydatków na zbrojenia</para>
+            </item>
+            <item id="UUID36d672f8-8c1e-4f7c-5e5d-ac79fba14a9b">
+              <para id="UUID35ec3b3e-6b7a-428d-7099-632115b2a863">Ulgi inwestycyjne dla przedsiębiorstw</para>
+            </item>
+            <item id="UUID9101cd84-643e-43cb-7638-74d260b7110e">
+              <para id="UUID37334221-31f0-43cc-7231-f12b53071989">Znaczący wzrost wydatków państwa na ochronę zdrowia</para>
+            </item>
+          </list>
         </problem>
         <solution id="ch25mod02_sques02s">
-          <para id="ch25mod02_p22">Spadek wydatków państwa przesuwa krzywą AD w lewo.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="ch25mod05_list14">
+            <item id="UUIDf5c40d68-761b-4513-4406-f840703f2c78">
+              <para id="UUID80806422-9ff4-4ec1-413f-d9e54f64db48">Podwyżka podatku dochodowego od osób fizycznych, przesuwając krzywą AD w lewo, spowoduje spadek konsumpcji. Jest to dobre narzędzie polityki antyinflacyjnej.</para>
+            </item>
+            <item id="UUID97ec72aa-34c6-43f6-6beb-3494690fec0c">
+              <para id="UUIDfff16a80-230b-409b-4b90-88fb9322b605">Gwałtowny wzrost wydatków na zbrojenia to przykład wzrostu wydatków państwa na dobra i usługi. Efektem jest przesunięcie krzywej AD w prawo. Jeśli realny PKB jest niższy od potencjalnego, działanie takie zapobiegnie dalszemu występowaniu recesji. Jeśli realny PKB przekracza poziom potencjalny, krzywa AD przesunie się jeszcze bardziej w prawo i wzrośnie inflacja.</para>
+            </item>
+            <item id="UUIDc1684a25-b8f5-46ff-662d-1ca74c5875ea">
+              <para id="UUID4a93e1be-8013-49ab-683f-19f7341350ad">Ulgi inwestycyjne dla przedsiębiorstw przesuną krzywą AD w prawo. Jeśli początkowa równowaga makroekonomiczna znajduje się poniżej potencjalnego PKB, takie działanie może pomóc wyprowadzić gospodarkę z recesji (lub jej zapobiec).</para>
+            </item>
+            <item id="UUID0d404346-b699-4ab7-7fc0-c3e4323a0c60">
+              <para id="UUID32adb176-af5a-4c63-60cc-259a5e649417">Wyższe wydatki państwa na ochronę zdrowia powodują przesunięcie krzywej AD w prawo. Jeśli realny PKB jest niższy od potencjalnego, gospodarka zostanie wyciągnięta z recesji. Jeśli realny PKB przekracza poziom potencjalny, krzywa AD przesunie się jeszcze bardziej w prawo i wzrośnie inflacja.</para>
+            </item>
+          </list>
         </solution>
       </exercise>
     </section>
     <section id="ch25mod02_rques" class="review-questions">
-      <title id="UUIDee3ff1c8-2237-47a8-4dda-4d80f11aa266">Sprawdź wiedzę</title>
+      <title id="UUIDc672c707-821f-4880-63fa-e3463ef5862e">Sprawdź wiedzę</title>
       <exercise id="ch25mod02_rques01">
         <problem id="ch25mod02_rquesp01">
-          <para id="ch25mod02_p23">Jaka jest – zgodnie z założeniami modelu keynesowskiego – główna przyczyna recesji: spadek popytu globalnego czy spadek podaży globalnej? Uzasadnij swoją odpowiedź.</para>
+          <para id="ch25mod02_p21">Wymień kilka zdarzeń, które mimo że nie są bezpośrednio związane z polityką państwa, mogą spowodować zmianę popytu globalnego.</para>
         </problem>
       </exercise>
       <exercise id="ch25mod02_rques02">
         <problem id="ch25mod02_rquesp02">
-          <para id="ch25mod02_p24">Dlaczego lepkie ceny i płace wzmacniają negatywny wpływ spadku popytu globalnego na poziom bezrobocia i skalę recesji?</para>
-        </problem>
-      </exercise>
-      <exercise id="ch25mod02_rques03">
-        <problem id="ch25mod02_rquesp03">
-          <para id="ch25mod02_p25">Wyjaśnij, co ekonomiści rozumieją przez termin „koszty zmienianych jadłospisów”.</para>
+          <para id="ch25mod02_p22">Wymień kilka możliwych posunięć państwa, które przełożą się na zmianę popytu globalnego.</para>
         </problem>
       </exercise>
     </section>
     <section id="ch25mod02_ctques" class="critical-thinking">
-      <title id="UUIDe7309f66-ef3e-481a-7433-e7a19fb2954b">Ćwicz myślenie krytyczne</title>
+      <title id="UUID87cf3328-9279-45fb-547c-95ef2392e55b">Ćwicz myślenie krytyczne</title>
       <exercise id="ch25mod02_ctques01">
         <problem id="ch25mod02_ctquesp01">
-          <para id="ch25mod02_p26">Czy założenie, zgodnie z którym płace są lepkie wyłącznie przy próbie ich obniżki, ma sens? Uzasadnij swoją odpowiedź.</para>
+          <para id="ch25mod02_p23">W raporcie The Conference Board pt. Global Economic Outlook (http://www.conference-board.org/data/globaloutlook.cfm) prognozowana stopa wzrostu gospodarczego Chin na lata 2015–2019 wynosi ok. 5,5% średniorocznie. International Business Times (http://www.ibtimes.com/us-exports-china-have-grown-294-over-past-decade-1338693) donosi, że Chiny są trzecim co do wielkości rynkiem eksportowym Stanów Zjednoczonych, a eksport z USA do Chin w latach 2003–2012 wzrósł o 294%. Wyjaśnij, jaki wpływ mają Chiny na gospodarkę USA.</para>
         </problem>
       </exercise>
       <exercise id="ch25mod02_ctques02">
         <problem id="ch25mod02_ctquesp02">
-          <para id="ch25mod02_p27">Załóżmy, że w gospodarce znajdującej się na poziomie potencjalnego PKB rośnie eksport. W jaki sposób produkcja przeznaczona na eksport może wzrosnąć w odpowiedzi na powiększający się popyt, biorąc pod uwagę to, że gospodarka jest już w stanie pełnego zatrudnienia?</para>
+          <para id="ch25mod02_p24">Jakie konsekwencje dla gospodarki amerykańskiej będzie miało osłabienie tempa wzrostu gospodarczego w Chinach? A co się stanie, jeśli dynamika wzrostu będzie się utrzymywać na niezmienionym poziomie?</para>
         </problem>
       </exercise>
     </section>
     <section id="ch25mod02_ref" class="references">
-      <title id="UUID352a24d1-227b-484d-7226-366a427bc792">Bibliografia</title>
-      <para id="ch25mod02_ref01">Harford, Tim. “What Price Supply and Demand?” http://timharford.com/2014/01/what-price-supply-and-demand/?utm_source=dlvr.it&amp;utm_medium=twitter.</para>
-      <para id="ch25mod02_ref02">National Employment Law Project. “Job Creation and Economic Recovery.” http://www.nelp.org/index.php/content/content_issues/category/job_creation_and_economic_recovery/.</para>
+      <title id="UUID1a5c7ba5-5055-470e-5cec-42d7b753bfa5">Bibliografia</title>
+      <para id="ch25mod02_ref01">Mahapatra, Lisa. “US Exports To China Have Grown 294% Over The Past Decade.” <emphasis effect="italics">International Business Times</emphasis>. Last modified July 09, 2013. http://www.ibtimes.com/us-exports-china-have-grown-294-over-past-decade-1338693.</para>
+      <para id="ch25mod02_ref02">The Conference Board, Inc. “Global Economic Outlook 2014, November 2013.” http://www.conference-board.org/data/globaloutlook.cfm.</para>
+      <para id="ch25mod02_ref03">Thomas, G. Scott. “Recession claimed 170,000 small businesses in two years.” <emphasis effect="italics">The Business Journals</emphasis>. Last modified July 24, 2012. http://www.bizjournals.com/bizjournals/on-numbers/scott-thomas/2012/07/recession-claimed-170000-small.html.</para>
+      <para id="ch25mod02_ref04">United States Department of Labor: Bureau of Labor Statistics. “Top Picks.” http://data.bls.gov/cgi-bin/surveymost?bls.</para>
     </section>
   </content>
-  <glossary id="UUIDc3713a98-405b-4eeb-7403-f9e6e13dfd61">
+  <glossary id="UUID7b729b86-8375-4fb5-6954-ca5b335d3df2">
     <definition id="ch25mod02_gl01">
-      <term id="UUID99121481-a06e-408b-75ae-b3d551c172f3">problem koordynacji (ang. <foreign xml:lang="en" id="UUID3b47e3b5-800a-47c8-56a3-8fe8978d77c1">coordination argument</foreign>)</term>
+      <term id="UUIDe2bd4627-3d29-4b6e-6949-86a1e06fddec">dochód rozporządzalny (ang. <foreign xml:lang="en" id="UUID46f92f39-1438-48fa-6b38-2b99d8494282">disposable income</foreign>)</term>
       <meaning id="ch25mod02_gl01m">
-        <para id="UUIDa7f12387-ef3d-4f14-5b51-6bb37c33a112">niemożliwa do osiągnięcia doskonała informacja o skali obniżki cen i wynagrodzeń akceptowalnej dla innych pracowników i uczestników rynku w sytuacji, w której taka obniżka jest niezbędna i uzasadniona kondycją gospodarki</para>
+        <para id="UUID6b25595d-73eb-499b-5098-feb84dd5f167">dochód uzyskany dzięki sprzedaży lub wynajmowi czynników produkcji (wynagrodzenia, zyski i renta gruntowa) powiększony o kwoty transferów publicznych i prywatnych, a pomniejszony o wartość podatków</para>
       </meaning>
     </definition>
     <definition id="ch25mod02_gl02">
-      <term id="UUIDc0093d08-bb14-4912-7a2c-179170c76822">mnożnik wydatków autonomicznych (mnożnik wydatków) (ang. <foreign xml:lang="en" id="UUID74d02d1e-b4b8-4853-7d2a-b9926ca671ea">expenditure multiplier</foreign>)</term>
+      <term id="UUID4f96c67c-c541-47a7-5f27-762f5b1770d4">luka inflacyjna (ang. <foreign xml:lang="en" id="UUIDff916430-523f-4a79-6492-427806ecbe25">inflationary gap</foreign>)</term>
       <meaning id="ch25mod02_gl02m">
-        <para id="UUID2aa9ad47-dd1c-44ad-4fd5-ad20c8dc2f76">keynesowska koncepcja, zgodnie z którą zmiana wydatków autonomicznych powoduje więcej niż proporcjonalną zmianę realnego PKB</para>
+        <para id="UUID6f177463-30b5-407b-6659-af0560b9b5ed">równowaga przy produkcji wyższej od potencjalnego PKB</para>
       </meaning>
     </definition>
     <definition id="ch25mod02_gl03">
-      <term id="UUID1fcddd67-e080-42aa-489e-e4e95dd8d127">makroekonomiczny efekt zewnętrzny (ang. <foreign xml:lang="en" id="UUID6432ac6c-9c06-4778-5427-e7a534861016">macroeconomic externality</foreign>)</term>
+      <term id="UUIDcdb73d22-f663-4707-66ca-911f834e3198">realny PKB (ang. <foreign xml:lang="en" id="UUIDf9650d27-ea18-45dd-5432-13de2512e2de">real GDP</foreign>)</term>
       <meaning id="ch25mod02_gl03m">
-        <para id="UUID714656d3-417a-4ca9-4f32-4edc02c42059">występuje, gdy ścieżka dostosowań na poziomie makroekonomicznym jest inna i prowadzi do negatywnych – w porównaniu z dostosowaniami na poziomie mikro – konsekwencji; przykładem mogą być dodatnio nachylone krzywe podaży przedsiębiorstw, przekształcające się w wyniku agregacji (połączenia) w płaską krzywą podaży globalnej, co sprawia, że ceny w gospodarce nie spadają w okresach recesji i nie stymulują popytu globalnego</para>
+        <para id="UUIDf1195d36-9b30-4af5-50ef-fe62c5814a16">wolumen dóbr i usług wytworzonych na terenie danego kraju</para>
       </meaning>
     </definition>
     <definition id="ch25mod02_gl04">
-      <term id="UUIDf04673d7-f0d0-4ee3-5865-82dd447b4a8c">koszty zmienianych jadłospisów/koszty menu (ang. <foreign xml:lang="en" id="UUID2a86b5ca-3fe7-40f5-5486-21631d80ca41">menu costs</foreign>)</term>
+      <term id="UUID552b3ef1-e9f1-4fdf-7feb-2d2a00e3c8d2">luka deflacyjna (recesyjna) (ang. <foreign xml:lang="en" id="UUIDd0440f61-8932-43f7-4421-80ef5eb3c038">recessionary gap</foreign>)</term>
       <meaning id="ch25mod02_gl04m">
-        <para id="UUID6f84c2d6-10ee-4f25-42a4-03a719fd77d9">koszty ponoszone przez przedsiębiorstwa w związku ze zmianami cen</para>
-      </meaning>
-    </definition>
-    <definition id="ch25mod02_gl05">
-      <term id="UUID21a89e4f-b3cd-45f1-5b5d-8cc0c4fef918">lepkie (sztywne) ceny i płace (ang. <foreign xml:lang="en" id="UUID82b90114-c5ba-4364-516f-b10f1953feba">sticky wages and prices</foreign>)</term>
-      <meaning id="ch25mod02_gl05m">
-        <para id="UUID29dd193d-656a-439b-55ed-1a4a83bd3527">sytuacja, w której ceny i płace pozostają stałe niezależnie od zmian popytu, czyli nie rosną w odpowiedzi na jego wzrost i nie maleją na skutek jego spadku</para>
+        <para id="UUID5dd683f2-951d-4627-604a-9b2af1d637e8">równowaga przy produkcji niższej od potencjalnego PKB</para>
       </meaning>
     </definition>
   </glossary>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U6f15e72c-2804-482e-bee1-b9ff3e4be171" id="U6f15e72c-2804-482e-bee1-b9ff3e4be171" xml:lang="en" cnxml-version="0.7">
-  <title>5.6 Różnica między saldem bilansu a poziomem wymiany handlowej</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U2bd08e6b-7756-4a5a-8163-04df85f4ea68" id="U2bd08e6b-7756-4a5a-8163-04df85f4ea68" xml:lang="en" cnxml-version="0.7">
+  <title>5.5 Zalety i wady deficytu handlowego</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00029</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/6f15e72c-2804-482e-bee1-b9ff3e4be171</md:content-url>
-    <md:title>5.6 Różnica między saldem bilansu a poziomem wymiany handlowej</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/2bd08e6b-7756-4a5a-8163-04df85f4ea68</md:content-url>
+    <md:title>5.5 Zalety i wady deficytu handlowego</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:03.863187550+00:00</md:version>
-    <md:created>2023-08-30T08:02:03.863187550+00:00</md:created>
-    <md:revised>2023-08-30T08:02:03.863187550+00:00</md:revised>
+    <md:version>2023-09-11T10:25:05.227272581+00:00</md:version>
+    <md:created>2023-09-11T10:25:05.227272581+00:00</md:created>
+    <md:revised>2023-09-11T10:25:05.227272581+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -20,123 +20,125 @@
     <md:roles>
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
-    <md:uuid>6f15e72c-2804-482e-bee1-b9ff3e4be171</md:uuid>
+    <md:uuid>2bd08e6b-7756-4a5a-8163-04df85f4ea68</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUID704d5026-8945-iu74-7c527b82d03b3911" class="learning-objectives">
+    <note type="note" id="UUID704d5026-5543-j665-7c527b82d03b3911" class="learning-objectives">
       <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
       <list id="list-00001">
-        <item id="UUID558766d7-a778-42e9-6921-c0c4baa98776">
-          <para id="UUIDf507a756-cec9-4098-4b65-94d741e852e7">Zidentyfikować trzy czynniki, które wpływają na rozmiary wymiany handlowej z zagranicą</para>
+        <item id="UUIDa33f7f13-6829-481c-7713-e407bd1b0b4f">
+          <para id="UUID05ffbbc4-e1b4-47fe-6019-adb1ab2f3009">Wskazać trzy mechanizmy, które sprawiają, że utrzymywanie deficytu handlowego i pozycja pożyczkobiorcy międzynarodowego netto poprawia kondycję gospodarki</para>
         </item>
-        <item id="UUID63271098-055e-4c59-5d23-335781611f68">
-          <para id="UUIDd8a745a0-2528-4540-716d-6c7d97541fb2">Rozróżniać saldo bilansu handlowego i rozmiary (poziom) wymiany handlowej</para>
+        <item id="UUIDa5c7b7bc-7322-4a10-6ebb-085371f50260">
+          <para id="UUID22d83b67-10b0-498e-6148-9ed85fda4eec">Wskazać trzy mechanizmy, które sprawiają, że utrzymywanie deficytu handlowego i pozycja pożyczkobiorcy międzynarodowego netto osłabia kondycję gospodarki</para>
         </item>
       </list>
     </note>
-    <para id="UUIDe4026de2-a44c-4577-65e4-8ef63c67dff1">Rozmiary (lub poziom) wymiany handlowej danego kraju mogą na pierwszy rzut oka wydawać się parametrem bardzo podobnym do salda bilansu handlowego, ale logika szacowania obu wielkości jest w rzeczywistości odmienna. Rozmiary wymiany handlowej mierzymy, wykorzystując relację wartości eksportu dóbr i usług do PKB danego kraju. Oznacza to, że konkretna gospodarka może mieć bardzo wysoki poziom wymiany handlowej (nawet powyżej 50% PKB, jak w przypadku Polski) i jednocześnie zrównoważone saldo bilansu handlowego (eksport i import są sobie równe). Rozmiary wymiany handlowej wskazują na to, jak dużą część swojej produkcji konkretny kraj eksportuje. Możliwe jest zatem i to, że w przypadku danej gospodarki sprzedaż dóbr i usług za granicę ma stosunkowo niski udział w PKB w porównaniu ze średnimi światowymi, ale nierównowaga między jej eksportem a importem jest dość duża, co może oznaczać pokaźną nadwyżkę lub równie wysoki deficyt. Rozróżnienie to było przedmiotem naszych rozważań w <link document="m00024" cmlnle:case="locative" id="UUID877134a8-c343-43f5-4041-7a55a65da928" />, który zawierał zestawienie danych ilustrujących zarówno rozmiary wymiany handlowej, jak i saldo bilansu handlowego.</para>
-    <para id="UUIDe60b2e35-7c52-487a-762a-c62a7726843d">Jeśli poziom wymiany handlowej danego kraju informuje nas o tym, jaką część swojej produkcji wysyła on za granicę, to parametr ów możemy traktować jako swojego rodzaju przybliżenie skali globalizacji danej gospodarki. Państwa takie jak Niemcy i Polska mają bardzo wysokie rozmiary wymiany handlowej, eksportując ok. 50% swojej produkcji. Możemy powiedzieć, że gospodarki te są mocno zaangażowane w globalną wymianę handlową. Natomiast saldo bilansu handlowego niesie ze sobą informację o tym, czy dana gospodarka ma nadwyżkę handlową, czy deficyt. Konkretny kraj może cechować się relatywnie ograniczonym poziomem wymiany handlowej i jednocześnie bardzo wysokim deficytem. Na przykład Stany Zjednoczone eksportują dobra i usługi o wartości ok. 10% PKB, ale wykazują deficyt handlowy w wysokości ponad 600 mld dol.</para>
-    <para id="UUIDc7cedaed-42c0-466e-63c2-070d71627ea4">Spośród czynników, które determinują rozmiary wymiany handlowej, należy wskazać trzy najważniejsze: wielkość gospodarki, położenie geograficzne i historię wymiany handlowej. Duże gospodarki, takie jak Stany Zjednoczone, mogą w większej mierze wykorzystywać rynek wewnętrzny. Z kolei małe w skali globalnej gospodarki, takie jak Polska i Szwecja, muszą eksportować część produkcji, aby w pełni wykorzystać swój potencjał i korzyści skali. Relacja ich importu i eksportu do PKB będzie zatem większa. Sąsiadujące kraje zwykle mają większą wymianę handlową, ponieważ koszty transportu i komunikacji są relatywnie niższe (pomyśl w tym kontekście o Polsce i Niemczech). Niektóre gospodarki mają także silnie ugruntowane i wieloletnie doświadczenia w handlu zagranicznym (Szwajcaria, państwa Beneluksu).</para>
-    <para id="UUID6940f051-d310-412c-7aeb-f905f1158deb">W rezultacie relatywnie mała gospodarka, taka jak Polska, z wieloma partnerami handlowymi w całej Europie, ma bardzo wysoki poziom wymiany handlowej. Zwróć uwagę na fakt, że kontekst historyczny traci na znaczeniu wraz z przyłączeniem danego państwa do takiej organizacji jak UE, dzięki czemu możliwe jest włączenie przedsiębiorstw z danego kraju w globalne łańcuchy wartości. Polskie przedsiębiorstwa eksportują swoje dobra i usługi, które są nakładem w ramach procesów produkcyjnych globalnych koncernów, takich jak firmy lotnicze i motoryzacyjne. Z kolei Brazylia i Indie, a więc gospodarki dość duże, które często starały się ograniczać skalę wymiany handlowej w ciągu ostatnich kilkudziesięciu lat, mają niższy poziom wymiany handlowej. Stany Zjednoczone i Japonia to jedne z największych gospodarek w skali globalnej, mające bardzo ograniczoną liczbę partnerów handlowych w bezpośrednim sąsiedztwie. W konsekwencji oba kraje notują dość niski poziom wymiany handlowej w porównaniu z globalnymi standardami. Relacja ich eksportu do PKB jest na poziomie o połowę niższym niż średnia dla wszystkich gospodarek świata.</para>
-    <para id="UUID10848847-7244-4c1e-488e-84afa076a472">Saldo bilansu handlowego jest czymś innym niż rozmiary wymiany handlowej. Stany Zjednoczone mają niewielki poziom wymiany handlowej, ale przez większą część ostatnich 40 lat notowały gigantyczne deficyty bilansu handlowego. Z kolei Japonia, kraj o niskich, według światowych standardów, rozmiarach wymiany handlowej, w ostatnich dziesięcioleciach potrafiła wypracowywać nadwyżkę w bilansie handlowym. Niemcy i Wielka Brytania osiągają średnie lub wysokie rozmiary wymiany handlowej, ale w 2020 r. Niemcy zanotowały umiarkowaną nadwyżkę handlową, podczas gdy Wielka Brytania w tym samym roku importowała więcej, niż eksportowała. Jeszcze pod koniec XX w. ich saldo w bilansie handlowym było jednak bardzo zbliżone. Polska w 2020 r. miała pokaźne rozmiary wymiany handlowej i umiarkowaną nadwyżkę w bilansie handlowym, podczas gdy Kanada przy równie wysokim poziomie wymiany handlowej w tym samym okresie zanotowała umiarkowany deficyt.</para>
-    <para id="UUID91494fa3-8582-4be5-7c9d-caed0991163c">Krótko mówiąc, jest całkiem prawdopodobne, że kraje o stosunkowo niskiej relacji eksportu do PKB, czyli niewielkich rozmiarach wymiany handlowej, mają stosunkowo wysokie deficyty bilansu handlowego. Możliwe jest również i to, że kraje z niemalże zrównoważonym poziomem eksportu i importu będą się niepokoić konsekwencjami wysokich rozmiarów wymiany handlowej. Rozsądne wydaje się założenie, zgodnie z którym wysoki poziom wymiany handlowej jest potencjalnie korzystny dla gospodarki, gdyż umożliwia wykorzystanie przewag komparatywnych. Nie ma również nic dziwnego w obawach przed narastającym brakiem stabilności makroekonomicznej związanej z utrzymywaniem się w danym kraju wysokich deficytów bilansu handlowego w długim okresie. Poniższa <link target-id="fs-idm158149456" id="UUID7d300221-74ad-46c8-7786-e72fd7a57937" /> pokazuje, w jaki sposób tego rodzaju problemy dotykały kolonialne Indie w XIX i XX w.</para>
-    <note type="note" id="fs-idm158149456" class="clearup economics">
-      <title id="UUIDbfc51140-d3b9-49a9-5613-b5bb29f12913">Czy nadwyżki w bilansie handlowym są zawsze korzystne? Przykład kolonialnych Indii</title>
-      <para id="UUIDa98b385e-0df6-4a44-405a-41fae208649a">Indie znajdowały się pod formalną brytyjską zwierzchnością od roku 1858 do 1947. W tym czasie niezmiennie wykazywały nadwyżki w handlu z Wielką Brytanią. Każdy, kto uważa, że nadwyżki handlowe są oznaką siły i dominacji gospodarczej, a deficyty handlowe symptomem gospodarczej słabości, musi uznać tę prawidłowość za dziwną, ponieważ oznaczałoby to, że kolonialne Indie zdominowały i wykorzystywały Wielką Brytanię przez prawie 100 lat, co przecież byłoby tezą absurdalną.</para>
-      <para id="UUIDea1bcac8-bf01-45f0-7fa7-6271dbabe425">Zamiast tego nadwyżki w handlu Indii z Wielką Brytanią należy postrzegać jako przepływ kapitału finansowego z kolonii do metropolii. W Indiach wiele osób zaangażowanych w sprawy publiczne krytykowało to zjawisko, nazywając je drenażem finansowym, a wyeliminowanie tego odpływu uznawało za jedną z wielu korzyści, jakie przyniosłoby Indiom uzyskanie niepodległości.</para>
+    <para id="UUIDd04c59b0-c48f-433c-4734-5805ecb1fd33">Transakcje rynkowe zawsze obejmują ekwiwalentne wobec transferu dóbr i usług przepływy finansowe (w końcu jeśli kupujesz cokolwiek choćby w osiedlowym sklepie, to niemal jednocześnie ze zdjęciem konkretnego produktu z półki i włożeniem go do torby pieniądze z twojego portfela lub konta wędrują do właściciela sklepu). Podobnie dzieje się w ramach handlu zagranicznego, gdzie przepływom dóbr i usług pomiędzy krajami towarzyszą ekwiwalentne przepływy międzynarodowego kapitału finansowego (zakupom ropy naftowej przez Orlen w Arabii Saudyjskiej – czyli polskiemu importowi – odpowiada strumień kapitału, który jest zapłatą za ten surowiec). Pytanie o to, czy deficyty lub nadwyżki handlowe są dobre, czy złe dla gospodarki, jest z ekonomicznego punktu widzenia dokładnie tym samym, co rozstrzyganie, czy lepiej jest polegać na napływie netto kapitału finansowego z zagranicy, czy może jednak inwestować krajowy kapitał poza granicami, czyli stać się międzynarodowym pożyczkodawcą netto. Obiegowa mądrość głosi, że pożyczanie pieniędzy jest zazwyczaj nierozsądne, a kraj prowadzący rozsądną politykę, podobnie jak rozważna osoba, powinien zawsze polegać na własnych zasobach. Choć z pewnością można zapożyczyć się za bardzo (co może poświadczyć każdy, komu bank zablokował kartę kredytową), pożyczanie pieniędzy w specyficznych sytuacjach również da się ekonomicznie uzasadnić. Tym samym zarówno w wypadku jednostek, jak i państw polityka konsekwentnego powstrzymywania się od korzystania z pożyczek, w tym pożyczek udzielanych na międzynarodowym rynku finansowym, nie niesie ze sobą żadnych ekonomicznych korzyści.</para>
+    <para id="UUID4e8fa603-2fcb-4a2e-59b1-f23d39c0ed56">Pożyczanie ma sens wtedy, gdy kupuje się coś, co przynosi korzyści w długim okresie, a więc gdy pożyczka finansuje inwestycję. Zaciągnięcie kredytu, który pozwoli sfinansować studia, ma sens, ponieważ zdobycie tytułu magistra zwiększa, przeciętnie rzecz biorąc, zarobki osób z wyższym wykształceniem w stosunku do absolwentów szkół średnich. Wyższe wynagrodzenie po zakończeniu studiów umożliwi spłatę zaciągniętego kredytu. Z punktu widzenia przedsiębiorstw wzięcie pożyczki lub zaciągnięcie kredytu na zakup nowej maszyny również jest ekonomicznie uzasadnione, oczywiście jeśli maszyna pozwoli zwiększyć zyski firmy na tyle, by udało się zaciągnięte zobowiązania spłacić. Podobnie z punktu widzenia gospodarki konkretnego kraju pożyczanie pieniędzy na międzynarodowym rynku finansowym ma sens o tyle, o ile środki te zostaną wykorzystane w sposób przyspieszający tempo wzrostu gospodarczego. Wówczas taki kraj z czasem będzie w stanie spłacić zaciągnięte zobowiązania finansowe, zaś jego mieszkańcy dzięki napływowi kapitału uzyskają wyższy standard życia.</para>
+    <para id="UUIDd0437cd7-4df5-485b-5a87-40212e9dcae8">Dobrym przykładem państwa, które dużo pożyczało za granicą, mądrze inwestowało otrzymane środki i doskonale sobie dzięki nim radziło, są Stany Zjednoczone w XIX w. USA utrzymywały deficyty handlowe niemal przez cały okres między rokiem 1831 a 1875 (dokładniej – przez 40 z 45 lat), co automatycznie oznaczało pozycję pożyczkobiorcy netto. Kapitał finansowy napływający z zagranicy inwestowany był m.in. w rozwój sieci kolejowej, co przyspieszyło dynamikę wzrostu i rozwoju gospodarczego. Przeczytaj poniższą <link target-id="fs-idp67624720" cmlnle:case="accusative" id="UUID61bbfca8-9af9-4e85-4afd-d595aa06381e" />, aby uzyskać więcej informacji na ten temat.</para>
+    <para id="UUID2e2084a6-9942-44c3-79e8-68a94d6e6cbc">Bardziej współczesnym przykładem jest Korea Południowa i jej doświadczenia z lat 70. XX w. Niemal przez całą dekadę kraj ten utrzymywał deficyt handlowy i tym samym stał się importerem kapitału. Jednocześnie jednak dzięki napływowi międzynarodowego kapitału Korea Południowa miała bardzo wysoki wolumen inwestycji przedsiębiorstw, szczególnie w maszyny i urządzenia, pozwalający jej uzyskiwać wysokie tempo wzrostu gospodarczego. Począwszy od połowy lat 80. przez kolejne dziesięć lat Korea Południowa notowała z kolei nadwyżki handlowe, co oznaczało, że spłacała swoje wcześniejsze pożyczki, wysyłając kapitał za granicę.</para>
+    <para id="UUIDf93fa5cb-6448-42bf-413b-5d8729aaea7d">Z drugiej strony niektóre kraje, utrzymując wysokie deficyty handlowe, zaciągają znaczne pożyczki na światowych rynkach finansowych i popadają przez to w różnego rodzaju kłopoty. Powtórzmy zatem: deficyt sam w sobie nie jest ani dobry, ani zły. Kluczowe jest to, w jaki sposób napływające do kraju środki zostaną wykorzystane. Warto w tym kontekście przeanalizować dwa rodzaje problemów o charakterze wewnętrznym i zewnętrznym. Po pierwsze, państwo pożyczkobiorca może znaleźć się w trudnej sytuacji, jeśli nie zainwestuje napływających z zagranicy środków w sposób prowadzący do wzrostu produktywności. Kilka dużych gospodarek Ameryki Łacińskiej, w tym Meksyk i Brazylia, miało w latach 70. XX w. wysokie deficyty handlowe i tym samym dużo pożyczało za granicą. Napływ kapitału finansowego nie zwiększył jednak w wystarczającym stopniu produktywności i nie doprowadził do przyspieszenia tempa wzrostu gospodarczego, co oznaczało, że kraje te miały ogromne problemy ze spłatą pożyczonych pieniędzy, gdy w kolejnej dekadzie warunki gospodarcze się zmieniły. Podobny problem dotknął wiele państw afrykańskich, które w latach 70. i 80. XX w. chętnie zaciągały pożyczki na międzynarodowych rynkach finansowych, ale nie inwestowały ich w produktywny sposób. W rezultacie większość z nich musiało później spłacać wysokie odsetki, co było wyzwaniem dla ich gospodarek, które właściwie nie skorzystały z kapitału napływającego kilka lub kilkanaście lat wcześniej.</para>
+    <note type="note" id="fs-idp67624720" class="clearup economics">
+      <title id="UUIDc17ec69d-6170-4699-638e-0054b085a56a">Czy deficyty handlowe zawsze są szkodliwe?</title>
+      <para id="UUID21f896f4-5501-4029-679f-c2cd8d59767e">Przez większą część XIX w. import USA przewyższał eksport, a gospodarka notowała deficyty handlowe. Jednak sytuacja ta wcale nie wstrzymała tempa wzrostu i rozwoju amerykańskiej gospodarki. Przeciwnie, to właśnie owe deficyty przyczyniły się do imponującego tempa wzrostu gospodarczego, który dał USA najwyższy na świecie poziom PKB per capita około roku 1900.</para>
+      <para id="UUID8240364f-5e63-4e88-4904-e9c405ab3f33">Deficyty handlowe oznaczały, że Stany Zjednoczone były w tym samym okresie pożyczkobiorcą netto na rynkach światowych. Większość napływającego kapitału została zainwestowana w rozwój infrastruktury, przede wszystkim kolejowej, lecz również drogowej, wodociągowej czy oświatowej. Oba rodzaje inwestycji przełożyły się – jakkolwiek nie wprost – na wzrost dynamiki amerykańskiej gospodarki.</para>
+      <para id="UUID14a5b64c-2317-4e4c-78a2-bc24210a4d60">Nie powinniśmy oczywiście przeceniać wpływu zagranicznego kapitału inwestycyjnego na tempo wzrostu gospodarczego w USA. Dla większości lat zagraniczny kapitał finansowy stanowił nie więcej niż 6–10% środków, które wykorzystywano na inwestycje w gospodarce. Niemniej jednak deficyty handlowe i towarzyszący im napływ funduszy z zagranicy wyraźnie pomogły, a nie przeszkodziły w rozwoju Stanów Zjednoczonych w XIX w.</para>
     </note>
-    <section id="fs-idm136851296">
-      <title id="UUID1c50ca32-8977-487a-47eb-16ebe59a7a22">Końcowe refleksje na temat bilansów handlowych</title>
-      <para id="UUID36b09636-2357-4484-77bb-cbcbcf8a317f">Tak jak deficyty salda bilansu handlowego mogą być dla gospodarki zarówno korzystne, jak i niekorzystne, tak też nadwyżki bywają dla niej dobrym lub złym sygnałem. Co więcej, także zerowy bilans handlowy – co po prostu oznacza, że dany kraj nie jest ani pożyczkobiorcą, ani pożyczkodawcą netto w gospodarce międzynarodowej – może sprzyjać rozwojowi gospodarczemu albo oddziaływać nań negatywnie. Najważniejszą kwestią pozostaje bowiem nie to, czy kraj pożycza pieniądze z zagranicy (deficyt), czy też udziela pożyczek na rynku międzynarodowym (nadwyżka), ale pytanie o to, czy biorąc pod uwagę określoną kondycję danej gospodarki, należy pożyczki zaciągać, czy raczej ich udzielać.</para>
-      <para id="UUIDc7f7806e-c96f-42ef-6845-176c73f9bc1c">Warto się zastanowić, w jaki sposób zmieniłoby się społeczne nastawienie do deficytów i nadwyżek bilansu handlowego, gdybyśmy zmienili język opisu tego fragmentu rzeczywistości gospodarczej. Czy reakcja opinii publicznej nie byłaby znacznie bardziej przychylna, gdybyśmy nie pisali o deficycie, tylko o „zachęcaniu zagranicznego kapitału finansowego do inwestycji”, co oczywiście oznacza to samo? I odwrotnie, czy nadwyżki nie straciłyby co najmniej części ze swojej medialnej atrakcyjności, gdybyśmy – zgodnie z prawdą – opisywali je jako „wysyłanie kapitału finansowego poza granice kraju”? Tak czy inaczej, kluczem do zrozumienia przyczyn, korzyści i ryzyk wiążących się ze zróżnicowaniem salda bilansu handlowego (możliwością występowania nadwyżek i deficytów) jest świadomość, że międzynarodowe przepływy dóbr i usług zawsze związane są z przepływem kapitału finansowego w przeciwnym kierunku. Pierwszym krokiem w ramach tego procesu jest wyjście poza odruchowe reakcje na terminy, takie jak: „nadwyżka handlowa”, „bilans handlowy” i „deficyt handlowy”.</para>
-      <note type="note" id="fs-idm103286864" class="bringhome economics">
-        <title id="UUID90818141-a69c-4a93-7084-4ae288110b08">Więcej, niż widać na pierwszy rzut oka w Kongu</title>
-        <para id="UUIDf5d418df-9aab-439b-6999-61135f9ceaea">Teraz, gdy dysponujesz już znacznie szerszą perspektywą, bez wątpienia zdajesz sobie sprawę z tego, że wszystkie decyzje ekonomiczne, które podejmujesz, np. zakupu importowanych produktów, sposób lokowania oszczędności lub inwestowanie w międzynarodowym funduszu inwestycyjnym, mają wpływ zarówno na przepływy towarów i usług, jak i kapitału finansowego na całym świecie.</para>
-        <para id="UUID6ec8adfe-458e-4421-74de-1d61ab76aaae">Wiesz już, że sam fakt istnienia nadwyżki bilansu handlowego dostarcza niewielu informacji na temat kondycji danej gospodarki. Demokratyczna Republika Konga zanotowała w 2013 r. nadwyżkę handlową, o czym dowiedzieliśmy się na początku niniejszego rozdziału. Jednak saldo na rachunku obrotów bieżących było już ujemne i zamknęło się kwotą -2,8 mld dol. Normalizacja sytuacji politycznej i proces odbudowy kraju po wojnie domowej przełożyły się na napływ do Konga inwestycji i kapitału finansowego. W tym przypadku ujemne saldo na rachunku obrotów bieżących oznaczało przyspieszenie tempa odbudowy kraju, dlatego było zjawiskiem korzystnym.</para>
-      </note>
+    <para id="fs-idm101260976">Drugim rodzajem problemów związanych z napływem kapitału międzynarodowego do danego kraju jest mobilność środków finansowych. Kapitał może wypłynąć z kraju równie szybko, jak wcześniej do niego wpłynął. Omówiliśmy ten scenariusz na początku niniejszego rozdziału. W połowie lat 90. ub. wieku wiele krajów wschodniej Azji – Tajlandia, Indonezja, Malezja i Korea Południowa – notowało wysokie deficyty handlowe i importowało kapitał z zagranicy. Jednak w roku 1997 i 1998 inwestorzy zagraniczni uznali, że kondycja tych gospodarek nie gwarantuje spłaty zaciągniętych wcześniej zobowiązań, i zaczęli wycofywać swoje kapitały (sprzedając akcje, obligacje, nieruchomości i likwidując depozyty w sektorze bankowym). Niezwykle szybki odpływ zagranicznego kapitału wstrząsnął systemami bankowymi i gospodarkami tych krajów, pogrążając je w głębokiej recesji. Związki pomiędzy międzynarodowymi przepływami kapitału, sektorem bankowym i kondycją gospodarki zostaną dokładnie omówione w <link document="m00069" cmlnle:case="locative" id="UUIDf017e2ef-0fd7-42dc-5708-3c311d5b593d" />.</para>
+    <para id="fs-idm44919456">Jak zatem widać, deficyt handlowy nie zawsze jest zjawiskiem niekorzystnym dla gospodarki. Analogicznie nie ma również gwarancji, że nadwyżka handlowa przełoży się na poprawę kondycji ekonomicznej danego kraju. Na przykład Niemcy i Japonia w ciągu ostatnich 30 lat notowały znaczne nadwyżki handlowe niemal nieprzerwanie. Niezależnie od utrzymującego się dodatniego salda w bilansie handlowym oba kraje od czasu do czasu doświadczały recesji i żaden z nich nie odnotował w tym okresie szczególnie wysokiego tempa wzrostu gospodarczego. Więcej o nadwyżce handlowej Japonii możesz przeczytać w <link target-id="fs-idp84358176" cmlnle:case="locative" id="UUID71bfe2a1-2a5d-49e7-5210-cdfae8ac6cc6" />.</para>
+    <note type="note" id="fs-idp242806608" class="economics linkup">
+      <para id="fs-idp117134944">Obejrzyj to <link url="http://openstax.org/l/tradedeficit" id="UUID07fe83e6-8483-4c1b-6260-ff9518e79f1b">wideo</link> aby się przekonać, czy deficyt handlowy jest korzystny, czy raczej szkodliwy dla gospodarki.</para>
+    </note>
+    <para id="UUID804962a9-aef2-4a66-6a8b-7339930ba6d9" />
+    <note type="note" id="fs-idp84358176" class="clearup economics">
+      <title id="UUIDf1558a51-cd91-487d-5ff9-e3859abc2d11">Czy nadwyżki handlowe zawsze są korzystne? Sytuacja Japonii pod koniec XX w.</title>
+      <para id="UUID25afe26f-5076-4350-7c00-794a60a260e1">Prawdopodobnie żadna gospodarka na świecie nie kojarzy się bardziej z nadwyżkami w bilansie obrotów handlowych niż Japonia. Wraz z rozpoczęciem ostatniej dekady XX w. wysokość tych nadwyżek sięgała często nawet 100 mld dol. rocznie. Gdy japońska gospodarka rozwijała się dynamicznie w latach 60. i 70. ub. stulecia, wiele osób, szczególnie nieposiadających wykształcenia ekonomicznego, wskazywało na wysokie nadwyżki handlowe Japonii zarówno jako na przyczynę, jak i skutek jej świetnej kondycji gospodarczej. Biorąc jednak pod uwagę tempo wzrostu gospodarczego, od początku lat 90. ub. wieku Japonia balansuje na krawędzi recesji. Dynamika realnego wzrostu PKB w skali roku nie przekracza 1%, a bezrobocie cały czas rośnie. Najwyraźniej ogromna nadwyżka handlowa nie jest gwarancją wysokiego tempa wzrostu.</para>
+      <para id="UUID707e80b6-a606-4642-4290-feb45c722d10">W istocie nadwyżka handlowa Japonii odzwierciedla fakt, że kraj ten ma bardzo wysoki wolumen oszczędności krajowych. Japońska gospodarka dysponuje większymi zasobami kapitału, niż jest w stanie zainwestować w kraju, a więc środki te muszą wypłynąć za granicę. W pogrążonej w stagnacji gospodarce Japonii konsumpcja towarów importowanych jest stosunkowo niska, podobnie zresztą jak globalne wydatki na zakupy dóbr i usług. W efekcie eksport Japonii stale przewyższa import, utrzymując nadwyżkę handlową na wysokim poziomie. Dopiero z początkiem drugiej dekady XXI w. nadwyżka handlowa Japonii zaczęła się zmniejszać, zaś w 2013 r. kraj ten odnotował deficyt ze względu na wysokie koszty importowanej ropy. Niemniej w 2015 r. Japonia ponownie zanotowała nadwyżkę w bilansie handlowym i dodatnie saldo tego bilansu utrzymuje się do początku trzeciej dekady obecnego stulecia.</para>
+    </note>
+    <section id="fs-idp87720448" class="summary">
+      <title id="UUIDd6df7a3b-76d6-409f-5288-aee4b0435872">Key Concepts and Summary</title>
+      <para id="UUID075944f8-2328-4108-60c9-6de9b9a04725">Nadwyżki handlowe nie są gwarancją utrzymywania korzystnej kondycji gospodarczej, zaś deficyty handlowe nie oznaczają automatycznie jej słabości. Deficyty, podobnie jak nadwyżki, same w sobie nie są ani dobre, ani złe. Kluczowe jest to, w jaki sposób napływające do kraju środki finansowe z międzynarodowych rynków zostaną wykorzystane – czy zasilą inwestycje zwiększające produktywność i przekładające się na przyspieszenie dynamiki wzrostu gospodarczego, czy też nie.</para>
     </section>
-    <section id="fs-idm119678800" class="summary">
-      <title id="UUID3cc7ff60-7981-4cf4-67aa-fa8e6ab90bea">Key Concepts and Summary</title>
-      <para id="UUID859738d2-6b66-47ba-53e7-48480871c1c5">Rozmiary wymiany handlowej i saldo bilansu handlowego to pojęcia, których interpretacje bardzo się od siebie różnią. Poziom wymiany handlowej gospodarki mierzony jest relacją eksportu do PKB. Małe w skali globalnej gospodarki, które w bezpośrednim sąsiedztwie mają licznych partnerów handlowych i długą historię handlu międzynarodowego, będą miały raczej wyższy poziom wymiany handlowej w porównaniu z największymi krajami, pozostającymi we względnej izolacji i z relatywnie krótką historią handlu zagranicznego. Saldo bilansu handlowego kraju to różnica między jego eksportem a importem wyrażona w jednostkach pieniężnych (złotych, dolarach).</para>
-      <para id="UUID43ad8ded-a900-4f8d-510b-348272a9ba34">Zarówno deficyt, jak i nadwyżka w bilansie handlowym mogą być dla gospodarki – zależnie od okoliczności – korzystne lub nieść ze sobą negatywne konsekwencje. Jeśli dany kraj notuje deficyt, ale dzięki temu zaciąga na międzynarodowym rynku finansowym pożyczki i inwestuje je w projekty zwiększające produktywność gospodarki, może w ten sposób zwiększyć dynamikę wzrostu i rozwoju w długim okresie.</para>
-    </section>
-    <section id="fs-idp43002800" class="self-check-questions">
-      <title id="UUID989a220d-4743-4812-5b37-bb0ea21d9408">Self-Check Questions</title>
-      <exercise id="fs-idp48233616">
-        <problem id="fs-idm3381792">
-          <para id="fs-idm33187936">Stany Zjednoczone eksportują ok. 10% PKB, podczas gdy Polska ok. 50% swojego PKB. Zinterpretuj te dane.</para>
-        </problem>
-        <solution id="fs-idm47375344">
-          <para id="fs-idp65414320">Polska ma wyższe rozmiary wymiany handlowej niż Stany Zjednoczone, które dysponują znacznie większym rynkiem wewnętrznym, co jest główną przyczyną tej różnicy.</para>
-        </solution>
-      </exercise>
-      <exercise id="fs-idp24767152">
-        <problem id="fs-idp81990720">
-          <para id="fs-idm24414288">Wyjaśnij krótko, czy przedstawione poniżej uwarunkowania z większym prawdopodobieństwem prowadzą do wzrostu rozmiarów wymiany handlowej w gospodarce, czy też narastania nierównowagi bilansu handlowego.</para>
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idp80638992">
-            <item id="UUIDb2bdaf41-7e35-4541-7e6c-2619b69fa240">
-              <para id="UUID9c0b0e9f-85f1-4913-6c3a-508e79e23c26">Liczba ludności danego kraju</para>
+    <section id="fs-idp67673408" class="self-check-questions">
+      <title id="UUID026b14cb-aef6-424e-4437-aa38977ae8da">Self-Check Questions</title>
+      <exercise id="fs-idp23126016">
+        <problem id="fs-idp109193712">
+          <para id="fs-idp20720896">Dla każdego z poniższych punktów wskaż, czy ten rodzaj wydatku uzasadnia – z punktu widzenia produktywności – powstanie deficytu budżetowego.</para>
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm2917232">
+            <item id="UUID3afd2ec1-f1a8-43cb-6983-c344cee78a27">
+              <para id="UUIDe9b99088-1ebf-4f6f-50bc-7aa0f03f3216">Wzrost strumienia środków zasilających NFZ</para>
             </item>
-            <item id="UUID569f04e1-2861-46da-6d18-c16ad66ab17d">
-              <para id="UUID2df92d72-d4ca-4dd4-4252-9525f409968f">Znaczna dodatnia różnica pomiędzy krajową stopą oszczędności i inwestycji</para>
+            <item id="UUIDeb7a7a47-608a-45a4-4410-97c4f840971d">
+              <para id="UUID88f4400f-807f-449d-4ac2-b2aca4ff4da6">Zwiększone wydatki na edukację</para>
             </item>
-            <item id="UUID8c83493c-5d21-4420-6184-835690f0dc14">
-              <para id="UUID10894510-bb7b-40e5-6412-e8ef4bb475bd">Liczni i zamożni sąsiedzi danego kraju</para>
+            <item id="UUIDcb673a1e-43ec-46e2-6efe-690386027f7e">
+              <para id="UUID35d163c8-520b-424b-4601-c3c4577a0443">Zwiększone wydatki na program przezbrajania polskiej armii</para>
             </item>
-            <item id="UUIDab114166-4f42-44b2-538a-1949fc5b91af">
-              <para id="UUIDb6868dfa-87f0-432a-6ef3-bd81c4ec57bd">Wyjątkowo wysoki deficyt sektora finansów publicznych</para>
-            </item>
-            <item id="UUID8a082a60-deb4-4a66-417b-41f424757bdd">
-              <para id="UUIDfa1499e9-7ced-4328-462e-5362941ed5cf">Żywe tradycje protekcjonistycznego ustawodawstwa blokującego import</para>
+            <item id="UUID9a485648-acee-4696-6174-95a88fa9ebab">
+              <para id="UUID1cb778db-72a5-436c-6b12-f87690c9b75d">Zwiększone wydatki na lotniska i kontrolę ruchu lotniczego</para>
             </item>
           </list>
         </problem>
-        <solution id="fs-idm24791632">
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm29241392">
-            <item id="UUID952afff7-f8b2-4a47-7f93-e767910e99e8">
-              <para id="UUIDc89bfefe-e670-4c87-68f8-99397f12361b">Duże gospodarki mają zwykle niższy poziom handlu międzynarodowego, ponieważ korzystają z szerokiego rynku wewnętrznego, ale rozmiary gospodarki nie przekładają się raczej na wynik salda bilansu handlowego.</para>
+        <solution id="fs-idm67360576">
+          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm170677648">
+            <item id="UUIDe3a67648-c528-4582-4774-bd14ce50a9ac">
+              <para id="UUIDdb7a9b35-fa25-46a0-4114-909b230c13ed">Wzrost strumienia środków zasilających NFZ nie przekłada się automatycznie na wzrost produktywności, więc deficyt budżetowy nie jest uzasadniony.</para>
             </item>
-            <item id="UUIDb82ff231-ae7c-4a34-6478-a599dc5c11a2">
-              <para id="UUID64d4f6fa-47ea-4dda-475f-707063ea3975">Brak równowagi pomiędzy krajowymi inwestycjami i oszczędnościami (w tym oszczędnościami sektora publicznego) zawsze prowadzi do nierównowagi handlowej, ale ma niewiele wspólnego z rozmiarami tej wymiany.</para>
+            <item id="UUID84ec5373-565d-415d-6eef-3d05bcbbdfdf">
+              <para id="UUID8c93efcd-c748-4cec-5359-18b1a3c050ba">Zwiększone wydatki na edukację zwiększą produktywność i przyspieszą wzrost gospodarczy, więc deficyt budżetowy jest uzasadniony.</para>
             </item>
-            <item id="UUID29407e55-abd0-410d-5ca8-536092c84969">
-              <para id="UUIDbc728b28-1e67-41ad-4d1c-1da2ce06f9e5">Wielu dużych partnerów handlowych w geograficznej bliskości zwiększa poziom wymiany handlowej, ale ma niewielki wpływ na rozmiary nierównowagi.</para>
+            <item id="UUIDcc538b4c-a03c-4624-6eb7-8e462c31022e">
+              <para id="UUID1a740293-d27a-4728-4032-6a522d86794f">Zwiększone wydatki na program przezbrajania armii mogą nie zwiększyć produktywności, więc deficyt budżetowy nie jest uzasadniony.</para>
             </item>
-            <item id="UUID1ffe58c5-2367-4b5a-7bcb-2b892aa89035">
-              <para id="UUIDd204597d-cd2e-47cf-73e9-cbb63a802e2c">W tym przypadku odpowiedź nie jest oczywista. Wyjątkowo wysoki deficyt sektora finansów publicznych oznacza duże zapotrzebowanie na kapitał finansowy, co zgodnie z tożsamością krajowych oszczędności i inwestycji nieco zwiększa prawdopodobieństwo napływu kapitału zagranicznego, czyli deficytu handlowego.</para>
-            </item>
-            <item id="UUIDe803c683-beb9-4350-4224-1678c4043613">
-              <para id="UUID582040fe-2e7a-4aad-5de5-a76c2bac0738">Żywa tradycja zniechęcania do handlu zagranicznego („kupuj polskie”) z pewnością obniża jego rozmiary. Jednak niekoniecznie wpływa na bilans handlowy, ponieważ jest on określany zarówno przez import, jak i eksport oraz wolumeny krajowych inwestycji i oszczędności.</para>
+            <item id="UUID254d10b9-48e2-4595-7ac5-fe0e98669c3b">
+              <para id="UUID5a4512c0-53ba-4f17-49c8-1970e0339b24">Zwiększone wydatki na lotniska i kontrolę ruchu lotniczego zwiększą produktywność i przyspieszą wzrost gospodarczy, więc deficyt budżetowy jest uzasadniony.</para>
             </item>
           </list>
         </solution>
       </exercise>
+      <exercise id="fs-idp16261952">
+        <problem id="fs-idp148829280">
+          <para id="fs-idp45810624">W jaki sposób wysokie deficyty handlowe zaszkodziły krajom Azji Południowo-Wschodniej w połowie lat 80. XX w.? (Przypomnijmy, że deficyty handlowe są tożsame z napływem kapitału finansowego z zagranicy).</para>
+        </problem>
+        <solution id="fs-idp149816912">
+          <para id="fs-idm44735936">Zagraniczni inwestorzy zaczęli obawiać się o perspektywy odzyskania ulokowanych w tych krajach środków i zaczęli wycofywać kapitał z giełdy, rynków obligacji i nieruchomości oraz sektora bankowego.</para>
+        </solution>
+      </exercise>
+      <exercise id="fs-idp41124208">
+        <problem id="fs-idm32519312">
+          <para id="fs-idm51012480">Opisz scenariusz, w którym nadwyżka handlowa jest korzystna dla gospodarki, oraz taki, w którym nadwyżka handlowa charakteryzuje gospodarkę znajdującą się w kiepskiej kondycji. Jaki kluczowy czynnik lub czynniki determinują wpływ salda bilansu handlowego na sytuację gospodarczą danego kraju?</para>
+        </problem>
+        <solution id="fs-idm8502368">
+          <para id="fs-idp109185888">Szybko rosnąca nadwyżka handlowa może wynikać z wielu czynników, nie warto więc pochopnie zakładać jej konkretnej przyczyny. Jeśli jednak istnieją tylko dwie możliwości: albo gospodarka pogrążona jest w recesji, albo szybko się rozwija, to odpowiedzią będzie recesja. W czasie recesji popyt globalny na dobra i usługi, w tym oczywiście towary importowane, spada. Eksport zależy przede wszystkim od sytuacji w krajach, do których jest on kierowany, stąd wzrost nadwyżki handlowej.</para>
+        </solution>
+      </exercise>
     </section>
-    <section id="fs-idp16929568" class="review-questions">
-      <title id="UUID141b8715-6202-43ad-4d3f-c4f03ea92226">Review Questions</title>
-      <exercise id="fs-idp61029952">
-        <problem id="fs-idm51486784">
-          <para id="fs-idp5055568">Jakie trzy najważniejsze czynniki określają relację eksportu danego kraju do jego PKB?</para>
+    <section id="fs-idp6393504" class="review-questions">
+      <title id="UUID904d3318-846a-4e3b-59d9-8fa255e43c57">Review Questions</title>
+      <exercise id="fs-idp2237328">
+        <problem id="fs-idm39191648">
+          <para id="fs-idm95164912">W jakich warunkach deficyt handlowy może mieć korzystny wpływ na gospodarkę? A w jakich może być niekorzystny?</para>
         </problem>
       </exercise>
-      <exercise id="fs-idm62533456">
-        <problem id="fs-idp64577280">
-          <para id="fs-idm50460752">Jaka jest różnica między deficytem w bilansie handlowym a rozmiarami wymiany handlowej?</para>
+      <exercise id="fs-idm79938672">
+        <problem id="fs-idm94362608">
+          <para id="fs-idp7684464">Czy nadwyżka handlowa w automatyczny sposób przekłada się na wysokie tempo wzrostu gospodarczego?</para>
         </problem>
       </exercise>
     </section>
-    <section id="fs-idm39286624" class="critical-thinking">
-      <title id="UUID3625fdcd-0a75-4865-5074-95de88649aec">Critical Thinking Questions</title>
-      <exercise id="fs-idm101555760">
-        <problem id="fs-idm42259744">
-          <para id="fs-idm95615808">Czy kraje, które notują wyższe rozmiary wymiany handlowej, z większym prawdopodobieństwem zanotują deficyt, czy też nadwyżkę w bilansie handlowym.? A może czynnik ten nie ma żadnego znaczenia dla salda bilansu handlowego?</para>
+    <section id="fs-idm35709744" class="critical-thinking">
+      <title id="UUIDe5b2a690-2133-49ab-529e-232741f96795">Critical Thinking Question</title>
+      <exercise id="fs-idp68023184">
+        <problem id="fs-idp18614416">
+          <para id="fs-idp74815328">Co jest ważniejsze: saldo na rachunku obrotów bieżących danego kraju czy tempo wzrostu jego PKB? Odpowiedź uzasadnij.</para>
         </problem>
       </exercise>
-      <exercise id="fs-idm71700976">
-        <problem id="fs-idm188128096">
-          <para id="UUID5b40605d-1ccc-40e2-7e19-a0ef2d37c26f">Niektórzy ekonomiści ostrzegają, że deficyt salda bilansu handlowego i ujemne saldo na rachunku obrotów bieżących w Stanach Zjednoczonych są zjawiskiem niekorzystnym, jeśli występują w długim okresie. Czy zgadzasz się z takim poglądem? Uzasadnij swoją odpowiedź.</para>
-        </problem>
-      </exercise>
+    </section>
+    <section id="fs-idm55210192" class="references">
+      <title id="UUID31fd20d9-537e-4a00-6814-aad715ad3c76">References</title>
+      <para id="fs-idp49820240">Tabuchi, Hiroko. “Japan Reports a $78 Billion Trade Deficit for 2012.” <emphasis effect="italics">The New York Times</emphasis>, January 23, 2013. http://www.nytimes.com/2013/01/24/business/global/japan-reports-a-78-billion-trade-deficit-for-2012.html?_r=0.</para>
+      <para id="eip-655">World Bank. 2014. "Exports of Goods and Services (% of GDP)." Accesed April 13, 2015. http://data.worldbank.org/indicator/NE.EXP.GNFS.ZS/countries.</para>
     </section>
   </content>
 </document>

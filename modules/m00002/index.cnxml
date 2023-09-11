@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub9f1b3ea-5f31-497c-80da-e8d04b7e3ad4" id="Ub9f1b3ea-5f31-497c-80da-e8d04b7e3ad4" xml:lang="en" cnxml-version="0.7">
-  <title>1.1 PKB, czyli jak mierzyć gospodarkę?</title>
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uefc833c2-0fd1-44f5-80ca-8420aaee9966" id="Uefc833c2-0fd1-44f5-80ca-8420aaee9966" xml:lang="en" cnxml-version="0.7" class="introduction">
+  <title>Wprowadzenie do makroekonomii</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00002</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/b9f1b3ea-5f31-497c-80da-e8d04b7e3ad4</md:content-url>
-    <md:title>1.1 PKB, czyli jak mierzyć gospodarkę?</md:title>
+    <md:content-url>adaptarr.naukosfera.com/modules/efc833c2-0fd1-44f5-80ca-8420aaee9966</md:content-url>
+    <md:title>Wprowadzenie do makroekonomii</md:title>
     <md:language>en</md:language>
-    <md:version>2023-08-30T08:02:02.526412462+00:00</md:version>
-    <md:created>2023-08-30T08:02:02.526412462+00:00</md:created>
-    <md:revised>2023-08-30T08:02:02.526412462+00:00</md:revised>
+    <md:version>2023-09-11T10:25:00.115403274+00:00</md:version>
+    <md:created>2023-09-11T10:25:00.115403274+00:00</md:created>
+    <md:revised>2023-09-11T10:25:00.115403274+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -21,374 +21,87 @@
       <md:role type="publishing-system">adaptarr</md:role>
     </md:roles>
     <md:abstract />
-    <md:uuid>b9f1b3ea-5f31-497c-80da-e8d04b7e3ad4</md:uuid>
-    <md:canonical-book-uuid>4c34671f-b057-4918-8796-38ca1b2f4151</md:canonical-book-uuid>
+    <md:uuid>efc833c2-0fd1-44f5-80ca-8420aaee9966</md:uuid>
   </metadata>
   <content>
-    <note type="note" id="UUID704d5026-352b-y654-7c527b82d03b3911" class="learning-objectives">
-      <para id="UUIDfe5d3bc8-2099-4c6c-44d3-a371830cc943">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
-      <list id="UUID9251aa45-ac27-4a62-4bbd-975c83ae475d">
-        <item id="UUID77fc47c6-c5c5-4496-7996-aeb0a4e3df22">
-          <para id="UUID538c45de-9dc1-4713-52f2-60fc628b8588">Zidentyfikować składowe PKB zarówno od strony popytowej, jak i podażowej</para>
+    <figure id="CNX_Econ_C19_000" class="splash">
+      <title id="UUIDf8b0375a-2697-4052-7c6a-67ab716c5f9c">Wielki Kryzys</title>
+      <media alt="Zdjęcie przedstawia ludzi oczekujących w kolejce przed bankiem na zapomogę finansową podczas Wielkiego Kryzysu." id="fs-idm81486192">
+        <image src="../../media//CNX_Econ_C19_000.jpg" mime-type="image/jpeg" id="UUID267297b2-fcf0-47cb-4def-96c022dc6333" />
+      </media>
+      <caption id="UUIDd02642a0-652d-4ada-5b3f-020a55da5d50">Czasami łatwo jest ocenić kondycję gospodarki – na przykład wtedy, gdy wielu ludziom trudności sprawia najzwyklejsze związanie końca z końcem. To zdjęcie przedstawia Amerykanów stojących w kolejce po zapomogi wypłacane przez władze w czasie Wielkiego Kryzysu (1929–1933). Natomiast gdy jednym wiedzie się coraz lepiej, a sytuacja innych wciąż się pogarsza, określenie faktycznego stanu gospodarki jest trudniejsze. (Źródło: modyfikacja pracy z Biblioteki Kongresu/Wikimedia Commons).</caption>
+    </figure>
+    <para id="UUIDe8ccdf75-7629-4310-65e5-162b7df147b0" />
+    <note type="note" id="fs-idm40391120" class="bringhome economics">
+      <title id="UUIDff78c072-0f64-4bc6-765f-0c84c45d0e03">Jaka jest kondycja gospodarki? Jak możemy ją ocenić?</title>
+      <para id="fs-idp13113280">Lata 90. XX w. w USA były okresem boomu gospodarczego. Podobnie w Polsce czas niezwykle korzystnej koniunktury przypadł na lata 1994–2000. Dla odmiany na przełomie pierwszej i drugiej dekady XXI w., a dokładniej w latach 2007–2014, kondycja zarówno gospodarki amerykańskiej, jak i polskiej nie zachwycała. Co sprawia, że gospodarka rośnie albo się kurczy? Jakie czynniki decydują o tempie tych zmian? Dlaczego przedsiębiorstwa upadają, mimo że podejmują właściwe decyzje? Dlaczego pracownicy tracą pracę nawet jeśli ciężko i wydajnie pracują? Czy okresy złej koniunktury to dowód na zawodność systemu rynkowego? A może na niesprawność państwa? Przywołane wyżej pytania wchodzą w zakres rozważań makroekonomii. W niniejszym rozdziale spróbujemy udzielić na nie przynajmniej wstępnej odpowiedzi. Zapewne nie wszystkie kwestie uda się wyczerpująco objaśnić, ale zaczniemy od podstaw, czyli tego, jak należy rozumieć kondycję gospodarki i jak możemy ją mierzyć.</para>
+      <para id="UUID7b1d2d81-1e79-470b-5218-051c0ffce703">Makroekonomia jako nauka i sposób opisu gospodarki, w odróżnieniu od mikroekonomii, analizuje łącznie wszystkie transakcje kupna i sprzedaży w danej gospodarce krajowej, niezależnie od tego, co jest produkowane oraz kto zajmuje się wytwarzaniem i zakupami dóbr czy usług. Innymi słowy, makroekonomia obejmuje swoim zainteresowaniem wszystkie akty wymiany dokonywane na każdym rynku funkcjonującym w danej gospodarce. Nie rozdziela ich jednak, analizując wszystkie rynki łącznie. Ale czy tak gigantyczną liczbę transakcji da się w ogóle badać? Próby zmierzenia się z tym problemem zostały podjęte już podczas Wielkiego Kryzysu, ponad 90 lat temu. Prezydent Stanów Zjednoczonych Franklin D. Roosevelt i jego doradcy ekonomiczni oczywiście zdawali sobie sprawę z tego, że ówczesna sytuacja gospodarcza w USA była zła. Ale czy mogli dokładnie zmierzyć ów stan i tym samym określić, jak bardzo zła? Ekonomista Simon Kuznets, który później otrzymał Nagrodę Banku Szwecji im. Alfreda Nobla w dziedzinie nauk ekonomicznych (w 1971 r.), opracował narzędzie (produkt krajowy brutto – PKB), które pozwoliło zmierzyć łączną wartość wytworzonej i sprzedanej produkcji w amerykańskiej gospodarce. W tym rozdziale poznasz sposób obliczania PKB i możliwości wykorzystania tego agregatu oraz dowiesz się, dlaczego jest on kluczową kategorią makroekonomiczną.</para>
+    </note>
+    <note type="note" id="fs-idm89286336" class="chapter-objectives economics">
+      <title id="UUID257e4992-9987-4f69-4251-a91b85e65b9a">Wprowadzenie do makroekonomii</title>
+      <para id="fs-idm15432384">Dzięki lekturze tego rozdziału dowiesz się:</para>
+      <list id="fs-idm124053440">
+        <item id="UUID2fa11d17-20e1-44d4-7c34-8e8f8346ff5c">
+          <para id="UUID488aa25a-618e-444d-4428-232a5f3d2b59">Jak oszacować rozmiary gospodarki za pomocą produktu krajowego brutto (PKB)</para>
         </item>
-        <item id="UUID3a59cf29-a71b-4f17-76d4-cdca07b6a5c5">
-          <para id="UUID3dc33360-5be0-4b41-518a-95fd85faa7f3">Zrozumieć, w jaki sposób ekonomiści obliczają wartość PKB</para>
+        <item id="UUID08a4a9be-abe0-46e5-61af-1961f5fdd277">
+          <para id="UUIDa3d6de0c-9273-4781-7913-00a4f02f0e68">W jaki sposób przekształcić zmienne nominalne na zmienne realne</para>
         </item>
-        <item id="UUID440bc5e3-9292-495f-485b-4832d548ce9e">
-          <para id="UUID2ef855d5-266e-4e3c-6354-7f495262d3f6">Porównać i obliczyć PKB, eksport netto i produkt narodowy netto (PNN)</para>
+        <item id="UUID6931d67f-8528-46e4-52fa-d789d4e8bf81">
+          <para id="UUID5309d22f-38de-4653-4f48-9d64f6237862">Jak wyznaczyć ścieżkę zmian realnego PKB w czasie</para>
+        </item>
+        <item id="UUID70711e86-298c-40d6-4f84-c5a576557133">
+          <para id="UUIDa0fcd90d-afbd-402f-50bb-e90f645fa174">W jaki sposób poprawnie porównywać kraje pod względem poziomu PKB</para>
+        </item>
+        <item id="UUIDe94fc802-9fda-412b-582f-786f9870a712">
+          <para id="UUID4cc3d9fd-747d-4244-7b0a-bf3ae05194fe">Jakie są wady i zalety PKB jako miernika poziomu społecznego dobrobytu</para>
         </item>
       </list>
     </note>
-    <para id="fs-idp51723072">Makroekonomia jest w dużej mierze nauką empiryczną, więc pierwszym krokiem do jej zrozumienia jest poznanie sposobu szacowania rozmiarów gospodarki.</para>
-    <para id="fs-idp61758576">Jakie są zatem rozmiary polskiej gospodarki? Ekonomiści zwykle mierzą jej wielkość na podstawie <term cmlnle:reference="produkt krajowy brutto (PKB)" id="UUID216f2485-dcb6-4397-4ab8-97f807e6484d">produktu krajowego brutto (PKB)</term> (ang. <foreign xml:lang="en" id="UUID5c94a903-f57c-4edd-4f87-f8bbbad093d0"><term cmlnle:reference="gross domestic product (GDP)" id="UUID91d8dbdd-1bf1-4657-7ebd-25e7bc3b3bc2">gross domestic product (GDP)</term></foreign>). Jest to wartość wszystkich finalnych dóbr i usług (czyli takich, które nie będą już w żaden sposób przekształcane – dobrem finalnym jest np. chleb zjadany przez ciebie na śniadanie, twoje auto, które wykorzystujesz do okazjonalnego odpłatnego podwożenia kolegów, jak i obrabiarka kupiona przez przedsiębiorcę) wyprodukowanych w danym kraju w danym roku (lub innym okresie, np. kwartale). Obliczając PKB, uwzględniamy produkcję milionów różnych dóbr i usług – pralek i lodówek, samochodów, komputerów, stali, jabłek i kapusty, zrealizowanych kursów językowych i wizyt w kinie oraz wszystkich innych dóbr i usług w danym kraju w bieżącym roku. Poprzez proste zsumowanie uzyskujemy łączną wartość dóbr i usług finalnych wyrażoną w jednostkach pieniężnych (złotych w Polsce i dolarach w USA). Czynność ta nie jest taka trudna: wystarczy wziąć liczbę wszystkich finalnych dóbr i usług wyprodukowanych w gospodarce, pomnożyć przez cenę sprzedaży każdego produktu i zsumować całość. W 2021 r. zgodnie z szacunkami GUS PKB Polski wyniósł ponad 2,62 bln zł (w cenach rynkowych 2021 r.), co w przeliczeniu z zastosowaniem parytetu siły nabywczej, o którym będzie mowa w dalszej części podręcznika, oznacza ok. 1,44 bln dol. Dla porównania, w tym samym okresie gospodarka amerykańska, największa na świecie, wytworzyła dobra i usługi o wartości ok. 23 bln dol.</para>
-    <para id="UUIDf3ca2272-4f2d-4a91-67bc-e4d20cb18fe0">Uczestnikiem każdej transakcji rynkowej wliczanej do PKB musi być zarówno nabywca, jak i sprzedawca. A zatem PKB możemy obliczyć albo jako całkowitą wartość dóbr i usług kupowanych przez nabywców (tj. sumę składników popytu globalnego), albo jako całkowitą wartość dóbr i usług wyprodukowanych w danym kraju (tj. sumę wartości produkcji krajowej). Jest też trzeci sposób liczenia PKB, który wyjaśnimy później. Należy przy tym zwrócić uwagę, że – ze względu na sposób zbierania i agregacji danych przez urzędy statystyczne – sposoby te mogą dawać wyniki nieznacznie się od siebie różniące. Na przykład w roku 2021 suma składników popytu krajowego została przez GUS oszacowana na 2,59 bln zł.</para>
-    <section id="fs-idm74303216" class="clearup economics">
-      <title id="UUID5250ba2a-7a08-418d-7fd8-eddeaa65b55c">PKB jako suma składników popytu globalnego</title>
-      <para id="fs-idm69970080">Kto kupuje wyprodukowane dobra i usługi? Popyt możemy podzielić na cztery główne części: spożycie w sektorze gospodarstw domowych (konsumpcja), wydatki przedsiębiorstw (akumulacja brutto, popularnie zwana inwestycjami, której największą część stanowią nakłady na środki trwałe), spożycie publiczne (czyli wydatki państwa na dobra i usługi) oraz eksport netto. (Spójrz na sekcję <link target-id="fs-idp7850816" id="UUID2e23c56d-dea9-4344-7ce1-22bb050a92fc" />). <link target-id="Table_19_01" id="UUIDfa268dea-44c2-40f2-40b4-e20acf40fe0f" /> oraz wykres zamieszczony na <link target-id="fs-idm479350048" cmlnle:case="locative" id="UUID137ab1d0-8a80-4138-4bee-159b9879cc6b" /> pokazują sposób obliczania PKB metodą popytową w Polsce w 2021 r. Z kolei panel (a) <link target-id="CNX_Econ_C19_007" cmlnle:case="genitive" id="UUID61cf0280-18d4-422b-42b2-5b507cdcc767" /> przedstawia wielkość konsumpcji, akumulacji brutto i wydatków państwa na dobra i usługi (w % PKB), zaś panel (b) <link target-id="CNX_Econ_C19_007" cmlnle:case="genitive" id="UUIDe685f2bc-b952-493c-5524-fafd44eaefb7" /> przedstawia wielkość eksportu i importu (w % PKB). Warto zwrócić uwagę na kilka cech charakterystycznych w zachowaniu się poszczególnych zmiennych.</para>
-      <table summary="This table has three columns and six rows. The first row is a header row and it labels the last two columns, “Components of GDP on the Demand Side (in trillions of dollars),” and “Percentage of Total.” Under the first, unlabeled column are the values: Consumption, Investment, Government, Exports, Imports, and Total GDP.  Under the “Components of GDP on the Demand Side (in trillions of dollars)” column are the values: $12.8, $3.0, $3.3, $2.2, −$2.7, and $18.6. Under the “Percentage of Total” column are the values: 68.8%, 16.1%, 17.7%, 11.8%, −14.5%, and 100%." id="Table_19_01"><title id="UUIDe06ee0fa-7dbc-4f75-627e-12532a8f79d0">Rachunek tworzenia PKB od strony popytowej w Polsce w 2021 r.</title><tgroup cols="3" id="UUID704d5026-0be0-472e-d47b3e8347e0014b"><colspec colnum="1" colname="col1" id="UUID704d5026-2b19-aff5-7065ab5a8665b9d3" /><colspec colnum="2" colname="col2" id="UUID704d5026-9418-bf86-63c2c6f0395456c9" /><colspec colnum="3" colname="col3" id="UUID704d5026-d038-432e-8a82fbc6a3e6b191" /><thead id="UUID704d5026-vftr-3422-793a442f8a9d3416"><row id="UUID704d5026-4d39-6594-793a442f8a9d3416"><entry id="UUID704d5026-e729-35e4-22bd81123e287520">Popytowe składniki PKB</entry><entry id="UUID704d5026-8fc1-6251-2a0a1480d53ecf40">W bln zł</entry><entry id="UUID704d5026-08b8-f839-5c8603903683af77">Odsetek PKB</entry></row></thead><tbody id="UUID704d5026-ffrr-weww-08713b5d952c53f9"><row id="UUID704d5026-27d9-ce9a-32805da1141abb5f"><entry id="UUID704d5026-40fd-ee72-55629264808b7888">Spożycie w sektorze gospodarstw domowych (konsumpcja)</entry><entry id="UUID704d5026-0962-5a0d-bd28701a3dee50d7">1,45</entry><entry id="UUID704d5026-2ea1-ccf1-7ced586286b302b2">55,9%</entry></row><row id="UUID704d5026-93ae-7a52-08713b5d952c53f9"><entry id="UUID704d5026-4652-8ccd-7499d2092be8c1bf">Akumulacja brutto (wydatki przedsiębiorstw – inwestycje)</entry><entry id="UUID02e63386-f928-479d-78df-12f3ad4370c3">0,56</entry><entry id="UUID704d5026-6012-e062-bf29ba747eeeb642">21,7%</entry></row><row id="UUID704d5026-1b89-bb0f-52655615337629bb"><entry id="UUID704d5026-ae89-eacd-5f1e3d537921e41c">Spożycie publiczne (wydatki państwa na dobra i usługi)</entry><entry id="UUID704d5026-8140-a745-07731c12b7d39dac">0,49</entry><entry id="UUID704d5026-589e-2bd2-d86d9fb725e9143e">18,9%</entry></row><row id="UUID704d5026-abc1-7951-4ebf4d4efd059074"><entry id="UUID704d5026-b60f-976e-68e1bd6855a3e5e0">Eksport</entry><entry id="UUID704d5026-04ef-bd19-6cd8775c6d54838d">1,52</entry><entry id="UUID704d5026-a1de-6f96-4944f9b9ee41d1d5">58,5%</entry></row><row id="UUID704d5026-a942-36e0-cf5ae3a250cd772a"><entry id="UUID704d5026-cbb1-281c-c2a425251dcd2e7b">Import</entry><entry id="UUID704d5026-ff88-e717-0c4c7488ec72db0f">–1,43</entry><entry id="UUID704d5026-da82-1700-4b00f844305164af">–55,0%</entry></row><row id="UUID704d5026-19f9-509c-535cd58becadead3"><entry id="UUID704d5026-0d62-5c24-9e70f976c1941a63"><emphasis effect="bold">Produkt krajowy brutto (PKB)</emphasis></entry><entry id="UUID704d5026-89fb-fe2e-2d849fdf58013c5c"><emphasis effect="bold">2,59</emphasis></entry><entry id="UUID704d5026-2464-4874-6e9110eb24aa26a5"><emphasis effect="bold">100%</emphasis></entry></row></tbody></tgroup><caption id="UUID704d5026-19cc-21ff-ad9ab44456cd6f57">(Źródło: https://stat.gov.pl/wskazniki-makroekonomiczne)</caption></table>
-      <figure id="fs-idm479350048">
-        <title id="UUID15a415a8-d883-4c88-5faa-6a334bcad809">Rachunek tworzenia PKB od strony popytowej w Polsce w 2021 r.</title>
-        <media alt="Wykres kołowy przedstawia strukturę tworzenia PKB od strony popytowej w Polsce w 2021 r. Dane wskazują, że wydatki konsumpcyjne stanowią ponad połowę PKB (blisko 56%); kolejne miejsca zajmują zaś: akumulacja brutto (21,7%), wydatki państwa na dobra i usługi oraz eksport netto (3,5%)." id="fs-idm370520592">
-          <image src="../../media//CNX_Econ2e_C19_12.svg" mime-type="image/svg+xml" id="UUID4d9ac244-a53a-4384-7abe-91baeee02659" />
-        </media>
-        <caption id="UUIDcc784328-2e0e-4097-7cb6-1d6db11fbae7">Konsumpcja stanowi ponad połowę PKB. Udziały na wykresie nie sumują się do 100% ze względu na zaokrąglenia. (Źródło: https://stat.gov.pl/wskazniki-makroekonomiczne).</caption>
-      </figure>
-      <note type="note" id="fs-idp7850816" class="clearup economics">
-        <title id="UUID18248e17-a90c-4185-5756-c7921f22738a">Co oznacza termin „akumulacja brutto”?</title>
-        <para id="fs-idp2728208">Jak ekonomiści rozumieją termin akumulacja brutto, w języku potocznym określaną zbiorczym terminem „inwestycje”? Przy obliczaniu PKB termin „inwestycje” nie odnosi się do zakupu akcji i obligacji czy handlu aktywami finansowymi. Akumulacja brutto obejmuje z jednej strony nakłady brutto na środki trwałe (czyli zakup nowych dóbr kapitałowych w postaci nieruchomości komercyjnych, takich jak budynki, fabryki i sklepy, oraz maszyn i urządzeń), a z drugiej – przyrost zapasów. Towary wyprodukowane w danym roku muszą być uwzględnione w PKB z tego samego roku – nawet jeśli nie zostały jeszcze sprzedane. Dlatego przyrost zapasów traktujemy po prostu jako inwestycję przedsiębiorstwa we własne wyroby. Według danych GUS zaprezentowanych powyżej nakłady brutto na środki trwałe w Polsce w 2021 r. wyniosły 447,2 mld zł (czyli stanowiły ok. 17% PKB).</para>
-      </note>
-      <figure id="CNX_Econ_C19_007">
-        <title id="UUID1b11b3e7-8aa3-4493-6a83-a2932db858c2">Składniki popytu globalnego w USA</title>
-        <media alt="Ilustracja składa się z dwóch wykresów liniowych (panel a i panel b) przedstawiających zmiany procentowe PKB w latach 1950–2020. Wykres na panelu (a) pokazuje relację konsumpcji gospodarstw domowych, spożycia publicznego oraz akumulacji brutto do PKB w USA w latach 1950–2020. W 1951 r. konsumpcja stanowiła 60,1% PKB. Udział ten pozostawał dość stabilny do 1993 r. W roku 1993 r. wyniósł on 64,9%, a w 2020 osiągnął ok. 67,2%. Wydatki państwa na dobra i usługi stanowiły w 1951 r. 21,1% PKB. Udział ten systematycznie zmniejszał się w dość wolnym tempie i w 2020 r. wyniósł 18,5%. Z kolei inwestycje w 1960 r. stanowiły 15,9% PKB. Udział ten wzrastał stopniowo do poziomu 20,3% w 1978 r., a następnie spadł, osiągając wartość 16,4% w roku 2014. Wykres na panelu (b) przedstawia import i eksport w relacji do PKB w USA w latach 1960–2014. W 1950 r. udział importu w PKB wyniósł 3,9%. Następnie rósł dość systematycznie i w 2008 r. osiągnął poziom 17,4%, po czym zmniejszył się do 13,3% w roku 2020. Z kolei eksport w 1950 r. stanowił 4,1% PKB i wykazywał podobny schemat zmian. W 2013 r. eksport osiągnął poziom 13,6% PKB, a w 2020 już 10,2% PKB." id="fs-idm107827648">
-          <image src="../../media//CNX_Econv1-2_C19_04.svg" mime-type="image/svg+xml" id="UUID098101a9-e226-4ec5-6af1-34cd6a0e841a" />
-        </media>
-        <caption id="UUIDce364c3b-09c1-4d3a-4408-3944b1d5aeb8">(a) Konsumpcja stanowiła w USA ok. 2/3 PKB i z biegiem czasu wykazywała niewielką tendencję wzrostową. Inwestycje przedsiębiorstw oscylują wokół 15% PKB, ale ulegają większym wahaniom niż konsumpcja. Wydatki państwa na dobra i usługi stanowią nieco poniżej 20% PKB i nieznacznie spadały wraz z upływem czasu. (b) Eksport jest dodawany do całkowitego popytu na dobra i usługi, podczas gdy import jest odejmowany od całkowitego popytu. Jeśli eksport przewyższa import, tak jak w USA przez większość lat 60. i 70. XX w., występuje nadwyżka handlowa. Natomiast jeśli import przewyższa eksport, tak jak w ostatnich latach, mamy do czynienia z deficytem handlowym. (Źródło: http://bea.gov/iTable/index_nipa.cfm).</caption>
-      </figure>
-      <para id="UUID4048624d-47fd-4737-61d0-a50d6a0f0c37">Spożycie (konsumpcja) w sektorze gospodarstw domowych to największy składnik PKB, zarówno w przypadku gospodarki Polski, jak i USA. Oznacza to, że decyzje konsumentów dotyczące wydatków mają ogromny wpływ na sytuację gospodarczą. Jednocześnie wydatki konsumpcyjne są dość stabilnym składnikiem PKB, gdyż nie wykazują dużych wahań w czasie. W USA na przestrzeni ostatnich lat wzrosły tylko nieznacznie, gdyż w latach 60. i 70. XX w. wynosiły ok. 60% PKB. W Polsce relatywna wielkość spożycia w sektorze gospodarstw domowych również jest względnie stabilna. W 1995 r. parametr ten osiągał wartość ok. 59% PKB, zaś w 2021 roku ok. 55% PKB.</para>
-      <para id="UUID6e6b925e-b3df-471b-569b-3d59d8107907">Nakłady brutto na środki trwałe, stanowiące najważniejszą część akumulacji brutto, dotyczą przede wszystkim zakupów przez przedsiębiorstwa nieruchomości, maszyn i urządzeń. Jeśli Biedronka zbuduje nowy sklep, a firma transportowa kupi ciężarówki, wydatki te będą zaliczone właśnie do tej kategorii statystycznej. Wydatki realizowane przez przedsiębiorstwa są znacznie mniejsze niż konsumpcja. Nakłady brutto na środki trwałe (inwestycje) stanowią zwykle ok. 18% PKB, ale są bardzo ważne dla gospodarki, ponieważ oznaczają tworzenie potencjału produkcyjnego przyszłych okresów i miejsc pracy. Inwestycje podlegają większym wahaniom niż konsumpcja, ponieważ są wrażliwe na działanie wielu czynników. Nowa technologia lub nowy produkt mogą pobudzić inwestycje, z kolei pogorszenie nastrojów gospodarczych może doprowadzić do gwałtownego załamania się wydatków inwestycyjnych.</para>
-      <para id="UUIDe32ebbfb-5bde-418b-4f51-03e368e02684">Jeśli przyjrzysz się któremukolwiek z projektów infrastrukturalnych rozpoczętych w Polsce w ostatnich latach (pomyśl choćby o gazoporcie w Świnoujściu czy nowych liniach tramwajowych budowanych w Warszawie), to okaże się, że wydatki państwa są dla gospodarki bardzo ważne. Spożycie publiczne w Polsce kształtuje się zwykle na poziomie ok. 20% PKB i obejmuje wydatki tak na szczeblu krajowym, jak i samorządowym. W obliczeniach popytu globalnego uwzględnia się tylko wydatki państwa dotyczące zakupów dóbr i usług wytwarzanych w gospodarce. Przykładem jest zarówno budowa tunelu w Świnoujściu, zakup karabinków Grot dla polskiej armii, budowa nowej autostrady (wydatki na poziomie krajowym), jak i remont szkoły podstawowej w małej gminie (wydatek administracji lokalnej). Znaczna część wydatków realizowanych przez władze różnych szczebli dotyczy płatności transferowych, takich jak zasiłki dla bezrobotnych, świadczenia wychowawcze na dzieci i na fundusz ubezpieczeń społecznych. Tego typu wydatków nie uwzględnia się w PKB, ponieważ państwo nie otrzymuje w zamian żadnego dobra lub usługi. Są to tylko transfery pieniędzy od jednych podatników do innych.</para>
-      <para id="UUID599d2bb2-5512-46b9-702a-102bdfbfe491">Jeśli chcesz dowiedzieć się więcej o niezwykle skomplikowanym przedsięwzięciu, jakim jest liczenie amerykańskiego PKB, przeczytaj poniższą <link target-id="fs-idm64181600" cmlnle:case="accusative" id="UUID3a4fe2d2-6fe1-4623-7970-b5273a0a9f0f" />.</para>
-      <note type="note" id="fs-idm64181600" class="clearup economics">
-        <title id="UUID11c5f56d-4c7a-4057-57e3-73bf0cd6e57b">Jak statystycy obliczają PKB?</title>
-        <para id="fs-idp90395328">W Stanach Zjednoczonych ekonomiści z <term cmlnle:reference="Biuro Analiz Ekonomicznych" id="UUID21df1421-05c8-458e-7170-de13438b346e">Biura Analiz Ekonomicznych</term> (ang. <foreign xml:lang="en" id="UUIDb35d6160-b8bb-43db-525f-d9846b528bef"><term id="UUID3b07cbac-4ed2-4e00-7ae5-4e0dea630cff">Bureau of Economic Analysis – BEA</term></foreign>) w Departamencie Handlu agregują poszczególne składowe PKB pochodzące z różnych źródeł.</para>
-        <para id="UUID343b39bb-1868-4f4f-5073-bbf5a959b5c4">Raz na pięć lat, tj. w drugim i siódmym roku każdej dekady, Biuro Spisu Ludności (Bureau of the Census) przeprowadza szczegółowy spis przedsiębiorstw w całych Stanach Zjednoczonych. W międzyczasie prowadzone są comiesięczne badania sprzedaży detalicznej. Następnie wartości te są korygowane o dane dotyczące handlu zagranicznego, aby uwzględnić eksport towarów wyprodukowanych w Stanach Zjednoczonych i sprzedanych za granicę oraz import towarów, które zostały wytworzone za granicą i kupione przez amerykańskie podmioty. Raz na dziesięć lat Biuro Spisu Ludności dokonuje kompleksowego badania sytuacji finansowej i mieszkaniowej gospodarstw domowych. Po odpowiednim zagregowaniu źródła te stanowią podstawę do oszacowania wielkości konsumpcji w gospodarce amerykańskiej.</para>
-        <para id="UUIDd3ce45ec-1679-4f4f-66d5-cacb834c87da">W celu obliczenia wielkości inwestycji Biuro Spisu Ludności przeprowadza miesięczne badania budownictwa i roczne analizy wydatków na zakupy kapitału rzeczowego.</para>
-        <para id="UUIDc72a3c31-1d31-4164-5e72-8d0dc341c391">Dane o wydatkach rządu federalnego dostarczane są przez amerykański Departament Skarbu. Informacje na temat wydatków na poziomie stanowym i lokalnym pochodzą z corocznych sprawozdań administracji tych szczebli. Ponieważ na wszystkich poziomach administracji duża część wydatków jest związana z zatrudnieniem pracowników do świadczenia usług publicznych, dane dotyczące takich wydatków można również zebrać za pośrednictwem list płac gromadzonych przez władze stanowe i fundusz ubezpieczeń społecznych.</para>
-        <para id="UUIDbf2c3c79-7117-463a-5c72-818795e262e3">W odniesieniu do handlu zagranicznego Biuro Spisu Ludności sporządza miesięczną ewidencję wszystkich transakcji importowych i eksportowych. Dodatkowe badania dotyczą kosztów transportu i podróży oraz korekt obejmujących usługi finansowe świadczone w Stanach Zjednoczonych dla klientów zagranicznych.</para>
-        <para id="UUIDf2123979-9c32-42ef-5d27-a15c46088e00">W szacunkach PKB uwzględnia się także wiele innych źródeł. Informacje dotyczące produkcji i zużycia energii pochodzą z Departamentu Transportu i Departamentu Energii. Agencja Badań i Jakości Ochrony Zdrowia gromadzi informacje na temat opieki zdrowotnej. Dzięki badaniom prowadzonym wśród właścicieli nieruchomości uzyskiwane są dane pokazujące dochody z najmu. Departament Rolnictwa gromadzi statystyki na temat rolnictwa.</para>
-        <para id="UUID2b648d85-718c-4b84-7242-5615a2d4798a">Wszystkie te szczątkowe informacje mają różną formę i dotyczą różnego okresu. Biuro Analiz Ekonomicznych agreguje te dane w celu uzyskania szacunków PKB w każdym kwartale (tj. co trzy miesiące). W kolejnym kroku Biuro Analiz Ekonomicznych przelicza statystyki kwartalne na ujęcie roczne. W miarę pojawiania się nowych informacji szacunki są aktualizowane i korygowane. Biuro Analiz Ekonomicznych publikuje prognozę wartości PKB za każdy zakończony kwartał w kolejnym miesiącu po jego zakończeniu. „Wstępne szacunki” pojawiają się miesiąc później. W kolejnym miesiącu publikowane są „ostateczne szacunki”, ale i one nie odzwierciedlają jeszcze ostatecznej wartości PKB. W lipcu każdego roku Biuro Analiz Ekonomicznych podaje zaktualizowane dane odnoszące się do poziomu PKB w poprzedni roku kalendarzowym. Następnie, raz na pięć lat, po przetworzeniu wszystkich wyników ostatniego szczegółowego pięcioletniego spisu przedsiębiorstw, Biuro Analiz Ekonomicznych koryguje wszystkie wcześniejsze szacunki PKB zgodnie z najnowszymi metodami i danymi, począwszy od 1929 r.</para>
-      </note>
-      <para id="fs-idp31338800">Myśląc o stronie popytowej PKB w warunkach silnie zglobalizowanej gospodarki światowej, nie można zapomnieć o uwzględnieniu wydatków na eksport, czyli towarów wytworzonych w kraju i sprzedanych za granicę. Analogicznie od wartości popytu musimy odjąć wydatki na import – towary produkowane za granicą i kupowane przez mieszkańców danego kraju. Eksport netto, będący częścią PKB, jest równy wartości eksportu (X) pomniejszonego o wartość importu (Z), tj. (X – Z). Różnicę między eksportem a importem nazywamy <term cmlnle:reference="saldo bilansu handlowego" id="UUID944d89a5-ff16-4031-6ddf-94da7311b43b">saldem bilansu handlowego</term> lub <term cmlnle:reference="eksport netto" id="UUID7f8ca276-f8b8-4e38-708f-92b4f9ecbf90">eksportem netto</term> (ang. <foreign xml:lang="en" id="UUID277543ce-fe22-4b28-76f5-af193ce6a119"><term id="UUID90ecaf7e-4b58-48fe-499a-d3d6b7f0dce1">trade balance</term></foreign>). Jeśli eksport danego kraju jest większy niż import, występuje <term id="UUID5f74526b-b5e9-4788-5aac-20a106eb6b48">nadwyżka handlowa</term> lub <term id="UUID5eb3c9db-67c9-4ae4-57ac-6c40614a1ef0">dodatnia wartość eksportu netto</term> (ang. <foreign xml:lang="en" id="UUIDf44c29a4-ec42-4418-654e-a5338859665a"><term id="UUID37e6b9fd-1c68-478a-4a59-d7a43018e427">trade surplus</term></foreign>). W Stanach Zjednoczonych eksport przewyższał import w latach 60. i 70. XX w., jak pokazuje część (b) <link target-id="CNX_Econ_C19_007" cmlnle:case="genitive" id="UUID74edff33-cd42-4aa9-66f1-5b8514d9a325" />. Natomiast w Polsce zgodnie z danymi publikowanymi przez GUS z systematyczną nadwyżką handlową mamy do czynienia od 2013 r.</para>
-      <para id="fs-idp42167040">Począwszy od wczesnych lat 80. XX w., amerykański import zazwyczaj przewyższał eksport, dlatego Stany Zjednoczone w tym okresie notowały zwykle <term id="UUIDf19bc367-55a3-49be-77c6-903095881065">deficyt handlowy</term> lub inaczej mówiąc, <term cmlnle:reference="ujemna wartość eksportu netto" id="UUID2b624ca1-139b-4616-499a-9da5a41f46dd">ujemną wartość eksportu netto</term> (ang. <foreign xml:lang="en" id="UUID892f94ef-8be9-4662-53fe-b664ceebcb52"><term id="UUID36c66e92-dd00-48b2-5f92-6cc4dc29d22c">trade deficit</term></foreign>). Deficyt handlowy USA wzrósł dość mocno pod koniec lat 90. XX w. i w połowie pierwszej dekady XXI w. W Polsce deficyt handlowy występował nieustannie w latach 1996–2012. Część (b) <link target-id="CNX_Econ_C19_007" cmlnle:case="genitive" id="UUID0a1d0edc-8f4c-4099-4700-2f54e6761021" /> pokazuje, że zarówno import, jak i eksport znacznie wzrosły w ostatnich dziesięcioleciach, z krótkim okresem spadku podczas globalnego kryzysu finansowego, tj. w latach 2008–2009. Jak zauważyliśmy wcześniej, jeśli eksport i import są równe, handel zagraniczny nie ma wpływu na całkowitą wartość PKB. Jednak nawet gdy eksport i import są zbilansowane, handel zagraniczny może nadal mieć potężny wpływ na poszczególne branże i zatrudnionych w nich pracowników, powodując, że siła robocza i inwestycje w kapitał rzeczowy będą kierowane do konkretnych sektorów gospodarki.</para>
-      <para id="UUID05a8fff8-b1a8-4684-4f81-11a4ed33017f">Uwzględniając cztery składniki popytu globalnego, PKB od strony popytowej możemy zapisać jako:</para>
-      <equation id="fs-idm17669600" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>PKB</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Konsumpcja + Inwestycje + Wydatki państwa na dobra i usługi + Eksport netto</mtext></mtd></mtr><mtr><mtd><mtext>PKB</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>C + I + G + (X – Z)</mtext></mtd></mtr></mtable></math></equation>
-      <para id="UUIDcd6fe5a8-2e9f-47dd-6b15-cd677b757445">Znajomość metod obliczania PKB jest kluczowa dla analizy powiązań zmiennych makroekonomicznych i do zrozumienia narzędzi polityki gospodarczej państwa. W powyższym wzorze C oznacza konsumpcję, I – inwestycje, G – wydatki państwa na dobra i usługi, X – eksport, Z – import.</para>
+    <para id="fs-idp20669360">Makroekonomia zajmuje się gospodarką jako całością (pomijając preferencje jednostek i to, co się dzieje na konkretnych rynkach oraz w przedsiębiorstwach), jak również zależnościami między gospodarkami różnych krajów. Jakie są przyczyny spadku poziomu PKB (recesji) lub gwałtownego spowolnienia tempa wzrostu tego wskaźnika? Dlaczego bezrobocie utrzymuje się na wysokim poziomie nawet po zakończeniu okresu niekorzystnej koniunktury? Dlaczego niektóre kraje rozwijają się (ich PKB rośnie) szybciej niż inne? Dlaczego w jednych państwach poziom życia jest wyższy niż w innych? Na wszystkie te pytania próbuje odpowiedzieć makroekonomia. Aby tego dokonać, agreguje aktywność gospodarczą wszystkich gospodarstw domowych i przedsiębiorstw na wszystkich rynkach, ustalając wielkości łącznego popytu i łącznej podaży w gospodarce. Konsekwencje takich obliczeń są bardzo ciekawe. Niejednokrotnie zdarza się bowiem, że wyniki na poziomie makroekonomicznym nie są prostą sumą wyników na poziomie mikroekonomicznym. To, co z mikroekonomicznego punktu widzenia wydaje się rozsądne, na poziomie makroekonomicznym może mieć nieoczekiwane lub kontrproduktywne skutki.</para>
+    <para id="UUIDb61ff7de-15b6-4603-432b-44416c5c42b2">Wyobraź sobie, że jesteś uczestnikiem spektaklu z dużą liczbą widzów, np. koncertu lub meczu. W pewnym momencie kilka osób postanawia wstać, by mieć lepszy widok na to, co dzieje się na scenie lub na boisku. W ten sposób zasłaniają jednak widok innym widzom, którzy – aby cokolwiek zobaczyć – też muszą wstać. W końcu prawie wszyscy podnoszą się ze swoich miejsc, w wyniku czego nikt nie ma widoku wyraźnie lepszego niż poprzednio. Racjonalna w sumie decyzja niektórych osób (czyli na poziomie mikro) ostatecznie nic nie zmieniła w sytuacji całej zbiorowości (na poziomie makro). Przytoczony przykład nie dotyczy oczywiście obszaru zainteresowania makroekonomii, ale dobrze ilustruje relację pomiędzy ekonomicznymi decyzjami jednostek i ich konsekwencjami dla całego społeczeństwa.</para>
+    <para id="fs-idm16949040">Makroekonomia obejmuje dość obszerny zakres problemów. Jak sobie z nim poradzimy? <link target-id="CNX_Econ_C19_001" id="UUID7d57e853-85a4-4507-5a72-34bda269521a" /> pokazuje nasze podejście do kwestii pozostających w obszarze zainteresowania makroekonomii. Będziemy je analizować z trzech różnych perspektyw:</para>
+    <list list-type="enumerated" id="fs-idm22924480">
+      <item id="UUID4caef3fa-0f12-4d19-527a-eec6cecc4c2d">
+        <para id="UUID47ac38d9-1096-4436-5079-af49e65e9405">Jakie są cele gospodarowania?</para>
+      </item>
+      <item id="UUID777d138a-72ec-4887-4148-370ab31cc34f">
+        <para id="UUID1116e7f1-b761-4404-63cf-e057d7024929">Jakie modele mogą zastosować ekonomiści do analizy całej gospodarki?</para>
+      </item>
+      <item id="UUID375961c2-f728-400f-4a94-f3afba5741ea">
+        <para id="UUID58e60932-2c7c-444f-4ab2-fc5d6c800762">Jakie narzędzia z zakresu polityki gospodarczej może wykorzystać państwo, aby wpływać na procesy gospodarowania?</para>
+      </item>
+    </list>
+    <figure id="CNX_Econ_C19_001">
+      <title id="UUIDf432160a-e92a-445f-5880-67ba65fb4750">Cele gospodarowania, modele makroekonomiczne i polityka państwa</title>
+      <media alt="Rysunek przedstawia trzy ramki, reprezentujące różne perspektywy makroekonomiczne, odpowiednio: cele gospodarowania, modele makroekonomiczne i politykę państwa. Schemat ilustruje zakres tematyczny problemów, którymi zajmuje się makroekonomia." id="fs-idm49747456">
+        <image src="../../media//CNX_Econ_C19_001.svg" mime-type="image/svg+xml" id="UUID2b51afa9-4bf7-4865-679a-62bda4ef0854" />
+      </media>
+      <caption id="UUIDa2a2e67a-cf11-4c0e-788d-15f5e8458210">Ramka po lewej stronie wskazuje na najważniejsze cele gospodarowania. Ramka środkowa przedstawia wybrane modele stosowane przez ekonomistów do analiz makroekonomicznych (np. w zakresie inflacji lub tempa i kierunku zmian PKB). Ramka po prawej stronie z kolei prezentuje dwa przykłady polityk gospodarczych państwa.</caption>
+    </figure>
+    <section id="fs-idp3974144">
+      <title id="UUID2a6564ed-817f-4c24-4088-91767c98a7ba">Cele gospodarowania</title>
+      <para id="fs-idp3562320">Myśląc o ogólnej kondycji gospodarki, warto wziąć pod uwagę trzy podstawowe cele gospodarowania: wzrost gospodarczy, niskie bezrobocie i niską inflację.</para>
+      <list id="fs-idm95757952">
+        <item id="UUIDb12a9beb-e9f6-4f8d-5b41-a78589279c84">
+          <para id="UUID1d8512c3-cac9-44f4-4709-97e58c939336">Wzrost gospodarczy wpływa na poprawę poziomu życia w danym kraju. Ekonomiści mierzą wzrost gospodarczy jako procentową zmianę realnego (skorygowanego o inflację) produktu krajowego brutto w danym okresie. W krajach rozwiniętych tempo wzrostu gospodarczego przekraczające 3% rocznie jest uważane za absolutnie zadowalające, jakkolwiek w Polsce, która próbuje dogonić najbogatsze kraje globu pod względem standardu życia, satysfakcję budzi dopiero dynamika wzrostu PKB na poziomie 4,5–5,0%.</para>
+        </item>
+        <item id="UUID30647512-d6ce-4a97-4d06-16fa704c3edd">
+          <para id="UUID15f71769-30a3-410b-6b02-1cb6a68f64bd">Bezrobocie mierzone jest relacją osób pozostających bez pracy w stosunku do całej siły roboczej, czyli stopą bezrobocia (pojęcia te zostaną dokładnie objaśnione w kolejnych rozdziałach podręcznika). Kiedy ludzie nie pracują, gospodarka marnuje cenne zasoby, co prowadzi do produkcji dóbr i usług mniejszej od możliwej. Bezrobocie to jednak coś więcej niż tylko statystyka rynku pracy – od poziomu bezrobocia zależą dochody mieszkańców. Chociaż bezrobocie w gospodarkach rynkowych prawdopodobnie nigdy całkowicie nie zniknie, ekonomiści uważają stopę bezrobocia na poziomie niższym od 5% za bardzo dobry wynik.</para>
+        </item>
+        <item id="UUIDc3f99b73-635b-4140-6dc0-1a314ff1b0b5">
+          <para id="UUID776ac719-06ba-4fc2-737d-437c9cfe7dc2">Inflacja to wzrost ogólnego poziomu cen w gospodarce. Jest ona zwykle mierzona wskaźnikiem wzrostu cen towarów i usług konsumpcyjnych (ang. consumer price index – CPI). Jeśli ceny żywności, mieszkań i usług rosną znacznie szybciej niż płace, ludzie są niezadowoleni, bo wówczas ich poziom życia spada. Niska inflacja – w granicach 2,0–2,5% rocznie – stanowi dla gospodarki bezpieczne zjawisko.</para>
+        </item>
+      </list>
     </section>
-    <section id="fs-idp68510624">
-      <title id="UUIDd9ce36ba-4b4d-46c3-4c52-beb53fcf5e13">PKB jako suma wartości produkcji krajowej</title>
-      <para id="fs-idp110068704">Wszystko, co kupujemy, trzeba najpierw wyprodukować. <link target-id="Table_19_02" id="UUID66a295fd-011e-4f19-5c50-0714cb2bcef4" /> przedstawia wielkość produkcji danego kraju w podziale na pięć kategorii towarowych stosowanych w rachunkach statystycznych USA: <term id="UUIDd2e5057b-eaa7-4576-7735-b870be9962b0">dobra trwałego użytku</term> (ang. <foreign xml:lang="en" id="UUIDffd1fd89-6f8f-4d13-740a-cc5675200433"><term id="UUIDa16099cc-ce1d-4e5d-5a36-aead74c54394">durable goods</term></foreign>), <term id="UUID8cf0b118-688a-4dac-63d8-2ff46d4b0b37">dobra nietrwałe</term> (ang. <foreign xml:lang="en" id="UUID2493056a-2f5c-4b91-47ec-455fd0dc2aae"><term id="UUID6eb0f6ea-f0d3-4f2b-6cd9-87c41b9da931">nondurable goods</term></foreign>), <term id="UUIDc6f7d497-a9b9-4612-4fbc-60b29c9197ab">usługi</term> (ang. <foreign xml:lang="en" id="UUIDc84dadfa-9eee-4c71-6d39-a9676840d9dd"><term id="UUID6c8adc35-3359-447c-550e-aeaf467c470c">services</term></foreign>), <term id="UUIDf4e71eb6-0000-4e51-5a98-0c98fdaf4960">budowle</term> (ang. <foreign xml:lang="en" id="UUID172569ca-4e76-4715-698f-a7a858624905"><term id="UUIDc9534dc5-a96f-483a-5c03-f612c2d90bcc">structures</term></foreign>) i zmianę stanu <term cmlnle:reference="zapasy" id="UUID9772512c-8bf5-42d5-55f5-ea92a95bddb1">zapasów</term> (ang. <foreign xml:lang="en" id="UUID7ca58654-8f4c-461e-6c02-2229b9228b1d"><term id="UUID0c5a2518-fdb0-414a-7721-8b487c79382a">inventories</term></foreign>). Tym razem nie zaprezentujemy danych dla Polski, ponieważ stosowany w naszym kraju sposób ich dezagregowania po stronie podażowej nie da się łatwo przełożyć na sposób amerykański. W Polsce dane dotyczące struktury produkcji prezentowane są w układzie Polskiej Klasyfikacji Działalności – PKD 2007 w podziale na takie kategorie, jak m.in.: „rolnictwo, leśnictwo, łowiectwo i rybactwo”, „przemysł”, „budownictwo”, „działalność finansowa i ubezpieczeniowa”. Zanim poznamy szczegółowo kategorie wykorzystywane w Stanach Zjednoczonych, zauważmy, że całkowity PKB liczony jako suma wartości produkcji krajowej na mocy definicji jest dokładnie równy PKB mierzonemu jako suma składników popytu globalnego. <link target-id="CNX_Econ_C19_011" id="UUID6d36265a-87fe-46b0-7fef-56d4f186ca15" /> przedstawia wizualizację danych zawartych w <link target-id="Table_19_02" cmlnle:case="locative" id="UUID222db5ce-4701-4ce1-69f3-83573570fe15" />.</para>
-      <table summary="This table has three columns and seven rows. The first row is a header row and it labels the last two columns, “Components of GDP on the Supply Side (in trillions of dollars),” and “Percentage of Total.” Under the first, unlabeled column are the values: Goods, Durable goods, Nondurable goods, Services, Structures, Change in inventories, and Total GDP. Under the “Components of GDP on the Supply Side (in trillions of dollars)” column starting with Durable goods are the values: $3.0, $2.5, $11.6, $1.5, $0.0, and $18.6. Under the “Percentage of Total” column starting with Durable goods are the values: 16.1%, 13.4%, 62.4%, 8.1%, 0.0%, and 100%. " id="Table_19_02"><title id="UUID704d5026-ea27-1fbb-8843a7f309d56502">Rachunek tworzenia PKB od strony produktowej w USA w 2020 r.</title><tgroup cols="3" id="UUID704d5026-cbe9-54a6-81e6c954304d8bd4"><colspec colnum="1" colname="col1" id="UUID704d5026-b083-aae7-373de762b79c4fbe" /><colspec colnum="2" colname="col2" id="UUID704d5026-4d9e-a42c-791ea01d8f5348ea" /><colspec colnum="3" colname="col3" id="UUID704d5026-31f0-a1c4-dedb427ae26f2b2c" /><thead id="UUID704d5026-gtt-4444-ac331c214ed8168d"><row id="UUID704d5026-798d-9449-ac331c214ed8168d"><entry id="UUID704d5026-23bf-4148-586aa919ec0c1686">Kategorie produktów</entry><entry id="UUID704d5026-ed1f-4e80-a949d2bae1923b7f">W bln dol.</entry><entry id="UUID704d5026-6e5c-cf91-e3a8dfc745151382">Odsetek PKB</entry></row></thead><tbody id="UUID704d5026-ffrt-sdss-e3a8dfc745151382"><row id="UUID704d5026-4a1d-ebad-b061a2c2dd51af38"><entry id="UUID14ba80cd-d859-4ad0-4d82-90b62b9f1fb6">Dobra-ten wiersz należy usunąć - usuńmy ten wiersz i pozostawmy dotychczasową etykietę kolumny</entry><entry id="UUID704d5026-6e58-8d4e-491613821133dbc4" /><entry id="UUID704d5026-c5a8-1ccd-67864049e6f43845" /></row><row id="UUID704d5026-9c06-35a4-6b6aa2f4bf51db0d"><entry id="UUID704d5026-eb28-2a7e-8db9c8ff6160cc8a">Dobra trwałego użytku</entry><entry id="UUID704d5026-e007-d63a-bd20de05e26ad2d1">3,5</entry><entry id="UUID704d5026-b30c-d413-f42df223606c8ee9">16,7%</entry></row><row id="UUID704d5026-91de-2c2e-24ac448a4180523a"><entry id="UUID704d5026-dcc6-d0a7-db33bea942976bef">Dobra nietrwałe</entry><entry id="UUID704d5026-4cc1-634f-501a1a4eeb5cac6e">2,8</entry><entry id="UUID704d5026-7e13-6e40-49a3f575b8d91d4c">13,4%</entry></row><row id="UUID704d5026-9317-a7de-825775ea8a6a7ef1"><entry id="UUID704d5026-b09a-6a5e-3eb1b5849faf4f67">Usługi</entry><entry id="UUID704d5026-3d0e-4397-2e7af0a3d3d027ed">12,7</entry><entry id="UUID704d5026-e1a1-be3a-2a247865424000a6">60,8%</entry></row><row id="UUID704d5026-68b0-3ca0-69a23d0df6458e65"><entry id="UUID704d5026-f6a5-61fd-b36193ca8c297b64">Budynki i budowle</entry><entry id="UUID704d5026-5828-699e-94d7cce999c92024">1,9</entry><entry id="UUID704d5026-6e37-c284-16c706725ae76053">9,1%</entry></row><row id="UUID704d5026-6ed1-5682-cc3016e33f6a108a"><entry id="UUID704d5026-bc8e-32c4-8719df18c7f9c115">Zmiana stanu zapasów</entry><entry id="UUID704d5026-aa54-d74b-981a2169f01b0348">0,0</entry><entry id="UUID704d5026-300b-fe05-f41ce7a9a1d29149">0,0%</entry></row><row id="UUID704d5026-ef0a-0009-5d2ff6bb5b598de9"><entry id="UUID704d5026-f1ac-c1bb-10eb2419d6645406"><emphasis effect="bold">Produkt krajowy brutto (PKB)</emphasis></entry><entry id="UUID704d5026-c03e-b3ce-03884ecb6a77ddc6"><emphasis effect="bold">20,9</emphasis></entry><entry id="UUID704d5026-f04c-2e15-63c8dc0b63517be4"><emphasis effect="bold">100%</emphasis></entry></row></tbody></tgroup><caption id="UUID704d5026-hytt-4423-63c8dc0b63517be4">(Źródło: http://bea.gov/iTable/index_nipa.cfm)</caption></table>
-      <figure id="CNX_Econ_C19_011">
-        <title id="UUIDa6378fbf-032c-485a-44d9-2a7c37e7c7d7">Rachunek tworzenia PKB od strony produktowej w USA w 2020 r.</title>
-        <media alt="Wykres kołowy pokazuje, że usługi stanowiły w 2020 r. ponad połowę wartości amerykańskiego PKB. Kolejne miejsca zajmowały dobra trwałego użytku, dobra nietrwałe, budynki i budowle oraz zmiana stanu zapasów." id="fs-idp112947456">
-          <image src="../../media//CNX_Econv1-2_C19_05.svg" mime-type="image/svg+xml" id="UUID884248e3-fe05-4f86-759f-d467f428381a" />
-        </media>
-        <caption id="UUIDa62183f1-e2ec-42e1-6cee-41e73c2636b1">Usługi stanowiły w 2020 r. ponad 60% PKB Stanów Zjednoczonych.</caption>
-      </figure>
-      <para id="fs-idp5083808">Ponieważ w każdej transakcji rynkowej uczestniczy zarówno nabywca, jak i sprzedawca, PKB musi być taki sam niezależnie od tego, czy mierzony jest od strony popytowej, czy od strony produktowej (podażowej). <link target-id="CNX_Econ_C19_004" id="UUID1e0e8865-b003-413b-4cba-ca9d696ed78f" /> pokazuje szeregi czasowe względnej (odniesionej do PKB) wartości różnych kategorii produktów w USA, począwszy od 1950 r.</para>
-      <figure id="CNX_Econ_C19_004">
-        <title id="UUID5465e47f-4e39-45c0-4938-920f57d72994">Kategorie produktów</title>
-        <media alt="Wykres pokazuje, że budynki i budowle miały mniej więcej 10-procentowy udział w tworzeniu PKB Stanów Zjednoczonych od roku 1950 r. aż do 2005, kiedy zaczął on maleć, by w 2020 r. spaść do 8,9%. Relacja dóbr trwałego użytku do PKB utrzymywała się od lat 50. XX w. na poziomie ok. 20%, ale z początkiem obecnego stulecia zaczęła się zmniejszać i osiągnęła w 2020 r. poziom 16,8%. Udział usług w PKB systematycznie wzrastał z poziomu 38% w 1950 r. do 60% w roku 2020. Z kolei udział dóbr nietrwałych w PKB stale się kurczył, z 28,5% w 1950 r. do 13,5% w 2020 r." id="fs-idp46123152">
-          <image src="../../media//CNX_Econv1-2_C19_06.svg" mime-type="image/svg+xml" id="UUID9ca89426-c7dc-4dd4-4d98-72d26dd067f3" />
-        </media>
-        <caption id="UUID5267c307-e4bc-4172-7123-75816989b262">Usługi były w 2020 r. największą kategorią towarową po podażowej stronie PKB, stanowiąc prawie 61% tego agregatu, w porównaniu z 38% na początku lat 50. XX w. Dobra trwałego użytku i dobra nietrwałe, reprezentujące produkcję przemysłu przetwórczego, sukcesywnie zmniejszały swój udział w PKB. Dobra nietrwałe stanowiły kiedyś większy odsetek PKB niż dobra trwałego użytku, ale od lat 70. XX w. udział tych pierwszych w tworzeniu PKB spadł poniżej udziału tych drugich, który w 2020 r. wynosił 13,5% (spadek z 28,5% PKB w 1950 r.). Budynki i budowle tworzą ok. 10% PKB. Na rysunku nie pokazujemy zmiany stanu zapasów, gdyż ten składnik podaży globalnej stanowi zwykle mniej niż 1% PKB.</caption>
-      </figure>
-      <para id="fs-idp35319888">Zastanawiając się nad tym, co wytwarzane jest w ramach konkretnej gospodarki, wiele osób niebędących ekonomistami od razu myśli o dobrach trwałego użytku, takich jak samochody i lodówki, tymczasem zdecydowanie największą część PKB stanowią usługi. Co więcej, udział usług w tworzeniu PKB systematycznie wzrasta, zarówno w USA, jak i w Polsce. Prym wiodą opieka zdrowotna, edukacja oraz usługi prawne i finansowe. Minęły już dziesięciolecia od momentu, w którym produkcja dóbr trwałego użytku przestała dominować w gospodarce USA. Obecnie najczęstszym zajęciem jest praca, do której świadczenia wykorzystywane są kartka papieru, telefon lub komputer, polegająca na kontaktach i spotkaniach ze współpracownikami, klientami lub dostawcami.</para>
-      <para id="UUIDead74f7f-1ab0-4fcd-5c86-7cab64af6a23">Produkcja dóbr trwałego użytku, np. samochodów i lodówek, stanowi mniej więcej taki sam udział w tworzeniu PKB jak produkcja dóbr nietrwałych, np. żywności i odzieży. Kategoria „budynki i budowle” obejmuje wszystkie projekty budowlane, od domów po biurowce, centra handlowe i fabryki. Z kolei „zapasy” to niewielka kategoria odnosząca się do towarów, które zostały wyprodukowane, ale jeszcze niesprzedane i nadal znajdują się w magazynach przedsiębiorstw lub na półkach sklepowych. Zapasy maleją, jeśli sytuacja gospodarcza jest lepsza od oczekiwanej, a rosną, gdy kondycja gospodarki się pogarsza.</para>
-      <section id="eip-581">
-        <title id="UUID28ccecda-205b-4725-7431-404d5e4deba9">Inny sposób obliczania PKB: PKB jako suma dochodów czynników produkcji</title>
-        <para id="UUID2274c6cc-5149-4fca-6e22-a85bcd84b61a">Istnieją trzy metody obliczania PKB, czyli wielkości produkcji danego kraju. Dwie omówiliśmy już wcześniej, pozostał zatem jeszcze sposób trzeci.</para>
-        <para id="UUID6adb3a91-6240-477d-4547-ef84227126df">Jeśli przedsiębiorstwo sprzeda wyprodukowane przez siebie towary, wartość tych towarów stanowi jednocześnie przychód przedsiębiorstwa. Przychód jest przeznaczony na pokrycie kosztów funkcjonowania przedsiębiorstwa (kosztów wynagrodzeń za pracę, kosztów odsetek i dywidendy za wykorzystywane dobra kapitałowe, czynszu za posiadanie i wynajem nieruchomości), a także na zysk dla właścicieli. A zatem jeżeli zsumujemy wszystkie dochody uzyskane w ciągu roku, otrzymamy wartość PKB. Metoda dochodowa stanowi trzeci sposób obliczania PKB. Dlatego też pojęcia produktu krajowego brutto i <term cmlnle:reference="dochód narodowy" id="UUIDc923f7b6-d119-4249-4091-2ce1385da53e">dochodu narodowego</term> (ang. <foreign xml:lang="en" id="UUID35ce1f2b-3494-451c-6d65-7cd3300892b3"><term id="UUIDd00c134a-41bb-4e1f-5e95-b3d48615b063">national income</term></foreign>) są czasami używane zamiennie (mimo że między PKB a dochodem narodowym występują pewne różnice, o czym będzie mowa w dalszej części podrozdziału). Całkowita wartość produkcji krajowej jest równa całkowitej wartości dochodu narodowego.</para>
-        <section id="UUID7897dc7d-0c68-4fff-77e1-86c9a27b2f03">
-          <title id="UUID23626ff1-013c-4401-7fd2-60c96d470f5b">Problem podwójnego liczenia</title>
-          <para id="fs-idp104208128">PKB definiujemy jako bieżącą wartość wszystkich finalnych dóbr i usług wyprodukowanych w kraju w ciągu danego okresu (np. roku). Czym są dobra i usługi finalne? Są to towary, które nie będą już dalej w żaden sposób przekształcane ani włączane jako surowiec bądź część innych dóbr. Jest to o tyle istotne, że nie ograniczając się przy obliczaniu PKB do dóbr finalnych, popełnimy błąd <term cmlnle:reference="podwójne liczenie" id="UUID1fbef4f9-32e3-4e99-661d-a683ddab9cc5">podwójnego liczenia</term> (ang. <foreign xml:lang="en" id="UUIDd2d198a6-729a-43e5-7da5-f041077415ce"><term id="UUIDbaaa9a85-8fef-4426-55b6-a8a3edfb9744">double counting</term></foreign>), polegający na uwzględnianiu wartości niektórych produktów więcej niż raz podczas przechodzenia przez kolejne etapy procesu wytwórczego. Wyobraźmy sobie na przykład, co by się stało, gdybyśmy przy liczeniu PKB najpierw uwzględnili wartość materiałów plastycznych wykorzystywanych do produkcji opon, następnie wartość samych opon zawierających wspomniane materiały plastyczne, a w kolejnym etapie wartość nowej ciężarówki, w której zamontowano te opony. Wartość opon zostałaby wówczas wliczona do PKB dwukrotnie, zaś wartość materiałów plastycznych nawet trzykrotnie, ponieważ cena opon zawiera wartość materiału plastycznego, a cena ciężarówki uwzględnia wartość opon.</para>
-          <para id="UUID40caef3a-b953-4a5d-4ffc-92af2df91917">Aby uniknąć błędu podwójnego liczenia, które znacznie zawyżyłoby faktyczną wielkość produkcji w gospodarce, do PKB wlicza się tylko wartość <term cmlnle:reference="dobra i usługi finalne" id="UUID6aa267bd-6285-4514-7681-c6a94bad3495">dóbr i usług finalnych</term> (ang. <foreign xml:lang="en" id="UUIDf69f4c84-cfbb-4de6-547b-8a89fdae687a"><term id="UUIDf30ae5cf-b1be-493d-5a1e-eedc1eea96e4">final goods and services</term></foreign>), sprzedawanych w celach konsumpcyjnych, inwestycyjnych, na potrzeby państwa oraz zagranicy. W kalkulacji PKB nie są brane pod uwagę <term id="UUIDc3e0cd8b-6dc1-45ea-6a63-64471fe254b7">dobra pośrednie</term> (ang. <foreign xml:lang="en" id="UUID6e4d61ae-998b-4706-5c37-452bbdb5254d"><term id="UUID8f72d6ad-b573-4dad-4181-aee9b54ac9e5">intermediate goods</term></foreign>), czyli dobra, które są wykorzystywane do produkcji innych dóbr. W powyższym przykładzie do PKB wlicza się tylko wartość ciężarówki, a wartość dóbr pośrednich (opon i materiału plastycznego) będzie po prostu ujęta w wartości dobra finalnego (ciężarówki).</para>
-          <para id="UUIDb40ba4ca-d8fb-4478-5167-38f06bfc97f0">Definicja PKB jest prosta: jest to wartość pieniężna wszystkich dóbr i usług finalnych wytworzonych w gospodarce w ciągu roku. Jednak w prawdziwych gospodarkach (np. gospodarce Polski, której PKB przekroczył 2,5 bln zł) obliczenie PKB, wymagające ciągłej aktualizacji danych co kilka miesięcy, jest zabiegiem bardzo pracochłonnym, możliwym tylko dzięki urzędom statystycznym zatrudniającym ogromną liczbę pracowników.</para>
-          <table summary="The table shows what is included in a measure of GDP and what is not. Column 1 lists what is counted in GDP. Column 2 lists what is not included in GDP. What is Counted in GDP: Consumption; Business investment; Government spending on goods and services; Net exports. What is not Included in GDP: Intermediate goods; Transfer payments and non-market activities; Used goods; Illegal goods." id="Table_19_03"><tgroup cols="2" id="UUID82bd74cb-8d7d-4f96-53dc-9472aea684d7"><colspec colnum="1" colname="col1" id="UUID97a05c38-6b44-46f4-6699-c2a7271b0271" /><colspec colnum="2" colname="col2" id="UUID3b187083-80c0-4631-4a43-1e11d9e09b66" /><thead id="UUID672032ab-b048-4380-5637-ea4717b03c36"><row id="UUID90964e25-132a-476c-6c8b-e61384750e81"><entry id="UUID07e89608-8cfb-4be7-534b-79bdaf5ad77e">PKB uwzględnia</entry><entry id="UUID7ec8eead-5d04-4644-760d-4b8641d8d69f">PKB nie uwzględnia</entry></row></thead><tbody id="UUIDec6f3413-5722-48a0-52f8-da5425a6a61d"><row id="UUID4d7cb97f-2cbb-49f2-539b-6267cf5f7bc5"><entry id="UUIDb88c27dc-7003-49d9-73d3-57115be74bfe">Konsumpcję</entry><entry id="UUID2ee01308-6e1d-4e20-77d9-835a8214f47d">Dóbr pośrednich</entry></row><row id="UUID0e9b4056-a164-40b6-7017-f69add443c4d"><entry id="UUID929bc9c9-a430-45e3-487e-fa551d8acc90">Inwestycje przedsiębiorstw</entry><entry id="UUIDf7421d69-2bc5-4830-51cc-28d6a8363205">Płatności transferowych </entry></row><row id="UUIDd4be3a97-6a21-40d5-659f-3337d9c0a418"><entry id="UUIDc932fd76-3449-4c6c-6e4f-d7e51a4f0dab">Wydatki państwa na dobra i usługi</entry><entry id="UUID1a7f09f3-822a-4a4c-7ff7-a97057dc873e">Dóbr używanych</entry></row><row id="UUIDdc5fb0df-5265-4d27-584e-70ca68d4d45a"><entry id="UUID490d10eb-64e9-41bd-6cac-9e9cc5541fed">Eksport netto</entry><entry id="UUID2b1f6ba1-bfd9-4529-6361-5c4306de0462">Aktywności, które nie są przedmiotem transakcji rynkowych</entry></row></tbody></tgroup><caption id="UUIDaea71207-80d5-46d1-74ed-eb29cb4977f5">Obliczanie PKB</caption></table>
-          <para id="fs-idp32767312">Zwróć uwagę na elementy, które nie są wliczane do PKB, co przedstawia <link target-id="Table_19_03" id="UUIDf8ec3725-7a17-45e2-4410-80a31ef4df83" />. Sprzedaż towarów używanych nie jest uwzględniona w PKB, ponieważ dobra te zostały wyprodukowane we wcześniejszych latach i zostały wliczone do PKB w roku wytworzenia. Płatności transferowe, np. świadczenia socjalne od państwa dla gospodarstw domowych, również nie są brane pod uwagę w PKB, bo nie reprezentują produkcji dóbr ani usług. Podobnie produkcja niektórych towarów, np. dóbr wykorzystywanych na własny rachunek, takich jak śniadania w domu, nie jest wliczana do PKB, jako że towary te nie są sprzedawane na rynku. Natomiast zgodnie z regulacjami UE dobra i usługi sprzedawane w ramach tzw. szarej strefy (zarówno narkotyki, jak i usługi oferowane przez osoby trudniące się nierządem) są wliczane do polskiego PKB. Według różnych szacunków wartość towarów i usług wytwarzanych w szarej strefie w Polsce sięga ok. 20% oficjalnego PKB. Z kolei Friedrich Schneider oszacował, że szara strefa gospodarki USA w 2013 r. wyniosła 6,6% PKB, czyli ponad bilion dolarów.</para>
-          <note type="note" id="UUIDe02ea578-303c-4eb7-7a7a-be2ee25944a6" class="economics linkup">
-            <para id="UUID6b7fa3d9-cfd8-4140-42ef-bddd5771fc15">Odwiedź <link url="http://openstax.org/l/undergroundecon" id="UUIDc317b286-343c-4c57-7690-d6749463bc6e">stronę internetową</link>, aby dowiedzieć się więcej o rozmiarach szarej strefy.</para>
-          </note>
-          <section id="UUID5eac2ae8-c0bf-480d-772c-78ea67caa1f7">
-            <title id="UUID7c03b9aa-a86b-47b6-4e01-078878472f04">Inne sposoby pomiaru wielkości gospodarki</title>
-            <para id="UUID32a06b00-3908-40ee-76b9-05429370fe9e">Oprócz PKB istnieje kilka alternatywnych, ale ściśle ze sobą powiązanych mierników pozwalających obliczyć wielkość gospodarki. Jak wiemy z wcześniejszej analizy, PKB odzwierciedla zarówno całkowitą produkcję, jak i całkowite wydatki. Jest jednocześnie miernikiem całkowitego dochodu, ponieważ wszystkie towary wyprodukowane i sprzedane na rynku przynoszą dochód.</para>
-            <para id="fs-idm67605408">Jednym z najczęściej stosowanych alternatywnych mierników jest <term id="UUID5afff10e-b847-42a5-55e2-c62181324a78">dochód narodowy brutto (DNB)</term> (ang. <foreign xml:lang="en" id="UUID0bf97f3e-4571-4d2c-59bd-1181239b9e91"><term id="UUIDa47a6558-a444-48e5-71e0-abcc7ca56504">gross national income (GNI)</term></foreign>). PKB obejmuje tylko produkcję wytworzoną na terenie danego kraju. Natomiast DNB powiększony jest o przekazane do kraju dochody z tytułu własności i pracy wykonywanej za granicą, a pomniejszony o dochody podmiotów zagranicznych uzyskiwane w danym kraju i przekazywane do innych państw. Innymi słowy, DNB mierzy dochody obywateli danego kraju niezależnie od tego, gdzie produkcja się odbywa, natomiast PKB mierzy produkcję wytwarzaną w granicach geograficznych danego państwa. Zarówno w Polsce, jak i w Stanach Zjednoczonych różnica między PKB a DNB jest stosunkowo niewielka – w ostatnich latach w Polsce było to jedynie ok. 5% na korzyść PKB. W przypadku małych krajów, których znaczna część obywateli pracuje za granicą i wysyła pieniądze do ojczyzny, dodatnia różnica pomiędzy DNB i PKB może być o wiele większa.</para>
-            <para id="fs-idp32378176"><term cmlnle:reference="dochód narodowy netto (DNN)" id="UUID13e5f26d-e40a-438c-7fb1-1f3c86f0a9a0">Dochód narodowy netto (DNN)</term> (ang. <foreign xml:lang="en" id="UUIDa98e53b9-ac2b-4713-783d-f7b55854d9f6"><term id="UUIDa9a5ca08-393b-4e7b-5e6d-a65c82bed456">net national income (NNI)</term></foreign>) obliczamy, odejmując od DNB spadek wartości środków trwałych z powodu ich wieku lub zużycia, do jakiego doszło w trakcie zdefiniowanego okresu (najczęściej roku). Spadek wartości kapitału z uwagi na zużycie i wiek nazywamy <term cmlnle:reference="amortyzacja" id="UUID78ee7432-3996-44c7-7ef1-60db6798b010">amortyzacją</term> (ang. <foreign xml:lang="en" id="UUID3f4fc8a5-afae-4d44-704b-d7ea6a34e561"><term id="UUID10dce057-67a9-402e-4b8f-785c8c7850cc">depreciation</term></foreign>). Jeśli od wartości DNN odejmiemy wartość podatków pośrednich, takich jak VAT i akcyza, otrzymamy <term id="UUID58d4ef72-7505-45b3-4057-aaccc30cb319">dochód narodowy</term> (ang. <foreign xml:lang="en" id="UUID28b16cb9-72ad-4eba-6bfd-aa19c087abbb"><term id="UUID756e8583-5024-43b4-4d0d-491b6cd4730b">national income</term></foreign>). Dochód narodowy obejmuje zarówno dochody przedsiębiorstw, jak i dochody gospodarstw domowych. Nieco inną miarą jest dochód rozporządzalny, który obejmuje jedynie dochody pozostające w dyspozycji gospodarstw domowych (dochód rozporządzalny uwzględnia transfery wypłacane gospodarstwom domowym przez państwo – np. stypendia i zasiłki socjalne – a nie obejmuje podatków dochodowych i dochodów państwa z tytułu własności).</para>
-            <para id="UUID0d419c05-3122-4c58-701f-d31b5917e4ee">Ze względów praktycznych zapamiętywanie tych definicji nie jest konieczne. Ważne jest jednak, abyśmy mieli świadomość, że te różnice istnieją, i wiedzieli, jakim miernikiem się posługujemy, żeby przypadkowo nie porównać np. PKB w jednym roku lub dla jednego kraju z PNB lub PNN w innym roku lub w innym kraju. Aby lepiej poznać sposób obliczania poszczególnych mierników dochodu narodowego, przeanalizuj <link target-id="fs-idp39724256" cmlnle:case="accusative" id="UUID1313432a-6cc4-430e-4992-f06790f032c4" />.</para>
-            <note type="note" id="fs-idp39724256" class="economics workout">
-              <title id="UUID5d017684-1754-4f67-473d-f689d1c96417">Obliczanie PKB, eksportu netto i DNN</title>
-              <para id="fs-idp89015168">Na podstawie danych z <link target-id="Table_19_04" cmlnle:case="genitive" id="UUID2444e33a-0855-4f02-6246-547d0901a5e6" /> wykonaj poniższe polecenia.</para>
-              <list list-type="enumerated" number-style="lower-alpha" id="fs-idp50883680">
-                <item id="UUID9d7cfe08-429e-49cb-5560-5a856cb58cc9">
-                  <para id="UUIDbf46a2e6-1e1e-4c17-6f32-334ba3d68a51">Ile wynosi PKB?</para>
-                </item>
-                <item id="UUID01c77c37-29df-4924-4486-e27e0aa87126">
-                  <para id="UUIDb2e4f11a-eb17-4fb9-716d-ac01e03393a5">Ile wynosi eksport netto?</para>
-                </item>
-                <item id="UUIDf27567c0-2c5c-41fd-7b2d-b5a260631a83">
-                  <para id="UUIDb0203b21-6391-4f81-4a7e-4fc79c6edbff">Ile wynosi DNN?</para>
-                  <table summary="The table shows information that is useful for calculating GDP, net exports, and NNP. Column 1 lists the category. Column 2 lists the value in billions of dollars. Government purchases;  20 billion. Depreciation; $40 billion. Consumption; $400 billion. Business investment; $60 billion. Exports;  00 billion. Imports;  20 billion." id="Table_19_04"><tgroup cols="2" id="UUID704d5026-53c7-9e2d-d2763e449d43ab13"><colspec colnum="1" colname="col1" id="UUID704d5026-83fc-1075-eb606754391c9ea8" /><colspec colnum="2" colname="col2" id="UUID704d5026-3ad7-5239-d84d91b0f98e41b1" /><tbody id="UUID704d5026-re44-vvvf-1cc18e543ad81ff6"><row id="UUID704d5026-2e23-68a4-1cc18e543ad81ff6"><entry id="UUID704d5026-cb89-fc9a-0b8d5b9042e568f5">Wydatki państwa na dobra i usługi</entry><entry id="UUID704d5026-2f02-5879-f1ceb5e5f03d843d">120 mld dol.</entry></row><row id="UUID704d5026-acec-0502-61a2a6f0e9566c38"><entry id="UUID704d5026-cd1f-9de0-09e8e12c77fcac6c">Amortyzacja</entry><entry id="UUID704d5026-932c-aee8-96f46ba97b16f36e">40 mld dol.</entry></row><row id="UUID704d5026-3bae-2d86-cdba2e05eb542bc7"><entry id="UUID704d5026-dcf1-5d0d-f3560ebf58d1dd01">Konsumpcja</entry><entry id="UUID704d5026-5a30-ec78-e4a682eb4dfd46f7">400 mld dol.</entry></row><row id="UUID704d5026-4f64-e237-091e7211d7727554"><entry id="UUID704d5026-e21f-f400-07cd0a55850c694a">Inwestycje</entry><entry id="UUID704d5026-11a0-2989-f3c20ad7107e55cb">60 mld dol.</entry></row><row id="UUID704d5026-3ab7-48af-ebe9719952050784"><entry id="UUID704d5026-84bf-2273-2eb24980fe5b555e">Eksport</entry><entry id="UUID704d5026-ca62-c1f5-058863207cfae6d1">100 mld dol.</entry></row><row id="UUID704d5026-a4d3-126b-2a46b3a2274e7dcf"><entry id="UUID704d5026-84bf-3277-87865ae31ca21858">Import</entry><entry id="UUID704d5026-3ba2-03b5-af05828db855f0e6">120 mld dol.</entry></row><row id="UUID704d5026-740d-194b-0509c78ed59e9b64"><entry id="UUID704d5026-e027-b010-9ad7abea117259c4">Dochody otrzymane z zagranicy</entry><entry id="UUID704d5026-2ee9-1635-21244b06e885c434">10 mld dol.</entry></row><row id="UUID704d5026-ea53-d29e-f1b9c5fd753c3d86"><entry id="UUID704d5026-c4b7-4b60-d40243d544d03944">Dochody przekazane za granicę</entry><entry id="UUID704d5026-648d-d2cb-2b93fd95523c297f">8 mld dol.</entry></row></tbody></tgroup></table>
-                </item>
-              </list>
-              <para id="fs-idp101104080">Krok 1. PKB obliczamy na podstawie następującego wzoru:</para>
-              <equation id="fs-idm16555712" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>PKB</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Konsumpcja + Inwestycje + Wydatki państwa na dobra i usługi spending + (Eksport – Import)</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>C + I + G + (X – Z)</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 60 + 120 + (100 – 120)</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>560 [mld dol.]</mtext></mtd></mtr></mtable></math></equation>
-              <para id="fs-idp52785856" />
-              <para id="UUID450bb63a-c9dd-41dd-5d92-b21fcc21e1a4">Krok 2. Aby obliczyć eksport netto, odejmujemy import od eksportu.</para>
-              <equation id="UUID6c57e7d5-1b6a-4233-51ba-9472c97b5d7c" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Eksport netto</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>X – Z</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>100 – 120</mtext></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>– 20 [mld dol.]</mtext></mtd></mtr></mtable></math></equation>
-              <para id="fs-idp26542592" />
-              <para id="UUIDe32544ff-7e35-42d7-46b2-21640865b626" />
-              <para id="UUIDcbd0caf4-a791-4ff8-5203-0a0ddfe7d3cc">Krok 3. DNN obliczamy na podstawie następującego wzoru:</para>
-              <equation id="UUIDc0f9d519-8505-4d3e-45e5-b5984687f3d6" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left">
-<mtr><mtd><mtext>DNN</mtext></mtd>
-<mtd><mtext> = </mtext></mtd>
-<mtd><mtext>PKB + Dochody otrzymane z zagranicy</mtext></mtd></mtr>
-<mtr><mtd /><mtd /><mtd><mtext>– Dochody przekazane za granicę – Amortyzacja</mtext></mtd></mtr>
-<mtr><mtd /><mtd><mtext>=</mtext></mtd>
-<mtd><mtext>560 + 10 – 8 – 40</mtext></mtd></mtr>
-<mtr><mtd /><mtd><mtext>=</mtext></mtd>
-<mtd><mtext>522 [mld dol.]</mtext></mtd>
-</mtr></mtable></math></equation>
-            </note>
-          </section>
-        </section>
-      </section>
+    <section id="fs-idp19548848">
+      <title id="UUID99c89db0-946d-41a5-6d9b-bb99a470a22a">Modele makroekonomiczne</title>
+      <para id="fs-idp57525856">Jak zapewne wiesz z zajęć poświęconych mikroekonomii, głównymi narzędziami stosowanymi przez ekonomistów są teorie i modele (by dowiedzieć się więcej, sięgnij do podręcznika <link url="https://openstax.org/details/books/mikroekonomia-podstawy" id="UUID637f7a37-05ed-471b-4ba7-eb575666de1d">"Mikroekonomia" - Podstawy</link>. W mikroekonomii wykorzystywaliśmy model popytu i podaży. W makroekonomii posługujemy się modelem <term cmlnle:reference="popyt globalny (popyt zagregowany, AD)" id="UUIDe0ef6839-0b30-4441-4dd8-76633b506cf0">popytu globalnego (popytu zagregowanego), AD</term> (<foreign xml:lang="en" id="UUID9540b3a0-a7a2-4c79-53ea-33c613702ea6">aggregate demand</foreign>) i <term cmlnle:reference="podaż globalna (podaż zagregowana, AS)" id="UUIDcd91459b-4c85-4e35-53a3-388dfd60293b">podaży globalnej (podaży zagregowanej), AS</term> (<foreign xml:lang="en" id="UUID829f81c8-1baf-4d32-5194-c0cd3a66223f">aggregate supply</foreign>). Niniejsza książka przedstawia dwa podstawowe nurty w makroekonomii: szkołę neoklasyczną i szkołę keynesowską. Każda z nich ma własną wersję modelu AD–AS. Znając oba podejścia, łatwo zrozumiesz, jak zachowuje się gospodarka w skali makro.</para>
     </section>
-    <section id="fs-idm28040352" class="summary">
-      <title id="UUID4ced7d11-4b97-46f5-4e69-7ecc0fbfeebd">Podsumowanie</title>
-      <para id="fs-idm29037568">Ekonomiści zwykle wyrażają wielkość gospodarki danego kraju za pomocą produktu krajowego brutto (PKB), który mierzy wartość wszystkich dóbr i usług finalnych wyprodukowanych w danym kraju w ciągu roku. PKB otrzymujemy poprzez zsumowanie dla wszystkich wyprodukowanych towarów iloczynów liczby wyprodukowanych jednostek danego dobra lub usługi oraz ich ceny. Ponieważ w skład PKB wchodzą towary, które są zarówno kupowane, jak i sprzedawane, PKB można obliczyć jako sumę składników popytu globalnego albo jako sumę wielkości produkcji. Trzecią metodą liczenia PKB jest suma dochodów czynników produkcji.</para>
-      <para id="UUIDc09ed621-786c-4e22-52d0-50ca64812843">Licząc PKB od strony popytowej, uwzględniamy następujące składniki popytu globalnego: spożycie w sektorze gospodarstw domowych (konsumpcję), akumulację brutto (inwestycje), spożycie publiczne (wydatki państwa na dobra i usługi) oraz eksport pomniejszony o import. Licząc PKB jako sumę wielkości produkcji, bierzemy pod uwagę wartość różnych kategorii dóbr: dóbr trwałego użytku, dóbr nietrwałych, usług, budynków i budowli oraz zmianę stanu zapasów. Aby uniknąć podwójnego liczenia, PKB zawiera tylko dobra i usługi finalne, nie obejmuje zaś produkcji dóbr pośrednich.</para>
-    </section>
-    <section id="fs-idp4791344" class="self-check-questions">
-      <title id="UUID90f3d66f-445c-42ef-67d5-4511e56b2532">Pytania sprawdzające</title>
-      <exercise id="fs-idm47655952">
-        <problem id="fs-idm23939408">
-          <para id="fs-idm26227632">W pewnym kraju eksport wynosi 20 mld dol., wydatki państwa na dobra i usługi są równe 1000 mld dol., inwestycje przedsiębiorstw kształtują się na poziomie 50 mld dol., import wynosi 40 mld dol., a wydatki konsumpcyjne mają wartość 2000 mld dol. Ile wynosi PKB?</para>
-        </problem>
-        <solution id="fs-idp10842448">
-          <para id="fs-idm860160">PKB jest równy C + I + G + (X - Z). PKB = 2000 mld dol. + 50 mld dol. + 1000 mld dol. + (20 mld dol. - 40 mld dol.) = 3030 mld dol.</para>
-        </solution>
-      </exercise>
-      <exercise id="fs-idp28849744">
-        <problem id="fs-idm20973728">
-          <para id="fs-idm60905648">Które z poniższych kategorii zostaną uwzględnione w PKB?</para>
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm2272368">
-            <item id="UUID78c797c1-19de-47c7-7090-449cd1a1aad3">
-              <para id="UUID235e6190-da25-47f2-6d91-abbedccbdd79">Koszt pobytu w szpitalu</para>
-            </item>
-            <item id="UUIDd538ea29-ac08-4d10-6a1f-a2eacb34ad31">
-              <para id="UUID644ebeb4-4406-45dd-47ff-7bbf7ec1c5e3">Podwyższenie się średniej oczekiwanej długości życia</para>
-            </item>
-            <item id="UUID69cc3aee-7599-4294-6af4-7e86b4d420ed">
-              <para id="UUID5e90ad15-2a54-430a-5bb9-6e9b61ca449c">Opieka nad dzieckiem świadczona przez żłobek</para>
-            </item>
-            <item id="UUIDa3c72a45-4365-49cc-4066-be120026e5ce">
-              <para id="UUID1b1dc69e-a0ef-4469-50be-ba80e32b957f">Opieka nad dzieckiem zapewniana przez babcię</para>
-            </item>
-            <item id="UUIDd1007ed7-adc3-4966-6a36-3da1b5befea1">
-              <para id="UUID480a1ccf-390d-47b1-6669-83993fa88203">Sprzedaż używanych samochodów</para>
-            </item>
-            <item id="UUID861899dd-3537-47ae-510b-a49ffbaa93a3">
-              <para id="UUID29f063c7-fae7-4528-7a05-65699d9bac39">Sprzedaż nowych samochodów</para>
-            </item>
-            <item id="UUID12810c79-e434-456e-5d19-396c8c48afd4">
-              <para id="UUID186c6d88-2b0e-47d2-4cc9-829b00f4da4f">Większa różnorodność serów dostępnych w supermarketach</para>
-            </item>
-            <item id="UUID442ffc34-f4e2-44d0-47c3-958fbc31b96a">
-              <para id="UUID35d59ea6-7a2e-4a8a-7484-1155bfe81c9e">Żelazo, z którego wytwarza się stal służącą do wyprodukowania lodówki kupionej przez konsumenta</para>
-            </item>
-          </list>
-        </problem>
-        <solution id="fs-idm66254000">
-          <list list-type="enumerated" number-style="lower-alpha" id="fs-idm1468144">
-            <item id="UUIDa1ffca11-e7c7-4c58-5ece-9cf1da9a44a0">
-              <para id="UUIDf749b0d5-95cc-40e4-700c-1900680f3230">Koszt pobytu w szpitalu wliczamy do PKB.</para>
-            </item>
-            <item id="UUID6889269a-baef-41cb-731e-5cc230ea29bc">
-              <para id="UUIDaffe062b-84a6-43a1-7ff1-e573d26e1897">Zmiana średniej oczekiwanej długości życia nie jest transakcją rynkową i nie jest składową PKB.</para>
-            </item>
-            <item id="UUIDa8f0d933-cf58-46aa-7439-1977a8667ade">
-              <para id="UUID308273c6-5bd5-4419-5430-73bb1ae4dd97">Opłacona opieka nad dzieckiem jest częścią PKB.</para>
-            </item>
-            <item id="UUID54201c07-4773-4614-68d1-13fce93dc786">
-              <para id="UUIDe19a501f-8d77-404d-74eb-a997982b0cf8">Jeśli babcia dostaje wynagrodzenie i zgłasza je jako dochód; jest to część PKB. W przeciwnym przypadku opieka taka nie jest wliczana do PKB.</para>
-            </item>
-            <item id="UUIDbd18ce12-1615-499c-51f3-e2f0c36ef0a6">
-              <para id="UUID00ebf8df-a095-48ad-6df3-79ecda12e367">Samochód używany nie został wyprodukowany w tym roku, więc nie jest częścią PKB.</para>
-            </item>
-            <item id="UUID7a17f42d-bf76-46b3-6a6c-b32d02dace52">
-              <para id="UUID14b39e3f-f6c5-4b5a-69e7-69ebb1f241e1">Wartość nowego samochodu wliczamy do PKB.</para>
-            </item>
-            <item id="UUIDc0991f12-fb4b-4872-5390-82511d97c280">
-              <para id="UUID8e5f2726-a927-4e13-76a1-8a14937dce7e">Różnorodność dostępnych towarów nie wpływa na PKB. Z punktu widzenia PKB nie ma znaczenia, czy gospodarka wytwarza jeden gatunek sera, czy też wiele jego odmian.</para>
-            </item>
-            <item id="UUIDd423ddc5-1963-4a38-6671-1b30da8ce6a4">
-              <para id="UUID2951cbe3-7e7e-4045-7ebb-f9596f85287a">Żelazo nie jest wliczane do PKB, ponieważ jest dobrem pośrednim.</para>
-            </item>
-          </list>
-        </solution>
-      </exercise>
-    </section>
-    <section id="fs-idp45742656" class="review-questions">
-      <title id="UUID0bfcd5f2-6a1b-4d5e-6d32-98b7d2e9d1a2">Sprawdź wiedzę</title>
-      <exercise id="fs-idm767360">
-        <problem id="fs-idm49436128">
-          <para id="fs-idp3991184">Jakie są główne elementy składowe PKB liczonego według metody popytowej?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idm26623040">
-        <problem id="fs-idp47519920">
-          <para id="fs-idm33004768">Jakie są główne elementy składowe PKB liczonego jako suma wartości produkcji krajowej?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idm9525008">
-        <problem id="fs-idm768144">
-          <para id="fs-idm32974896">Czy PKB mierzony od strony popytowej będzie większy, czy mniejszy niż PKB liczony metodą podażową?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idm60633184">
-        <problem id="fs-idm9399824">
-          <para id="fs-idm17494208">Dlaczego podczas pomiaru PKB należy unikać podwójnego liczenia?</para>
-        </problem>
-      </exercise>
-    </section>
-    <section id="fs-idm31922224" class="critical-thinking">
-      <title id="UUID63949afd-ba61-4963-4d72-591e839d8bd0">Ćwicz myślenie krytyczne</title>
-      <exercise id="fs-idm66259888">
-        <problem id="fs-idm587600">
-          <para id="fs-idm9567280">Dane makroekonomiczne opisujące amerykańską gospodarkę należą do najlepszych na świecie. Biorąc pod uwagę <link target-id="fs-idm64181600" cmlnle:case="accusative" id="UUIDfcd0fd3d-4971-439c-6adc-8a1ddf8ffbe9" />, czy to cię dziwi, czy tylko odzwierciedla złożoność nowoczesnej gospodarki?</para>
-        </problem>
-      </exercise>
-      <exercise id="fs-idp10863680">
-        <problem id="fs-idp65392544">
-          <para id="fs-idp43930304">Czego PKB nie mówi nam o gospodarce?</para>
-        </problem>
-      </exercise>
-    </section>
-    <section id="fs-idp47963360" class="problems">
-      <title id="UUID691fc27b-7578-4192-7f8b-84a6d8dd998b">Problemy</title>
-      <exercise id="fs-idm115112080">
-        <problem id="fs-idm398640">
-          <para id="fs-idm27650144">W zeszłym roku w małym kraju obfitującym w lasy wycięto drzewa warte 200 dol. Następnie drzewa o wartości 100 dol. zamieniono w drewno o wartości 150 dol. Z drewna o wartości 100 dol. wyprodukowano meble o wartości 250 dol. Ile wynosi PKB tego kraju, zakładając, że nie produkuje się tam żadnych innych dóbr ani nie zużywa innych nakładów do produkcji drzew, drewna i mebli? Innymi słowy, jaka jest wartość dóbr finalnych wyprodukowanych przez ten kraj, uwzględniając wartość drzewa, drewna i mebli?</para>
-        </problem>
-      </exercise>
-    </section>
-    <section id="fs-idm2071472" class="references">
-      <title id="UUID15af1115-b3da-4a36-66c0-182363e71c68">Bibliografia</title>
-      <para id="fs-idm30747232">U.S. Department of Commerce: Bureau of Economic Analysis. “National data: National Income and Product Accounts Tables.” http://bea.gov/iTable/iTable.cfm?ReqID=9&amp;step=1.</para>
-      <para id="fs-idm28605344">U.S. Department of Commerce: United States Census Bureau. “Census of Governments: 2012 Census of Governments.” http://www.census.gov/govs/cog/.</para>
-      <para id="fs-idp10399296">United States Department of Transportation. “About DOT.” Last modified March 2, 2012. http://www.dot.gov/about.</para>
-      <para id="fs-idp43397072">U.S. Department of Energy. “Energy.gov.” http://energy.gov/.</para>
-      <para id="fs-idm979968">U.S. Department of Health &amp; Human Services. “Agency for Healthcare Research and Quality.” http://www.ahrq.gov/.</para>
-      <para id="fs-idm62385248">United States Department of Agriculture. “USDA.” http://www.usda.gov/wps/portal/usda/usdahome.</para>
-      <para id="fs-idm51121216">Schneider, Friedrich. Department of Economics. “Size and Development of the Shadow Economy of 31 European and 5 other OECD Countries from 2003 to 2013: A Further Decline.” <emphasis effect="italics">Johannes Kepler University</emphasis>. Last modified April 5, 2013. http://www.econ.jku.at/members/Schneider/files/publications/2013/ShadEcEurope31_Jan2013.pdf.</para>
+    <section id="fs-idp18810896">
+      <title id="UUID8053f8df-9113-4a17-5faf-cd431207eb9f">Polityka państwa</title>
+      <para id="fs-idp21692256">Państwo może wpływać na gospodarkę m.in. za pomocą polityki pieniężnej lub fiskalnej. Polityka pieniężna polega na sterowaniu podażą pieniądza i stopami procentowymi. Polityka fiskalna obejmuje zmiany w wydatkach państwa i podatkach.</para>
+      <para id="fs-idp17886240">Każdy z elementów uwzględnionych na <link target-id="CNX_Econ_C19_001" cmlnle:case="locative" id="UUIDd3d88199-b9e2-4502-6932-0ec2fa09b4a6" /> będzie przedmiotem szczegółowych rozważań w następnych rozdziałach. Podczas tej lektury zapewne odkryjesz, że odbierając informacje przekazywane przez media, prawie codziennie stykasz się z zagadnieniami makroekonomicznymi.</para>
     </section>
   </content>
-  <glossary id="UUID0b06b87f-9e12-4eaf-7b2f-5b9451af081c">
-    <definition id="fs-idm161172336">
-      <term id="UUID5949e79b-ed73-4e01-6636-c99487b04142">amortyzacja (ang. <term id="UUID28ad9b52-b98e-4675-5b61-a42439f4fc18">depreciation</term>)</term>
-      <meaning id="fs-idm140874752">
-        <para id="UUIDbf077fe2-1539-4afa-6f94-7c951725c301">spadek wartości dóbr kapitałowych z uwagi na ich starzenie się i zużycie w trakcie procesu produkcyjnego</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm126759216">
-      <term id="UUID28e80acc-40be-43de-47c4-9c3d6caaf32a">podwójne liczenie (ang. <term id="UUID05371a59-6cfa-477d-733e-701ddba7ccba">double counting</term>)</term>
-      <meaning id="fs-idm107687408">
-        <para id="UUID597ed1c6-2cb5-4e06-57a0-1e9538354d0c">potencjalny błąd, którego należy unikać przy pomiarze PKB, polegający na tym, że wartość niektórych dóbr podczas ich przechodzenia przez kolejne etapy procesu wytwórczego jest liczona więcej niż raz</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm57094944">
-      <term id="UUIDd915d655-805b-4f83-5396-2973d86b984e">dobro trwałego użytku (ang. <term id="UUID6f5f70e4-bf3f-4a4f-4545-ef7ef05e5aaf">durable good</term>)</term>
-      <meaning id="fs-idm110678288">
-        <para id="UUIDa30f0b2e-b1cf-4a0b-5457-bb956ca5ea58">dobro o długim okresie użytkowania, np. samochód lub lodówka</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm80257568">
-      <term id="UUID02fd7dec-2552-414b-577d-c2376fbd8bb5">finalne dobro i usługa (ang. <term id="UUIDbe426a6b-7e9c-407e-7439-d8ceb9d9197c">final good and service</term>)</term>
-      <meaning id="fs-idm57595264">
-        <para id="UUIDfe7f54dd-24c0-4660-4681-3dbeaeeab655">produkt konsumpcyjny lub inwestycyjny dla odbiorcy końcowego, który nie zostanie już w żaden sposób przetworzony ani wykorzystany jako część innego dobra; jego przeciwieństwem jest „dobro pośrednie”</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm97899248">
-      <term id="UUIDef1d97a5-10c9-4a32-610b-0ba1d3f634f3">produkt krajowy brutto (PKB) (ang. <term id="UUID0b9983d0-00ca-4ee3-5b41-658089246e4b">gross domestic product (GDP)</term>)</term>
-      <meaning id="fs-idm110168080">
-        <para id="UUIDb7cc2c3b-cc10-4c40-463e-86de0603f4fb">wartość wszystkich finalnych dóbr i usług wytworzonych w danym kraju w ciągu roku</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm49989376">
-      <term id="UUID006c8b06-f86a-437c-422e-72de58f7c8f6">dochód narodowy brutto (DNB) (ang. <term id="UUID3df724fd-6c19-4237-48b1-783de13ee68a">gross national income (GNI)</term>)</term>
-      <meaning id="fs-idm97558432">
-        <para id="UUIDcb287d90-d316-4dbb-45c7-c642cf93f0c8">wartość produkcji krajowej (PKB) powiększona o dochody z tytułu własności i pracy uzyskane za granicą i przekazane do kraju, a pomniejszona o dochody z tytułu własności i pracy uzyskane w kraju i przekazane za granicę</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm74486256">
-      <term id="UUID0ffee872-1189-4298-5aa9-ab8f8031239c">dobro pośrednie (ang. <term id="UUID179f70d8-9130-432f-788f-f90c3378f8ed">intermediate good</term>)</term>
-      <meaning id="fs-idm85030448">
-        <para id="UUIDcaff05df-1806-4bf4-4612-21b5375d4cfd">dobro przetwarzane przez przedsiębiorstwa lub włączane jako składnik innych dóbr, nieprzeznaczone dla odbiorcy końcowego; jego przeciwieństwem jest „finalne dobro i usługa”</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm65459520">
-      <term id="UUIDca62381f-9e2f-4bc7-57fa-e26998a87fa1">zapas (ang. <term id="UUID4e17c320-be7d-4724-5d28-57a97ef03650">inventory</term>)</term>
-      <meaning id="fs-idm84222976">
-        <para id="UUID41a082c2-6661-4b5b-4d5f-d22456ae16e2">dobro, które zostało wyprodukowane, ale nie zostało jeszcze sprzedane</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm74957648">
-      <term id="UUID195e9441-a241-48a4-63af-bd48cfcb252c">dochód narodowy (ang. <term id="UUID48bf65a7-cf99-4345-41b3-4f7d9b70e247">national income</term>)</term>
-      <meaning id="fs-idm97588256">
-        <para id="UUID6b86a3e0-357b-495f-44cc-cd453dad523e">kategoria obejmująca wszystkie uzyskane dochody, w tym płace, zyski i czynsze, dochód narodowy netto (DNN) pomniejszony o wartość podatków pośrednich</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm77297152">
-      <term id="UUIDe2913457-63a0-4ccc-7c37-68aa114ddf5c">dochód narodowy netto (DNN) (ang. <term id="UUIDe616199a-4c25-4c60-7c72-29f5c65de257">net national income (NNI)</term>)</term>
-      <meaning id="fs-idm1713792">
-        <para id="UUID8f19861b-65a5-49ee-4736-de41b2d709e3">PNB pomniejszony o amortyzację</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm43268672">
-      <term id="UUID4dcb10dc-86ef-4be2-7ddc-61223b88f6bf">dobro nietrwałe (ang. <term id="UUID26cab48a-1a46-4644-43e1-5b40e1ff5944">nondurable good</term>)</term>
-      <meaning id="fs-idm101605344">
-        <para id="UUIDbaa3c4e4-df96-47de-69e9-1ea31dc286c0">dobro o krótkim okresie użytkowania, np. żywność lub ubranie</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm27665664">
-      <term id="UUIDd9793aab-2004-4e7c-7749-9f95e4446166">usługa (ang. <term id="UUID96ea8b43-f0da-414b-6e01-37d0fef882ed">service</term>)</term>
-      <meaning id="fs-idm1857536">
-        <para id="UUID57661b0c-e16b-4dd0-60cb-74b36ba04564">produkt niematerialny (w przeciwieństwie do dóbr), np. rozrywka, opieka zdrowotna lub edukacja</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm153140624">
-      <term id="UUIDcd205e34-7652-4a5e-6b3c-01dd6c53e060">budynki i budowle (ang. <term id="UUID7ddd324f-4d41-4021-55c3-89dbf80dd6cd">structure</term>)</term>
-      <meaning id="fs-idm65187104">
-        <para id="UUID9470d04f-f1b0-427c-4276-75961d78aef5">nieruchomości wykorzystywane jako mieszkania, fabryki, biura, sklepy lub do innych celów związanych z prowadzoną działalnością gospodarczą</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm25549936">
-      <term id="UUID2084a836-d752-4fc0-45c1-1d1a27a47565">saldo bilansu handlowego, eksport netto (ang. <term id="UUIDf57d26dc-40dd-4230-7fe9-1a4683926dd6">trade balance</term>)</term>
-      <meaning id="fs-idm55648976">
-        <para id="UUIDa113ff37-730c-46a6-6d50-6cd3c31ac8b3">różnica między eksportem a importem</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm4661728">
-      <term id="UUID6fb3556e-e11b-4fa9-5c98-355ad48dbe9c">deficyt handlowy (ang. <term id="UUIDcc5cad3c-d206-4835-551d-6ae4c5ba2a1b">trade deficit</term>)</term>
-      <meaning id="fs-idm73214896">
-        <para id="UUID0a516471-d470-4fe1-77f2-4a79e5036a71">sytuacja, gdy import danego kraju przewyższa eksport, dodatnia różnica między importem a eksportem</para>
-      </meaning>
-    </definition>
-    <definition id="fs-idm76674080">
-      <term id="UUIDc16f3a07-1cfa-415b-670f-0d3c85fd0bd2">nadwyżka handlowa (ang. <term id="UUIDf5913247-d90b-4ba2-52c3-605f5451f7cb">trade surplus</term>)</term>
-      <meaning id="fs-idm81033696">
-        <para id="UUIDa4b39c18-4991-4668-63ab-d065c44a3039">sytuacja, gdy eksport danego kraju przewyższa import, dodatnia różnica między eksportem a importem</para>
-      </meaning>
-    </definition>
-  </glossary>
 </document>
