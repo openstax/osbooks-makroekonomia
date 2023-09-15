@@ -8,7 +8,7 @@
    height="216.76208"
    viewBox="0 0 287.43537 216.76209"
    sodipodi:docname="CNX_Econ_C24_016.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="150.25"
-     inkscape:cy="99.5"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-20.152543"
+     inkscape:cy="79.549513"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -40,7 +40,9 @@
        y="0"
        id="page18916"
        width="287.43536"
-       height="216.76208" />
+       height="216.76208"
+       margin="0"
+       bleed="0" />
     <sodipodi:guide
        position="39.165417,36.463955"
        orientation="1,0"
@@ -111,7 +113,7 @@
        id="g13771"
        transform="translate(-1.8860806,10.334004)">
       <g
-         id="g1525">
+         id="g1">
         <path
            d="M 43.8336,165.55013 V 49.5 L 46.5,46.8328 H 42.1664 L 46.5,44.5 h -5 l 2.3336,-1.334 v -7 h 9 l 2,2.6668 0.3328,-5.3328 2,4 0.6672,-3.334 1.976368,2 H 215.237"
            style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
