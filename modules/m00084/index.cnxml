@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/538abdc7-33e8-489a-8e1a-36722ebbe455</md:content-url>
     <md:title> 15.4 Korzyści z ograniczenia barier w handlu międzynarodowym</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-11T10:25:16.208155139+00:00</md:version>
-    <md:created>2023-09-11T10:25:16.208155139+00:00</md:created>
-    <md:revised>2023-09-11T10:25:16.208155139+00:00</md:revised>
+    <md:version>2023-09-15T12:07:08.891803857+00:00</md:version>
+    <md:created>2023-09-15T12:07:08.891803857+00:00</md:created>
+    <md:revised>2023-09-15T12:07:08.891803857+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -116,7 +116,7 @@
   </content>
   <glossary id="UUID47d36012-5953-46a7-719a-b2fd1532719c">
     <definition id="fs-idp108624704">
-      <term id="UUID3cf2aa36-a277-451e-40d5-58b84d8f08fd">cła <foreign xml:lang="en" id="UUID30dec7d9-2e44-4702-603e-9575d26ed64f">tarffs</foreign></term>
+      <term id="UUID3cf2aa36-a277-451e-40d5-58b84d8f08fd">cła (ang. <foreign xml:lang="en" id="UUID30dec7d9-2e44-4702-603e-9575d26ed64f">tarffs</foreign>)</term>
       <meaning id="fs-idm14010016">
         <para id="UUID58098351-8cc4-4fe1-4184-58d96ae737f1">opłaty (parapodatki), które państwa nakładają na importowane towary</para>
       </meaning>

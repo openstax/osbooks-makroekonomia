@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/d2970fc8-cc4e-4b89-a876-715de02f35ff</md:content-url>
     <md:title>3.1 W jaki sposób ekonomiści definiują i obliczają stopę bezrobocia </md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-11T10:25:01.538009841+00:00</md:version>
-    <md:created>2023-09-11T10:25:01.538009841+00:00</md:created>
-    <md:revised>2023-09-11T10:25:01.538009841+00:00</md:revised>
+    <md:version>2023-09-15T12:07:05.442185914+00:00</md:version>
+    <md:created>2023-09-15T12:07:05.442185914+00:00</md:created>
+    <md:revised>2023-09-15T12:07:05.442185914+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -58,7 +58,7 @@
     <section id="fs-idm25051664">
       <title id="UUID85f7e306-b811-4dfd-5c63-df98541379cd">Obliczanie stopy bezrobocia i stopy aktywności zawodowej (stopy partycypacji)</title>
       <para id="fs-idm51367232"><link target-id="CNX_Econ_C21_001" document="" id="UUIDf524a59d-72cc-42c0-75ea-62f0d621d8d7" /> przedstawia podział populacji na trzy grupy. W drugim kwartale 2022 r. ok. 58% tej grupy należało do osób aktywnych zawodowo (stanowiło zasób siły roboczej), czyli grupy osób pracujących lub bezrobotnych, ale poszukujących pracy. Siłę roboczą możemy tym samym podzielić na pracujących i bezrobotnych. Odpowiednie wartości przedstawione są w <link target-id="Table_21_01" document="" cmlnle:case="locative" id="UUID72ca482f-6cf6-4468-619e-9782cc8adc76" />. Jak łatwo zauważyć, <term id="UUIDe33f3739-538b-4ba8-5081-ada917600177">stopa bezrobocia</term> (ang. <foreign xml:lang="en" id="UUID63e1d821-98d2-460a-40c7-c6026343c868"><term cxlxt:index="foreign" id="UUID07c054e0-247d-4f2f-687c-83d1a85e21b4">unemployment rate</term></foreign>) nie jest odsetkiem całej dorosłej populacji pozostającej bez pracy, ale raczej odsetkiem dorosłych, którzy stanowią zasób siły roboczej (są aktywni zawodowo), ale pracy nie mają.</para>
-      <equation id="fs-idp76778576" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa bezrobocia</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mtext>Liczba osób bezrobotnych</mtext><mtext>Zasób siły roboczej</mtext></mfrac></mtd></mtr></mtable><mo> × </mo><mn>100</mn></math></equation>
+      <equation id="fs-idp76778576" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa bezrobocia</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mtext>Liczba osób bezrobotnych</mtext><mtext>Zasób siły roboczej</mtext></mfrac></mtd></mtr></mtable><mo> × </mo><mn>100%</mn></math></equation>
       <figure id="CNX_Econ_C21_001">
         <title id="UUID5010291b-3a03-4e10-6b9d-b05ea5fd5b13">Osoby pracujące, bezrobotne i bierne zawodowo w wieku 15–89 lat w Polsce w drugim kwartale 2022 r.</title>
         <media alt="Wykres kołowy przedstawia liczbę osób pracujących w polskiej gospodarce w drugim kwartale 2022 r. (16,770 mln), bezrobotnych (454 tys. osób) i pozostających poza zasobem siły roboczej (biernych zawodowo – 12,508 mln)." id="fs-idp7770976">
@@ -74,17 +74,17 @@
         <para id="UUID276c09b0-4b0c-48db-483b-3b4684012ea0">Określanie stopy aktywności zawodowej:</para>
         <para id="UUIDe6634566-6036-4b72-4333-779e71576130">Krok 1. Podziel liczbę osób aktywnych zawodowo (17,244 mln) przez liczbę osób w wieku 15–89 lat ogółem (29,752 mln).</para>
         <para id="UUID2eaff044-ea54-4e8d-4f7c-66d246fe3675">Krok 2. Pomnóż przez 100 i wstaw znak „%”, aby otrzymać wartość procentową.</para>
-        <equation id="fs-idm16459392" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa aktywności zawodowej</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mrow><mn>17,244</mn></mrow><mrow><mn>29,752</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>0,5796</mn></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>57,96%</mn></mtd></mtr></mtable></math></equation>
+        <equation id="fs-idm16459392" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa aktywności zawodowej</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>17,244</mn></mrow><mrow><mn>29,752</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>0,5796</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>57,96%</mn></mtd></mtr></mtable></math></equation>
         <para id="fs-idp41657808" />
         <para id="UUID6fd70edc-9b47-4119-5814-a0bb680e8261">Określanie odsetka osób pozostających poza zasobem siły roboczej:</para>
         <para id="UUIDc86d92f3-c86f-4b47-70a1-96276c578e06">Krok 1. Podziel liczbę osób biernych zawodowo (12,508 mln) przez liczbę osób w wieku 15–89 lat (29,752 mln).</para>
         <para id="UUIDdd30a89d-fab6-4149-7fde-17e7433e9b47">Krok 2. Pomnóż przez 100 i wstaw znak „%”, aby otrzymać wartość procentową.</para>
-        <equation id="fs-idp59413632" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa aktywności zawodowej</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mrow><mn>12,508</mn></mrow><mrow><mn>29,752</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>0,4204</mn></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>42,04%</mn></mtd></mtr></mtable></math></equation>
+        <equation id="fs-idp59413632" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa aktywności zawodowej</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>12,508</mn></mrow><mrow><mn>29,752</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>0,4204</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>42,04%</mn></mtd></mtr></mtable></math></equation>
         <para id="UUIDaede30da-b57b-4242-7f49-7d7d16a15221" />
         <para id="UUIDab3b1655-5f00-4a73-749c-52fa37256607">Określanie stopy bezrobocia:</para>
         <para id="UUIDc9b4f31d-2f78-4fd2-67c8-aea18a18ee7d">Krok 1. Podziel liczbę bezrobotnych (454 tys.) przez liczbę osób aktywnych zawodowo (17,244 mln).</para>
         <para id="UUID754e8cdd-3402-46a8-4a8c-c06b7298d3bd">Krok 2. Pomnóż przez 100 i wstaw znak „%”, aby otrzymać stopę bezrobocia wyrażoną w procentach.</para>
-        <equation id="fs-idp183082448" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa bezrobocia</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mfrac><mrow><mn>0,454</mn></mrow><mrow><mn>17,244</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>0,02632</mn></mtd></mtr><mtr><mtd /><mtd><mo>=</mo></mtd><mtd><mn>2,6%</mn></mtd></mtr></mtable></math></equation>
+        <equation id="fs-idp183082448" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Stopa bezrobocia</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mfrac><mrow><mn>0,454</mn></mrow><mrow><mn>17,244</mn></mrow></mfrac></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>0,02632</mn></mtd></mtr><mtr><mtd /><mtd><mo> = </mo></mtd><mtd><mn>2,6%</mn></mtd></mtr></mtable></math></equation>
       </note>
     </section>
     <section id="fs-idm7306464">

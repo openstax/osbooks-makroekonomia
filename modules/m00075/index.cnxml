@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/9440d51a-8af0-4a8c-ad50-e8971b2f0377</md:content-url>
     <md:title>14.1 Zróżnicowanie krajów i gospodarek na świecie</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-11T10:25:15.592965302+00:00</md:version>
-    <md:created>2023-09-11T10:25:15.592965302+00:00</md:created>
-    <md:revised>2023-09-11T10:25:15.592965302+00:00</md:revised>
+    <md:version>2023-09-15T12:07:08.095919791+00:00</md:version>
+    <md:created>2023-09-15T12:07:08.095919791+00:00</md:created>
+    <md:revised>2023-09-15T12:07:08.095919791+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -47,7 +47,7 @@
       </media>
       <caption id="UUID9123875b-38ce-4823-40db-d944fb9aff50">Wykresy kołowe przedstawiają łączną wartość PKB (w 2022 r.) krajów przypisanych odpowiednio do grup o niskim, średnim i wysokim dochodzie. Do pierwszej kategorii zaliczane są państwa z dochodem per capita niższym niż 1080 dol. Dają one mniej niż 1% światowego PKB, choć żyje w nich niemal 9% globalnej populacji. W krajach o średnich dochodach na mieszkańca przypada suma z przedziału 1080–13 205 dol. Wypracowują one 36,5% produktu globalnego, a zamieszkuje je blisko 76% ludności świata. Kraje o wysokim dochodzie odpowiadają za 63% światowego PKB, mając łącznie prawie 16% światowej populacji. (Źródło: http://databank.worldbank.org/data/views/reports/tableview.aspx?isshared=true&amp;ispopular=series&amp;pid=20).</caption>
     </figure>
-    <para id="UUIDd0c23eda-30da-4d86-6974-cbec3bcbb7af">Przegląd wartości PKB per capita mierzonego w porównywalnych dolarach międzynarodowych w krajach rozwijających się, zaprezentowany na <link target-id="CNX_Econ_C32_003" cmlnle:case="locative" id="UUIDb57f8c13-0fc3-4645-51a0-4f731336ce70" />, uwidacznia dość znaczne różnice między tymi gospodarkami. Jak pokazuje Tabela 1, nominalny PKB na mieszkańca w 2013 r. dla 588 mln ludzi żyjących w Ameryce Łacińskiej i w regionie Karaibów wyniósł 9536 dol., co znacznie przekracza przeciętny poziom PKB per capita w krajach Azji Południowej i Afryki Subsaharyjskiej. Z kolei populacja państw o wysokich dochodach, np. członków Unii Europejskiej lub USA i Kanady, dysponuje od trzech do czterech razy wyższym PKB na mieszkańca niż ludność Ameryki Łacińskiej. Mówiąc wprost, Ameryka Północna i Unia Europejska stanowią nieco ponad 9% światowej populacji, ale produkują i konsumują blisko 70% światowego PKB.</para>
+    <para id="UUIDd0c23eda-30da-4d86-6974-cbec3bcbb7af">Przegląd wartości PKB per capita mierzonego w porównywalnych dolarach międzynarodowych w krajach rozwijających się, zaprezentowany na <link target-id="CNX_Econ_C32_003" cmlnle:case="locative" id="UUIDb57f8c13-0fc3-4645-51a0-4f731336ce70" />, uwidacznia dość znaczne różnice między tymi gospodarkami. Jak pokazuje <link target-id="Ch32Mod01Tab02" id="UUIDad2b8319-df54-4e8b-6aca-326b80162177" />, nominalny PKB na mieszkańca w 2013 r. dla 588 mln ludzi żyjących w Ameryce Łacińskiej i w regionie Karaibów wyniósł 9536 dol., co znacznie przekracza przeciętny poziom PKB per capita w krajach Azji Południowej i Afryki Subsaharyjskiej. Z kolei populacja państw o wysokich dochodach, np. członków Unii Europejskiej lub USA i Kanady, dysponuje od trzech do czterech razy wyższym PKB na mieszkańca niż ludność Ameryki Łacińskiej. Mówiąc wprost, Ameryka Północna i Unia Europejska stanowią nieco ponad 9% światowej populacji, ale produkują i konsumują blisko 70% światowego PKB.</para>
     <figure id="CNX_Econ_C32_003">
       <title id="UUID86d8f2a3-352a-451c-47fa-a1b8c508a373">Nominalny PKB per capita w dolarach amerykańskich (2008)</title>
       <media alt="Ilustracja przedstawia mapę świata, na której kolorami zaznaczono różne państwa o różnych poziomach PKB per capita. Biorąc pod uwagę wyłącznie kraje rozwijające się, widzimy, że najniższą wartość w tej grupie notują kraje afrykańskie, najwyższą zaś gospodarki z Ameryki Południowej." id="mCNX_Econ_C32_003">

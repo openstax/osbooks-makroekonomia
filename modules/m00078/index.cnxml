@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/06aa39c2-9994-4476-9dd2-0fff1ba392d0</md:content-url>
     <md:title>14.4 Przyczyny inflacji w różnych krajach i regionach</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-11T10:25:15.755345998+00:00</md:version>
-    <md:created>2023-09-11T10:25:15.755345998+00:00</md:created>
-    <md:revised>2023-09-11T10:25:15.755345998+00:00</md:revised>
+    <md:version>2023-09-15T12:07:08.682601907+00:00</md:version>
+    <md:created>2023-09-15T12:07:08.682601907+00:00</md:created>
+    <md:revised>2023-09-15T12:07:08.682601907+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -108,8 +108,8 @@
     </definition>
     <definition id="UUIDa1078152-fc60-4a17-6205-782cee81f679">
       <term id="UUID6e144f6e-8eb5-407a-4dc9-7c32757cb1bd">gospodarka konwergująca</term>
-      <meaning id="UUIDa776b643-10aa-417c-4c9a-a0255b8975d0">
-        <para id="UUIDb48971d2-def2-4b19-6f5a-e1d577c977c8">gospodarka rozwijająca się</para>
+      <meaning id="UUID966aeab9-acbe-4666-48a1-2b230dbfa95b">
+        <para id="UUIDf0d066ac-f4c6-4061-7c67-8c36f96e29cb">zob. gospodarka rozwijająca się</para>
       </meaning>
     </definition>
   </glossary>

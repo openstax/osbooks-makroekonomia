@@ -5,11 +5,11 @@
     <md:content-id>m00070</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/34397686-38cc-46e9-82d9-69b2275ae01f</md:content-url>
-    <md:title>13.1 How Government Borrowing Affects Investment and the Trade Balance</md:title>
+    <md:title>13.1 Jaki wpływ na bilans ma pożyczanie pieniędzy na rynkach finansowych przez państwo</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-11T10:25:15.327942134+00:00</md:version>
-    <md:created>2023-09-11T10:25:15.327942134+00:00</md:created>
-    <md:revised>2023-09-11T10:25:15.327942134+00:00</md:revised>
+    <md:version>2023-09-15T12:07:07.972333849+00:00</md:version>
+    <md:created>2023-09-15T12:07:07.972333849+00:00</md:created>
+    <md:revised>2023-09-15T12:07:07.972333849+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -23,15 +23,17 @@
     <md:uuid>34397686-38cc-46e9-82d9-69b2275ae01f</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
-    <list id="list-00001">
-      <item id="UUIDed270556-5dd6-486c-4b45-4195b226856f">
-        <para id="UUIDfa79cb02-1858-4c1b-6bcd-e1efca28690b">Zrozumieć implikacje tożsamości (równości) oszczędności i inwestycji dla strony popytowej i podażowej w gospodarce</para>
-      </item>
-      <item id="UUID52df308a-2ff9-45c1-7bf8-bee600a72209">
-        <para id="UUIDf0e9e177-4188-4e9c-71cf-3d2cd920a8e4">Ocenić, jaką funkcję pełnią nadwyżka budżetowa i nadwyżka w obrotach handlowych w równości pomiędzy inwestycjami i oszczędnościami</para>
-      </item>
-    </list>
+    <note type="note" id="UUIDfa23901d-996d-4569-761d-2b3a7831123e" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUIDed270556-5dd6-486c-4b45-4195b226856f">
+          <para id="UUIDfa79cb02-1858-4c1b-6bcd-e1efca28690b">Zrozumieć implikacje tożsamości (równości) oszczędności i inwestycji dla strony popytowej i podażowej w gospodarce</para>
+        </item>
+        <item id="UUID52df308a-2ff9-45c1-7bf8-bee600a72209">
+          <para id="UUIDf0e9e177-4188-4e9c-71cf-3d2cd920a8e4">Ocenić, jaką funkcję pełnią nadwyżka budżetowa i nadwyżka w obrotach handlowych w równości pomiędzy inwestycjami i oszczędnościami</para>
+        </item>
+      </list>
+    </note>
     <para id="fs-idp138613488">Kiedy państwo pożycza pieniądze na rynkach finansowych, z makroekonomicznego punktu widzenia istnieją trzy możliwe źródła pozyskiwania przez nie środków: (1) wzrost oszczędności gospodarstw domowych, (2) zmniejszenie wolumenu pożyczek zaciąganych przez przedsiębiorstwa prywatne oraz (3) zwiększenie ilości środków pochodzących z zagranicy, np. od zagranicznych inwestorów finansowych. Zaczniemy od wyjaśnienia, dlaczego przynajmniej jedna z tych trzech opcji musi wystąpić, a następnie zbadamy, w jaki sposób stopy procentowe i kursy walutowe dostosowują się do nowej sytuacji.</para>
     <section id="fs-idm61406336">
       <title id="UUID19d29e0f-9fa3-4b46-757b-860bf6817892">Tożsamość (równość) oszczędności i inwestycji</title>
@@ -55,17 +57,17 @@
       <title id="UUID4f76d3e4-c6ad-4643-5282-acb2331e9d9c">Znaczenie nadwyżki budżetowej i nadwyżki handlowej</title>
       <para id="fs-idm42470640">Tożsamość oszczędności i inwestycji musi zachodzić zawsze, ponieważ na rynku kapitału finansowego, podobnie jak na każdym innym, wcześniej czy później ustala się stan równowagi, w którym wielkość zapotrzebowania i oferowany wolumen kapitału finansowego są sobie równe. Jednak wzór będzie wyglądać nieco inaczej, jeśli budżet państwa osiągnie deficyt zamiast nadwyżki lub jeśli bilans handlowy wykaże nadwyżkę zamiast deficytu. Na przykład w latach 1999–2000 budżet Stanów Zjednoczonych wykazywał nadwyżkę, chociaż gospodarka nadal doświadczała deficytów handlowych. Kiedy państwo osiąga nadwyżkę budżetową, jest dostarczycielem oszczędności, a nie pożyczkobiorcą, czyli na rynku kapitału finansowego znajduje się po stronie podaży, a nie popytu. W takiej sytuacji tożsamość oszczędności i inwestycji można zapisać jako równanie (3):</para>
       <equation id="fs-idp68505312" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd>
-<mtd><mo>=</mo></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr>
-<mtr><mtd><mtext>Oszczędności prywatne + Deficyt handlowy + Nadwyżka budżetowa</mtext></mtd><mtd><mo>=</mo></mtd>
+<mtd><mo> = </mo></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr>
+<mtr><mtd><mtext>Oszczędności prywatne + Deficyt handlowy + Nadwyżka budżetowa</mtext></mtd><mtd><mo> = </mo></mtd>
 <mtd><mtext>Inwestycje prywatne</mtext></mtd></mtr>
 <mtr><mtd><mtext>S + (Z − X) + (T − G)</mtext></mtd>
-<mtd><mo>=</mo></mtd>
+<mtd><mo> = </mo></mtd>
 <mtd><mtext>I</mtext></mtd></mtr></mtable></math></equation>
       <para id="UUID1e173da8-680c-430e-518e-497d46a88adb">Zauważ, że powyższe wyrażenie jest z matematycznego punktu widzenia takie samo jak równanie (2), z tym że strony oszczędnościowa i inwestycyjna tożsamości są po prostu odwrócone.</para>
       <para id="UUID77b47a9e-ed97-4cd2-7839-b74f3a24cd7f">W latach 60. XX w. rząd USA często wykazywał deficyty budżetowe, ale gospodarka zwykle notowała nadwyżki handlowe. Ponieważ nadwyżka handlowa oznacza, że gospodarka doświadcza odpływu netto kapitału finansowego, tożsamość oszczędności i inwestycji przybiera następującą postać:</para>
-      <equation id="eip-526" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>Oszczędności prywatne</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>Inwestycje prywatne + Odpływ oszczędności zagranicznych + Deficyt budżetowy</mtext></mtd></mtr><mtr><mtd><mtext>S</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>I + (X − Z) + (G − T)</mtext></mtd></mtr></mtable></math></equation>
+      <equation id="eip-526" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>Oszczędności prywatne</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mtext>Inwestycje prywatne + Odpływ oszczędności zagranicznych + Deficyt budżetowy</mtext></mtd></mtr><mtr><mtd><mtext>S</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mtext>I + (X − Z) + (G − T)</mtext></mtd></mtr></mtable></math></equation>
       <para id="UUID5f317961-66c3-446e-62ec-35464f62af76">Deficyt handlowy stanowi część podaży kapitału finansowego. Natomiast nadwyżka handlowa reprezentuje odpływ kapitału finansowego, który opuszcza dany kraj i jest inwestowany w innych częściach świata.</para>
-      <equation id="fs-idm183612752" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>Oszczędności prywatne</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>Inwestycje prywatne + Deficyt budżetowy + Nadwyżka handlowa</mtext></mtd></mtr><mtr><mtd><mtext>S</mtext></mtd><mtd><mo>=</mo></mtd><mtd><mtext>I + (G − T) + (X − Z) </mtext></mtd></mtr></mtable></math></equation>
+      <equation id="fs-idm183612752" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>Oszczędności prywatne</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mtext>Inwestycje prywatne + Deficyt budżetowy + Nadwyżka handlowa</mtext></mtd></mtr><mtr><mtd><mtext>S</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mtext>I + (G − T) + (X − Z) </mtext></mtd></mtr></mtable></math></equation>
       <para id="UUID68481c91-9a56-478e-4532-20627cdfe78b">Istota tych równań polega na tym, że tożsamość oszczędności i inwestycji jest zawsze spełniona. Podczas zapisywania tych zależności, jeszcze przed rozpoczęciem obliczeń, ważne jest, aby zrozumieć od strony ekonomicznej, co znajduje się po stronie podaży i popytu na rynku kapitału finansowego. Wtedy znacznie trudniej jest popełnić błąd przy zapisie równania.</para>
       <para id="UUID1db3f399-5a41-4a69-4239-b6b68d8e2a5f" />
       <para id="fs-idm208344448">Jak widać na <link target-id="CNX_Econ_C31_010" cmlnle:case="locative" id="UUIDd96ad971-3506-4e2d-455e-2cf009b8c8f0" />, zgodnie z danymi Amerykańskiego Biura Zarządzania i Budżetu (Office of Management and Budget), USA konsekwentnie utrzymywały deficyty budżetowe od 1970 r., z wyjątkiem okresu 1998–2001. Niepokojący jest bardzo szybki wzrost deficytu budżetowego po 2008 r., co częściowo odzwierciedla spadające dochody podatkowe oraz zwiększone wydatki państwa z powodu globalnego kryzysu finansowego. (Przypomnijmy, że T to podatki netto, a więc wpływy po odjęciu transferów. Kiedy rząd musi przekazać fundusze z powrotem do gospodarstw domowych jako dochody transferowe przeznaczone np. na finansowanie programu „Rodzina 500 Plus”, deficyt budżetowy rośnie). Utrzymujące się deficyty mają wpływ na przyszłą kondycję amerykańskiej gospodarki.</para>
@@ -152,7 +154,7 @@
       </exercise>
       <exercise id="fs-idm59408656">
         <problem id="fs-idp102083776">
-          <para id="fs-idm12110832">W najnowszej historii Stanów Zjednoczonych kilka razy doszło do zamknięcia rządu (ang. <foreign xml:lang="en" id="UUIDc342e52b-ce2f-4152-6a09-37e7a821be99">government shutdown</foreign>). Wyjaśnij, w jaki sposób takie wydarzenie wpływa na zmienne występujące w równaniu przedstawiającym tożsamość inwestycji i oszczędności. Czy zamknięcie rządu może wpłynąć na deficyt budżetu państwa?</para>
+          <para id="fs-idm12110832">W najnowszej historii Stanów Zjednoczonych kilka razy doszło do zamknięcia rządu. Wyjaśnij, w jaki sposób takie wydarzenie wpływa na zmienne występujące w równaniu przedstawiającym tożsamość inwestycji i oszczędności. Czy zamknięcie rządu może wpłynąć na deficyt budżetu państwa?</para>
         </problem>
       </exercise>
     </section>

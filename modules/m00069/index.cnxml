@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U58428863-f2ad-40f7-84ba-12642620c5a2" id="U58428863-f2ad-40f7-84ba-12642620c5a2" xml:lang="en" cnxml-version="0.7" class="introduction">
-  <title>Wprowadzenie do tematu skutków zadłużenia państwa</title>
+  <title>Wprowadzenie do rozdziału</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00069</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/58428863-f2ad-40f7-84ba-12642620c5a2</md:content-url>
-    <md:title>Wprowadzenie do tematu skutków zadłużenia państwa</md:title>
+    <md:title>Wprowadzenie do rozdziału</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-11T10:25:15.267307752+00:00</md:version>
-    <md:created>2023-09-11T10:25:15.267307752+00:00</md:created>
-    <md:revised>2023-09-11T10:25:15.267307752+00:00</md:revised>
+    <md:version>2023-09-15T12:07:07.943364431+00:00</md:version>
+    <md:created>2023-09-15T12:07:07.943364431+00:00</md:created>
+    <md:revised>2023-09-15T12:07:07.943364431+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -58,6 +58,6 @@
       </list>
     </note>
     <para id="fs-idp85972688">Rząd musi finansować wiele obszarów wymagających wsparcia finansowego. Wszelkie wydatki powinny być realizowane z uwzględnieniem dyscypliny fiskalnej i przy starannej analizie ich następstw. Kiedy rząd wydaje więcej, niż uzyskuje dzięki podatkom, pojawia się deficyt budżetowy, który powoduje, że rząd pożycza pieniądze i się zadłuża. Kiedy zadłużenie państwa jest szczególnie wysokie i trwałe, może to znacznie zmniejszyć ilość kapitału finansowego dostępnego dla przedsiębiorstw oraz doprowadzić do nierównowagi handlowej, a nawet kryzysów finansowych.</para>
-    <para id="UUIDcb84b460-0aa8-4edc-530f-62126f5c064b">W rozdziale „Budżet państwa i polityka fiskalna” (<link document="m00062" id="UUIDc93f79d4-3592-44ae-689c-9e178d3d2f4a" />) przedstawiliśmy pojęcia deficytu budżetowego i długu publicznego, a także sposób, w jaki rząd może wykorzystać politykę fiskalną do walki z recesją lub inflacją. Ten rozdział rozpoczyna się od przywołania ważnej tożsamości makroekonomicznej, jaką jest równość oszczędności i inwestycji, którą po raz pierwszy wprowadziliśmy w rozdziale „Handel zagraniczny i przepływy kapitału” (<link document="m00024" id="UUID699831f4-b98d-46aa-7e22-cc962e818f60" />), aby pokazać, w jaki sposób zadłużenie państwa wpływa na inwestycje przedsiębiorstw w kapitał rzeczowy oraz na bilans handlowy. Przedłużający się okres występowania deficytów budżetowych może prowadzić do niższego wzrostu gospodarczego, po części dlatego, że fundusze, które rząd pożycza na finansowanie deficytu budżetowego, zazwyczaj nie są już dostępne dla inwestorów prywatnych. Co więcej, utrzymujący się wysoki deficyt budżetowy może prowadzić do niekorzystnych zjawisk gospodarczych, takich jak: wysoka inflacja, znaczny napływ kapitału finansowego z zagranicy, gwałtowny spadek kursu walutowego oraz poważne obciążenia systemu bankowego i finansowego danego kraju.</para>
+    <para id="UUIDcb84b460-0aa8-4edc-530f-62126f5c064b">W <link document="m00062" cmlnle:case="locative" id="UUIDc93f79d4-3592-44ae-689c-9e178d3d2f4a" /> przedstawiliśmy pojęcia deficytu budżetowego i długu publicznego, a także sposób, w jaki rząd może wykorzystać politykę fiskalną do walki z recesją lub inflacją. Ten rozdział rozpoczyna się od przywołania ważnej tożsamości makroekonomicznej, jaką jest równość oszczędności i inwestycji, którą po raz pierwszy wprowadziliśmy w rozdziale „Handel zagraniczny i przepływy kapitału” (<link document="m00024" id="UUID699831f4-b98d-46aa-7e22-cc962e818f60" />), aby pokazać, w jaki sposób zadłużenie państwa wpływa na inwestycje przedsiębiorstw w kapitał rzeczowy oraz na bilans handlowy. Przedłużający się okres występowania deficytów budżetowych może prowadzić do niższego wzrostu gospodarczego, po części dlatego, że fundusze, które rząd pożycza na finansowanie deficytu budżetowego, zazwyczaj nie są już dostępne dla inwestorów prywatnych. Co więcej, utrzymujący się wysoki deficyt budżetowy może prowadzić do niekorzystnych zjawisk gospodarczych, takich jak: wysoka inflacja, znaczny napływ kapitału finansowego z zagranicy, gwałtowny spadek kursu walutowego oraz poważne obciążenia systemu bankowego i finansowego danego kraju.</para>
   </content>
 </document>
