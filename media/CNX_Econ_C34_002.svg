@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg70559"
-   width="300.06885"
+   width="288.55627"
    height="196.75468"
-   viewBox="0 0 300.06885 196.75469"
+   viewBox="0 0 288.55628 196.75469"
    sodipodi:docname="CNX_Econ_C34_002.svg"
    inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -32,9 +32,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="4.0339916"
-     inkscape:cx="91.968461"
-     inkscape:cy="74.491975"
+     inkscape:zoom="2.0169958"
+     inkscape:cx="244.42292"
+     inkscape:cy="46.356071"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -46,57 +46,57 @@
        x="0"
        y="0"
        id="page70565"
-       width="300.06885"
+       width="288.55627"
        height="196.75468"
        margin="0"
        bleed="0" />
     <sodipodi:guide
-       position="186.381,4.5978165"
+       position="181.06722,4.5978127"
        orientation="0,-1"
        id="guide7219"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="69.411297,42.047016"
+       position="64.097517,42.047012"
        orientation="1,0"
        id="guide7221"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="42.050838,33.462986"
+       position="36.737058,33.462982"
        orientation="0,-1"
        id="guide1209"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="44.985708,225.95333"
+       position="39.671928,225.95333"
        orientation="1,0"
        id="guide1211"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="87.953439,34.14069"
+       position="82.639659,34.140686"
        orientation="1,0"
        id="guide1213"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="123.43731,36.60192"
+       position="118.12353,36.601916"
        orientation="1,0"
        id="guide1311"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="148.15198,35.792822"
+       position="142.8382,35.792818"
        orientation="1,0"
        id="guide1313"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="38.896984,28.322986"
+       position="33.583204,28.322982"
        orientation="0,-1"
        id="guide2007"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="34.340839,29.931793"
+       position="29.027059,29.931789"
        orientation="1,0"
        id="guide2009"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="254.5169,212.76578"
+       position="249.20312,212.76578"
        orientation="0,-1"
        id="guide1"
        inkscape:locked="false" />
@@ -105,9 +105,9 @@
      id="g70567"
      inkscape:groupmode="layer"
      inkscape:label="Page 1"
-     transform="matrix(1.3333333,0,0,-1.3333333,3.2479655,245.75645)">
+     transform="matrix(1.3333333,0,0,-1.3333333,-2.0658148,245.75645)">
     <g
-       id="g1">
+       id="g2">
       <path
          d="m 63.529107,98.509728 v -45.0808"
          style="fill:none;stroke:#b33aa3;stroke-width:0.476101;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.85661, 1.90441;stroke-dashoffset:0;stroke-opacity:1"
@@ -232,16 +232,16 @@
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
          id="text20116-1-3-7-8-7-29-1-4-72-8"
-         x="10.187642"
+         x="12.522587"
          y="-114.53253"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-           x="10.187642"
+           x="12.522587"
            y="-114.53253"
            id="tspan4232-0-4-6-5-31-5-3-7-1">P<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan7441">no trade</tspan></tspan></text>
+   id="tspan1">handel</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
@@ -260,16 +260,16 @@
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
          id="text20116-1-3-7-8-7-29-1-4-72-2"
-         x="14.252675"
+         x="12.272491"
          y="-96.434433"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-           x="14.252675"
+           x="12.272491"
            y="-96.434433"
            id="tspan4232-0-4-6-5-31-5-3-7-9">P<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan7443">trade</tspan></tspan></text>
+   id="tspan2">atarkia</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
@@ -326,40 +326,40 @@
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
          id="text20116-1-3-7-8-7-29-1-4-72-1"
-         x="160.65266"
-         y="-173.88756"
+         x="158.93858"
+         y="-172.60805"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:1"
-           x="160.65266"
-           y="-173.88756"
+           x="158.93858"
+           y="-172.60805"
            id="tspan7445">Krajowa</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:1"
-           x="160.65266"
-           y="-163.76057"
+           x="158.93858"
+           y="-162.48106"
            id="tspan1969">podaż</tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
          id="text20116-1-3-7-8-7-29-1-4-72-84"
-         x="187.14696"
-         y="-150.79677"
+         x="182.49786"
+         y="-150.51479"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:1"
-           x="187.14696"
-           y="-150.79677"
+           x="182.49786"
+           y="-150.51479"
            id="tspan7455">Krajowa</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:1"
-           x="187.14696"
-           y="-140.66978"
+           x="182.49786"
+           y="-140.3878"
            id="tspan1978">podaż</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:1"
-           x="187.14696"
-           y="-130.54279"
+           x="182.49786"
+           y="-130.2608"
            id="tspan1976">+ import</tspan></text>
       <text
          xml:space="preserve"
