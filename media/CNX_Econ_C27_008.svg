@@ -4,11 +4,11 @@
 <svg
    version="1.1"
    id="svg833"
-   width="605.50665"
-   height="53.439999"
-   viewBox="0 0 605.50665 53.439999"
+   width="605.5813"
+   height="54.667938"
+   viewBox="0 0 605.5813 54.667939"
    sodipodi:docname="CNX_Econ_C27_008.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,13 +25,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.0107238"
-     inkscape:cx="202.33025"
-     inkscape:cy="-197.878"
-     inkscape:window-width="1848"
-     inkscape:window-height="1043"
-     inkscape:window-x="1438"
-     inkscape:window-y="0"
+     inkscape:zoom="4.0428952"
+     inkscape:cx="423.08789"
+     inkscape:cy="-17.066977"
+     inkscape:window-width="1294"
+     inkscape:window-height="704"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g5631"
      showguides="true">
@@ -39,35 +39,37 @@
        x="0"
        y="0"
        id="page839"
-       width="605.50665"
-       height="53.439999" />
+       width="605.5813"
+       height="54.667938"
+       margin="0"
+       bleed="0" />
     <sodipodi:guide
-       position="605.41551,144.92726"
+       position="605.49018,143.69932"
        orientation="1,0"
        id="guide28871"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-0.074665358,38.321006"
+       position="2.5881087e-09,37.093066"
        orientation="1,0"
        id="guide28873"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="298.29018,24.407901"
+       position="298.36485,23.179961"
        orientation="1,0"
        id="guide28875"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="307.04799,74.713027"
+       position="307.12266,73.485087"
        orientation="1,0"
        id="guide28877"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="908.29596,54.667939"
+       position="908.37063,53.439999"
        orientation="0,-1"
        id="guide11926"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="601.42084,24.407901"
+       position="601.49551,23.179961"
        orientation="1,0"
        id="guide5343"
        inkscape:locked="false" />
@@ -76,14 +78,14 @@
      id="g841"
      inkscape:groupmode="layer"
      inkscape:label="Page 1"
-     transform="matrix(1.3333333,0,0,-1.3333333,0,53.44)">
+     transform="matrix(1.3333333,0,0,-1.3333333,0.07466536,54.66794)">
     <g
        id="g5249-4"
        transform="translate(-0.12435827,-11.521999)">
       <g
          id="g5631">
         <g
-           id="g1252">
+           id="g1">
           <path
              d="M 0.06835925,40.512755 H 454.25436"
              style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -187,7 +189,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
                x="340.75537"
                y="-44.214226"
-               id="tspan4232-0-4-6-5-2-6-7-4-8-9">Pasywa i Wartość Netto</tspan></text>
+               id="tspan4232-0-4-6-5-2-6-7-4-8-9">Pasywa i wartość netto</tspan></text>
         </g>
       </g>
     </g>

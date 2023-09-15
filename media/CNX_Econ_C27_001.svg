@@ -8,7 +8,7 @@
    height="384.67682"
    viewBox="0 0 384.67682 384.67682"
    sodipodi:docname="CNX_Econ_C27_001.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -1132,9 +1132,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.4694972"
-     inkscape:cx="328.3436"
-     inkscape:cy="151.75259"
+     inkscape:zoom="1.0390914"
+     inkscape:cx="80.358664"
+     inkscape:cy="60.148701"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -1146,7 +1146,9 @@
        y="0"
        id="page7564"
        width="384.67682"
-       height="384.67682" />
+       height="384.67682"
+       margin="0"
+       bleed="0" />
   </sodipodi:namedview>
   <g
      id="g7566"
@@ -1154,7 +1156,7 @@
      inkscape:label="Page 1"
      transform="matrix(1.3333333,0,0,-1.3333333,984.2995,250.67407)">
     <g
-       id="g2726">
+       id="g1">
       <circle
          style="fill:#94d38b;fill-opacity:1;stroke-width:0.75"
          id="path11407-36"
@@ -1192,7 +1194,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="-594.00208"
            y="-33.985615"
-           id="tspan2367">szerokim - M2</tspan></text>
+           id="tspan2367">szerokim – M2</tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
@@ -1231,7 +1233,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:start;text-anchor:start;stroke-width:1"
            x="-699.9707"
            y="32.624508"
-           id="tspan2353">Podaż pieniądza w najszerszym znaczeniu - M3</tspan></text>
+           id="tspan2353">Podaż pieniądza w najszerszym znaczeniu – M3</tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
@@ -1275,7 +1277,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="-594.02356"
            y="-136.61252"
-           id="tspan2371">wąskim - M1</tspan><tspan
+           id="tspan2371">wąskim – M1</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
            x="-594.02356"
@@ -1312,7 +1314,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;text-anchor:start;stroke-width:1"
            x="-642.74225"
            y="-80.378525"
-           id="tspan2365-2">   &quot;na żądanie&quot; (bieżące)</tspan></text>
+           id="tspan2365-2">   na żądanie (bieżące)</tspan></text>
     </g>
   </g>
 </svg>
