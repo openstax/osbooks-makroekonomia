@@ -22,7 +22,6 @@
     <md:slug>col00001</md:slug>
   </metadata>
   <content>
-    <module document="m00001" />
     <subcollection>
       <md:title>1 Wstęp do makroekonomii</md:title>
       <content>
@@ -192,9 +191,5 @@
         <module document="m00090" />
       </content>
     </subcollection>
-    <module document="m00091" />
-    <module document="m00092" />
-    <module document="m00093" />
-    <module document="m00094" />
   </content>
 </collection>
