@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="253.14423"
-     inkscape:cy="374.05949"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="342.77001"
+     inkscape:cy="189.68139"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -48,291 +48,280 @@
      id="layer1"
      transform="translate(14.991686,-55.685162)">
     <g
-       id="g2"
-       transform="translate(7.9375,-96.04375)">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.318081"
-         id="rect1"
-         width="165.10001"
-         height="85.128693"
-         x="-22.929186"
-         y="151.72891" />
-      <g
-         id="g1962-3">
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:3.52778px;font-family:ArialMT;-inkscape-font-specification:ArialMT;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-           id="text20116-1-3-7-7-1-6-3-0-1-3-7-6"
-           x="140.20262"
-           y="225.58455"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke-width:0.352778"
-             x="140.20262"
-             y="225.58455"
-             id="tspan7814-7">Średnie dzienne spożycie</tspan><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke-width:0.352778"
-             x="140.20262"
-             y="230.05028"
-             id="tspan1452-5">kilokalorii na osobę w 2019 r.</tspan><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#4d4d4d;fill-opacity:1;stroke-width:0.352778"
-             x="140.20262"
-             y="234.51601"
-             id="tspan1450-3">w zależności od regionu</tspan></text>
-        <path
-           d="m 68.652803,236.85754 h -7 v -44.79085 h 7 v 44.79085"
-           style="fill:#90cbf0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.033142"
-           id="path1632-59-5-5" />
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#90cbf0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
-           id="text20116-1-3-7-7-1-6-3-0-1-3-0-61-6"
-           x="-182.88251"
-           y="66.634712"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#90cbf0;fill-opacity:1;stroke-width:0.398799"
-             x="-182.88251"
-             y="66.634712"
-             id="tspan5257-1-0-2">2586</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-           id="text20116-1-3-7-7-1-6-3-0-0-9-9"
-           x="-227.45184"
-           y="66.3144"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
-             x="-227.45184"
-             y="66.3144"
-             id="tspan4232-0-4-4-4-4-8-8-78-7-1">Afryka</tspan></text>
-        <path
-           d="m 34.718687,236.85754 h -7 v -52.59231 h 7 v 52.59231"
-           style="fill:#ff6702;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0359125"
-           id="path1632-6-2-4-2" />
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff6702;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
-           id="text20116-1-3-7-7-1-6-3-0-1-3-0-4-5-7"
-           x="-175.27328"
-           y="32.700596"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ff6702;fill-opacity:1;stroke-width:0.398799"
-             x="-175.27328"
-             y="32.700596"
-             id="tspan5257-1-7-9-0">3031</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-           id="text20116-1-3-7-7-1-6-3-0-2-06-9-6-9"
-           x="-212.2683"
-           y="32.383152"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
-             x="-212.2683"
-             y="32.383152"
-             id="tspan1618-2-3-3">Ameryka Środkowa</tspan></text>
-        <path
-           d="m 23.407314,236.85754 h -7 v -53.1588 h 7 v 53.1588"
-           style="fill:#fbc74c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0361054"
-           id="path1632-5-9-7-6" />
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#fbc74c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
-           id="text20116-1-3-7-7-1-6-3-0-1-3-0-9-0-0"
-           x="-174.72513"
-           y="21.389223"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#fbc74c;fill-opacity:1;stroke-width:0.398799"
-             x="-174.72513"
-             y="21.389223"
-             id="tspan5257-1-3-9-6">3052</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-           id="text20116-1-3-7-7-1-6-3-0-2-8-9-8-2"
-           x="-210.11131"
-           y="21.072031"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
-             x="-210.11131"
-             y="21.072031"
-             id="tspan1622-2-1-6">Ameryka Południowa</tspan></text>
-        <path
-           d="m 57.341433,236.85754 h -7 v -49.18149 h 7 v 49.18149"
-           style="fill:#4061b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0347285"
-           id="path1632-7-8-8-1" />
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#4061b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
-           id="text20116-1-3-7-7-1-6-3-0-1-3-0-6-4-8"
-           x="-178.63397"
-           y="55.323341"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#4061b6;fill-opacity:1;stroke-width:0.398799"
-             x="-178.63397"
-             y="55.323341"
-             id="tspan5257-1-56-9-7">2830</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-           id="text20116-1-3-7-7-1-6-3-0-2-9-6-2-9"
-           x="-226.47723"
-           y="55.006516"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
-             x="-226.47723"
-             y="55.006516"
-             id="tspan4232-0-4-4-4-4-8-8-7-20-64-9-2">Karaiby</tspan></text>
-        <path
-           d="m 79.964175,236.8576 h -7 v -48.52224 h 7 v 48.52224"
-           style="fill:#767675;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0344949"
-           id="path1632-59-5-0-0" />
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#767675;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
-           id="text20116-1-3-7-7-1-6-3-0-1-3-0-61-8-2"
-           x="-179.27194"
-           y="77.946083"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#767675;fill-opacity:1;stroke-width:0.398799"
-             x="-179.27194"
-             y="77.946083"
-             id="tspan5257-1-0-8-3">2963</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-           id="text20116-1-3-7-7-1-6-3-0-0-9-5-7"
-           x="-214.41803"
-           y="77.569229"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
-             x="-214.41803"
-             y="77.569229"
-             id="tspan4232-0-4-4-4-4-8-8-78-7-0-5">Średnia światowa</tspan></text>
-        <path
-           d="m 46.030058,236.85754 h -7 V 186.1229 h 7 v 50.73464"
-           style="fill:#217867;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352725"
-           id="path1632-35-7-1-9" />
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#217867;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
-           id="text20116-1-3-7-7-1-6-3-0-1-3-0-7-1-2"
-           x="-177.1311"
-           y="44.011967"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#217867;fill-opacity:1;stroke-width:0.398799"
-             x="-177.1311"
-             y="44.011967"
-             id="tspan5257-1-4-7-2">2917</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-           id="text20116-1-3-7-7-1-6-3-0-2-68-7-8"
-           x="-230.24651"
-           y="43.696083"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
-             x="-230.24651"
-             y="43.696083"
-             id="tspan4232-0-4-4-4-4-8-8-7-8-6-9">Azja</tspan></text>
-        <path
-           d="M 0.78456951,236.85754 H -6.2154305 v -59.10939 h 7.00000001 v 59.10939"
-           style="fill:#951767;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0380728"
-           id="path1632-62-3-7-7" />
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#951767;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
-           id="text20116-1-3-7-7-1-6-3-0-1-3-0-52-7-3"
-           x="-168.96716"
-           y="-1.2335223"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#951767;fill-opacity:1;stroke-width:0.398799"
-             x="-168.96716"
-             y="-1.2335223"
-             id="tspan5257-1-54-1-6">3399</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-           id="text20116-1-3-7-7-1-6-3-0-2-3-1-6-1"
-           x="-227.24411"
-           y="-1.5505931"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
-             x="-227.24411"
-             y="-1.5505931"
-             id="tspan4232-0-4-4-4-4-8-8-7-6-4-5-2">Europa</tspan></text>
-        <path
-           d="M 12.095942,236.85754 H 5.0959421 v -53.99318 h 6.9999999 v 53.99318"
-           style="fill:#00819a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0363876"
-           id="path1632-9-6-2-9" />
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#00819a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
-           id="text20116-1-3-7-7-1-6-3-0-1-3-0-74-1-3"
-           x="-173.91776"
-           y="10.07785"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#00819a;fill-opacity:1;stroke-width:0.398799"
-             x="-173.91776"
-             y="10.07785"
-             id="tspan5257-1-43-5-1">3103</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-           id="text20116-1-3-7-7-1-6-3-0-2-6-06-9-9"
-           x="-212.72408"
-           y="9.7609739"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
-             x="-212.72408"
-             y="9.7609739"
-             id="tspan1620-8-4-4">Australia i Oceania</tspan></text>
-        <path
-           d="m -10.526805,236.85754 h -7 v -66.58491 h 7 v 66.58491"
-           style="fill:#5c1f62;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0404084"
-           id="path1632-3-2-0-7" />
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#5c1f62;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
-           id="text20116-1-3-7-7-1-6-3-0-1-3-0-5-6-8"
-           x="-161.73358"
-           y="-12.544897"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#5c1f62;fill-opacity:1;stroke-width:0.398799"
-             x="-161.73358"
-             y="-12.544897"
-             id="tspan5257-1-5-1-4">3829</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-           id="text20116-1-3-7-7-1-6-3-0-2-0-4-7-5"
-           x="-213.05273"
-           y="-12.862301"
-           transform="rotate(-90)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
-             x="-213.05273"
-             y="-12.862301"
-             id="tspan1616-3-3-0">Ameryka Północna</tspan></text>
-      </g>
+       id="g1">
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:3.52778px;font-family:ArialMT;-inkscape-font-specification:ArialMT;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="text20116-1-3-7-7-1-6-3-0-1-3-7-6"
+         x="148.14012"
+         y="129.5408"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#424242;fill-opacity:1;stroke-width:0.352778"
+           x="148.14012"
+           y="129.5408"
+           id="tspan7814-7">Średnie dzienne spożycie</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#424242;fill-opacity:1;stroke-width:0.352778"
+           x="148.14012"
+           y="134.00653"
+           id="tspan1452-5">kilokalorii na osobę w 2019 r.</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#424242;fill-opacity:1;stroke-width:0.352778"
+           x="148.14012"
+           y="138.47226"
+           id="tspan1450-3">w zależności od regionu</tspan></text>
+      <path
+         d="m 76.590303,140.81379 h -7 V 96.02294 h 7 v 44.79085"
+         style="fill:#90cbf0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.033142"
+         id="path1632-59-5-5" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#90cbf0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
+         id="text20116-1-3-7-7-1-6-3-0-1-3-0-61-6"
+         x="-86.83876"
+         y="74.572212"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#90cbf0;fill-opacity:1;stroke-width:0.398799"
+           x="-86.83876"
+           y="74.572212"
+           id="tspan5257-1-0-2">2586</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="text20116-1-3-7-7-1-6-3-0-0-9-9"
+         x="-131.4081"
+         y="74.2519"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
+           x="-131.4081"
+           y="74.2519"
+           id="tspan4232-0-4-4-4-4-8-8-78-7-1">Afryka</tspan></text>
+      <path
+         d="m 42.656187,140.81379 h -7 V 88.22148 h 7 v 52.59231"
+         style="fill:#ff6702;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0359125"
+         id="path1632-6-2-4-2" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff6702;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
+         id="text20116-1-3-7-7-1-6-3-0-1-3-0-4-5-7"
+         x="-79.229538"
+         y="40.638096"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ff6702;fill-opacity:1;stroke-width:0.398799"
+           x="-79.229538"
+           y="40.638096"
+           id="tspan5257-1-7-9-0">3031</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="text20116-1-3-7-7-1-6-3-0-2-06-9-6-9"
+         x="-116.22455"
+         y="40.320652"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
+           x="-116.22455"
+           y="40.320652"
+           id="tspan1618-2-3-3">Ameryka Środkowa</tspan></text>
+      <path
+         d="m 31.344814,140.81379 h -7 v -53.1588 h 7 v 53.1588"
+         style="fill:#fbc74c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0361054"
+         id="path1632-5-9-7-6" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#fbc74c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
+         id="text20116-1-3-7-7-1-6-3-0-1-3-0-9-0-0"
+         x="-78.681381"
+         y="29.326723"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#fbc74c;fill-opacity:1;stroke-width:0.398799"
+           x="-78.681381"
+           y="29.326723"
+           id="tspan5257-1-3-9-6">3052</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="text20116-1-3-7-7-1-6-3-0-2-8-9-8-2"
+         x="-114.06757"
+         y="29.009531"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
+           x="-114.06757"
+           y="29.009531"
+           id="tspan1622-2-1-6">Ameryka Południowa</tspan></text>
+      <path
+         d="m 65.278933,140.81379 h -7 V 91.6323 h 7 v 49.18149"
+         style="fill:#4061b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0347285"
+         id="path1632-7-8-8-1" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#4061b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
+         id="text20116-1-3-7-7-1-6-3-0-1-3-0-6-4-8"
+         x="-82.590225"
+         y="63.260841"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#4061b6;fill-opacity:1;stroke-width:0.398799"
+           x="-82.590225"
+           y="63.260841"
+           id="tspan5257-1-56-9-7">2830</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="text20116-1-3-7-7-1-6-3-0-2-9-6-2-9"
+         x="-130.43349"
+         y="62.944016"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
+           x="-130.43349"
+           y="62.944016"
+           id="tspan4232-0-4-4-4-4-8-8-7-20-64-9-2">Karaiby</tspan></text>
+      <path
+         d="m 87.901675,140.81385 h -7 V 92.29161 h 7 v 48.52224"
+         style="fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0344949"
+         id="path1632-59-5-0-0" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
+         id="text20116-1-3-7-7-1-6-3-0-1-3-0-61-8-2"
+         x="-83.228195"
+         y="85.883583"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#424242;fill-opacity:1;stroke-width:0.398799"
+           x="-83.228195"
+           y="85.883583"
+           id="tspan5257-1-0-8-3">2963</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="text20116-1-3-7-7-1-6-3-0-0-9-5-7"
+         x="-118.37428"
+         y="85.506729"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
+           x="-118.37428"
+           y="85.506729"
+           id="tspan4232-0-4-4-4-4-8-8-78-7-0-5">Średnia światowa</tspan></text>
+      <path
+         d="m 53.967558,140.81379 h -7 V 90.07915 h 7 v 50.73464"
+         style="fill:#217867;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352725"
+         id="path1632-35-7-1-9" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#217867;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
+         id="text20116-1-3-7-7-1-6-3-0-1-3-0-7-1-2"
+         x="-81.087357"
+         y="51.949467"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#217867;fill-opacity:1;stroke-width:0.398799"
+           x="-81.087357"
+           y="51.949467"
+           id="tspan5257-1-4-7-2">2917</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="text20116-1-3-7-7-1-6-3-0-2-68-7-8"
+         x="-134.20276"
+         y="51.633583"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
+           x="-134.20276"
+           y="51.633583"
+           id="tspan4232-0-4-4-4-4-8-8-7-8-6-9">Azja</tspan></text>
+      <path
+         d="m 8.7220695,140.81379 h -7 V 81.7044 h 7 v 59.10939"
+         style="fill:#951767;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0380728"
+         id="path1632-62-3-7-7" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#951767;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
+         id="text20116-1-3-7-7-1-6-3-0-1-3-0-52-7-3"
+         x="-72.923416"
+         y="6.7039776"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#951767;fill-opacity:1;stroke-width:0.398799"
+           x="-72.923416"
+           y="6.7039776"
+           id="tspan5257-1-54-1-6">3399</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="text20116-1-3-7-7-1-6-3-0-2-3-1-6-1"
+         x="-131.20036"
+         y="6.3869066"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
+           x="-131.20036"
+           y="6.3869066"
+           id="tspan4232-0-4-4-4-4-8-8-7-6-4-5-2">Europa</tspan></text>
+      <path
+         d="m 20.033442,140.81379 h -7 V 86.82061 h 7 v 53.99318"
+         style="fill:#00819a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0363876"
+         id="path1632-9-6-2-9" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#00819a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
+         id="text20116-1-3-7-7-1-6-3-0-1-3-0-74-1-3"
+         x="-77.874008"
+         y="18.01535"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#00819a;fill-opacity:1;stroke-width:0.398799"
+           x="-77.874008"
+           y="18.01535"
+           id="tspan5257-1-43-5-1">3103</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="text20116-1-3-7-7-1-6-3-0-2-6-06-9-9"
+         x="-116.68033"
+         y="17.698475"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
+           x="-116.68033"
+           y="17.698475"
+           id="tspan1620-8-4-4">Australia i Oceania</tspan></text>
+      <path
+         d="m -2.589305,140.81379 h -7 V 74.22888 h 7 v 66.58491"
+         style="fill:#5c1f62;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0404084"
+         id="path1632-3-2-0-7" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.93889px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#5c1f62;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.398799"
+         id="text20116-1-3-7-7-1-6-3-0-1-3-0-5-6-8"
+         x="-65.689835"
+         y="-4.6073971"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#5c1f62;fill-opacity:1;stroke-width:0.398799"
+           x="-65.689835"
+           y="-4.6073971"
+           id="tspan5257-1-5-1-4">3829</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:4.23333px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#ff5555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+         id="text20116-1-3-7-7-1-6-3-0-2-0-4-7-5"
+         x="-117.00899"
+         y="-4.9248009"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.352778"
+           x="-117.00899"
+           y="-4.9248009"
+           id="tspan1616-3-3-0">Ameryka Północna</tspan></text>
     </g>
   </g>
 </svg>
