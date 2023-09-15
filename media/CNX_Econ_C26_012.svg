@@ -8,7 +8,7 @@
    height="331.33289"
    viewBox="0 0 584.50513 331.33288"
    sodipodi:docname="CNX_Econ_C26_012.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="140.5"
-     inkscape:cy="17"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="149.37631"
+     inkscape:cy="229.27937"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -40,7 +40,9 @@
        y="0"
        id="page6723"
        width="584.50513"
-       height="331.33289" />
+       height="331.33289"
+       margin="0"
+       bleed="0" />
     <sodipodi:guide
        position="1.1984929,-8.3662717"
        orientation="0,-1"
@@ -148,7 +150,7 @@
      inkscape:label="Page 1"
      transform="matrix(1.3333333,0,0,-1.3333333,1.198493,339.69916)">
     <g
-       id="g6178">
+       id="g1">
       <path
          d="m 36.2672,51.6481 v -4.625"
          style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -636,9 +638,9 @@
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
-           x="109.54856"
+           x="109.54855"
            y="-23.122156"
-           id="tspan4232-0-4-4-4-4-8">Realny PKB (miliardy dolarów, ceny stałe)</tspan></text>
+           id="tspan4232-0-4-4-4-4-8">Realny PKB (mld dol., ceny stałe)</tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"

@@ -8,7 +8,7 @@
    height="267.74881"
    viewBox="0 0 301.31173 267.74881"
    sodipodi:docname="CNX_Econ_C26_003.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-15.909902"
-     inkscape:cy="48.083259"
+     inkscape:zoom="8.0000002"
+     inkscape:cx="253.18749"
+     inkscape:cy="225.56249"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -40,7 +40,9 @@
        y="0"
        id="page5565"
        width="301.31174"
-       height="267.74881" />
+       height="267.74881"
+       margin="0"
+       bleed="0" />
     <sodipodi:guide
        position="39.165378,33.8939"
        orientation="1,0"
@@ -88,7 +90,7 @@
      inkscape:label="Page 1"
      transform="matrix(1.3333333,0,0,-1.3333333,4.3655589,268.89317)">
     <g
-       id="g4887">
+       id="g1">
       <path
          d="M 34.059987,30.290927 V 26.278714"
          style="fill:none;stroke:#3f60b6;stroke-width:0.50025;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -456,7 +458,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="127.99567"
            y="-2.5848238"
-           id="tspan4232-0-4-4-4-4-8">Realny PKB (miliardy dolarów, ceny stałe)</tspan></text>
+           id="tspan4232-0-4-4-4-4-8">Realny PKB (mld dol., ceny stałe)</tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
@@ -582,5 +584,17 @@
    style="font-size:65%;baseline-shift:sub"
    id="tspan10581">0</tspan></tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;fill:#ffffff;stroke-width:0.75"
+       x="149.25609"
+       y="2.9750001"
+       id="text1"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.75"
+         x="149.25609"
+         y="2.9750001" /></text>
   </g>
 </svg>
