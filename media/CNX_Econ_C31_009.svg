@@ -4,11 +4,11 @@
 <svg
    version="1.1"
    id="svg2"
-   width="738.63593"
-   height="186.53033"
-   viewBox="0 0 738.63593 186.53033"
+   width="618.04602"
+   height="182.64642"
+   viewBox="0 0 618.04602 182.64642"
    sodipodi:docname="CNX_Econ_C31_009.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -50640,13 +50640,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="190"
-     inkscape:cy="3"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:zoom="1"
+     inkscape:cx="302"
+     inkscape:cy="-108.5"
+     inkscape:window-width="1848"
+     inkscape:window-height="1043"
+     inkscape:window-x="1438"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10"
      showguides="true">
@@ -50654,44 +50654,56 @@
        x="0"
        y="0"
        id="page8"
-       width="738.63593"
-       height="186.53033" />
+       width="618.04602"
+       height="182.64642"
+       margin="0"
+       bleed="0" />
     <sodipodi:guide
-       position="-455.95727,-284.2368"
+       position="-455.95727,-286.53707"
        orientation="1,0"
        id="guide582064"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-660.50469,-295.61389"
+       position="-660.50469,-297.91416"
        orientation="1,0"
        id="guide583045"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-619.48688,-321.50656"
+       position="-619.48688,-323.80683"
        orientation="0,-1"
        id="guide583047"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-620.12814,-262.84879"
+       position="-620.12814,-265.14906"
        orientation="0,-1"
        id="guide583335"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-263.94086,-241.46079"
+       position="-263.94086,-243.76106"
        orientation="0,-1"
        id="guide583364"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-276.38486,-258.74417"
+       position="-276.38486,-261.04444"
        orientation="0,-1"
        id="guide583366"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="169.45635,101.93167"
+       orientation="1,0"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="556.22788,132.83376"
+       orientation="0,-1"
+       id="guide14"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="Page 1"
-     transform="matrix(1.3333333,0,0,-1.3333333,-792.99633,314.61182)">
+     transform="matrix(1.3333333,0,0,-1.3333333,-792.99633,316.91209)">
     <g
        id="g6176"
        transform="scale(0.1)">
@@ -51399,494 +51411,448 @@
       </g>
     </g>
     <g
-       id="g30237">
+       id="g17">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#f7f686;stroke-width:2.42244;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6524-4-6-4-9-2-0-9-4"
+         width="95.215561"
+         height="41.797569"
+         x="831.77393"
+         y="-194.99144"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-9-99"
+         x="879.38171"
+         y="-181.70793"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="879.38171"
+           y="-181.70793"
+           id="tspan124950-7">Deficyt budżetowy</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="879.38171"
+           y="-171.58095"
+           id="tspan31935">maleje (lub nadwyżka</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="879.38171"
+           y="-161.45395"
+           id="tspan31937">budżetowa rośnie)</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#f7f686;stroke-width:2.42244;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6524-4-6-4-9-2-0-7"
+         width="95.215332"
+         height="41.79771"
+         x="595.9585"
+         y="-194.99152"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-49"
+         x="643.56616"
+         y="-182.01262"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="643.56616"
+           y="-182.01262"
+           id="tspan124944-7">Deficyt budżetowy</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="643.56616"
+           y="-171.88564"
+           id="tspan31917">rośnie (lub nadwyżka</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="643.56616"
+           y="-161.75864"
+           id="tspan31919">budżetowa maleje)</tspan></text>
       <g
-         id="g643942">
-        <g
-           id="g31981"
-           transform="translate(4.7366191,4.9439996)">
-          <rect
-             style="fill:none;fill-opacity:1;stroke:#f7f686;stroke-width:2.68038;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6524-4-6-4-9-2-0-9-4"
-             width="117.29638"
-             height="41.539623"
-             x="875.06934"
-             y="-189.91847"
-             transform="scale(1,-1)" />
-          <text
-             xml:space="preserve"
-             style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-             id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-9-99"
-             x="933.53784"
-             y="-176.76393"
-             transform="scale(1,-1)"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="933.53784"
-               y="-176.76393"
-               id="tspan124950-7">Deficyt budżetowy maleje</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="933.53784"
-               y="-166.63695"
-               id="tspan31935">(lub nadwyżka</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="933.53784"
-               y="-156.50995"
-               id="tspan31937">budżetowa rośnie)</tspan></text>
-        </g>
-        <g
-           id="g32007">
-          <rect
-             style="fill:none;fill-opacity:1;stroke:#f7f686;stroke-width:2.68038;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6524-4-6-4-9-2-0-7"
-             width="117.29642"
-             height="41.539761"
-             x="596.08746"
-             y="-194.86255"
-             transform="scale(1,-1)" />
-          <text
-             xml:space="preserve"
-             style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-             id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-49"
-             x="654.55597"
-             y="-181.83881"
-             transform="scale(1,-1)"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="654.55597"
-               y="-181.83881"
-               id="tspan124944-7">Deficyt budżetowy rośnie</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="654.55597"
-               y="-171.71182"
-               id="tspan31917">(lub nadwyżka</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="654.55597"
-               y="-161.58482"
-               id="tspan31919">budżetowa maleje)</tspan></text>
-        </g>
-        <g
-           id="g31974">
-          <rect
-             style="fill:none;fill-opacity:1;stroke:#94d38b;stroke-width:2.35775;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6524-4-6-4-9-2-0-1-9"
-             width="117.619"
-             height="32.053543"
-             x="746.20789"
-             y="-234.78"
-             transform="scale(1,-1)" />
-          <text
-             xml:space="preserve"
-             style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-             id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-9-4"
-             x="804.83771"
-             y="-221.6097"
-             transform="scale(1,-1)"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="804.83771"
-               y="-221.6097"
-               id="tspan124946-7">Krajowe inwestycje</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="804.83771"
-               y="-211.48271"
-               id="tspan31923">prywatne maleją</tspan></text>
-        </g>
-        <g
-           id="g31968"
-           transform="translate(0,0.3096995)">
-          <rect
-             style="fill:none;fill-opacity:1;stroke:#d88ebf;stroke-width:2.6501;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6524-4-6-4-9-2-0-8-3"
-             width="117.32665"
-             height="31.761396"
-             x="746.35406"
-             y="-186.48535"
-             transform="scale(1,-1)" />
-          <text
-             xml:space="preserve"
-             style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-             id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-4-8"
-             x="804.85529"
-             y="-173.28729"
-             transform="scale(1,-1)"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="804.85529"
-               y="-173.28729"
-               id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-9-2">Oszczędności</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="804.85529"
-               y="-163.16031"
-               id="tspan31925">prywatne rosną</tspan></text>
-        </g>
-        <g
-           id="g31962"
-           transform="translate(-7.6293945e-6,-6.3566217)">
-          <rect
-             style="fill:none;fill-opacity:1;stroke:#90cbf0;stroke-width:2.68037;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6524-4-6-4-9-2-0-3-5"
-             width="117.29639"
-             height="41.539631"
-             x="746.3692"
-             y="-145.29756"
-             transform="scale(1,-1)" />
-          <text
-             xml:space="preserve"
-             style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-             id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-1-24"
-             x="804.83771"
-             y="-132.27388"
-             transform="scale(1,-1)"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="804.83771"
-               y="-132.27388"
-               id="tspan124948-7">Deficyt handlowy rośnie</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="804.83771"
-               y="-122.14689"
-               id="tspan31931">(lub nadwyżka</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="804.83771"
-               y="-112.0199"
-               id="tspan31951">handlowa maleje)</tspan></text>
-        </g>
-        <g
-           id="g31987"
-           transform="translate(15.390279)">
-          <rect
-             style="fill:none;fill-opacity:1;stroke:#94d38b;stroke-width:2.35775;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6524-4-6-4-9-2-0-93-6"
-             width="117.619"
-             height="32.053543"
-             x="1014.5361"
-             y="-234.78"
-             transform="scale(1,-1)" />
-          <text
-             xml:space="preserve"
-             style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-             id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-7-6"
-             x="1073.1659"
-             y="-221.6097"
-             transform="scale(1,-1)"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="1073.1659"
-               y="-221.6097"
-               id="tspan124952-9">Krajowe inwestycje</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="1073.1659"
-               y="-211.48271"
-               id="tspan31941">prywatne rosną</tspan></text>
-        </g>
-        <g
-           id="g31993"
-           transform="translate(15.390209,0.30969834)">
-          <rect
-             style="fill:none;fill-opacity:1;stroke:#d88ebf;stroke-width:2.6501;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6524-4-6-4-9-2-0-8-8-7"
-             width="117.32665"
-             height="31.761396"
-             x="1014.6823"
-             y="-186.48535"
-             transform="scale(1,-1)" />
-          <text
-             xml:space="preserve"
-             style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-             id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-8-8"
-             x="1073.1835"
-             y="-173.28729"
-             transform="scale(1,-1)"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="1073.1835"
-               y="-173.28729"
-               id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-7-3">Oszczędności</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="1073.1835"
-               y="-163.16031"
-               id="tspan31943">prywatne maleją</tspan></text>
-        </g>
-        <g
-           id="g32000"
-           transform="translate(15.390269,-6.3566217)">
-          <rect
-             style="fill:none;fill-opacity:1;stroke:#90cbf0;stroke-width:2.68037;stroke-dasharray:none;stroke-opacity:1"
-             id="rect6524-4-6-4-9-2-0-31-8"
-             width="117.29639"
-             height="41.539631"
-             x="1014.6974"
-             y="-145.29756"
-             transform="scale(1,-1)" />
-          <text
-             xml:space="preserve"
-             style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-             id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-0-8"
-             x="1073.1659"
-             y="-132.14302"
-             transform="scale(1,-1)"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="1073.1659"
-               y="-132.14302"
-               id="tspan124954-8">Deficyt handlowy maleje</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="1073.1659"
-               y="-122.01603"
-               id="tspan31947">(lub nadwyżka</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-               x="1073.1659"
-               y="-111.88904"
-               id="tspan31953">handlowa rośnie)</tspan></text>
-        </g>
+         id="g14"
+         transform="translate(0,-0.39397686)">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#94d38b;stroke-width:2.12781;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6524-4-6-4-9-2-0-1-9"
+           width="95.510193"
+           height="32.14946"
+           x="725.91107"
+           y="-237.01414"
+           transform="scale(1,-1)" />
         <text
            xml:space="preserve"
            style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-           id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-80-53"
-           x="804.85919"
-           y="-191.85143"
+           id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-9-4"
+           x="773.48651"
+           y="-223.79588"
            transform="scale(1,-1)"><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-             x="804.85919"
-             y="-191.85143"
-             id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-42-23">lub</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-           id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-80-5-3"
-           x="804.85919"
-           y="-144.01245"
-           transform="scale(1,-1)"><tspan
+             x="773.48651"
+             y="-223.79588"
+             id="tspan124946-7">Krajowe inwestycje</tspan><tspan
              sodipodi:role="line"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-             x="804.85919"
-             y="-144.01245"
-             id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-42-2-3">lub</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-           id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-80-9-3"
-           x="1088.5776"
-           y="-191.85143"
-           transform="scale(1,-1)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-             x="1088.5776"
-             y="-191.85143"
-             id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-42-0-50">lub</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-           id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-80-2-9"
-           x="1088.5776"
-           y="-144.01245"
-           transform="scale(1,-1)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-             x="1088.5776"
-             y="-144.01245"
-             id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-42-8-4">lub</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-           id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-42-1"
-           x="599.63202"
-           y="-97.115814"
-           transform="scale(1,-1)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-             x="599.63202"
-             y="-97.115814"
-             id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-2-1">(a)</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
-           id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-2-2"
-           x="883.43842"
-           y="-97.115814"
-           transform="scale(1,-1)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-             x="883.43842"
-             y="-97.115814"
-             id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-05-7">(b)</tspan></text>
-        <g
-           id="g115541-7-21"
-           transform="rotate(24.23737,206.08869,1724.6792)">
-          <path
-             style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             d="m 44.487179,120.3803 c 14.630639,13.06684 25.86294,9.71846 40.243249,7.2608"
-             id="path20850-6-3-8-5-1-74"
-             sodipodi:nodetypes="cc" />
-          <path
-             sodipodi:type="star"
-             style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-             id="path34371-8-2-2-7-44"
-             inkscape:flatsided="false"
-             sodipodi:sides="3"
-             sodipodi:cx="250.18217"
-             sodipodi:cy="826.65588"
-             sodipodi:r1="9.2130251"
-             sodipodi:r2="4.6065125"
-             sodipodi:arg1="0.52359878"
-             sodipodi:arg2="1.5707963"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
-             transform="matrix(0.0997888,0.55374893,-0.55374893,0.0997888,513.30918,-92.651842)"
-             inkscape:transform-center-y="-2.3162573"
-             inkscape:transform-center-x="0.21224217" />
-        </g>
-        <g
-           id="g115541-7-2-0"
-           transform="matrix(0.91185256,-0.41051786,-0.41051786,-0.91185256,726.17779,280.76236)">
-          <path
-             style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             d="m 44.487179,120.3803 c 14.630639,13.06684 25.86294,9.71846 40.243249,7.2608"
-             id="path20850-6-3-8-5-1-7-1"
-             sodipodi:nodetypes="cc" />
-          <path
-             sodipodi:type="star"
-             style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-             id="path34371-8-2-2-7-1-2"
-             inkscape:flatsided="false"
-             sodipodi:sides="3"
-             sodipodi:cx="250.18217"
-             sodipodi:cy="826.65588"
-             sodipodi:r1="9.2130251"
-             sodipodi:r2="4.6065125"
-             sodipodi:arg1="0.52359878"
-             sodipodi:arg2="1.5707963"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
-             transform="matrix(0.0997888,0.55374893,-0.55374893,0.0997888,513.30918,-92.651842)"
-             inkscape:transform-center-y="-2.3162573"
-             inkscape:transform-center-x="0.21224217" />
-        </g>
-        <g
-           id="g583051-1"
-           transform="translate(617.91343,319.16147)">
-          <path
-             sodipodi:type="star"
-             style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-             id="path34371-5-5-8-3-3"
-             inkscape:flatsided="false"
-             sodipodi:sides="3"
-             sodipodi:cx="250.18217"
-             sodipodi:cy="826.65588"
-             sodipodi:r1="9.2130251"
-             sodipodi:r2="4.6065125"
-             sodipodi:arg1="0.52359878"
-             sodipodi:arg2="1.5707963"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
-             transform="matrix(0.48728509,0.28133418,0.28133418,-0.48728509,-225.71855,187.36349)"
-             inkscape:transform-center-y="-3.9385306e-05"
-             inkscape:transform-center-x="-1.7279578" />
-          <path
-             style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.41376;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             d="M 130.13208,-145.06881 H 99.368725"
-             id="path55496-4-6-8-8-06"
-             sodipodi:nodetypes="cc" />
-        </g>
-        <g
-           id="g115541-7-0-1"
-           transform="rotate(24.23737,347.94793,2385.3422)">
-          <path
-             style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             d="m 44.487179,120.3803 c 14.630639,13.06684 25.86294,9.71846 40.243249,7.2608"
-             id="path20850-6-3-8-5-1-5-0"
-             sodipodi:nodetypes="cc" />
-          <path
-             sodipodi:type="star"
-             style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-             id="path34371-8-2-2-7-4-6"
-             inkscape:flatsided="false"
-             sodipodi:sides="3"
-             sodipodi:cx="250.18217"
-             sodipodi:cy="826.65588"
-             sodipodi:r1="9.2130251"
-             sodipodi:r2="4.6065125"
-             sodipodi:arg1="0.52359878"
-             sodipodi:arg2="1.5707963"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
-             transform="matrix(0.0997888,0.55374893,-0.55374893,0.0997888,513.30918,-92.651842)"
-             inkscape:transform-center-y="-2.3162573"
-             inkscape:transform-center-x="0.21224217" />
-        </g>
-        <g
-           id="g115541-7-2-2-9"
-           transform="matrix(0.91185256,-0.41051786,-0.41051786,-0.91185256,1009.8962,280.76236)">
-          <path
-             style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             d="m 44.487179,120.3803 c 14.630639,13.06684 25.86294,9.71846 40.243249,7.2608"
-             id="path20850-6-3-8-5-1-7-3-3"
-             sodipodi:nodetypes="cc" />
-          <path
-             sodipodi:type="star"
-             style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-             id="path34371-8-2-2-7-1-1-9"
-             inkscape:flatsided="false"
-             sodipodi:sides="3"
-             sodipodi:cx="250.18217"
-             sodipodi:cy="826.65588"
-             sodipodi:r1="9.2130251"
-             sodipodi:r2="4.6065125"
-             sodipodi:arg1="0.52359878"
-             sodipodi:arg2="1.5707963"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
-             transform="matrix(0.0997888,0.55374893,-0.55374893,0.0997888,513.30918,-92.651842)"
-             inkscape:transform-center-y="-2.3162573"
-             inkscape:transform-center-x="0.21224217" />
-        </g>
-        <g
-           id="g583051-7-2"
-           transform="translate(901.63189,319.16146)">
-          <path
-             sodipodi:type="star"
-             style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-             id="path34371-5-5-8-3-2-9"
-             inkscape:flatsided="false"
-             sodipodi:sides="3"
-             sodipodi:cx="250.18217"
-             sodipodi:cy="826.65588"
-             sodipodi:r1="9.2130251"
-             sodipodi:r2="4.6065125"
-             sodipodi:arg1="0.52359878"
-             sodipodi:arg2="1.5707963"
-             inkscape:rounded="0"
-             inkscape:randomized="0"
-             d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
-             transform="matrix(0.48728509,0.28133418,0.28133418,-0.48728509,-225.71855,187.36349)"
-             inkscape:transform-center-y="-3.9385306e-05"
-             inkscape:transform-center-x="-1.7279578" />
-          <path
-             style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.41376;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             d="M 130.13208,-145.06881 H 99.368725"
-             id="path55496-4-6-8-8-0-4"
-             sodipodi:nodetypes="cc" />
-        </g>
+             x="773.48651"
+             y="-213.6689"
+             id="tspan31923">prywatne maleją</tspan></text>
       </g>
+      <g
+         id="g15">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#d88ebf;stroke-width:2.39159;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6524-4-6-4-9-2-0-8-3"
+           width="95.246414"
+           height="31.863604"
+           x="726.03259"
+           y="-190.02446"
+           transform="scale(1,-1)" />
+        <text
+           xml:space="preserve"
+           style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+           id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-4-8"
+           x="773.49371"
+           y="-176.7753"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+             x="773.49371"
+             y="-176.7753"
+             id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-9-2">Oszczędności</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+             x="773.49371"
+             y="-166.64832"
+             id="tspan31925">prywatne rosną</tspan></text>
+      </g>
+      <g
+         id="g16"
+         transform="translate(0,2.5127182)">
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#90cbf0;stroke-width:2.41837;stroke-dasharray:none;stroke-opacity:1"
+           id="rect6524-4-6-4-9-2-0-3-5"
+           width="95.219627"
+           height="41.656036"
+           x="726.04492"
+           y="-141.05176"
+           transform="scale(1,-1)" />
+        <text
+           xml:space="preserve"
+           style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+           id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-1-24"
+           x="773.65472"
+           y="-128.14371"
+           transform="scale(1,-1)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+             x="773.65472"
+             y="-128.14371"
+             id="tspan124948-7">Deficyt handlowy</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+             x="773.65472"
+             y="-118.01672"
+             id="tspan31931">rośnie (lub nadwyżka</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+             x="773.65472"
+             y="-107.88972"
+             id="tspan31951">handlowa maleje)</tspan></text>
+      </g>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#94d38b;stroke-width:2.12782;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6524-4-6-4-9-2-0-93-6"
+         width="95.510185"
+         height="32.149464"
+         x="961.7077"
+         y="-236.62016"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-7-6"
+         x="1009.2717"
+         y="-223.4019"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="1009.2717"
+           y="-223.4019"
+           id="tspan124952-9">Krajowe inwestycje</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="1009.2717"
+           y="-213.27492"
+           id="tspan31941">prywatne rosną</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#d88ebf;stroke-width:2.39158;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6524-4-6-4-9-2-0-8-8-7"
+         width="95.246422"
+         height="31.863607"
+         x="961.82922"
+         y="-190.02446"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-8-8"
+         x="1009.2892"
+         y="-176.7753"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="1009.2892"
+           y="-176.7753"
+           id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-7-3">Oszczędności</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="1009.2892"
+           y="-166.64832"
+           id="tspan31943">prywatne maleją</tspan></text>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#90cbf0;stroke-width:2.41837;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6524-4-6-4-9-2-0-31-8"
+         width="95.219627"
+         height="41.656044"
+         x="961.84167"
+         y="-143.56448"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-0-8"
+         x="1009.4514"
+         y="-130.35173"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="1009.4514"
+           y="-130.35173"
+           id="tspan124954-8">Deficyt handlowy</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="1009.4514"
+           y="-120.22474"
+           id="tspan31947">maleje (lub nadwyżka</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="1009.4514"
+           y="-110.09775"
+           id="tspan31953">handlowa rośnie)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-80-53"
+         x="776.04291"
+         y="-194.33353"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="776.04291"
+           y="-194.33353"
+           id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-42-23">lub</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-80-5-3"
+         x="776.04291"
+         y="-147.88695"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="776.04291"
+           y="-147.88695"
+           id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-42-2-3">lub</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-80-9-3"
+         x="1009.3046"
+         y="-194.33353"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="1009.3046"
+           y="-194.33353"
+           id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-42-0-50">lub</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-80-2-9"
+         x="1009.3046"
+         y="-147.88695"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="1009.3046"
+           y="-147.88695"
+           id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-42-8-4">lub</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-42-1"
+         x="599.63202"
+         y="-101.75394"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="599.63202"
+           y="-101.75394"
+           id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-2-1">(a)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+         id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-2-02-2-2"
+         x="835.53534"
+         y="-101.75394"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
+           x="835.53534"
+           y="-101.75394"
+           id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-8-7-05-7">(b)</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.34848;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 694.55532,195.49067 c 6.43585,17.95123 15.8085,19.51167 27.20212,23.18017"
+         id="path20850-6-3-8-5-1-74"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:type="star"
+         style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path34371-8-2-2-7-44"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="250.18217"
+         sodipodi:cy="826.65588"
+         sodipodi:r1="9.2130251"
+         sodipodi:r2="4.6065125"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
+         transform="matrix(-0.13633115,0.54590246,-0.54590246,-0.13633115,1202.9155,193.66074)"
+         inkscape:transform-center-y="-2.3162573"
+         inkscape:transform-center-x="0.21224217" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.34848;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 694.5553,152.69466 c 6.43586,-17.95123 15.80851,-19.51167 27.20213,-23.18017"
+         id="path20850-6-3-8-5-1-7-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:type="star"
+         style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path34371-8-2-2-7-1-2"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="250.18217"
+         sodipodi:cy="826.65588"
+         sodipodi:r1="9.2130251"
+         sodipodi:r2="4.6065125"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
+         transform="matrix(-0.13633115,-0.54590246,-0.54590246,0.13633115,1202.9155,154.52459)"
+         inkscape:transform-center-y="-2.3162573"
+         inkscape:transform-center-x="0.21224217" />
+      <path
+         sodipodi:type="star"
+         style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path34371-5-5-8-3-3"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="250.18217"
+         sodipodi:cy="826.65588"
+         sodipodi:r1="9.2130251"
+         sodipodi:r2="4.6065125"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
+         transform="matrix(0.48728509,0.28133418,0.28133418,-0.48728509,362.83505,506.52496)"
+         inkscape:transform-center-y="-3.9385306e-05"
+         inkscape:transform-center-x="-1.7279578" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.27095;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 719.34102,174.09266 h -24.8205"
+         id="path55496-4-6-8-8-06"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.34848;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 930.37097,195.49067 c 6.43585,17.95123 15.8085,19.51167 27.20212,23.18017"
+         id="path20850-6-3-8-5-1-74-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:type="star"
+         style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path34371-8-2-2-7-44-9"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="250.18217"
+         sodipodi:cy="826.65588"
+         sodipodi:r1="9.2130251"
+         sodipodi:r2="4.6065125"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
+         transform="matrix(-0.13633115,0.54590246,-0.54590246,-0.13633115,1438.7312,193.66074)"
+         inkscape:transform-center-y="-2.3162573"
+         inkscape:transform-center-x="0.21224217" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.34848;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 930.37095,152.69466 c 6.43586,-17.95123 15.80851,-19.51167 27.20213,-23.18017"
+         id="path20850-6-3-8-5-1-7-1-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:type="star"
+         style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path34371-8-2-2-7-1-2-6"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="250.18217"
+         sodipodi:cy="826.65588"
+         sodipodi:r1="9.2130251"
+         sodipodi:r2="4.6065125"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
+         transform="matrix(-0.13633115,-0.54590246,-0.54590246,0.13633115,1438.7312,154.52459)"
+         inkscape:transform-center-y="-2.3162573"
+         inkscape:transform-center-x="0.21224217" />
+      <path
+         sodipodi:type="star"
+         style="fill:#3f60b6;fill-opacity:1;stroke:#3f60b6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         id="path34371-5-5-8-3-3-2"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="250.18217"
+         sodipodi:cy="826.65588"
+         sodipodi:r1="9.2130251"
+         sodipodi:r2="4.6065125"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 258.16089,831.2624 -7.97872,0 -7.97871,0 3.98936,-6.90977 3.98935,-6.90977 3.98936,6.90977 z"
+         transform="matrix(0.48728509,0.28133418,0.28133418,-0.48728509,598.6507,506.52495)"
+         inkscape:transform-center-y="-3.9385306e-05"
+         inkscape:transform-center-x="-1.7279578" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#3f60b6;stroke-width:1.27095;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 955.15667,174.09266 h -24.8205"
+         id="path55496-4-6-8-8-06-1"
+         sodipodi:nodetypes="cc" />
     </g>
   </g>
 </svg>
