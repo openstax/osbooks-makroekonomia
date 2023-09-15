@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/de7a044c-cf57-4d1d-a699-f05cb61eabce</md:content-url>
     <md:title>14.2 Podniesienie poziomu życia w krajach</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T12:07:08.139128453+00:00</md:version>
-    <md:created>2023-09-15T12:07:08.139128453+00:00</md:created>
-    <md:revised>2023-09-15T12:07:08.139128453+00:00</md:revised>
+    <md:version>2023-09-15T14:29:17.118255839+00:00</md:version>
+    <md:created>2023-09-15T14:29:17.118255839+00:00</md:created>
+    <md:revised>2023-09-15T14:29:17.118255839+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -275,9 +275,9 @@
     </definition>
     <definition id="UUID19bcd4c1-96f7-4d63-556a-8c3b046e757d">
       <term id="UUID71460f3a-01bb-4044-6c43-5d934c0f4642">konsensus wzrostu gospodarczego</term>
-      <meaning id="UUID6c926776-cb81-42d7-509f-f73a2a99fbb2">
-        <para id="UUID40bad64e-0abb-455a-6bc8-004db71b0075">teoria wzrostu gospodarczego</para>
-      </meaning>
+      <seealso id="UUID6c926776-cb81-42d7-509f-f73a2a99fbb2">
+        <term id="UUID40bad64e-0abb-455a-6bc8-004db71b0075">teoria wzrostu gospodarczego</term>
+      </seealso>
     </definition>
     <definition id="Ch32Mod02GLO03">
       <term id="UUID3a3e8b16-0d5c-42b5-6c24-7a5e0f322ba8">kraj o wysokich dochodach (ang. <foreign xml:lang="en" id="UUIDb99cdf50-c213-4e65-5e35-d5eba89c3d1a">high-income country</foreign>)</term>

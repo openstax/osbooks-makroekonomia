@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/2ef7c970-3cfd-4051-ad28-23273f40144d</md:content-url>
     <md:title>13.3 Jak pożyczki zaciągane przez państwo wpływają na oszczędności obywateli</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T12:07:08.034175711+00:00</md:version>
-    <md:created>2023-09-15T12:07:08.034175711+00:00</md:created>
-    <md:revised>2023-09-15T12:07:08.034175711+00:00</md:revised>
+    <md:version>2023-09-15T14:29:17.091442466+00:00</md:version>
+    <md:created>2023-09-15T14:29:17.091442466+00:00</md:created>
+    <md:revised>2023-09-15T14:29:17.091442466+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -99,9 +99,9 @@
     </definition>
     <definition id="UUID205a06f7-f0d3-4451-7a16-b5592372e642">
       <term id="UUID1e6d3318-a317-41cd-50c8-d21fa9dcb98c">ekwiwalencja ricardiańska</term>
-      <meaning id="UUID78e71463-f3a1-49c7-46ba-b00aaf621512">
-        <para id="UUIDcd0726f3-f10a-41bd-7989-4d60fce9eba7">równoważność ricardiańska</para>
-      </meaning>
+      <seealso id="UUID78e71463-f3a1-49c7-46ba-b00aaf621512">
+        <term id="UUIDcd0726f3-f10a-41bd-7989-4d60fce9eba7">równoważność ricardiańska</term>
+      </seealso>
     </definition>
     <definition id="fs-idm52983008">
       <term id="UUID69f197f5-96d4-4607-76ac-2fc56d4fb1db">deficyty bliźniacze (ang. <foreign xml:lang="en" id="UUIDca2b35f9-202e-4c98-48a0-1b8e22589f4f">twin deficits</foreign>)</term>

@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/0ae33d0a-ffa2-4fa8-912d-c572553a2c6f</md:content-url>
     <md:title>2.4 Konwergencja dochodowa</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T12:07:05.363233793+00:00</md:version>
-    <md:created>2023-09-15T12:07:05.363233793+00:00</md:created>
-    <md:revised>2023-09-15T12:07:05.363233793+00:00</md:revised>
+    <md:version>2023-09-15T14:29:16.555136578+00:00</md:version>
+    <md:created>2023-09-15T14:29:16.555136578+00:00</md:created>
+    <md:revised>2023-09-15T14:29:16.555136578+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -54,9 +54,7 @@
 
 <tbody id="UUID704d5026-nbbv-ffff-8267db80e79e13e8">
 <row id="UUID704d5026-1627-a214-8267db80e79e13e8">
-<entry namest="col1" nameend="col3" align="left" id="UUID704d5026-ac3e-6b8e-7c08f21f7550b55c">„<emphasis effect="italics">Klub szybkiego wzrostu</emphasis>”<emphasis effect="italics"> (dynamika na poziomie co najmniej 5% rocznie w obu okresach)</emphasis></entry>
-<entry id="UUID704d5026-dsdd-gtrr-14463c6367cf7c73" />
-<entry id="UUID704d5026-44re-ytyy-8edaa032d9f60e60" /></row>
+<entry namest="col1" nameend="col3" align="left" id="UUID704d5026-ac3e-6b8e-7c08f21f7550b55c">„<emphasis effect="italics">Klub szybkiego wzrostu</emphasis>”<emphasis effect="italics"> (dynamika na poziomie co najmniej 5% rocznie w obu okresach)</emphasis></entry></row>
 
 <row id="UUID704d5026-74c6-84c3-257ac2c991e4e5fe">
 <entry id="UUID704d5026-fa50-98b0-14463c6367cf7c73">Chiny</entry>
@@ -104,9 +102,7 @@
 <entry id="UUID704d5026-7utr-7753-8edaa032d9f60e60" /></row>
 
 <row id="UUID704d5026-b1c6-fe53-974b9971982216fd">
-<entry namest="col1" nameend="col3" align="left" id="UUID704d5026-be6e-fc60-fe6aa4276c5c6bca">„<emphasis effect="italics">Klub powolnego wzrostu</emphasis>”<emphasis effect="italics"> (dynamika na poziomie co najwyżej 2,5% rocznie w obu okresach)</emphasis></entry>
-<entry id="UUID704d5026-4few-jg56-8edaa032d9f60e60" />
-<entry id="UUID704d5026-t578-ffgh-8edaa032d9f60e60" /></row>
+<entry namest="col1" nameend="col3" align="left" id="UUID704d5026-be6e-fc60-fe6aa4276c5c6bca">„<emphasis effect="italics">Klub powolnego wzrostu</emphasis>”<emphasis effect="italics"> (dynamika na poziomie co najwyżej 2,5% rocznie w obu okresach)</emphasis></entry></row>
 
 <row id="UUID704d5026-37c3-d0f1-f5f923ccff5acc75">
 <entry id="UUID704d5026-df18-066a-c456ec6780ba8a0c">Francja</entry>
@@ -154,9 +150,7 @@
 <entry id="UUID704d5026-50ac-5bfc-eed1b29acb334d5c">2,0%</entry></row>
 
 <row id="UUID704d5026-ece6-ab3c-7e63d5dcbb11cec6">
-<entry namest="col1" nameend="col3" align="left" id="UUID704d5026-7c73-01c5-46e3684221321b11"><emphasis effect="italics">Uśrednione dane dla całego świata</emphasis></entry>
-<entry id="UUID704d5026-a13f-7345-8edaa032d9f60e60" />
-<entry id="UUID704d5026-t567-3wr4-8edaa032d9f60e60" /></row>
+<entry namest="col1" nameend="col3" align="left" id="UUID704d5026-7c73-01c5-46e3684221321b11"><emphasis effect="italics">Uśrednione dane dla całego świata</emphasis></entry></row>
 
 <row id="UUID704d5026-1f82-9930-274fff27b17ef454">
 <entry id="UUID704d5026-a13f-7b2f-8edaa032d9f60e60">Kraje o wysokim dochodzie</entry><entry id="UUID704d5026-8294-bae5-9a0ec73f475c1dcb">2,8%</entry>

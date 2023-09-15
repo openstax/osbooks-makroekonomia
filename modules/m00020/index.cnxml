@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/5c250576-20b9-4fd2-b9a6-0559e0d714d7</md:content-url>
     <md:title>4.2 Jak mierzyć zmianę kosztów utrzymania?</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T12:07:05.800969762+00:00</md:version>
-    <md:created>2023-09-15T12:07:05.800969762+00:00</md:created>
-    <md:revised>2023-09-15T12:07:05.800969762+00:00</md:revised>
+    <md:version>2023-09-15T14:29:16.629097173+00:00</md:version>
+    <md:created>2023-09-15T14:29:16.629097173+00:00</md:created>
+    <md:revised>2023-09-15T14:29:16.629097173+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -54,22 +54,7 @@
       <para id="UUID37e029ea-02ab-44fa-704c-ec5473f9db7e">Głównym źródłem danych o rozchodach (wydatkach) każdego badanego gospodarstwa domowego, które to dane są wykorzystywane do opracowania systemu wag, jest prowadzona przez nie „książeczka budżetowa” (w każdym miesiącu badanych jest ok. 3,1 tys. gospodarstw domowych) w formie papierowej lub elektronicznej przez miesiąc oraz papierowe paragony dostarczane ankieterowi przez gospodarstwa domowe prowadzące książeczkę. Książeczkę budżetową w formie papierowej wypełnia ok. 40% badanych gospodarstw domowych, w formie elektronicznej ok. 2%, zaś ok. 58% gospodarstw przekazuje informacje o swoich wydatkach na konkretne towary i usługi konsumpcyjne w postaci paragonów. Dodatkowym źródłem jest kwestionariusz „Karta statystyczna gospodarstwa domowego” (ujmuje wydatki związane z użytkowaniem mieszkania lub domu). Statystycy dzielą wydatki konsumpcyjne na 13 głównych grup (widocznych poniżej). Koszyk dóbr w CPI składa się ostatecznie z ok. 1,5 tys. produktów.</para>
       <para id="UUID445fbba0-b8d5-445b-4d83-c8c690977c70">(Źródło: https://stat.gov.pl/dla-mediow/komunikaty-prasowe/wskaznik-cen-towarow-i-uslug-konsumpcyjnych-pot-inflacja,100,1.html)</para>
       <para id="UUIDe9f65b20-1f73-4fd7-4dc0-c1d30489c0ec" />
-      <para id="UUID13e9b29e-6333-4418-6f1c-9eb349a74f3b"><emphasis effect="bold">Trzynaście głównych kategorii we wskaźniku cen towarów i usług konsumpcyjnych.</emphasis> W nawiasach podano wagi kategorii produktów</para>
-      <para id="UUIDce2c5638-868d-4bb9-6c69-fcfd4611041d">Żywność i napoje bezalkoholowe (26,5%)</para>
-      <para id="UUID48f62e3f-01b9-42f0-5248-4f557c0a3185">Napoje alkoholowe, wyroby tytoniowe i narkotyki (2,8%)</para>
-      <para id="UUID40787bcd-bea9-4ee5-5213-42b6722c02b3">Odzież i obuwie (4,5%)</para>
-      <para id="UUID3f337590-e7fb-41cf-5752-962690f5079d">Użytkowanie mieszkania lub domu i nośniki energii (19,1%)</para>
-      <para id="UUIDb7959917-9c97-480c-5a69-793f8f4c0649">Wyposażenie mieszkania i prowadzenie gospodarstwa domowego (5,7%)</para>
-      <para id="UUID0ebf2c48-57ab-4626-75a3-4dff86c84415">Zdrowie (w tym wydatki na wyroby farmaceutyczne) (5,7%)</para>
-      <para id="UUIDd295e9cf-5298-4355-570e-ec8ab1f41452">Transport (9,5%)</para>
-      <para id="UUID1bcc1717-7d67-4510-6d21-9cbffdfba96c">Łączność (4,9%)</para>
-      <para id="UUID728656ef-1b2b-4cef-48b6-c6294de55f57">Rekreacja i kultura (6,1%)</para>
-      <para id="UUIDfb35793e-49c9-4a27-571f-544aab24a154">Edukacja (1,2%)</para>
-      <para id="UUID3cf80741-b088-4f9a-6ad5-3614f547dc0a">Restauracje i hotele (4,2%)</para>
-      <para id="UUID27ec025d-8e43-4104-555b-f6e73f292341">Pozostałe towary i usługi (w tym np. higiena osobista) (6,2%)</para>
-      <para id="UUID278b0e4c-fa5f-4664-76b5-85ab6b1ac5cc">Wydatki pozostałe (w tym np. dary przekazane innym gospodarstwom domowym) (3,6%)</para>
-      <para id="UUIDfaad1c94-bc08-4d73-7761-8a64ca01d588" />
-      <para id="UUIDa657efb1-052d-4b08-5ece-8674a95f0492">Dysponując danymi na temat cen towarów i usług konsumpcyjnych oraz struktury wydatków gospodarstw domowych, statystycy obliczają wskaźnik ilustrujący tempo zmian poziomu cen wszystkich dóbr i usług, na które przeciętne gospodarstwo domowe wydaje swoje dochody.</para>
+      <para id="UUID13e9b29e-6333-4418-6f1c-9eb349a74f3b"><emphasis effect="bold">Trzynaście głównych kategorii we wskaźniku cen towarów i usług konsumpcyjnych.</emphasis> Dysponując danymi na temat cen towarów i usług konsumpcyjnych oraz struktury wydatków gospodarstw domowych, statystycy obliczają wskaźnik ilustrujący tempo zmian poziomu cen wszystkich dóbr i usług, na które przeciętne gospodarstwo domowe wydaje swoje dochody.</para>
       <figure id="CNX_Econ_C22_009">
         <title id="UUID852ab197-f81f-417a-4536-0754f88458f1">Wagi kategorii produktów stosowane przy obliczaniu wskaźnika cen towarów i usług konsumpcyjnych (rok 2021)</title>
         <media alt="Wykres kołowy pokazuje względną wielkość wydatków na każdą z 13 kategorii rozróżnianych i wykorzystywanych do obliczania wskaźnika cen towarów i usług konsumpcyjnych przez GUS. Podmieniłem dane w pliku Excela, tak, że wykres jest w zasadzie gotowy Wykres trzeba przekształcić w taki sposób, aby uwzględniał kategorie wykorzystywane w Polsce i udział wydatków na poszczególne kategorie istniejący w Polsce (procenty przy każdej kategorii powyżej). Po wklejeniu wykresu wartości w procentach należy usunąć z tekstu." id="fs-idp35965808">

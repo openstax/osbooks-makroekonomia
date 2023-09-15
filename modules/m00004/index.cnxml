@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/7dac7ead-92a8-47ea-9afa-27cc40ba3cb9</md:content-url>
     <md:title>1.2 Przeliczanie wartości nominalnych na realne</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T12:07:04.764065206+00:00</md:version>
-    <md:created>2023-09-15T12:07:04.764065206+00:00</md:created>
-    <md:revised>2023-09-15T12:07:04.764065206+00:00</md:revised>
+    <md:version>2023-09-15T14:29:16.491081416+00:00</md:version>
+    <md:created>2023-09-15T14:29:16.491081416+00:00</md:created>
+    <md:revised>2023-09-15T14:29:16.491081416+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -77,9 +77,7 @@
         <mtd><msub><mtext>Deflator PKB</mtext><mtext>wart. nieprzeksz.</mtext></msub><mtext> × Realny PKB</mtext></mtd>
         <mtd /></mtr></mtable></math></equation>
       <para id="UUID6ce8f885-9e42-4923-67ee-753413ed53a0" />
-      <para id="UUIDb3373484-bd9e-4e96-5413-da36e4fdc348">Z matematycznego punktu widzenia deflator PKB może przyjmować wartości mniejsze od jedności, takie jak 0,85, 0,79 czy 0,19. W powyższym wzorze oznaczamy je jako „wartości nieprzekształcone” deflatora PKB. Jednak zgodnie z powszechnie przyjętą konwencją podawane do publicznej wiadomości przez urzędy statystyczne wielkości deflatora PKB są zwyczajowo mnożone przez 100. Dalej będziemy posługiwać się właśnie tą konwencją. Czyli zamiast podawać wartości nieprzekształcone deflatora PKB (np. 0,19), podajemy, że deflator PKB wynosi 19 (bo 0,19 x 100). W konsekwencji powyższy wzór przyjmuje postać:</para>
-      <para id="UUID9b1c262d-d398-4b19-5198-7c573a6e8ca1" />
-      <para id="UUIDa52939bd-d8bd-43a5-790b-6a522c9ac624">A po przekształceniu realny PKB to:</para>
+      <para id="UUIDb3373484-bd9e-4e96-5413-da36e4fdc348">Z matematycznego punktu widzenia deflator PKB może przyjmować wartości mniejsze od jedności, takie jak 0,85, 0,79 czy 0,19. W powyższym wzorze oznaczamy je jako „wartości nieprzekształcone” deflatora PKB. Jednak zgodnie z powszechnie przyjętą konwencją podawane do publicznej wiadomości przez urzędy statystyczne wielkości deflatora PKB są zwyczajowo mnożone przez 100. W związku z czym:</para>
       <equation id="fs-idm29986897" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML">
         <mtable columnspacing="2px 2px" columnalign="right center">
           <mtr>
@@ -91,7 +89,7 @@
           </mtr>
         </mtable>
       </math></equation>
-      <para id="UUID269bacfc-ab17-4989-592a-ca3cfaeafd55">przerwa</para>
+      <para id="UUID7094f38a-6fbe-4204-4da2-aae3014d3194">Dalej posługujemy się właśnie tą konwencją. Czyli zamiast podawać wartości nieprzekształcone deflatora PKB (np. 0,19), piszemy, że deflator PKB wynosi 19 (bo 0,19 x 100 = 19). W konsekwencji powyższy wzór na nominalny PKB przyjmuje postać:</para>
       <equation id="fs-idm29986234" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML">
         <mtable columnspacing="2px 2px" columnalign="right center">
           <mtr>
@@ -106,9 +104,8 @@
           </mtr>
         </mtable>
       </math></equation>
-      <para id="UUID4548bd66-65fc-483d-53c2-ef7257597d47">przerwa</para>
+      <para id="UUID4548bd66-65fc-483d-53c2-ef7257597d47">A po przekształceniu realny PKB wynosi:</para>
       <equation id="fs-idp96946464" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Realny PKB</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>Nominalny PKB</mtext><mtext>Deflator PKB / 100</mtext></mfrac></mtd></mtr></mtable></math></equation>
-      <para id="UUID78e775a3-5cf5-4c30-427a-7225917760d6">przerwa</para>
       <para id="UUID9694ebea-4d8b-4a73-7068-d9acbc4a29cd">Przeczytaj poniższą <link target-id="fs-idm26553856" cmlnle:case="accusative" id="UUIDd3ca4575-c347-49b9-6d4d-cada15273844" />, aby przećwiczyć obliczanie realnego PKB.</para>
       <note type="note" id="fs-idm26553856" class="economics workout">
         <title id="UUIDd80737b8-692b-4a94-4725-f06b8967e6cf">Obliczanie realnego PKB</title>
