@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="2.8284273"
      inkscape:cx="118.97071"
-     inkscape:cy="38.006988"
+     inkscape:cy="94.575526"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -94,7 +94,7 @@
       <g
          id="g34616">
         <g
-           id="g2">
+           id="g3">
           <path
              d="m 29.3753,30.514479 v -3.9652"
              style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -223,12 +223,12 @@
                x="91.114677"
                y="-2.5077169"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-               id="tspan33073">Liczba dolarów amerykańskich</tspan><tspan
+               id="tspan1">Liczba dol. wymienianych</tspan><tspan
                sodipodi:role="line"
                x="91.114677"
                y="7.6192865"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-               id="tspan1">wymienianych na peso (w mld dol.)</tspan></text>
+               id="tspan3">na peso (w mld dol.)</tspan></text>
           <text
              xml:space="preserve"
              transform="scale(1,-1)"

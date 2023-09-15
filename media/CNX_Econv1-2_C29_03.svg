@@ -8,7 +8,7 @@
    height="625.96216"
    viewBox="0 0 461.41516 625.96217"
    sodipodi:docname="CNX_Econv1-2_C29_03.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="258.44753"
-     inkscape:cy="445.47727"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="201.52543"
+     inkscape:cy="514.06662"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -38,7 +38,9 @@
        y="0"
        id="page1507"
        width="461.41516"
-       height="625.96216" /><sodipodi:guide
+       height="625.96216"
+       margin="0"
+       bleed="0" /><sodipodi:guide
        position="68.247411,416.9067"
        orientation="0,-1"
        id="guide23548"
@@ -159,7 +161,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Page 1"
      transform="matrix(1.3333333,0,0,-1.3333333,18.613898,551.38704)"><g
-       id="g27538"><path
+       id="g1"><path
          d="m 36.574699,256.74869 v 123.81"
          style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path1537"
@@ -796,7 +798,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="318.48962"
            y="-7.5346446"
-           id="tspan70662">Ilość dolarów kanadyjskich</tspan><tspan
+           id="tspan70662">Liczba dolarów kanadyjskich</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="318.48962"
@@ -812,7 +814,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="77.238495"
            y="-7.5346446"
-           id="tspan70664">Ilość dolarów amerykańskich</tspan><tspan
+           id="tspan70664">Liczba dolarów amerykańskich</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="77.238495"

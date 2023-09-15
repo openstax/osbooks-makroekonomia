@@ -27,7 +27,7 @@
      showgrid="false"
      inkscape:zoom="2"
      inkscape:cx="120.25"
-     inkscape:cy="98.75"
+     inkscape:cy="178.75"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -133,7 +133,7 @@
        id="g2252"
        transform="translate(-0.70504456,-0.00218029)">
       <g
-         id="g4">
+         id="g1">
         <path
            d="m 31.5703,30.5141 v -3.964"
            style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -278,7 +278,7 @@
              x="95.879051"
              y="-2.545012"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-             id="tspan4">(liczba dolarów za 1 peso)</tspan></text>
+             id="tspan4">(liczba dol. za 1 peso)</tspan></text>
         <text
            xml:space="preserve"
            transform="scale(1,-1)"
