@@ -8,7 +8,7 @@
    height="266.14487"
    viewBox="0 0 548.22601 266.14487"
    sodipodi:docname="CNX_Econv1-2_C28_08.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,8 +26,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="150.9673"
-     inkscape:cy="62.225397"
+     inkscape:cx="239.35564"
+     inkscape:cy="102.17693"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -40,7 +40,9 @@
        y="0"
        id="page8"
        width="548.22601"
-       height="266.14487" />
+       height="266.14487"
+       margin="0"
+       bleed="0" />
     <sodipodi:guide
        position="297.72577,-8.4257554"
        orientation="0,-1"
@@ -148,7 +150,7 @@
      inkscape:label="Page 1"
      transform="matrix(1.3333333,0,0,-1.3333333,1.7964458,275.79462)">
     <g
-       id="g3885">
+       id="g1">
       <path
          d="M 35.9867,52.152 V 48.047"
          style="fill:none;stroke:#3f60b6;stroke-width:0.50025;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -328,7 +330,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="109.13992"
            y="-24.353554"
-           id="tspan4232-0-4-6-5-2-6-7-0-6">Produkcja (w cenach stałych; złote)</tspan></text>
+           id="tspan4232-0-4-6-5-2-6-7-0-6">Produkcja (w cenach stałych; zł)</tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
@@ -340,7 +342,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="330.18558"
            y="-24.370794"
-           id="tspan4232-0-4-6-5-2-6-7-0-6-31">Produkcja (w cenach stałych; złote)</tspan></text>
+           id="tspan4232-0-4-6-5-2-6-7-0-6-31">Produkcja (w cenach stałych; zł)</tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
@@ -473,14 +475,14 @@
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
          id="text20116-1-3-7-8-7-9-3-7-5-42-0-0-0-62-3"
-         x="287.75201"
+         x="290.19928"
          y="-8.9013853"
          transform="scale(1,-1)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:1"
-           x="289.0235"
+           x="291.47076"
            y="-8.9013853"
-           id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-5-3">(b) Restrykcyjna plityka pieniężna </tspan></text>
+           id="tspan4232-0-4-6-5-2-6-7-0-96-36-4-9-5-3">(b) Restrykcyjna polityka pieniężna </tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"

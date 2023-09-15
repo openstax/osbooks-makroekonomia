@@ -8,7 +8,7 @@
    height="327.78665"
    viewBox="0 0 605.5813 327.78664"
    sodipodi:docname="CNX_Econ_C28_014.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="101.5"
-     inkscape:cy="191"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="227.33483"
+     inkscape:cy="143.89623"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -40,7 +40,9 @@
        y="0"
        id="page37727"
        width="605.5813"
-       height="327.78665" />
+       height="327.78665"
+       margin="0"
+       bleed="0" />
     <sodipodi:guide
        position="266.92618,148.93054"
        orientation="1,0"
@@ -158,7 +160,7 @@
       <g
          id="g2864">
         <g
-           id="g2072">
+           id="g1">
           <path
              d="M 0,228.936 H 454.186"
              style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -322,7 +324,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
                x="340.75516"
                y="-232.63748"
-               id="tspan4232-0-4-6-5-2-6-7-4-7-6">Pasywa + Wartość netto</tspan></text>
+               id="tspan4232-0-4-6-5-2-6-7-4-7-6">Pasywa + wartość netto</tspan></text>
           <path
              d="M 0,142.936 H 454.186"
              style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -486,7 +488,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
                x="340.75516"
                y="-146.63748"
-               id="tspan4232-0-4-6-5-2-6-7-4-7-1">Pasywa + Wartość netto</tspan></text>
+               id="tspan4232-0-4-6-5-2-6-7-4-7-1">Pasywa + wartość netto</tspan></text>
           <path
              d="M 0,53.9359 H 454.186"
              style="fill:none;stroke:#3f60b6;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -650,7 +652,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
                x="340.75516"
                y="-57.637383"
-               id="tspan4232-0-4-6-5-2-6-7-4-7-2">Pasywa + Wartość netto</tspan></text>
+               id="tspan4232-0-4-6-5-2-6-7-4-7-2">Pasywa + wartość netto</tspan></text>
         </g>
       </g>
     </g>
