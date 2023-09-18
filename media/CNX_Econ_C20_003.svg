@@ -8,7 +8,7 @@
    height="445.70312"
    viewBox="0 0 395.3854 445.70313"
    sodipodi:docname="CNX_Econ_C20_003.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -713,8 +713,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.80764732"
-     inkscape:cx="144.24613"
-     inkscape:cy="255.06182"
+     inkscape:cx="71.194442"
+     inkscape:cy="161.58043"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -727,7 +727,9 @@
        y="0"
        id="page4024"
        width="395.38541"
-       height="445.70312" />
+       height="445.70312"
+       margin="0"
+       bleed="0" />
     <sodipodi:guide
        position="535.45108,990.66529"
        orientation="0,-1"
@@ -827,7 +829,7 @@
     <g
        id="g765">
       <g
-         id="g39237">
+         id="g1">
         <text
            xml:space="preserve"
            transform="scale(1,-1)"
@@ -839,7 +841,7 @@
              id="tspan8083-2-2-30-6-6-43-0-0-16-3-5"
              x="405.89328"
              y="422.43503"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">(a) Zagregowana funkcja produkcji, w której wynikiem jest wartość PKB.</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">(a) Zagregowana funkcja produkcji, w której wynikiem jest wartość PKB</tspan></text>
         <text
            xml:space="preserve"
            transform="scale(1,-1)"
@@ -851,7 +853,7 @@
              id="tspan8083-2-2-30-6-6-43-0-0-1-4-4-3"
              x="405.89279"
              y="581.71405"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">(b) Zagregowana funkcja produkcji, w której wynikiem jest PKB per capita.</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">(b) Zagregowana funkcja produkcji, w której wynikiem jest PKB per capita</tspan></text>
         <rect
            style="fill:none;fill-opacity:1;stroke:#90cbf0;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect6524-4-6-3-8"
