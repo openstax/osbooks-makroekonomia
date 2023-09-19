@@ -5,11 +5,11 @@
     <md:content-id>m00003</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/b9f1b3ea-5f31-497c-80da-e8d04b7e3ad4</md:content-url>
-    <md:title>1.1 PKB, czyli jak mierzyć gospodarkę?</md:title>
+    <md:title>1.1 PKB, czyli jak mierzyć kondycję gospodarki?</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-19T07:20:47.244311008+00:00</md:version>
-    <md:created>2023-09-19T07:20:47.244311008+00:00</md:created>
-    <md:revised>2023-09-19T07:20:47.244311008+00:00</md:revised>
+    <md:version>2023-09-19T13:06:03.344459692+00:00</md:version>
+    <md:created>2023-09-19T13:06:03.344459692+00:00</md:created>
+    <md:revised>2023-09-19T13:06:03.344459692+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -70,7 +70,7 @@
       <para id="UUID599d2bb2-5512-46b9-702a-102bdfbfe491">Jeśli chcesz dowiedzieć się więcej o niezwykle skomplikowanym przedsięwzięciu, jakim jest liczenie amerykańskiego PKB, przeczytaj poniższą <link target-id="fs-idm64181600" cmlnle:case="accusative" id="UUID3a4fe2d2-6fe1-4623-7970-b5273a0a9f0f" />.</para>
       <note type="note" id="fs-idm64181600" class="clearup economics">
         <title id="UUID11c5f56d-4c7a-4057-57e3-73bf0cd6e57b">Jak statystycy obliczają PKB?</title>
-        <para id="fs-idp90395328">W Stanach Zjednoczonych ekonomiści z <term cmlnle:reference="Biuro Analiz Ekonomicznych" id="UUIDed831bf5-4e84-4a23-43a3-0dccd613f8b9">Biura Analiz Ekonomicznych</term> (ang. <foreign xml:lang="en" id="UUIDb35d6160-b8bb-43db-525f-d9846b528bef"><term cmlnle:reference="Bureau of Economic Analysis (BEA)" id="UUID2fa92a91-4088-4ee7-7919-1959a30ddba6">Bureau of Economic Analysis</term> – BEA</foreign>) w Departamencie Handlu agregują poszczególne składowe PKB pochodzące z różnych źródeł.</para>
+        <para id="fs-idp90395328">W Stanach Zjednoczonych ekonomiści z <term cmlnle:reference="Biuro Analiz Ekonomicznych" id="UUIDed831bf5-4e84-4a23-43a3-0dccd613f8b9">Biura Analiz Ekonomicznych</term> (ang. <foreign xml:lang="en" id="UUIDab0c7e17-6f27-4147-46d7-d7c47f2874c5"><term cxlxt:index="foreign" cmlnle:reference="Bureau of Economic Analysis (BEA)" id="UUID2fa92a91-4088-4ee7-7919-1959a30ddba6">Bureau of Economic Analysis (BEA)</term></foreign> w Departamencie Handlu agregują poszczególne składowe PKB pochodzące z różnych źródeł.</para>
         <para id="UUID343b39bb-1868-4f4f-5073-bbf5a959b5c4">Raz na pięć lat, tj. w drugim i siódmym roku każdej dekady, Biuro Spisu Ludności (Bureau of the Census) przeprowadza szczegółowy spis przedsiębiorstw w całych Stanach Zjednoczonych. W międzyczasie prowadzone są comiesięczne badania sprzedaży detalicznej. Następnie wartości te są korygowane o dane dotyczące handlu zagranicznego, aby uwzględnić eksport towarów wyprodukowanych w Stanach Zjednoczonych i sprzedanych za granicę oraz import towarów, które zostały wytworzone za granicą i kupione przez amerykańskie podmioty. Raz na dziesięć lat Biuro Spisu Ludności dokonuje kompleksowego badania sytuacji finansowej i mieszkaniowej gospodarstw domowych. Po odpowiednim zagregowaniu źródła te stanowią podstawę do oszacowania wielkości konsumpcji w gospodarce amerykańskiej.</para>
         <para id="UUIDd3ce45ec-1679-4f4f-66d5-cacb834c87da">W celu obliczenia wielkości inwestycji Biuro Spisu Ludności przeprowadza miesięczne badania budownictwa i roczne analizy wydatków na zakupy kapitału rzeczowego.</para>
         <para id="UUIDc72a3c31-1d31-4164-5e72-8d0dc341c391">Dane o wydatkach rządu federalnego dostarczane są przez amerykański Departament Skarbu. Informacje na temat wydatków na poziomie stanowym i lokalnym pochodzą z corocznych sprawozdań administracji tych szczebli. Ponieważ na wszystkich poziomach administracji duża część wydatków jest związana z zatrudnieniem pracowników do świadczenia usług publicznych, dane dotyczące takich wydatków można również zebrać za pośrednictwem list płac gromadzonych przez władze stanowe i fundusz ubezpieczeń społecznych.</para>
@@ -387,7 +387,7 @@
     <definition id="fs-idm76674080">
       <term id="UUIDc16f3a07-1cfa-415b-670f-0d3c85fd0bd2">nadwyżka handlowa (ang. <foreign xml:lang="en" id="UUID366d77cd-f64c-44a4-5e58-ebecc58d06e1">trade surplus</foreign>)</term>
       <meaning id="fs-idm81033696">
-        <para id="UUIDa4b39c18-4991-4668-63ab-d065c44a3039">sytuacja, gdy eksport danego kraju przewyższa import, dodatnia różnica między eksportem a importem </para>
+        <para id="UUIDa4b39c18-4991-4668-63ab-d065c44a3039">sytuacja, gdy eksport danego kraju przewyższa import, dodatnia różnica między eksportem a importem</para>
       </meaning>
     </definition>
   </glossary>

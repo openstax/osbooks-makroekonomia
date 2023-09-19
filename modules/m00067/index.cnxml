@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/62b38a1c-a3bd-46f8-ba2d-7fc9db50bfaf</md:content-url>
     <md:title>12.5 Practical Problems with Discretionary Fiscal Policy</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-19T07:20:51.207099720+00:00</md:version>
-    <md:created>2023-09-19T07:20:51.207099720+00:00</md:created>
-    <md:revised>2023-09-19T07:20:51.207099720+00:00</md:revised>
+    <md:version>2023-09-19T13:06:04.288434010+00:00</md:version>
+    <md:created>2023-09-19T13:06:04.288434010+00:00</md:created>
+    <md:revised>2023-09-19T13:06:04.288434010+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -23,18 +23,20 @@
     <md:uuid>62b38a1c-a3bd-46f8-ba2d-7fc9db50bfaf</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
-    <list id="list-00001">
-      <item id="UUIDb91ebc6a-e8b2-4e17-60f3-fbc17c690489">
-        <para id="UUIDae9b45db-3f4c-49d3-75e3-a79d3eecf6f1">Opisać, w jaki sposób polityka fiskalna i polityka pieniężna są ze sobą powiązane</para>
-      </item>
-      <item id="UUID7ef99bdd-7dec-4a26-753b-bc47fa2d032d">
-        <para id="UUIDbc21e3f0-4b64-48fe-4af5-34ce3e4580db">Wskazać trzy przyczyny opóźnień, które często występują przy rozwiązywaniu problemów gospodarczych</para>
-      </item>
-      <item id="UUIDd6fc6f3c-4c8a-4668-477b-2caddc7fedd9">
-        <para id="UUID6b4032bb-e751-47af-736d-d397025646a8">Zrozumieć prawne i polityczne wyzwania dotyczące mierzenia się z problemami ekonomicznymi</para>
-      </item>
-    </list>
+    <note type="note" id="UUIDd63cd9d9-8bf7-41f5-4bdc-178c9e7dba38" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUIDb91ebc6a-e8b2-4e17-60f3-fbc17c690489">
+          <para id="UUIDae9b45db-3f4c-49d3-75e3-a79d3eecf6f1">Opisać, w jaki sposób polityka fiskalna i polityka pieniężna są ze sobą powiązane</para>
+        </item>
+        <item id="UUID7ef99bdd-7dec-4a26-753b-bc47fa2d032d">
+          <para id="UUIDbc21e3f0-4b64-48fe-4af5-34ce3e4580db">Wskazać trzy przyczyny opóźnień, które często występują przy rozwiązywaniu problemów gospodarczych</para>
+        </item>
+        <item id="UUIDd6fc6f3c-4c8a-4668-477b-2caddc7fedd9">
+          <para id="UUID6b4032bb-e751-47af-736d-d397025646a8">Zrozumieć prawne i polityczne wyzwania dotyczące mierzenia się z problemami ekonomicznymi</para>
+        </item>
+      </list>
+    </note>
     <para id="fs-idm150117648">Na początku lat 60. XX w. wielu czołowych ekonomistów uważało, że problemy związane z cyklem koniunkturalnym, bezrobociem cyklicznym i inflacją należą już do przeszłości. 31 grudnia 1965 r. na okładce „Time’a”, najważniejszego wówczas magazynu informacyjnego w Stanach Zjednoczonych, znalazło się zdjęcie <term cxlxt:index="name" cmlnle:reference="John Maynard Keynes" cxlxt:name="Keynes, Johna Maynard" cxlxt:born="1883" cxlxt:died="1942" id="UUID7f7259a6-2575-4324-4995-770132ba1539">Johna Maynarda Keynesa</term>, a z opublikowanego w gazecie artykułu wynikało, że teorie keynesowskie wywarły „decydujący wpływ na światowe gospodarki”. W tekście pojawiło się stwierdzenie, że politycy gospodarczy „wykorzystywali teorie keynesowskie nie tylko po to, by uniknąć gwałtownych cykli koniunkturalnych z czasów przedwojennych, ale także po to, by osiągnąć fenomenalny wzrost gospodarczy i niezwykle stabilne ceny”.</para>
     <para id="UUIDeae362c4-0408-4e49-70ce-06e7f58ce781">Ten szczęśliwy konsensus nie trwał jednak długo. Gospodarka USA doświadczyła recesji od grudnia 1969 r. do listopada 1970 r., jeszcze głębszego załamania gospodarczego od listopada 1973 r. do marca 1975 r., a następnie podwójnej recesji od stycznia do czerwca 1980 r. i od lipca 1981 r. do listopada 1982 r. Oczywiście oznaczało to, że zarówno bezrobocie, jak i inflacja wciąż potrafiły bardzo szybko rosnąć. Najwyraźniej problemy polityki makroekonomicznej nie zostały rozwiązane ostatecznie. Kiedy ekonomiści zaczęli się zastanawiać, co poszło nie tak, zidentyfikowali szereg problemów, które sprawiają, że dyskrecjonalna polityka fiskalna jest trudniejsza, niż się wydawało w cechujących się optymizmem latach 60. XX w.</para>
     <section id="fs-idp66049168">

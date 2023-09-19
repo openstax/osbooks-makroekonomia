@@ -5,11 +5,11 @@
     <md:content-id>m00072</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/2ef7c970-3cfd-4051-ad28-23273f40144d</md:content-url>
-    <md:title>13.3 Jak pożyczki zaciągane przez państwo wpływają na oszczędności obywateli</md:title>
+    <md:title>13.3 Jak dług publiczny wpływają na oszczędności prywatne</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-19T07:20:51.474581639+00:00</md:version>
-    <md:created>2023-09-19T07:20:51.474581639+00:00</md:created>
-    <md:revised>2023-09-19T07:20:51.474581639+00:00</md:revised>
+    <md:version>2023-09-19T13:06:04.315969919+00:00</md:version>
+    <md:created>2023-09-19T13:06:04.315969919+00:00</md:created>
+    <md:revised>2023-09-19T13:06:04.315969919+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -35,7 +35,7 @@
       </list>
     </note>
     <para id="fs-idp2522384">Zmiana salda budżetu państwa może wpłynąć na prywatne oszczędności. Wyobraź sobie, że ludzie obserwują stan finansów publicznych i odpowiednio dostosowują do niego swoje oszczędności. Na przykład ilekroć rząd ma deficyt budżetowy, ludzie mogą rozumować w ten sposób: „Cóż, wyższy deficyt budżetowy oznacza, że w przyszłości będę po prostu płacić większe podatki, aby spłacić zadłużenie państwa, więc zacznę oszczędzać już teraz”. Jeśli rząd osiąga nadwyżkę budżetową, ludzie mogą pomyśleć: „Przy nadwyżce budżetowej (lub niskim deficycie budżetowym) stopy procentowe spadają, więc oszczędzanie jest mniej atrakcyjne. Co więcej, kraj dysponujący nadwyżką budżetową będzie mógł w przyszłości pozwolić sobie na obniżkę podatków. Nie będę teraz zawracać sobie głowy oszczędzaniem”.</para>
-    <para id="UUIDf0140814-d944-4e25-571e-22434bafe1b2">Teoria, że racjonalnie działające gospodarstwa domowe mogą dostosowywać swoje oszczędności do sytuacji sektora publicznego (salda budżetu państwa), jest znana jako <term id="UUIDb0d33d21-48d4-4773-4c87-17ce2929523f">równoważność ricardiańska</term> <term cmlnle:reference="ekwiwalencja ricardiańska " id="UUID36e60fdd-7b2d-46ae-7545-43af02760e41">(ekwiwalencja)</term> (ang. <foreign xml:lang="en" id="UUIDfbeda1ef-825a-4bfd-743f-ad2d28fbc03f"><term cxlxt:index="foreign" id="UUID257a78d8-4255-4d11-40e8-42a47b4f479c">Ricardian equivalence</term></foreign>). Idea ta ma naukowe korzenie w pracach słynnego ekonomisty <term cxlxt:index="name" cmlnle:reference="David Ricardo" cxlxt:name="Ricardo, David" cxlxt:born="1772" cxlxt:died="1823" id="UUID62825b92-864a-495c-42a1-2b230f042770">Davida Ricardo</term> (1772–1823). Jeśli równoważność ricardiańska jest całkowicie prawdziwa, to w równaniu przedstawiającym tożsamość oszczędności i inwestycji każda zmiana salda budżetu państwa będzie całkowicie zrekompensowana odpowiednią zmianą oszczędności prywatnych. W rezultacie zmiany zadłużenia państwa nie będą miały żadnego wpływu ani na inwestycje w kapitał rzeczowy, ani na bilans handlowy.</para>
+    <para id="UUIDf0140814-d944-4e25-571e-22434bafe1b2">Teoria, że racjonalnie działające gospodarstwa domowe mogą dostosowywać swoje oszczędności do sytuacji sektora publicznego (salda budżetu państwa), jest znana jako <term id="UUIDb0d33d21-48d4-4773-4c87-17ce2929523f">równoważność ricardiańska</term> <term cmlnle:reference="ekwiwalencja ricardiańska " id="UUID36e60fdd-7b2d-46ae-7545-43af02760e41">(ekwiwalencja)</term> (ang. <foreign xml:lang="en" id="UUIDfbeda1ef-825a-4bfd-743f-ad2d28fbc03f"><term cxlxt:index="foreign" id="UUID257a78d8-4255-4d11-40e8-42a47b4f479c">Ricardian equivalence</term></foreign>). Idea ta ma naukowe korzenie w pracach słynnego ekonomisty <term cxlxt:index="name" cxlxt:name="Ricardo, David" cxlxt:born="1772" cxlxt:died="1823" id="UUID62825b92-864a-495c-42a1-2b230f042770">Davida Ricardo</term> (1772–1823). Jeśli równoważność ricardiańska jest całkowicie prawdziwa, to w równaniu przedstawiającym tożsamość oszczędności i inwestycji każda zmiana salda budżetu państwa będzie całkowicie zrekompensowana odpowiednią zmianą oszczędności prywatnych. W rezultacie zmiany zadłużenia państwa nie będą miały żadnego wpływu ani na inwestycje w kapitał rzeczowy, ani na bilans handlowy.</para>
     <para id="fs-idm40538912">W rzeczywistości sektor prywatny tylko czasami i jedynie częściowo dostosowuje swoje oszczędności do salda budżetu państwa. <link target-id="CNX_Econ_C31_006" id="UUID8aa3a14a-7f40-43a7-4e88-e2f7b413cd6f" /> pokazuje saldo budżetu USA oraz stopę prywatnych oszczędności (obejmującą zarówno gospodarstwa domowe, jak i przedsiębiorstwa) po roku 1980. Związek między tymi wielkościami nie jest wcale oczywisty. Na przykład w połowie lat 80. XX w. deficyt budżetu państwa był dość duży, ale nie nastąpił odpowiadający mu wzrost prywatnych oszczędności. Kiedy jednak pod koniec lat 90. XX w. pojawiła się nadwyżka budżetowa, nastąpił równoczesny spadek prywatnych oszczędności. Gdy deficyty budżetowe w latach 2008–2009 stały się bardzo duże, można było dostrzec pewne oznaki wzrostu oszczędności. Badania empiryczne obejmujące gospodarkę Stanów Zjednoczonych sugerują, że wzrostowi zadłużenia państwa o 1 dolara towarzyszy wzrost prywatnych oszczędności o ok. 30 centów. Podobne wnioski wynikają z analizy przeprowadzonej przez Bank Światowy pod koniec lat 90. XX w. na danych obejmujących budżety państwa i prywatne oszczędności w wielu krajach na całym świecie.</para>
     <figure id="CNX_Econ_C31_006">
       <title id="UUIDcb2cf0d1-2866-4e8b-78ed-594bec9fe81c">Deficyt budżetu państwa i prywatne oszczędności w Stanach Zjednoczonych</title>
@@ -98,12 +98,9 @@
       <meaning id="fs-idm93873072">
         <para id="UUID4c619fb0-9709-4446-53cb-353249ad3802">teoria, zgodnie z którą racjonalne gospodarstwa domowe dostosowują swoje oszczędności do zmian poziomu zadłużenia państwa</para>
       </meaning>
-    </definition>
-    <definition id="UUID205a06f7-f0d3-4451-7a16-b5592372e642">
-      <term id="UUID1e6d3318-a317-41cd-50c8-d21fa9dcb98c">ekwiwalencja ricardiańska</term>
-      <meaning id="UUID78e71463-f3a1-49c7-46ba-b00aaf621512">
-        <para id="UUIDcd0726f3-f10a-41bd-7989-4d60fce9eba7">równoważność ricardiańska</para>
-      </meaning>
+      <seealso id="UUID8b67eb5a-5339-4f61-7895-0e19c92c4613">
+        <term id="UUID13befad1-d778-4bd4-7f5c-ea73ede987e9">ekwiwalencja ricardiańska</term>
+      </seealso>
     </definition>
     <definition id="fs-idm52983008">
       <term id="UUID69f197f5-96d4-4607-76ac-2fc56d4fb1db">deficyty bliźniacze (ang. <foreign xml:lang="en" id="UUIDca2b35f9-202e-4c98-48a0-1b8e22589f4f">twin deficits</foreign>)</term>

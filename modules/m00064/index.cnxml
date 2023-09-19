@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/95614fbc-9f48-4f5e-bc4d-e7056267e500</md:content-url>
     <md:title>12.2 Deficyt i dług publiczny</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-19T07:20:51.017389277+00:00</md:version>
-    <md:created>2023-09-19T07:20:51.017389277+00:00</md:created>
-    <md:revised>2023-09-19T07:20:51.017389277+00:00</md:revised>
+    <md:version>2023-09-19T13:06:04.268574779+00:00</md:version>
+    <md:created>2023-09-19T13:06:04.268574779+00:00</md:created>
+    <md:revised>2023-09-19T13:06:04.268574779+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -23,15 +23,17 @@
     <md:uuid>95614fbc-9f48-4f5e-bc4d-e7056267e500</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
-    <list id="list-00001">
-      <item id="UUID2d241afb-5660-4ad9-7c3f-efb07f21875c">
-        <para id="UUIDd99fb515-61d2-452a-7462-ee36e5493e98">Opisać budżet federalny USA w kategoriach rocznego i skumulowanego długu</para>
-      </item>
-      <item id="UUIDc6b6dd3c-c6e6-456a-714c-276f263d11fe">
-        <para id="UUIDf1c4523c-aae4-41d1-637c-c436c993ebc8">Wyjaśnić, w jaki sposób wzrost gospodarczy i recesja wpływają na możliwość powstania nadwyżki budżetowej i deficytu budżetowego.</para>
-      </item>
-    </list>
+    <note type="note" id="UUID61d56539-a2cb-491d-7f29-55c7ae8fd959" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID2d241afb-5660-4ad9-7c3f-efb07f21875c">
+          <para id="UUIDd99fb515-61d2-452a-7462-ee36e5493e98">Opisać budżet federalny USA w kategoriach rocznego i skumulowanego długu</para>
+        </item>
+        <item id="UUIDc6b6dd3c-c6e6-456a-714c-276f263d11fe">
+          <para id="UUIDf1c4523c-aae4-41d1-637c-c436c993ebc8">Wyjaśnić, w jaki sposób wzrost gospodarczy i recesja wpływają na możliwość powstania nadwyżki budżetowej i deficytu budżetowego.</para>
+        </item>
+      </list>
+    </note>
     <para id="fs-idm125221504">Po omówieniu <term cmlnle:reference="dochód budżetu państwa" id="UUID5799f195-ebc5-4ba3-6b4d-972b6f177c3e">dochodów budżetu państwa</term> (ang. <foreign xml:lang="en" id="UUIDfbe04ecb-364c-4141-757e-92e1387d3e8b"><term cxlxt:index="foreign" id="UUIDd71fc5b5-f215-428e-578b-29fa05e398d6">budget revenue</term></foreign>) i wydatków budżetowych przechodzimy do analizy deficytu i nadwyżki budżetowej, czyli różnicy między dochodami państwa (w tym wpływami podatkowymi) a wydatkami w ciągu roku podatkowego. W Stanach Zjednoczonych rozpoczyna się on 1 października, a kończy 30 września następnego roku, w Polsce zaś rok budżetowy pokrywa się z kalendarzowym.</para>
     <para id="UUID8ae1192b-0a4d-4b28-4ff0-2635bcc807b0"><link target-id="CNX_Econ_C30_006" id="UUID672d7c59-7ca2-47bb-4ce7-d3bc5e1d9654" /> pokazuje saldo (nadwyżkę, równowagę lub deficyt) budżetu federalnego Stanów Zjednoczonych (jako procent PKB) od 1930 r. Gdy krzywa znajduje się powyżej osi poziomej, budżet państwa wykazuje nadwyżkę. Gdy krzywa schodzi poniżej osi poziomej, oznacza to deficyt budżetowy. Największy deficyt (jako procent PKB) wystąpił w okresie II wojny światowej. Wysokie deficyty notowano również w latach 30. i 80. XX w., na początku lat 90. XX w., a także podczas recesji w latach 2008–2009.</para>
     <figure id="CNX_Econ_C30_006">
