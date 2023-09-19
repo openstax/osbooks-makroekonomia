@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/3b2ec59b-4b61-4bde-aaa8-dbcfda4609fc</md:content-url>
     <md:title>10.4 Pułapki polityki pieniężnej</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.965269311+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.965269311+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.965269311+00:00</md:revised>
+    <md:version>2023-09-19T07:20:50.545000908+00:00</md:version>
+    <md:created>2023-09-19T07:20:50.545000908+00:00</md:created>
+    <md:revised>2023-09-19T07:20:50.545000908+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -61,7 +61,7 @@
       <title id="UUID01f158f5-9e67-44e4-4895-04698b4774a6">Nieprzewidywalne zmiany szybkości obiegu pieniądza</title>
       <para id="fs-idp120217808"><term cmlnle:reference="szybkość obiegu pieniądza" id="UUIDce2a513d-0bf1-4a63-5967-9679abbf767b">Szybkość obiegu pieniądza</term> (ang. <foreign xml:lang="en" id="UUID997162e7-6a4f-4453-5bd7-46bea3854d4a"><term cxlxt:index="foreign" id="UUID9b937108-7283-4ad1-7fea-3ed9b06cc4ca">velocity</term></foreign>) to termin, którym ekonomiści określają tempo, w jakim pieniądz krąży w gospodarce. Definiujemy ten parametr w zakresie jednego roku i opisujemy następującym wzorem:</para>
       <equation id="fs-idp27763056" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Szybkość obiegu pieniądza</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>Nominalne PKB</mtext><mtext>Podaż pieniądza</mtext></mfrac></mtd></mtr></mtable></math></equation>
-      <para id="UUID1b86e009-19da-498e-675a-f1b3c0fe782d">Konkretne miary prędkości obiegu pieniądza w gospodarce zależą od przyjętej definicji pieniądza. Rozważmy zatem prędkość obiegu agregatu <term cmlnle:reference="M1" id="UUIDc480c83c-aa3b-4ef8-6d91-c1597aed44b8">M<sub>1</sub></term>, czyli gotówki i salda na rachunkach dostępnych na żądanie. Na przykład w 2009 r. w USA wartość M<sub>1</sub> wyniosła 1,7 bln dol., a wartość nominalnego PKB osiągnęła poziom 14,3 bln dol., możemy więc oszacować prędkość obiegu tego agregatu na 8,4 (14,3 bln dol./1,7 bln dol.). Większa prędkość obiegu pieniądza oznacza, że w ciągu roku średnio każda jednostka pieniężna zmienia właściciela częściej. Niższa prędkość wskazuje zaś, że przeciętny dolar pozostaje w ciągu roku dłużej w konkretnej kieszeni.</para>
+      <para id="UUID1b86e009-19da-498e-675a-f1b3c0fe782d">Konkretne miary prędkości obiegu pieniądza w gospodarce zależą od przyjętej definicji pieniądza. Rozważmy zatem prędkość obiegu agregatu M<sub>1</sub>, czyli gotówki i salda na rachunkach dostępnych na żądanie. Na przykład w 2009 r. w USA wartość M<sub>1</sub> wyniosła 1,7 bln dol., a wartość nominalnego PKB osiągnęła poziom 14,3 bln dol., możemy więc oszacować prędkość obiegu tego agregatu na 8,4 (14,3 bln dol./1,7 bln dol.). Większa prędkość obiegu pieniądza oznacza, że w ciągu roku średnio każda jednostka pieniężna zmienia właściciela częściej. Niższa prędkość wskazuje zaś, że przeciętny dolar pozostaje w ciągu roku dłużej w konkretnej kieszeni.</para>
       <para id="fs-idp101875056">Zapoznaj się z poniższą <link target-id="fs-idp53473568" cmlnle:case="instrumental" id="UUID17aff233-f35e-473e-4373-cbaf1570e090" />, aby dowiedzieć się, jaki jest wpływ deflacji na politykę pieniężną.</para>
       <note type="note" id="fs-idp53473568" class="clearup economics">
         <title id="UUID675986bf-bf4c-4b7e-56c7-67e0adb5878f">Co się dzieje w czasie deflacji?</title>
@@ -226,7 +226,7 @@
   </content>
   <glossary id="UUID38ed797e-8d8f-4d2d-4a6a-5d105fcb6cfe">
     <definition id="fs-idm169011568">
-      <term id="UUIDfe9128ba-a84f-42ee-409a-12fcb9ea32cd">równanie Fischera (ang. <foreign xml:lang="en" id="UUID8eb4064e-527a-41a6-43aa-9703fcde29d5"><term id="UUID629a1f7a-b467-4b4c-6e7b-dd784609b58c">basic quantity equation of money</term></foreign>)</term>
+      <term id="UUIDfe9128ba-a84f-42ee-409a-12fcb9ea32cd">równanie Fischera (ang. <foreign xml:lang="en" id="UUID8eb4064e-527a-41a6-43aa-9703fcde29d5">basic quantity equation of money</foreign>)</term>
       <meaning id="fs-idm129666416">
         <para id="UUIDbd5e7a43-95d3-4937-501d-0d4aeb9f35d0">podaż pieniądza × szybkość obiegu pieniądza w gospodarce = nominalne PKB</para>
       </meaning>
@@ -250,19 +250,19 @@
       </meaning>
     </definition>
     <definition id="fs-idm36890848">
-      <term id="UUID4bcf7f44-7c70-415f-79d4-2aa6c0961582">dodatkowe rezerwy (ang. <foreign xml:lang="en" id="UUID81479e77-7753-4af8-57db-09890b979fb8"><term id="UUID85b355c6-83ea-40af-7860-3049e063d7bf">excess reserves</term></foreign>)</term>
+      <term id="UUID4bcf7f44-7c70-415f-79d4-2aa6c0961582">dodatkowe rezerwy (ang. <foreign xml:lang="en" id="UUID81479e77-7753-4af8-57db-09890b979fb8">excess reserves</foreign>)</term>
       <meaning id="fs-idm110200448">
         <para id="UUID0662479f-54d5-402b-496c-62a26bf53cfb">rezerwy gotówkowe, które banki komercyjne utrzymują powyżej minimalnego poziomu określonego przez regulacje banku centralnego</para>
       </meaning>
     </definition>
     <definition id="fs-idm163533680">
-      <term id="UUIDe7d3c70b-74a8-4bf2-7f23-43563f6b304a">cel inflacyjny (ang. <foreign xml:lang="en" id="UUID520e8f26-00da-4fca-56e7-0461f3561ae7"><term id="UUIDdeb65fae-e682-4a65-6581-0b7384e009bc">inflation targeting</term></foreign></term>
+      <term id="UUIDe7d3c70b-74a8-4bf2-7f23-43563f6b304a">cel inflacyjny (ang. <foreign xml:lang="en" id="UUID520e8f26-00da-4fca-56e7-0461f3561ae7">inflation targeting</foreign></term>
       <meaning id="fs-idm163189680">
         <para id="UUID68d09cde-ff77-43be-5dab-2e448899403d">zasada, zgodnie z którą bank centralny skupia się wyłącznie na utrzymywaniu niskiego poziomu inflacji</para>
       </meaning>
     </definition>
     <definition id="fs-idm41906160">
-      <term id="UUIDed2a7bb1-b6e3-4eb7-624e-a093c5ca4e6e">szybkość obiegu pieniądza (ang. <foreign xml:lang="en" id="UUID42ae82e6-a9c5-46bc-449d-e20c1235b5bf"><term id="UUID0a0ee358-eb67-409b-69aa-e201c33316e1">velocity</term></foreign>)</term>
+      <term id="UUIDed2a7bb1-b6e3-4eb7-624e-a093c5ca4e6e">szybkość obiegu pieniądza (ang. <foreign xml:lang="en" id="UUID42ae82e6-a9c5-46bc-449d-e20c1235b5bf">velocity</foreign>)</term>
       <meaning id="fs-idm70648288">
         <para id="UUID1f31411b-b837-4369-74e2-51c6eb0a9e18">szybkość, z jaką pieniądz krąży w gospodarce, obliczana jako iloraz nominalnego PKB i podaży pieniądza</para>
       </meaning>

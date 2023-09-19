@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/3d6c9ae4-2aea-4fb6-9b88-179f04cc9214</md:content-url>
     <md:title> 15.1 Przewaga absolutna i komparatywna</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:17.153092871+00:00</md:version>
-    <md:created>2023-09-15T14:29:17.153092871+00:00</md:created>
-    <md:revised>2023-09-15T14:29:17.153092871+00:00</md:revised>
+    <md:version>2023-09-19T07:20:52.093090939+00:00</md:version>
+    <md:created>2023-09-19T07:20:52.093090939+00:00</md:created>
+    <md:revised>2023-09-19T07:20:52.093090939+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -202,7 +202,7 @@
       </meaning>
     </definition>
     <definition id="UUID7f19285a-028e-499d-75f6-8e9bb31b93f8">
-      <term id="UUID0f7718d7-8df2-44e0-73ac-721c9e770e28">autarkia (ang. <foreign xml:lang="en" id="UUIDb231de5b-72f8-40f9-5175-4606711ffe93"><term id="UUID8a5c1fd0-968d-4834-4dca-a750e7e5316d">autarchy</term></foreign>)</term>
+      <term id="UUID0f7718d7-8df2-44e0-73ac-721c9e770e28">autarkia (ang. <foreign xml:lang="en" id="UUIDb231de5b-72f8-40f9-5175-4606711ffe93">autarchy</foreign>)</term>
       <meaning id="UUID298be6a0-4a52-4916-61b4-d7086dfad060">
         <para id="UUIDdb9f8ea2-4fea-4bd9-50ab-b56159fe2c01">sytuacja, w której dany kraj nie prowadzi żadnej wymiany handlowej z zagranicą, a wszystkie jego potrzeby zaspokaja produkcja krajowa</para>
       </meaning>

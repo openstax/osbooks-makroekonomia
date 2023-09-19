@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/c0a93e12-e6f3-4314-be8b-d88a951fb972</md:content-url>
     <md:title>9.3 Rola banków</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.903809738+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.903809738+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.903809738+00:00</md:revised>
+    <md:version>2023-09-19T07:20:50.033365074+00:00</md:version>
+    <md:created>2023-09-19T07:20:50.033365074+00:00</md:created>
+    <md:revised>2023-09-19T07:20:50.033365074+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -50,7 +50,7 @@
     </section>
     <section id="fs-idp37902256">
       <title id="UUID6423d920-c0ad-4d55-5c9a-f2b048e0d840">Bilans banku</title>
-      <para id="UUID78620819-93e1-4118-50d3-1412d1d312bb"><term cmlnle:reference="bilans" id="UUIDad2d8de0-321f-4e1b-589e-2343fa09ad93">Bilans</term> (ang. <foreign xml:lang="en" id="UUIDdacbd71d-5fbb-4098-6f9a-beebaf585083"><term cxlxt:index="foreign" id="UUIDe385a84a-5edc-4d20-4c6c-aa7c46df55e9">balance sheet</term></foreign>) jest dokumentem księgowym zawierającym zestawienie aktywów i pasywów w pewnym punkcie w czasie (w Polsce najczęściej na koniec roku kalendarzowego). <term cmlnle:reference="aktywa" id="UUIDb528411e-016a-4904-6e9c-514e964660ea">Aktywa</term> (ang. <foreign xml:lang="en" id="UUID77c4449c-9094-49e3-6832-fb0ea70f016d"><term cxlxt:index="foreign" id="UUID7008a5cc-00f7-4ead-4443-97e8596be7c0">asset</term></foreign>) to coś, co przedsiębiorstwo posiada, co ma swoją wartość i może służyć do wytworzenia lub sprzedaży dóbr i usług, będących przecież głównym celem każdej firmy. Na przykład dzięki flocie aut ciężarowych można transportować towary na zlecenie i w ten sposób zarabiać pieniądze. <term cmlnle:reference="pasywa" id="UUIDb9c2bb9b-f987-4f7a-68b2-5817f71a66dd">Pasywa</term> (ang. <foreign xml:lang="en" id="UUID5042cde4-4171-4c4a-7856-f246ca5213ef"><term id="UUIDba83eabd-798d-4ef4-573a-3eaa02cfc7c4">liability</term></foreign>), czyli zobowiązania, to dług lub to, co firma jest komuś winna. Jeśli część lub wszystkie samochody ciężarowe posiadane przez konkretne przedsiębiorstwo transportowe zostały zakupione na kredyt, to ciężarówki są składnikiem aktywów, zaś wartość zaciągniętego kredytu zapiszemy po stronie zobowiązań firmy, czyli pasywów. <term cmlnle:reference="wartość netto" id="UUIDbbca0a26-26af-468f-4885-cca3991a2dcd">Wartość netto</term> (ang. <foreign xml:lang="en" id="UUID1621feb0-d77c-49c2-76cd-07b4be9f18dc"><term cxlxt:index="foreign" id="UUIDb2f99615-00bc-4b56-5ea2-d2470ac2be27">net worth</term></foreign>) to wartość aktywów pomniejszona o kwotę zadłużenia (zobowiązania). Bilans banku tworzony jest na podobnych zasadach. Wartość netto banku to <term id="UUID8bc149f2-cd41-4f9d-5fdf-d37d786fc768">kapitał banku</term> (ang. <foreign xml:lang="en" id="UUID18269656-9a1e-4f0f-516c-13e75d6ccdd5"><term cxlxt:index="foreign" id="UUID1ca7ea07-6278-494b-560a-edb05bfe84c5">bank capital</term></foreign>). Aktywami banku są: gotówka przechowywana we własnych skarbcach, środki utrzymywane w Narodowym Banku Polskim (zwane rezerwami), pożyczki i kredyty udzielane klientom oraz zakupione papiery wartościowe emitowane przez inne podmioty.</para>
+      <para id="UUID78620819-93e1-4118-50d3-1412d1d312bb"><term cmlnle:reference="bilans" id="UUIDad2d8de0-321f-4e1b-589e-2343fa09ad93">Bilans</term> (ang. <foreign xml:lang="en" id="UUIDdacbd71d-5fbb-4098-6f9a-beebaf585083"><term cxlxt:index="foreign" id="UUIDe385a84a-5edc-4d20-4c6c-aa7c46df55e9">balance sheet</term></foreign>) jest dokumentem księgowym zawierającym zestawienie aktywów i pasywów w pewnym punkcie w czasie (w Polsce najczęściej na koniec roku kalendarzowego). <term cmlnle:reference="aktywa" id="UUIDb528411e-016a-4904-6e9c-514e964660ea">Aktywa</term> (ang. <foreign xml:lang="en" id="UUID77c4449c-9094-49e3-6832-fb0ea70f016d"><term cxlxt:index="foreign" id="UUID7008a5cc-00f7-4ead-4443-97e8596be7c0">asset</term></foreign>) to coś, co przedsiębiorstwo posiada, co ma swoją wartość i może służyć do wytworzenia lub sprzedaży dóbr i usług, będących przecież głównym celem każdej firmy. Na przykład dzięki flocie aut ciężarowych można transportować towary na zlecenie i w ten sposób zarabiać pieniądze. <term cmlnle:reference="pasywa" id="UUIDb9c2bb9b-f987-4f7a-68b2-5817f71a66dd">Pasywa</term> (ang. <foreign xml:lang="en" id="UUID5042cde4-4171-4c4a-7856-f246ca5213ef"><term cxlxt:index="foreign" id="UUIDba83eabd-798d-4ef4-573a-3eaa02cfc7c4">liability</term></foreign>), czyli zobowiązania, to dług lub to, co firma jest komuś winna. Jeśli część lub wszystkie samochody ciężarowe posiadane przez konkretne przedsiębiorstwo transportowe zostały zakupione na kredyt, to ciężarówki są składnikiem aktywów, zaś wartość zaciągniętego kredytu zapiszemy po stronie zobowiązań firmy, czyli pasywów. <term cmlnle:reference="wartość netto" id="UUIDbbca0a26-26af-468f-4885-cca3991a2dcd">Wartość netto</term> (ang. <foreign xml:lang="en" id="UUID1621feb0-d77c-49c2-76cd-07b4be9f18dc"><term cxlxt:index="foreign" id="UUIDb2f99615-00bc-4b56-5ea2-d2470ac2be27">net worth</term></foreign>) to wartość aktywów pomniejszona o kwotę zadłużenia (zobowiązania). Bilans banku tworzony jest na podobnych zasadach. Wartość netto banku to <term id="UUID8bc149f2-cd41-4f9d-5fdf-d37d786fc768">kapitał banku</term> (ang. <foreign xml:lang="en" id="UUID18269656-9a1e-4f0f-516c-13e75d6ccdd5"><term cxlxt:index="foreign" id="UUID1ca7ea07-6278-494b-560a-edb05bfe84c5">bank capital</term></foreign>). Aktywami banku są: gotówka przechowywana we własnych skarbcach, środki utrzymywane w Narodowym Banku Polskim (zwane rezerwami), pożyczki i kredyty udzielane klientom oraz zakupione papiery wartościowe emitowane przez inne podmioty.</para>
       <para id="fs-idp58024400"><link target-id="CNX_Econ_C27_004" document="" id="UUID2898d45d-ee8b-4023-6985-71e26a0f4cf2" /> przedstawia uproszczony bilans hipotetycznego banku (Bezpiecznego Banku). Bilans ma dwukolumnowy format, a dzielące go linie – jak łatwo zauważyć – tworzą kształt podobny do litery T, dlatego czasem nazywamy go <term cmlnle:reference="„teowy” schemat konta" id="UUID4b4996e8-e301-4e5e-47e6-d457227b69d0">„teowym” schematem konta</term> (ang. <foreign xml:lang="en" id="UUID9312ec8e-6991-43be-6792-e88616b6f63f"><term cxlxt:index="foreign" id="UUID11d0581f-3036-40e9-6b61-eca9446b2408">T-account</term></foreign>).</para>
       <figure id="CNX_Econ_C27_004">
         <title id="UUIDf6ed995f-7806-44cf-7d57-6e9106d4e336">Bilans Bezpiecznego Banku</title>
@@ -76,7 +76,7 @@
         <title id="UUID84aa6e89-dc22-4cd3-6069-c659797d4b0a">Jakie czynniki odpowiadają za kryzys finansowy w latach 2008–2009?</title>
         <para id="UUIDa397f7e1-7c60-4a6b-509f-238cfce74187">Wiele amerykańskich banków udzielało kredytów hipotecznych, aby ludzie mogli kupić swój wymarzony dom, ale nie zatrzymywało tych kredytów w swoich aktywach, tylko je sprzedawało. Kredyty te były „sekurytyzowane”, co oznacza, że łączono je w pakiety i sprzedawano inwestorom na rynku wtórnym. Ci nabywali takie pakiety i traktowali je jako inwestycje o niskim poziomie ryzyka, ponieważ były one zabezpieczone hipotekami nieruchomości, na zakup których udzielono kredytu. Stopa zwrotu z takiej inwestycji była równa oprocentowaniu kredytów hipotecznych, które wchodziły w skład sekurytyzowanego pakietu.</para>
         <para id="UUID943e6616-93b7-4364-7d9c-c576c7473fc6"><term cmlnle:reference="sekurytyzacja" id="UUIDed2e3b5b-6169-4a84-5ac4-3e38059159a9">Sekurytyzacja</term> (ang. <foreign xml:lang="en" id="UUIDd017b0dd-f77e-400e-6617-7acc9c3d2e37"><term cxlxt:index="foreign" id="UUID9f443ae8-7fba-4971-6dc6-b66dceef5517">securitization</term></foreign>) przynosi pewne korzyści. Jeśli bank udziela większości pożyczek podmiotom lokalnym (np. działającym na terenie określonego stanu lub nawet hrabstwa), wówczas ryzykuje, że znajdzie się w trudnej sytuacji finansowej, jeśli lokalna gospodarka podupadnie, a wiele osób nie będzie w stanie spłacić kredytu. Kiedy jednak bank swoje kredyty udzielone lokalnym podmiotom sprzedaje, a następnie kupuje papiery wartościowe zabezpieczone hipoteką kredytów mieszkaniowych udzielonych w wielu innych stanach, może uniknąć lub znacząco zmniejszyć ryzyko związane z kondycją lokalnej gospodarki (która mogłaby zostać narażona na straty choćby w wyniku klęski żywiołowej – tornada, powodzi lub suszy). We wcześniejszym prostym przykładzie zakładaliśmy, że banki posiadają „rządowe papiery wartościowe”. W rzeczywistości mogą posiadać inne instrumenty finansowe, o ile są one wystarczająco bezpieczne, aby spełnić standardy instytucji nadzorujących sektor bankowy. Z punktu widzenia lokalnego nabywcy domu sekurytyzacja daje korzyść wynikającą z tego, że lokalny bank nie musi mieć znacznych dodatkowych środków na udzielenie mu kredytu. Bank może zatrzymać ten kredyt jako pozycję swoich aktywów tylko w krótkim okresie, a potem sprzedać ją jako sekurytyzowany instrument finansowy.</para>
-        <para id="UUIDd530ef70-b682-42f4-739f-1b2aa5acafe4">Jednak sekurytyzacja niesie ze sobą również potencjalne zagrożenie. Jeśli bank planuje zatrzymać kredyt hipoteczny jako pozycję swoich aktywów, ma silną motywację, aby dokładnie prześwietlić sytuację finansową kredytobiorcy i upewnić się, że będzie on w stanie zobowiązanie spłacić. Jednak jeśli bank od razu planuje sprzedać kredyt na rynku wtórnym, może być mniej ostrożny przy jego przyznawaniu. Będzie też bardziej skłonny udzielić osobie o niskich lub zerowych dochodach tzw. kredytu substandardowego (ang. <foreign xml:lang="en" id="UUID36610e44-4126-4a18-730f-2495deccdd9b">subprime loans</foreign>), cechującego się niskim lub zerowym wkładem własnym. Takie kredyty charakteryzują się stosunkowo umiarkowanym oprocentowaniem w ciągu pierwszych dwóch lat po ich udzielaniu, ale z czasem odsetki i rata kapitałowa dość szybko rosną. Ekonomiści określili niektóre z takich substandardowych kredytów udzielonych przez instytucje finansowe w latach 2005–2008 skrótem NINJA (<term id="UUID65f1dfa9-8692-460e-4513-1aabb79f3917"><emphasis effect="italics"><emphasis effect="bold">N</emphasis>o</emphasis> <emphasis effect="italics"><emphasis effect="bold">I</emphasis>ncome,</emphasis> <emphasis effect="italics"><emphasis effect="bold">N</emphasis>o</emphasis> <emphasis effect="italics"><emphasis effect="bold">J</emphasis>ob or</emphasis> <emphasis effect="italics"><emphasis effect="bold">A</emphasis>ssets</emphasis></term>): pożyczki dla osób bez stałego dochodu, bez pracy i nie dysponujących żadnym zabezpieczeniem.</para>
+        <para id="UUIDd530ef70-b682-42f4-739f-1b2aa5acafe4">Jednak sekurytyzacja niesie ze sobą również potencjalne zagrożenie. Jeśli bank planuje zatrzymać kredyt hipoteczny jako pozycję swoich aktywów, ma silną motywację, aby dokładnie prześwietlić sytuację finansową kredytobiorcy i upewnić się, że będzie on w stanie zobowiązanie spłacić. Jednak jeśli bank od razu planuje sprzedać kredyt na rynku wtórnym, może być mniej ostrożny przy jego przyznawaniu. Będzie też bardziej skłonny udzielić osobie o niskich lub zerowych dochodach tzw. kredytu substandardowego (ang. <foreign xml:lang="en" id="UUID36610e44-4126-4a18-730f-2495deccdd9b">subprime loans</foreign>), cechującego się niskim lub zerowym wkładem własnym. Takie kredyty charakteryzują się stosunkowo umiarkowanym oprocentowaniem w ciągu pierwszych dwóch lat po ich udzielaniu, ale z czasem odsetki i rata kapitałowa dość szybko rosną. Ekonomiści określili niektóre z takich substandardowych kredytów udzielonych przez instytucje finansowe w latach 2005–2008 skrótem NINJA (<term cxlxt:index="foreign" cmlnle:reference="No Income, No Job or Assets" id="UUID65f1dfa9-8692-460e-4513-1aabb79f3917"><emphasis effect="italics"><emphasis effect="bold">N</emphasis>o</emphasis> <emphasis effect="italics"><emphasis effect="bold">I</emphasis>ncome,</emphasis> <emphasis effect="italics"><emphasis effect="bold">N</emphasis>o</emphasis> <emphasis effect="italics"><emphasis effect="bold">J</emphasis>ob or</emphasis> <emphasis effect="italics"><emphasis effect="bold">A</emphasis>ssets</emphasis></term>): pożyczki dla osób bez stałego dochodu, bez pracy i nie dysponujących żadnym zabezpieczeniem.</para>
         <para id="UUIDe9e5a05a-4894-4493-54d2-dae260b97f54">Instytucje finansowe zazwyczaj sprzedawały takie substandardowe kredyty i zamieniały je w sekurytyzowane papiery wartościowe – ale z niespodzianką. Pomysł polegał na tym, że gdyby na tych papierach wartościowych zabezpieczonych hipoteką wystąpiły straty (czyli kredyty hipoteczne stanowiące ich podstawę nie zostałby spłacone), niektórzy inwestorzy zgodziliby się zaakceptować, powiedzmy, 5% takich strat. Inni inwestorzy zgodziliby się wziąć na siebie, powiedzmy, kolejne 5% strat. Przy takim podejściu jeszcze inni inwestorzy nie musieliby akceptować żadnych strat, chyba że aż 25 lub 30% kredytów stanowiących zabezpieczenie sekurytyzowanych papierów wartościowych nie zostałoby spłaconych. Rozwój rynku tych skomplikowanych w swojej konstrukcji papierów wartościowych wraz z innymi czynnikami ekonomicznymi, przede wszystkim polityką państwa, które realizowało strategię umożliwiającą prawie każdemu Amerykaninowi zakup własnej nieruchomości, przyczynił się do znacznej ekspansji substandardowych kredytów hipotecznych po 2005 r.</para>
         <para id="UUID5bbad042-e689-433d-7b4b-7eb80debe467">Podobnie jak w dramatach Czechowa, „ekonomiczna strzelba” została zawieszona na ścianie i było pewne, że prędzej czy później wypali (czyli kryzys bankowy się zmaterializuje). Banki były przekonane, że kupują tylko ultrabezpieczne papiery wartościowe. Bo chociaż ostatecznie ich zabezpieczenie stanowiły ryzykowne substandardowe kredyty hipoteczne, banki inwestowały tylko w tę część tych papierów wartościowych, która była chroniona przed niewielkimi lub umiarkowanymi stratami. Jednak po roku 2007 ceny mieszkań zaczęły szybko spadać, a pogłębiająca się recesja utrudniła wielu ludziom spłatę hipotecznych zobowiązań. Okazało się, że straty znacznie przekraczają niewyobrażalne jeszcze rok czy dwa lata wcześniej 30% (czyli taki właśnie był odsetek niespłaconych kredytów hipotecznych będących podstawą tych instrumentów finansowych). Wiele banków stwierdziło, że ich aktywa finansowe zabezpieczone hipoteką mogą być warte znacznie mniej, niż się spodziewały. Dla wielu podmiotów oznaczało to bankructwo. W latach 2008–2011 w Stanach Zjednoczonych upadło 318 banków.</para>
       </note>
@@ -163,79 +163,79 @@
   </content>
   <glossary id="UUIDf955c5d5-66f9-4cc7-5d91-7bed14b00dac">
     <definition id="fs-idm82006608">
-      <term id="UUIDef10e66a-d447-485a-7bd5-af36adea1ff4">aktywa (ang. <foreign xml:lang="en" id="UUID67ff92cb-6190-4ce0-5cad-9ef278ac5dcc"><term id="UUID40fada2b-0c10-4d5e-5bd8-44c7a3054d8a">asset</term></foreign>)</term>
+      <term id="UUIDef10e66a-d447-485a-7bd5-af36adea1ff4">aktywa (ang. <foreign xml:lang="en" id="UUID67ff92cb-6190-4ce0-5cad-9ef278ac5dcc">asset</foreign>)</term>
       <meaning id="fs-idp18795872">
         <para id="UUIDdb7ca3e0-3290-40ee-4ce2-f3bfae3652e1">w najszerszym znaczeniu są to wszystkie zasoby majątkowe będące własnością przedsiębiorstwa lub osoby fizycznej</para>
       </meaning>
     </definition>
     <definition id="fs-idm55625952">
-      <term id="UUIDc2ce6528-05ba-426b-7462-ed759bdfe0df">niedopasowanie terminów zapadalności aktywów i pasywów (ang. <foreign xml:lang="en" id="UUID439e2714-00f1-4c49-5b8e-c26e457247d5"><term id="UUID0fa441ec-df82-4723-715c-e73a8702d30e">asset-liability time mismatch</term></foreign>)</term>
+      <term id="UUIDc2ce6528-05ba-426b-7462-ed759bdfe0df">niedopasowanie terminów zapadalności aktywów i pasywów (ang. <foreign xml:lang="en" id="UUID439e2714-00f1-4c49-5b8e-c26e457247d5">asset-liability time mismatch</foreign>)</term>
       <meaning id="fs-idm12923760">
         <para id="UUID799549b9-1842-4d1a-6d2a-d268f63f19f8">sytuacja, w której klienci mogą wycofywać swoje depozyty (będące pasywami z punktu widzenia banku) w krótkim okresie, podczas gdy aktywa banku (takie jak pożyczki, kredyty i papiery wartościowe) przynoszą przychód w długim okresie</para>
       </meaning>
     </definition>
     <definition id="fs-idm49210928">
-      <term id="UUID3b6c1351-ac17-48a6-5a47-5ba783f92816">bilans (ang. <foreign xml:lang="en" id="UUID801e14d7-0d90-483e-48ed-3e6b94998bdc"><term id="UUIDd30e661e-bf98-4915-5524-4c8be7955fb8">balance sheet</term></foreign>)</term>
+      <term id="UUID3b6c1351-ac17-48a6-5a47-5ba783f92816">bilans (ang. <foreign xml:lang="en" id="UUID801e14d7-0d90-483e-48ed-3e6b94998bdc">balance sheet</foreign>)</term>
       <meaning id="fs-idm20154416">
         <para id="UUIDbcb9c467-46dd-49ca-7b03-15626b22129c">dokument księgowy, który stanowi zestawienie aktywów i pasywów</para>
       </meaning>
     </definition>
     <definition id="fs-idp50054624">
-      <term id="UUID8fd26f0e-28cc-49f8-5354-6a990e1eb002">kapitał banku (ang. <foreign xml:lang="en" id="UUID6f72c1aa-3dfc-401c-7a5f-c817239b1fd9"><term id="UUID0413300c-986d-4754-6f53-9f5a1f5a53df">bank capital</term></foreign>)</term>
+      <term id="UUID8fd26f0e-28cc-49f8-5354-6a990e1eb002">kapitał banku (ang. <foreign xml:lang="en" id="UUID6f72c1aa-3dfc-401c-7a5f-c817239b1fd9">bank capital</foreign>)</term>
       <meaning id="fs-idm52832080">
         <para id="UUIDd08091ac-f8b0-4449-5a91-756e4708b3f5">wartość netto banku</para>
       </meaning>
     </definition>
     <definition id="fs-idm90150144">
-      <term id="UUID98a0d374-e6a0-43ec-4a10-6ad3452dc752">instytucja depozytowa (ang. <foreign xml:lang="en" id="UUIDe04bd57c-3f65-431b-4e9d-a5271a0f9816"><term id="UUID5410be34-d2f0-4050-515d-ea1de41d7a8c">depository institutions</term></foreign>)</term>
+      <term id="UUID98a0d374-e6a0-43ec-4a10-6ad3452dc752">instytucja depozytowa (ang. <foreign xml:lang="en" id="UUIDe04bd57c-3f65-431b-4e9d-a5271a0f9816">depository institutions</foreign>)</term>
       <meaning id="fs-idm54712848">
         <para id="UUIDccb39401-e0de-4ed3-4c8e-16f408f1eb39">instytucja, która przyjmuje depozyty pieniężne, a następnie wykorzystuje je do udzielania pożyczek</para>
       </meaning>
     </definition>
     <definition id="fs-idp63259328">
-      <term id="UUIDa2e8dd79-2254-4247-6944-e46bbb867a8c">dywersyfikacja (ang. <foreign xml:lang="en" id="UUIDd25e43bc-f5ef-4612-55df-8fb4991c72ca"><term id="UUIDfccf2424-674a-44e2-43fd-589014701f6e">diversify</term></foreign>)</term>
+      <term id="UUIDa2e8dd79-2254-4247-6944-e46bbb867a8c">dywersyfikacja (ang. <foreign xml:lang="en" id="UUIDd25e43bc-f5ef-4612-55df-8fb4991c72ca">diversify</foreign>)</term>
       <meaning id="fs-idm52699696">
         <para id="UUID863e1acd-7c1d-447e-605c-e0388f2d08aa">udzielanie pożyczek lub kredytów podmiotom (gospodarstwom domowym i przedsiębiorstwom) działającym w różnych branżach i na różnych obszarach geograficznych, tak aby zmniejszyć ryzyko negatywnego wpływu wydarzeń w jednej lub kilku branżach na sytuację finansową banku</para>
       </meaning>
     </definition>
     <definition id="fs-idm64233280">
-      <term id="UUID16fb3d27-fca3-4d06-6eca-0fb0ced38116">pośrednik finansowy (ang. <foreign xml:lang="en" id="UUID886a26fa-4eca-45c5-75c6-1c8250cdf6be"><term id="UUIDca820b8a-46a0-40ac-5850-fa0c0f723b3b">financial intermediary</term></foreign>)</term>
+      <term id="UUID16fb3d27-fca3-4d06-6eca-0fb0ced38116">pośrednik finansowy (ang. <foreign xml:lang="en" id="UUID886a26fa-4eca-45c5-75c6-1c8250cdf6be">financial intermediary</foreign>)</term>
       <meaning id="fs-idp41988768">
         <para id="UUIDbdd30f3b-4fa5-4141-5c7d-8ac80d4fa0c4">instytucja, która działa pomiędzy oszczędzającym, posiadającym aktywa finansowe możliwe do zainwestowania, a podmiotem, który pożycza te aktywa i płaci za nie cenę równą stopie procentowej</para>
       </meaning>
     </definition>
     <definition id="fs-idp20756768">
-      <term id="UUID2cfafe65-788f-47be-4dc0-2b36e839ae1a">pasywa (ang. <foreign xml:lang="en" id="UUID04d70049-5692-4445-76b6-84c651669a78"><term id="UUIDc50a3bbc-6703-49a9-409d-bfdceeab33fd">liability</term></foreign>)</term>
+      <term id="UUID2cfafe65-788f-47be-4dc0-2b36e839ae1a">pasywa (ang. <foreign xml:lang="en" id="UUID04d70049-5692-4445-76b6-84c651669a78">liability</foreign>)</term>
       <meaning id="fs-idm23910864">
         <para id="UUIDba1a3839-b8f1-4ea7-48b7-e705e27f6527">źródła pochodzenia majątku przedsiębiorstwa</para>
       </meaning>
     </definition>
     <definition id="fs-idp50077664">
-      <term id="UUID31280494-2384-41c1-4d59-6289374258ad">wartość netto (ang. <foreign xml:lang="en" id="UUIDe09fa3f8-30c0-48d0-7310-71dca43f8cff"><term id="UUID9a3a4f95-b73c-40f7-65c1-f228e1a294f2">net worth</term></foreign>)</term>
+      <term id="UUID31280494-2384-41c1-4d59-6289374258ad">wartość netto (ang. <foreign xml:lang="en" id="UUIDe09fa3f8-30c0-48d0-7310-71dca43f8cff">net worth</foreign>)</term>
       <meaning id="fs-idm12261360">
         <para id="UUIDcb4fef5c-0f89-4286-4fe5-307bbcea7932">nadwyżka wartości aktywów nad kwotą pasywów</para>
       </meaning>
     </definition>
     <definition id="fs-idm54729440">
-      <term id="UUID4274a273-b254-4407-7819-872bac2b4b22">system płatniczy (ang. <foreign xml:lang="en" id="UUIDcd03fb6d-fb89-4a61-56ee-95967d4a78a8"><term id="UUIDe60e8ccc-42cf-4ce6-7f5b-efb1eeafb189">payment system</term></foreign>)</term>
+      <term id="UUID4274a273-b254-4407-7819-872bac2b4b22">system płatniczy (ang. <foreign xml:lang="en" id="UUIDcd03fb6d-fb89-4a61-56ee-95967d4a78a8">payment system</foreign>)</term>
       <meaning id="fs-idp3028240">
         <para id="UUID7428d223-3168-43ef-6547-ccc8fe66d245">mechanizm ułatwiający wymianę dóbr i usług na pieniądze lub inne aktywa finansowe w gospodarce</para>
       </meaning>
     </definition>
     <definition id="fs-idm22677680">
-      <term id="UUID3f556a5f-1b7a-42ce-49bd-5a421253bab3">rezerwy (ang. <foreign xml:lang="en" id="UUID890739e1-25d5-4d12-7aee-406a746a631c"><term id="UUID1919fcf2-6ce2-420a-5dd7-ab52a6cad6ec">reserves</term></foreign>)</term>
+      <term id="UUID3f556a5f-1b7a-42ce-49bd-5a421253bab3">rezerwy (ang. <foreign xml:lang="en" id="UUID890739e1-25d5-4d12-7aee-406a746a631c">reserves</foreign>)</term>
       <meaning id="fs-idp41993840">
         <para id="UUID5719cfd7-1020-4486-69ff-06edf4e73b6c">środki pieniężne, które bank trzyma w swoich skarbcach i których nie pożycza ani nie inwestuje w papiery wartościowe</para>
       </meaning>
     </definition>
     <definition id="fs-idm20129568">
-      <term id="UUID32b4219c-3982-4caa-53e5-f680804bd078">„teowy” schemat konta (ang. <foreign xml:lang="en" id="UUID43fdc00f-e06f-4391-56f2-a373fcb8f0e7"><term id="UUID1a9924ea-afb7-483c-67c6-726222230029">T-account</term></foreign>)</term>
+      <term id="UUID32b4219c-3982-4caa-53e5-f680804bd078">„teowy” schemat konta (ang. <foreign xml:lang="en" id="UUID43fdc00f-e06f-4391-56f2-a373fcb8f0e7">T-account</foreign>)</term>
       <meaning id="fs-idm12765072">
         <para id="UUIDce0487db-9926-4f57-4263-c9f68381e288">bilans w formacie dwukolumnowym, w kształcie litery T, utworzony przez pionową linię biegnącą przez środek i poziomą linię pod nagłówkami kolumn „Aktywa” i „Pasywa”</para>
       </meaning>
     </definition>
     <definition id="fs-idm52487984">
-      <term id="UUID8ef62896-d02d-4eee-458c-f7182307a9e6">koszty transakcyjne (ang. <foreign xml:lang="en" id="UUID03862830-2e2a-4167-4b92-34dfd052cb31"><term id="UUIDe3ff52d9-6f6b-4fe9-5df2-16152ae28f66">transaction costs</term></foreign>)</term>
+      <term id="UUID8ef62896-d02d-4eee-458c-f7182307a9e6">koszty transakcyjne (ang. <foreign xml:lang="en" id="UUID03862830-2e2a-4167-4b92-34dfd052cb31">transaction costs</foreign>)</term>
       <meaning id="fs-idm27906512">
         <para id="UUID2a53e790-af94-4e20-706d-11ed1f06b3fc">koszty związane z dopasowaniem i zawarciem transakcji pomiędzy pożyczkodawcami i pożyczkobiorcami</para>
       </meaning>

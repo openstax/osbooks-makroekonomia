@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/f34925f7-b991-4e66-9d7e-a528a021979e</md:content-url>
     <md:title>2.1 Współczesny wzrost gospodarczy</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.528853225+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.528853225+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.528853225+00:00</md:revised>
+    <md:version>2023-09-19T07:20:47.715603936+00:00</md:version>
+    <md:created>2023-09-19T07:20:47.715603936+00:00</md:created>
+    <md:revised>2023-09-19T07:20:47.715603936+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -123,7 +123,7 @@
   </content>
   <glossary id="UUID16ace1f6-b84b-4f2a-7312-076b6c3cb5a8">
     <definition id="fs-idm62278688">
-      <term id="UUID5e16589c-7db8-4e26-6cde-ae69b1839d65">swoboda zawierania umów (ang. <foreign xml:lang="en" id="UUID9a99623e-5c03-4ffa-502b-9de150c12801"><term id="UUID8cfd1b5b-3b0f-4b3c-4d18-4baff21050ff">contractual rights</term></foreign>)</term>
+      <term id="UUID5e16589c-7db8-4e26-6cde-ae69b1839d65">swoboda zawierania umów (ang. <foreign xml:lang="en" id="UUID9a99623e-5c03-4ffa-502b-9de150c12801">contractual rights</foreign>)</term>
       <meaning id="fs-idm40932624">
         <para id="UUIDf675246a-c5e0-49ef-7215-a9e092a87d46">prawo podmiotów ekonomicznych do zawierania umów z innymi osobami fizycznymi i prawnymi w zakresie korzystania z ich własności, zapewniające możliwość odwołania się do systemu prawnego w przypadku niedotrzymania warunków umowy</para>
       </meaning>
@@ -149,7 +149,7 @@
     <definition id="UUIDc64bdb0d-e30f-418e-4b9f-dd285888fc46">
       <term id="UUID657f0ac8-f3b2-4ddd-6f04-07686aa5d12f">rządy prawa</term>
       <meaning id="UUID53313ff4-3361-413a-561d-3213719fbf86">
-        <para id="UUID1bff721c-c4fa-455b-7dac-5243118b472a">zob. państwo prawa </para>
+        <para id="UUID1bff721c-c4fa-455b-7dac-5243118b472a">zob. państwo prawa</para>
       </meaning>
     </definition>
     <definition id="UUID050ab5d3-1f1b-43e7-6bfd-3ded29f74567">

@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/d5312b22-bcb2-4a39-ba18-0234f9e08e2b</md:content-url>
     <md:title>2.2 Wydajność pracy i wzrost gospodarczy</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.538291768+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.538291768+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.538291768+00:00</md:revised>
+    <md:version>2023-09-19T07:20:47.728550136+00:00</md:version>
+    <md:created>2023-09-19T07:20:47.728550136+00:00</md:created>
+    <md:revised>2023-09-19T07:20:47.728550136+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -117,7 +117,7 @@
             <para id="UUIDe146aa6f-a2e7-4ef6-4d4a-d1b8098878df">długość okresu, w którym ten efekt występuje.</para>
           </item>
         </list>
-        <para id="UUIDfbf39b77-d913-43a1-6625-6818728e0475">Przypomnijmy, że procent składany uwzględnia odsetki uzyskane z odsetek pozyskanych w przeszłości. Powoduje to, że łączna kwota oszczędności finansowych spektakularnie rośnie w czasie. Podobnie <term id="UUID7754479e-a16f-43c4-70e5-73decd92d8d7">skumulowana stopa wzrostu gospodarczego</term> (ang. <foreign xml:lang="en" id="UUIDc959d073-94aa-44d5-4201-0d8f2e0712eb"><term id="UUID900df429-142c-4bfc-4435-f86adacd8545">compound growth rate</term></foreign>) oznacza, że mnożymy stopę wzrostu przez bazę, która uwzględnia już wzrost PKB osiągnięty w przeszłości, co powoduje równie spektakularne efekty w czasie.</para>
+        <para id="UUIDfbf39b77-d913-43a1-6625-6818728e0475">Przypomnijmy, że procent składany uwzględnia odsetki uzyskane z odsetek pozyskanych w przeszłości. Powoduje to, że łączna kwota oszczędności finansowych spektakularnie rośnie w czasie. Podobnie <term id="UUID7754479e-a16f-43c4-70e5-73decd92d8d7">skumulowana stopa wzrostu gospodarczego</term> (ang. <foreign xml:lang="en" id="UUIDc959d073-94aa-44d5-4201-0d8f2e0712eb"><term cxlxt:index="foreign" id="UUID900df429-142c-4bfc-4435-f86adacd8545">compound growth rate</term></foreign>) oznacza, że mnożymy stopę wzrostu przez bazę, która uwzględnia już wzrost PKB osiągnięty w przeszłości, co powoduje równie spektakularne efekty w czasie.</para>
         <para id="fs-idm233611808">Na przykład zgodnie z danymi GUS w 2000 r. Polska wypracowała PKB w wysokości ok. 748,5 mld zł przy stopie wzrostu 4,6%. Możemy oszacować, że przy tym tempie wzrostu PKB Polski wyrażony w cenach bieżących w ciągu pięciu lat wzrósłby do poziomu 937,2 mld zł (w rzeczywistości w 2005 r. osiągnął wartość 990,5 mld zł, co oznacza, że rzeczywiste średnioroczne tempo wzrostu nominalnego PKB było w Polsce wyższe i wyniosło ok. 6,5%). Dokładną wartość hipotetycznego nominalnego PKB Polski w kolejnych latach przedstawia <link target-id="Table_20_04" id="UUIDcecc3988-a5c9-41ae-6752-8ebc31d73448" />. (W nawiasie w kolumnie trzeciej rzeczywista wartość polskiego PKB w cenach bieżących).</para>
         <table summary="This table has four columns and five rows. The first row is a header row and it labels each column, “Year,” “Starting GDP,” and “Growth Rate 2.8%,” and “Year-End Amount.” Under the “Year” column are the values: 1; 2; 3; 4; and 5. Under the “Starting GDP” column are the values:  .67 Trillion ×;  .72 Trillion ×;  .76 Trillion ×;  .81 Trillion ×; and  .87 Trillion ×. Under the “Growth Rate 2.8%” column are the values: (1 + 0.028); (1 + 0.028); (1 + 0.028); (1 + 0.028); and (1 + 0.028). Under the “Year-End Amount” column are the values:  .72 Trillion;  .76 Trillion;  .81 Trillion;  .87 Trillion; and  .92 Trillion." id="Table_20_04"><title id="UUID704d5026-hy67-443d-3535deb1ab9b1e80">tytuł</title><tgroup cols="4" id="UUID704d5026-b042-40d9-32bd94fbe29d5083"><colspec colnum="1" colname="col1" id="UUID704d5026-f577-e2c1-07b19d5543e9393f" /><colspec colnum="2" colname="col2" id="UUID704d5026-5cb8-42bd-c83f805f79fb904d" /><colspec colnum="3" colname="col3" id="UUID704d5026-e0e1-b170-bc62e198957901b0" /><colspec colnum="4" colname="col4" id="UUID704d5026-aef9-fd99-8b610c9c3c74df24" /><thead id="UUID704d5026-887u-5544-cc991b8432cdf97c"><row id="UUID704d5026-f1d1-8ada-3df4153b3b827725"><entry id="UUID704d5026-9c39-88fd-cc991b8432cdf97c">ROK</entry><entry id="UUID704d5026-0e5b-de08-77482fd28c92a8cb">PKB na początek okresu</entry><entry id="UUID704d5026-accb-6fd5-65d6b30000e6ad24">Stopa wzrostu 4,6%</entry><entry id="UUID704d5026-1a5f-7b79-1bea749ae54c4696">PKB na koniec okresu</entry></row></thead><tbody id="UUID704d5026-vvtr-ssaa-1bea749ae54c4696"><row id="UUID704d5026-0c1a-a500-e4d435685940dc09"><entry id="UUID704d5026-1948-baed-1967e5ecafca4e21">1</entry><entry id="UUID704d5026-821b-9a17-d28542cdc155bdc5">748,5 mld zł ×</entry><entry id="UUID704d5026-88aa-9d2d-254f47a1f9f47818">(1+0,046)</entry><entry id="UUID704d5026-498e-ab00-0571028b326e868d">782,9 mld zł (781,5 mld zł)</entry></row><row id="UUID704d5026-8ae3-6eb2-6a45b9f10e082780"><entry id="UUID704d5026-8384-3dc8-6400263bdc5791f0">2</entry><entry id="UUID704d5026-5b3e-70ba-8b28f6bd695a9645">782,9 mld zł ×</entry><entry id="UUID704d5026-c8f6-a236-d111b15585b619a5">(1+0,046)</entry><entry id="UUID704d5026-d310-86c6-6914c9cafbfdd988">818,9 mld zł (812,2 mld zł)</entry></row><row id="UUID704d5026-f7d6-903c-aaf01dc884d75dd9"><entry id="UUID704d5026-6d3d-5ca1-53b9b0ee26cbe044">3</entry><entry id="UUID704d5026-5b2e-65f9-b739695b8e9bda29">818,9 mld zł ×</entry><entry id="UUID704d5026-fbea-e8dc-ab25f7df19639eaf">(1+0,046)</entry><entry id="UUID704d5026-0c53-90ec-265830462d0232a8">856,6 mld zł (847,2 mld zł)</entry></row><row id="UUID704d5026-6eaf-3382-1541def16b4154fb"><entry id="UUID704d5026-b44b-9a23-b23da9f76cef3953">4</entry><entry id="UUID704d5026-3eb0-0ff9-ef8b339b52f6f2af">856,6 mld zł ×</entry><entry id="UUID704d5026-fe97-9e76-b92aa0d1edf59605">(1+0,046)</entry><entry id="UUID704d5026-804f-a80d-ad7619c2ef89b7d8">896,0 mld zł (933,1 mld zł)</entry></row><row id="UUID704d5026-a9f3-f8be-6f63bbd7e8784766"><entry id="UUID704d5026-16a7-606e-ab0568dde6a81abb">5</entry><entry id="UUID704d5026-223a-2e07-15400ff0651710fd">896,0 mld zł ×</entry><entry id="UUID704d5026-581f-ed90-d954e6946d02795d">(1+0,046)</entry><entry id="UUID704d5026-981a-f911-cf92b40874d4b30d"> 937,2 mld zł (990,5 mld zł)</entry></row></tbody></tgroup></table>
         <para id="fs-idm2611536">Innym sposobem obliczenia stopy skumulowanej wzrostu jest zastosowanie następującego wzoru:</para>
@@ -207,13 +207,13 @@
   </content>
   <glossary id="UUID6971c34b-0f44-4795-6d6b-33d31d4d1795">
     <definition id="fs-idm71624736">
-      <term id="UUIDf47dd69f-05d3-475f-6e1b-a005200be46b">zagregowana funkcja produkcji (ang. <foreign xml:lang="en" id="UUIDec005fa2-11d3-48dd-65d5-46964a122f2b"><term id="UUIDc888e658-3b08-4fc2-7eec-fd177c45771e">aggregate production function</term></foreign>)</term>
+      <term id="UUIDf47dd69f-05d3-475f-6e1b-a005200be46b">zagregowana funkcja produkcji (ang. <foreign xml:lang="en" id="UUIDec005fa2-11d3-48dd-65d5-46964a122f2b">aggregate production function</foreign>)</term>
       <meaning id="fs-idm11911712">
         <para id="UUID8f5ae36e-b2c1-4bbc-78df-07a924327979">proces, w którym gospodarka jako całość przekształca nakłady ekonomiczne, takie jak kapitał ludzki, kapitał fizyczny i finansowy oraz technologia, w produkcję mierzoną jako PKB per capita</para>
       </meaning>
     </definition>
     <definition id="fs-idm19935616">
-      <term id="UUID9c589430-c808-48e6-7588-f1fbc0be3d32">skumulowana stopa wzrostu gospodarczego (ang. <foreign xml:lang="en" id="UUID2da0ac11-ca36-444b-72a2-4b70895b69ec"><term id="UUIDb60adbe2-6088-48b2-60f5-15553bf847e9">compound growth rate</term></foreign>)</term>
+      <term id="UUID9c589430-c808-48e6-7588-f1fbc0be3d32">skumulowana stopa wzrostu gospodarczego (ang. <foreign xml:lang="en" id="UUID2da0ac11-ca36-444b-72a2-4b70895b69ec">compound growth rate</foreign>)</term>
       <meaning id="fs-idm114218752">
         <para id="UUID2040ee49-1ef0-47e0-6a60-fc3aed7c124b">tempo wzrostu pomnożone przez podstawę, która obejmuje wzrost PKB w przeszłości</para>
       </meaning>
@@ -237,19 +237,19 @@
       </meaning>
     </definition>
     <definition id="fs-idp8446960">
-      <term id="UUID3d828d4b-2fd7-4537-699c-0469e1ddf5dd">produktywność pracy (ang. <foreign xml:lang="en" id="UUID68720c43-1411-43e1-6126-9489fd476178"><term id="UUIDa53ac5f5-11ef-4036-5dcd-bcb04a6ac064">labor productivity</term></foreign>)</term>
+      <term id="UUID3d828d4b-2fd7-4537-699c-0469e1ddf5dd">produktywność pracy (ang. <foreign xml:lang="en" id="UUID68720c43-1411-43e1-6126-9489fd476178">labor productivity</foreign>)</term>
       <meaning id="fs-idm65899840">
         <para id="UUID06aaef2c-a7dc-4e90-4b20-ea2beeb4286e">wkład pracy jednego pracownika lub jednej przepracowanej godziny w wartość produkcji przedsiębiorstwa (czasem nazywana również produktywnością pracowników)</para>
       </meaning>
     </definition>
     <definition id="fs-idm93182640">
-      <term id="UUID3134a6e2-8dc5-40ae-7fc5-51ab870c9959">funkcja produkcji (ang. <foreign xml:lang="en" id="UUIDa57b7480-66f0-4d9f-4712-ec3d67ff4412"><term id="UUIDc128ff2a-0516-4ab0-667d-31ab6ff67579">production function</term></foreign>)</term>
+      <term id="UUID3134a6e2-8dc5-40ae-7fc5-51ab870c9959">funkcja produkcji (ang. <foreign xml:lang="en" id="UUIDa57b7480-66f0-4d9f-4712-ec3d67ff4412">production function</foreign>)</term>
       <meaning id="fs-idm6287120">
         <para id="UUID1d1595c7-cbf9-4459-463a-d8fee03ab165">proces, w którym przedsiębiorstwo przekształca nakłady ekonomiczne, takie jak praca, maszyny i surowce w produkty, czyli towary i usługi, z których korzystają konsumenci</para>
       </meaning>
     </definition>
     <definition id="fs-idm3779520">
-      <term id="UUIDff4b02f7-d195-46fd-6eda-5daa62c9d240">zmiana technologiczna (ang. <foreign xml:lang="en" id="UUIDdff037fd-da25-4d05-705d-a2a44cc0d32f"><term id="UUID64f9e166-6338-468d-42af-b9dc5836fa04">technological change</term></foreign>)</term>
+      <term id="UUIDff4b02f7-d195-46fd-6eda-5daa62c9d240">zmiana technologiczna (ang. <foreign xml:lang="en" id="UUIDdff037fd-da25-4d05-705d-a2a44cc0d32f">technological change</foreign>)</term>
       <meaning id="fs-idm169092736">
         <para id="UUID6e38fc2e-9cbb-40a0-4831-d57adc82bcf9">połączenie wynalazku i innowacji</para>
       </meaning>

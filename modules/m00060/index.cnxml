@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U6590063d-192b-4868-bd60-4b16293b5d3d" id="U6590063d-192b-4868-bd60-4b16293b5d3d" xml:lang="en" cnxml-version="0.7">
-  <title>11.3 Macroeconomic Effects of Exchange Rates</title>
+  <title>11.3 Skutki makroekonomiczne zmian kursów walutowych</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00060</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/6590063d-192b-4868-bd60-4b16293b5d3d</md:content-url>
     <md:title>11.3 Skutki makroekonomiczne zmian kursów walutowych</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:17.000413499+00:00</md:version>
-    <md:created>2023-09-15T14:29:17.000413499+00:00</md:created>
-    <md:revised>2023-09-15T14:29:17.000413499+00:00</md:revised>
+    <md:version>2023-09-19T07:20:50.733805517+00:00</md:version>
+    <md:created>2023-09-19T07:20:50.733805517+00:00</md:created>
+    <md:revised>2023-09-19T07:20:50.733805517+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -23,15 +23,17 @@
     <md:uuid>6590063d-192b-4868-bd60-4b16293b5d3d</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
-    <list id="list-00001">
-      <item id="UUIDa64e0f22-5e0b-4da7-6d37-70e4928552af">
-        <para id="UUID5a86f92d-1eb8-430e-734b-14b848184cb0">Wyjaśnić, w jaki sposób zmiana kursu walutowego oddziałuje na globalny popyt i globalną podaż</para>
-      </item>
-      <item id="UUID929b1707-70bb-4829-7a7a-a59a795de126">
-        <para id="UUIDd61e425c-d880-4eec-7f93-fa31b4590adb">Wskazać, w jaki sposób zmiana kursu walutowego może wpływać na sektor bankowy oraz wartość udzielanych kredytów</para>
-      </item>
-    </list>
+    <note type="note" id="UUID2990665a-91be-43b5-40d7-9254d1e1491c" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUIDa64e0f22-5e0b-4da7-6d37-70e4928552af">
+          <para id="UUID5a86f92d-1eb8-430e-734b-14b848184cb0">Wyjaśnić, w jaki sposób zmiana kursu walutowego oddziałuje na globalny popyt i globalną podaż</para>
+        </item>
+        <item id="UUID929b1707-70bb-4829-7a7a-a59a795de126">
+          <para id="UUIDd61e425c-d880-4eec-7f93-fa31b4590adb">Wskazać, w jaki sposób zmiana kursu walutowego może wpływać na sektor bankowy oraz wartość udzielanych kredytów</para>
+        </item>
+      </list>
+    </note>
     <para id="fs-idm11209376">Dla banku centralnego kurs walutowy jest istotny z wielu powodów. Po pierwsze, zmiany kursu walutowego wpływają na wielkość popytu globalnego w gospodarce. Po drugie, częste i silne wahania kursu mogą zakłócać handel międzynarodowy i powodować niestabilność systemu bankowego. Jeśli kurs lokalnej waluty będzie się silnie wahał w krótkim okresie, może to doprowadzić do powstania wysokiego deficytu w bilansie obrotów bieżących i generować napływ międzynarodowego kapitału finansowego, który jest niezbędny, aby pokryć ujemne saldo na rachunku obrotów bieżących. W efekcie jeśli międzynarodowi inwestorzy zdecydują się nagle wycofać kapitał i przenieść go do innego kraju, gospodarka może wpaść w głęboką recesję. Omówmy teraz oba te scenariusze.</para>
     <section id="fs-idm14382592">
       <title id="UUID15a054b9-bd2d-4ef6-6174-4a63bbc09613">Kursy walutowe, popyt globalny i podaż globalna</title>

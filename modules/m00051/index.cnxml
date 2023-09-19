@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/a08af72a-84a5-4643-8085-efbc6f5d8f12</md:content-url>
     <md:title>9.4 Jak bank kreuje pieniądz</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.916913911+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.916913911+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.916913911+00:00</md:revised>
+    <md:version>2023-09-19T07:20:50.107116789+00:00</md:version>
+    <md:created>2023-09-19T07:20:50.107116789+00:00</md:created>
+    <md:revised>2023-09-19T07:20:50.107116789+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -87,7 +87,7 @@
     <section id="fs-idm88707968">
       <title id="UUID8e6571c2-a86e-430b-4856-77c130f13fd4">Mnożnik kreacji pieniądza i system bankowy z wieloma podmiotami</title>
       <para id="UUIDd070acf9-493b-4475-5c48-f41ef9c64014">W systemie bankowym, w ramach którego funkcjonuje wiele podmiotów, Bank Wyjątkowy zamienił swoją nadwyżkę rezerwy (stanowiła ona bowiem 100% wartości złożonych depozytów, zaś bank centralny wymaga od banków komercyjnych rezerwy w wysokości 10% depozytów) na pożyczkę dla firmy Janek Autonaprawy, która została przetransferowana do Pierwszego Banku Krajowego. Również ten bank miał nadwyżkę rezerwy gotówkowej w stosunku do wartości depozytów, w związku z czym zamienia ją na pożyczkę udzieloną firmie Jacek Uczciwy Autohandel, która z kolei została przelana na konto w Drugim Banku Krajowym. Ten również będzie miał nadwyżkę rezerwy w stosunku do wartości depozytów, więc zapewne także będzie starał się udzielić kredytu lub pożyczki przedsiębiorstwom lub gospodarstwom domowym. Jeśli wszystkie banki będą się sukcesywnie i konsekwentnie pozbywać swojej nadwyżki rezerw gotówkowych, podaż pieniądza znacznie wzrośnie. W systemie z wieloma bankami całkowitą zdolność systemu bankowego do kreacji pieniądza określa mnożnik kreacji pieniądza. Jest to formuła matematyczna pozwalająca na obliczenie tego, ile pieniądza da się wykreować dzięki jednostce monetarnej powiększającej depozyty przy danym poziomie rezerw gotówkowych.</para>
-      <para id="UUID45131898-354d-48b7-6e15-fac63c160441">A oto formuła <term id="UUIDd1d5d650-507c-4b26-6f29-bec61ec41040">mnożnika kreacji pieniądza</term> (ang. <foreign xml:lang="en" id="UUIDc0af0288-4f32-4d1d-7170-f09be0833f61"><term id="UUID61469b98-23f5-414b-4e34-bd6ee3a0880e">money multiplier formula</term></foreign>):</para>
+      <para id="UUID45131898-354d-48b7-6e15-fac63c160441">A oto formuła <term id="UUIDd1d5d650-507c-4b26-6f29-bec61ec41040">mnożnika kreacji pieniądza</term> (ang. <foreign xml:lang="en" id="UUIDc0af0288-4f32-4d1d-7170-f09be0833f61"><term cxlxt:index="foreign" id="UUID61469b98-23f5-414b-4e34-bd6ee3a0880e">money multiplier formula</term></foreign>):</para>
       <equation id="eip-779" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mn>1</mn><mtext>Rezerwa obowiązkowa</mtext></mfrac></math></equation>
       <para id="UUID28c443f7-85a5-4362-72c9-600319e1d85d">Aby określić całkowitą wielkość podaży pieniądza M1, która może zostać wytworzona w systemie bankowym, mnożnik kreacji pieniądza musimy pomnożyć przez nadwyżkę kwotową rezerw obowiązkowych w stosunku do ich minimalnej wysokości. Zapoznaj się z <link target-id="fs-idp23765232" cmlnle:case="instrumental" id="UUID827b26c1-056f-4d71-4170-aac189439781" /> i prześledź przedstawione tam obliczenia.</para>
       <note type="note" id="fs-idp23765232" class="economics workout">

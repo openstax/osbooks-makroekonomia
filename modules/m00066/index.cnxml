@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/7cc03cb3-2105-4ad6-ba38-3300763d7ac8</md:content-url>
     <md:title>12.4 Automatic Stabilizers</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:17.052578528+00:00</md:version>
-    <md:created>2023-09-15T14:29:17.052578528+00:00</md:created>
-    <md:revised>2023-09-15T14:29:17.052578528+00:00</md:revised>
+    <md:version>2023-09-19T07:20:51.186231814+00:00</md:version>
+    <md:created>2023-09-19T07:20:51.186231814+00:00</md:created>
+    <md:revised>2023-09-19T07:20:51.186231814+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -23,18 +23,20 @@
     <md:uuid>7cc03cb3-2105-4ad6-ba38-3300763d7ac8</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
-    <list id="list-00001">
-      <item id="UUIDca4d730c-8cb6-448f-4c7e-1e7107c46ce9">
-        <para id="UUID02ad1897-8a76-4666-6a15-5ac0b7540890">Opisać, w jaki sposób rząd może wykorzystać dyskrecjonalną (uznaniową) politykę fiskalną do stabilizowania gospodarki</para>
-      </item>
-      <item id="UUID119929ca-55f9-416a-6da9-9ff3e4b790e0">
-        <para id="UUID243a1b3e-8250-4088-6315-76562c316955">Objaśnić, czym są automatyczne stabilizatory koniunktury</para>
-      </item>
-      <item id="UUID1e2db7fa-156c-41c3-5ed8-a288162b285b">
-        <para id="UUID86c49962-5991-498f-4b7c-39b50af77930">Zrozumieć, w jaki sposób rząd może wykorzystać koncepcję budżetu strukturalnego (budżetu pełnego zatrudnienia) do identyfikowania automatycznych stabilizatorów koniunktury</para>
-      </item>
-    </list>
+    <note type="note" id="UUID18b572a8-8b54-4daa-7c0c-e7a6ee86b156" class="learning-objective">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUIDca4d730c-8cb6-448f-4c7e-1e7107c46ce9">
+          <para id="UUID02ad1897-8a76-4666-6a15-5ac0b7540890">Opisać, w jaki sposób rząd może wykorzystać dyskrecjonalną (uznaniową) politykę fiskalną do stabilizowania gospodarki</para>
+        </item>
+        <item id="UUID119929ca-55f9-416a-6da9-9ff3e4b790e0">
+          <para id="UUID243a1b3e-8250-4088-6315-76562c316955">Objaśnić, czym są automatyczne stabilizatory koniunktury</para>
+        </item>
+        <item id="UUID1e2db7fa-156c-41c3-5ed8-a288162b285b">
+          <para id="UUID86c49962-5991-498f-4b7c-39b50af77930">Zrozumieć, w jaki sposób rząd może wykorzystać koncepcję budżetu strukturalnego (budżetu pełnego zatrudnienia) do identyfikowania automatycznych stabilizatorów koniunktury</para>
+        </item>
+      </list>
+    </note>
     <para id="fs-idm81313344">Miliony amerykańskich bezrobotnych, którzy stracili posady w latach 2008–2009, pobierało zasiłki, w mniejszej lub większej części zastępujące ich uzyskiwane wcześniej dochody z pracy. O <term cmlnle:reference="dyskrecjonalna (uznaniowa) polityka fiskalna" id="UUID3084d5be-371e-4ee7-5806-4f5e9596ae01">dyskrecjonalnej (uznaniowej) polityce fiskalnej</term> (ang. <foreign xml:lang="en" id="UUID26d72436-ddec-4c7a-4e4f-87b66a0536d0"><term cxlxt:index="foreign" id="UUID12ca4eaf-3a28-45e8-5922-468967deb4f2">discretionary fiscal policy</term></foreign>) mówimy wtedy, gdy rząd uchwala nowe prawo wyraźnie zmieniające wysokość podatków lub wydatków państwa. Przykładem jest pakiet stymulacyjny z 2009 r. w USA, podatkowy program Polski Ład przygotowany przez rząd PiS w 2022 r., wprowadzenie do polskiego prawa programu Rodzina 500 Plus czy też trzynastej i czternastej emerytury. Zmiany wielkości podatków i wydatków państwa mogą również zachodzić automatycznie, dzięki <term cmlnle:reference="automatyczne stabilizatory" id="UUIDa7b852d3-e1e2-45fc-5108-82b732b1fe1d">automatycznym stabilizatorom koniunktury</term> (ang. <foreign xml:lang="en" id="UUIDe741187f-df58-4fd8-6e05-1c5a451b2e0f"><term cxlxt:index="foreign" id="UUID4a213b51-416b-4ee3-5d6d-cea3d59efe0a">automatic stabilizers</term></foreign>), takim jak zasiłki dla bezrobotnych, które stymulują wzrost popytu globalnego w czasie recesji i ograniczają jego rozmiary w okresie silnego ożywienia.</para>
     <section id="fs-idp80084160">
       <title id="UUID5805e28c-a482-45c3-612f-3d6df27fd01b">Łagodzenie recesji i ożywienia</title>

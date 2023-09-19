@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ua5d207f8-a6c7-4c58-b7eb-05d8254ddd8a" id="Ua5d207f8-a6c7-4c58-b7eb-05d8254ddd8a" xml:lang="en" cnxml-version="0.7">
-  <title>9.1 Defining Money by Its Functions</title>
+  <title>9.1 Definiowanie pieniądza przez rolę, jaką odgrywa</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00048</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/a5d207f8-a6c7-4c58-b7eb-05d8254ddd8a</md:content-url>
     <md:title>9.1 Definiowanie pieniądza przez rolę, jaką odgrywa</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.855527531+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.855527531+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.855527531+00:00</md:revised>
+    <md:version>2023-09-19T07:20:49.866122335+00:00</md:version>
+    <md:created>2023-09-19T07:20:49.866122335+00:00</md:created>
+    <md:revised>2023-09-19T07:20:49.866122335+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -45,7 +45,7 @@
       <para id="UUID8888b20b-7e6e-47c8-56b3-5a5dc4a87638">Pieniądz (wkrótce przejdziemy do jego definicji) rozwiązuje problemy stanowiące immanentną część systemu barterowego. Po pierwsze, służy jako <term id="UUIDf0c986ee-b844-4a17-470a-4160a574bbb2">środek wymiany</term> (ang. <foreign xml:lang="en" id="UUID0bc15873-0d61-465a-4925-05ed5eaf0939"><term cxlxt:index="foreign" id="UUID10abc82f-9ca2-4404-4314-325ff1dda820">medium of exchange</term></foreign>), co oznacza, że działa jako pośrednik między kupującym a sprzedającym. Zamiast wymieniać usługi księgowe na buty, księgowy sprzedaje swoje usługi za pieniądze, za które następnie kupuje sobie buty. Aby pieniądz mógł służyć jako środek wymiany, podmioty ekonomiczne (ludzie i przedsiębiorstwa) muszą go powszechnie akceptować na rynkach towarów i usług oraz czynników produkcji (rynkach pracy i kapitału).</para>
       <para id="UUID7ec2c4b9-f156-4a9e-5df8-2d9b7a946909">Po drugie, pieniądz musi móc służyć jako <term id="UUIDc9026c58-2b58-480e-7707-b047909173d3">środek przechowywania wartości</term> (<term cmlnle:reference="tezauryzacja" id="UUID323c594e-b4e0-4e67-4728-a4560bc358bf">tezauryzacji</term>) (ang. <foreign xml:lang="en" id="UUIDbc8346e5-68b1-403f-6792-46f273dd0ac9"><term cxlxt:index="foreign" id="UUID1858056a-7c5e-477b-7af2-e14dc3f52967">store of value</term></foreign>). Wróćmy do przykładu szewca wymieniającego swoje buty na pożądane dobra i usługi (np. księgowe). Przechowując swój majątek w postaci kolejnych par butów, ryzykuje on, że wyjdą one z mody (czyli nikt nie będzie się chciał na nie wymienić) i że ich wartość z każdym kolejnym sezonem będzie spadać. Buty nie są dobrym środkiem przechowywania wartości (w przeciwieństwie np. do dzieł sztuki, alkoholi czy znaczków pocztowych). Znacznie lepszym i łatwiejszym sposobem jest utrzymywanie oszczędności w postaci pieniędzy. Możesz spokojnie przechowywać je przez wiele lat, bo zachowają swoją wartość w kolejnym dniu i roku. Ta funkcja pieniądza nie wymaga, aby był on doskonałym środkiem przechowywania wartości. W gospodarce, w której pojawia się inflacja, pieniądz co roku traci część siły nabywczej, ale pozostaje środkiem wymiany i utrzymuje zdolność do pośredniczenia między sprzedającym a kupującym.</para>
       <para id="UUIDcc2b329f-eaa8-4508-5ac7-d3141250aa19">Po trzecie, pieniądz służy jako <term id="UUID989ed5d8-52c0-4af3-795e-257bce9e714a">jednostka rozrachunkowa</term> (ang. <foreign xml:lang="en" id="UUID3363e132-9192-47c6-7c82-0dad5074bfbc"><term cxlxt:index="foreign" id="UUID00715e3e-ff7b-4f45-6c42-9864f089ec27">unit of account</term></foreign>), co oznacza, że jest instrumentem (takim jak waga lub linijka), którym mierzymy wartość. Księgowy za rozliczenie zeznania podatkowego może pobrać opłatę w wysokości 400 zł, zamiast przeliczać ją na buty, bochenki chleba, kilogramy sera lub wędliny itd. Za 400 zł można z kolei kupić dwie pary butów, 40 bochenków chleba, kilka lub kilkanaście kilogramów wędliny lub sera. Pieniądze działają jak wspólny mianownik, metoda księgowania, która upraszcza myślenie o wymianie handlowej.</para>
-      <para id="UUID97415c8b-3a66-4102-7400-aeb0073ad288">Wreszcie ostatnią funkcją pieniądza jest to, że służy jako <term id="UUID24cc08bb-7c80-44ef-624f-dcbe029a7f27">miernik odroczonych płatności</term> (ang. <foreign xml:lang="en" id="UUIDb70911fe-9572-4393-7a99-ed24f6e38ed5"><term id="UUID1ce2bb73-413c-4ae4-4a19-7b3eded185be">standard of deferred payment</term></foreign>). Oznacza to, że jeśli pieniądze są akceptowane jako środek wymiany w dniu dzisiejszym, muszą mieć również zdolność do regulowania płatności dokonywanych w przyszłości. Dzięki tej funkcji pieniądza możliwe jest nie tylko kupowanie dóbr i usług, za które zapłacimy w przyszłości (np. w systemie ratalnym), lecz również zaciąganie pożyczek i kredytów. Warunki tego typu umów są wyrażane w pieniądzu. <term cmlnle:reference="pieniądz" id="UUID67e16101-701b-4859-5265-faeaf623d153">Pieniądz</term> (ang. <foreign xml:lang="en" id="UUID026db98f-4f47-4874-7157-612c79b3d39f"><term cxlxt:index="foreign" id="UUID4334fdb4-138e-42b8-6e24-20f2cd9fedba">money</term></foreign>) spełnia zatem wszystkie te funkcje – jest środkiem wymiany, środkiem przechowywania wartości (tezauryzacji), jednostką rozrachunkową i miernikiem odroczonych płatności.</para>
+      <para id="UUID97415c8b-3a66-4102-7400-aeb0073ad288">Wreszcie ostatnią funkcją pieniądza jest to, że służy jako <term id="UUID24cc08bb-7c80-44ef-624f-dcbe029a7f27">miernik odroczonych płatności</term> (ang. <foreign xml:lang="en" id="UUIDb70911fe-9572-4393-7a99-ed24f6e38ed5"><term cxlxt:index="foreign" id="UUID1ce2bb73-413c-4ae4-4a19-7b3eded185be">standard of deferred payment</term></foreign>). Oznacza to, że jeśli pieniądze są akceptowane jako środek wymiany w dniu dzisiejszym, muszą mieć również zdolność do regulowania płatności dokonywanych w przyszłości. Dzięki tej funkcji pieniądza możliwe jest nie tylko kupowanie dóbr i usług, za które zapłacimy w przyszłości (np. w systemie ratalnym), lecz również zaciąganie pożyczek i kredytów. Warunki tego typu umów są wyrażane w pieniądzu. <term cmlnle:reference="pieniądz" id="UUID67e16101-701b-4859-5265-faeaf623d153">Pieniądz</term> (ang. <foreign xml:lang="en" id="UUID026db98f-4f47-4874-7157-612c79b3d39f"><term cxlxt:index="foreign" id="UUID4334fdb4-138e-42b8-6e24-20f2cd9fedba">money</term></foreign>) spełnia zatem wszystkie te funkcje – jest środkiem wymiany, środkiem przechowywania wartości (tezauryzacji), jednostką rozrachunkową i miernikiem odroczonych płatności.</para>
     </section>
     <section id="fs-idm86097296">
       <title id="UUID12f5961b-63e3-4674-5ea3-f761c0a7f6ef">Pieniądz towarowy a pieniądz symboliczny (fiducjarny)</title>
@@ -130,55 +130,55 @@
       </meaning>
     </definition>
     <definition id="fs-idp58050032">
-      <term id="UUID4771442f-a40f-4f9a-43a6-635062ec6252">pieniądz towarowy (ang. <foreign xml:lang="en" id="UUID93c37f1b-aed6-4914-6c9a-77a0f7008ca1"><term id="UUID17348819-4573-4569-46dc-6d7e70fd0817">commodity money</term></foreign>)</term>
+      <term id="UUID4771442f-a40f-4f9a-43a6-635062ec6252">pieniądz towarowy (ang. <foreign xml:lang="en" id="UUID93c37f1b-aed6-4914-6c9a-77a0f7008ca1">commodity money</foreign>)</term>
       <meaning id="fs-idp49269296">
         <para id="UUIDd9a3f831-ee60-44ee-750a-472e7ed1a86c">dobro trwałe i odporne na zniszczenie, posiadające swoją pierwotną użyteczność, dzięki której jest pożądane i może być wykorzystywane jako powszechnie akceptowany pieniądz</para>
       </meaning>
     </definition>
     <definition id="fs-idp136685600">
-      <term id="UUID3339c6e1-ae10-4283-7e0e-6dbd10e635d3">waluty zabezpieczone surowcami/waluty surowcowe (ang. <foreign xml:lang="en" id="UUID8a783f06-665c-431b-697c-1cbca04fb5f8"><term id="UUID7a731e52-951a-4292-7241-9dcf09078448">commodity-backed currencies</term></foreign>)</term>
+      <term id="UUID3339c6e1-ae10-4283-7e0e-6dbd10e635d3">waluty zabezpieczone surowcami/waluty surowcowe (ang. <foreign xml:lang="en" id="UUID8a783f06-665c-431b-697c-1cbca04fb5f8">commodity-backed currencies</foreign>)</term>
       <meaning id="fs-idp50497600">
         <para id="UUIDe6e61997-686d-4b4b-51c1-af740c6c89d4">pieniądz papierowy, którego wartość jest oparta na kruszcu lub innych surowcach; posiadacz takich banknotów może je w dowolnym momencie wymienić na kruszec lub towar stanowiący ich zabezpieczenie</para>
       </meaning>
     </definition>
     <definition id="fs-idp68360976">
-      <term id="UUIDd6d243f6-53f9-45b0-449b-ff0479e3f88f">podwójna zbieżność zapotrzebowań (ang. <foreign xml:lang="en" id="UUIDa1127400-5c59-478b-5ccf-f9a79cdcc01f"><term id="UUIDd391f0f0-7710-476c-5e9f-9df5b233a366">double coincidence of wants</term></foreign>)</term>
+      <term id="UUIDd6d243f6-53f9-45b0-449b-ff0479e3f88f">podwójna zbieżność zapotrzebowań (ang. <foreign xml:lang="en" id="UUIDa1127400-5c59-478b-5ccf-f9a79cdcc01f">double coincidence of wants</foreign>)</term>
       <meaning id="fs-idm55808496">
         <para id="UUID4b29e785-ac65-4ecc-56a4-f48976daecef">sytuacja, gdy dwie osoby potrzebują określonych dóbr lub usług, które mogą sobie nawzajem zaoferować</para>
       </meaning>
     </definition>
     <definition id="fs-idp104577136">
-      <term id="UUIDfd572215-ca73-4b2c-5c90-9208398cdde6">pieniądz symboliczny/fiducjarny (ang. <foreign xml:lang="en" id="UUID90835f42-2010-4b16-5669-fc66645782c2"><term id="UUID6cef2c63-1bfd-4e9c-7c74-42b43b5de09a">fiat money</term></foreign>)</term>
+      <term id="UUIDfd572215-ca73-4b2c-5c90-9208398cdde6">pieniądz symboliczny/fiducjarny (ang. <foreign xml:lang="en" id="UUID90835f42-2010-4b16-5669-fc66645782c2">fiat money</foreign>)</term>
       <meaning id="fs-idp47543376">
         <para id="UUIDd9964411-a811-4287-762f-962b1e9c45f2">pieniądz, który nie ma żadnej innej użyteczności poza pełnioną funkcją, podstawą jego wartości jako prawnego środka płatniczego jest gwarancja państwa</para>
       </meaning>
     </definition>
     <definition id="fs-idp58063328">
-      <term id="UUID261202fb-2656-4a92-57f7-fd4f077352cd">środek wymiany (ang. <foreign xml:lang="en" id="UUIDe48aa909-5b41-417b-4558-b147e09a158c"><term id="UUID3582fb79-59e1-4a6d-47d2-c7cecb73dd22">medium of exchange</term></foreign>)</term>
+      <term id="UUID261202fb-2656-4a92-57f7-fd4f077352cd">środek wymiany (ang. <foreign xml:lang="en" id="UUIDe48aa909-5b41-417b-4558-b147e09a158c">medium of exchange</foreign>)</term>
       <meaning id="fs-idp12190096">
         <para id="UUID46c93f9c-8465-45d9-690e-caf26b4302db">dobro, które jest powszechnie akceptowane jako sposób zapłaty za dokonywane zakupy, jedna z funkcji pieniądza</para>
       </meaning>
     </definition>
     <definition id="fs-idp107752288">
-      <term id="UUID05c4db7c-71d4-42f1-7381-20ffd6658747">pieniądz (ang. <foreign xml:lang="en" id="UUID02044901-8625-466b-7676-ae145a4811b7"><term id="UUID97386746-3d9d-48a7-6ae3-fdefbd34407b">money</term></foreign>)</term>
+      <term id="UUID05c4db7c-71d4-42f1-7381-20ffd6658747">pieniądz (ang. <foreign xml:lang="en" id="UUID02044901-8625-466b-7676-ae145a4811b7">money</foreign>)</term>
       <meaning id="fs-idp111608992">
         <para id="UUID812e9bd1-9d00-4f26-505f-22af21c0f737">każde dobro, które spełnia w społeczeństwie cztery funkcje: jest środkiem wymiany, przechowywania wartości (tezauryzacji), jednostką rozrachunkową i miernikiem odroczonych płatności.</para>
       </meaning>
     </definition>
     <definition id="fs-idm35154144">
-      <term id="UUID59531b99-ae3a-41b5-7ae0-1a017eba55b4">miernik odroczonych płatności (ang. <foreign xml:lang="en" id="UUID5f33f574-a9dd-46e4-56b6-655996f7f76f"><term id="UUID8780a8a8-152d-4218-4d16-c6eb7304a904">standard of deferred payment</term></foreign>)</term>
+      <term id="UUID59531b99-ae3a-41b5-7ae0-1a017eba55b4">miernik odroczonych płatności (ang. <foreign xml:lang="en" id="UUID5f33f574-a9dd-46e4-56b6-655996f7f76f">standard of deferred payment</foreign>)</term>
       <meaning id="fs-idp108732832">
         <para id="UUID8b6d6cfa-571f-45ae-4745-fb57cf9b90f0">funkcja pieniądza polegająca na tym, że jest on akceptowany jako środek regulowania płatności w przyszłości za zakupy dokonywane obecnie</para>
       </meaning>
     </definition>
     <definition id="fs-idp111037520">
-      <term id="UUID5afe48ac-cba9-4974-5ed0-7cedba27b65b">środek przechowywania wartości (ang. <foreign xml:lang="en" id="UUID0f977ef6-ba6c-4ade-53cf-2f87a766d176"><term id="UUID867f698c-4b43-4874-6b00-c2e85230320a">store of value</term></foreign>)</term>
+      <term id="UUID5afe48ac-cba9-4974-5ed0-7cedba27b65b">środek przechowywania wartości (ang. <foreign xml:lang="en" id="UUID0f977ef6-ba6c-4ade-53cf-2f87a766d176">store of value</foreign>)</term>
       <meaning id="fs-idm5782848">
         <para id="UUIDd1e252f4-acd7-4c60-7a34-58eed30b1fbc">każde dobro, które pozwala na przechowanie ekonomicznej wartości w czasie, jedna z funkcji pieniądza</para>
       </meaning>
     </definition>
     <definition id="fs-idp111531360">
-      <term id="UUID746975f3-296e-41bf-7b67-1d70810e9fd8">jednostka rozliczeniowa (ang. <foreign xml:lang="en" id="UUID37d6c120-c37f-41c2-50c1-3aaf5772ff1a"><term id="UUID4435fd09-a96d-42fc-6887-cbbb84524f15">unit of account</term></foreign>)</term>
+      <term id="UUID746975f3-296e-41bf-7b67-1d70810e9fd8">jednostka rozliczeniowa (ang. <foreign xml:lang="en" id="UUID37d6c120-c37f-41c2-50c1-3aaf5772ff1a">unit of account</foreign>)</term>
       <meaning id="fs-idp16749456">
         <para id="UUID8f154292-eb0e-4137-79cf-7b1ba7738c1d">funkcja pieniądza polegająca na tym, że jest on wykorzystywany jako uniwersalny i powszechnie akceptowany sposób mierzenia wartości wszystkich dóbr i usług podlegających transakcjom rynkowym</para>
       </meaning>

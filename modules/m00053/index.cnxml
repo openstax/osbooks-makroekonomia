@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/21f04faa-d245-4d8f-8bce-5b5e00e6e9e3</md:content-url>
     <md:title>10.1 Zadania banku centralnego</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.934215395+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.934215395+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.934215395+00:00</md:revised>
+    <md:version>2023-09-19T07:20:50.330995810+00:00</md:version>
+    <md:created>2023-09-19T07:20:50.330995810+00:00</md:created>
+    <md:revised>2023-09-19T07:20:50.330995810+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -88,7 +88,7 @@
     </section>
     <section id="fs-idm46677104">
       <title id="UUID295fa4b2-be6e-4dc4-6ba6-5cc53583eb12">Ubezpieczenie depozytów i ostatnia instancja kredytowa</title>
-      <para id="UUID33f4f35a-d82f-40fb-46e0-b14eddc82026">Aby chronić się przed paniką na rynkach finansowych, banki centralne wykorzystują dwie strategie: <term id="UUID8ae8a8a7-b22a-42c6-6cc5-3caf0d3505c0">ubezpieczenie depozytów</term> (ang. <foreign xml:lang="en" id="UUID8d39ba7c-9093-4c01-6075-62d9b78370fb"><term cxlxt:index="foreign" id="UUID208d79da-1f35-43ae-6cda-c537a7f0ffa5">deposit insurance</term></foreign>) i tworzenie podmiotów będących <term cmlnle:reference=" kredytodawca ostatniej instancji" id="UUID12a8160d-59d6-4b02-7002-696b0620539f">kredytodawcą ostatniej instancji</term> (<term cmlnle:reference="ostatnia instancja kredytowa" id="UUID4bd4ee0e-e53a-4677-70a6-ab0cc70550ec">ostatnią instancją kredytową</term>) (ang. <foreign xml:lang="en" id="UUIDbdabbd2a-5d7d-480e-57ef-435bbc35f8b2"><term cxlxt:index="foreign" id="UUIDa7d83e0c-f549-40f9-7dc6-5c7f7ffbe7e2">lender of last resort</term></foreign>). Instytucją gwarantującą depozyty banków w Polsce, a także pełniącą funkcję ostatniej instancji kredytowej, jest Bankowy Fundusz Gwarancyjny (BFG). Zgodnie z ustawą regulującą działalność tego podmiotu z 10 czerwca 2016 r. depozyty, których równowartość w złotych nie przekracza 100 tys. euro, są gwarantowane w pełnej wysokości (w pewnych specyficznych sytuacjach gwarancje obejmują depozyty o wartości nawet do 200 tys. euro). Podstawowymi źródłami finansowania BFG są obowiązkowe składki kwartalne wnoszone przez banki objęte systemem gwarantowania. W Polsce również NBP pełni rolę kredytodawcy ostatniej instancji poprzez udzielanie kredytu lombardowego bankom komercyjnym. W bankach objętych ubezpieczeniem depozytów paniki zdarzają się już niezwykle rzadko.</para>
+      <para id="UUID33f4f35a-d82f-40fb-46e0-b14eddc82026">Aby chronić się przed paniką na rynkach finansowych, banki centralne wykorzystują dwie strategie: <term id="UUID8ae8a8a7-b22a-42c6-6cc5-3caf0d3505c0">ubezpieczenie depozytów</term> (ang. <foreign xml:lang="en" id="UUID8d39ba7c-9093-4c01-6075-62d9b78370fb"><term cxlxt:index="foreign" id="UUID208d79da-1f35-43ae-6cda-c537a7f0ffa5">deposit insurance</term></foreign>) i tworzenie podmiotów będących <term cmlnle:reference="kredytodawca ostatniej instancji" id="UUID12a8160d-59d6-4b02-7002-696b0620539f">kredytodawcą ostatniej instancji</term> (<term cmlnle:reference="ostatnia instancja kredytowa" id="UUID4bd4ee0e-e53a-4677-70a6-ab0cc70550ec">ostatnią instancją kredytową</term>) (ang. <foreign xml:lang="en" id="UUIDbdabbd2a-5d7d-480e-57ef-435bbc35f8b2"><term cxlxt:index="foreign" id="UUIDa7d83e0c-f549-40f9-7dc6-5c7f7ffbe7e2">lender of last resort</term></foreign>). Instytucją gwarantującą depozyty banków w Polsce, a także pełniącą funkcję ostatniej instancji kredytowej, jest Bankowy Fundusz Gwarancyjny (BFG). Zgodnie z ustawą regulującą działalność tego podmiotu z 10 czerwca 2016 r. depozyty, których równowartość w złotych nie przekracza 100 tys. euro, są gwarantowane w pełnej wysokości (w pewnych specyficznych sytuacjach gwarancje obejmują depozyty o wartości nawet do 200 tys. euro). Podstawowymi źródłami finansowania BFG są obowiązkowe składki kwartalne wnoszone przez banki objęte systemem gwarantowania. W Polsce również NBP pełni rolę kredytodawcy ostatniej instancji poprzez udzielanie kredytu lombardowego bankom komercyjnym. W bankach objętych ubezpieczeniem depozytów paniki zdarzają się już niezwykle rzadko.</para>
       <para id="UUID784f167d-0f83-430a-68cf-a9e0be3e192b">Problem z paniką na rynkach finansowych nie polega na tym, że niewypłacalne banki upadają; w końcu są bankrutami i trzeba je zamknąć. Kluczowe jest to, że panika na rynkach finansowych może spowodować upadek wypłacalnych banków i rozprzestrzenienie się problemu na pozostałą część systemu finansowego. Aby temu zapobiec, bank centralny jest gotów udzielać pożyczek bankom i innym instytucjom finansowym, jeśli nie mogą one uzyskać funduszy z innego źródła. Jest to funkcja nazywana <term cmlnle:reference="ostatnia instancja kredytowa" id="UUID44184c89-a315-4356-691a-fa57185ca5d3">ostatnią instancją kredytową</term>.</para>
       <para id="UUID561adfb5-65db-4ee0-7891-47b394b91f9a">Amerykański bank centralny uaktywnia się również w przypadku kryzysów finansowych innych niż ściśle bankowe. Podczas paniki na giełdzie w 1987 r. wartość akcji w USA w ciągu jednego dnia spadła o 25%. FED, dbając o stabilność systemu finansowego, w odpowiedzi na tę bezprecedensową sytuację udzielił szeregu krótkoterminowych pożyczek ratunkowych, aby system finansowy mógł dalej funkcjonować. Podczas recesji w latach 2008–2009 politykę „luzowania ilościowego” prowadzoną przez System Rezerwy Federalnej (omówioną poniżej) również można interpretować jako gotowość do udostępniania w razie potrzeby krótkoterminowych kredytów.</para>
     </section>
@@ -176,19 +176,19 @@
       </meaning>
     </definition>
     <definition id="fs-idp165081664">
-      <term id="UUIDaf515488-a0c7-4bf3-7916-c43e23f5fc02">panika na rynkach finansowych (ang. <foreign xml:lang="en" id="UUID887a69ad-cd27-4ffd-662b-b3349dc41b62"><term id="UUID2b702562-572c-413e-7f4c-2c7bf9126954">bank run</term></foreign>)</term>
+      <term id="UUIDaf515488-a0c7-4bf3-7916-c43e23f5fc02">panika na rynkach finansowych (ang. <foreign xml:lang="en" id="UUID887a69ad-cd27-4ffd-662b-b3349dc41b62">bank run</foreign>)</term>
       <meaning id="fs-idp124849264">
         <para id="UUIDee8ba7ce-3a45-4a0a-5736-e902552590c2">masowe decyzje depozytariuszy o wypłacie ich środków z banku, często podejmowane w wyniku fałszywych pogłosek lub plotek, a więc niemające racjonalnego uzasadnienia, a wynikające z obawy, że pieniądze mogą zostać utracone</para>
       </meaning>
     </definition>
     <definition id="fs-idp174662512">
-      <term id="UUID84c403f1-a8ba-4637-5358-191012cb9843">ubezpieczenie depozytów (ang. <foreign xml:lang="en" id="UUID0570c7a3-d828-4ac6-5440-7f0afff4128f"><term id="UUID94dabefd-c704-4806-60a8-357509d26f69">deposit insurance</term></foreign>)</term>
+      <term id="UUID84c403f1-a8ba-4637-5358-191012cb9843">ubezpieczenie depozytów (ang. <foreign xml:lang="en" id="UUID0570c7a3-d828-4ac6-5440-7f0afff4128f">deposit insurance</foreign>)</term>
       <meaning id="fs-idp117634672">
         <para id="UUID272c1278-2b0b-4ade-58aa-613a4159339d">system ubezpieczeniowy, który gwarantuje, że deponenci banku nie stracą swoich pieniędzy, nawet jeśli ten zbankrutuje</para>
       </meaning>
     </definition>
     <definition id="fs-idp231115040">
-      <term id="UUID5bd856dc-c48d-4d20-4397-726105b6dbcf">kredytodawca ostatniej instancji / ostatnia instancja kredytowa (ang. <foreign xml:lang="en" id="UUIDbeaf5453-b552-40c1-53fa-250a81a4935e"><term id="UUID682490a2-0015-409f-4056-d7b49cf1e9a0">lender of last resort</term></foreign>)</term>
+      <term id="UUID5bd856dc-c48d-4d20-4397-726105b6dbcf">kredytodawca ostatniej instancji / ostatnia instancja kredytowa (ang. <foreign xml:lang="en" id="UUIDbeaf5453-b552-40c1-53fa-250a81a4935e">lender of last resort</foreign>)</term>
       <meaning id="fs-idp171281328">
         <para id="UUID47dbcfa1-3513-4f46-58b8-d387d7ab2575">podmiot zdolny do udzielenia pożyczek bankom i innym instytucjom finansowym w sytuacjach, kiedy panika na rynkach zagraża całemu systemowi finansowemu</para>
       </meaning>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uac5e4c76-236a-495f-baff-3f1d6bbd376c" id="Uac5e4c76-236a-495f-baff-3f1d6bbd376c" xml:lang="en" cnxml-version="0.7">
-  <title>5.1 Measuring Trade Balances</title>
+  <title>5.1 Pomiar salda obrotów</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00025</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/ac5e4c76-236a-495f-baff-3f1d6bbd376c</md:content-url>
     <md:title>5.1 Pomiar salda obrotów</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.673236990+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.673236990+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.673236990+00:00</md:revised>
+    <md:version>2023-09-19T07:20:48.633595636+00:00</md:version>
+    <md:created>2023-09-19T07:20:48.633595636+00:00</md:created>
+    <md:revised>2023-09-19T07:20:48.633595636+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -204,19 +204,19 @@
       </meaning>
     </definition>
     <definition id="fs-idp3590288">
-      <term id="UUID5b1e9745-83f2-4f09-4e74-7aa194d17aab">saldo rachunku obrotów bieżących <foreign xml:lang="en" id="UUIDdcd09ce8-0fe1-414c-46e5-084f6cd59216"><term id="UUID704fd4bd-f1a2-4ea1-44d9-b8fc1abbe91a">current account balance</term></foreign></term>
+      <term id="UUID5b1e9745-83f2-4f09-4e74-7aa194d17aab">saldo rachunku obrotów bieżących <foreign xml:lang="en" id="UUIDdcd09ce8-0fe1-414c-46e5-084f6cd59216">current account balance</foreign></term>
       <meaning id="fs-idp175816400">
         <para id="UUID825cec32-027d-4f75-7e7d-62f6930620df">szeroka miara bilansu wymiany ekonomicznej z zagranicą, która obejmuje handel towarami i usługami, a także międzynarodowe przepływy dochodów i pomoc zagraniczną</para>
       </meaning>
     </definition>
     <definition id="fs-idp41969888">
-      <term id="UUID8740214c-54d5-46cb-747c-847572d072ba">saldo obrotów towarowych <emphasis effect="italics" /><foreign xml:lang="en" id="UUID100ba084-fb90-4786-4ec4-7a2133affd73"><emphasis effect="italics" /><term id="UUID51f3ae03-f322-4727-711e-469cbfada6e6"><emphasis effect="italics">merchandise trade balance</emphasis></term><emphasis effect="italics" /></foreign><emphasis effect="italics" /></term>
+      <term id="UUID8740214c-54d5-46cb-747c-847572d072ba">saldo obrotów towarowych <emphasis effect="italics" /><foreign xml:lang="en" id="UUID100ba084-fb90-4786-4ec4-7a2133affd73"><emphasis effect="italics">merchandise trade balance</emphasis></foreign><emphasis effect="italics" /></term>
       <meaning id="fs-idp89071024">
         <para id="UUIDa0fcb282-7eed-4605-6090-5c84a2b93cbf">bilans handlowy uwzględniający tylko handel dobrami</para>
       </meaning>
     </definition>
     <definition id="fs-idp44332416">
-      <term id="UUID6de70305-c5d1-4f5a-43a0-c7662ffbb429">transfery unilateralne (jednostronne) <foreign xml:lang="en" id="UUID125c90cb-0c37-4201-67b1-4c81dc9b3b1e"><term id="UUID292e22be-5dce-449c-5f51-98b70ae885dd">unilateral transfers</term></foreign></term>
+      <term id="UUID6de70305-c5d1-4f5a-43a0-c7662ffbb429">transfery unilateralne (jednostronne) <foreign xml:lang="en" id="UUID125c90cb-0c37-4201-67b1-4c81dc9b3b1e">unilateral transfers</foreign></term>
       <meaning id="fs-idp103350960">
         <para id="UUID84c5db38-81f1-4dea-69ad-bfb61374fcd1">płatności, jakich dokonują państwo, organizacje charytatywne, przedsiębiorstwa i osoby prywatne na rzecz podmiotów zagranicznych, którym nie towarzyszy żaden strumień ekwiwalentny</para>
       </meaning>

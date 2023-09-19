@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/e8b16063-24dc-4f2b-a935-62f59d78cb18</md:content-url>
     <md:title>10.3 Wpływ polityki pieniężnej na wynik ekonomiczny</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.950657648+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.950657648+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.950657648+00:00</md:revised>
+    <md:version>2023-09-19T07:20:50.392527398+00:00</md:version>
+    <md:created>2023-09-19T07:20:50.392527398+00:00</md:created>
+    <md:revised>2023-09-19T07:20:50.392527398+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -23,21 +23,23 @@
     <md:uuid>e8b16063-24dc-4f2b-a935-62f59d78cb18</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
-    <list id="list-00001">
-      <item id="UUID17f3ed8a-d025-416d-5b77-cfea7f83b6ff">
-        <para id="UUIDd2a2fe4a-7a37-4d6c-7e6f-8f201cc854e9">Porównać ekspansywną i restrykcyjną politykę pieniężną</para>
-      </item>
-      <item id="UUID7b84b8c5-f74c-45b0-47fd-5205337cc07a">
-        <para id="UUID5828f51d-859e-4313-710b-b5aef943f194">Wyjaśnić, w jaki sposób polityka pieniężna wpływa na poziom stóp procentowych w gospodarce i zagregowany popyt</para>
-      </item>
-      <item id="UUIDf2b76155-4460-4c4e-5466-4430326a8f3e">
-        <para id="UUID4c9c95d3-4229-4b42-7569-c1e43c153221">Ocenić skuteczność polityki pieniężnej jako narzędzia stymulowania gospodarki na przykładzie decyzji podejmowanych przez amerykański System Rezerwy Federalnej</para>
-      </item>
-      <item id="UUID70b6dd0a-5717-4beb-4f29-c95e305d73fe">
-        <para id="UUIDee3c8f4e-ebdb-4b78-5ce2-80c452ac5f80">Wyjaśnić znaczenie luzowania ilościowego (QE) jako narzędzia kontroli podaży pieniądza</para>
-      </item>
-    </list>
+    <note type="note" id="UUIDfca356c9-5f96-48f0-5368-37417506ecd6" class="learning-objectives">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUID17f3ed8a-d025-416d-5b77-cfea7f83b6ff">
+          <para id="UUIDd2a2fe4a-7a37-4d6c-7e6f-8f201cc854e9">Porównać ekspansywną i restrykcyjną politykę pieniężną</para>
+        </item>
+        <item id="UUID7b84b8c5-f74c-45b0-47fd-5205337cc07a">
+          <para id="UUID5828f51d-859e-4313-710b-b5aef943f194">Wyjaśnić, w jaki sposób polityka pieniężna wpływa na poziom stóp procentowych w gospodarce i zagregowany popyt</para>
+        </item>
+        <item id="UUIDf2b76155-4460-4c4e-5466-4430326a8f3e">
+          <para id="UUID4c9c95d3-4229-4b42-7569-c1e43c153221">Ocenić skuteczność polityki pieniężnej jako narzędzia stymulowania gospodarki na przykładzie decyzji podejmowanych przez amerykański System Rezerwy Federalnej</para>
+        </item>
+        <item id="UUID70b6dd0a-5717-4beb-4f29-c95e305d73fe">
+          <para id="UUIDee3c8f4e-ebdb-4b78-5ce2-80c452ac5f80">Wyjaśnić znaczenie luzowania ilościowego (QE) jako narzędzia kontroli podaży pieniądza</para>
+        </item>
+      </list>
+    </note>
     <para id="UUIDcf66cf88-b734-46cd-63db-7172ca01c291">Polityka pieniężna, która dzięki stymulowaniu wzrostu podaży pieniądza przekłada się na obniżanie stóp procentowych i wzrost wartości zaciągniętych pożyczek, nazywana jest <term cmlnle:reference="ekspansywna polityka pieniężna" id="UUID610b2524-9585-49d1-47c2-b75a15a6796a">ekspansywną</term> (ang. <foreign xml:lang="en" id="UUID6982e073-00ae-431f-6bd1-c2f3b64e3d77"><term cxlxt:index="foreign" id="UUID40a45076-2784-4c15-4fbb-1859101d6d8f">expansionary monetary policy</term></foreign> albo <foreign xml:lang="en" id="UUID4759581d-aa72-4656-75d4-b2d60f7afd23"><term cxlxt:index="foreign" id="UUID56fdca3b-1f80-4470-4f3e-9d2173b5615c">loose monetary policy</term></foreign>). I odwrotnie – polityka pieniężna, której efektem jest wzrost stóp procentowych i zmniejszenie wartości pożyczek (dzięki zmniejszeniu podaży pieniądza), określana jest jako <term cmlnle:reference="restrykcyjna polityka pieniężna" id="UUIDdad1545f-0ec4-4650-57e1-37288d065619">restrykcyjna</term> (ang. <foreign xml:lang="en" id="UUIDc97e2d9e-3e12-4d9d-44ec-6cb61a3a2bbb"><term cxlxt:index="foreign" id="UUIDb3a92577-e139-4919-73d9-7471250a209f">contractionary monetary policy</term></foreign> lub <foreign xml:lang="en" id="UUIDd674a4e7-6cfa-427f-7f1b-520c8fbc1100"><term cxlxt:index="foreign" id="UUIDc6b2c1ce-29ca-4f8a-788f-aa6ae652f878">tight monetary policy</term></foreign>. Należy tu podkreślić, iż polityka pieniężna prowadzona przez bank centralny wpływa także na bieżącą wycenę instrumentów dłużnych (głównie obligacji), których cena zależy od wysokości stóp procentowych – rosnące stopy zmniejszają bieżącą cenę obligacji. W tym podrozdziale omówimy sposób, w jaki ekspansywna i restrykcyjna polityka pieniężna wpływają na wysokość stóp procentowych, zagregowany popyt, a tym samym na wysokość bezrobocia oraz stopę inflacji. Spróbujemy też ocenić skuteczność polityki pieniężnej prowadzonej przez amerykański FED w ciągu ostatnich 50 lat.</para>
     <section id="fs-idm78734896">
       <title id="UUIDea16bf58-929f-49ca-571e-c8ade8bf768a">Wpływ polityki pieniężnej na stopy procentowe</title>
@@ -184,25 +186,25 @@
   </content>
   <glossary id="UUID48a45897-3c60-46ec-57a7-ccdf42497742">
     <definition id="fs-idm35984">
-      <term id="UUID3c246e8a-431b-490d-62e8-36c2f9a91465">restrykcyjna polityka pieniężna (ang. <foreign xml:lang="en" id="UUID07bcd89c-e0e7-45dc-5565-b0686a395fea"><term id="UUID51497a13-4979-487d-796f-be29b9d66630">contractionary monetary policy</term></foreign> lub <foreign xml:lang="en" id="UUID06cc273d-ca7a-472f-41a5-8ffcb38b2380"><term id="UUIDcc29185c-79e6-4275-7f3b-8df719abf551">tight monetary policy</term></foreign>)</term>
+      <term id="UUID3c246e8a-431b-490d-62e8-36c2f9a91465">restrykcyjna polityka pieniężna (ang. <foreign xml:lang="en" id="UUID07bcd89c-e0e7-45dc-5565-b0686a395fea">contractionary monetary policy</foreign> lub <foreign xml:lang="en" id="UUID06cc273d-ca7a-472f-41a5-8ffcb38b2380">tight monetary policy</foreign>)</term>
       <meaning id="fs-idm35344">
         <para id="UUID91d215b6-8735-4375-5f6e-f0e23db9ab6e">polityka pieniężna, która ograniczając podaż pieniądza, prowadzi do wzrostu stóp procentowych w gospodarce</para>
       </meaning>
     </definition>
     <definition id="fs-idm34832">
-      <term id="UUID6f2534ee-1f05-4587-42ce-ebc7799ef8e9">antycykliczny (ang. <foreign xml:lang="en" id="UUID30c62415-433f-41b1-485c-d5283edc5720"><term id="UUID88177380-0e8a-46c8-5464-0d49db353e51">countercyclical</term></foreign>)</term>
+      <term id="UUID6f2534ee-1f05-4587-42ce-ebc7799ef8e9">antycykliczny (ang. <foreign xml:lang="en" id="UUID30c62415-433f-41b1-485c-d5283edc5720">countercyclical</foreign>)</term>
       <meaning id="fs-idm34192">
         <para id="UUIDa4fd1f33-0634-4fc7-5b1f-9ff164f5da20">cecha polityki pieniężnej lub fiskalnej polegająca na tym, że narzędzia obu polityk wpływają na gospodarkę w sposób przeciwny do cyklu koniunkturalnego, pobudzają ją w czasie recesji i zmniejszają skalę aktywności gospodarczej w okresie silnej ekspansji</para>
       </meaning>
     </definition>
     <definition id="fs-idm33568">
-      <term id="UUID39056717-d546-444e-48fe-fbb585b92d0c">ekspansywna polityka pieniężna (ang. <foreign xml:lang="en" id="UUID3d00302b-b0e2-4664-68a7-a5fa5c4a8bd4"><term id="UUIDac0ed69f-0c87-4ee6-70c0-85fd2e506c83">expensionary monetary policy</term></foreign> lub <foreign xml:lang="en" id="UUIDcac6f347-8558-4dae-7eaf-c1361c8742e2"><term id="UUIDc2075668-0ffe-4b48-402c-db02d183dba1">loose monetary policy</term></foreign>)</term>
+      <term id="UUID39056717-d546-444e-48fe-fbb585b92d0c">ekspansywna polityka pieniężna (ang. <foreign xml:lang="en" id="UUID3d00302b-b0e2-4664-68a7-a5fa5c4a8bd4">expensionary monetary policy</foreign> lub <foreign xml:lang="en" id="UUIDcac6f347-8558-4dae-7eaf-c1361c8742e2">loose monetary policy</foreign>)</term>
       <meaning id="fs-idm32928">
         <para id="UUID6c4433e8-54ff-411f-7bab-1fa370ab22cd">polityka pieniężna, która zwiększając podaż pieniądza, prowadzi do spadku stóp procentowych w gospodarce</para>
       </meaning>
     </definition>
     <definition id="fs-idm406304">
-      <term id="UUID5c01e600-3d24-4b17-52c3-248ae78c6dc3">luzowanie ilościowe (QE) (ang. <emphasis effect="bold" /><foreign xml:lang="en" id="UUID75bec59f-d8c6-4e74-5801-7c8fecef9dbe"><emphasis effect="bold" /><term id="UUID56c31fb2-d296-4fe1-7291-966033e73859"><emphasis effect="bold">Q</emphasis>uantitative <emphasis effect="bold">E</emphasis>asing</term></foreign>)</term>
+      <term id="UUID5c01e600-3d24-4b17-52c3-248ae78c6dc3">luzowanie ilościowe (QE) (ang. <emphasis effect="bold" /><foreign xml:lang="en" id="UUID75bec59f-d8c6-4e74-5801-7c8fecef9dbe"><emphasis effect="bold">Q</emphasis>uantitative <emphasis effect="bold">E</emphasis>asing</foreign>)</term>
       <meaning id="fs-idm405664">
         <para id="UUIDd7625791-6307-480a-6584-9256c0d2ebb1">polityka polegająca na zakupie przez banki centralne długoterminowych publicznych i prywatnych papierów wartościowych (zarówno tych zabezpieczonych hipoteką, jak i przede wszystkim obligacji skarbowych) w celu zwiększenia dostępności funduszy pożyczkowych, a przez to pobudzenia zagregowanego popytu</para>
       </meaning>

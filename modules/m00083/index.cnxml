@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/8dd296da-63ef-48a3-a06d-cd83afeaca6b</md:content-url>
     <md:title>15.3 Handel wewnątrzgałęziowy między podobnymi gospodarkami</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:17.171696481+00:00</md:version>
-    <md:created>2023-09-15T14:29:17.171696481+00:00</md:created>
-    <md:revised>2023-09-15T14:29:17.171696481+00:00</md:revised>
+    <md:version>2023-09-19T07:20:52.330546154+00:00</md:version>
+    <md:created>2023-09-19T07:20:52.330546154+00:00</md:created>
+    <md:revised>2023-09-19T07:20:52.330546154+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -189,7 +189,7 @@
       </meaning>
     </definition>
     <definition id="fs-idm981168">
-      <term id="UUIDf8be2a5b-49c7-4009-7fa2-9a0383dbe0b7">podział łańcucha tworzenia wartości (ang. <foreign xml:lang="en" id="UUID8bb4b44a-04b5-41bb-459b-7826a3a844eb">splitting up the value chain</foreign> )</term>
+      <term id="UUIDf8be2a5b-49c7-4009-7fa2-9a0383dbe0b7">podział łańcucha tworzenia wartości (ang. <foreign xml:lang="en" id="UUID8bb4b44a-04b5-41bb-459b-7826a3a844eb">splitting up the value chain</foreign>)</term>
       <meaning id="fs-idm200920144">
         <para id="UUID575192d5-f03a-434d-4157-f0b1256eb9f9">sytuacja, w której wiele różnych etapów produkcji tego samego dobra odbywa się w zakładach przemysłowych zlokalizowanych w różnych krajach</para>
       </meaning>

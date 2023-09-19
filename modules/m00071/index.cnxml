@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ued379a5c-6b64-4de5-8279-6f6dfe3fe453" id="Ued379a5c-6b64-4de5-8279-6f6dfe3fe453" xml:lang="en" cnxml-version="0.7">
-  <title>13.2 Fiscal Policy and the Trade Balance</title>
+  <title>13.2 Polityka fiskalna a deficyt handlowy państwa</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00071</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/ed379a5c-6b64-4de5-8279-6f6dfe3fe453</md:content-url>
     <md:title>13.2 Polityka fiskalna a deficyt handlowy państwa</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:17.086981354+00:00</md:version>
-    <md:created>2023-09-15T14:29:17.086981354+00:00</md:created>
-    <md:revised>2023-09-15T14:29:17.086981354+00:00</md:revised>
+    <md:version>2023-09-19T07:20:51.374168035+00:00</md:version>
+    <md:created>2023-09-19T07:20:51.374168035+00:00</md:created>
+    <md:revised>2023-09-19T07:20:51.374168035+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -23,21 +23,23 @@
     <md:uuid>ed379a5c-6b64-4de5-8279-6f6dfe3fe453</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
-    <list id="list-00001">
-      <item id="UUIDfdb841a1-0bfe-496f-4f5a-1dd75ed30042">
-        <para id="UUID460c85fe-4ac7-46be-5390-390dea596850">Zrozumieć pojęcie deficytów bliźniaczych w odniesieniu do deficytu budżetowego i deficytu handlowego</para>
-      </item>
-      <item id="UUID72175d12-54b4-4f62-57a4-f5d4267df077">
-        <para id="UUID57f8558c-3d73-4584-50cd-8ee38f36e6d6">Wyjaśnić związek pomiędzy deficytem budżetowym a kursami walutowymi</para>
-      </item>
-      <item id="UUID84958428-ea10-4e1e-797c-240ad74746c4">
-        <para id="UUID4fa56754-23d6-40b2-6e96-aa825f659f8b">Zrozumieć relację deficytu budżetowego i inflacji</para>
-      </item>
-      <item id="UUIDbf4e2872-aba5-4f61-6a66-3b17352ac641">
-        <para id="UUID3bd90d52-71c3-42b6-5a34-d85e206eb285">Wskazać możliwe przyczyny recesji</para>
-      </item>
-    </list>
+    <note type="note" id="UUIDf2e85d34-7025-4c47-416f-9575073bcb16" class="learning-objective">
+      <para id="para-00001">Po przeczytaniu tego podrozdziału będziesz w stanie:</para>
+      <list id="list-00001">
+        <item id="UUIDfdb841a1-0bfe-496f-4f5a-1dd75ed30042">
+          <para id="UUID460c85fe-4ac7-46be-5390-390dea596850">Zrozumieć pojęcie deficytów bliźniaczych w odniesieniu do deficytu budżetowego i deficytu handlowego</para>
+        </item>
+        <item id="UUID72175d12-54b4-4f62-57a4-f5d4267df077">
+          <para id="UUID57f8558c-3d73-4584-50cd-8ee38f36e6d6">Wyjaśnić związek pomiędzy deficytem budżetowym a kursami walutowymi</para>
+        </item>
+        <item id="UUID84958428-ea10-4e1e-797c-240ad74746c4">
+          <para id="UUID4fa56754-23d6-40b2-6e96-aa825f659f8b">Zrozumieć relację deficytu budżetowego i inflacji</para>
+        </item>
+        <item id="UUIDbf4e2872-aba5-4f61-6a66-3b17352ac641">
+          <para id="UUID3bd90d52-71c3-42b6-5a34-d85e206eb285">Wskazać możliwe przyczyny recesji</para>
+        </item>
+      </list>
+    </note>
     <para id="fs-idp26678432">Wynik budżetu państwa może wpływać na saldo bilansu handlowego. Jak wynika z <link document="m00038" cmlnle:case="genitive" id="UUIDb4e99e71-d2a8-43a5-7101-94d35b257014" />, deficytowi handlowemu towarzyszy napływ netto zagranicznych inwestycji finansowych, zaś w przypadku nadwyżki handlowej występuje odpływ netto inwestycji finansowych. Jeden z kanałów, za pomocą którego deficyt budżetowy przekłada się na deficyt handlowy, przedstawia się następująco. Gdy państwo osiąga (zwiększa) deficyt budżetowy za pomocą jakiejś kombinacji niższych podatków i wyższych wydatków, popyt globalny w gospodarce rośnie. Zwiększa się także dochód, a część tego dodatkowego dochodu jest przeznaczona na zakup towarów importowanych, w efekcie czego rośnie import. Wyższy poziom importu przy niezmienionym eksporcie powoduje większy deficyt handlowy. Oznacza to, że zasoby waluty krajowej (złotych) wśród obcokrajowców rosną, ponieważ Polacy kupują więcej importowanych towarów. Cudzoziemcy wykorzystują te złote do inwestowania w Polsce, co prowadzi do napływu inwestycji zagranicznych. Tym samym jednym z możliwych źródeł finansowania deficytu budżetowego w Polsce jest zakup przez cudzoziemców skarbowych papierów wartościowych emitowanych przez polski rząd, dlatego też deficyt handlowy często towarzyszy deficytowi budżetowemu.</para>
     <section id="fs-idm24922304">
       <title id="UUID8a37ac74-ae4b-42b1-5e6c-424082bd6c04">Deficyty bliźniacze</title>

@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/b9f1b3ea-5f31-497c-80da-e8d04b7e3ad4</md:content-url>
     <md:title>1.1 PKB, czyli jak mierzyć gospodarkę?</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.476768688+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.476768688+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.476768688+00:00</md:revised>
+    <md:version>2023-09-19T07:20:47.244311008+00:00</md:version>
+    <md:created>2023-09-19T07:20:47.244311008+00:00</md:created>
+    <md:revised>2023-09-19T07:20:47.244311008+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -44,7 +44,7 @@
     <para id="UUIDf3ca2272-4f2d-4a91-67bc-e4d20cb18fe0">Uczestnikiem każdej transakcji rynkowej wliczanej do PKB musi być zarówno nabywca, jak i sprzedawca. A zatem PKB możemy obliczyć albo jako całkowitą wartość dóbr i usług kupowanych przez nabywców (tj. sumę składników popytu globalnego), albo jako całkowitą wartość dóbr i usług wyprodukowanych w danym kraju (tj. sumę wartości produkcji krajowej). Jest też trzeci sposób liczenia PKB, który wyjaśnimy później. Należy przy tym zwrócić uwagę, że – ze względu na sposób zbierania i agregacji danych przez urzędy statystyczne – sposoby te mogą dawać wyniki nieznacznie się od siebie różniące. Na przykład w roku 2021 suma składników popytu krajowego została przez GUS oszacowana na 2,59 bln zł.</para>
     <section id="fs-idm74303216" class="clearup economics">
       <title id="UUID5250ba2a-7a08-418d-7fd8-eddeaa65b55c">PKB jako suma składników popytu globalnego</title>
-      <para id="fs-idm69970080">Kto kupuje wyprodukowane dobra i usługi? Popyt możemy podzielić na cztery główne części: spożycie w sektorze gospodarstw domowych (konsumpcja), wydatki przedsiębiorstw (akumulacja brutto, popularnie zwana inwestycjami, której największą część stanowią nakłady na środki trwałe), spożycie publiczne (czyli wydatki państwa na dobra i usługi) oraz eksport netto. (Spójrz na  <link target-id="fs-idp7850816" cmlnle:case="accusative" id="UUID2e23c56d-dea9-4344-7ce1-22bb050a92fc" />). <link target-id="Table_19_01" id="UUIDfa268dea-44c2-40f2-40b4-e20acf40fe0f" /> oraz wykres zamieszczony na <link target-id="fs-idm479350048" cmlnle:case="locative" id="UUID137ab1d0-8a80-4138-4bee-159b9879cc6b" /> pokazują sposób obliczania PKB metodą popytową w Polsce w 2021 r. Z kolei panel (a) <link target-id="CNX_Econ_C19_007" cmlnle:case="genitive" id="UUID61cf0280-18d4-422b-42b2-5b507cdcc767" /> przedstawia wielkość konsumpcji, akumulacji brutto i wydatków państwa na dobra i usługi (w % PKB), zaś panel (b) <link target-id="CNX_Econ_C19_007" cmlnle:case="genitive" id="UUIDe685f2bc-b952-493c-5524-fafd44eaefb7" /> przedstawia wielkość eksportu i importu (w % PKB). Warto zwrócić uwagę na kilka cech charakterystycznych w zachowaniu się poszczególnych zmiennych.</para>
+      <para id="fs-idm69970080">Kto kupuje wyprodukowane dobra i usługi? Popyt możemy podzielić na cztery główne części: spożycie w sektorze gospodarstw domowych (konsumpcja), wydatki przedsiębiorstw (akumulacja brutto, popularnie zwana inwestycjami, której największą część stanowią nakłady na środki trwałe), spożycie publiczne (czyli wydatki państwa na dobra i usługi) oraz eksport netto. (Spójrz na <link target-id="fs-idp7850816" cmlnle:case="accusative" id="UUID2e23c56d-dea9-4344-7ce1-22bb050a92fc" />). <link target-id="Table_19_01" id="UUIDfa268dea-44c2-40f2-40b4-e20acf40fe0f" /> oraz wykres zamieszczony na <link target-id="fs-idm479350048" cmlnle:case="locative" id="UUID137ab1d0-8a80-4138-4bee-159b9879cc6b" /> pokazują sposób obliczania PKB metodą popytową w Polsce w 2021 r. Z kolei panel (a) <link target-id="CNX_Econ_C19_007" cmlnle:case="genitive" id="UUID61cf0280-18d4-422b-42b2-5b507cdcc767" /> przedstawia wielkość konsumpcji, akumulacji brutto i wydatków państwa na dobra i usługi (w % PKB), zaś panel (b) <link target-id="CNX_Econ_C19_007" cmlnle:case="genitive" id="UUIDe685f2bc-b952-493c-5524-fafd44eaefb7" /> przedstawia wielkość eksportu i importu (w % PKB). Warto zwrócić uwagę na kilka cech charakterystycznych w zachowaniu się poszczególnych zmiennych.</para>
       <table summary="This table has three columns and six rows. The first row is a header row and it labels the last two columns, “Components of GDP on the Demand Side (in trillions of dollars),” and “Percentage of Total.” Under the first, unlabeled column are the values: Consumption, Investment, Government, Exports, Imports, and Total GDP.  Under the “Components of GDP on the Demand Side (in trillions of dollars)” column are the values: $12.8, $3.0, $3.3, $2.2, −$2.7, and $18.6. Under the “Percentage of Total” column are the values: 68.8%, 16.1%, 17.7%, 11.8%, −14.5%, and 100%." id="Table_19_01"><title id="UUIDe06ee0fa-7dbc-4f75-627e-12532a8f79d0">Rachunek tworzenia PKB od strony popytowej w Polsce w 2021 r.</title><tgroup cols="3" id="UUID704d5026-0be0-472e-d47b3e8347e0014b"><colspec colnum="1" colname="col1" id="UUID704d5026-2b19-aff5-7065ab5a8665b9d3" /><colspec colnum="2" colname="col2" id="UUID704d5026-9418-bf86-63c2c6f0395456c9" /><colspec colnum="3" colname="col3" id="UUID704d5026-d038-432e-8a82fbc6a3e6b191" /><thead id="UUID704d5026-vftr-3422-793a442f8a9d3416"><row id="UUID704d5026-4d39-6594-793a442f8a9d3416"><entry id="UUID704d5026-e729-35e4-22bd81123e287520">Popytowe składniki PKB</entry><entry id="UUID704d5026-8fc1-6251-2a0a1480d53ecf40">W bln zł</entry><entry id="UUID704d5026-08b8-f839-5c8603903683af77">Odsetek PKB</entry></row></thead><tbody id="UUID704d5026-ffrr-weww-08713b5d952c53f9"><row id="UUID704d5026-27d9-ce9a-32805da1141abb5f"><entry id="UUID704d5026-40fd-ee72-55629264808b7888">Spożycie w sektorze gospodarstw domowych (konsumpcja)</entry><entry id="UUID704d5026-0962-5a0d-bd28701a3dee50d7">1,45</entry><entry id="UUID704d5026-2ea1-ccf1-7ced586286b302b2">55,9%</entry></row><row id="UUID704d5026-93ae-7a52-08713b5d952c53f9"><entry id="UUID704d5026-4652-8ccd-7499d2092be8c1bf">Akumulacja brutto (wydatki przedsiębiorstw – inwestycje)</entry><entry id="UUID02e63386-f928-479d-78df-12f3ad4370c3">0,56</entry><entry id="UUID704d5026-6012-e062-bf29ba747eeeb642">21,7%</entry></row><row id="UUID704d5026-1b89-bb0f-52655615337629bb"><entry id="UUID704d5026-ae89-eacd-5f1e3d537921e41c">Spożycie publiczne (wydatki państwa na dobra i usługi)</entry><entry id="UUID704d5026-8140-a745-07731c12b7d39dac">0,49</entry><entry id="UUID704d5026-589e-2bd2-d86d9fb725e9143e">18,9%</entry></row><row id="UUID704d5026-abc1-7951-4ebf4d4efd059074"><entry id="UUID704d5026-b60f-976e-68e1bd6855a3e5e0">Eksport</entry><entry id="UUID704d5026-04ef-bd19-6cd8775c6d54838d">1,52</entry><entry id="UUID704d5026-a1de-6f96-4944f9b9ee41d1d5">58,5%</entry></row><row id="UUID704d5026-a942-36e0-cf5ae3a250cd772a"><entry id="UUID704d5026-cbb1-281c-c2a425251dcd2e7b">Import</entry><entry id="UUID704d5026-ff88-e717-0c4c7488ec72db0f">–1,43</entry><entry id="UUID704d5026-da82-1700-4b00f844305164af">–55,0%</entry></row><row id="UUID704d5026-19f9-509c-535cd58becadead3"><entry id="UUID704d5026-0d62-5c24-9e70f976c1941a63"><emphasis effect="bold">Produkt krajowy brutto (PKB)</emphasis></entry><entry id="UUID704d5026-89fb-fe2e-2d849fdf58013c5c"><emphasis effect="bold">2,59</emphasis></entry><entry id="UUID704d5026-2464-4874-6e9110eb24aa26a5"><emphasis effect="bold">100%</emphasis></entry></row></tbody></tgroup><caption id="UUID704d5026-19cc-21ff-ad9ab44456cd6f57">(Źródło: https://stat.gov.pl/wskazniki-makroekonomiczne)</caption></table>
       <figure id="fs-idm479350048">
         <title id="UUID15a415a8-d883-4c88-5faa-6a334bcad809">Rachunek tworzenia PKB od strony popytowej w Polsce w 2021 r.</title>
@@ -70,7 +70,7 @@
       <para id="UUID599d2bb2-5512-46b9-702a-102bdfbfe491">Jeśli chcesz dowiedzieć się więcej o niezwykle skomplikowanym przedsięwzięciu, jakim jest liczenie amerykańskiego PKB, przeczytaj poniższą <link target-id="fs-idm64181600" cmlnle:case="accusative" id="UUID3a4fe2d2-6fe1-4623-7970-b5273a0a9f0f" />.</para>
       <note type="note" id="fs-idm64181600" class="clearup economics">
         <title id="UUID11c5f56d-4c7a-4057-57e3-73bf0cd6e57b">Jak statystycy obliczają PKB?</title>
-        <para id="fs-idp90395328">W Stanach Zjednoczonych ekonomiści z Biura Analiz Ekonomicznych (ang. <foreign xml:lang="en" id="UUIDb35d6160-b8bb-43db-525f-d9846b528bef">Bureau of Economic Analysis – BEA</foreign>) w Departamencie Handlu agregują poszczególne składowe PKB pochodzące z różnych źródeł.</para>
+        <para id="fs-idp90395328">W Stanach Zjednoczonych ekonomiści z <term cmlnle:reference="Biuro Analiz Ekonomicznych" id="UUIDed831bf5-4e84-4a23-43a3-0dccd613f8b9">Biura Analiz Ekonomicznych</term> (ang. <foreign xml:lang="en" id="UUIDb35d6160-b8bb-43db-525f-d9846b528bef"><term cmlnle:reference="Bureau of Economic Analysis (BEA)" id="UUID2fa92a91-4088-4ee7-7919-1959a30ddba6">Bureau of Economic Analysis</term> – BEA</foreign>) w Departamencie Handlu agregują poszczególne składowe PKB pochodzące z różnych źródeł.</para>
         <para id="UUID343b39bb-1868-4f4f-5073-bbf5a959b5c4">Raz na pięć lat, tj. w drugim i siódmym roku każdej dekady, Biuro Spisu Ludności (Bureau of the Census) przeprowadza szczegółowy spis przedsiębiorstw w całych Stanach Zjednoczonych. W międzyczasie prowadzone są comiesięczne badania sprzedaży detalicznej. Następnie wartości te są korygowane o dane dotyczące handlu zagranicznego, aby uwzględnić eksport towarów wyprodukowanych w Stanach Zjednoczonych i sprzedanych za granicę oraz import towarów, które zostały wytworzone za granicą i kupione przez amerykańskie podmioty. Raz na dziesięć lat Biuro Spisu Ludności dokonuje kompleksowego badania sytuacji finansowej i mieszkaniowej gospodarstw domowych. Po odpowiednim zagregowaniu źródła te stanowią podstawę do oszacowania wielkości konsumpcji w gospodarce amerykańskiej.</para>
         <para id="UUIDd3ce45ec-1679-4f4f-66d5-cacb834c87da">W celu obliczenia wielkości inwestycji Biuro Spisu Ludności przeprowadza miesięczne badania budownictwa i roczne analizy wydatków na zakupy kapitału rzeczowego.</para>
         <para id="UUIDc72a3c31-1d31-4164-5e72-8d0dc341c391">Dane o wydatkach rządu federalnego dostarczane są przez amerykański Departament Skarbu. Informacje na temat wydatków na poziomie stanowym i lokalnym pochodzą z corocznych sprawozdań administracji tych szczebli. Ponieważ na wszystkich poziomach administracji duża część wydatków jest związana z zatrudnieniem pracowników do świadczenia usług publicznych, dane dotyczące takich wydatków można również zebrać za pośrednictwem list płac gromadzonych przez władze stanowe i fundusz ubezpieczeń społecznych.</para>
@@ -123,7 +123,7 @@
             <title id="UUID7c03b9aa-a86b-47b6-4e01-078878472f04">Inne sposoby pomiaru wielkości gospodarki</title>
             <para id="UUID32a06b00-3908-40ee-76b9-05429370fe9e">Oprócz PKB istnieje kilka alternatywnych, ale ściśle ze sobą powiązanych mierników pozwalających obliczyć wielkość gospodarki. Jak wiemy z wcześniejszej analizy, PKB odzwierciedla zarówno całkowitą produkcję, jak i całkowite wydatki. Jest jednocześnie miernikiem całkowitego dochodu, ponieważ wszystkie towary wyprodukowane i sprzedane na rynku przynoszą dochód.</para>
             <para id="fs-idm67605408">Jednym z najczęściej stosowanych alternatywnych mierników jest <term id="UUID5afff10e-b847-42a5-55e2-c62181324a78">dochód narodowy brutto (DNB)</term> (ang. <foreign xml:lang="en" id="UUID0bf97f3e-4571-4d2c-59bd-1181239b9e91"><term cxlxt:index="foreign" id="UUIDa47a6558-a444-48e5-71e0-abcc7ca56504">gross national income (GNI)</term></foreign>). PKB obejmuje tylko produkcję wytworzoną na terenie danego kraju. Natomiast DNB powiększony jest o przekazane do kraju dochody z tytułu własności i pracy wykonywanej za granicą, a pomniejszony o dochody podmiotów zagranicznych uzyskiwane w danym kraju i przekazywane do innych państw. Innymi słowy, DNB mierzy dochody obywateli danego kraju niezależnie od tego, gdzie produkcja się odbywa, natomiast PKB mierzy produkcję wytwarzaną w granicach geograficznych danego państwa. Zarówno w Polsce, jak i w Stanach Zjednoczonych różnica między PKB a DNB jest stosunkowo niewielka – w ostatnich latach w Polsce było to jedynie ok. 5% na korzyść PKB. W przypadku małych krajów, których znaczna część obywateli pracuje za granicą i wysyła pieniądze do ojczyzny, dodatnia różnica pomiędzy DNB i PKB może być o wiele większa.</para>
-            <para id="fs-idp32378176"><term cmlnle:reference="dochód narodowy netto (DNN)" id="UUID13e5f26d-e40a-438c-7fb1-1f3c86f0a9a0">Dochód narodowy netto (DNN)</term> (ang. <foreign xml:lang="en" id="UUIDa98e53b9-ac2b-4713-783d-f7b55854d9f6"><term cxlxt:index="foreign" id="UUIDa9a5ca08-393b-4e7b-5e6d-a65c82bed456">net national income (NNI)</term></foreign>) obliczamy, odejmując od DNB spadek wartości środków trwałych z powodu ich wieku lub zużycia, do jakiego doszło w trakcie zdefiniowanego okresu (najczęściej roku). Spadek wartości kapitału z uwagi na zużycie i wiek nazywamy <term cmlnle:reference="amortyzacja" id="UUID78ee7432-3996-44c7-7ef1-60db6798b010">amortyzacją</term> (ang. <foreign xml:lang="en" id="UUID3f4fc8a5-afae-4d44-704b-d7ea6a34e561"><term cxlxt:index="foreign" id="UUID10dce057-67a9-402e-4b8f-785c8c7850cc">depreciation</term></foreign>). Jeśli od wartości DNN odejmiemy wartość podatków pośrednich, takich jak VAT i akcyza, otrzymamy <term id="UUID58d4ef72-7505-45b3-4057-aaccc30cb319">dochód narodowy</term> (ang. <foreign xml:lang="en" id="UUID28b16cb9-72ad-4eba-6bfd-aa19c087abbb"><term cxlxt:index="foreign" id="UUID756e8583-5024-43b4-4d0d-491b6cd4730b">national income</term></foreign>). Dochód narodowy obejmuje zarówno dochody przedsiębiorstw, jak i dochody gospodarstw domowych. Nieco inną miarą jest dochód rozporządzalny, który obejmuje jedynie dochody pozostające w dyspozycji gospodarstw domowych (dochód rozporządzalny uwzględnia transfery wypłacane gospodarstwom domowym przez państwo – np. stypendia i zasiłki socjalne – a nie obejmuje podatków dochodowych i dochodów państwa z tytułu własności).</para>
+            <para id="fs-idp32378176"><term cmlnle:reference="dochód narodowy netto (DNN)" id="UUID13e5f26d-e40a-438c-7fb1-1f3c86f0a9a0">Dochód narodowy netto (DNN)</term> (ang. <foreign xml:lang="en" id="UUIDa98e53b9-ac2b-4713-783d-f7b55854d9f6"><term cxlxt:index="foreign" id="UUIDa9a5ca08-393b-4e7b-5e6d-a65c82bed456">net national income (NNI)</term></foreign>) obliczamy, odejmując od DNB spadek wartości środków trwałych z powodu ich wieku lub zużycia, do jakiego doszło w trakcie zdefiniowanego okresu (najczęściej roku). Spadek wartości kapitału z uwagi na zużycie i wiek nazywamy <term cmlnle:reference="amortyzacja" id="UUID78ee7432-3996-44c7-7ef1-60db6798b010">amortyzacją</term> (ang. <foreign xml:lang="en" id="UUID3f4fc8a5-afae-4d44-704b-d7ea6a34e561"><term cxlxt:index="foreign" id="UUID10dce057-67a9-402e-4b8f-785c8c7850cc">depreciation</term></foreign>). Jeśli od wartości DNN odejmiemy wartość podatków pośrednich, takich jak VAT i akcyza, otrzymamy <term id="UUID58d4ef72-7505-45b3-4057-aaccc30cb319">dochód narodowy</term> (ang. <foreign xml:lang="en" id="UUID28b16cb9-72ad-4eba-6bfd-aa19c087abbb"><term cxlxt:index="foreign" cmlnle:reference="national income" id="UUID756e8583-5024-43b4-4d0d-491b6cd4730b">national income</term></foreign>). Dochód narodowy obejmuje zarówno dochody przedsiębiorstw, jak i dochody gospodarstw domowych. Nieco inną miarą jest dochód rozporządzalny, który obejmuje jedynie dochody pozostające w dyspozycji gospodarstw domowych (dochód rozporządzalny uwzględnia transfery wypłacane gospodarstwom domowym przez państwo – np. stypendia i zasiłki socjalne – a nie obejmuje podatków dochodowych i dochodów państwa z tytułu własności).</para>
             <para id="UUID0d419c05-3122-4c58-701f-d31b5917e4ee">Ze względów praktycznych zapamiętywanie tych definicji nie jest konieczne. Ważne jest jednak, abyśmy mieli świadomość, że te różnice istnieją, i wiedzieli, jakim miernikiem się posługujemy, żeby przypadkowo nie porównać np. PKB w jednym roku lub dla jednego kraju z PNB lub PNN w innym roku lub w innym kraju. Aby lepiej poznać sposób obliczania poszczególnych mierników dochodu narodowego, przeanalizuj <link target-id="fs-idp39724256" cmlnle:case="accusative" id="UUID1313432a-6cc4-430e-4992-f06790f032c4" />.</para>
             <note type="note" id="fs-idp39724256" class="economics workout">
               <title id="UUID5d017684-1754-4f67-473d-f689d1c96417">Obliczanie PKB, eksportu netto i DNN</title>
@@ -295,99 +295,99 @@
   </content>
   <glossary id="UUID0b06b87f-9e12-4eaf-7b2f-5b9451af081c">
     <definition id="fs-idm161172336">
-      <term id="UUID5949e79b-ed73-4e01-6636-c99487b04142">amortyzacja (ang. <term id="UUID28ad9b52-b98e-4675-5b61-a42439f4fc18">depreciation</term>)</term>
+      <term id="UUID5949e79b-ed73-4e01-6636-c99487b04142">amortyzacja (ang. <foreign xml:lang="en" id="UUIDb2539acd-a091-4f8a-61bc-8e13c2066241">depreciation</foreign>)</term>
       <meaning id="fs-idm140874752">
         <para id="UUIDbf077fe2-1539-4afa-6f94-7c951725c301">spadek wartości dóbr kapitałowych z uwagi na ich starzenie się i zużycie w trakcie procesu produkcyjnego</para>
       </meaning>
     </definition>
     <definition id="fs-idm126759216">
-      <term id="UUID28e80acc-40be-43de-47c4-9c3d6caaf32a">podwójne liczenie (ang. <term id="UUID05371a59-6cfa-477d-733e-701ddba7ccba">double counting</term>)</term>
+      <term id="UUID28e80acc-40be-43de-47c4-9c3d6caaf32a">podwójne liczenie (ang. <foreign xml:lang="en" id="UUID331518a1-82ae-4ae0-5fb4-f08137529abd">double counting</foreign>)</term>
       <meaning id="fs-idm107687408">
         <para id="UUID597ed1c6-2cb5-4e06-57a0-1e9538354d0c">potencjalny błąd, którego należy unikać przy pomiarze PKB, polegający na tym, że wartość niektórych dóbr podczas ich przechodzenia przez kolejne etapy procesu wytwórczego jest liczona więcej niż raz</para>
       </meaning>
     </definition>
     <definition id="fs-idm57094944">
-      <term id="UUIDd915d655-805b-4f83-5396-2973d86b984e">dobro trwałego użytku (ang. <term id="UUID6f5f70e4-bf3f-4a4f-4545-ef7ef05e5aaf">durable good</term>)</term>
+      <term id="UUIDd915d655-805b-4f83-5396-2973d86b984e">dobro trwałego użytku (ang. <foreign xml:lang="en" id="UUIDe78bc10a-b9a8-45a4-6a6d-1b2501ac34bd">durable good</foreign>)</term>
       <meaning id="fs-idm110678288">
         <para id="UUIDa30f0b2e-b1cf-4a0b-5457-bb956ca5ea58">dobro o długim okresie użytkowania, np. samochód lub lodówka</para>
       </meaning>
     </definition>
     <definition id="fs-idm80257568">
-      <term id="UUID02fd7dec-2552-414b-577d-c2376fbd8bb5">finalne dobro i usługa (ang. <term id="UUIDbe426a6b-7e9c-407e-7439-d8ceb9d9197c">final good and service</term>)</term>
+      <term id="UUID02fd7dec-2552-414b-577d-c2376fbd8bb5">finalne dobro i usługa (ang. <foreign xml:lang="en" id="UUID74f46df4-099a-47e8-42cf-2fcd04cc749e">final good and service</foreign>)</term>
       <meaning id="fs-idm57595264">
         <para id="UUIDfe7f54dd-24c0-4660-4681-3dbeaeeab655">produkt konsumpcyjny lub inwestycyjny dla odbiorcy końcowego, który nie zostanie już w żaden sposób przetworzony ani wykorzystany jako część innego dobra; jego przeciwieństwem jest „dobro pośrednie”</para>
       </meaning>
     </definition>
     <definition id="fs-idm97899248">
-      <term id="UUIDef1d97a5-10c9-4a32-610b-0ba1d3f634f3">produkt krajowy brutto (PKB) (ang. <term id="UUID0b9983d0-00ca-4ee3-5b41-658089246e4b">gross domestic product (GDP)</term>)</term>
+      <term id="UUIDef1d97a5-10c9-4a32-610b-0ba1d3f634f3">produkt krajowy brutto (PKB) (ang. <foreign xml:lang="en" id="UUID96109a68-e057-412b-40fe-8ced46f30dbc">gross domestic product (GDP)</foreign>)</term>
       <meaning id="fs-idm110168080">
         <para id="UUIDb7cc2c3b-cc10-4c40-463e-86de0603f4fb">wartość wszystkich finalnych dóbr i usług wytworzonych w danym kraju w ciągu roku</para>
       </meaning>
     </definition>
     <definition id="fs-idm49989376">
-      <term id="UUID006c8b06-f86a-437c-422e-72de58f7c8f6">dochód narodowy brutto (DNB) (ang. <term id="UUID3df724fd-6c19-4237-48b1-783de13ee68a">gross national income (GNI)</term>)</term>
+      <term id="UUID006c8b06-f86a-437c-422e-72de58f7c8f6">dochód narodowy brutto (DNB) (ang. <foreign xml:lang="en" id="UUID39ec19fc-ad7a-4496-4015-909163cac166">gross national income (GNI)</foreign>)</term>
       <meaning id="fs-idm97558432">
         <para id="UUIDcb287d90-d316-4dbb-45c7-c642cf93f0c8">wartość produkcji krajowej (PKB) powiększona o dochody z tytułu własności i pracy uzyskane za granicą i przekazane do kraju, a pomniejszona o dochody z tytułu własności i pracy uzyskane w kraju i przekazane za granicę</para>
       </meaning>
     </definition>
     <definition id="fs-idm74486256">
-      <term id="UUID0ffee872-1189-4298-5aa9-ab8f8031239c">dobro pośrednie (ang. <term id="UUID179f70d8-9130-432f-788f-f90c3378f8ed">intermediate good</term>)</term>
+      <term id="UUID0ffee872-1189-4298-5aa9-ab8f8031239c">dobro pośrednie (ang. <foreign xml:lang="en" id="UUID50d9bf13-263a-45c1-4b2d-114ce6c54523">intermediate good</foreign>)</term>
       <meaning id="fs-idm85030448">
         <para id="UUIDcaff05df-1806-4bf4-4612-21b5375d4cfd">dobro przetwarzane przez przedsiębiorstwa lub włączane jako składnik innych dóbr, nieprzeznaczone dla odbiorcy końcowego; jego przeciwieństwem jest „finalne dobro i usługa”</para>
       </meaning>
     </definition>
     <definition id="fs-idm65459520">
-      <term id="UUIDca62381f-9e2f-4bc7-57fa-e26998a87fa1">zapas (ang. <term id="UUID4e17c320-be7d-4724-5d28-57a97ef03650">inventory</term>)</term>
+      <term id="UUIDca62381f-9e2f-4bc7-57fa-e26998a87fa1">zapas (ang. <foreign xml:lang="en" id="UUID0604d192-8a18-4a75-5e37-6aad9b5882c2">inventory</foreign>)</term>
       <meaning id="fs-idm84222976">
         <para id="UUID41a082c2-6661-4b5b-4d5f-d22456ae16e2">dobro, które zostało wyprodukowane, ale nie zostało jeszcze sprzedane</para>
       </meaning>
     </definition>
     <definition id="fs-idm74957648">
-      <term id="UUID195e9441-a241-48a4-63af-bd48cfcb252c">dochód narodowy (ang. <term id="UUID48bf65a7-cf99-4345-41b3-4f7d9b70e247">national income</term>)</term>
+      <term id="UUID195e9441-a241-48a4-63af-bd48cfcb252c">dochód narodowy (ang. <foreign xml:lang="en" id="UUIDb4d9da95-8931-4958-5cc1-98a89b26a157">national income</foreign>)</term>
       <meaning id="fs-idm97588256">
         <para id="UUID6b86a3e0-357b-495f-44cc-cd453dad523e">kategoria obejmująca wszystkie uzyskane dochody, w tym płace, zyski i czynsze, dochód narodowy netto (DNN) pomniejszony o wartość podatków pośrednich</para>
       </meaning>
     </definition>
     <definition id="fs-idm77297152">
-      <term id="UUIDe2913457-63a0-4ccc-7c37-68aa114ddf5c">dochód narodowy netto (DNN) (ang. <term id="UUIDe616199a-4c25-4c60-7c72-29f5c65de257">net national income (NNI)</term>)</term>
+      <term id="UUIDe2913457-63a0-4ccc-7c37-68aa114ddf5c">dochód narodowy netto (DNN) (ang. <foreign xml:lang="en" id="UUID89bc9265-4985-4843-60ee-ff3ca6a626c7">net national income (NNI)</foreign>)</term>
       <meaning id="fs-idm1713792">
         <para id="UUID8f19861b-65a5-49ee-4736-de41b2d709e3">PNB pomniejszony o amortyzację</para>
       </meaning>
     </definition>
     <definition id="fs-idm43268672">
-      <term id="UUID4dcb10dc-86ef-4be2-7ddc-61223b88f6bf">dobro nietrwałe (ang. <term id="UUID26cab48a-1a46-4644-43e1-5b40e1ff5944">nondurable good</term>)</term>
+      <term id="UUID4dcb10dc-86ef-4be2-7ddc-61223b88f6bf">dobro nietrwałe (ang. <foreign xml:lang="en" id="UUIDdb1d8cab-3b34-4c00-5ff3-d2343c89a347">nondurable good</foreign>)</term>
       <meaning id="fs-idm101605344">
         <para id="UUIDbaa3c4e4-df96-47de-69e9-1ea31dc286c0">dobro o krótkim okresie użytkowania, np. żywność lub ubranie</para>
       </meaning>
     </definition>
     <definition id="fs-idm27665664">
-      <term id="UUIDd9793aab-2004-4e7c-7749-9f95e4446166">usługa (ang. <term id="UUID96ea8b43-f0da-414b-6e01-37d0fef882ed">service</term>)</term>
+      <term id="UUIDd9793aab-2004-4e7c-7749-9f95e4446166">usługa (ang. <foreign xml:lang="en" id="UUIDc60c8feb-0bc2-4763-7fe8-09c8b9ffdef1">service</foreign>)</term>
       <meaning id="fs-idm1857536">
         <para id="UUID57661b0c-e16b-4dd0-60cb-74b36ba04564">produkt niematerialny (w przeciwieństwie do dóbr), np. rozrywka, opieka zdrowotna lub edukacja</para>
       </meaning>
     </definition>
     <definition id="fs-idm153140624">
-      <term id="UUIDcd205e34-7652-4a5e-6b3c-01dd6c53e060">budynki i budowle (ang. <term id="UUID7ddd324f-4d41-4021-55c3-89dbf80dd6cd">structure</term>)</term>
+      <term id="UUIDcd205e34-7652-4a5e-6b3c-01dd6c53e060">budynki i budowle (ang. <foreign xml:lang="en" id="UUID4a14540e-21ca-4f0b-57da-cabbbbf6c08b">structure</foreign>)</term>
       <meaning id="fs-idm65187104">
         <para id="UUID9470d04f-f1b0-427c-4276-75961d78aef5">nieruchomości wykorzystywane jako mieszkania, fabryki, biura, sklepy lub do innych celów związanych z prowadzoną działalnością gospodarczą</para>
       </meaning>
     </definition>
     <definition id="fs-idm25549936">
-      <term id="UUID2084a836-d752-4fc0-45c1-1d1a27a47565">saldo bilansu handlowego, eksport netto (ang. <term id="UUIDf57d26dc-40dd-4230-7fe9-1a4683926dd6">trade balance</term>)</term>
+      <term id="UUID2084a836-d752-4fc0-45c1-1d1a27a47565">saldo bilansu handlowego, eksport netto (ang. <foreign xml:lang="en" id="UUID3e6ef89c-ea37-4cb5-45fa-74ed4c0a53b1">trade balance</foreign>)</term>
       <meaning id="fs-idm55648976">
         <para id="UUIDa113ff37-730c-46a6-6d50-6cd3c31ac8b3">różnica między eksportem a importem</para>
       </meaning>
     </definition>
     <definition id="fs-idm4661728">
-      <term id="UUID6fb3556e-e11b-4fa9-5c98-355ad48dbe9c">deficyt handlowy (ang. <term id="UUIDcc5cad3c-d206-4835-551d-6ae4c5ba2a1b">trade deficit</term>)</term>
+      <term id="UUID6fb3556e-e11b-4fa9-5c98-355ad48dbe9c">deficyt handlowy (ang. <foreign xml:lang="en" id="UUID6c36dddc-3e60-4709-6385-528a3a4e1682">trade deficit</foreign>)</term>
       <meaning id="fs-idm73214896">
         <para id="UUID0a516471-d470-4fe1-77f2-4a79e5036a71">sytuacja, gdy import danego kraju przewyższa eksport, dodatnia różnica między importem a eksportem</para>
       </meaning>
     </definition>
     <definition id="fs-idm76674080">
-      <term id="UUIDc16f3a07-1cfa-415b-670f-0d3c85fd0bd2">nadwyżka handlowa (ang. <term id="UUIDf5913247-d90b-4ba2-52c3-605f5451f7cb">trade surplus</term>)</term>
+      <term id="UUIDc16f3a07-1cfa-415b-670f-0d3c85fd0bd2">nadwyżka handlowa (ang. <foreign xml:lang="en" id="UUID366d77cd-f64c-44a4-5e58-ebecc58d06e1">trade surplus</foreign>)</term>
       <meaning id="fs-idm81033696">
-        <para id="UUIDa4b39c18-4991-4668-63ab-d065c44a3039">sytuacja, gdy eksport danego kraju przewyższa import, dodatnia różnica między eksportem a importem</para>
+        <para id="UUIDa4b39c18-4991-4668-63ab-d065c44a3039">sytuacja, gdy eksport danego kraju przewyższa import, dodatnia różnica między eksportem a importem </para>
       </meaning>
     </definition>
   </glossary>

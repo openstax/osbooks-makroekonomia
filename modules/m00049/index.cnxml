@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/057b2b8f-6f74-4e8f-89da-48d0d1ada1c3</md:content-url>
     <md:title>9.2 Pomiar podaży pieniądza M1, M2 i M3</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-15T14:29:16.863049838+00:00</md:version>
-    <md:created>2023-09-15T14:29:16.863049838+00:00</md:created>
-    <md:revised>2023-09-15T14:29:16.863049838+00:00</md:revised>
+    <md:version>2023-09-19T07:20:49.887056719+00:00</md:version>
+    <md:created>2023-09-19T07:20:49.887056719+00:00</md:created>
+    <md:revised>2023-09-19T07:20:49.887056719+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -143,55 +143,55 @@
   </content>
   <glossary id="UUIDff8be7d3-1d6b-4efa-499e-42e6ea6702be">
     <definition id="fs-idp73738944">
-      <term id="UUID3df6583b-0586-4610-644c-6cadbed81686">gotówka w obiegu (ang. <foreign xml:lang="en" id="UUIDbc232a11-640a-41fe-7632-1630cddc53ff"><term id="UUID7aa3b502-5d56-4f93-761d-f0df3a0bf119">coins and currency in circulation</term></foreign>)</term>
+      <term id="UUID3df6583b-0586-4610-644c-6cadbed81686">gotówka w obiegu (ang. <foreign xml:lang="en" id="UUIDbc232a11-640a-41fe-7632-1630cddc53ff">coins and currency in circulation</foreign>)</term>
       <meaning id="fs-idp13335232">
         <para id="UUIDa4743fd3-6e24-4d75-4d39-10ff09c5c105">bilon i banknoty znajdujące się w posiadaniu gospodarstw domowych i przedsiębiorstw, a także w skarbcach banków komercyjnych</para>
       </meaning>
     </definition>
     <definition id="fs-idp57548048">
-      <term id="UUID0570de34-220a-462c-4591-054dfffeef25">karta kredytowa (ang. <foreign xml:lang="en" id="UUID3e7f458a-4b14-43ca-6ad3-cbb6dc25957b"><term id="UUIDacb2a638-4d8a-4c61-745b-301ee6995b87">credit card)</term></foreign>)</term>
+      <term id="UUID0570de34-220a-462c-4591-054dfffeef25">karta kredytowa (ang. <foreign xml:lang="en" id="UUID3e7f458a-4b14-43ca-6ad3-cbb6dc25957b">credit card)</foreign>)</term>
       <meaning id="fs-idp31817680">
         <para id="UUIDd4fd6c55-f13e-401d-6573-ba9390122e55">instrument finansowy umożliwiający zapłatę za dokonywane zakupy dzięki natychmiastowemu przelewowi pieniędzy z konta firmy wydającej kartę kredytową na konto sprzedawcy; osoba posługująca się kartą kredytową jest zobowiązana do spłaty swojego zadłużenia na koniec okresu bezodsetkowego; jeśli do tego nie dojdzie, środki z karty kredytowej stają się pożyczką krótkoterminową</para>
       </meaning>
     </definition>
     <definition id="fs-idp95792880">
-      <term id="UUID4129d721-d91d-43dd-64aa-8842febce1e9">karta debetowa (ang. <foreign xml:lang="en" id="UUID04d7ed21-7d00-4063-439d-78363fcfddc1"><term id="UUID71affe83-bb52-4a29-55b5-5bed12f1d35f">debit card)</term></foreign>)</term>
+      <term id="UUID4129d721-d91d-43dd-64aa-8842febce1e9">karta debetowa (ang. <foreign xml:lang="en" id="UUID04d7ed21-7d00-4063-439d-78363fcfddc1">debit card)</foreign>)</term>
       <meaning id="fs-idp20996208">
         <para id="UUIDfd1c1332-d26c-4ba3-7ecf-3e0db0c00c06">instrument finansowy, który jest dyspozycją bezpośredniego i natychmiastowego przelania pieniędzy z konta bankowego użytkownika karty na konto sprzedawcy</para>
       </meaning>
     </definition>
     <definition id="fs-idp137672016">
-      <term id="UUID3448e46c-b54c-4074-5ffc-8270b4e76632">depozyt na żądanie (ang. <foreign xml:lang="en" id="UUID5db56234-d0a2-4d34-57db-8bd1f0b4b265"><term id="UUID48996172-9d95-4f0b-483b-e5079da6f036">demand deposits</term></foreign>)</term>
+      <term id="UUID3448e46c-b54c-4074-5ffc-8270b4e76632">depozyt na żądanie (ang. <foreign xml:lang="en" id="UUID5db56234-d0a2-4d34-57db-8bd1f0b4b265">demand deposits</foreign>)</term>
       <meaning id="fs-idm90294400">
         <para id="UUID7e42f2ea-d20a-4710-5375-3185c2c210bd">rachunek bankowy, w Polsce określany jako rachunek oszczędnościowo-rozliczeniowy (ROR), na którym środki są dostępne dla ich właścicieli w każdym momencie, zaś wypłata następuje w bankomacie albo poprzez płatność kartą debetową</para>
       </meaning>
     </definition>
     <definition id="fs-idp76550144">
-      <term id="UUID163191ea-90d0-4079-6978-ca3a2b719b5d">podaż pieniądza M1 (ang. <foreign xml:lang="en" id="UUIDfabdf90b-2403-440a-6a61-dbe181292d6b"><term id="UUIDe60e2f16-d03a-43df-66e0-a41f6b72a42f">M1 money supply</term></foreign>)</term>
+      <term id="UUID163191ea-90d0-4079-6978-ca3a2b719b5d">podaż pieniądza M1 (ang. <foreign xml:lang="en" id="UUIDfabdf90b-2403-440a-6a61-dbe181292d6b">M1 money supply</foreign>)</term>
       <meaning id="fs-idm45137920">
         <para id="UUID89b51637-7b70-41d2-5cc5-6168d3759f13">wąska definicja pieniądza, która obejmuje gotówkę i depozyty na żądanie (w Polsce głównie ROR-y)</para>
       </meaning>
     </definition>
     <definition id="fs-idp18794736">
-      <term id="UUID77a54137-6e6d-45cb-527e-1eee8d6821c4">podaż pieniądza M2 (ang. <foreign xml:lang="en" id="UUID302f9630-a6e7-4cfa-51e8-be8a403ee2ba"><term id="UUID039bebe6-7099-4dd7-6815-7f266cb58a4c">M2 money supply</term></foreign>)</term>
+      <term id="UUID77a54137-6e6d-45cb-527e-1eee8d6821c4">podaż pieniądza M2 (ang. <foreign xml:lang="en" id="UUID302f9630-a6e7-4cfa-51e8-be8a403ee2ba">M2 money supply</foreign>)</term>
       <meaning id="fs-idm10633312">
         <para id="UUIDfa386a53-528c-4959-4bbc-124b6f0f124b">szersza definicja pieniądza, która obejmuje całe M1 oraz depozyty i lokaty terminowe</para>
       </meaning>
     </definition>
     <definition id="fs-idp24158736">
-      <term id="UUID827e509d-8f5d-458d-7b03-911fe4280f58">podaż pieniądza M3 (ang. <foreign xml:lang="en" id="UUID943ce1c8-0da0-4d07-5a37-c35d8dbe5365"><term id="UUIDb8e3937f-c870-4fc7-4217-1299bc083301">M3 money supply</term></foreign>)</term>
+      <term id="UUID827e509d-8f5d-458d-7b03-911fe4280f58">podaż pieniądza M3 (ang. <foreign xml:lang="en" id="UUID943ce1c8-0da0-4d07-5a37-c35d8dbe5365">M3 money supply</foreign>)</term>
       <meaning id="fs-idp6196768">
         <para id="UUID7f470f84-b72d-4df4-7df2-6f07c004d114">najszersza definicja pieniądza, która obejmuje wszystkie elementy wchodzące w skład agregatów M1 i M2, a także operacje z przyrzeczeniem odkupu i dłużne papiery wartościowe z pierwotnym terminem wykupu do dwóch lat włącznie</para>
       </meaning>
     </definition>
     <definition id="fs-idp27710384">
-      <term id="UUID8d026b3d-c705-4f8d-453e-f790005c12e8">depozyt terminowy (ang. <foreign xml:lang="en" id="UUIDfa539e7a-4796-4efa-65cf-ccce3ba1c596"><term id="UUIDc0048f76-52c3-41d4-7eb3-b81a109a021c">savings deposits</term></foreign>)</term>
+      <term id="UUID8d026b3d-c705-4f8d-453e-f790005c12e8">depozyt terminowy (ang. <foreign xml:lang="en" id="UUIDfa539e7a-4796-4efa-65cf-ccce3ba1c596">savings deposits</foreign>)</term>
       <meaning id="fs-idp37701040">
         <para id="UUID126fa168-01c8-4813-5019-c33e31e0207f">konto bankowe, z którego nie można dokonać wypłaty pieniędzy, <editing:highlight id="UUID5d02a9a3-d2a5-408a-5586-8d28df89afda" color="lightblue" user="46" text="">posługując się kartą debetową lub bankomatową, ale można je wypłacić w banku lub łatwo przelać na ROR, nie tracąc przy tym oprocentowania, które jest naliczane dla całego okresu utrzymywania środków na koncie bankowym</editing:highlight></para>
       </meaning>
     </definition>
     <definition id="UUIDc93529c5-9485-4b8c-68dd-2baa14e50b60">
-      <term id="UUID17796dd3-f20b-4f47-7312-2bee71e121d7">lokata terminowa (ang. <foreign xml:lang="en" id="UUID5e1e4373-f8ce-47d7-67ae-6a8c6afee2e0"><term id="UUIDd6d893d0-52e1-47cc-57b4-32e66bfeb274">time deposits</term></foreign>)</term>
+      <term id="UUID17796dd3-f20b-4f47-7312-2bee71e121d7">lokata terminowa (ang. <foreign xml:lang="en" id="UUID5e1e4373-f8ce-47d7-67ae-6a8c6afee2e0">time deposits</foreign>)</term>
       <meaning id="fs-idm2819808">
         <para id="UUID27ccdf9a-9c11-40b9-777e-71fc2097ae61">kwota na rachunku, jaką deponent zobowiązał się pozostawić w banku na określony czas w zamian za wyższe oprocentowanie, które zostanie w całości utracone, jeśli pieniądze zostaną z lokaty bankowej wypłacone przed terminem zapadalności lokaty</para>
         <para id="UUID23985e3c-a73d-40a0-7b90-effeb3194189" />
