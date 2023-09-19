@@ -275,9 +275,9 @@
     </definition>
     <definition id="UUID19bcd4c1-96f7-4d63-556a-8c3b046e757d">
       <term id="UUID71460f3a-01bb-4044-6c43-5d934c0f4642">konsensus wzrostu gospodarczego</term>
-      <seealso id="UUID6c926776-cb81-42d7-509f-f73a2a99fbb2">
-        <term id="UUID40bad64e-0abb-455a-6bc8-004db71b0075">teoria wzrostu gospodarczego</term>
-      </seealso>
+      <meaning id="UUID6c926776-cb81-42d7-509f-f73a2a99fbb2">
+        <para id="UUID40bad64e-0abb-455a-6bc8-004db71b0075">teoria wzrostu gospodarczego</para>
+      </meaning>
     </definition>
     <definition id="Ch32Mod02GLO03">
       <term id="UUID3a3e8b16-0d5c-42b5-6c24-7a5e0f322ba8">kraj o wysokich dochodach (ang. <foreign xml:lang="en" id="UUIDb99cdf50-c213-4e65-5e35-d5eba89c3d1a">high-income country</foreign>)</term>
