@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/057b2b8f-6f74-4e8f-89da-48d0d1ada1c3</md:content-url>
     <md:title>9.2 Pomiar podaży pieniądza M1, M2 i M3</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-19T13:06:04.090825365+00:00</md:version>
-    <md:created>2023-09-19T13:06:04.090825365+00:00</md:created>
-    <md:revised>2023-09-19T13:06:04.090825365+00:00</md:revised>
+    <md:version>2023-09-20T13:17:31.207626120+00:00</md:version>
+    <md:created>2023-09-20T13:17:31.207626120+00:00</md:created>
+    <md:revised>2023-09-20T13:17:31.207626120+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -187,7 +187,7 @@
     <definition id="fs-idp27710384">
       <term id="UUID8d026b3d-c705-4f8d-453e-f790005c12e8">depozyt terminowy (ang. <foreign xml:lang="en" id="UUIDfa539e7a-4796-4efa-65cf-ccce3ba1c596">savings deposits</foreign>)</term>
       <meaning id="fs-idp37701040">
-        <para id="UUID126fa168-01c8-4813-5019-c33e31e0207f">konto bankowe, z którego nie można dokonać wypłaty pieniędzy, <editing:highlight id="UUID5d02a9a3-d2a5-408a-5586-8d28df89afda" color="lightblue" user="46" text="">posługując się kartą debetową lub bankomatową, ale można je wypłacić w banku lub łatwo przelać na ROR, nie tracąc przy tym oprocentowania, które jest naliczane dla całego okresu utrzymywania środków na koncie bankowym</editing:highlight></para>
+        <para id="UUID126fa168-01c8-4813-5019-c33e31e0207f">konto bankowe, z którego nie można dokonać wypłaty pieniędzy, posługując się kartą debetową lub bankomatową, ale można je wypłacić w banku lub łatwo przelać na ROR, nie tracąc przy tym oprocentowania, które jest naliczane dla całego okresu utrzymywania środków na koncie bankowym</para>
       </meaning>
     </definition>
     <definition id="UUIDc93529c5-9485-4b8c-68dd-2baa14e50b60">

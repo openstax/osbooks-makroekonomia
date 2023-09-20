@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/4ae20372-518e-486e-b71f-aa660530a96a</md:content-url>
     <md:title>6.6 Keynes’ Law and Say’s Law in the AD/AS Model</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-19T13:06:03.995592836+00:00</md:version>
-    <md:created>2023-09-19T13:06:03.995592836+00:00</md:created>
-    <md:revised>2023-09-19T13:06:03.995592836+00:00</md:revised>
+    <md:version>2023-09-20T13:17:30.978038602+00:00</md:version>
+    <md:created>2023-09-20T13:17:30.978038602+00:00</md:created>
+    <md:revised>2023-09-20T13:17:30.978038602+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -34,7 +34,7 @@
         </item>
       </list>
     </note>
-    <para id="ch24mod06_p01">Możemy użyć modelu AD-AS do zilustrowania zarówno <term cmlnle:reference="prawo Saya" id="UUID7cf388e3-0f44-4551-451b-f567c7adf761">prawa rynków Saya</term>, zgodnie z którym to podaż kreuje swój popyt, jak i <term cmlnle:reference="prawo Keynesa" id="UUID669c6408-8fbe-4e56-54ff-96848ed5daa1">prawa rynków Keynesa</term>, które kładzie nacisk na popyt jako czynnik przesądzający o wielkości podaży. W tym celu rozważmy trzy obszary na wykresie krzywej SAS, które przedstawiono na <link target-id="CNX_Econ_C24_011" cmlnle:case="locative" id="UUID9573ff96-d223-45aa-54df-c356929fe3e2" />.</para>
+    <para id="ch24mod06_p01">Możemy użyć modelu AD-AS do zilustrowania zarówno <term cmlnle:reference="prawo rynków Saya" id="UUID7cf388e3-0f44-4551-451b-f567c7adf761">prawa rynków Saya</term>, zgodnie z którym to podaż kreuje swój popyt, jak i <term cmlnle:reference="prawo rynków Keynesa" id="UUID669c6408-8fbe-4e56-54ff-96848ed5daa1">prawa rynków Keynesa</term>, które kładzie nacisk na popyt jako czynnik przesądzający o wielkości podaży. W tym celu rozważmy trzy obszary na wykresie krzywej SAS, które przedstawiono na <link target-id="CNX_Econ_C24_011" cmlnle:case="locative" id="UUID9573ff96-d223-45aa-54df-c356929fe3e2" />.</para>
     <figure id="CNX_Econ_C24_011">
       <title id="UUID9d2d9f84-64c3-44d1-7814-e671c5f18481">Obszar keynesowski, neoklasyczny i pośredni na wykresie krzywej podaży globalnej</title>
       <media alt="Wykres przedstawia trzy krzywe popytu globalnego, które oddzielają od siebie obszary: keynesowski, pośredni i neoklasyczny. Obszar keynesowski znajduje się po lewej stronie i jednocześnie najniżej, pośredni leży pośrodku, zaś neoklasyczny jest wysunięty najbardziej na prawo i położony najwyżej." id="mCNX_Econ_C24_011">
