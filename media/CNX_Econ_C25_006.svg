@@ -8,7 +8,7 @@
    height="216.70273"
    viewBox="0 0 211.81243 216.70273"
    sodipodi:docname="CNX_Econ_C25_006.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,8 +26,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.4272137"
-     inkscape:cx="26.985674"
-     inkscape:cy="82.811001"
+     inkscape:cx="26.985675"
+     inkscape:cy="82.605005"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -40,7 +40,9 @@
        y="0"
        id="page19226"
        width="211.81242"
-       height="216.70273" />
+       height="216.70273"
+       margin="0"
+       bleed="0" />
     <sodipodi:guide
        position="26.352915,33.669995"
        orientation="1,0"
@@ -103,7 +105,7 @@
      inkscape:label="Page 1"
      transform="matrix(1.3333333,0,0,-1.3333333,-2.7065594,221.65344)">
     <g
-       id="g2615">
+       id="g1">
       <path
          d="m 29.858331,105.45968 h 57.4547 V 33.156484"
          style="fill:none;stroke:#b33aa3;stroke-width:0.476101;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.85661, 1.90441;stroke-dashoffset:0;stroke-opacity:1"
@@ -213,13 +215,13 @@
          transform="scale(1,-1)"
          style="font-variant:normal;font-weight:normal;font-size:8px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text8085-3-06-4-0-2-76"
-         x="55.172302"
+         x="49.584412"
          y="-5.3770909"><tspan
            sodipodi:role="line"
            id="tspan8083-2-2-30-6-6-73"
-           x="55.172302"
+           x="49.584412"
            y="-5.3770909"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Stopa bezrobocia</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Stopa bezrobocia %</tspan></text>
       <text
          xml:space="preserve"
          transform="scale(1,-1)"
@@ -489,13 +491,13 @@
          transform="matrix(0,1,1,0,0,0)"
          style="font-variant:normal;font-weight:normal;font-size:8px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none"
          id="text8085-3-06-4-0-2-6-6"
-         x="68.700325"
+         x="63.090946"
          y="8.1080446"><tspan
            sodipodi:role="line"
            id="tspan8083-2-2-30-6-6-43-5"
-           x="68.700325"
+           x="63.090946"
            y="8.1080446"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Stopa inflacji</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Stopa inflacji %</tspan></text>
     </g>
   </g>
 </svg>

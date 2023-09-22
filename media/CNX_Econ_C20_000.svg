@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="165.10001mm"
-   height="85.128693mm"
-   viewBox="0 0 165.10001 85.128693"
+   width="97.490982mm"
+   height="81.681068mm"
+   viewBox="0 0 97.490984 81.681069"
    version="1.1"
    id="svg950"
    inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="342.77001"
-     inkscape:cy="189.68139"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-91.216775"
+     inkscape:cy="-146.3711"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -35,7 +35,7 @@
      inkscape:current-layer="layer1"
      showguides="true">
     <sodipodi:guide
-       position="165.39969,-132.23165"
+       position="159.99731,-128.78403"
        orientation="0,-1"
        id="guide1454"
        inkscape:locked="false" />
@@ -46,30 +46,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(14.991686,-55.685162)">
+     transform="translate(9.589305,-59.132782)">
     <g
        id="g1">
-      <text
-         xml:space="preserve"
-         style="font-variant:normal;font-weight:normal;font-size:3.52778px;font-family:ArialMT;-inkscape-font-specification:ArialMT;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#424242;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
-         id="text20116-1-3-7-7-1-6-3-0-1-3-7-6"
-         x="148.14012"
-         y="129.5408"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#424242;fill-opacity:1;stroke-width:0.352778"
-           x="148.14012"
-           y="129.5408"
-           id="tspan7814-7">Średnie dzienne spożycie</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#424242;fill-opacity:1;stroke-width:0.352778"
-           x="148.14012"
-           y="134.00653"
-           id="tspan1452-5">kilokalorii na osobę w 2019 r.</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;text-anchor:end;fill:#424242;fill-opacity:1;stroke-width:0.352778"
-           x="148.14012"
-           y="138.47226"
-           id="tspan1450-3">w zależności od regionu</tspan></text>
       <path
          d="m 76.590303,140.81379 h -7 V 96.02294 h 7 v 44.79085"
          style="fill:#90cbf0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.033142"

@@ -4,11 +4,11 @@
 <svg
    version="1.1"
    id="svg9872"
-   width="483.9357"
+   width="492.75998"
    height="260.56985"
-   viewBox="0 0 483.9357 260.56986"
+   viewBox="0 0 492.75998 260.56986"
    sodipodi:docname="CNX_Econ_C21_014.svg"
-   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,8 +26,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.0443836"
-     inkscape:cx="191.74484"
-     inkscape:cy="168.51045"
+     inkscape:cx="270.25261"
+     inkscape:cy="168.75502"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -39,22 +39,20 @@
        x="0"
        y="0"
        id="page9878"
-       width="483.9357"
-       height="260.56985"
-       margin="0"
-       bleed="0" />
+       width="492.75998"
+       height="260.56985" />
     <sodipodi:guide
-       position="469.85935,47.584136"
+       position="469.85935,47.584137"
        orientation="0,-1"
        id="guide35798"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="380.64076,32.037886"
+       position="380.64076,32.037887"
        orientation="0,-1"
        id="guide35800"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="389.99435,21.757887"
+       position="389.99435,21.757888"
        orientation="0,-1"
        id="guide35802"
        inkscape:locked="false" />
@@ -64,12 +62,12 @@
        id="guide35804"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-2.7996864,132.8807"
+       position="267.1205,153.84918"
        orientation="1,0"
        id="guide35806"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="34.829739,92.534924"
+       position="34.829739,92.534925"
        orientation="1,0"
        id="guide35808"
        inkscape:locked="false" />
@@ -84,47 +82,47 @@
        id="guide35988"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="45.109739,82.254923"
+       position="45.109739,82.254924"
        orientation="0,-1"
        id="guide36315"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="126.39573,97.959465"
+       position="126.39573,97.959466"
        orientation="1,0"
        id="guide3620"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="144.7236,95.666598"
+       position="144.7236,95.666599"
        orientation="1,0"
        id="guide3622"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="121.59811,87.394923"
+       position="121.59811,87.394924"
        orientation="0,-1"
        id="guide33060"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="39.978338,90.894954"
+       position="39.978338,90.894955"
        orientation="1,0"
        id="guide34970"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="296.59427,89.981187"
+       position="296.59427,89.981188"
        orientation="1,0"
        id="guide36424"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="120.52711,72.117693"
+       position="120.52711,72.117694"
        orientation="0,-1"
        id="guide2180"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="106.73121,61.837693"
+       position="106.73121,61.837694"
        orientation="0,-1"
        id="guide2182"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="453.81413,42.444136"
+       position="453.81413,42.444137"
        orientation="0,-1"
        id="guide2231"
        inkscape:locked="false" />
@@ -141,7 +139,7 @@
          id="g35998"
          transform="translate(-3.6178284,40.10707)" />
       <g
-         id="g1">
+         id="g2110">
         <path
            d="m 223.631,127.116 h 60.692 V 71.4281"
            style="fill:none;stroke:#b33aa3;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 2;stroke-dashoffset:0;stroke-opacity:1"
@@ -305,35 +303,35 @@
            transform="scale(1,-1)"
            style="font-variant:normal;font-weight:normal;font-size:8px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text8085-3-06-4-0-2-6-1-1"
-           x="-3.6292043"
+           x="0.76613837"
            y="-12.171763"><tspan
              sodipodi:role="line"
              id="tspan8083-2-2-30-6-6-43-0-0"
-             x="-3.6292043"
+             x="0.76613837"
              y="-12.171763"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">(a) Rosnący popyt na pracę, płace rosną</tspan></text>
         <text
            xml:space="preserve"
-           transform="scale(1,-1)"
+           transform="matrix(1,0,0,-1,-3.6178284,40.107068)"
            style="font-variant:normal;font-weight:normal;font-size:8px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text8085-3-06-4-0-2-6-1-1-2"
-           x="188.90649"
-           y="-12.178893"><tspan
+           x="191.83595"
+           y="27.928175"><tspan
              sodipodi:role="line"
-             x="188.90649"
-             y="-12.178893"
+             x="191.83595"
+             y="27.928175"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
              id="tspan35947">(b) Spadający popyt na pracę, lepkie płace</tspan></text>
         <text
            xml:space="preserve"
-           transform="scale(1,-1)"
+           transform="matrix(1,0,0,-1,-3.6178284,40.107068)"
            style="font-variant:normal;font-weight:normal;font-size:8px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text8085-3-06-4-0-2-6-1-1-2-1"
-           x="202.3268"
-           y="-2.0518885"><tspan
+           x="205.94463"
+           y="38.05518"><tspan
              sodipodi:role="line"
-             x="202.3268"
-             y="-2.0518885"
+             x="205.94463"
+             y="38.05518"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
              id="tspan35947-0">i bezrobocie</tspan></text>
         <text
