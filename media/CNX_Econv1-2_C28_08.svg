@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg2"
-   width="548.22601"
+   width="538.82709"
    height="266.14487"
-   viewBox="0 0 548.22601 266.14487"
+   viewBox="0 0 538.82708 266.14487"
    sodipodi:docname="CNX_Econv1-2_C28_08.svg"
    inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="239.35564"
-     inkscape:cy="102.17693"
+     inkscape:zoom="1"
+     inkscape:cx="370.99999"
+     inkscape:cy="-2.4999999"
      inkscape:window-width="1848"
      inkscape:window-height="1043"
      inkscape:window-x="1438"
@@ -39,12 +39,12 @@
        x="0"
        y="0"
        id="page8"
-       width="548.22601"
+       width="538.82709"
        height="266.14487"
        margin="0"
        bleed="0" />
     <sodipodi:guide
-       position="297.72577,-8.4257554"
+       position="297.72577,-8.4257556"
        orientation="0,-1"
        id="guide14189"
        inkscape:locked="false" />
@@ -330,7 +330,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="109.13992"
            y="-24.353554"
-           id="tspan4232-0-4-6-5-2-6-7-0-6">Produkcja (w cenach stałych; zł)</tspan></text>
+           id="tspan4232-0-4-6-5-2-6-7-0-6">Produkcja (w cenach stałych zł)</tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
@@ -342,7 +342,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:1"
            x="330.18558"
            y="-24.370794"
-           id="tspan4232-0-4-6-5-2-6-7-0-6-31">Produkcja (w cenach stałych; zł)</tspan></text>
+           id="tspan4232-0-4-6-5-2-6-7-0-6-31">Produkcja (w cenach stałych zł)</tspan></text>
       <text
          xml:space="preserve"
          style="font-variant:normal;font-weight:normal;font-size:7.99999px;font-family:ArialMT;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#3f60b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
