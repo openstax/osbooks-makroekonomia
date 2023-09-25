@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ubc26f2fd-30b0-492a-9b9a-7d03a4197ff4" id="Ubc26f2fd-30b0-492a-9b9a-7d03a4197ff4" xml:lang="en" cnxml-version="0.7">
-  <title>5.3 Salda obrotów i przepływy kapitałowe</title>
+  <title>5.3 Bilans handlowy i przepływy kapitału</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00027</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/bc26f2fd-30b0-492a-9b9a-7d03a4197ff4</md:content-url>
-    <md:title>5.3 Salda obrotów i przepływy kapitałowe</md:title>
+    <md:title>5.3 Bilans handlowy i przepływy kapitału</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-20T13:17:30.791923587+00:00</md:version>
-    <md:created>2023-09-20T13:17:30.791923587+00:00</md:created>
-    <md:revised>2023-09-20T13:17:30.791923587+00:00</md:revised>
+    <md:version>2023-09-25T07:45:10.240345064+00:00</md:version>
+    <md:created>2023-09-25T07:45:10.240345064+00:00</md:created>
+    <md:revised>2023-09-25T07:45:10.240345064+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -37,7 +37,7 @@
         </item>
       </list>
     </note>
-    <para id="UUID98255610-4204-4e0a-71e9-1e927aa25399">Zdaniem ekonomistów nie można jednoznacznie określić tego, czy nadwyżki w bilansie handlowym i na rachunku obrotów bieżących są zjawiskiem pozytywnym, czy negatywnym, podobnie jak nie można jednoznacznie ocenić zjawiska deficytu tych dwóch parametrów. Wyzwaniem w tym kontekście jest zrozumienie, w jaki sposób międzynarodowe przepływy dóbr i usług są powiązane z międzynarodowymi przepływami <term cmlnle:reference="kapitał finansowy" id="UUID316a051a-b16e-4709-6ab5-1288e7b5ddf7">kapitału finansowego</term> (ang. <emphasis effect="italics" /><foreign xml:lang="en" id="UUID5bc4d1a2-b849-42b5-4a70-0f1081bc8213"><emphasis effect="italics" /><term cxlxt:index="foreign" id="UUIDd2a866a6-ca99-4485-4811-977d671758d0"><emphasis effect="italics">financial capital</emphasis></term><emphasis effect="italics" /></foreign>). W niniejszym podrozdziale spróbujemy pokazać ścisły związek pomiędzy saldem na rachunku obrotów bieżących i saldem bilansu handlowego a przepływami kapitału finansowego. W tym celu najpierw stworzymy bardzo prosty model gospodarki składającej się z dwóch osób (Robinsona Crusoe i Piętaszka), a następnie przedstawimy i poddamy analizie okrężny schemat międzynarodowych przepływów dóbr i usług oraz środków finansowych.</para>
+    <para id="UUID98255610-4204-4e0a-71e9-1e927aa25399">Zdaniem ekonomistów nie można jednoznacznie określić tego, czy nadwyżki w bilansie handlowym i na rachunku obrotów bieżących są zjawiskiem pozytywnym, czy negatywnym, podobnie jak nie można jednoznacznie ocenić zjawiska deficytu tych dwóch parametrów. Wyzwaniem w tym kontekście jest zrozumienie, w jaki sposób międzynarodowe przepływy dóbr i usług są powiązane z międzynarodowymi przepływami <term cmlnle:reference="kapitał finansowy" id="UUID316a051a-b16e-4709-6ab5-1288e7b5ddf7">kapitału finansowego</term> (ang. <foreign xml:lang="en" id="UUID5bc4d1a2-b849-42b5-4a70-0f1081bc8213"><term cxlxt:index="foreign" id="UUIDd2a866a6-ca99-4485-4811-977d671758d0">financial capital</term></foreign>). W niniejszym podrozdziale spróbujemy pokazać ścisły związek pomiędzy saldem na rachunku obrotów bieżących i saldem bilansu handlowego a przepływami kapitału finansowego. W tym celu najpierw stworzymy bardzo prosty model gospodarki składającej się z dwóch osób (Robinsona Crusoe i Piętaszka), a następnie przedstawimy i poddamy analizie okrężny schemat międzynarodowych przepływów dóbr i usług oraz środków finansowych.</para>
     <section id="fs-idm68368816">
       <title id="UUID752f9a88-19ee-4f59-7847-cb08cf04b337">Gospodarka dwuosobowa: Robinson Crusoe i Piętaszek</title>
       <para id="UUID92b4ed6e-b769-4043-41bc-644be6d43ff1">Aby zrozumieć, jak ekonomiści postrzegają deficyty i nadwyżki bilansu handlowego oraz rachunku obrotów bieżących, rozważmy prosty model gospodarki oparty na historii Robinsona Crusoe. Crusoe, jeśli jeszcze pamiętacie klasyczną powieść Daniela Defoe opublikowaną po raz pierwszy w 1719 r., był żeglarzem, który trafił na bezludną wyspę jako rozbitek, jedyny ocalały z morskiej katastrofy. Po pewnym okresie samotnego życia uratował on przed śmiercią rdzennego mieszkańca tej części świata, któremu nadał imię Piętaszek. Pomyśl w związku z tym o bilansie handlowym w tej niezwykle prostej, dwuosobowej gospodarce stworzonej przez Robinsona i Piętaszka.</para>

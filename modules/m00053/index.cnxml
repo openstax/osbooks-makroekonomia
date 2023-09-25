@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/21f04faa-d245-4d8f-8bce-5b5e00e6e9e3</md:content-url>
     <md:title>10.1 Zadania banku centralnego</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-20T13:17:31.239142318+00:00</md:version>
-    <md:created>2023-09-20T13:17:31.239142318+00:00</md:created>
-    <md:revised>2023-09-20T13:17:31.239142318+00:00</md:revised>
+    <md:version>2023-09-25T07:45:10.880863717+00:00</md:version>
+    <md:created>2023-09-25T07:45:10.880863717+00:00</md:created>
+    <md:revised>2023-09-25T07:45:10.880863717+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -188,9 +188,15 @@
       </meaning>
     </definition>
     <definition id="fs-idp231115040">
-      <term id="UUID5bd856dc-c48d-4d20-4397-726105b6dbcf">kredytodawca ostatniej instancji / ostatnia instancja kredytowa (ang. <foreign xml:lang="en" id="UUIDbeaf5453-b552-40c1-53fa-250a81a4935e">lender of last resort</foreign>)</term>
+      <term id="UUID5bd856dc-c48d-4d20-4397-726105b6dbcf">kredytodawca ostatniej instancji (ang. <foreign xml:lang="en" id="UUIDbeaf5453-b552-40c1-53fa-250a81a4935e">lender of last resort</foreign>)</term>
       <meaning id="fs-idp171281328">
         <para id="UUID47dbcfa1-3513-4f46-58b8-d387d7ab2575">podmiot zdolny do udzielenia pożyczek bankom i innym instytucjom finansowym w sytuacjach, kiedy panika na rynkach zagraża całemu systemowi finansowemu</para>
+      </meaning>
+    </definition>
+    <definition id="UUID85102d90-1db6-4fd5-5825-53da8a2e4292">
+      <term id="UUID9fa0c5b8-c944-4a50-6bbc-abe7da759867">ostatnia instancja kredytowa </term>
+      <meaning id="UUID4416a1c0-3613-453a-71d7-47c755e2e555">
+        <para id="UUIDd8b4dbfc-5411-4166-5ee0-acac6733b016">zob. kredytodawca ostatniej instancji </para>
       </meaning>
     </definition>
   </glossary>

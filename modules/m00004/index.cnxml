@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/7dac7ead-92a8-47ea-9afa-27cc40ba3cb9</md:content-url>
     <md:title>1.2 Przeliczanie wartości nominalnych na realne</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-20T13:17:30.553008851+00:00</md:version>
-    <md:created>2023-09-20T13:17:30.553008851+00:00</md:created>
-    <md:revised>2023-09-20T13:17:30.553008851+00:00</md:revised>
+    <md:version>2023-09-25T07:45:09.534153992+00:00</md:version>
+    <md:created>2023-09-25T07:45:09.534153992+00:00</md:created>
+    <md:revised>2023-09-25T07:45:09.534153992+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -132,13 +132,13 @@
         <equation id="UUID03bc6d28-4e2d-424f-5a15-c10b108f4cff" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px 2px 2px" columnalign="right center left"><mtr><mtd><mtext>Realny PKB</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>Nominalny PKB</mtext><mtext>Deflator PKB / 100</mtext></mfrac></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>13 039,2</mtext><mtext>100 / 100</mtext></mfrac></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>13 039,2 [mld dol.]</mtext></mtd></mtr></mtable></math></equation>
         <para id="UUID0c3620e2-4ec8-4932-5057-20f7b85b24d8" />
         <para id="UUID6572920e-3560-4033-5117-6480b27c167f">Dla 2005 r. nominalny PKB i realny PKB (wyrażony w cenach stałych z 2005 r.) są sobie równe. Nie jest to przypadek, lecz skutek tego, że rok 2005 został wybrany jako „rok bazowy”. Ponieważ wskaźnik cen w roku bazowym ma zawsze wartość 100 (z definicji), nominalny i realny PKB dla tego roku muszą być takie same.</para>
-        <para id="UUIDca2f440c-7ce9-47d3-4b91-11501081af93">Realny PKB w 2015 r. jest obliczany w analogiczny sposób TU ZMIENIAMY WZORY!!!.</para>
+        <para id="UUIDca2f440c-7ce9-47d3-4b91-11501081af93">Realny PKB w 2015 r. jest obliczany w analogiczny sposób:</para>
         <equation id="fs-idm22195808" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px 2px 2px" columnalign="right center left"><mtr><mtd><mtext>Realny PKB</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>Nominalny PKB</mtext><mtext>Deflator PKB / 100</mtext></mfrac></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>16 254,0</mtext><mtext>110 / 100</mtext></mfrac></mtd></mtr><mtr><mtd /><mtd><mtext> = </mtext></mtd><mtd><mtext>15 222,4 [mld dol.]</mtext></mtd></mtr></mtable></math></equation>
         <para id="UUID71fc57f7-3542-4137-6fbf-58972495a2e9" />
         <para id="UUID5eece787-eeb5-4b44-680e-4122e3c185a1">Na podstawie tych danych możemy dostrzec jeszcze jedną prawidłowość. Dopóki inflacja jest dodatnia, czyli ceny z roku na rok rosną, realny PKB powinien być niższy niż nominalny PKB w każdym roku po roku bazowym. Przyczyna jest prosta: wartość nominalnego PKB jest „zawyżona” przez inflację. Podobnie dopóki inflacja jest dodatnia, realny PKB powinien być wyższy niż nominalny PKB w każdym roku poprzedzającym rok bazowy.</para>
         <para id="UUID0025035c-4875-441c-6717-34535c91e19f" />
       </note>
-      <para id="fs-idm3770816"><link target-id="CNX_Econ_C19_009" id="UUID638678d0-c8cc-4f4b-5dce-6c33c7d5fa1b" /> pokazuje nominalny i realny PKB (ang. <foreign xml:lang="en" id="UUID422d369a-4529-4010-5f4e-0cd1720a6cfb">nominal GDP</foreign>, ang. <foreign xml:lang="en" id="UUIDe8d052f3-8801-4aec-4e8b-11b0e555b6c5">real GDP</foreign>) w USA od 1960 r. Ponieważ rok 2005 jest rokiem bazowym, nominalny i realny PKB mają dla tego roku identyczną wartość. Jednak z biegiem czasu wzrost nominalnego PKB jest znacznie większy niż wzrost realnego PKB (innymi słowy, nominalny PKB na wykresie rośnie szybciej niż realny PKB), ponieważ występowanie inflacji, zwłaszcza w latach 70. XX w., skutkuje silnym wzrostem nominalnego PKB.</para>
+      <para id="fs-idm3770816"><link target-id="CNX_Econ_C19_009" id="UUID638678d0-c8cc-4f4b-5dce-6c33c7d5fa1b" /> pokazuje nominalny i realny PKB w USA od 1960 r. Ponieważ rok 2005 jest rokiem bazowym, nominalny i realny PKB mają dla tego roku identyczną wartość. Jednak z biegiem czasu wzrost nominalnego PKB jest znacznie większy niż wzrost realnego PKB (innymi słowy, nominalny PKB na wykresie rośnie szybciej niż realny PKB), ponieważ występowanie inflacji, zwłaszcza w latach 70. XX w., skutkuje silnym wzrostem nominalnego PKB.</para>
       <figure id="CNX_Econ_C19_013">
         <title id="UUID0207deb9-f579-4b3e-41a4-114b246414c2">Nominalny i realny PKB w USA w latach 1960–2020</title>
         <media alt="Wykres przedstawia związek między poziomem realnego a nominalnego PKB. Przed rokiem 2005 realny PKB w USA jest wyższy niż PKB nominalny, zaś po roku 2005 występuje odwrotna zależność pomiędzy tymi dwoma parametrami." id="fs-idp30748016">

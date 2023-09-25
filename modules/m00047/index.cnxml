@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/1d1ecdfb-bb80-4f13-a407-2533db498679</md:content-url>
     <md:title>Wprowadzenie do rozdziału</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-20T13:17:31.193615937+00:00</md:version>
-    <md:created>2023-09-20T13:17:31.193615937+00:00</md:created>
-    <md:revised>2023-09-20T13:17:31.193615937+00:00</md:revised>
+    <md:version>2023-09-25T07:45:10.693911233+00:00</md:version>
+    <md:created>2023-09-25T07:45:10.693911233+00:00</md:created>
+    <md:revised>2023-09-25T07:45:10.693911233+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -54,6 +54,6 @@
       </list>
     </note>
     <para id="fs-idp127354256">Rozważania dotyczące pieniądza i systemu bankowego są kluczowym elementem makroekonomii. Rozpoczynając lekturę tego rozdziału, wiesz już, że problematyka makroekonomii koncentruje się wokół zagadnień <term cmlnle:reference="wzrost gospodarczy" id="term-00001" class="no-emphasis">wzrostu gospodarczego</term>, niskiego <term cmlnle:reference="bezrobocie" id="term-00002" class="no-emphasis">bezrobocia</term> i niskiej <term cmlnle:reference="inflacja" id="term-00003" class="no-emphasis">inflacji</term>, tak jak to zostało przedstawione w <link document="m00002" cmlnle:case="locative" id="UUIDe7468121-00b2-4af1-645d-09e7048c2f95" />. Teraz czas na omówienie kwestii pieniądza i tego, w jaki sposób przekłada się on na możliwości realizacji tych trzech podstawowych celów makroekonomicznych.</para>
-    <para id="fs-idp111593888">Przystępując do lektury niniejszego rozdziału, znasz już keynesowskie i neoklasyczne ramy analizy makroekonomicznej oraz to, w jaki sposób można je wprowadzić do modelu AD-AS (modelu zagregowanego popytu-zagregowanej podaży). Biorąc pod uwagę cele, jakie stawiają sobie makroekonomiści, a także sposób analizy interesujących ich zjawisk, ostatnim elementem, który musimy omówić, jest polityka makroekonomiczna. Składają się na nią: polityka monetarna (pieniężna), koncentrująca się na pieniądzu, systemie bankowym i stopach procentowych, oraz polityka fiskalna, w ramach której podejmowane są decyzje dotyczące podatków i wydatków państwa. W tym rozdziale przedstawiony zostanie sposób, w jaki ekonomiści postrzegają pieniądz, oraz jego powiązania z systemem bankowym. Kolejny <link document="m00052" id="UUID48ef3c1e-c558-43cc-560a-99bbdbb423c5" /> będzie rozwijał wprowadzone tutaj wątki.</para>
+    <para id="fs-idp111593888">Przystępując do lektury niniejszego rozdziału, znasz już keynesowskie i neoklasyczne ramy analizy makroekonomicznej oraz to, w jaki sposób można je wprowadzić do <term cmlnle:reference="model AD-AS" id="UUID48171559-67c5-4723-520c-db7b6d9ac0af">modelu AD-AS</term> (<term cmlnle:reference="model zagregowanego popytu-zagregowanej podaży" id="UUIDaa38b526-69b2-450a-72f0-0523ea359841">modelu zagregowanego popytu-zagregowanej podaży</term>). Biorąc pod uwagę cele, jakie stawiają sobie makroekonomiści, a także sposób analizy interesujących ich zjawisk, ostatnim elementem, który musimy omówić, jest polityka makroekonomiczna. Składają się na nią: polityka monetarna (pieniężna), koncentrująca się na pieniądzu, systemie bankowym i stopach procentowych, oraz polityka fiskalna, w ramach której podejmowane są decyzje dotyczące podatków i wydatków państwa. W tym rozdziale przedstawiony zostanie sposób, w jaki ekonomiści postrzegają pieniądz, oraz jego powiązania z systemem bankowym. Kolejny <link document="m00052" id="UUID48ef3c1e-c558-43cc-560a-99bbdbb423c5" /> będzie rozwijał wprowadzone tutaj wątki.</para>
   </content>
 </document>
