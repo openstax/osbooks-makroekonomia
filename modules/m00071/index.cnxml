@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ued379a5c-6b64-4de5-8279-6f6dfe3fe453" id="Ued379a5c-6b64-4de5-8279-6f6dfe3fe453" xml:lang="en" cnxml-version="0.7">
-  <title>13.2 Polityka fiskalna a deficyt handlowy państwa</title>
+  <title>13.2 Polityka fiskalna a bilans handlowy</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00071</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/ed379a5c-6b64-4de5-8279-6f6dfe3fe453</md:content-url>
     <md:title>13.2 Polityka fiskalna a bilans handlowy</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-25T07:45:11.528197788+00:00</md:version>
-    <md:created>2023-09-25T07:45:11.528197788+00:00</md:created>
-    <md:revised>2023-09-25T07:45:11.528197788+00:00</md:revised>
+    <md:version>2023-09-27T12:25:47.613315539+00:00</md:version>
+    <md:created>2023-09-27T12:25:47.613315539+00:00</md:created>
+    <md:revised>2023-09-27T12:25:47.613315539+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -74,7 +74,7 @@
       <para id="fs-idm77012128">Jednym z powodów do niepokoju jest to, że pokaźne deficyty budżetowe mogą spowodować tak silny wzrost popytu globalnego, że w gospodarce pojawi się wysoka inflacja. Przykładem jest Turcja, w której bardzo wysokie ujemne salda budżetu spowodowały szybki wzrost stopy inflacji do dwucyfrowego poziomu. Ponadto ogromne deficyty budżetowe w pewnym momencie zaczynają budzić obawę, że rząd nie będzie w stanie spłacić zaciągniętych zobowiązań. W ciągu ostatnich 175 lat rząd Turcji sześciokrotnie nie był w stanie regulować swoich długów. Brazylia nie dokonała spłaty pożyczek siedem razy, Wenezuela – dziewięć razy, a Argentyna pięć razy. Ryzyko wysokiej inflacji lub niespłacania zagranicznych długów będzie niepokoić międzynarodowych inwestorów, ponieważ oba te czynniki oznaczają, że stopa zwrotu z inwestycji w danym kraju może okazać się niższa, niż oczekiwano. Jeśli międzynarodowi inwestorzy zaczną szybko wycofywać z danego kraju kapitał, może pojawić się scenariusz zawierający malejące gwałtownie inwestycje, deprecjację kursu walutowego, powszechne bankructwa banków i głęboką recesję. Poniższa <link target-id="fs-idm48144016" id="UUID2d1c6a9f-9e4b-4cb1-40b3-dd15fd24adf7" /> przedstawia inne skutki bardzo wysokich deficytów budżetowych.</para>
       <note type="note" id="fs-idm48144016" class="clearup economics">
         <title id="UUID5f2b944e-85be-45d9-4117-3004647d610f">Jakie są zagrożenia związane z trwale wysokimi deficytami budżetowymi w Stanach Zjednoczonych?</title>
-        <para id="fs-idm27824512">Co może pójść nie tak, jeśli państwo notuje wysokie deficyty budżetowe w długim okresie? Według niedawnego raportu Brookings Institution kluczowym ryzykiem związanym z dużym deficytem budżetowym jest zbyt wysoki wzrost długu publicznego w porównaniu ze wzrostem PKB. Wraz ze wzrostem zadłużenia państwa krajowa stopa oszczędności będzie spadać, pozostawiając mniej dostępnego kapitału finansowego na inwestycje prywatne. Wpływ trwale wysokich deficytów budżetowych na gospodarkę jest następujący:</para>
+        <para id="fs-idm27824512">Co może pójść nie tak, jeśli państwo notuje wysokie deficyty budżetowe w długim okresie? Według raportu <foreign xml:lang="en" id="UUID40483df6-07e4-4e65-6945-b17cf604408c">Brookings Institution</foreign> kluczowym ryzykiem związanym z dużym deficytem budżetowym jest zbyt wysoki wzrost długu publicznego w porównaniu ze wzrostem PKB. Wraz ze wzrostem zadłużenia państwa krajowa stopa oszczędności będzie spadać, pozostawiając mniej dostępnego kapitału finansowego na inwestycje prywatne. Wpływ trwale wysokich deficytów budżetowych na gospodarkę jest następujący:</para>
         <list id="fs-idm26138288">
           <item id="UUID41657ce3-51de-4144-4fa2-7bd410aee8f6">
             <para id="UUIDc198174a-ee7f-41a5-62a8-796dffb1ef71">Wraz ze starzeniem się społeczeństwa będzie rosło zapotrzebowanie na usługi finansowane przez państwo, co może powodować wzrost deficytu budżetowego. Pożyczki zaciągane przez rząd i spłata odsetek od długu publicznego ograniczą zasoby dla krajowych inwestycji w kapitał ludzki i kapitał rzeczowy, co jest niezbędne dla utrzymania wysokiego tempa wzrostu gospodarczego w długim okresie.</para>

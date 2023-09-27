@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U7cc03cb3-2105-4ad6-ba38-3300763d7ac8" id="U7cc03cb3-2105-4ad6-ba38-3300763d7ac8" xml:lang="en" cnxml-version="0.7">
-  <title>12.4 Automatic Stabilizers</title>
+  <title>12.4 Automatyczne stabilizatory koniunktury</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00066</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/7cc03cb3-2105-4ad6-ba38-3300763d7ac8</md:content-url>
     <md:title>12.4 Automatyczne stabilizatory koniunktury</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-25T07:45:11.153473812+00:00</md:version>
-    <md:created>2023-09-25T07:45:11.153473812+00:00</md:created>
-    <md:revised>2023-09-25T07:45:11.153473812+00:00</md:revised>
+    <md:version>2023-09-27T12:25:47.581203359+00:00</md:version>
+    <md:created>2023-09-27T12:25:47.581203359+00:00</md:created>
+    <md:revised>2023-09-27T12:25:47.581203359+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -37,7 +37,7 @@
         </item>
       </list>
     </note>
-    <para id="fs-idm81313344">Miliony amerykańskich bezrobotnych, którzy stracili posady w latach 2008–2009, pobierało zasiłki, w mniejszej lub większej części zastępujące ich uzyskiwane wcześniej dochody z pracy. O <term cmlnle:reference="dyskrecjonalna (uznaniowa) polityka fiskalna" id="UUID3084d5be-371e-4ee7-5806-4f5e9596ae01">dyskrecjonalnej (uznaniowej) polityce fiskalnej</term> (ang. <foreign xml:lang="en" id="UUID26d72436-ddec-4c7a-4e4f-87b66a0536d0"><term cxlxt:index="foreign" id="UUID12ca4eaf-3a28-45e8-5922-468967deb4f2">discretionary fiscal policy</term></foreign>) mówimy wtedy, gdy rząd uchwala nowe prawo wyraźnie zmieniające wysokość podatków lub wydatków państwa. Przykładem jest pakiet stymulacyjny z 2009 r. w USA, podatkowy program Polski Ład przygotowany przez rząd PiS w 2022 r., wprowadzenie do polskiego prawa programu Rodzina 500 Plus czy też trzynastej i czternastej emerytury. Zmiany wielkości podatków i wydatków państwa mogą również zachodzić automatycznie, dzięki <term cmlnle:reference="automatyczne stabilizatory" id="UUIDa7b852d3-e1e2-45fc-5108-82b732b1fe1d">automatycznym stabilizatorom koniunktury</term> (ang. <foreign xml:lang="en" id="UUIDe741187f-df58-4fd8-6e05-1c5a451b2e0f"><term cxlxt:index="foreign" id="UUID4a213b51-416b-4ee3-5d6d-cea3d59efe0a">automatic stabilizers</term></foreign>), takim jak zasiłki dla bezrobotnych, które stymulują wzrost popytu globalnego w czasie recesji i ograniczają jego rozmiary w okresie silnego ożywienia.</para>
+    <para id="fs-idm81313344">Miliony amerykańskich bezrobotnych, którzy stracili posady w latach 2008–2009, pobierało zasiłki, w mniejszej lub większej części zastępujące ich uzyskiwane wcześniej dochody z pracy. O <term cmlnle:reference="dyskrecjonalna (uznaniowa) polityka fiskalna" id="UUID3084d5be-371e-4ee7-5806-4f5e9596ae01">dyskrecjonalnej polityce fiskalnej</term> (zwanej też <term cmlnle:reference="uznaniowa polityka fiskalna" id="UUID14c2b8ea-17b3-445b-5386-1fedd913f549">uznaniową</term>) (ang. <foreign xml:lang="en" id="UUID26d72436-ddec-4c7a-4e4f-87b66a0536d0"><term cxlxt:index="foreign" id="UUID12ca4eaf-3a28-45e8-5922-468967deb4f2">discretionary fiscal policy</term></foreign>) mówimy wtedy, gdy rząd uchwala nowe prawo wyraźnie zmieniające wysokość podatków lub wydatków państwa. Przykładem jest pakiet stymulacyjny z 2009 r. w USA, podatkowy program Polski Ład przygotowany przez rząd PiS w 2022 r., wprowadzenie do polskiego prawa programu Rodzina 500 Plus czy też trzynastej i czternastej emerytury. Zmiany wielkości podatków i wydatków państwa mogą również zachodzić automatycznie, dzięki <term cmlnle:reference="automatyczne stabilizatory" id="UUIDa7b852d3-e1e2-45fc-5108-82b732b1fe1d">automatycznym stabilizatorom koniunktury</term> (ang. <foreign xml:lang="en" id="UUIDe741187f-df58-4fd8-6e05-1c5a451b2e0f"><term cxlxt:index="foreign" id="UUID4a213b51-416b-4ee3-5d6d-cea3d59efe0a">automatic stabilizers</term></foreign>), takim jak zasiłki dla bezrobotnych, które stymulują wzrost popytu globalnego w czasie recesji i ograniczają jego rozmiary w okresie silnego ożywienia.</para>
     <section id="fs-idp80084160">
       <title id="UUID5805e28c-a482-45c3-612f-3d6df27fd01b">Łagodzenie recesji i ożywienia</title>
       <para id="UUIDa4285a2f-1db6-41bc-792c-a1b61f2728b8">Rozważmy najpierw sytuację, gdy popyt globalny gwałtownie rośnie, powodując przesunięcie się punktu równowagi do poziomu produkcji powyżej potencjalnego PKB. Sytuacja ta zwiększa presję inflacyjną w gospodarce. Receptą w takim przypadku jest restrykcyjna polityka fiskalna, realizowana najczęściej poprzez kombinację wyższych podatków i niższych wydatków państwa. Do pewnego stopnia <emphasis effect="italics">obie</emphasis> zmiany następują automatycznie. Jeśli chodzi o podatki, wzrost popytu globalnego oznacza, że pracownicy i przedsiębiorstwa w całej gospodarce zarabiają więcej. Ponieważ podatki zależą m.in. od wysokości dochodów osobistych i zysków przedsiębiorstw, wzrost popytu globalnego automatycznie zwiększa wpływy podatkowe. Dodatkowo, rosnąca inflacja, która zazwyczaj jest konsekwencją gwałtownego wzrostu popytu globalnego, również zwiększa dochody budżetu, tak jak to miało miejsce w Polsce w 2022 r. Jeśli chodzi o wydatki, większy popyt globalny oznacza zazwyczaj niższe bezrobocie i mniej zwolnień pracowników, a więc istnieje mniejsze zapotrzebowanie na wydatki państwa przeznaczane na zasiłki dla bezrobotnych, opiekę społeczną i inne programy zabezpieczenia społecznego.</para>
@@ -47,7 +47,7 @@
     </section>
     <section id="fs-idp48879968">
       <title id="UUID4b54e076-e0a8-4da2-5460-85b39d438974">Budżet strukturalny</title>
-      <para id="fs-idp63192880">W Stanach Zjednoczonych Biuro Budżetowe Kongresu (Congressional Budget Office – CBO) oblicza każdego roku saldo <term cmlnle:reference="budżet strukturalny" id="UUIDe7d0160b-a03d-456b-4df4-c80509566a7e">budżetu strukturalnego</term> (ang. <foreign xml:lang="en" id="UUIDa7bff05c-4aaa-45fc-78ce-f55fb91bc063"><term cxlxt:index="foreign" id="UUID6b9c68bf-dee4-4f22-461d-1056d664eed3">standardized employment budget</term></foreign>). Pokazuje ono, jaki byłby wynik budżetu (deficyt lub nadwyżka), gdyby gospodarka produkowała na poziomie potencjalnego PKB, czyli w sytuacji, w której istniałoby tylko bezrobocie naturalne. W krajach UE analogiczne działania podejmuje Komisja Europejska. Oznacza to, że deficyt strukturalny nie uwzględnia wpływu automatycznych stabilizatorów. <link target-id="CNX_Econ_C30_012" id="UUIDcdab7bc8-2ec8-49b1-79ee-c75d98423fdd" /> przedstawia rzeczywisty i strukturalny deficyt budżetowy w Stanach Zjednoczonych w ostatnich dziesięcioleciach.</para>
+      <para id="fs-idp63192880">W Stanach Zjednoczonych Biuro Budżetowe Kongresu (ang. <foreign xml:lang="en" id="UUID64b99bc7-e275-47bb-6fce-39f8ddac3fe4">Congressional Budget Office</foreign>, CBO) oblicza każdego roku saldo <term cmlnle:reference="budżet strukturalny" id="UUIDe7d0160b-a03d-456b-4df4-c80509566a7e">budżetu strukturalnego</term> (ang. <foreign xml:lang="en" id="UUIDa7bff05c-4aaa-45fc-78ce-f55fb91bc063"><term cxlxt:index="foreign" id="UUID6b9c68bf-dee4-4f22-461d-1056d664eed3">standardized employment budget</term></foreign>). Pokazuje ono, jaki byłby wynik budżetu (deficyt lub nadwyżka), gdyby gospodarka produkowała na poziomie potencjalnego PKB, czyli w sytuacji, w której istniałoby tylko bezrobocie naturalne. W krajach UE analogiczne działania podejmuje Komisja Europejska. Oznacza to, że deficyt strukturalny nie uwzględnia wpływu automatycznych stabilizatorów. <link target-id="CNX_Econ_C30_012" id="UUIDcdab7bc8-2ec8-49b1-79ee-c75d98423fdd" /> przedstawia rzeczywisty i strukturalny deficyt budżetowy w Stanach Zjednoczonych w ostatnich dziesięcioleciach.</para>
       <note type="note" id="fs-idp21278368" class="economics linkup">
         <para id="fs-idp7093664">Odwiedź poniższą <link url="http://openstax.org/l/CBO" id="UUID2cf0168f-c31c-41f4-7ef0-8d8f84c0b3df">stronę internetową</link>, aby dowiedzieć się więcej o Biurze Budżetowym Kongresu Stanów Zjednoczonych.</para>
       </note>
@@ -127,9 +127,15 @@
       </meaning>
     </definition>
     <definition id="fs-idp28854864">
-      <term id="UUID4615ed91-6545-4b8f-6992-f80e13796708">dyskrecjonalna (uznaniowa) polityka fiskalna (ang. <foreign xml:lang="en" id="UUIDd487396e-937b-4cac-5713-4ac70e06051d">discretionary fiscal policy</foreign>)</term>
+      <term id="UUID4615ed91-6545-4b8f-6992-f80e13796708">dyskrecjonalna polityka fiskalna (ang. <foreign xml:lang="en" id="UUIDd487396e-937b-4cac-5713-4ac70e06051d">discretionary fiscal policy</foreign>)</term>
       <meaning id="fs-idm118445568">
         <para id="UUID84c318c7-d2c3-4306-5f4c-4799537ff221">polityka fiskalna wpływająca na popyt globalny, która polega na ustanowieniu przez rząd nowego prawa wyraźnie zmieniającego podatki lub poziom wydatków państwa</para>
+      </meaning>
+    </definition>
+    <definition id="UUID858a5c4a-8281-4416-5809-34e75a68f12e">
+      <term id="UUID11e072ee-739d-4d61-5b99-046fdc026262"> uznaniowa polityka fiskalna</term>
+      <meaning id="UUID493218f1-f669-497e-410a-a00ec711b1e9">
+        <para id="UUID1ba3aaec-cc82-4af3-459e-8d3991fa290b">zob. dyskrecjonalna polityka fiskalna</para>
       </meaning>
     </definition>
     <definition id="fs-idp18189600">

@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/77b219e0-4847-468b-96b9-d1ff17bda0fa</md:content-url>
     <md:title>1.3 Śledzenie zmian realnego PKB w czasie</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-25T07:45:09.577936304+00:00</md:version>
-    <md:created>2023-09-25T07:45:09.577936304+00:00</md:created>
-    <md:revised>2023-09-25T07:45:09.577936304+00:00</md:revised>
+    <md:version>2023-09-27T12:25:47.096452383+00:00</md:version>
+    <md:created>2023-09-27T12:25:47.096452383+00:00</md:created>
+    <md:revised>2023-09-27T12:25:47.096452383+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -120,10 +120,28 @@
         <para id="UUIDa18a1c64-255b-4a4e-71d5-fe2105ab98a3">krótkookresowe wahania poziomu aktywności gospodarczej w trakcie naprzemiennie występujących okresów ożywienia i recesji</para>
       </meaning>
     </definition>
+    <definition id="UUID637682ee-f0c8-44de-52e0-211eeacff99e">
+      <term id="UUID9ec99dea-1193-427a-7fc0-c63548190476">cykl gospodarczy</term>
+      <meaning id="UUIDa30e3c61-8303-4366-6a13-6f16c2f588bc">
+        <para id="UUIDb5a22f8c-09e8-4a7e-537e-f9f2156bad77">zob. cykl koniunkturalny</para>
+      </meaning>
+    </definition>
     <definition id="fs-idp27754240">
       <term id="UUIDe46ceb85-22b3-4ddf-43de-d276acda93d1">kryzys (ang. <foreign xml:lang="en" id="UUID968549cd-120e-4b4d-7b5a-e13d6004b962">crisis</foreign> lub ang. <foreign xml:lang="en" id="UUID0e3fda30-85fd-469b-63fb-8203cddd8c1f">depression</foreign>)</term>
       <meaning id="fs-idp10759360">
         <para id="UUID2f2d52ab-240a-435b-7a8c-d7ca4ff8d214">szczególnie długotrwały i głęboki spadek poziomu aktywności gospodarczej</para>
+      </meaning>
+    </definition>
+    <definition id="UUID3c300f52-aeed-4741-6be8-fe78be9aff21">
+      <term id="UUID81a9359a-ba63-4c1c-57f3-d36341b912ad">załamanie gospodarcze</term>
+      <meaning id="UUID5c431690-c1b8-4a04-7cf2-578ae2d95c4c">
+        <para id="UUID0d9e9fbb-2610-4a86-7ea8-b5c096752249">zob. kryzys</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDed50fe6d-b167-45b4-732d-87050da677d7">
+      <term id="UUID71ac0feb-6668-46f6-484e-d6d107b8d327">depresja</term>
+      <meaning id="UUIDb65f80ca-0c7b-4a41-4d27-48561c01b0e6">
+        <para id="UUIDbfc75a64-7b12-4732-77fa-88a6a13fede0">zob. kryzys</para>
       </meaning>
     </definition>
     <definition id="fs-idp26586384">

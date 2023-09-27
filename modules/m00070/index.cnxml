@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U34397686-38cc-46e9-82d9-69b2275ae01f" id="U34397686-38cc-46e9-82d9-69b2275ae01f" xml:lang="en" cnxml-version="0.7">
-  <title>13.1 How Government Borrowing Affects Investment and the Trade Balance</title>
+  <title>13.1 Wpływ długu publicznego na bilans handlowy i inwestycje</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00070</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/34397686-38cc-46e9-82d9-69b2275ae01f</md:content-url>
     <md:title>13.1 Wpływ długu publicznego na bilans handlowy i inwestycje</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-25T07:45:11.485008244+00:00</md:version>
-    <md:created>2023-09-25T07:45:11.485008244+00:00</md:created>
-    <md:revised>2023-09-25T07:45:11.485008244+00:00</md:revised>
+    <md:version>2023-09-27T12:25:47.603376634+00:00</md:version>
+    <md:created>2023-09-27T12:25:47.603376634+00:00</md:created>
+    <md:revised>2023-09-27T12:25:47.603376634+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -47,10 +47,10 @@
       <para id="UUID6c2bba06-42bb-4c61-46ab-3307f12a9cfc">Zmianie dowolnego składnika tożsamości oszczędności i inwestycji musi towarzyszyć przynajmniej jedna zmiana innego elementu tego równania, ponieważ równość podaży i popytu wynika z samej definicji równowagi rynkowej. Jeżeli zmienia się saldo budżetu państwa, to zmianie muszą ulec prywatne oszczędności lub prywatne inwestycje, lub bilans handlowy (bądź jakaś kombinacja tych trzech elementów). <link target-id="CNX_Econ_C31_009" id="UUID76293e06-55ec-4b26-6335-dbd205b2dc78" /> pokazuje możliwe skutki zmiany salda budżetu państwa.</para>
       <figure id="CNX_Econ_C31_009">
         <title id="UUIDc1bed80e-ede6-4963-7bf8-3c2b4f7adcb3">Wpływ zmian salda budżetu na inwestycje, oszczędności i bilans handlowy</title>
-        <media alt="Opierając się na tożsamości oszczędności i inwestycji, części (a) i (b) ilustracji pokazują, co dzieje się z inwestycjami, oszczędnościami prywatnymi i deficytem handlowym, gdy zmienia się saldo budżetu. Część (a) Gdy rośnie deficyt budżetowy (lub maleje nadwyżka budżetowa), skutkiem może być (1) spadek krajowych inwestycji prywatnych lub (2) wzrost oszczędności prywatnych, lub (3) wzrost deficytu handlowego (bądź zmniejszenie nadwyżki handlowej). Odwrotne skutki występują, gdy deficyt budżetowy maleje (albo rośnie nadwyżka budżetowa), co pokazuje część (b) ilustracji." id="fs-idm198916416">
+        <media alt="Opierając się na tożsamości oszczędności i inwestycji, panele (a) i (b) ilustracji pokazują, co dzieje się z inwestycjami, oszczędnościami prywatnymi i deficytem handlowym, gdy zmienia się saldo budżetu. Panel (a) Gdy rośnie deficyt budżetowy (lub maleje nadwyżka budżetowa), skutkiem może być (1) spadek krajowych inwestycji prywatnych lub (2) wzrost oszczędności prywatnych, lub (3) wzrost deficytu handlowego (bądź zmniejszenie nadwyżki handlowej). Odwrotne skutki występują, gdy deficyt budżetowy maleje (albo rośnie nadwyżka budżetowa), co pokazuje panel (b) ilustracji." id="fs-idm198916416">
           <image src="../../media//CNX_Econ_C31_009.svg" mime-type="image/svg+xml" id="UUID96f5333a-f0bc-48f8-5a79-3cb5e38f1ef5" />
         </media>
-        <caption id="UUID4d745619-7b49-4ef6-455e-1cd8f25584f4">Część (a) pokazuje potencjalne skutki wzrostu deficytu budżetowego (lub spadku nadwyżki budżetowej). Część (b) przedstawia potencjalne skutki spadku deficytu budżetowego (lub wzrostu nadwyżki budżetowej).</caption>
+        <caption id="UUID4d745619-7b49-4ef6-455e-1cd8f25584f4">Panel (a) pokazuje potencjalne skutki wzrostu deficytu budżetowego (lub spadku nadwyżki budżetowej). Panel (b) przedstawia potencjalne skutki spadku deficytu budżetowego (lub wzrostu nadwyżki budżetowej).</caption>
       </figure>
     </section>
     <section id="fs-idm49805760">
@@ -70,7 +70,7 @@
       <equation id="fs-idm183612752" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Podaż kapitału finansowego</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mtext>Popyt na kapitał finansowy</mtext></mtd></mtr><mtr><mtd><mtext>Oszczędności prywatne</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mtext>Inwestycje prywatne + Deficyt budżetowy + Nadwyżka handlowa</mtext></mtd></mtr><mtr><mtd><mtext>S</mtext></mtd><mtd><mo> = </mo></mtd><mtd><mtext>I + (G − T) + (X − Z) </mtext></mtd></mtr></mtable></math></equation>
       <para id="UUID68481c91-9a56-478e-4532-20627cdfe78b">Istota tych równań polega na tym, że tożsamość oszczędności i inwestycji jest zawsze spełniona. Podczas zapisywania tych zależności, jeszcze przed rozpoczęciem obliczeń, ważne jest, aby zrozumieć od strony ekonomicznej, co znajduje się po stronie podaży i popytu na rynku kapitału finansowego. Wtedy znacznie trudniej jest popełnić błąd przy zapisie równania.</para>
       <para id="UUID1db3f399-5a41-4a69-4239-b6b68d8e2a5f" />
-      <para id="fs-idm208344448">Jak widać na <link target-id="CNX_Econ_C31_010" cmlnle:case="locative" id="UUIDd96ad971-3506-4e2d-455e-2cf009b8c8f0" />, zgodnie z danymi Amerykańskiego Biura Zarządzania i Budżetu (Office of Management and Budget), USA konsekwentnie utrzymywały deficyty budżetowe od 1970 r., z wyjątkiem okresu 1998–2001. Niepokojący jest bardzo szybki wzrost deficytu budżetowego po 2008 r., co częściowo odzwierciedla spadające dochody podatkowe oraz zwiększone wydatki państwa z powodu globalnego kryzysu finansowego. (Przypomnijmy, że T to podatki netto, a więc wpływy po odjęciu transferów. Kiedy rząd musi przekazać fundusze z powrotem do gospodarstw domowych jako dochody transferowe przeznaczone np. na finansowanie programu „Rodzina 500 Plus”, deficyt budżetowy rośnie). Utrzymujące się deficyty mają wpływ na przyszłą kondycję amerykańskiej gospodarki.</para>
+      <para id="fs-idm208344448">Jak widać na <link target-id="CNX_Econ_C31_010" cmlnle:case="locative" id="UUIDd96ad971-3506-4e2d-455e-2cf009b8c8f0" />, zgodnie z danymi Amerykańskiego Biura Zarządzania i Budżetu (ang. <foreign xml:lang="en" id="UUID4bb98a94-131a-44c3-47d6-98383d7b2998">Office of Management and Budget</foreign>), USA konsekwentnie utrzymywały deficyty budżetowe od 1970 r., z wyjątkiem okresu 1998–2001. Niepokojący jest bardzo szybki wzrost deficytu budżetowego po 2008 r., co częściowo odzwierciedla spadające dochody podatkowe oraz zwiększone wydatki państwa z powodu globalnego kryzysu finansowego. (Przypomnijmy, że T to podatki netto, a więc wpływy po odjęciu transferów. Kiedy rząd musi przekazać fundusze z powrotem do gospodarstw domowych jako dochody transferowe przeznaczone np. na finansowanie programu „Rodzina 500 Plus”, deficyt budżetowy rośnie). Utrzymujące się deficyty mają wpływ na przyszłą kondycję amerykańskiej gospodarki.</para>
       <figure id="CNX_Econ_C31_010">
         <title id="UUIDb9fe09dd-9991-4a93-4585-a6f89bd3c273">Saldo budżetu federalnego Stanów Zjednoczonych, 1952–2020 (mld dol.)</title>
         <media alt="Wykres pokazuje saldo budżetu federalnego Stanów Zjednoczonych w latach 1952–2020. W drugiej połowie lat 80. XX w. wartość deficytu przekroczyła po raz pierwszy 200 mld USD, pod koniec lat 90. stopniowo przechodząc w nadwyżkę. Począwszy od 2008 r. deficyt gwałtownie wzrósł. Największy deficyt został zanotowany w 2020 r. (w okresie recesji wywołanej pandemią koronawirusa) i wyniósł ponad 3,1 bln dol., czyli osiągnął wartość niewiele niższą niż suma deficytów z pięciu poprzednich lat." id="fs-idp80641376">
