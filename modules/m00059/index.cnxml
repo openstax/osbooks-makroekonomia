@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U592f39d1-6b1f-42ca-9a3f-3faf952fb458" id="U592f39d1-6b1f-42ca-9a3f-3faf952fb458" xml:lang="en" cnxml-version="0.7">
-  <title>11.2 Przesunięcia krzywych popytu i podaży na rynkach walutowych</title>
+  <title>Przesunięcia krzywych popytu i podaży na rynkach walutowych</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00059</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/592f39d1-6b1f-42ca-9a3f-3faf952fb458</md:content-url>
-    <md:title>11.2 Przesunięcia krzywych popytu i podaży na rynkach walutowych</md:title>
+    <md:title>Przesunięcia krzywych popytu i podaży na rynkach walutowych</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.532645945+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.532645945+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.532645945+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.761323856+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.761323856+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.761323856+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -173,7 +173,7 @@
     <definition id="fs-idm32629168">
       <term id="UUIDdd34aae2-6aaa-4e89-4ad3-6cd986d240b3">parytet siły nabywczej (PSN) (ang. <foreign xml:lang="en" id="UUID7f7b8a52-2fd9-4b23-7aed-641d5b83bb3f">purchasing power parity (PPP)</foreign>)</term>
       <meaning id="fs-idm38641888">
-        <para id="UUID7cb6d329-3256-407b-52e3-5bd9383582c5">kurs wymiany, dzięki któremu ceny towarów będących przedmiotem handlu międzynarodowego są mniej więcej takie same we wszystkich krajach</para>
+        <para id="UUID7cb6d329-3256-407b-52e3-5bd9383582c5">wskaźniki poziomu różnic w cenach pomiędzy krajami; kurs wymiany, dzięki któremu ceny towarów będących przedmiotem handlu międzynarodowego są mniej więcej takie same we wszystkich krajach</para>
       </meaning>
     </definition>
   </glossary>

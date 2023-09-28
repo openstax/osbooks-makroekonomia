@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U04d1b34a-b417-45e1-a99b-10fe4af5040f" id="U04d1b34a-b417-45e1-a99b-10fe4af5040f" xml:lang="en" cnxml-version="0.7">
-  <title>1.4 Porównywanie PKB w różnych krajach</title>
+  <title>Porównywanie PKB w różnych krajach</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00006</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/04d1b34a-b417-45e1-a99b-10fe4af5040f</md:content-url>
-    <md:title>1.4 Porównywanie PKB w różnych krajach</md:title>
+    <md:title>Porównywanie PKB w różnych krajach</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.103519678+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.103519678+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.103519678+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.215566915+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.215566915+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.215566915+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -151,7 +151,7 @@
     <definition id="UUIDf10e5504-50b4-48ef-76aa-d936bdd12442">
       <term id="UUID34f35be0-ab72-4dd2-4627-7bb9b76f2807">parytet siły nabywczej (ang. <foreign xml:lang="en" id="UUIDee8f6c6a-40e1-4788-60cb-4052a3526450">purchasing power parities (PPP)</foreign>)</term>
       <meaning id="UUID188d96d4-2220-42fd-457c-e552739ba059">
-        <para id="UUIDad54e1cf-4de0-433b-6027-fdb15540d797">wskaźniki poziomu różnic w cenach pomiędzy krajami</para>
+        <para id="UUIDad54e1cf-4de0-433b-6027-fdb15540d797">wskaźniki poziomu różnic w cenach pomiędzy krajami; kurs wymiany, dzięki któremu ceny towarów będących przedmiotem handlu międzynarodowego są mniej więcej takie same we wszystkich krajach</para>
       </meaning>
     </definition>
   </glossary>

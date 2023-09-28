@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uc0c3b063-b65b-475b-b3c5-593e19a77142" id="Uc0c3b063-b65b-475b-b3c5-593e19a77142" xml:lang="en" cnxml-version="0.7">
-  <title>3.4 Przyczyny bezrobocia w długim okresie</title>
+  <title>Przyczyny bezrobocia w długim okresie</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00017</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/c0c3b063-b65b-475b-b3c5-593e19a77142</md:content-url>
-    <md:title>3.4 Przyczyny bezrobocia w długim okresie</md:title>
+    <md:title>Przyczyny bezrobocia w długim okresie</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.188053923+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.188053923+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.188053923+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.309468421+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.309468421+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.309468421+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -68,7 +68,7 @@
       <para id="UUIDdce8dd3f-ce9c-42c2-588d-f6fbeddb4647">Dostosowanie płac do poziomu wynikającego z produktywności pracowników nie następuje jednak ani szybko, ani bezproblemowo. Pracodawcy zmieniają wynagrodzenia swoich pracowników zazwyczaj tylko raz lub dwa razy w roku. Na wielu stanowiskach mierzenie indywidualnej produktywności jest zresztą bardzo trudne. Zastanówmy się przykładowo, w jaki sposób ustalić dokładną wielkość produkcji księgowego, który jest jedną z wielu osób pracujących w dziale podatkowym dużej korporacji. Ponieważ produktywność trudno jest zmierzyć, pracodawcy często kalkulują skalę podwyżek płac na podstawie dostępnych informacji o uśrednionych zmianach produktywności w tym konkretnym przedsiębiorstwie lub wręcz całej gospodarce. Jeśli zatem wydajność wzrasta, powiedzmy, o 2% rocznie, to płaca przykładowego księgowego również wzrośnie w tym samym tempie. Jeśli jednak produktywność zmieni się w nieoczekiwany sposób, to fakt ten będzie miał wpływ na naturalną stopę bezrobocia.</para>
       <para id="fs-idm44086144">Doświadczenia gospodarki amerykańskiej w latach 70. i 90. XX w. dostarczają dwóch wyrazistych przykładów ilustrujących powyższą tezę. W drugiej połowie lat 70. wzrost produktywności nieoczekiwanie zwolnił (co omówiliśmy w <link document="m00008" cmlnle:case="locative" id="UUIDef4af8df-0092-40a2-526c-ba14230df26c" />). Wielkość produkcji na godzinę dla amerykańskich pracowników w sektorze przedsiębiorstw rosła w tempie 3,3% rocznie w latach 1960–1973, ale tylko o 0,8% w latach 1973–1982. Panel (a) <link target-id="CNX_Econ_C21_015" document="" cmlnle:case="genitive" id="UUID379b4c34-81d9-494c-67f7-d3b945205a4b" /> obrazuje sytuację, w której krzywa popytu na pracę – czyli ilość pracy, którą sektor przedsiębiorstw jest skłonny zakupić przy każdym poziomie wynagrodzenia – przesuwa się co roku w górę w związku z rosnącą wydajnością, z położenia D<sub>0</sub> do D<sub>1</sub> i następnie do D<sub>2</sub>. W rezultacie również płace rynkowe systematycznie rosną, począwszy od poziomu W<sub>0</sub> do W<sub>1</sub>, a następnie do W<sub>2</sub>. Jednak gdy tempo wzrostu wydajności nieoczekiwanie spada, dynamika wzrostu płac utrzymuje się na niezmienionym poziomie. Płace rosną co roku w tym samym tempie, z poziomu W<sub>2</sub> do W<sub>3</sub>, a potem do W<sub>4</sub>, ale krzywa popytu na pracę już się nie przesuwa. Powstaje różnica pomiędzy ilością pracy oferowanej na rynku przy płacy W<sub>4</sub> a zapotrzebowaniem na pracę przy tym samym poziomie wynagrodzenia. W konsekwencji stopa bezrobocia wzrasta. W następstwie niespodziewanie niskiej dynamiki wzrostu produktywności w USA w latach 70. XX wieku, w okresie od maja 1980 do końca 1986 r. stopa bezrobocia nie spadła poniżej 7%. Z czasem wzrost płac dostosuje się do wolniejszego tempa wzrostu produktywności i stopa bezrobocia z powrotem się obniży, ale proces ten może trwać całe lata.</para>
       <figure id="CNX_Econ_C21_015">
-        <title id="UUIDe3844948-b118-42ce-46a3-2e899a9d4dfd">Nieoczekiwane zmiany produktywności a poziom bezrobocie</title>
+        <title id="UUIDe3844948-b118-42ce-46a3-2e899a9d4dfd">Nieoczekiwane zmiany produktywności a poziom bezrobocia</title>
         <media alt="Dwa wykresy pokazują, w jaki sposób wzrost lub spadek dynamiki zmian produktywności wpływają na płace i bezrobocie. Jeśli płace rosną szybciej niż produktywność, wówczas poziom bezrobocia się zwiększy. Natomiast gdy produktywność rośnie szybciej niż płace, pojawi się nadwyżka zapotrzebowania na pracę w stosunku od ilości pracy oferowanej przez ludzi na rynku." id="fs-idm38683280">
           <image src="../../media//CNX_Econ_C21_015.svg" mime-type="image/svg+xml" id="UUID0511ae33-2819-42e9-7f4b-1c3792c75be0" />
         </media>
@@ -263,6 +263,18 @@
       <term id="UUID1024fb3e-ad9f-4329-6661-41f6a8d19ff6">bezrobocie frykcyjne (ang. <foreign xml:lang="en" id="UUIDb77fbdc1-c7d5-4929-5389-bae16273ea2b"><emphasis effect="italics">frictional unemployment</emphasis></foreign>)</term>
       <meaning id="fs-idm37846992">
         <para id="UUID9c557537-9928-48df-6d3f-7f04d1b9d5c0">bezrobocie związane z naturalnym procesem zmiany pracy przez pracowników</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDac256bf9-c579-4e08-55c6-26b57ff75dce">
+      <term id="UUIDcb191546-0d62-4b0d-5de2-dcb1f826cb2f">bezrobocie przejściowe</term>
+      <meaning id="UUIDac775aa0-5ea2-4093-6f97-185636316fcc">
+        <para id="UUID4da8988b-0a21-4f25-7ae0-fb2a7b4b71f5">zob. bezrobocie frykcyjne</para>
+      </meaning>
+    </definition>
+    <definition id="UUID9918cc70-d9ed-4103-6f6d-898f41823793">
+      <term id="UUID7ebf8132-c350-44bb-7ebb-0be04893716b">bezrobocie krótkotrwałe</term>
+      <meaning id="UUID4f4cee18-983e-44e3-7d25-a076d4b1fe17">
+        <para id="UUIDa747edb6-78e9-454a-7b9d-dd4f4d33a9e4">zob. bezrobocie frykcyjne</para>
       </meaning>
     </definition>
     <definition id="fs-idm69316544">

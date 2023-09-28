@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/07f1a836-b459-4cf8-a96e-f4958379b4bb</md:content-url>
     <md:title>APPENDIX B The Expenditure-Output Model</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.777798422+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.777798422+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.777798422+00:00</md:revised>
+    <md:version>2023-09-28T13:23:03.583205211+00:00</md:version>
+    <md:created>2023-09-28T13:23:03.583205211+00:00</md:created>
+    <md:revised>2023-09-28T13:23:03.583205211+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -337,15 +337,15 @@
         </problem>
         <solution id="eip-idm398907312">
           <para id="fs-idp118818032">Najpierw zapisz równania.</para>
-          <equation id="fs-idp85827200" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>AE</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(Y – T) + 300 + 200 + 500 – 0,1(Y – T)</mtext></mtd></mtr><mtr><mtd><mtext>AE</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Y</mtext></mtd></mtr></mtable></math></equation>
+          <equation id="fs-idp85827200" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>AE</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(Y – T) + 300 + 200 + 500 – 0,1(Y – T)</mtext></mtd></mtr><mtr><mtd><mtext>AE</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>Y</mtext></mtd></mtr></mtable></math></equation>
           <para id="fs-idp85771344">Następnie wstaw Y w miejsce AE i 0,25Y w miejsce T</para>
-          <equation id="fs-idm67867824" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(Y – 0,25Y) + 300 + 200 + 500 – 0,1(Y – 0,25Y)</mtext></mtd></mtr><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>1400 + 0,6375Y – 0,075Y</mtext></mtd></mtr><mtr><mtd><mtext>0,4375Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>1400</mtext></mtd></mtr><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>3200</mtext></mtd></mtr></mtable></math></equation>
+          <equation id="fs-idm67867824" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(Y – 0,25Y) + 300 + 200 + 500 – 0,1(Y – 0,25Y)</mtext></mtd></mtr><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>1400 + 0,6375Y – 0,075Y</mtext></mtd></mtr><mtr><mtd><mtext>0,4375Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>1400</mtext></mtd></mtr><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>3200</mtext></mtd></mtr></mtable></math></equation>
           <para id="fs-idp58528416">Jeśli pełne zatrudnienie będzie osiągnięte dla Y=3500, to jednym ze sposobów rozwiązania jest podstawienie 3500 w miejsce Y w całym równaniu, ale pozostawienie G jako obliczanej zmiennej.</para>
-          <equation id="fs-idm30952448" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(Y – 0,25Y) + 300 + G + 500 + 0,1(Y – 0,25Y)</mtext></mtd></mtr><mtr><mtd><mtext>3500</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(3500 – 0,25(3500)) + 300 + G + 500 – 0,1(3500 – 0,25(3500))</mtext></mtd></mtr><mtr><mtd><mtext>G</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>3500 – 400 – 2231,25 – 1300 – 500 + 262,5</mtext></mtd></mtr><mtr><mtd><mtext>G</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>331,25</mtext></mtd></mtr></mtable></math></equation>
+          <equation id="fs-idm30952448" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Y</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(Y – 0,25Y) + 300 + G + 500 + 0,1(Y – 0,25Y)</mtext></mtd></mtr><mtr><mtd><mtext>3500</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>400 + 0,85(3500 – 0,25(3500)) + 300 + G + 500 – 0,1(3500 – 0,25(3500))</mtext></mtd></mtr><mtr><mtd><mtext>G</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>3500 – 400 – 2231,25 – 1300 – 500 + 262,5</mtext></mtd></mtr><mtr><mtd><mtext>G</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>331,25</mtext></mtd></mtr></mtable></math></equation>
           <para id="fs-idp60365888">Wartość G wynosząca 331,25 to przyrost o 131,25 z pierwotnego poziomu równego 200.</para>
           <para id="fs-idp40916656">Alternatywnie można rozwiązać to zadanie wykorzystując informacje, że z każdego wydanego dolara 0,25 idzie na podatki, pozostawiając 0,75, a z dochodu po opodatkowaniu 0,15 idzie na oszczędności a 0,1 na import. Ponieważ (0,75)(0,15) = 0,1123 i (0,75)(0,1) = 0,075, to oznacza, że z każdego wydanego dolara: 1 –0,25 –0,1125 –0,075 = 0,5625.</para>
           <para id="fs-idm20173088">Zatem, używając odpowiedniego wzoru, mnożnik wynosi:</para>
-          <equation id="fs-idm54700000" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mfrac><mtext>1</mtext><mtext>1 – 0,5625</mtext></mfrac></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>2,2837</mtext></mtd></mtr></mtable></math></equation>
+          <equation id="fs-idm54700000" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mfrac><mtext>1</mtext><mtext>1 – 0,5625</mtext></mfrac></mtd><mtd><mtext> = </mtext></mtd><mtd><mtext>2,2837</mtext></mtd></mtr></mtable></math></equation>
           <para id="fs-idm30138432">Aby zwiększyć PKB w stanie równowagi o 300, potrzebna jest podwyżka o 300/2,2837, co ponownie daje 131,25.</para>
         </solution>
       </exercise>

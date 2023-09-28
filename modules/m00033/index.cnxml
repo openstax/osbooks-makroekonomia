@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ue128e23e-9ee0-4553-934a-09ee9e39c087" id="Ue128e23e-9ee0-4553-934a-09ee9e39c087" xml:lang="en" cnxml-version="0.7">
-  <title>6.2 Model popytu globalnego i podaży globalnej (AD-AS)</title>
+  <title>Model popytu globalnego i podaży globalnej (AD-AS)</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00033</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/e128e23e-9ee0-4553-934a-09ee9e39c087</md:content-url>
-    <md:title>6.2 Model popytu globalnego i podaży globalnej (AD-AS)</md:title>
+    <md:title>Model popytu globalnego i podaży globalnej (AD-AS)</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.307771958+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.307771958+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.307771958+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.455903937+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.455903937+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.455903937+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -43,10 +43,10 @@
         </item>
       </list>
     </note>
-    <para id="ch24mod02_p01">Aby zbudować użyteczny model makroekonomiczny, potrzebujemy listy zmiennych (czynników) determinujących rozmiary zagregowanego popytu i podaży globalnej w gospodarce oraz opisu mechanizmu, za pomocą którego globalny popyt i zagregowana podaż oddziałują na siebie na poziomie makroekonomicznym. Do tego celu wykorzystujemy <term cmlnle:reference="model popytu globalnego i podaży globalnej" id="UUID64930c0d-11cd-4f83-4ffb-c47007b0c073">model popytu globalnego i podaży globalnej</term>, nazywany także <term cmlnle:reference="model zagregowanego popytu i zagregowanej podaży" id="UUID455a7759-057c-4deb-6b88-b3b40c35b9d2">modelem zagregowanego popytu i zagregowanej podaży</term> lub po prostu od angielskich określeń obu parametrów <term cmlnle:reference="model AD-AS" id="UUID8e796020-e455-4307-61ec-90b293f05866">modelem AD-AS</term> (ang. <emphasis effect="bold" /><foreign xml:lang="en" id="UUIDddbd9d4d-3fb2-46c2-51a1-e32f1bb4a095"><emphasis effect="bold" /><term cmlnle:reference="aggregate demand/aggregate supply " id="UUIDe4366aec-1754-4bd2-6993-dc01061f57c8">aggregate demand/aggregate supply</term></foreign>). Niniejszy podrozdział przedstawia sposób, w jaki ekonomiści wyobrażają sobie podaż globalną, popyt globalny i mechanizm ustalania równowagi pomiędzy tymi parametrami. W kolejnych podrozdziałach omówione zostaną czynniki, które mogą wpłynąć na zmianę wartości obu parametrów, a tym samym przesunięcie wykresów podaży i popytu globalnego.</para>
+    <para id="ch24mod02_p01">Aby zbudować użyteczny model makroekonomiczny, potrzebujemy listy zmiennych (czynników) determinujących rozmiary zagregowanego popytu i podaży globalnej w gospodarce oraz opisu mechanizmu, za pomocą którego globalny popyt i zagregowana podaż oddziałują na siebie na poziomie makroekonomicznym. Do tego celu wykorzystujemy <term cmlnle:reference="model popytu globalnego i podaży globalnej" id="UUID64930c0d-11cd-4f83-4ffb-c47007b0c073">model popytu globalnego i podaży globalnej</term>, nazywany także <term cmlnle:reference="model zagregowanego popytu i zagregowanej podaży" id="UUID455a7759-057c-4deb-6b88-b3b40c35b9d2">modelem zagregowanego popytu i zagregowanej podaży</term> lub po prostu od angielskich określeń obu parametrów <term cmlnle:reference="model AD-AS" id="UUID8e796020-e455-4307-61ec-90b293f05866">modelem AD-AS</term> (ang. <foreign xml:lang="en" id="UUIDddbd9d4d-3fb2-46c2-51a1-e32f1bb4a095"><term cmlnle:reference="aggregate demand/aggregate supply " id="UUIDe4366aec-1754-4bd2-6993-dc01061f57c8">aggregate demand/aggregate supply</term></foreign>). Niniejszy podrozdział przedstawia sposób, w jaki ekonomiści wyobrażają sobie podaż globalną, popyt globalny i mechanizm ustalania równowagi pomiędzy tymi parametrami. W kolejnych podrozdziałach omówione zostaną czynniki, które mogą wpłynąć na zmianę wartości obu parametrów, a tym samym przesunięcie wykresów podaży i popytu globalnego.</para>
     <section id="ch24mod02_01">
       <title id="UUID094a5e27-c514-4299-4fa2-95e607ba41ae">Krzywa podaży globalnej i poziom potencjalnego PKB</title>
-      <para id="ch24mod02_p02">Przedsiębiorstwa podejmują decyzje o wielkości produkcji na podstawie oczekiwanych zysków. Zysk zaś zależy między innymi od ceny sprzedawanego produktu oraz kosztu zakupu czynników wytwórczych, takich jak praca, kapitał i surowce wykorzystywane do produkcji (różnicy pomiędzy utargiem i kosztem). <term cmlnle:reference="podaż globalna" id="UUID1693c3c3-1447-4c83-5536-c231e1b2f36d">Podaż globalna</term> (<term id="UUID08d1393b-7b04-4634-6c6f-b2e6c32cfd18">podaż zagregowana</term>, <term id="UUIDd0c3392d-52e8-487e-76e0-98bd95d60d81">AS</term>) (ang. <emphasis effect="bold" /><foreign xml:lang="en" id="UUID22cc5cf6-0bef-4ab4-62d0-e5aab1e4fded"><emphasis effect="bold" /><term cxlxt:index="foreign" cmlnle:reference="aggregate supply (AS)" id="UUID7dc4c248-1e05-4f0f-4a61-a43bd8f77390">aggregate supply (AS)</term></foreign>) przedstawia łączny wolumen produkcji i sprzedaży dóbr i usług w danej gospodarce (tj. poziom realnego PKB). <term cmlnle:reference="krzywa podaży globalnej" id="UUID0c52a298-a31e-4857-4271-d69021846844">Krzywa podaży globalnej</term> (<term id="UUID601b2272-087d-46d9-6e42-1550adaf63cb">krzywa AS</term>) (<emphasis effect="bold" /><foreign xml:lang="en" id="UUIDc6721c51-5a93-45fe-7f7b-c8c8941cd9e1"><emphasis effect="bold" /><term cxlxt:index="foreign" cmlnle:reference="aggregate supply (AS) curve" id="UUID10913098-5154-402c-515c-cdaab59db0c2">aggregate supply (AS) curve</term></foreign>) ilustruje łączną wielkość produkcji, jaką przedsiębiorstwa będą wytwarzać i sprzedawać przy każdym poziomie cen w gospodarce.</para>
+      <para id="ch24mod02_p02">Przedsiębiorstwa podejmują decyzje o wielkości produkcji na podstawie oczekiwanych zysków. Zysk zaś zależy między innymi od ceny sprzedawanego produktu oraz kosztu zakupu czynników wytwórczych, takich jak praca, kapitał i surowce wykorzystywane do produkcji (różnicy pomiędzy utargiem i kosztem). <term cmlnle:reference="podaż globalna" id="UUID1693c3c3-1447-4c83-5536-c231e1b2f36d">Podaż globalna</term> (<term id="UUID08d1393b-7b04-4634-6c6f-b2e6c32cfd18">podaż zagregowana</term>, <term id="UUIDd0c3392d-52e8-487e-76e0-98bd95d60d81">AS</term>) (ang. <foreign xml:lang="en" id="UUID22cc5cf6-0bef-4ab4-62d0-e5aab1e4fded"><term cxlxt:index="foreign" cmlnle:reference="aggregate supply (AS)" id="UUID7dc4c248-1e05-4f0f-4a61-a43bd8f77390">aggregate supply (AS)</term></foreign>) przedstawia łączny wolumen produkcji i sprzedaży dóbr i usług w danej gospodarce (tj. poziom realnego PKB). <term cmlnle:reference="krzywa podaży globalnej" id="UUID0c52a298-a31e-4857-4271-d69021846844">Krzywa podaży globalnej</term> (<term id="UUID601b2272-087d-46d9-6e42-1550adaf63cb">krzywa AS</term>) (<foreign xml:lang="en" id="UUIDc6721c51-5a93-45fe-7f7b-c8c8941cd9e1"><term cxlxt:index="foreign" cmlnle:reference="aggregate supply (AS) curve" id="UUID10913098-5154-402c-515c-cdaab59db0c2">aggregate supply (AS) curve</term></foreign>) ilustruje łączną wielkość produkcji, jaką przedsiębiorstwa będą wytwarzać i sprzedawać przy każdym poziomie cen w gospodarce.</para>
       <para id="UUIDe6aec23b-960b-4af6-5e78-505e8b267136"><link target-id="CNX_Econ_C24_001" id="UUID3ab7fd44-3353-4d32-4b63-c973524416ea" />. W dalszej części podrozdziału omówimy kolejno poszczególne elementy wykresu: wartości odłożone na osi poziomej i pionowej, samą krzywą podaży globalnej oraz pionową linię wyznaczającą poziom potencjalnego PKB.</para>
       <figure id="CNX_Econ_C24_001">
         <title id="UUID5cf9015f-c627-4156-4507-9da3b2a04222">Krzywa podaży globalnej (krzywa AS)</title>
@@ -133,7 +133,7 @@
     </section>
     <section id="eip-631">
       <title id="UUIDfed7b03d-e9fc-406a-519a-237312c791ea">Krótko- i długookresowe krzywe podaży globalnej (SAS i LAS)</title>
-      <para id="UUID85a2b512-0b8f-4466-436f-620e136b7a8e">W ramce „Poznaj szczegóły” zatytułowanej „Dlaczego krzywa AS przecina linię wyznaczającą poziom potencjalnego PKB?” wprowadziliśmy rozróżnienie pomiędzy krótkookresowymi zmianami podaży globalnej, które można zilustrować przesuwaniem się wzdłuż wykresu krzywej AS, a długookresowym poziomem zagregowanej podaży, reprezentowanym przez pionową linię wyznaczającą wartość potencjalnego PKB (która oczywiście również może się przesuwać w prawo lub w lewo, wraz ze zmianami potencjału danej gospodarki, np. wzrostem liczby ludności w wyniku migracji). W krótkim okresie jeśli popyt jest zbyt niski (lub zbyt wysoki), przedsiębiorstwa mogą wytwarzać mniej (lub więcej), niż wynosi produkcja potencjalna. Jednak w długim okresie firmy nie mogą w trwały sposób przekroczyć poziomu produkcji potencjalnej (jak długo bylibyśmy w stanie pracować w każdy weekend i na trzecią zmianę, o ile nie uzasadniałyby tego absolutnie ekstraordynaryjne okoliczności, np. konflikt zbrojny?). Właśnie z tego powodu krzywą AS o dodatnim nachyleniu możemy traktować jako <term cmlnle:reference="krótkookresowa krzywa podaży globalnej (SRAS)" id="UUIDc37ecde8-ea39-4cdb-4d1a-9ddd576d69b1">krótkookresową krzywą podaży globalnej (SAS)</term> (ang. <emphasis effect="bold" /><foreign xml:lang="en" id="UUIDfb0694f2-11f7-420d-7803-02f75c189fd5"><emphasis effect="bold" /><term cxlxt:index="foreign" cmlnle:reference="short run aggregate supply (SAS) curve" id="UUIDbe7ae584-50e1-4552-4a90-574ad76ec10d">short run aggregate supply (SAS) curve</term></foreign>). Z kolei pionową linię wyznaczającą poziom potencjalnego PKB możemy traktować jako <term cmlnle:reference="długookresowa krzywa podaży globalnej (LRAS)" id="UUID84764894-dfb9-48ce-4bd3-6d6396ce6837">długookresową krzywą podaży globalnej (LAS)</term> (ang. <emphasis effect="bold" /><foreign xml:lang="en" id="UUID3f06e0a5-ac8d-453e-7cdc-60290b18ec8a"><emphasis effect="bold" /><term cmlnle:reference="long run aggregate supply (LAS) curve" id="UUIDea489eb8-1806-4b7e-72e4-b2b2e686be8a">long run aggregate supply (LAS) curve</term></foreign>).</para>
+      <para id="UUID85a2b512-0b8f-4466-436f-620e136b7a8e">W ramce „Poznaj szczegóły” zatytułowanej „Dlaczego krzywa AS przecina linię wyznaczającą poziom potencjalnego PKB?” wprowadziliśmy rozróżnienie pomiędzy krótkookresowymi zmianami podaży globalnej, które można zilustrować przesuwaniem się wzdłuż wykresu krzywej AS, a długookresowym poziomem zagregowanej podaży, reprezentowanym przez pionową linię wyznaczającą wartość potencjalnego PKB (która oczywiście również może się przesuwać w prawo lub w lewo, wraz ze zmianami potencjału danej gospodarki, np. wzrostem liczby ludności w wyniku migracji). W krótkim okresie jeśli popyt jest zbyt niski (lub zbyt wysoki), przedsiębiorstwa mogą wytwarzać mniej (lub więcej), niż wynosi produkcja potencjalna. Jednak w długim okresie firmy nie mogą w trwały sposób przekroczyć poziomu produkcji potencjalnej (jak długo bylibyśmy w stanie pracować w każdy weekend i na trzecią zmianę, o ile nie uzasadniałyby tego absolutnie ekstraordynaryjne okoliczności, np. konflikt zbrojny?). Właśnie z tego powodu krzywą AS o dodatnim nachyleniu możemy traktować jako <term cmlnle:reference="krótkookresowa krzywa podaży globalnej (SRAS)" id="UUIDc37ecde8-ea39-4cdb-4d1a-9ddd576d69b1">krótkookresową krzywą podaży globalnej (SAS)</term> (ang. <foreign xml:lang="en" id="UUIDfb0694f2-11f7-420d-7803-02f75c189fd5"><term cxlxt:index="foreign" cmlnle:reference="short run aggregate supply (SAS) curve" id="UUIDbe7ae584-50e1-4552-4a90-574ad76ec10d">short run aggregate supply (SAS) curve</term></foreign>). Z kolei pionową linię wyznaczającą poziom potencjalnego PKB możemy traktować jako <term cmlnle:reference="długookresowa krzywa podaży globalnej (LRAS)" id="UUID84764894-dfb9-48ce-4bd3-6d6396ce6837">długookresową krzywą podaży globalnej (LAS)</term> (ang. <foreign xml:lang="en" id="UUID3f06e0a5-ac8d-453e-7cdc-60290b18ec8a"><term cmlnle:reference="long run aggregate supply (LAS) curve" id="UUIDea489eb8-1806-4b7e-72e4-b2b2e686be8a">long run aggregate supply (LAS) curve</term></foreign>).</para>
     </section>
     <section id="ch24mod02_summ" class="summary">
       <title id="UUIDe925594f-b453-4283-539a-1de90c3802e1">Podsumowanie</title>
@@ -309,22 +309,40 @@
         <para id="UUIDef7da63a-41d5-44eb-69a3-9606e76b764f">zob. krzywa popytu globalnego</para>
       </meaning>
     </definition>
+    <definition id="UUIDe8c52bf1-9751-48c5-7c92-a0bc3b427b8b">
+      <term id="UUIDc77ef19f-294a-462e-795b-41fa7b0fb7b1">krzywa zagregowanego popytu</term>
+      <meaning id="UUID833a40f1-a260-4db9-496b-538749b45b55">
+        <para id="UUID608099d6-13ec-48de-5293-23d2914f0adb">zob. krzywa popytu globalnego</para>
+      </meaning>
+    </definition>
     <definition id="ch24mod02_gl04">
-      <term id="UUIDe62b8ee9-f41c-44fa-7216-ecb85d5cd019">krzywa podaży globalnej  (ang. <foreign xml:lang="en" id="UUID5cdbfe2c-4932-4219-478e-96c8764650a9">aggregate supply (AS) curve</foreign>)</term>
+      <term id="UUIDe62b8ee9-f41c-44fa-7216-ecb85d5cd019">krzywa podaży globalnej (ang. <foreign xml:lang="en" id="UUID5cdbfe2c-4932-4219-478e-96c8764650a9">aggregate supply (AS) curve</foreign>)</term>
       <meaning id="ch24mod02_gl04m">
         <para id="UUID79933ee4-612c-4ba7-6451-0c1b05a23b95">krzywa pokazująca całkowitą wielkość produkcji (realnego PKB), którą przedsiębiorstwa będą wytwarzać i sprzedawać przy każdym poziomie cen</para>
       </meaning>
     </definition>
+    <definition id="UUID3a4a68e3-8b2a-4770-44fb-ab22deac67a2">
+      <term id="UUID9e2fb374-1ace-4786-6927-aa6b7dfe1cbe">krzywa zagregowanej podaży</term>
+      <meaning id="UUID1e81a433-70e8-473b-6dad-b2e4f3516c86">
+        <para id="UUID7c2c92c9-a0c6-4146-6e2b-1eba3eae184f">zob. krzywa podaży globalnej</para>
+      </meaning>
+    </definition>
     <definition id="UUID0ab316e3-771b-47dc-592e-64d672641c2e">
-      <term id="UUIDc25d4dc7-c754-4c91-4d6b-8f05991d3855">krzywa AS </term>
+      <term id="UUIDc25d4dc7-c754-4c91-4d6b-8f05991d3855">krzywa AS</term>
       <meaning id="UUIDc00cdde5-775b-4625-5ede-cb11135b89c5">
-        <para id="UUID97e1cada-1e14-411b-659b-d885db00d9a4">zob. krzywa podaży globalne</para>
+        <para id="UUID97e1cada-1e14-411b-659b-d885db00d9a4">zob. krzywa podaży globalnej</para>
       </meaning>
     </definition>
     <definition id="ch24mod02_gl05">
       <term id="UUID80e1a636-b15f-48f0-7db3-467631c38469">model popytu globalnego i podaży globalnej (ang. <foreign xml:lang="en" id="UUID63365139-6af3-45f2-67d5-0896b5446c61">aggregate demand/aggregate supply model</foreign>)</term>
       <meaning id="ch24mod02_gl05m">
         <para id="UUID2369ae1f-a98c-42c0-6f88-9d4a9b4cb4c6">model ilustrujący czynniki determinujące wolumen podaży globalnej i wartość popytu globalnego oraz sposób, w jaki popyt i podaż w gospodarce oddziałują na siebie na poziomie makroekonomicznym</para>
+      </meaning>
+    </definition>
+    <definition id="UUID5b55c905-cddf-45da-7522-578f1aaa9eed">
+      <term id="UUID2c79067a-efff-44ec-676f-600792374cc6">model zagregowanego popytu i zagregowanej podaży</term>
+      <meaning id="UUID1f5eb976-3e98-4e9c-789f-a056f09f2f5b">
+        <para id="UUIDf3129b01-e23c-418f-42aa-6b68d225de9d">zob. model popytu globalnego i podaży globalnej </para>
       </meaning>
     </definition>
     <definition id="UUID47ff4828-376c-4e7c-5797-35f8d7ce6458">
@@ -351,16 +369,34 @@
         <para id="UUID4b755a55-afa8-442d-7fa8-d3f88c7fa63e">pionowa linia wykreślana na poziomie odpowiadającym potencjalnemu PKB; ilustruje brak związku pomiędzy poziomem cen a realnym PKB w długim okresie</para>
       </meaning>
     </definition>
+    <definition id="UUIDf2fc42a9-2e03-4661-73d7-bb55b27f92aa">
+      <term id="UUIDe72ce240-bb0e-4471-4fee-e605d7dda385">długookresowa krzywa zagregowanej podaży </term>
+      <meaning id="UUIDb6479a73-f598-4e7d-4490-ed7b610869a0">
+        <para id="UUID3fa3e6e7-5401-43cb-7857-c1d3d1303ed2">zob. długookresowa krzywa podaży globalnej (LAS)</para>
+      </meaning>
+    </definition>
     <definition id="ch24mod02_gl07">
       <term id="UUIDf5209e3e-2a8c-43ca-6ad9-7d57568baf81">poziom potencjalnego PKB (ang. <foreign xml:lang="en" id="UUID1f0f06f6-3c82-4cba-6712-7821bdc9941a">potential GDP</foreign>)</term>
       <meaning id="ch24mod02_gl07m">
         <para id="UUIDbace04d5-b1c3-4149-7f55-f2c49ed47034">maksymalna wielkość produkcji, jaką gospodarka może wytworzyć przy pełnym wykorzystaniu istniejących zasobów pracy, kapitału rzeczowego i technologii oraz danym otoczeniu instytucjonalnym</para>
       </meaning>
     </definition>
+    <definition id="UUIDae0f3281-0cc3-46ba-5848-d1b66cb5d116">
+      <term id="UUIDe82ce18a-e03e-455c-437d-8e2f91f4dfd9">PKB przy pełnym wykorzystaniu zasobów</term>
+      <meaning id="UUID589f9374-41a9-4065-6efa-8a0c477aa168">
+        <para id="UUIDe9debe80-f14c-48fc-40b9-25ebd082ef99">poziom potencjalnego PKB</para>
+      </meaning>
+    </definition>
     <definition id="fs-id1163949353929">
       <term id="UUID52718caa-5fce-4290-5f88-db01fee3632c">krótkookresowa krzywa podaży globalnej (SAS) (ang. <foreign xml:lang="en" id="UUIDad678350-948c-487c-7b02-f0df212cc5c7">short run aggregate supply (SAS) curve</foreign>)</term>
       <meaning id="fs-id1163949163677">
         <para id="UUIDf16afb38-c1ff-449b-5ccc-2851b5e20645">krzywa ilustrująca dodatnią krótkookresową zależność pomiędzy poziomem cen produktów finalnych i realnym PKB przy stałych cenach czynników wytwórczych</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDcca0b8b8-ff64-4c53-4a9b-90c19ed1dee9">
+      <term id="UUIDc0d008fd-2fc9-4e90-6602-019eb5ab884a">krótkookresowa krzywa zagregowanej podaży</term>
+      <meaning id="UUID05d17dd2-b1a8-450f-78e7-158b18159208">
+        <para id="UUIDa581211e-9c02-4958-6867-2ee27cc0c7b1">zob. krótkookresowa krzywa podaży globalnej (SAS)</para>
       </meaning>
     </definition>
   </glossary>

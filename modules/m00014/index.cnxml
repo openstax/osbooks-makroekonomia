@@ -5,11 +5,11 @@
     <md:content-id>m00014</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/d2970fc8-cc4e-4b89-a876-715de02f35ff</md:content-url>
-    <md:title>3.1 W jaki sposób ekonomiści definiują i obliczają stopę bezrobocia </md:title>
+    <md:title>W jaki sposób ekonomiści definiują i obliczają stopę bezrobocia </md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.162692218+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.162692218+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.162692218+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.280658099+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.280658099+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.280658099+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -66,7 +66,7 @@
         </media>
         <caption id="UUID28511e9a-1169-401f-5fda-33d235f0b3ce">Całkowita populacja osób w wieku 15–89 lat w Polsce w drugim kwartale 2022 r. wyniosła blisko 30 mln (dokładnie 29,752 mln). W ramach tej grupy tylko 454 tys. osób było bezrobotnych, natomiast liczba pracujących sięgnęła 17,244 mln. Pozostałe 12,508 mln zaklasyfikowano jako osoby nieaktywne zawodowo.</caption>
       </figure>
-      <table summary="Under the first unlabeled column are the values: Total adult population over the age of 16; In the labor force; Employed; Unemployed; and Out of the labor force. Under the second unlabeled column are the values: 249.9 million; 157 million (62.8%); 148.3 million; 8.7 million; and 92.9 million (37.2%)." id="Table_21_01"><title id="UUIDeb9195b4-e98c-4d14-7938-c8dc7204aca1">Pracujący, bezrobotni i bierni zawodowo w Polsce w II kwartale 2022 r.</title><tgroup cols="2" id="UUID16d55fe1-4c8a-41b6-5de5-4b4f74c89dd4"><colspec colnum="1" colname="col1" id="UUID2dcb87cd-98fc-4d20-4333-9c9e046402ef" /><colspec colnum="2" colname="col2" id="UUID3e7dfadd-7bac-46ea-6c83-14d35eac1738" /><tbody id="UUID8e60578b-73d7-472c-7550-ea6adbd63cf9"><row id="UUID8a81b1ba-9670-481e-50d2-2e36f1273830"><entry id="UUID97809ae3-0294-4c0f-65a7-68c243183ce2">Populacja osób w wieku 15-89 lat, ogółem</entry><entry id="UUID2f363fab-d247-435b-46d9-a4f5f53bc127">29,752 mln </entry></row><row id="UUIDec8e6bb1-2023-4347-66fd-a2fdfad403db"><entry id="UUID029f696f-7dc3-4cfc-7497-ce54a5ee7f41">Aktywni zawodowo (zasób siły roboczej)</entry><entry id="UUIDde347f14-84fd-4ba0-612f-fec07b624dc3">17,244 mln</entry></row><row id="UUID5e4fce71-de3a-4212-63a8-f5ed085d4084"><entry id="UUID03d0aec8-d6fb-4aea-7dd5-dacbf6677647">Pracujący </entry><entry id="UUIDda0b7b86-3f10-4f53-6568-123242b8488b">16,770 mln</entry></row><row id="UUID18a79d53-e7e6-49b5-4d09-0f62de7e88df"><entry id="UUID5ba9e6a6-2c1a-4711-7a75-dd17034cf9c6">Bezrobotni </entry><entry id="UUIDadf1187b-d151-4bdb-58e0-d5a09922eaf0">0,454 mln</entry></row><row id="UUIDe557d4c1-5e55-4139-6a54-a46f21fde985"><entry id="UUID6b837db5-92ad-4721-7dc8-bfe58e749d9d">Bierni zawodowo (pozostający poza zasobem siły roboczej) </entry><entry id="UUID2a7bc655-d930-4414-72ea-f467491db2ee">12,508 mln</entry></row></tbody></tgroup><caption id="UUID4ec88d8f-c97b-436e-67f7-cf989eaf952b">(Źródło: pracujacy_bezrobotni_i_bierni_zawodowo_-_wyniki_wstepne_bael_w_ii_kwartale_2022_r.%20(1).pdf)</caption></table>
+      <table summary="Under the first unlabeled column are the values: Total adult population over the age of 16; In the labor force; Employed; Unemployed; and Out of the labor force. Under the second unlabeled column are the values: 249.9 million; 157 million (62.8%); 148.3 million; 8.7 million; and 92.9 million (37.2%)." id="Table_21_01"><title id="UUIDeb9195b4-e98c-4d14-7938-c8dc7204aca1">Pracujący, bezrobotni i bierni zawodowo w Polsce w II kwartale 2022 r.</title><tgroup cols="2" id="UUID16d55fe1-4c8a-41b6-5de5-4b4f74c89dd4"><colspec colnum="1" colname="col1" id="UUID2dcb87cd-98fc-4d20-4333-9c9e046402ef" /><colspec colnum="2" colname="col2" id="UUID3e7dfadd-7bac-46ea-6c83-14d35eac1738" /><tbody id="UUID8e60578b-73d7-472c-7550-ea6adbd63cf9"><row id="UUID8a81b1ba-9670-481e-50d2-2e36f1273830"><entry id="UUID97809ae3-0294-4c0f-65a7-68c243183ce2">Populacja osób w wieku 15-89 lat, ogółem</entry><entry id="UUID2f363fab-d247-435b-46d9-a4f5f53bc127">29,752 mln </entry></row><row id="UUIDec8e6bb1-2023-4347-66fd-a2fdfad403db"><entry id="UUID029f696f-7dc3-4cfc-7497-ce54a5ee7f41">Aktywni zawodowo (zasób siły roboczej)</entry><entry id="UUIDde347f14-84fd-4ba0-612f-fec07b624dc3">17,244 mln</entry></row><row id="UUID5e4fce71-de3a-4212-63a8-f5ed085d4084"><entry id="UUID03d0aec8-d6fb-4aea-7dd5-dacbf6677647">Pracujący </entry><entry id="UUIDda0b7b86-3f10-4f53-6568-123242b8488b">16,770 mln</entry></row><row id="UUID18a79d53-e7e6-49b5-4d09-0f62de7e88df"><entry id="UUID5ba9e6a6-2c1a-4711-7a75-dd17034cf9c6">Bezrobotni </entry><entry id="UUIDadf1187b-d151-4bdb-58e0-d5a09922eaf0">0,454 mln</entry></row><row id="UUIDe557d4c1-5e55-4139-6a54-a46f21fde985"><entry id="UUID6b837db5-92ad-4721-7dc8-bfe58e749d9d">Bierni zawodowo (pozostający poza zasobem siły roboczej) </entry><entry id="UUID2a7bc655-d930-4414-72ea-f467491db2ee">12,508 mln</entry></row></tbody></tgroup><caption id="UUID4ec88d8f-c97b-436e-67f7-cf989eaf952b">(Źródło: pracujacy_bezrobotni_i_bierni_zawodowo_-_wyniki_wstepne_bael_w_ii_kwartale_2022_r.%20(1).pdf).</caption></table>
       <para id="fs-idp44908512">Wykorzystując powyższe dane, możemy obliczyć stopę bezrobocia w Polsce (zgodnie z metodą BAEL), poprzez podzielenie 454 tys. bezrobotnych przez 17,244 mln osób aktywnych zawodowo, co daje 2,6%. Poniższa <link target-id="fs-idm9605232" id="UUIDb5b50874-a4b9-4866-4686-f2be8d53a934" /> przeprowadzi cię przez kolejne etapy tej matematycznej operacji.</para>
       <note type="note" id="fs-idm9605232" class="economics workout">
         <title id="UUID2da822e2-5a2e-441b-44bd-e7f1a3286af7">Obliczanie stopy aktywności zawodowej (stopy partycypacji) i stopy bezrobocia</title>
@@ -244,6 +244,18 @@
       <term id="UUID1b16540c-6858-430c-6626-2cdaa5edbf94">stopa aktywności zawodowej (ang. <foreign xml:lang="en" id="UUIDe0ba14b9-8f8d-4fd7-6aa4-2cb3b811784b">labor force participation rate</foreign>)</term>
       <meaning id="fs-idp16719616">
         <para id="UUID17358187-877e-438d-6f41-7dde84fa3451">odsetek populacji dorosłych osób (w Polsce w wieku 15–89 lat), które są zatrudnione albo też bezrobotne, ale poszukują pracy</para>
+      </meaning>
+    </definition>
+    <definition id="UUID77bc424e-08eb-4329-6000-3cd3f8f7608d">
+      <term id="UUID96e491dc-12ef-42b4-7d66-c552ee2bf2e8">osoby nieaktywne zawodowo</term>
+      <meaning id="UUIDee151807-179a-4963-5833-c1931bf2bf7c">
+        <para id="UUIDf8e6689a-d262-4905-51a3-9e03f8b52cfa">zob. osoby pozostające poza zasobem siły roboczej</para>
+      </meaning>
+    </definition>
+    <definition id="UUID5e22f3bf-4ddf-438f-7743-226141945bd9">
+      <term id="UUID2849e17b-cfb3-455e-449c-d67f952812fc">bierni zawodowo</term>
+      <meaning id="UUID7cc75c6e-c5ca-43da-487e-3d2beb1c6cde">
+        <para id="UUID971b7d86-71c2-4bad-51af-27eb0be9300f">zob. osoby pozostające poza zasobem siły roboczej </para>
       </meaning>
     </definition>
     <definition id="fs-idm70411056">

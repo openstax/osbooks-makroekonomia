@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U4ae20372-518e-486e-b71f-aa660530a96a" id="U4ae20372-518e-486e-b71f-aa660530a96a" xml:lang="en" cnxml-version="0.7">
-  <title>6.6 Pawa Keynesa i Saya w modelu AD-AS</title>
+  <title>Pawa Keynesa i Saya w modelu AD-AS</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00037</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/4ae20372-518e-486e-b71f-aa660530a96a</md:content-url>
-    <md:title>6.6 Pawa Keynesa i Saya w modelu AD-AS</md:title>
+    <md:title>Prawa Keynesa i Saya w modelu AD-AS</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.336697730+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.336697730+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.336697730+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.485134543+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.485134543+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.485134543+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -132,6 +132,12 @@
       <term id="UUIDfe586bd7-51c0-48b9-50f0-130e8d59745e">obszar keynesowski (ang. <foreign xml:lang="en" id="UUID6873313b-ae1e-48d9-5ba3-fa481b5cd300">Keynesian zone</foreign>)</term>
       <meaning id="ch24mod06_gl02m">
         <para id="UUID2bc93e7a-8b97-4371-69fc-f3c89b589a98">część krzywej SAS, na której PKB sytuuje się znacznie poniżej poziomu potencjalnego, a sama krzywa SAS jest płaska</para>
+      </meaning>
+    </definition>
+    <definition id="UUIDdd59e3d0-9490-4276-5b4e-3482fb544b6c">
+      <term id="UUID874ed436-0c1f-421e-53c5-d925193b5b8d">strefa keynesowska</term>
+      <meaning id="UUID009a61a1-31e0-426c-52b2-de345d97c152">
+        <para id="UUIDdd4b9856-0e9c-4ad0-6d47-43739ea41729">zob. obszar keynesowski</para>
       </meaning>
     </definition>
     <definition id="ch24mod06_gl03">

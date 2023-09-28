@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub3868635-5fcd-4432-814c-48345b4710ae" id="Ub3868635-5fcd-4432-814c-48345b4710ae" xml:lang="en" cnxml-version="0.7">
-  <title>6.5 Jak model AD-AS wyjaśnia tempo wzrostu gospodarczego, stopę bezrobocia i zmiany inflacji</title>
+  <title>Jak model AD-AS wyjaśnia tempo wzrostu gospodarczego, stopę bezrobocia i zmiany inflacji</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00036</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/b3868635-5fcd-4432-814c-48345b4710ae</md:content-url>
-    <md:title>6.5 Jak model AD-AS wyjaśnia tempo wzrostu gospodarczego, stopę bezrobocia i zmiany inflacji</md:title>
+    <md:title>Jak model AD-AS wyjaśnia tempo wzrostu gospodarczego, stopę bezrobocia i zmiany inflacji</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.329497036+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.329497036+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.329497036+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.479635130+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.479635130+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.479635130+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -65,7 +65,7 @@
     <section id="ch24mod05_04">
       <title id="UUID7a3d9e37-b794-4ea1-626e-7ad0cc9bd841">Znaczenie modelu AD-AS</title>
       <para id="UUID8cb4594a-64aa-4fb3-5223-2417cd6a6bb9">Makroekonomia analizuje gospodarkę jako całość, co oznacza, że musi wykorzystywać wiele różnych pojęć i koncepcji. Na przykład trzy główne cele gospodarowania w perspektywie makroekonomicznej to: trwały wzrost gospodarczy, niska inflacja i niskie bezrobocie. Z kolei popyt globalny składa się z czterech elementów: konsumpcji, inwestycji, wydatków państwa na dobra i usługi oraz eksportu pomniejszonego o import. Podaż globalna ilustruje dodatnią zależność pomiędzy wyższymi cenami dóbr finalnych i wolumenem produkcji oferowanym przez przedsiębiorstwa. Popyt i podaż globalna mogą się zmienić (ich wykresy mogą się przesuwać) w konsekwencji różnych szoków (zdarzeń i decyzji politycznych), takich jak: zmiany podatków i wydatków, odwrócenie nastrojów konsumenckich, wzrost lub spadek cen kluczowych czynników produkcji (układy scalone, surowce energetyczne takie jak gaz ziemny i ropa naftowa, metale ziem rzadkich!) lub zmiana technologii przekładająca się na poziom produktywności.</para>
-      <para id="UUID688b8778-d894-42f7-407b-d98506e638fc">Model AD-AS, czyli model popytu globalnego i podaży globalnej, jest jednym z podstawowych modeli makroekonomicznych (podobnie jak w mikroekonomii model wyboru konsumenta omówiony w <link document="83006461-c1ab-496b-a819-f04adda88354" cmlnle:case="locative" id="UUID29eeec8c-ebe3-41fa-6a63-512a44e72ef3" /> lub model popytu i podaży opisany w <link document="acd6bf8d-72b4-47b5-9f19-9595a844d6ec" cmlnle:case="locative" id="UUIDd3485b63-c1bd-45f8-55cf-0b113e2c666f" />, ponieważ tworzy ogólne ramy do analizy bardzo różnych parametrów składających się na całość gospodarki. Różne wersje modelu AD-AS będą w związku z tym wykorzystywane w kolejnych rozdziałach podręcznika.</para>
+      <para id="UUID688b8778-d894-42f7-407b-d98506e638fc">Model AD-AS, czyli model popytu globalnego i podaży globalnej, jest jednym z podstawowych modeli makroekonomicznych (podobnie jak w mikroekonomii model wyboru konsumenta omówiony w podrozdziale  <link url="https://openstax.org/books/mikroekonomia-podstawy/pages/2-wprowadzenie-do-rozdzialu" id="UUID87fe658e-b0f4-41ee-49b5-2fd9d672ba3f">https://openstax.org/books/mikroekonomia-podstawy/pages/2-wprowadzenie-do-rozdzialu</link> lub model popytu i podaży opisany w podrozdziale <link url="https://openstax.org/books/mikroekonomia-podstawy/pages/3-wprowadzenie-do-rozdzialu" id="UUID3ef44458-f1ba-47bd-4b56-1d0a92fb26fa">https://openstax.org/books/mikroekonomia-podstawy/pages/3-wprowadzenie-do-rozdzialu</link>, ponieważ tworzy ogólne ramy do analizy bardzo różnych parametrów składających się na całość gospodarki. Różne wersje modelu AD-AS będą w związku z tym wykorzystywane w kolejnych rozdziałach podręcznika.</para>
     </section>
     <section id="ch24mod05_summ" class="summary">
       <title id="UUID61f06557-4218-4e60-45f2-9792f0612e53">Podsumowanie</title>
@@ -157,18 +157,4 @@
       <para id="eip-846">University of Michigan. 2015. "Surveys of Consumers." Accessed March 4, 2015. http://www.sca.isr.umich.edu/tables.html.</para>
     </section>
   </content>
-  <glossary id="UUID6fbfb358-264f-4df1-7d41-66da655c71ec">
-    <definition id="UUID66c7db9e-b748-4fbb-4047-ab412694e097">
-      <term id="UUIDbb2021ea-69b4-4295-6a66-bbf1df54e94a">bezrobocie cykliczne (ang. <foreign xml:lang="en" id="UUIDcee5bc30-4fcf-4861-69c0-25c9eeb23d41">cyclical unemployment</foreign>)</term>
-      <meaning id="UUID797402b0-fa54-4b4c-4aac-e2b5cecf059e">
-        <para id="UUIDefdd4d54-2c8e-4abe-5448-667bf54cf93c">?</para>
-      </meaning>
-    </definition>
-    <definition id="UUID763dd998-04e8-4ab9-4fc3-5d6be37f8862">
-      <term id="UUID3385fa36-8c59-4cb9-7b04-b66d0a318661">naturalna stopa bezrobocia (ang. <foreign xml:lang="en" id="UUID1e3314f6-37ad-4756-5a3b-17a9579af030">natural rate of unemployment</foreign>)</term>
-      <meaning id="UUID03173465-cf32-44d2-7234-e2a6b1c0d4a7">
-        <para id="UUID6690c3e7-5646-49f9-6ec5-c7b45c4d5b76" />
-      </meaning>
-    </definition>
-  </glossary>
 </document>

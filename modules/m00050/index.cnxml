@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Uc0a93e12-e6f3-4314-be8b-d88a951fb972" id="Uc0a93e12-e6f3-4314-be8b-d88a951fb972" xml:lang="en" cnxml-version="0.7">
-  <title>9.3 Funkcje banków</title>
+  <title>Funkcje banków</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00050</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/c0a93e12-e6f3-4314-be8b-d88a951fb972</md:content-url>
-    <md:title>9.3 Funkcje banków</md:title>
+    <md:title>Funkcje banków</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.464634522+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.464634522+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.464634522+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.679934819+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.679934819+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.679934819+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -193,7 +193,7 @@
       </meaning>
     </definition>
     <definition id="fs-idp63259328">
-      <term id="UUIDa2e8dd79-2254-4247-6944-e46bbb867a8c">dywersyfikacja (ang. <foreign xml:lang="en" id="UUIDd25e43bc-f5ef-4612-55df-8fb4991c72ca">diversify</foreign>)</term>
+      <term id="UUIDa2e8dd79-2254-4247-6944-e46bbb867a8c">dywersyfikacja (ang. <foreign xml:lang="en" id="UUIDd25e43bc-f5ef-4612-55df-8fb4991c72ca">diversification</foreign>)</term>
       <meaning id="fs-idm52699696">
         <para id="UUID863e1acd-7c1d-447e-605c-e0388f2d08aa">udzielanie pożyczek lub kredytów podmiotom (gospodarstwom domowym i przedsiębiorstwom) działającym w różnych branżach i na różnych obszarach geograficznych, tak aby zmniejszyć ryzyko negatywnego wpływu wydarzeń w jednej lub kilku branżach na sytuację finansową banku</para>
       </meaning>

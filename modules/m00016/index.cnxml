@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U02dccbf5-1584-4e6d-aecb-dbd70bd30986" id="U02dccbf5-1584-4e6d-aecb-dbd70bd30986" xml:lang="en" cnxml-version="0.7">
-  <title>3.3 Przyczyny bezrobocia w krótkim okresie</title>
+  <title>Przyczyny bezrobocia w krótkim okresie</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00016</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/02dccbf5-1584-4e6d-aecb-dbd70bd30986</md:content-url>
-    <md:title>3.3 Przyczyny bezrobocia w krótkim okresie</md:title>
+    <md:title>Przyczyny bezrobocia w krótkim okresie</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.178365292+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.178365292+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.178365292+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.298256318+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.298256318+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.298256318+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -154,6 +154,12 @@
       <term id="UUID24a22249-0de4-405f-6ffd-47fb852b2ef1">bezrobocie cykliczne (ang. <foreign xml:lang="en" id="UUID17239868-917c-45a6-519f-975d18f442d9"><emphasis effect="italics">cyclical unemployment</emphasis></foreign>)</term>
       <meaning id="fs-idp37984400">
         <para id="UUID7903b5c2-9c21-4180-5d27-5d05dc2e09b9">bezrobocie, które jest ściśle związane z cyklem koniunkturalnym, np. wyższe bezrobocie występuje podczas recesji</para>
+      </meaning>
+    </definition>
+    <definition id="UUID3efb8fc1-604d-4dc0-5203-bd9c0aa21ce5">
+      <term id="UUIDa7270ffa-7db7-471f-4961-9bab027ed584">bezrobocie koniunkturalne</term>
+      <meaning id="UUID0651a0cd-0629-429f-6049-d02fa97a0df3">
+        <para id="UUIDfbfec0b7-8da9-4b51-5c8b-8d026aa9aa9d">zob. bezrobocie cykliczne</para>
       </meaning>
     </definition>
     <definition id="fs-idp11620928">

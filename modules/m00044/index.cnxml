@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U1be460f1-1426-4085-a233-472225c45c07" id="U1be460f1-1426-4085-a233-472225c45c07" xml:lang="en" cnxml-version="0.7">
-  <title>8.1 Podstawy podejścia neoklasycznego</title>
+  <title>Podstawy podejścia neoklasycznego</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00044</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/1be460f1-1426-4085-a233-472225c45c07</md:content-url>
-    <md:title>8.1 Podstawy podejścia neoklasycznego</md:title>
+    <md:title>Podstawy podejścia neoklasycznego</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.385204462+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.385204462+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.385204462+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.546905963+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.546905963+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.546905963+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -211,6 +211,18 @@
       <term id="UUID783d8220-52a7-4c21-5d06-c0d59c58bf7c">techniczne uzbrojenie pracy</term>
       <meaning id="UUIDf045a7f1-b910-43c6-421c-d0b3d5f52ea7">
         <para id="UUID6369c42d-de9d-4741-7e15-6285fc9b9781">zob. kapitał rzeczowy <foreign xml:lang="la" id="UUIDe47d0357-b2cd-4b3b-614b-f2b9e2ea72f9">per capita</foreign></para>
+      </meaning>
+    </definition>
+    <definition id="UUID0a85d49a-0b74-4835-5c22-1523aa58c83b">
+      <term id="UUID66a2cf3a-ef10-47d7-4847-b01f50cb5a81">relacja kapitału do pracy</term>
+      <meaning id="UUID237bf92c-97aa-4355-4c3e-8724dfa94b10">
+        <para id="UUIDaeb872f8-7e04-4745-4b03-1da6e39d46d7">zob. kapitał rzeczowy <foreign xml:lang="la" id="UUIDf9c8e162-9261-419b-64c6-1edadcbd5f6a">per capita</foreign></para>
+      </meaning>
+    </definition>
+    <definition id="UUID2d15d074-6511-4397-60bc-bbe7fb567e43">
+      <term id="UUIDc7b260e0-bdd8-4942-5ee2-06fe9f448370">kapitał fizyczny</term>
+      <meaning id="UUIDff1e679f-fdcd-4ec2-696b-6194bdfc842b">
+        <para id="UUIDeb8d097a-0e27-458b-7fe8-4d0c2e0bef0d">zob. kapitał rzeczowy <foreign xml:lang="la" id="UUID959b7441-8070-436d-5900-f13c8eaa8b51">per capita</foreign></para>
       </meaning>
     </definition>
     <definition id="ch13mod01_gl04">

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U6590063d-192b-4868-bd60-4b16293b5d3d" id="U6590063d-192b-4868-bd60-4b16293b5d3d" xml:lang="en" cnxml-version="0.7">
-  <title>11.3 Skutki makroekonomiczne zmian kursów walutowych</title>
+  <title>Skutki makroekonomiczne zmian kursów walutowych</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00060</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/6590063d-192b-4868-bd60-4b16293b5d3d</md:content-url>
-    <md:title>11.3 Skutki makroekonomiczne zmian kursów walutowych</md:title>
+    <md:title>Skutki makroekonomiczne zmian kursów walutowych</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.539011544+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.539011544+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.539011544+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.767236901+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.767236901+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.767236901+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -54,7 +54,7 @@
       </figure>
       <para id="UUID1410388e-48fb-4eb9-74b0-ac5a55a528ad">Proces zaciągania pożyczek w walucie obcej i udzielania kredytów w walucie krajowej może przebiegać bez zaburzeń, o ile kurs walutowy się nie zmienia. Jeśli jednak dolar się umocni, a bat osłabi, pojawi się problem. Prawa strona scenariusza wydarzeń na <link target-id="CNX_Econ_C29_014" cmlnle:case="genitive" id="UUID08ec3b55-e451-47bc-7940-c8c92ee16bfe" /> pokazuje, co się dzieje, gdy bat nieoczekiwanie się osłabi. Tajskie przedsiębiorstwo nadal spłaca kredyt w całości (wraz z odsetkami). Jednak ze względu na zmianę kursu walutowego tajski bank nie może spłacić całej pożyczki (wraz z odsetkami) w dolarach amerykańskich. (Oczywiście gdyby kurs walutowy zmienił się w przeciwnym kierunku, wzmacniając tajską walutę, bank mógłby osiągnąć nieoczekiwanie duży zysk).</para>
       <para id="UUID39f92768-ca1e-4ea3-70d0-a3b3e1937e32">W latach 1997–1998 kraje Azji Południowo-Wschodniej, m.in. Tajlandia, Korea Płd., Malezja i Indonezja, zanotowały gwałtowną deprecjację swoich walut, w niektórych przypadkach o 50% lub więcej. Państwa te doświadczały wcześniej znacznego napływu <term cmlnle:reference="zagraniczny kapitał inwestycyjny" id="UUID9e8c82f8-0038-409b-47af-26a16fcbe44a">zagranicznego kapitału inwestycyjnego</term> (ang. <foreign xml:lang="en" id="UUIDd1ae8f12-1eec-45ce-511b-3bd037359cf9"><term cxlxt:index="foreign" id="UUIDbee14213-7699-4bdc-4707-5511051a95e4">foreign investment capital</term></foreign>), a w połowie lat 90. XX w. wartość kredytów bankowych zwiększała się od 20% do 30% rocznie. Kiedy kursy walutowe w tych krajach uległy deprecjacji, banki nie były w stanie spłacić zaciągniętych wcześniej pożyczek i doszło do bankructwa sektora bankowego. Podobny łańcuch wydarzeń wystąpił w 2002 r. w Argentynie. Kiedy argentyńskie peso straciło na wartości, tamtejsze banki nie były w stanie spłacić kapitału, który wcześniej pożyczyły w dolarach amerykańskich.</para>
-      <para id="fs-idp8154912">Banki odgrywają kluczową rolę w każdej gospodarce, ułatwiając transakcje i udzielając pożyczek przedsiębiorstwom i konsumentom. Kiedy większość największych banków danego kraju jednocześnie <term cmlnle:reference="bankrutować" id="UUID36bfd5c1-5bd0-4741-4461-18126ec6d3af">zbankrutuje</term> (ang. <foreign xml:lang="en" id="UUID14af22e3-b662-4b8d-53d4-8a6d05551ad1"><term cxlxt:index="foreign" cmlnle:reference="go bankrupt" id="UUID5361bfd3-7d0e-46d6-71e6-20c97e2577d7">bankrupt</term></foreign>), pojawia się tam gwałtowny spadek popytu i głęboka recesja. Ponieważ głównym obowiązkiem banku centralnego jest kontrolowanie podaży pieniądza i zapewnienie stabilności systemu finansowego, musi on uważać, aby duża i nieoczekiwana deprecjacja kursu walutowego nie doprowadziła większości banków do bankructwa. Aby uzyskać więcej informacji na ten temat, wróć do <link document="m00024" cmlnle:case="genitive" id="UUID8f0509ae-991d-41bc-7a47-89ce2bf8eea5" />.</para>
+      <para id="fs-idp8154912">Banki odgrywają kluczową rolę w każdej gospodarce, ułatwiając transakcje i udzielając pożyczek przedsiębiorstwom i konsumentom. Kiedy większość największych banków danego kraju jednocześnie <term cmlnle:reference="bankrutować" id="UUID36bfd5c1-5bd0-4741-4461-18126ec6d3af">zbankrutuje</term> (ang. <foreign xml:lang="en" id="UUID14af22e3-b662-4b8d-53d4-8a6d05551ad1"><term cxlxt:index="foreign" cmlnle:reference="go bankrupt" id="UUID5361bfd3-7d0e-46d6-71e6-20c97e2577d7">go bankrupt</term></foreign>), pojawia się tam gwałtowny spadek popytu i głęboka recesja. Ponieważ głównym obowiązkiem banku centralnego jest kontrolowanie podaży pieniądza i zapewnienie stabilności systemu finansowego, musi on uważać, aby duża i nieoczekiwana deprecjacja kursu walutowego nie doprowadziła większości banków do bankructwa. Aby uzyskać więcej informacji na ten temat, wróć do <link document="m00024" cmlnle:case="genitive" id="UUID8f0509ae-991d-41bc-7a47-89ce2bf8eea5" />.</para>
     </section>
     <section id="fs-idp14664048">
       <title id="UUIDd0c75913-9668-419a-7e0c-163dff656a79">Kursy walutowe a polityka państwa</title>
@@ -129,7 +129,7 @@
       </meaning>
     </definition>
     <definition id="UUID108d6c41-138d-454f-7200-2f82d314e194">
-      <term id="UUID38eefda6-2d2d-4a33-6730-9bfba68cc172">bankructwo (ang. <foreign xml:lang="en" id="UUID77f8f5fe-9475-427f-7501-f67e582f79f3">bankrupt</foreign></term>
+      <term id="UUID38eefda6-2d2d-4a33-6730-9bfba68cc172">bankructwo (ang. <foreign xml:lang="en" id="UUID77f8f5fe-9475-427f-7501-f67e582f79f3">go bankrupt</foreign></term>
       <meaning id="UUID2f9d47b0-8cae-4c06-7147-9229ede9d642">
         <para id="UUID23d083a6-3495-4f9c-724e-7f46ac59c539">sytuacja, w której przedsiębiorstwo nie jest w stanie regulować swoich zobowiązań i musi wstrzymać działalność</para>
       </meaning>

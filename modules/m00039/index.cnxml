@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="Ub599b3fa-b5ed-46f5-b1dd-e5bf9f3afda4" id="Ub599b3fa-b5ed-46f5-b1dd-e5bf9f3afda4" xml:lang="en" cnxml-version="0.7">
-  <title>7.1 Popyt globalny w modelu keynesowskim</title>
+  <title>Popyt globalny w modelu keynesowskim</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00039</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/b599b3fa-b5ed-46f5-b1dd-e5bf9f3afda4</md:content-url>
-    <md:title>7.1 Popyt globalny w modelu keynesowskim</md:title>
+    <md:title>Popyt globalny w modelu keynesowskim</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-27T12:25:47.349526171+00:00</md:version>
-    <md:created>2023-09-27T12:25:47.349526171+00:00</md:created>
-    <md:revised>2023-09-27T12:25:47.349526171+00:00</md:revised>
+    <md:version>2023-09-28T13:23:02.510000264+00:00</md:version>
+    <md:created>2023-09-28T13:23:02.510000264+00:00</md:created>
+    <md:revised>2023-09-28T13:23:02.510000264+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -212,6 +212,12 @@
     </section>
   </content>
   <glossary id="UUID7b729b86-8375-4fb5-6954-ca5b335d3df2">
+    <definition id="UUIDf701b936-426b-48fc-4e34-726279c54a1b">
+      <term id="UUID13cf0b82-a94d-45a0-59f9-4130cfe592df">dochód do dyspozycji</term>
+      <meaning id="UUID03bdb793-a054-4dfd-56b5-913345db7a8d">
+        <para id="UUID780e104c-fc49-4bfa-4a8b-4e934f5455ae">zob. dochód rozporządzalny</para>
+      </meaning>
+    </definition>
     <definition id="ch25mod02_gl01">
       <term id="UUIDe2bd4627-3d29-4b6e-6949-86a1e06fddec">dochód rozporządzalny (ang. <foreign xml:lang="en" id="UUID46f92f39-1438-48fa-6b38-2b99d8494282">disposable income</foreign>)</term>
       <meaning id="ch25mod02_gl01m">
