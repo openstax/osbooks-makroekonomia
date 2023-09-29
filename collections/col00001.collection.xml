@@ -24,7 +24,7 @@
   <content>
     <module document="m00001" />
     <subcollection>
-      <md:title>1 Wstęp do makroekonomii</md:title>
+      <md:title>Wstęp do makroekonomii</md:title>
       <content>
         <module document="m00002" />
         <module document="m00003" />
@@ -35,7 +35,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>2 Wzrost gospodarczy</md:title>
+      <md:title>Wzrost gospodarczy</md:title>
       <content>
         <module document="m00008" />
         <module document="m00009" />
@@ -45,7 +45,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>3 Bezrobocie</md:title>
+      <md:title>Bezrobocie</md:title>
       <content>
         <module document="m00013" />
         <module document="m00014" />
@@ -55,7 +55,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>4 Inflacja</md:title>
+      <md:title>Inflacja</md:title>
       <content>
         <module document="m00018" />
         <module document="m00019" />
@@ -66,7 +66,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>5 Handel zagraniczny i przepływy kapitałowe</md:title>
+      <md:title>Handel zagraniczny i przepływy kapitałowe</md:title>
       <content>
         <module document="m00024" />
         <module document="m00025" />
@@ -78,7 +78,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>6 Makroekonomiczne krzywe popytu i podaży</md:title>
+      <md:title>Makroekonomiczne krzywe popytu i podaży</md:title>
       <content>
         <module document="m00031" />
         <module document="m00032" />
@@ -90,7 +90,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>7 Model keynesowski</md:title>
+      <md:title>Model keynesowski</md:title>
       <content>
         <module document="m00038" />
         <module document="m00039" />
@@ -100,7 +100,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>8 Model neoklasyczny</md:title>
+      <md:title>Model neoklasyczny</md:title>
       <content>
         <module document="m00043" />
         <module document="m00044" />
@@ -109,7 +109,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>9 Pieniądz i system bankowy</md:title>
+      <md:title>Pieniądz i system bankowy</md:title>
       <content>
         <module document="m00047" />
         <module document="m00048" />
@@ -119,7 +119,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>10 Bank centralny i polityka monetarna</md:title>
+      <md:title>Bank centralny i polityka monetarna</md:title>
       <content>
         <module document="m00052" />
         <module document="m00053" />
@@ -129,7 +129,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>11 Bilans płatniczy i kursy walutowe</md:title>
+      <md:title>Bilans płatniczy i kursy walutowe</md:title>
       <content>
         <module document="m00057" />
         <module document="m00058" />
@@ -139,7 +139,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>12 Polityka fiskalna</md:title>
+      <md:title>Polityka fiskalna</md:title>
       <content>
         <module document="m00062" />
         <module document="m00063" />
@@ -151,7 +151,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>13 Wpływ polityki fiskalnej na gospodarkę</md:title>
+      <md:title>Wpływ polityki fiskalnej na gospodarkę</md:title>
       <content>
         <module document="m00069" />
         <module document="m00070" />
@@ -161,7 +161,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>14 Ekonomia rozwoju - zróżnicowanie polityki ekonomicznej na świecie</md:title>
+      <md:title>Ekonomia rozwoju - zróżnicowanie polityki ekonomicznej na świecie</md:title>
       <content>
         <module document="m00074" />
         <module document="m00075" />
@@ -172,7 +172,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>15 Teoria handlu międzynarodowego</md:title>
+      <md:title>Teoria handlu międzynarodowego</md:title>
       <content>
         <module document="m00080" />
         <module document="m00081" />
@@ -182,7 +182,7 @@
       </content>
     </subcollection>
     <subcollection>
-      <md:title>16 Globalizacja i protekcjonizm</md:title>
+      <md:title>Globalizacja i protekcjonizm</md:title>
       <content>
         <module document="m00085" />
         <module document="m00086" />
