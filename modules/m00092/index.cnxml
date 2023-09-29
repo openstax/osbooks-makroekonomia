@@ -291,7 +291,6 @@
       <para id="UUIDc944f91f-e994-4b35-574e-d1b8f1f6759f">Na wykresie krzyża keynesowskiego równowaga może zachodzić na poziomie niższym niż potencjalne PKB, co nazywamy luką recesyjną, lub na poziomie wyższym od potencjalnego PKB, co określamy jako luka inflacyjna.</para>
       <para id="UUID8740934a-e806-4275-6aff-2cacfb4c7776">Efekt mnożnikowy opisuje, w jaki sposób początkowa zmiana globalnego popytu generuje większy przyrost skumulowanego PKB. O wielkości mnożnika wydatków decydują trzy strumienie: wydatki na oszczędności, podatki i import. Wzór na mnożnik to:</para>
       <equation id="fs-idm143587472" class="unnumbered"><math xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnspacing="2px" columnalign="right center left"><mtr><mtd><mtext>Mnożnik</mtext></mtd><mtd><mtext> = </mtext></mtd><mtd><mfrac><mtext>1</mtext><mtext>1 – (MPC × (1 – Stopa podatkowa) + MPI)</mtext></mfrac></mtd></mtr></mtable></math></equation>
-      <para id="fs-idm167192912">Objaśnienia do ramki:</para>
       <para id="UUID15c77a3d-d0d2-4505-6ef6-deaf81e5f06e" />
       <para id="UUID8f751c2c-b17b-4c82-7abc-63f7915544ce">Gospodarka z niższym mnożnikiem jest bardziej stabilna - w mniejszym stopniu wpływają na nią wydarzenia gospodarcze lub polityka rządu niż w przypadku gospodarki z wyższym mnożnikiem.</para>
     </section>
