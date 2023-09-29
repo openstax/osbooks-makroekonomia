@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/a44428c4-d20e-4c18-ab30-da237b2ef046</md:content-url>
     <md:title>Jak rządy wdrażają politykę handlową: globalnie, regionalnie i na szczeblu krajowym</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-28T13:23:03.136090487+00:00</md:version>
-    <md:created>2023-09-28T13:23:03.136090487+00:00</md:created>
-    <md:revised>2023-09-28T13:23:03.136090487+00:00</md:revised>
+    <md:version>2023-09-29T11:40:48.215026943+00:00</md:version>
+    <md:created>2023-09-29T11:40:48.215026943+00:00</md:created>
+    <md:revised>2023-09-29T11:40:48.215026943+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -161,7 +161,7 @@
       </meaning>
     </definition>
     <definition id="fs-idm29709936">
-      <term id="UUIDb7de159d-bc8b-4f14-6aed-ddb64881d0ee">Układ ogólny w sprawie taryf celnych i handlu (ang. <foreign xml:lang="en" id="UUID98d6306a-1613-4d76-47f8-f8cb72b47f2c">General Agreement on Tariffs and Trade - GATT</foreign>)</term>
+      <term id="UUIDb7de159d-bc8b-4f14-6aed-ddb64881d0ee">Układ ogólny w sprawie taryf celnych i handlu (ang. <foreign xml:lang="en" id="UUID98d6306a-1613-4d76-47f8-f8cb72b47f2c">General Agreement on Tariffs and Trade, GATT</foreign>)</term>
       <meaning id="fs-idp52702592">
         <para id="UUID89892fc7-51fa-4ef1-5637-6a221c166f50">forum, na którym państwa mogły negocjować obniżki ceł i innych barier w handlu międzynarodowym; prekursor Światowej Organizacji Handlu</para>
       </meaning>

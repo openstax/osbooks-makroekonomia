@@ -7,9 +7,9 @@
     <md:content-url>adaptarr.naukosfera.com/modules/7fc85841-1a20-4554-afe6-b221f7abf0e0</md:content-url>
     <md:title>Argumenty na rzecz ograniczenia importu</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-28T13:23:03.127339369+00:00</md:version>
-    <md:created>2023-09-28T13:23:03.127339369+00:00</md:created>
-    <md:revised>2023-09-28T13:23:03.127339369+00:00</md:revised>
+    <md:version>2023-09-29T11:40:48.206308376+00:00</md:version>
+    <md:created>2023-09-29T11:40:48.206308376+00:00</md:created>
+    <md:revised>2023-09-29T11:40:48.206308376+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -303,7 +303,7 @@
     <definition id="UUIDdf2e9831-7390-4286-4f28-dc3d0185b764">
       <term id="UUIDee427800-7af6-4cfa-77d8-0a156011320b">przemysł raczkujący (ang. <foreign xml:lang="en" id="UUID1b847dfc-bf49-4eea-4cfc-b5008de0e7e1">infant industry</foreign></term>
       <meaning id="UUIDe1767209-777c-4013-7e51-1cb49ce936cc">
-        <para id="UUID2771ca5d-040c-4e1f-7708-da0bcc21e729">Gałąź przemysłu znajdująca się na bardzo wczesnym etapie rozwoju</para>
+        <para id="UUID2771ca5d-040c-4e1f-7708-da0bcc21e729">gałąź przemysłu znajdująca się na bardzo wczesnym etapie rozwoju</para>
       </meaning>
     </definition>
   </glossary>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document xmlns="http://cnx.rice.edu/cnxml" xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" xmlns:cxlxt="http://katalysteducation.org/cxlxt/1.0" xmlns:editing="http://adaptarr.naukosfera.com/editing/1.0" module-id="U07f1a836-b459-4cf8-a96e-f4958379b4bb" id="U07f1a836-b459-4cf8-a96e-f4958379b4bb" xml:lang="en" cnxml-version="0.7" class="appendix">
-  <title>APPENDIX B The Expenditure-Output Model</title>
+  <title>Model dochodowo-wydatkowy</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00092</md:content-id>
     <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:content-url>adaptarr.naukosfera.com/modules/07f1a836-b459-4cf8-a96e-f4958379b4bb</md:content-url>
-    <md:title>APPENDIX B The Expenditure-Output Model</md:title>
+    <md:title>Model dochodowo-wydatkowy</md:title>
     <md:language>en</md:language>
-    <md:version>2023-09-28T13:23:03.583205211+00:00</md:version>
-    <md:created>2023-09-28T13:23:03.583205211+00:00</md:created>
-    <md:revised>2023-09-28T13:23:03.583205211+00:00</md:revised>
+    <md:version>2023-09-29T11:40:48.264978530+00:00</md:version>
+    <md:created>2023-09-29T11:40:48.264978530+00:00</md:created>
+    <md:revised>2023-09-29T11:40:48.264978530+00:00</md:revised>
     <md:actors>
       <md:organization userid="adaptarr">
         <md:fullname>Adaptarr!</md:fullname>
@@ -285,7 +285,7 @@
       <para id="UUID430980cf-16d1-4887-6329-7ee57400df92">Jednak przy niskim mnożniku zmiany polityki rządu w zakresie podatków lub wydatków będą miały mniejszy wpływ na wysokość produkcji realnej w równowadze. Przy wyższym mnożniku polityka rządu mająca na celu zwiększenie lub zmniejszenie zagregowanych wydatków będzie bardziej skuteczna. Tak więc, niski mnożnik oznacza bardziej stabilną gospodarkę, ale także słabszą skuteczność polityki makroekonomicznej rządu, podczas gdy wysoki mnożnik oznacza bardziej niestabilną gospodarkę, ale także gospodarkę, w której polityka makroekonomiczna rządu jest silniejsza.</para>
     </section>
     <section id="fs-idm142495216">
-      <title id="UUID9130d95d-f978-4f60-6b46-c705fb18d177">Key Concepts and Summary</title>
+      <title id="UUID9130d95d-f978-4f60-6b46-c705fb18d177">Kluczowe pojęcia i podsumowanie</title>
       <para id="UUID2f9afc5a-7057-4d1e-52ba-5aa0ffc47cfc">Model wydatki-produkcja oraz krzyż keynesowski pokazują, w jak sposób poziom zagregowanych wydatków (na osi pionowej) zmienia się wraz ze zmianami poziomu produkcji w gospodarce (pokazanym na osi poziomej). Ponieważ wartość produkcji w skali makro stanowi również dochód dla kogoś innego w gospodarce, oś pozioma może być również interpretowana jako dochód narodowy. Równowaga na wykresie wystąpi tam, gdzie krzywa zagregowanych wydatków przecina linię 45 stopni, która reprezentuje zbiór punktów, w których zagregowane wydatki w gospodarce są równe produkcji (lub dochodowi narodowemu). Równowaga w krzyżu keynesowskim może wystąpić przy PKB na poziomie potencjalnym, poniżej lub powyżej tego poziomu.</para>
       <para id="UUIDa2e91b3e-9f27-4a12-5200-37a1dc783384">Funkcja konsumpcji pokazuje rosnącą zależność między dochodem narodowym a konsumpcją. Krańcowa skłonność do konsumpcji (KSK lub MPC) to część dodatkowego dolara dochodu przeznaczona na konsumpcję. Wyższa krańcowa skłonność do konsumpcji oznacza bardziej stromą funkcję konsumpcji; niższa krańcowa skłonność do konsumpcji oznacza bardziej płaską funkcję konsumpcji. Krańcowa skłonność do oszczędzania (KSO lub MPS) to zaoszczędzona część każdego dodatkowego dolara dochodu. Zawsze zachodzi prawidłowość mówiąca, że MPC + MPS = 1. Funkcja inwestycji jest linią płaska, pokazująca, że inwestycje w bieżącym roku nie zależą od bieżącego poziomu dochodu narodowego. Jednak funkcja inwestycji będzie się przesuwać (w górę i w dół) w zależności od stopy zwrotu oczekiwanej w przyszłości. Wydatki rządowe także są poziomą linią na wykresie krzyża keynesowskiego, ponieważ ich poziom jest determinowany względami politycznymi, a nie bieżącym poziomem dochodu w gospodarce. Podatki w krzyżu keynesowskim uwzględniane są poprzez odpowiednie dostosowanie funkcji konsumpcji. Funkcja eksportu jest poziomą linią na wykresie krzyża keynesowskiego, ponieważ eksport nie podąża za zmianami dochodu krajowego, ale przesuwa się w wyniku zmian dochodów za granicą, a także zmian kursów walutowych. Funkcja importu jest linią opadającą, ponieważ co prawda import rośnie wraz z dochodem narodowym, ale import jest odejmowany od zagregowanego popytu. Wyższy poziom importu oznacza zatem niższy poziom wydatków na dobra krajowe.</para>
       <para id="UUIDc944f91f-e994-4b35-574e-d1b8f1f6759f">Na wykresie krzyża keynesowskiego równowaga może zachodzić na poziomie niższym niż potencjalne PKB, co nazywamy luką recesyjną, lub na poziomie wyższym od potencjalnego PKB, co określamy jako luka inflacyjna.</para>
@@ -296,7 +296,7 @@
       <para id="UUID8f751c2c-b17b-4c82-7abc-63f7915544ce">Gospodarka z niższym mnożnikiem jest bardziej stabilna - w mniejszym stopniu wpływają na nią wydarzenia gospodarcze lub polityka rządu niż w przypadku gospodarki z wyższym mnożnikiem.</para>
     </section>
     <section id="fs-idp56097840">
-      <title id="UUIDdb0b1f38-40d3-4857-6f2c-f8d23cfdbc61">Self-Check Questions</title>
+      <title id="UUIDdb0b1f38-40d3-4857-6f2c-f8d23cfdbc61">Pytania sprawdzające</title>
       <exercise id="fs-idp124205712">
         <problem id="fs-idm48854496">
           <para id="fs-idm31461856">Narysuj wykres funkcji zagregowanych wydatków z luką recesyjną.</para>
@@ -372,7 +372,7 @@
       </exercise>
     </section>
     <section id="fs-idp25359600">
-      <title id="UUID7df9e25a-a9b6-49bd-53a7-2c7fb02b2c54">Review Questions</title>
+      <title id="UUID7df9e25a-a9b6-49bd-53a7-2c7fb02b2c54">Sprawdź wiedzę</title>
       <exercise id="fs-idm79901872">
         <problem id="fs-idp75090816">
           <para id="fs-idm13787520">Co przedstawione jest na osiach wykresu wydatki-produkcja?</para>
@@ -440,7 +440,7 @@
       </exercise>
     </section>
     <section id="fs-idp42244400">
-      <title id="UUID29f739fc-613a-40cf-4c71-38bff0b23cb5">Critical Thinking Questions</title>
+      <title id="UUID29f739fc-613a-40cf-4c71-38bff0b23cb5">Ćwicz myślenie krytyczne</title>
       <exercise id="fs-idp80373680">
         <problem id="fs-idm14166832">
           <para id="fs-idp31116096">Co to oznacza, gdy zagregowana linia wydatków przecina linię 45 stopni? Innymi słowy, jak wytłumaczysz to przecięcie słowami?</para>
@@ -488,7 +488,7 @@
       </exercise>
     </section>
     <section id="fs-idm177373968">
-      <title id="UUID59b4873b-e2bb-45b6-78a1-ec62e6917171">References</title>
+      <title id="UUID59b4873b-e2bb-45b6-78a1-ec62e6917171">Bibliografia</title>
       <para id="fs-idm86188144">Joyner, James. Outside the Beltway. “Public Financing of Private Sports Stadiums.” Last modified May 23, 2012. http://www.outsidethebeltway.com/public-financing-of-private-sports-stadiums/.</para>
       <para id="fs-idm135677488">Siegfried, John J., and Andrew Zimbalist. “The Economics of Sports Facilities and Their Communities.” <emphasis effect="italics">Journal of Economic Perspectives</emphasis>. no. 3 (2000): 95-114. http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.14.3.95.</para>
     </section>
