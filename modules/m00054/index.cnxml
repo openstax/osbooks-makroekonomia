@@ -3,23 +3,8 @@
   <title>Jak bank centralny wprowadza politykę pieniężną</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00054</md:content-id>
-    <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/8c7c871e-387b-4c76-91c1-e1f478b0d1ee</md:content-url>
     <md:title>Jak bank centralny wprowadza politykę pieniężną</md:title>
-    <md:language>en</md:language>
-    <md:version>2023-09-29T13:10:40.654467570+00:00</md:version>
-    <md:created>2023-09-29T13:10:40.654467570+00:00</md:created>
-    <md:revised>2023-09-29T13:10:40.654467570+00:00</md:revised>
-    <md:actors>
-      <md:organization userid="adaptarr">
-        <md:fullname>Adaptarr!</md:fullname>
-        <md:homepage>adaptarr.naukosfera.com</md:homepage>
-        <md:shortname>Adaptarr</md:shortname>
-      </md:organization>
-    </md:actors>
-    <md:roles>
-      <md:role type="publishing-system">adaptarr</md:role>
-    </md:roles>
+
     <md:uuid>8c7c871e-387b-4c76-91c1-e1f478b0d1ee</md:uuid>
   </metadata>
   <content>
@@ -88,7 +73,7 @@
       <para id="UUID67392e29-e917-45fa-7998-5c1f1c6a70e9">W Polsce od 31 grudnia 2010 r. podstawowa stopa rezerwy obowiązkowej (tj. od środków złotowych i walutowych zgromadzonych na rachunkach bankowych i od środków z tytułu emisji papierów wartościowych) wynosiła 3,5%. W obliczu kryzysu gospodarczego wywołanego pandemią Rada Polityki Pieniężnej obniżyła podstawową stopę rezerwy obowiązkowej do 0,5%, począwszy od 30 kwietnia 2020 r., dzięki czemu podmioty rezerwy pozyskały dodatkowy bufor płynności. W październiku 2021 r. Rada zdecydowała o podwyższeniu podstawowej stopy rezerwy obowiązkowej do poziomu 2,0% (począwszy od 30 listopada 2021 r.), co było jednym z elementów normalizacji polityki pieniężnej. Stopa rezerwy obowiązkowej została podniesiona 31 marca 2022 r. do poziomu 3,5% i pozostała niezmieniona do czasu publikacji tego podręcznika (wrzesień 2023).</para>
       <para id="UUID90045ab8-4f58-4149-411a-81e631f1228b">Banki centralne rzadko wykorzystują duże zmiany stopy rezerw obowiązkowych jako narzędzie realizacji polityki pieniężnej, choć okres pandemii był tutaj z oczywistych względów wyjątkowy. Nagłe żądanie, aby wszystkie banki zwiększyły swoje rezerwy, byłoby dla nich niezwykle uciążliwe i trudne do spełnienia, a zbytnie rozluźnienie wymogów stworzyłoby niebezpieczeństwo, że banki nie będą w stanie wypłacać przyjętych wcześniej depozytów.</para>
       <para id="UUID7f0735db-0b94-431c-47dc-551d123809c5">Obecnie banki centralne dysponują znacznie szerszym katalogiem narzędzi umożliwiających prowadzenie polityki pieniężnej, w tym przede wszystkim luzowaniem ilościowym (co do zasady narzędzie to mieści się w ramach operacji otwartego rynku). Pokazuje to, w jaki sposób polityka pieniężna ewoluowała i jak nadal się rozwija.</para>
-      <para id="fs-idm9543664">Chociaż tematy te wykraczają poza podstawowy kurs makroekonomii, jeśli chcesz dowiedzieć się więcej o najnowszych narzędziach umożliwiających Systemowi Rezerwy Federalnej kontrolę podaży pieniądza, odwiedź strony <link url="openstax.org/l/lrgscaleasset" id="UUID58125926-e49c-4f3a-4347-f70fb25dd43b">Federal Reserve Bank of New York's page on large-scale asset purchases</link> oraz <link url="openstax.org/l/txtbooklag" id="UUIDc143d944-1cc4-4bc9-7b7e-d87518ffe973">the Federal Reserve Bank of St. Louis' FRED Blog post on fixing the textbook lag</link>.</para>
+      <para id="fs-idm9543664">Chociaż tematy te wykraczają poza podstawowy kurs makroekonomii, jeśli chcesz dowiedzieć się więcej o najnowszych narzędziach umożliwiających Systemowi Rezerwy Federalnej kontrolę podaży pieniądza, odwiedź strony <link url="https://openstax.org/l/lrgscaleasset">Federal Reserve Bank of New York's page on large-scale asset purchases</link> oraz <link url="http://openstax.org/l/txtbooklag">the Federal Reserve Bank of St. Louis' FRED Blog post on fixing the textbook lag</link>.</para>
     </section>
     <section id="fs-idp33312400" class="summary">
       <title id="UUID44771697-9d89-42c8-7ee3-d67ce48041e8">Key Concepts and Summary</title>

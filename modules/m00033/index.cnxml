@@ -3,23 +3,8 @@
   <title>Model popytu globalnego i podaży globalnej (AD-AS)</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00033</md:content-id>
-    <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/e128e23e-9ee0-4553-934a-09ee9e39c087</md:content-url>
     <md:title>Model popytu globalnego i podaży globalnej (AD-AS)</md:title>
-    <md:language>en</md:language>
-    <md:version>2023-09-29T13:10:40.382432126+00:00</md:version>
-    <md:created>2023-09-29T13:10:40.382432126+00:00</md:created>
-    <md:revised>2023-09-29T13:10:40.382432126+00:00</md:revised>
-    <md:actors>
-      <md:organization userid="adaptarr">
-        <md:fullname>Adaptarr!</md:fullname>
-        <md:homepage>adaptarr.naukosfera.com</md:homepage>
-        <md:shortname>Adaptarr</md:shortname>
-      </md:organization>
-    </md:actors>
-    <md:roles>
-      <md:role type="publishing-system">adaptarr</md:role>
-    </md:roles>
+
     <md:uuid>e128e23e-9ee0-4553-934a-09ee9e39c087</md:uuid>
   </metadata>
   <content>

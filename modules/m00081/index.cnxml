@@ -3,23 +3,8 @@
   <title>Przewaga absolutna i komparatywna</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
     <md:content-id>m00081</md:content-id>
-    <md:repository>adaptarr.naukosfera.com</md:repository>
-    <md:content-url>adaptarr.naukosfera.com/modules/3d6c9ae4-2aea-4fb6-9b88-179f04cc9214</md:content-url>
     <md:title>Przewaga absolutna i komparatywna</md:title>
-    <md:language>en</md:language>
-    <md:version>2023-09-29T13:10:40.865390541+00:00</md:version>
-    <md:created>2023-09-29T13:10:40.865390541+00:00</md:created>
-    <md:revised>2023-09-29T13:10:40.865390541+00:00</md:revised>
-    <md:actors>
-      <md:organization userid="adaptarr">
-        <md:fullname>Adaptarr!</md:fullname>
-        <md:homepage>adaptarr.naukosfera.com</md:homepage>
-        <md:shortname>Adaptarr</md:shortname>
-      </md:organization>
-    </md:actors>
-    <md:roles>
-      <md:role type="publishing-system">adaptarr</md:role>
-    </md:roles>
+
     <md:uuid>3d6c9ae4-2aea-4fb6-9b88-179f04cc9214</md:uuid>
   </metadata>
   <content>
@@ -50,7 +35,7 @@
       <figure id="CNX_Econ_C33_010">
         <title id="UUID000c0b7b-07ef-4f8b-495d-8feef1961376">Krzywe możliwości produkcyjnych</title>
         <media alt="Dwa panele na wykresie ilustrują możliwości produkcyjne gospodarek Arabii Saudyjskiej (panel lewy) i Polski (panel prawy), przy założeniu pełnej autarkii, czyli bez handlu zagranicznego." id="fs-idm15114416">
-          <image src="CNX_Econ_C33_010.svg" mime-type="image/svg+xml" id="UUID634dbaa2-132d-424f-6fed-0b0ebd884cff"></image>
+          <image mime-type="image/svg+xml" src="../../media/CNX_Econ_C33_010.svg"  id="UUID634dbaa2-132d-424f-6fed-0b0ebd884cff"/>
         </media>
         <caption id="UUIDe3c8408d-bee5-4a91-54a3-7d66405feeae">Panel (a) Arabia Saudyjska może wyprodukować maksymalnie 100 baryłek ropy przy zerowej produkcji pszenicy (punkt A) lub 25 kwintali pszenicy przy zerowej produkcji ropy naftowej (punkt B). Może również produkować inne kombinacje ilości ropy naftowej i pszenicy, jeśli chce konsumować oba towary, tak jak np. w punkcie C (60 baryłek ropy naftowej i 10 kwintali pszenicy). Panel (b) Jeśli Polska produkuje tylko ropę naftową, może wyprodukować maksymalnie 50 baryłek przy zerowej produkcji pszenicy (punkt A') lub, z drugiej strony, może wyprodukować maksymalnie 100 kwintali pszenicy przy zerowej produkcji ropy (punkt B'). Możliwe są również inne kombinacje produkcji ropy i pszenicy, takie jak np. w punkcie C'. Wszystkie punkty powyżej krzywych możliwości produkcyjnych są niemożliwe do wytworzenia przy obecnym poziomie zasobów (liczbie dostępnych godzin pracy) i technologii.</caption>
       </figure>
@@ -80,8 +65,8 @@
       <figure id="CNX_Econ_C33_011">
         <title id="UUIDe7475a8e-7f2e-446f-5ca3-b68ca11c412d">Krzywa możliwości produkcyjnych w Arabii Saudyjskiej</title>
         <media alt="Na tym wykresie wolumen produkcji pszenicy przedstawiony jest na osi poziomej z maksymalną wartością równą 25 kwintali, a wolumen produkcji ropy odznaczony jest na osi pionowej z maksymalną wartością równą 100 baryłek. Arabia Saudyjska rozpoczyna produkcję i konsumpcję w punkcie C (10 kwintali pszenicy i 60 baryłek ropy). Jeśli cena względna wynosi 20 baryłek ropy za 20 kwintali pszenicy, Saudyjczycy przesuwają się do punktu D (co oznacza, że dysponują 30 kwintalami pszenicy i 40 baryłkami ropy naftowej)." id="fs-idm27240976">
-          <image src="CNX_Econ_C33_011.svg" mime-type="image/svg+xml" id="UUID1d2f19f8-c5d4-4c02-4ce2-3c750b7c4c27"></image>
-        </media>
+          <image mime-type="image/svg+xml" src="../../media/CNX_Econ_C33_011.svg" id="UUID1d2f19f8-c5d4-4c02-4ce2-3c750b7c4c27"/>
+             </media>
         <caption id="UUIDef598c4a-633a-4b2b-7353-337ad78e846c">Handel pozwala krajowi przesunąć się ponad krzywą krajowych możliwości produkcyjnych.</caption>
       </figure>
       <para id="UUIDe5e5008a-ea54-4182-6cab-be1428e1d45a">Zaczynając w punkcie C, który pokazuje produkcję saudyjskiej ropy równą 60 baryłkom, zmniejszymy krajowe zużycie ropy w Arabii o 20 baryłek, ponieważ właśnie taka ilość ropy jest eksportowana do Polski i wymieniana na 20 kwintali pszenicy. Umożliwia to Arabii przesunięcie się do punktu D, gdzie konsumpcja ropy naftowej wynosi obecnie 40 baryłek, a konsumpcja pszenicy wzrosła do 30 kwintali (zob. <link target-id="CNX_Econ_C33_011" id="UUIDa2e72474-2961-4f66-66ff-c584a986869d"></link>). Zauważ, że nawet bez stuprocentowej specjalizacji, jeśli cena względna, w tym przypadku 20 baryłek ropy za 20 kwintali pszenicy, jest wyższy niż koszt alternatywny krajowej produkcji, Saudyjczycy na handlu zyskają. Ponieważ punkt D (po dokonanej transakcji) znajduje się ponad krzywą możliwości produkcyjnych, dla Arabii Saudyjskiej handel jest korzystny.</para>

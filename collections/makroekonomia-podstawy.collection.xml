@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:system-info="http://cnx.rice.edu/system-info">
   <metadata>
-    <md:content-id>823ae3e1-57c4-44c5-b54a-310091040cf6</md:content-id>
-    <md:repository>adaptarr.naukosfera.com</md:repository>
     <md:title>Makroekonomia - Podstawy</md:title>
     <md:language>pl</md:language>
     <md:license url="https://creativecommons.org/licenses/by/4.0/deed.pl">
     Uznanie autorstwa (CC BY)
     </md:license>
-    <md:version>1694427917</md:version>
-    <md:created>2023-09-11T10:25:17.942663482+00:00</md:created>
-    <md:revised>2023-09-11T10:25:17.942663482+00:00</md:revised>
-    <md:actors>
-      <md:organization userid="adaptarr">
-        <md:fullname>Adaptarr!</md:fullname>
-        <md:homepage>adaptarr.naukosfera.com</md:homepage>
-        <md:shortname>Adaptarr</md:shortname>
-      </md:organization>
-    </md:actors>
-    <md:roles>
-      <md:role type="publishing-system">adaptarr</md:role>
-    </md:roles>
     <md:uuid>823ae3e1-57c4-44c5-b54a-310091040cf6</md:uuid>
     <md:slug>makroekonomia-podstawy</md:slug>
   </metadata>
